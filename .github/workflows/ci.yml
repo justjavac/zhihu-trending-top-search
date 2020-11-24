@@ -1,0 +1,50 @@
+name: ci
+
+on: [push, pull_request]
+
+jobs:
+  build:
+    name: ${{ matrix.kind }} ${{ matrix.os }}
+    runs-on: ${{ matrix.os }}
+    strategy:
+      matrix:
+        os: [macOS-latest, ubuntu-latest, windows-latest]
+
+      # Always run master branch builds to completion. This allows the cache to
+      # stay mostly up-to-date in situations where a single job fails due to
+      # e.g. a flaky test.
+      # Don't fast-fail on tag build because publishing binaries shouldn't be
+      # prevented if 'cargo publish' fails (which can be a false negative).
+      fail-fast:
+        ${{ github.event_name == 'pull_request' || (github.ref !=
+        'refs/heads/master' && !startsWith(github.ref, 'refs/tags/')) }}
+
+    steps:
+      - name: Clone repository
+        uses: actions/checkout@v2
+
+      - name: Install deno
+        uses: denolib/setup-deno@master
+
+      - name: Log versions
+        run: |
+          deno --version
+      - name: Run deno fmt
+        run: deno fmt --check
+
+      - name: Run deno lint
+        run: deno lint --unstable
+
+      # - name: Run deno test
+      #   run: deno test -A --unstable
+
+      - name: Release
+        uses: softprops/action-gh-release@v1
+        if: |
+          matrix.os == 'ubuntu-latest' &&
+          startsWith(github.repository, 'justjavac') && 
+          startsWith(github.ref, 'refs/tags/')
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          draft: true
