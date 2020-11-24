@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Nov 24 2020 13:03:36 GMT+0000 (UTC) -->
+<!-- 最后更新时间 Tue Nov 24 2020 14:04:04 GMT+0000 (UTC) -->
 1. [嫦娥五号发射成功](https://www.zhihu.com/search?q=嫦娥五号)
 1. [苹果掉出全球手机市场前三](https://www.zhihu.com/search?q=苹果)
 1. [特朗普《巴黎协定》](https://www.zhihu.com/search?q=特朗普)
@@ -23,9 +23,9 @@
 1. [汪涵何炅谢娜](https://www.zhihu.com/search?q=何炅)
 1. [男子捅死女友后藏尸冰柜](https://www.zhihu.com/search?q=男子捅死女友)
 1. [老太交医保被拒收现金](https://www.zhihu.com/search?q=老人医保)
-1. [包茂高速 43 车连撞](https://www.zhihu.com/search?q=包茂高速)
-1. [遭虐致死女子被安排阴婚](https://www.zhihu.com/search?q=不孕女子阴婚)
 1. [「北美猪头」](https://www.zhihu.com/search?q=北美猪头)
+1. [遭虐致死女子被安排阴婚](https://www.zhihu.com/search?q=不孕女子阴婚)
+1. [包茂高速 43 车连撞](https://www.zhihu.com/search?q=包茂高速)
 1. [帕特里克·奎恩去世](https://www.zhihu.com/search?q=冰桶挑战)
 1. [「猪蹄鸡爪」糖葫芦](https://www.zhihu.com/search?q=糖葫芦)
 1. [耗子尾汁公司成立](https://www.zhihu.com/search?q=耗子尾汁)
