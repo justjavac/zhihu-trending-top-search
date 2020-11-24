@@ -5,6 +5,10 @@
 
 知乎热搜榜，记录从 2020-11-24 日开始的知乎热搜榜单。
 
+## 相关项目
+
+- [知乎热门话题](https://github.com/justjavac/zhihu-trending-hot-questions)
+
 ## 今日热搜榜
 
 <!-- BEGIN -->
