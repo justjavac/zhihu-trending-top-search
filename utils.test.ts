@@ -2,7 +2,12 @@
 import { assertEquals, assertStringIncludes } from "std/testing/asserts.ts";
 import { SearchWord } from "./types.ts";
 
-import { mergeWords, createList,createArchive,createReadme } from "./utils.ts";
+import {
+  createArchive,
+  createList,
+  createReadme,
+  mergeWords,
+} from "./utils.ts";
 
 Deno.test("mergeWords", function (): void {
   const words1: SearchWord[] = [];
@@ -28,14 +33,14 @@ Deno.test("mergeWords", function (): void {
     { query: "hello", display_query: "world" },
     { query: "foo", display_query: "bar" },
   ]);
-    assertEquals(
-      mergeWords(words3, words5),
-      [
-          { query: "foo", display_query: "hello" },
-          { query: "foo", display_query: "bar" },
-          { query: "hello", display_query: "world" },
-        ],
-    );
+  assertEquals(
+    mergeWords(words3, words5),
+    [
+      { query: "foo", display_query: "hello" },
+      { query: "foo", display_query: "bar" },
+      { query: "hello", display_query: "world" },
+    ],
+  );
 });
 
 Deno.test("createList", function (): void {
@@ -44,11 +49,11 @@ Deno.test("createList", function (): void {
     { query: "hello", display_query: "world" },
   ];
 
-  assertStringIncludes(createList(words), '<!-- BEGIN -->');
-  assertStringIncludes(createList(words), '<!-- END -->');
-  assertStringIncludes(createList(words), 'foo');
-  assertStringIncludes(createList(words), 'world');
-  assertStringIncludes(createList(words), 'https://www.zhihu.com/search');
+  assertStringIncludes(createList(words), "<!-- BEGIN -->");
+  assertStringIncludes(createList(words), "<!-- END -->");
+  assertStringIncludes(createList(words), "foo");
+  assertStringIncludes(createList(words), "world");
+  assertStringIncludes(createList(words), "https://www.zhihu.com/search");
 });
 
 Deno.test("createArchive", function (): void {
@@ -57,8 +62,8 @@ Deno.test("createArchive", function (): void {
     { query: "hello", display_query: "world" },
   ];
 
-  assertStringIncludes(createArchive(words, '2020-02-02'), '# 2020-02-02');
-  assertStringIncludes(createArchive(words, '2020-02-02'), '共 2 条');
+  assertStringIncludes(createArchive(words, "2020-02-02"), "# 2020-02-02");
+  assertStringIncludes(createArchive(words, "2020-02-02"), "共 2 条");
 });
 
 Deno.test("createReadme", async function (): Promise<void> {
@@ -67,6 +72,6 @@ Deno.test("createReadme", async function (): Promise<void> {
     { query: "hello", display_query: "world" },
   ];
 
-  assertStringIncludes(await createReadme(words), '知乎');
-  assertStringIncludes(await createReadme(words), 'zhihu-trending-top-search');
+  assertStringIncludes(await createReadme(words), "知乎");
+  assertStringIncludes(await createReadme(words), "zhihu-trending-top-search");
 });
