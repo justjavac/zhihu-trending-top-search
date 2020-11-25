@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Nov 25 2020 20:04:56 GMT+0800 (CST) -->
+<!-- 最后更新时间 Wed Nov 25 2020 21:03:28 GMT+0800 (CST) -->
 1. [嫦娥五号发射成功](https://www.zhihu.com/search?q=嫦娥五号)
 1. [格莱美奖提名名单公布](https://www.zhihu.com/search?q=格莱美)
 1. [马斯克成全球第二大富豪](https://www.zhihu.com/search?q=马斯克)
@@ -22,9 +22,9 @@
 1. [国际反家暴日](https://www.zhihu.com/search?q=家暴)
 1. [「北美猪头」](https://www.zhihu.com/search?q=北美猪头)
 1. [最后生还者2获金摇杆奖 ](https://www.zhihu.com/search?q=金摇杆奖)
-1. [小米王嵋致歉并请辞](https://www.zhihu.com/search?q=小米王嵋)
 1. [老太交医保被拒收现金](https://www.zhihu.com/search?q=老人医保)
 1. [错换人生小伙留绝笔信](https://www.zhihu.com/search?q=错换人生)
+1. [小米王嵋致歉并请辞](https://www.zhihu.com/search?q=小米王嵋)
 1. [格莱美提名](https://www.zhihu.com/search?q=格莱美)
 1. [游戏「金摇杆奖」](https://www.zhihu.com/search?q=金摇杆奖)
 1. [台湾间谍在大陆被判 4 年](https://www.zhihu.com/search?q=台湾间谍)
