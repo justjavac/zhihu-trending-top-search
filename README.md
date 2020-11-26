@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Nov 27 2020 04:03:50 GMT+0800 (CST) -->
+<!-- 最后更新时间 Fri Nov 27 2020 05:03:25 GMT+0800 (CST) -->
 1. [马拉多纳因心脏骤停去世](https://www.zhihu.com/search?q=马拉多纳)
 1. [棋魂大结局](https://www.zhihu.com/search?q=棋魂)
 1. [2020 感恩节](https://www.zhihu.com/search?q=感恩节)
@@ -22,9 +22,9 @@
 1. [白夜追凶没有第二季](https://www.zhihu.com/search?q=白夜追凶第二季)
 1. [中国国药集团](https://www.zhihu.com/search?q=新冠疫苗)
 1. [万达清空海外地产项目](https://www.zhihu.com/search?q=万达)
-1. [格莱美奖提名名单公布](https://www.zhihu.com/search?q=格莱美)
-1. [饭圈文化入侵豆瓣](https://www.zhihu.com/search?q=豆瓣养号)
 1. [三百万房产送给水果摊主](https://www.zhihu.com/search?q=水果摊主)
+1. [饭圈文化入侵豆瓣](https://www.zhihu.com/search?q=豆瓣养号)
+1. [格莱美奖提名名单公布](https://www.zhihu.com/search?q=格莱美)
 <!-- END -->
 
 历史归档 [./archives](./archives)
