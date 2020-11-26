@@ -14,16 +14,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Nov 26 2020 11:03:54 GMT+0800 (CST) -->
+<!-- 最后更新时间 Thu Nov 26 2020 12:04:28 GMT+0800 (CST) -->
 1. [马拉多纳因心脏骤停去世](https://www.zhihu.com/search?q=马拉多纳)
-1. [格莱美奖提名名单公布](https://www.zhihu.com/search?q=格莱美)
+1. [2020 感恩节](https://www.zhihu.com/search?q=感恩节)
 1. [白夜追凶没有第二季](https://www.zhihu.com/search?q=白夜追凶第二季)
-1. [嫦娥五号发射成功](https://www.zhihu.com/search?q=嫦娥五号)
+1. [格莱美奖提名名单公布](https://www.zhihu.com/search?q=格莱美)
 1. [马斯克成全球第二大富豪](https://www.zhihu.com/search?q=马斯克)
 1. [中国国药集团](https://www.zhihu.com/search?q=新冠疫苗)
+1. [N号房主犯一审被判 40 年](https://www.zhihu.com/search?q=n号房)
 1. [最后生还者2获金摇杆奖 ](https://www.zhihu.com/search?q=金摇杆奖)
 1. [国际反家暴日](https://www.zhihu.com/search?q=家暴)
 1. [小米王嵋致歉并请辞](https://www.zhihu.com/search?q=小米王嵋)
+1. [嫦娥五号发射成功](https://www.zhihu.com/search?q=嫦娥五号)
 1. [错换人生小伙留绝笔信](https://www.zhihu.com/search?q=错换人生)
 1. [「北美猪头」](https://www.zhihu.com/search?q=北美猪头)
 <!-- END -->
