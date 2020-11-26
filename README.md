@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Nov 26 2020 23:03:42 GMT+0800 (CST) -->
+<!-- 最后更新时间 Fri Nov 27 2020 00:05:57 GMT+0800 (CST) -->
 1. [马拉多纳因心脏骤停去世](https://www.zhihu.com/search?q=马拉多纳)
 1. [2020 感恩节](https://www.zhihu.com/search?q=感恩节)
 1. [棋魂大结局](https://www.zhihu.com/search?q=棋魂)
@@ -25,16 +25,6 @@
 1. [格莱美奖提名名单公布](https://www.zhihu.com/search?q=格莱美)
 1. [饭圈文化入侵豆瓣](https://www.zhihu.com/search?q=豆瓣养号)
 1. [三百万房产送给水果摊主](https://www.zhihu.com/search?q=水果摊主)
-1. [小米王嵋致歉并请辞](https://www.zhihu.com/search?q=小米王嵋)
-1. [涉疫情进口冷冻牛肉](https://www.zhihu.com/search?q=天津疫情)
-1. [最后生还者 2 获金摇杆奖 ](https://www.zhihu.com/search?q=金摇杆奖)
-1. [国际反家暴日](https://www.zhihu.com/search?q=家暴)
-1. [错换人生小伙留绝笔信](https://www.zhihu.com/search?q=错换人生)
-1. [马斯克成全球第二大富豪](https://www.zhihu.com/search?q=马斯克)
-1. [N号房主犯一审被判 40 年](https://www.zhihu.com/search?q=n号房)
-1. [最后生还者2获金摇杆奖 ](https://www.zhihu.com/search?q=金摇杆奖)
-1. [嫦娥五号发射成功](https://www.zhihu.com/search?q=嫦娥五号)
-1. [「北美猪头」](https://www.zhihu.com/search?q=北美猪头)
 <!-- END -->
 
 历史归档 [./archives](./archives)
