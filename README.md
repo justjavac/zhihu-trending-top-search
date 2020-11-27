@@ -14,13 +14,13 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Nov 27 2020 16:04:53 GMT+0800 (CST) -->
-1. [马拉多纳因心脏骤停去世](https://www.zhihu.com/search?q=马拉多纳)
-1. [殡葬工与马拉多纳遗体自拍](https://www.zhihu.com/search?q=马拉多纳)
+<!-- 最后更新时间 Fri Nov 27 2020 17:04:17 GMT+0800 (CST) -->
 1. [毛洪涛溺亡调查结果公布](https://www.zhihu.com/search?q=毛洪涛)
+1. [殡葬工与马拉多纳遗体自拍](https://www.zhihu.com/search?q=马拉多纳)
+1. [马拉多纳因心脏骤停去世](https://www.zhihu.com/search?q=马拉多纳)
 1. [棋魂大结局](https://www.zhihu.com/search?q=棋魂)
-1. [红米 Note9 发布](https://www.zhihu.com/search?q=note9)
 1. [武汉理工学生](https://www.zhihu.com/search?q=王攀)
+1. [红米 Note9 发布](https://www.zhihu.com/search?q=note9)
 1. [2020 感恩节](https://www.zhihu.com/search?q=感恩节)
 1. [生日被叫回加班崩溃大哭](https://www.zhihu.com/search?q=生日加班)
 1. [饭圈文化入侵豆瓣](https://www.zhihu.com/search?q=豆瓣养号)
