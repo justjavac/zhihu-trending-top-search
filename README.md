@@ -14,16 +14,19 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Nov 27 2020 14:04:25 GMT+0800 (CST) -->
+<!-- 最后更新时间 Fri Nov 27 2020 15:03:48 GMT+0800 (CST) -->
 1. [马拉多纳因心脏骤停去世](https://www.zhihu.com/search?q=马拉多纳)
+1. [殡葬工与马拉多纳遗体自拍](https://www.zhihu.com/search?q=马拉多纳)
 1. [棋魂大结局](https://www.zhihu.com/search?q=棋魂)
+1. [武汉理工学生](https://www.zhihu.com/search?q=王攀)
+1. [特朗普称要离开白宫](https://www.zhihu.com/search?q=特朗普)
 1. [红米 Note9 发布](https://www.zhihu.com/search?q=note9)
 1. [2020 感恩节](https://www.zhihu.com/search?q=感恩节)
-1. [N 号房主犯一审被判 40 年](https://www.zhihu.com/search?q=n号房)
 1. [生日被叫回加班崩溃大哭](https://www.zhihu.com/search?q=生日加班)
+1. [饭圈文化入侵豆瓣](https://www.zhihu.com/search?q=豆瓣养号)
+1. [N 号房主犯一审被判 40 年](https://www.zhihu.com/search?q=n号房)
 1. [「一秒钟」](https://www.zhihu.com/search?q=一秒钟)
 1. [「流浪地球特别版」](https://www.zhihu.com/search?q=流浪地球)
-1. [饭圈文化入侵豆瓣](https://www.zhihu.com/search?q=豆瓣养号)
 1. [中国国药集团](https://www.zhihu.com/search?q=新冠疫苗)
 1. [白夜追凶没有第二季](https://www.zhihu.com/search?q=白夜追凶第二季)
 1. [内蒙古现聚集性疫情](https://www.zhihu.com/search?q=内蒙古疫情)
