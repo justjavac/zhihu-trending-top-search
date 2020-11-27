@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Nov 28 2020 01:03:27 GMT+0800 (CST) -->
+<!-- 最后更新时间 Sat Nov 28 2020 02:04:01 GMT+0800 (CST) -->
 1. [毛洪涛溺亡调查结果公布](https://www.zhihu.com/search?q=毛洪涛)
 1. [武汉理工学生](https://www.zhihu.com/search?q=王攀)
 1. [殡葬工与马拉多纳遗体自拍](https://www.zhihu.com/search?q=马拉多纳)
