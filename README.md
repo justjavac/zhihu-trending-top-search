@@ -14,13 +14,15 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Nov 28 2020 15:03:45 GMT+0800 (CST) -->
+<!-- 最后更新时间 Sat Nov 28 2020 16:04:45 GMT+0800 (CST) -->
 1. [王攀招研资格不予恢复](https://www.zhihu.com/search?q=王攀)
 1. [毛洪涛溺亡调查结果公布](https://www.zhihu.com/search?q=毛洪涛)
 1. [丁真为家乡四川拍宣传片](https://www.zhihu.com/search?q=丁真)
+1. [人民日报揭批马保国闹剧](https://www.zhihu.com/search?q=马保国)
 1. [殡葬工与马拉多纳遗体自拍](https://www.zhihu.com/search?q=马拉多纳)
 1. [电影《一秒钟》](https://www.zhihu.com/search?q=一秒钟)
 1. [棋魂大结局](https://www.zhihu.com/search?q=棋魂)
+1. [11 月 29 日国考 ](https://www.zhihu.com/search?q=国考)
 1. [特朗普称要离开白宫](https://www.zhihu.com/search?q=特朗普)
 1. [迪士尼计划裁员 32000 人](https://www.zhihu.com/search?q=迪士尼)
 1. [《流浪地球特别版》](https://www.zhihu.com/search?q=流浪地球)
