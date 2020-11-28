@@ -4,7 +4,7 @@ import { format } from "std/datetime/mod.ts";
 import { join } from "std/path/mod.ts";
 import { exists } from "std/fs/mod.ts";
 
-import { SearchWord, TopSearch } from "./types.ts";
+import type { SearchWord, TopSearch } from "./types.ts";
 import { createArchive, createReadme, mergeWords } from "./utils.ts";
 
 const response = await fetch("https://www.zhihu.com/api/v4/search/top_search");

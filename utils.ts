@@ -1,4 +1,4 @@
-import { SearchWord } from "./types.ts";
+import type { SearchWord } from "./types.ts";
 
 /** 合并两次关键词并根据 display_query 去重 */
 export function mergeWords(
