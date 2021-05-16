@@ -11,12 +11,12 @@ import {
 
 Deno.test("mergeWords", function (): void {
   const words1: SearchWord[] = [];
-  const words2: SearchWord[] = [{ query: "foo", displayQuery: "bar" }];
-  const words3: SearchWord[] = [{ query: "foo", displayQuery: "hello" }];
-  const words4: SearchWord[] = [{ query: "hello", displayQuery: "world" }];
+  const words2: SearchWord[] = [{ query: "foo", display_query: "bar" }];
+  const words3: SearchWord[] = [{ query: "foo", display_query: "hello" }];
+  const words4: SearchWord[] = [{ query: "hello", display_query: "world" }];
   const words5: SearchWord[] = [
-    { query: "foo", displayQuery: "bar" },
-    { query: "hello", displayQuery: "world" },
+    { query: "foo", display_query: "bar" },
+    { query: "hello", display_query: "world" },
   ];
 
   assertEquals(mergeWords(words1, words2), words2);
@@ -25,28 +25,28 @@ Deno.test("mergeWords", function (): void {
   assertEquals(
     mergeWords(words2, words3),
     [
-      { query: "foo", displayQuery: "bar" },
-      { query: "foo", displayQuery: "hello" },
+      { query: "foo", display_query: "bar" },
+      { query: "foo", display_query: "hello" },
     ],
   );
   assertEquals(mergeWords(words4, words5), [
-    { query: "hello", displayQuery: "world" },
-    { query: "foo", displayQuery: "bar" },
+    { query: "hello", display_query: "world" },
+    { query: "foo", display_query: "bar" },
   ]);
   assertEquals(
     mergeWords(words3, words5),
     [
-      { query: "foo", displayQuery: "hello" },
-      { query: "foo", displayQuery: "bar" },
-      { query: "hello", displayQuery: "world" },
+      { query: "foo", display_query: "hello" },
+      { query: "foo", display_query: "bar" },
+      { query: "hello", display_query: "world" },
     ],
   );
 });
 
 Deno.test("createList", function (): void {
   const words: SearchWord[] = [
-    { query: "foo", displayQuery: "bar" },
-    { query: "hello", displayQuery: "world" },
+    { query: "foo", display_query: "bar" },
+    { query: "hello", display_query: "world" },
   ];
 
   assertStringIncludes(createList(words), "<!-- BEGIN -->");
@@ -58,8 +58,8 @@ Deno.test("createList", function (): void {
 
 Deno.test("createArchive", function (): void {
   const words: SearchWord[] = [
-    { query: "foo", displayQuery: "bar" },
-    { query: "hello", displayQuery: "world" },
+    { query: "foo", display_query: "bar" },
+    { query: "hello", display_query: "world" },
   ];
 
   assertStringIncludes(createArchive(words, "2020-02-02"), "# 2020-02-02");
@@ -68,8 +68,8 @@ Deno.test("createArchive", function (): void {
 
 Deno.test("createReadme", async function (): Promise<void> {
   const words: SearchWord[] = [
-    { query: "foo", displayQuery: "bar" },
-    { query: "hello", displayQuery: "world" },
+    { query: "foo", display_query: "bar" },
+    { query: "hello", display_query: "world" },
   ];
 
   assertStringIncludes(await createReadme(words), "知乎");
