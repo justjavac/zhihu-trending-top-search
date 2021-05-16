@@ -7,11 +7,11 @@ export function mergeWords(
 ): SearchWord[] {
   const obj: Record<string, string> = {};
   for (const w of words.concat(another)) {
-    obj[w.displayQuery] = w.query;
+    obj[w.display_query] = w.query;
   }
-  return Object.entries(obj).map(([displayQuery, query]) => ({
+  return Object.entries(obj).map(([display_query, query]) => ({
     query,
-    displayQuery,
+    display_query,
   }));
 }
 

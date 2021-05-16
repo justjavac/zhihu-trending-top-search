@@ -1,6 +1,6 @@
 export type SearchWord = {
   query: string;
-  displayQuery: string;
+  display_query: string;
 };
 
 export type TopSearch = {
