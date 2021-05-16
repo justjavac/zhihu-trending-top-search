@@ -1,6 +1,8 @@
 [
+  { "query": "以色列", "display_query": "以色列轰炸加沙媒体大楼" },
   { "query": "天问一号", "display_query": "天问一号成功登陆火星" },
   { "query": "灵笼", "display_query": "《灵笼》特别篇" },
+  { "query": "叶飞", "display_query": "叶飞曝 18 家上市公司操纵股价" },
   { "query": "剧本杀", "display_query": "剧本杀门店大量倒闭" },
   { "query": "第十一回", "display_query": "《第十一回》网络首播" },
   { "query": "武汉龙卷风", "display_query": "武汉遭遇 EF2 级龙卷风" },
