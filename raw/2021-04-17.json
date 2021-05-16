@@ -1,0 +1,20 @@
+[
+  { "query": "海底捞", "display_query": "门店回应 17 元吃海底捞" },
+  { "query": "华为自动驾驶", "display_query": "华为自动驾驶公开试乘" },
+  { "query": "原神", "display_query": "原神 1.5 版本前瞻" },
+  { "query": "冰岛", "display_query": "中方对冰岛有关人员实施制裁" },
+  { "query": "名侦探柯南：绯色的子弹", "display_query": "柯南最新剧场版上映" },
+  { "query": "五一火车票", "display_query": "五一火车票开抢" },
+  { "query": "武大", "display_query": "武大骚扰学生副教授被解聘" },
+  { "query": "唐山地震", "display_query": "河北唐山 4.3 级地震" },
+  { "query": "胖东来", "display_query": "胖东来下架元气森林" },
+  { "query": "香水迷药", "display_query": "警方回应女子被香水男下药" },
+  { "query": "群星", "display_query": "《群星》新 DLC" },
+  { "query": "养老金上涨", "display_query": "2021 年养老金上涨 4.5%" },
+  { "query": "任豪", "display_query": "任豪就不当发言道歉" },
+  { "query": "社区团购", "display_query": "社区团购高薪抢人" },
+  { "query": "张雨绮", "display_query": "张雨绮李柄熹恋情曝光" },
+  { "query": "罗永浩", "display_query": "罗永浩再回应被强制执行" },
+  { "query": "李宁", "display_query": "李宁回应天价鞋" },
+  { "query": "江歌案", "display_query": "刘鑫方称对江歌遇害不担责" }
+]

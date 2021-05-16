@@ -1,0 +1,19 @@
+[
+  { "query": "春晚", "display_query": "春晚看点啥？" },
+  { "query": "唐探3", "display_query": "唐人街探案三" },
+  { "query": "李焕英", "display_query": "你好，李焕英" },
+  { "query": "刺杀小说家好看吗", "display_query": "刺杀小说家" },
+  { "query": "新年头像", "display_query": "春节头像推荐" },
+  { "query": "侍神令好看吗", "display_query": "侍神令好看吗？" },
+  { "query": "春节档电影", "display_query": "春节档电影" },
+  { "query": "家庭群聊名称", "display_query": "创意家庭群聊名称" },
+  { "query": "初一拜年", "display_query": "怎么拜年才不尴尬" },
+  { "query": "小林化工", "display_query": "日药企小林化工造假 40 年" },
+  { "query": "支付宝五福", "display_query": "支付宝五福开奖" },
+  { "query": "拜年表情包", "display_query": "拜年表情包来袭" },
+  { "query": "抵制b站", "display_query": "B 站被部分品牌方拉黑" },
+  { "query": "春节祝福文案", "display_query": "春节祝福文案" },
+  { "query": "除夕文案", "display_query": "除夕文案准备好了吗？" },
+  { "query": "b站回应", "display_query": "B 站回应被抵制事件" },
+  { "query": "天问一号", "display_query": "「天问一号」进入环火轨道" }
+]
