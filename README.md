@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon May 17 2021 06:07:39 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon May 17 2021 07:07:23 GMT+0800 (China Standard Time) -->
 
 1. [以色列轰炸加沙媒体大楼](https://www.zhihu.com/search?q=以色列)
 2. [叶飞曝 18 家上市公司操纵股价](https://www.zhihu.com/search?q=叶飞)
@@ -23,8 +23,8 @@
 5. [《第十一回》网络首播](https://www.zhihu.com/search?q=第十一回)
 6. [《海贼王》 1013 话](https://www.zhihu.com/search?q=海贼王)
 7. [武汉遭遇 EF2 级龙卷风](https://www.zhihu.com/search?q=武汉龙卷风)
-8. [腾讯游戏年度发布会](https://www.zhihu.com/search?q=腾讯游戏)
-9. [华为充电器抽检乌龙](https://www.zhihu.com/search?q=华为充电器)
+8. [华为充电器抽检乌龙](https://www.zhihu.com/search?q=华为充电器)
+9. [腾讯游戏年度发布会](https://www.zhihu.com/search?q=腾讯游戏)
 10. [辽宁新增病例曾去鲅鱼圈旅游](https://www.zhihu.com/search?q=辽宁新增)
 
 <!-- END -->
