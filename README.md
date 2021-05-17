@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue May 18 2021 00:16:51 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue May 18 2021 01:37:26 GMT+0800 (China Standard Time) -->
 
 1. [殷世航快手账号被封禁](https://www.zhihu.com/search?q=殷世航)
 2. [以色列轰炸加沙媒体大楼](https://www.zhihu.com/search?q=以色列)
