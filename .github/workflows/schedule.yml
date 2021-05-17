@@ -28,4 +28,4 @@ jobs:
           deno fmt
           git add .
           git commit -m "update by github action"
-          git push
+          git push -f
