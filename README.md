@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue May 18 2021 23:07:16 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed May 19 2021 00:15:51 GMT+0800 (China Standard Time) -->
 
 1. [曹县县长回应走红](https://www.zhihu.com/search?q=曹县)
 2. [浙江一特斯拉撞倒两名交警](https://www.zhihu.com/search?q=特斯拉)
@@ -23,21 +23,9 @@
 5. [台湾医院爆发院内感染](https://www.zhihu.com/search?q=台湾疫情)
 6. [天鹅座万年前讯息被捕获](https://www.zhihu.com/search?q=天鹅座)
 7. [华强北赛格大楼发生晃动](https://www.zhihu.com/search?q=华强北)
-8. [进击的巨人加页全出炉](https://www.zhihu.com/search?q=进击的巨人)
-9. [《原神》新角色优菈演示](https://www.zhihu.com/search?q=原神)
-10. [鸿蒙系统将支持第三方手机](https://www.zhihu.com/search?q=鸿蒙系统)
-11. [马斯克欲提高狗狗币交易效率](https://www.zhihu.com/search?q=马斯克)
-12. [518 国际博物馆日](https://www.zhihu.com/search?q=博物馆日)
-13. [恒河不断出现疑似病患浮尸](https://www.zhihu.com/search?q=恒河)
-14. [孙杨案重审听证会不公开举行](https://www.zhihu.com/search?q=孙杨)
-15. [我国 5G 终端连接数达 2.8 亿](https://www.zhihu.com/search?q=5g)
-16. [台湾单日新增 333 例本土确诊](https://www.zhihu.com/search?q=台湾疫情)
-17. [31 省市区新增 5 例本土确诊](https://www.zhihu.com/search?q=31省市区新增)
-18. [以色列轰炸加沙媒体大楼](https://www.zhihu.com/search?q=以色列)
-19. [腾讯游戏年度发布会](https://www.zhihu.com/search?q=腾讯游戏)
-20. [饿了么被罚 50 万](https://www.zhihu.com/search?q=饿了么)
-21. [叶飞曝 18 家上市公司操纵股价](https://www.zhihu.com/search?q=叶飞)
-22. [微软调查盖茨与女员工关系](https://www.zhihu.com/search?q=比尔盖茨)
+8. [《原神》新角色优菈演示](https://www.zhihu.com/search?q=原神)
+9. [鸿蒙系统将支持第三方手机](https://www.zhihu.com/search?q=鸿蒙系统)
+10. [马斯克欲提高狗狗币交易效率](https://www.zhihu.com/search?q=马斯克)
 
 <!-- END -->
 
