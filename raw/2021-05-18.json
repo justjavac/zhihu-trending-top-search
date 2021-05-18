@@ -2,11 +2,13 @@
   { "query": "殷世航", "display_query": "殷世航快手账号被封禁" },
   { "query": "以色列", "display_query": "以色列轰炸加沙媒体大楼" },
   { "query": "台湾疫情", "display_query": "台湾单日新增 333 例本土确诊" },
-  { "query": "叶飞", "display_query": "叶飞曝 18 家上市公司操纵股价" },
-  { "query": "天鹅座", "display_query": "天鹅座万年前讯息被捕获" },
-  { "query": "比尔盖茨", "display_query": "微软调查盖茨与女员工关系" },
   { "query": "原神", "display_query": "《原神》新角色优菈演示" },
+  { "query": "天鹅座", "display_query": "天鹅座万年前讯息被捕获" },
   { "query": "马斯克", "display_query": "马斯克欲提高狗狗币交易效率" },
   { "query": "恒河", "display_query": "恒河不断出现疑似病患浮尸" },
-  { "query": "31省市区新增", "display_query": "31 省市区新增 5 例本土确诊" }
+  { "query": "31省市区新增", "display_query": "31 省市区新增 5 例本土确诊" },
+  { "query": "腾讯游戏", "display_query": "腾讯游戏年度发布会" },
+  { "query": "饿了么", "display_query": "饿了么被罚 50 万" },
+  { "query": "叶飞", "display_query": "叶飞曝 18 家上市公司操纵股价" },
+  { "query": "比尔盖茨", "display_query": "微软调查盖茨与女员工关系" }
 ]
