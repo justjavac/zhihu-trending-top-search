@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed May 19 2021 21:20:52 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed May 19 2021 22:06:47 GMT+0800 (China Standard Time) -->
 
 1. [新垣结衣和星野源结婚](https://www.zhihu.com/search?q=新垣结衣结婚)
 2. [曹县县长回应走红](https://www.zhihu.com/search?q=曹县)
@@ -22,8 +22,8 @@
 4. [浙江一特斯拉撞倒两名交警](https://www.zhihu.com/search?q=特斯拉)
 5. [台湾医院爆发院内感染](https://www.zhihu.com/search?q=台湾疫情)
 6. [进击的巨人加页全出炉](https://www.zhihu.com/search?q=进击的巨人)
-7. [盖茨承认曾与女员工婚外情](https://www.zhihu.com/search?q=比尔盖茨)
-8. [日媒曝石原里美或退圈从政](https://www.zhihu.com/search?q=石原里美)
+7. [日媒曝石原里美或退圈从政](https://www.zhihu.com/search?q=石原里美)
+8. [盖茨承认曾与女员工婚外情](https://www.zhihu.com/search?q=比尔盖茨)
 9. [林书豪谈无法重返 NBA](https://www.zhihu.com/search?q=林书豪)
 10. [鸿蒙系统将支持第三方手机](https://www.zhihu.com/search?q=鸿蒙系统)
 11. [华强北赛格大楼发生晃动](https://www.zhihu.com/search?q=华强北)
