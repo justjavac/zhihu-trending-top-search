@@ -14,22 +14,23 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed May 19 2021 17:07:28 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed May 19 2021 18:07:15 GMT+0800 (China Standard Time) -->
 
 1. [曹县县长回应走红](https://www.zhihu.com/search?q=曹县)
 2. [浙江一特斯拉撞倒两名交警](https://www.zhihu.com/search?q=特斯拉)
-3. [台湾医院爆发院内感染](https://www.zhihu.com/search?q=台湾疫情)
-4. [新垣结衣和星野源结婚](https://www.zhihu.com/search?q=新垣结衣结婚)
+3. [新垣结衣和星野源结婚](https://www.zhihu.com/search?q=新垣结衣结婚)
+4. [台湾医院爆发院内感染](https://www.zhihu.com/search?q=台湾疫情)
 5. [盖茨承认曾与女员工婚外情](https://www.zhihu.com/search?q=比尔盖茨)
 6. [进击的巨人加页全出炉](https://www.zhihu.com/search?q=进击的巨人)
-7. [华强北赛格大楼发生晃动](https://www.zhihu.com/search?q=华强北)
-8. [《原神》新角色优菈演示](https://www.zhihu.com/search?q=原神)
-9. [鸿蒙系统将支持第三方手机](https://www.zhihu.com/search?q=鸿蒙系统)
-10. [林书豪谈无法重返 NBA](https://www.zhihu.com/search?q=林书豪)
-11. [殷世航快手账号被封禁](https://www.zhihu.com/search?q=殷世航)
-12. [特朗普集团被刑事调查](https://www.zhihu.com/search?q=特朗普)
-13. [天鹅座万年前讯息被捕获](https://www.zhihu.com/search?q=天鹅座)
-14. [马斯克欲提高狗狗币交易效率](https://www.zhihu.com/search?q=马斯克)
+7. [日媒曝石原里美或退圈从政](https://www.zhihu.com/search?q=石原里美)
+8. [华强北赛格大楼发生晃动](https://www.zhihu.com/search?q=华强北)
+9. [林书豪谈无法重返 NBA](https://www.zhihu.com/search?q=林书豪)
+10. [鸿蒙系统将支持第三方手机](https://www.zhihu.com/search?q=鸿蒙系统)
+11. [《原神》新角色优菈演示](https://www.zhihu.com/search?q=原神)
+12. [殷世航快手账号被封禁](https://www.zhihu.com/search?q=殷世航)
+13. [特朗普集团被刑事调查](https://www.zhihu.com/search?q=特朗普)
+14. [天鹅座万年前讯息被捕获](https://www.zhihu.com/search?q=天鹅座)
+15. [马斯克欲提高狗狗币交易效率](https://www.zhihu.com/search?q=马斯克)
 
 <!-- END -->
 
