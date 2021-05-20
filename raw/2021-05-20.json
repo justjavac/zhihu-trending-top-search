@@ -1,4 +1,5 @@
 [
+  { "query": "520文案", "display_query": "520 文案" },
   { "query": "曹县", "display_query": "曹县县长回应走红" },
   { "query": "赛格大厦", "display_query": "深圳赛格大厦晃动原因查明" },
   { "query": "新垣结衣结婚", "display_query": "新垣结衣和星野源结婚" },
@@ -6,7 +7,8 @@
   { "query": "特斯拉", "display_query": "浙江一特斯拉撞倒两名交警" },
   { "query": "台湾疫情", "display_query": "台湾医院爆发院内感染" },
   { "query": "进击的巨人", "display_query": "进击的巨人加页全出炉" },
-  { "query": "比尔盖茨", "display_query": "盖茨承认曾与女员工婚外情" },
   { "query": "林书豪", "display_query": "林书豪谈无法重返 NBA" },
+  { "query": "祝融号火星照片", "display_query": "祝融号传回火星照片" },
+  { "query": "比尔盖茨", "display_query": "盖茨承认曾与女员工婚外情" },
   { "query": "鸿蒙系统", "display_query": "鸿蒙系统将支持第三方手机" }
 ]
