@@ -14,11 +14,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat May 22 2021 01:41:24 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat May 22 2021 02:26:28 GMT+0800 (China Standard Time) -->
 
-1. [520 文案](https://www.zhihu.com/search?q=520文案)
-2. [赛格大厦晃动原因初步查明](https://www.zhihu.com/search?q=赛格大厦)
-3. [云南大理漾濞 6.4 级地震](https://www.zhihu.com/search?q=云南地震)
+1. [云南大理漾濞 6.4 级地震](https://www.zhihu.com/search?q=云南地震)
+2. [520 文案](https://www.zhihu.com/search?q=520文案)
+3. [赛格大厦晃动原因初步查明](https://www.zhihu.com/search?q=赛格大厦)
 4. [窥探大结局](https://www.zhihu.com/search?q=窥探)
 5. [虚拟货币全线暴跌](https://www.zhihu.com/search?q=币圈崩盘)
 6. [精灵耳 整容](https://www.zhihu.com/search?q=精灵耳)
