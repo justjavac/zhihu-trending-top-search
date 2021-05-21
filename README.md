@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat May 22 2021 03:23:28 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat May 22 2021 04:07:45 GMT+0800 (China Standard Time) -->
 
 1. [云南大理漾濞 6.4 级地震](https://www.zhihu.com/search?q=云南地震)
 2. [赛格大厦晃动原因初步查明](https://www.zhihu.com/search?q=赛格大厦)
