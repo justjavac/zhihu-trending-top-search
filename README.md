@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun May 23 2021 22:06:14 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun May 23 2021 23:06:43 GMT+0800 (China Standard Time) -->
 
 1. [袁隆平逝世](https://www.zhihu.com/search?q=袁隆平)
 2. [甘肃马拉松越野赛遭遇极端天气](https://www.zhihu.com/search?q=甘肃马拉松)
@@ -24,15 +24,16 @@
 6. [青海果洛州 7.4 级地震](https://www.zhihu.com/search?q=青海地震)
 7. [「祝融号」火星车成功驶上火星表面](https://www.zhihu.com/search?q=祝融号)
 8. [英雄联盟季中赛半决赛 DK 险胜 MAD](https://www.zhihu.com/search?q=英雄联盟)
-9. [云南大理漾濞 6.4 级地震](https://www.zhihu.com/search?q=云南地震)
-10. [独行侠113:103力克快船](https://www.zhihu.com/search?q=独行侠)
-11. [P 社新作《维多利亚 3 》](https://www.zhihu.com/search?q=维多利亚 3)
-12. [大连一宝马车撞击人行横道行人](https://www.zhihu.com/search?q=大连车祸)
-13. [甘肃马拉松遭遇极端天气](https://www.zhihu.com/search?q=甘肃马拉松)
-14. [精灵耳 整容](https://www.zhihu.com/search?q=精灵耳)
-15. [一人之下 527 话](https://www.zhihu.com/search?q=一人之下)
-16. [哈马斯与以色列宣布停火](https://www.zhihu.com/search?q=以色列哈马斯)
-17. [广州发现核酸疑似阳性人员](https://www.zhihu.com/search?q=广州核酸疑似阳性)
+9. [独行侠113:103力克快船](https://www.zhihu.com/search?q=独行侠)
+10. [澳洲爆发四十年来最严重鼠灾](https://www.zhihu.com/search?q=澳大利亚鼠灾)
+11. [云南大理漾濞 6.4 级地震](https://www.zhihu.com/search?q=云南地震)
+12. [P 社新作《维多利亚 3 》](https://www.zhihu.com/search?q=维多利亚 3)
+13. [大连一宝马车撞击人行横道行人](https://www.zhihu.com/search?q=大连车祸)
+14. [甘肃马拉松遭遇极端天气](https://www.zhihu.com/search?q=甘肃马拉松)
+15. [精灵耳 整容](https://www.zhihu.com/search?q=精灵耳)
+16. [一人之下 527 话](https://www.zhihu.com/search?q=一人之下)
+17. [哈马斯与以色列宣布停火](https://www.zhihu.com/search?q=以色列哈马斯)
+18. [广州发现核酸疑似阳性人员](https://www.zhihu.com/search?q=广州核酸疑似阳性)
 
 <!-- END -->
 
