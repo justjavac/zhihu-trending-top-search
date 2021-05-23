@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun May 23 2021 21:22:44 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun May 23 2021 22:06:14 GMT+0800 (China Standard Time) -->
 
 1. [袁隆平逝世](https://www.zhihu.com/search?q=袁隆平)
 2. [甘肃马拉松越野赛遭遇极端天气](https://www.zhihu.com/search?q=甘肃马拉松)
