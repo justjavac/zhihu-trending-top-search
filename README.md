@@ -14,20 +14,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon May 24 2021 13:21:53 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon May 24 2021 14:11:03 GMT+0800 (China Standard Time) -->
 
-1. [甘肃马拉松越野赛遭遇极端天气](https://www.zhihu.com/search?q=甘肃马拉松)
-2. [大连轿车撞人逃逸致 5 死](https://www.zhihu.com/search?q=大连车祸)
-3. [英雄联盟季中赛半决赛 DK 险胜 MAD](https://www.zhihu.com/search?q=英雄联盟)
-4. [90 后女子为买房竟在网上招嫖](https://www.zhihu.com/search?q=杭州买房)
-5. [吴孟超逝世](https://www.zhihu.com/search?q=吴孟超)
-6. [「祝融号」火星车成功驶上火星表面](https://www.zhihu.com/search?q=祝融号)
-7. [澳洲爆发四十年来最严重鼠灾](https://www.zhihu.com/search?q=澳大利亚鼠灾)
-8. [独行侠113:103力克快船](https://www.zhihu.com/search?q=独行侠)
-9. [P 社新作《维多利亚 3 》](https://www.zhihu.com/search?q=维多利亚 3)
-10. [乌合麒麟新作缅怀袁隆平](https://www.zhihu.com/search?q=乌合麒麟新作)
-11. [袁隆平逝世](https://www.zhihu.com/search?q=袁隆平)
-12. [青海果洛州 7.4 级地震](https://www.zhihu.com/search?q=青海地震)
+1. [大连轿车撞人逃逸致 5 死](https://www.zhihu.com/search?q=大连车祸)
+2. [英雄联盟季中赛半决赛 DK 险胜 MAD](https://www.zhihu.com/search?q=英雄联盟)
+3. [90 后女子为买房竟在网上招嫖](https://www.zhihu.com/search?q=杭州买房)
+4. [吴孟超逝世](https://www.zhihu.com/search?q=吴孟超)
+5. [RNG 夺冠](https://www.zhihu.com/search?q=rng)
+6. [乌合麒麟新作缅怀袁隆平](https://www.zhihu.com/search?q=乌合麒麟新作)
+7. [独行侠113:103力克快船](https://www.zhihu.com/search?q=独行侠)
+8. [P 社新作《维多利亚 3 》](https://www.zhihu.com/search?q=维多利亚 3)
+9. [澳洲爆发四十年来最严重鼠灾](https://www.zhihu.com/search?q=澳大利亚鼠灾)
+10. [甘肃马拉松越野赛遭遇极端天气](https://www.zhihu.com/search?q=甘肃马拉松)
+11. [「祝融号」火星车成功驶上火星表面](https://www.zhihu.com/search?q=祝融号)
+12. [袁隆平逝世](https://www.zhihu.com/search?q=袁隆平)
+13. [青海果洛州 7.4 级地震](https://www.zhihu.com/search?q=青海地震)
 
 <!-- END -->
 
