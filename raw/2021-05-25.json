@@ -2,11 +2,12 @@
   { "query": "rng", "display_query": "RNG 夺冠" },
   { "query": "大连车祸", "display_query": "大连轿车撞人逃逸致 5 死" },
   { "query": "甘肃马拉松", "display_query": "甘肃马拉松越野赛遭遇极端天气" },
-  { "query": "吴孟超", "display_query": "吴孟超灵堂放的是国际歌" },
   { "query": "翟天临", "display_query": "翟天临发文回复网友" },
+  { "query": "吴孟超", "display_query": "吴孟超灵堂放的是国际歌" },
   { "query": "英雄联盟", "display_query": "英雄联盟季中赛半决赛 DK 险胜 MAD" },
   { "query": "乌合麒麟新作", "display_query": "乌合麒麟新作缅怀袁隆平" },
   { "query": "金融委打击比特币", "display_query": "金融委打击比特币挖矿和交易行为" },
   { "query": "河北中学砍人", "display_query": "河北一中学发生砍人事件" },
+  { "query": "京东罚款", "display_query": "京东因不正当竞争被罚 30 万" },
   { "query": "独行侠", "display_query": "独行侠113:103力克快船" }
 ]
