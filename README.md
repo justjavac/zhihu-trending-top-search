@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon May 24 2021 12:21:20 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon May 24 2021 13:21:53 GMT+0800 (China Standard Time) -->
 
 1. [甘肃马拉松越野赛遭遇极端天气](https://www.zhihu.com/search?q=甘肃马拉松)
 2. [大连轿车撞人逃逸致 5 死](https://www.zhihu.com/search?q=大连车祸)
@@ -25,8 +25,9 @@
 7. [澳洲爆发四十年来最严重鼠灾](https://www.zhihu.com/search?q=澳大利亚鼠灾)
 8. [独行侠113:103力克快船](https://www.zhihu.com/search?q=独行侠)
 9. [P 社新作《维多利亚 3 》](https://www.zhihu.com/search?q=维多利亚 3)
-10. [袁隆平逝世](https://www.zhihu.com/search?q=袁隆平)
-11. [青海果洛州 7.4 级地震](https://www.zhihu.com/search?q=青海地震)
+10. [乌合麒麟新作缅怀袁隆平](https://www.zhihu.com/search?q=乌合麒麟新作)
+11. [袁隆平逝世](https://www.zhihu.com/search?q=袁隆平)
+12. [青海果洛州 7.4 级地震](https://www.zhihu.com/search?q=青海地震)
 
 <!-- END -->
 
