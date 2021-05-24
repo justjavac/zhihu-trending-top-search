@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue May 25 2021 05:06:32 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue May 25 2021 06:08:00 GMT+0800 (China Standard Time) -->
 
 1. [大连轿车撞人逃逸致 5 死](https://www.zhihu.com/search?q=大连车祸)
 2. [甘肃马拉松越野赛遭遇极端天气](https://www.zhihu.com/search?q=甘肃马拉松)
