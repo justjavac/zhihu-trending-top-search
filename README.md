@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed May 26 2021 01:57:30 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed May 26 2021 02:44:11 GMT+0800 (China Standard Time) -->
 
 1. [翟天临发文回复网友](https://www.zhihu.com/search?q=翟天临)
 2. [iOS14.6](https://www.zhihu.com/search?q=ios14.6)
