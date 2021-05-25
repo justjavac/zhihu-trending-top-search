@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue May 25 2021 21:31:16 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue May 25 2021 22:15:18 GMT+0800 (China Standard Time) -->
 
 1. [翟天临发文回复网友](https://www.zhihu.com/search?q=翟天临)
 2. [iOS14.6](https://www.zhihu.com/search?q=ios14.6)
@@ -24,8 +24,8 @@
 6. [鸿蒙手机要来了](https://www.zhihu.com/search?q=华为鸿蒙)
 7. [乌合麒麟新作缅怀袁隆平](https://www.zhihu.com/search?q=乌合麒麟新作)
 8. [金融委打击比特币挖矿和交易行为](https://www.zhihu.com/search?q=金融委打击比特币)
-9. [河北一中学发生砍人事件](https://www.zhihu.com/search?q=河北中学砍人)
-10. [四川一食品厂疑似发生有害气体中毒致 7 死](https://www.zhihu.com/search?q=四川食品厂)
+9. [四川一食品厂疑似发生有害气体中毒致 7 死](https://www.zhihu.com/search?q=四川食品厂)
+10. [河北一中学发生砍人事件](https://www.zhihu.com/search?q=河北中学砍人)
 11. [京东因不正当竞争被罚 30 万](https://www.zhihu.com/search?q=京东罚款)
 12. [英雄联盟季中赛半决赛 DK 险胜 MAD](https://www.zhihu.com/search?q=英雄联盟)
 13. [大连轿车撞人逃逸致 5 死](https://www.zhihu.com/search?q=大连车祸)
