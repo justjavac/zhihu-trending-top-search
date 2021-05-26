@@ -14,19 +14,20 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed May 26 2021 12:01:44 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed May 26 2021 13:39:48 GMT+0800 (China Standard Time) -->
 
 1. [iOS14.6](https://www.zhihu.com/search?q=ios14.6)
 2. [翟天临发文回复网友](https://www.zhihu.com/search?q=翟天临)
 3. [吴孟超灵堂放的是国际歌](https://www.zhihu.com/search?q=吴孟超)
 4. [广州确诊病例密接者](https://www.zhihu.com/search?q=广州疫情)
 5. [鸿蒙手机要来了](https://www.zhihu.com/search?q=华为鸿蒙)
-6. [RNG 夺冠](https://www.zhihu.com/search?q=rng)
-7. [武汉公交车](https://www.zhihu.com/search?q=武汉公交车)
-8. [乌合麒麟新作缅怀袁隆平](https://www.zhihu.com/search?q=乌合麒麟新作)
-9. [金融委打击比特币挖矿和交易行为](https://www.zhihu.com/search?q=金融委打击比特币)
-10. [四川一食品厂疑似发生有害气体中毒致 7 死](https://www.zhihu.com/search?q=四川食品厂)
-11. [河北一中学发生砍人事件](https://www.zhihu.com/search?q=河北中学砍人)
+6. [武汉公交车](https://www.zhihu.com/search?q=武汉公交车)
+7. [金融委打击比特币挖矿和交易行为](https://www.zhihu.com/search?q=金融委打击比特币)
+8. [四川一食品厂疑似发生有害气体中毒致 7 死](https://www.zhihu.com/search?q=四川食品厂)
+9. [2021 高考招生变化](https://www.zhihu.com/search?q=高考招生)
+10. [河北一中学发生砍人事件](https://www.zhihu.com/search?q=河北中学砍人)
+11. [RNG 夺冠](https://www.zhihu.com/search?q=rng)
+12. [乌合麒麟新作缅怀袁隆平](https://www.zhihu.com/search?q=乌合麒麟新作)
 
 <!-- END -->
 
