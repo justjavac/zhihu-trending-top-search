@@ -14,17 +14,17 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed May 26 2021 18:20:08 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed May 26 2021 19:18:04 GMT+0800 (China Standard Time) -->
 
-1. [iOS14.6](https://www.zhihu.com/search?q=ios14.6)
+1. [广州确诊病例密接者](https://www.zhihu.com/search?q=广州疫情)
 2. [翟天临发文回复网友](https://www.zhihu.com/search?q=翟天临)
-3. [广州确诊病例密接者](https://www.zhihu.com/search?q=广州疫情)
+3. [iOS14.6](https://www.zhihu.com/search?q=ios14.6)
 4. [雄安被确认为婚俗改革实验区](https://www.zhihu.com/search?q=雄安)
 5. [鸿蒙手机要来了](https://www.zhihu.com/search?q=华为鸿蒙)
 6. [武汉公交车](https://www.zhihu.com/search?q=武汉公交车)
-7. [翟天临回复近期被骂事件](https://www.zhihu.com/search?q=翟天临回复)
-8. [四川一食品厂疑似发生有害气体中毒致 7 死](https://www.zhihu.com/search?q=四川食品厂)
-9. [2021 高考招生变化](https://www.zhihu.com/search?q=高考招生)
+7. [四川一食品厂疑似发生有害气体中毒致 7 死](https://www.zhihu.com/search?q=四川食品厂)
+8. [2021 高考招生变化](https://www.zhihu.com/search?q=高考招生)
+9. [翟天临回复近期被骂事件](https://www.zhihu.com/search?q=翟天临回复)
 10. [小米被移出美国制裁清单](https://www.zhihu.com/search?q=小米美国和解)
 11. [河南一男子报复社会](https://www.zhihu.com/search?q=河南男子)
 12. [金融委打击比特币挖矿和交易行为](https://www.zhihu.com/search?q=金融委打击比特币)
