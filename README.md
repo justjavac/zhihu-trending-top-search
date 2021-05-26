@@ -14,14 +14,14 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed May 26 2021 21:38:00 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed May 26 2021 22:23:08 GMT+0800 (China Standard Time) -->
 
 1. [广州确诊病例密接者](https://www.zhihu.com/search?q=广州疫情)
 2. [雄安被确认为婚俗改革实验区](https://www.zhihu.com/search?q=雄安)
 3. [iOS14.6](https://www.zhihu.com/search?q=ios14.6)
-4. [鸿蒙手机要来了](https://www.zhihu.com/search?q=华为鸿蒙)
-5. [武汉公交车](https://www.zhihu.com/search?q=武汉公交车)
-6. [超级红月亮与月全食今晚上演](https://www.zhihu.com/search?q=超级红月亮)
+4. [超级红月亮与月全食今晚上演](https://www.zhihu.com/search?q=超级红月亮)
+5. [鸿蒙手机要来了](https://www.zhihu.com/search?q=华为鸿蒙)
+6. [武汉公交车](https://www.zhihu.com/search?q=武汉公交车)
 7. [翟天临回复近期被骂事件](https://www.zhihu.com/search?q=翟天临回复)
 8. [四川一食品厂疑似发生有害气体中毒致 7 死](https://www.zhihu.com/search?q=四川食品厂)
 9. [2021 高考招生变化](https://www.zhihu.com/search?q=高考招生)
