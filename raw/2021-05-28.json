@@ -1,12 +1,12 @@
 [
   { "query": "广州疫情", "display_query": "广州确诊病例密接者" },
-  { "query": "雄安", "display_query": "雄安被确认为婚俗改革实验区" },
   { "query": "老友记重聚", "display_query": "「老友记」重聚特辑" },
+  { "query": "雄安", "display_query": "雄安被确认为婚俗改革实验区" },
   { "query": "令人心动的offer第三季", "display_query": "「令人心动的 offer」第三季是医学专场" },
   { "query": "姚非拉", "display_query": "姚非拉 夏达" },
   { "query": "画江湖之不良人第四季", "display_query": "「画江湖之不良人」第四季第 6 集" },
-  { "query": "中国女排", "display_query": "中国女排不敌日本" },
   { "query": "海贼王", "display_query": "海贼王 1014 话情报" },
+  { "query": "中国女排", "display_query": "中国女排不敌日本" },
   { "query": "翟天临回复", "display_query": "翟天临回复近期被骂事件" },
   { "query": "虚幻引擎5", "display_query": "虚幻引擎 5 抢先体验" }
 ]
