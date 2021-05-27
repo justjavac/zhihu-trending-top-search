@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri May 28 2021 02:23:20 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri May 28 2021 03:47:54 GMT+0800 (China Standard Time) -->
 
 1. [广州确诊病例密接者](https://www.zhihu.com/search?q=广州疫情)
 2. [雄安被确认为婚俗改革实验区](https://www.zhihu.com/search?q=雄安)
