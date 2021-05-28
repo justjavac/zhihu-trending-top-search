@@ -14,11 +14,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat May 29 2021 00:37:47 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat May 29 2021 02:34:26 GMT+0800 (China Standard Time) -->
 
-1. [《一人之下》560 话](https://www.zhihu.com/search?q=一人之下)
-2. [「老友记」重聚特辑](https://www.zhihu.com/search?q=老友记重聚)
-3. [原神 1.6 版本 pv](https://www.zhihu.com/search?q=原神)
+1. [原神 1.6 版本 pv](https://www.zhihu.com/search?q=原神)
+2. [《一人之下》560 话](https://www.zhihu.com/search?q=一人之下)
+3. [「老友记」重聚特辑](https://www.zhihu.com/search?q=老友记重聚)
 4. [何兆武逝世](https://www.zhihu.com/search?q=何兆武)
 5. [云南大象组团压马路](https://www.zhihu.com/search?q=云南大象)
 6. [海贼王 1014 话情报](https://www.zhihu.com/search?q=海贼王)
