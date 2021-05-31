@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon May 31 2021 07:25:56 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon May 31 2021 09:00:24 GMT+0800 (China Standard Time) -->
 
 1. [南京警方通报伤人事件](https://www.zhihu.com/search?q=南京新街口)
 2. [三星堆遗址将申报世界文化遗产](https://www.zhihu.com/search?q=三星堆)
