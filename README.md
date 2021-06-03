@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jun 03 2021 07:36:05 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jun 03 2021 09:05:54 GMT+0800 (China Standard Time) -->
 
 1. [华为鸿蒙发布会](https://www.zhihu.com/search?q=华为)
 2. [广州疫情](https://www.zhihu.com/search?q=广州疫情)
