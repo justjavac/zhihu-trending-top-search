@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jun 04 2021 21:17:40 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jun 04 2021 22:47:14 GMT+0800 (China Standard Time) -->
 
 1. [摩尔庄园中欺骗小孩](https://www.zhihu.com/search?q=摩尔庄园)
 2. [吴亦凡](https://www.zhihu.com/search?q=吴亦凡)
