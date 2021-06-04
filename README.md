@@ -14,22 +14,23 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jun 04 2021 22:47:14 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jun 04 2021 23:33:30 GMT+0800 (China Standard Time) -->
 
 1. [摩尔庄园中欺骗小孩](https://www.zhihu.com/search?q=摩尔庄园)
 2. [吴亦凡](https://www.zhihu.com/search?q=吴亦凡)
 3. [韦东奕](https://www.zhihu.com/search?q=韦东奕)
 4. [科学松鼠会致歉](https://www.zhihu.com/search?q=科学松鼠会)
-5. [华为鸿蒙发布会](https://www.zhihu.com/search?q=华为)
-6. [兰新铁路一列车撞上工人致 9 死](https://www.zhihu.com/search?q=兰新铁路)
-7. [信小呆现状](https://www.zhihu.com/search?q=信小呆)
+5. [兰新铁路一列车撞上工人致 9 死](https://www.zhihu.com/search?q=兰新铁路)
+6. [信小呆现状](https://www.zhihu.com/search?q=信小呆)
+7. [《致命女人》第二季](https://www.zhihu.com/search?q=致命女人)
 8. [野象群进入昆明](https://www.zhihu.com/search?q=云南大象)
-9. [《致命女人》第二季](https://www.zhihu.com/search?q=致命女人)
-10. [我国新冠疫苗接种超 7 亿剂次](https://www.zhihu.com/search?q=新冠疫苗)
-11. [台湾新冠确诊男子砍伤 3 名医护](https://www.zhihu.com/search?q=台湾疫情)
-12. [一人之下 561 话](https://www.zhihu.com/search?q=一人之下)
-13. [广州疫情](https://www.zhihu.com/search?q=广州疫情)
-14. [「海贼王」1015 话情报](https://www.zhihu.com/search?q=海贼王)
+9. [我国新冠疫苗接种超 7 亿剂次](https://www.zhihu.com/search?q=新冠疫苗)
+10. [鸿蒙系统怎么申请？](https://www.zhihu.com/search?q=鸿蒙系统怎么申请)
+11. [华为鸿蒙发布会](https://www.zhihu.com/search?q=华为)
+12. [台湾新冠确诊男子砍伤 3 名医护](https://www.zhihu.com/search?q=台湾疫情)
+13. [一人之下 561 话](https://www.zhihu.com/search?q=一人之下)
+14. [广州疫情](https://www.zhihu.com/search?q=广州疫情)
+15. [「海贼王」1015 话情报](https://www.zhihu.com/search?q=海贼王)
 
 <!-- END -->
 
