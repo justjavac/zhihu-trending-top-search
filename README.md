@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jun 05 2021 18:35:45 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jun 05 2021 19:35:30 GMT+0800 (China Standard Time) -->
 
 1. [韦东奕](https://www.zhihu.com/search?q=韦东奕)
 2. [科学松鼠会致歉](https://www.zhihu.com/search?q=科学松鼠会)
