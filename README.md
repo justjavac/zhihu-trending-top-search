@@ -14,14 +14,14 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jun 06 2021 00:35:35 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jun 06 2021 02:14:41 GMT+0800 (China Standard Time) -->
 
 1. [韦东奕](https://www.zhihu.com/search?q=韦东奕)
 2. [《摩尔庄园》新活动](https://www.zhihu.com/search?q=摩尔庄园)
 3. [科学松鼠会致歉](https://www.zhihu.com/search?q=科学松鼠会)
 4. [科兴疫苗紧急使用年龄扩大到 3 岁以上](https://www.zhihu.com/search?q=科兴疫苗)
-5. [兰新铁路一列车撞上工人致 9 死](https://www.zhihu.com/search?q=兰新铁路)
-6. [《海贼王》1015 话](https://www.zhihu.com/search?q=海贼王)
+5. [《海贼王》1015 话](https://www.zhihu.com/search?q=海贼王)
+6. [兰新铁路一列车撞上工人致 9 死](https://www.zhihu.com/search?q=兰新铁路)
 7. [一人之下 561 话](https://www.zhihu.com/search?q=一人之下)
 8. [第 24 届上海电影节](https://www.zhihu.com/search?q=上海电影节)
 9. [鸿蒙系统怎么申请？](https://www.zhihu.com/search?q=鸿蒙系统怎么申请)
