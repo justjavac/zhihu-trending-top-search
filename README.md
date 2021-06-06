@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jun 06 2021 18:34:05 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jun 06 2021 19:35:23 GMT+0800 (China Standard Time) -->
 
 1. [《摩尔庄园》新活动](https://www.zhihu.com/search?q=摩尔庄园)
 2. [网传苹果 App Store 下架人人视频](https://www.zhihu.com/search?q=人人视频)
