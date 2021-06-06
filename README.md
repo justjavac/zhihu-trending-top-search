@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jun 07 2021 00:33:37 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jun 07 2021 02:12:19 GMT+0800 (China Standard Time) -->
 
 1. [《摩尔庄园》新活动](https://www.zhihu.com/search?q=摩尔庄园)
 2. [网传苹果 App Store 下架人人视频](https://www.zhihu.com/search?q=人人视频)
@@ -23,8 +23,8 @@
 5. [《海贼王》1015 话](https://www.zhihu.com/search?q=海贼王)
 6. [13 岁男孩打破三阶魔方平均世界纪录](https://www.zhihu.com/search?q=魔方速拧)
 7. [第 24 届上海电影节](https://www.zhihu.com/search?q=上海电影节)
-8. [世界环境日](https://www.zhihu.com/search?q=世界环境日)
-9. [端午假期出游人次或达 1 亿](https://www.zhihu.com/search?q=端午假期)
+8. [端午假期出游人次或达 1 亿](https://www.zhihu.com/search?q=端午假期)
+9. [世界环境日](https://www.zhihu.com/search?q=世界环境日)
 10. [iPhone 13 新外观曝光](https://www.zhihu.com/search?q=iPhone 13)
 
 <!-- END -->
