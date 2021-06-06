@@ -14,12 +14,12 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jun 06 2021 15:46:08 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jun 06 2021 16:36:40 GMT+0800 (China Standard Time) -->
 
 1. [韦东奕](https://www.zhihu.com/search?q=韦东奕)
 2. [《摩尔庄园》新活动](https://www.zhihu.com/search?q=摩尔庄园)
-3. [土地出让金划归税务部门所有](https://www.zhihu.com/search?q=土地出让金)
-4. [网传苹果 App Store 下架人人视频](https://www.zhihu.com/search?q=人人视频)
+3. [网传苹果 App Store 下架人人视频](https://www.zhihu.com/search?q=人人视频)
+4. [土地出让金划归税务部门所有](https://www.zhihu.com/search?q=土地出让金)
 5. [科兴疫苗紧急使用年龄扩大到 3 岁以上](https://www.zhihu.com/search?q=科兴疫苗)
 6. [《海贼王》1015 话](https://www.zhihu.com/search?q=海贼王)
 7. [第 24 届上海电影节](https://www.zhihu.com/search?q=上海电影节)
