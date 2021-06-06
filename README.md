@@ -14,20 +14,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jun 06 2021 12:07:26 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jun 06 2021 14:03:41 GMT+0800 (China Standard Time) -->
 
 1. [韦东奕](https://www.zhihu.com/search?q=韦东奕)
 2. [《摩尔庄园》新活动](https://www.zhihu.com/search?q=摩尔庄园)
-3. [科学松鼠会致歉](https://www.zhihu.com/search?q=科学松鼠会)
-4. [网传苹果 App Store 下架人人视频](https://www.zhihu.com/search?q=人人视频)
+3. [网传苹果 App Store 下架人人视频](https://www.zhihu.com/search?q=人人视频)
+4. [科学松鼠会致歉](https://www.zhihu.com/search?q=科学松鼠会)
 5. [科兴疫苗紧急使用年龄扩大到 3 岁以上](https://www.zhihu.com/search?q=科兴疫苗)
 6. [《海贼王》1015 话](https://www.zhihu.com/search?q=海贼王)
 7. [第 24 届上海电影节](https://www.zhihu.com/search?q=上海电影节)
-8. [鸿蒙系统怎么申请？](https://www.zhihu.com/search?q=鸿蒙系统怎么申请)
-9. [二创内容属于盗版吗？](https://www.zhihu.com/search?q=二创)
-10. [端午假期出游人次或达 1 亿](https://www.zhihu.com/search?q=端午假期)
-11. [一人之下 561 话](https://www.zhihu.com/search?q=一人之下)
-12. [兰新铁路一列车撞上工人致 9 死](https://www.zhihu.com/search?q=兰新铁路)
+8. [二创内容属于盗版吗？](https://www.zhihu.com/search?q=二创)
+9. [端午假期出游人次或达 1 亿](https://www.zhihu.com/search?q=端午假期)
+10. [13 岁男孩打破三阶魔方平均世界纪录](https://www.zhihu.com/search?q=魔方速拧)
+11. [鸿蒙系统怎么申请？](https://www.zhihu.com/search?q=鸿蒙系统怎么申请)
+12. [一人之下 561 话](https://www.zhihu.com/search?q=一人之下)
+13. [兰新铁路一列车撞上工人致 9 死](https://www.zhihu.com/search?q=兰新铁路)
 
 <!-- END -->
 
