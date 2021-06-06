@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jun 06 2021 07:18:34 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jun 06 2021 08:37:24 GMT+0800 (China Standard Time) -->
 
 1. [韦东奕](https://www.zhihu.com/search?q=韦东奕)
 2. [《摩尔庄园》新活动](https://www.zhihu.com/search?q=摩尔庄园)
