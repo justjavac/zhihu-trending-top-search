@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jun 07 2021 19:47:52 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jun 07 2021 20:36:34 GMT+0800 (China Standard Time) -->
 
 1. [2021 高考语文](https://www.zhihu.com/search?q=高考语文)
 2. [高考作文](https://www.zhihu.com/search?q=高考作文)
@@ -24,8 +24,8 @@
 6. [土地出让金划归税务部门所有](https://www.zhihu.com/search?q=土地出让金)
 7. [芯片价格飙涨 5 倍](https://www.zhihu.com/search?q=芯片)
 8. [动画电影《普罗米亚》上映](https://www.zhihu.com/search?q=普罗米亚)
-9. [13 岁男孩打破三阶魔方平均世界纪录](https://www.zhihu.com/search?q=魔方速拧)
-10. [谏山创对谈荒川弘](https://www.zhihu.com/search?q=谏山创)
+9. [谏山创对谈荒川弘](https://www.zhihu.com/search?q=谏山创)
+10. [13 岁男孩打破三阶魔方平均世界纪录](https://www.zhihu.com/search?q=魔方速拧)
 11. [六大影视公司反对短视频侵权](https://www.zhihu.com/search?q=短视频侵权)
 12. [端午假期出游人次或达 1 亿](https://www.zhihu.com/search?q=端午假期)
 13. [高考语文](https://www.zhihu.com/search?q=高考语文)
