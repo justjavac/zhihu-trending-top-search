@@ -1,13 +1,17 @@
 [
-  { "query": "高考", "display_query": "高考加油" },
+  { "query": "高考作文", "display_query": "高考作文" },
   { "query": "摩尔庄园", "display_query": "《摩尔庄园》新活动" },
   { "query": "土地出让金", "display_query": "土地出让金划归税务部门所有" },
-  { "query": "人人视频", "display_query": "网传苹果 App Store 下架人人视频" },
-  { "query": "科兴疫苗", "display_query": "科兴疫苗紧急使用年龄扩大到 3 岁以上" },
+  { "query": "人人视频", "display_query": "人人视频下架" },
+  { "query": "芯片", "display_query": "芯片价格飙涨 5 倍" },
   { "query": "海贼王", "display_query": "《海贼王》1015 话" },
   { "query": "魔方速拧", "display_query": "13 岁男孩打破三阶魔方平均世界纪录" },
-  { "query": "上海电影节", "display_query": "第 24 届上海电影节" },
   { "query": "端午假期", "display_query": "端午假期出游人次或达 1 亿" },
-  { "query": "世界环境日", "display_query": "世界环境日" },
-  { "query": "iPhone 13", "display_query": "iPhone 13 新外观曝光" }
+  { "query": "itsRae", "display_query": "旅行博主 itsRae 抄袭" },
+  { "query": "iPhone 13", "display_query": "iPhone 13 新外观曝光" },
+  { "query": "高考", "display_query": "高考加油" },
+  { "query": "人人视频", "display_query": "网传苹果 App Store 下架人人视频" },
+  { "query": "科兴疫苗", "display_query": "科兴疫苗紧急使用年龄扩大到 3 岁以上" },
+  { "query": "上海电影节", "display_query": "第 24 届上海电影节" },
+  { "query": "世界环境日", "display_query": "世界环境日" }
 ]
