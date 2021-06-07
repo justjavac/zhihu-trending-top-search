@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jun 07 2021 23:26:25 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jun 08 2021 00:59:00 GMT+0800 (China Standard Time) -->
 
 1. [2021 高考语文](https://www.zhihu.com/search?q=高考语文)
 2. [高考作文](https://www.zhihu.com/search?q=高考作文)
@@ -26,18 +26,6 @@
 8. [动画电影《普罗米亚》上映](https://www.zhihu.com/search?q=普罗米亚)
 9. [《叛逆者》今日开播](https://www.zhihu.com/search?q=叛逆者)
 10. [谏山创对谈荒川弘](https://www.zhihu.com/search?q=谏山创)
-11. [13 岁男孩打破三阶魔方平均世界纪录](https://www.zhihu.com/search?q=魔方速拧)
-12. [六大影视公司反对短视频侵权](https://www.zhihu.com/search?q=短视频侵权)
-13. [端午假期出游人次或达 1 亿](https://www.zhihu.com/search?q=端午假期)
-14. [高考语文](https://www.zhihu.com/search?q=高考语文)
-15. [旅行博主 itsRae 抄袭](https://www.zhihu.com/search?q=itsRae)
-16. [《海贼王》1015 话](https://www.zhihu.com/search?q=海贼王)
-17. [iPhone 13 新外观曝光](https://www.zhihu.com/search?q=iPhone 13)
-18. [高考加油](https://www.zhihu.com/search?q=高考)
-19. [网传苹果 App Store 下架人人视频](https://www.zhihu.com/search?q=人人视频)
-20. [科兴疫苗紧急使用年龄扩大到 3 岁以上](https://www.zhihu.com/search?q=科兴疫苗)
-21. [第 24 届上海电影节](https://www.zhihu.com/search?q=上海电影节)
-22. [世界环境日](https://www.zhihu.com/search?q=世界环境日)
 
 <!-- END -->
 
