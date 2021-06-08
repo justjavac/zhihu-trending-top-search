@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jun 08 2021 23:05:58 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jun 09 2021 00:22:50 GMT+0800 (China Standard Time) -->
 
 1. [2021 高考语文](https://www.zhihu.com/search?q=高考语文)
 2. [高考作文](https://www.zhihu.com/search?q=高考作文)
@@ -26,13 +26,6 @@
 8. [《叛逆者》今日开播](https://www.zhihu.com/search?q=叛逆者)
 9. [人人视频下架](https://www.zhihu.com/search?q=人人视频)
 10. [动画电影《普罗米亚》上映](https://www.zhihu.com/search?q=普罗米亚)
-11. [芯片价格飙涨 5 倍](https://www.zhihu.com/search?q=芯片)
-12. [原神新角色「神里绫华」](https://www.zhihu.com/search?q=原神)
-13. [谏山创对谈荒川弘](https://www.zhihu.com/search?q=谏山创)
-14. [湖北考生用搜题 APP 作弊](https://www.zhihu.com/search?q=小猿搜题)
-15. [南京大学招生宣传](https://www.zhihu.com/search?q=南京大学招生)
-16. [考生拍照高考数学题上传搜题 APP](https://www.zhihu.com/search?q=小猿搜题)
-17. [土地出让金划归税务部门所有](https://www.zhihu.com/search?q=土地出让金)
 
 <!-- END -->
 
