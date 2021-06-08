@@ -14,21 +14,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jun 08 2021 15:22:45 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jun 08 2021 16:11:17 GMT+0800 (China Standard Time) -->
 
 1. [2021 高考语文](https://www.zhihu.com/search?q=高考语文)
 2. [高考作文](https://www.zhihu.com/search?q=高考作文)
-3. [湖北考生用搜题 APP 作弊](https://www.zhihu.com/search?q=小猿搜题)
+3. [小猿搜题回应考生拍题作弊](https://www.zhihu.com/search?q=小猿搜题)
 4. [《摩尔庄园》新活动](https://www.zhihu.com/search?q=摩尔庄园)
 5. [原神新角色「神里绫华」](https://www.zhihu.com/search?q=原神)
 6. [《叛逆者》今日开播](https://www.zhihu.com/search?q=叛逆者)
 7. [人人视频下架](https://www.zhihu.com/search?q=人人视频)
-8. [南京大学招生宣传](https://www.zhihu.com/search?q=南京大学招生)
-9. [芯片价格飙涨 5 倍](https://www.zhihu.com/search?q=芯片)
-10. [动画电影《普罗米亚》上映](https://www.zhihu.com/search?q=普罗米亚)
-11. [考生拍照高考数学题上传搜题 APP](https://www.zhihu.com/search?q=小猿搜题)
-12. [谏山创对谈荒川弘](https://www.zhihu.com/search?q=谏山创)
-13. [土地出让金划归税务部门所有](https://www.zhihu.com/search?q=土地出让金)
+8. [芯片价格飙涨 5 倍](https://www.zhihu.com/search?q=芯片)
+9. [动画电影《普罗米亚》上映](https://www.zhihu.com/search?q=普罗米亚)
+10. [谏山创对谈荒川弘](https://www.zhihu.com/search?q=谏山创)
+11. [湖北考生用搜题 APP 作弊](https://www.zhihu.com/search?q=小猿搜题)
+12. [南京大学招生宣传](https://www.zhihu.com/search?q=南京大学招生)
+13. [考生拍照高考数学题上传搜题 APP](https://www.zhihu.com/search?q=小猿搜题)
+14. [土地出让金划归税务部门所有](https://www.zhihu.com/search?q=土地出让金)
 
 <!-- END -->
 
