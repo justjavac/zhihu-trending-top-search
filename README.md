@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jun 08 2021 21:25:58 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jun 08 2021 22:13:28 GMT+0800 (China Standard Time) -->
 
 1. [2021 高考语文](https://www.zhihu.com/search?q=高考语文)
 2. [高考作文](https://www.zhihu.com/search?q=高考作文)
@@ -22,8 +22,8 @@
 4. [摩尔发行母公司股价暴涨](https://www.zhihu.com/search?q=摩尔庄园)
 5. [《摩尔庄园》新活动](https://www.zhihu.com/search?q=摩尔庄园)
 6. [原神公布 4 个新角色](https://www.zhihu.com/search?q=原神)
-7. [《叛逆者》今日开播](https://www.zhihu.com/search?q=叛逆者)
-8. [高考结束了！](https://www.zhihu.com/search?q=高考结束)
+7. [高考结束了！](https://www.zhihu.com/search?q=高考结束)
+8. [《叛逆者》今日开播](https://www.zhihu.com/search?q=叛逆者)
 9. [人人视频下架](https://www.zhihu.com/search?q=人人视频)
 10. [动画电影《普罗米亚》上映](https://www.zhihu.com/search?q=普罗米亚)
 11. [芯片价格飙涨 5 倍](https://www.zhihu.com/search?q=芯片)
