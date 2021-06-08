@@ -1,8 +1,8 @@
 [
   { "query": "高考语文", "display_query": "2021 高考语文" },
   { "query": "高考作文", "display_query": "高考作文" },
-  { "query": "摩尔庄园", "display_query": "《摩尔庄园》新活动" },
   { "query": "小猿搜题", "display_query": "考生拍照高考数学题上传搜题 APP" },
+  { "query": "摩尔庄园", "display_query": "《摩尔庄园》新活动" },
   { "query": "原神", "display_query": "原神新角色「神里绫华」" },
   { "query": "叛逆者", "display_query": "《叛逆者》今日开播" },
   { "query": "人人视频", "display_query": "人人视频下架" },
