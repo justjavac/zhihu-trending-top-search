@@ -14,10 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jun 10 2021 06:06:15 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jun 10 2021 07:06:18 GMT+0800 (China Standard Time) -->
 
-1. [摩尔发行母公司股价暴涨](https://www.zhihu.com/search?q=摩尔庄园)
-2. [美剧《洛基》今日开播](https://www.zhihu.com/search?q=洛基)
+1. [美剧《洛基》今日开播](https://www.zhihu.com/search?q=洛基)
+2. [摩尔发行母公司股价暴涨](https://www.zhihu.com/search?q=摩尔庄园)
 3. [电影《秘密访客》](https://www.zhihu.com/search?q=秘密访客)
 4. [高考结束了！](https://www.zhihu.com/search?q=高考结束)
 5. [《原神》1.6 版本更新](https://www.zhihu.com/search?q=原神)
