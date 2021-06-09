@@ -14,19 +14,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jun 09 2021 10:12:05 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jun 09 2021 11:30:34 GMT+0800 (China Standard Time) -->
 
-1. [2021 高考语文](https://www.zhihu.com/search?q=高考语文)
-2. [小猿搜题回应考生拍题作弊](https://www.zhihu.com/search?q=小猿搜题)
-3. [摩尔发行母公司股价暴涨](https://www.zhihu.com/search?q=摩尔庄园)
-4. [《摩尔庄园》新活动](https://www.zhihu.com/search?q=摩尔庄园)
-5. [原神公布 4 个新角色](https://www.zhihu.com/search?q=原神)
-6. [高考结束了！](https://www.zhihu.com/search?q=高考结束)
-7. [《叛逆者》今日开播](https://www.zhihu.com/search?q=叛逆者)
-8. [动画电影《普罗米亚》上映](https://www.zhihu.com/search?q=普罗米亚)
-9. [人人视频下架](https://www.zhihu.com/search?q=人人视频)
-10. [芯片价格飙涨 5 倍](https://www.zhihu.com/search?q=芯片)
-11. [高考作文](https://www.zhihu.com/search?q=高考作文)
+1. [小猿搜题回应考生拍题作弊](https://www.zhihu.com/search?q=小猿搜题)
+2. [摩尔发行母公司股价暴涨](https://www.zhihu.com/search?q=摩尔庄园)
+3. [原神公布 4 个新角色](https://www.zhihu.com/search?q=原神)
+4. [高考结束了！](https://www.zhihu.com/search?q=高考结束)
+5. [《叛逆者》今日开播](https://www.zhihu.com/search?q=叛逆者)
+6. [动画电影《普罗米亚》上映](https://www.zhihu.com/search?q=普罗米亚)
+7. [芯片价格飙涨 5 倍](https://www.zhihu.com/search?q=芯片)
+8. [《平原上的摩西》定档](https://www.zhihu.com/search?q=平原上的摩西)
+9. [华南海鲜市场不是疫情的发源地](https://www.zhihu.com/search?q=华南海鲜市场)
+10. [谏山创对谈荒川弘](https://www.zhihu.com/search?q=谏山创)
+11. [2021 高考语文](https://www.zhihu.com/search?q=高考语文)
+12. [《摩尔庄园》新活动](https://www.zhihu.com/search?q=摩尔庄园)
+13. [人人视频下架](https://www.zhihu.com/search?q=人人视频)
+14. [高考作文](https://www.zhihu.com/search?q=高考作文)
 
 <!-- END -->
 
