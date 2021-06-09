@@ -1,9 +1,10 @@
 [
   { "query": "摩尔庄园", "display_query": "摩尔发行母公司股价暴涨" },
   { "query": "秘密访客", "display_query": "电影《秘密访客》" },
-  { "query": "原神", "display_query": "《原神》1.6 版本更新" },
-  { "query": "高考结束", "display_query": "高考结束了！" },
   { "query": "洛基", "display_query": "美剧《洛基》今日开播" },
+  { "query": "高考结束", "display_query": "高考结束了！" },
+  { "query": "原神", "display_query": "《原神》1.6 版本更新" },
+  { "query": "海贼王", "display_query": "海贼王 1016 话情报" },
   { "query": "河南专升本", "display_query": "河南专升本考试疑遭泄题" },
   { "query": "平原上的摩西", "display_query": "《平原上的摩西》定档" },
   { "query": "华南海鲜市场", "display_query": "华南海鲜市场不是疫情的发源地" },
