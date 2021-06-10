@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jun 10 2021 20:09:11 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jun 10 2021 21:23:26 GMT+0800 (China Standard Time) -->
 
 1. [美剧《洛基》今日开播](https://www.zhihu.com/search?q=洛基)
 2. [有用的知识增加了](https://www.zhihu.com/search?q=科普视频创作国际大赛)
@@ -22,8 +22,8 @@
 4. [河南专升本考试疑遭泄题](https://www.zhihu.com/search?q=河南专升本)
 5. [高考后买什么手机](https://www.zhihu.com/search?q=高考后手机)
 6. [三家银行宣布支持鸿蒙](https://www.zhihu.com/search?q=银行 鸿蒙)
-7. [《平原上的摩西》定档](https://www.zhihu.com/search?q=平原上的摩西)
-8. [阴阳师动画剧场天域篇](https://www.zhihu.com/search?q=阴阳师)
+7. [阴阳师动画剧场天域篇](https://www.zhihu.com/search?q=阴阳师)
+8. [《平原上的摩西》定档](https://www.zhihu.com/search?q=平原上的摩西)
 9. [快看漫画获韩企上亿融资](https://www.zhihu.com/search?q=快看漫画)
 10. [华南海鲜市场不是疫情的发源地](https://www.zhihu.com/search?q=华南海鲜市场)
 11. [摩尔发行母公司股价暴涨](https://www.zhihu.com/search?q=摩尔庄园)
