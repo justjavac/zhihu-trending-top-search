@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jun 10 2021 11:23:49 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jun 10 2021 12:21:21 GMT+0800 (China Standard Time) -->
 
 1. [美剧《洛基》今日开播](https://www.zhihu.com/search?q=洛基)
 2. [摩尔发行母公司股价暴涨](https://www.zhihu.com/search?q=摩尔庄园)
