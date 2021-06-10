@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jun 10 2021 18:06:45 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jun 10 2021 19:05:30 GMT+0800 (China Standard Time) -->
 
 1. [美剧《洛基》今日开播](https://www.zhihu.com/search?q=洛基)
 2. [有用的知识增加了](https://www.zhihu.com/search?q=科普视频创作国际大赛)
