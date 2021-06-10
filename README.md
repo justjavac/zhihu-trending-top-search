@@ -14,13 +14,13 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jun 10 2021 16:06:57 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jun 10 2021 17:05:33 GMT+0800 (China Standard Time) -->
 
 1. [美剧《洛基》今日开播](https://www.zhihu.com/search?q=洛基)
 2. [摩尔发行母公司股价暴涨](https://www.zhihu.com/search?q=摩尔庄园)
 3. [《原神》1.6 版本更新](https://www.zhihu.com/search?q=原神)
-4. [高考结束了！](https://www.zhihu.com/search?q=高考结束)
-5. [有用的知识增加了](https://www.zhihu.com/search?q=科普视频创作国际大赛)
+4. [有用的知识增加了](https://www.zhihu.com/search?q=科普视频创作国际大赛)
+5. [高考结束了！](https://www.zhihu.com/search?q=高考结束)
 6. [河南专升本考试疑遭泄题](https://www.zhihu.com/search?q=河南专升本)
 7. [《平原上的摩西》定档](https://www.zhihu.com/search?q=平原上的摩西)
 8. [高考后买什么手机](https://www.zhihu.com/search?q=高考后手机)
