@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jun 12 2021 06:05:20 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jun 12 2021 07:06:06 GMT+0800 (China Standard Time) -->
 
 1. [英语四级](https://www.zhihu.com/search?q=英语四级)
 2. [向往的生活制作人独家回应](https://www.zhihu.com/search?q=向往的生活)
