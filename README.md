@@ -14,11 +14,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jun 12 2021 05:04:28 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jun 12 2021 06:05:20 GMT+0800 (China Standard Time) -->
 
 1. [英语四级](https://www.zhihu.com/search?q=英语四级)
-2. [英语六级](https://www.zhihu.com/search?q=英语六级)
-3. [向往的生活制作人独家回应](https://www.zhihu.com/search?q=向往的生活)
+2. [向往的生活制作人独家回应](https://www.zhihu.com/search?q=向往的生活)
+3. [英语六级](https://www.zhihu.com/search?q=英语六级)
 4. [三家银行宣布支持鸿蒙](https://www.zhihu.com/search?q=银行 鸿蒙)
 5. [《一人之下》 530 话](https://www.zhihu.com/search?q=一人之下)
 6. [Epic 送 3A 游戏大作](https://www.zhihu.com/search?q=游戏 控制)
