@@ -14,19 +14,20 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jun 12 2021 11:09:23 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jun 12 2021 12:09:03 GMT+0800 (China Standard Time) -->
 
-1. [英语六级](https://www.zhihu.com/search?q=英语六级)
-2. [英语四级](https://www.zhihu.com/search?q=英语四级)
+1. [英语四级](https://www.zhihu.com/search?q=英语四级)
+2. [英语六级](https://www.zhihu.com/search?q=英语六级)
 3. [向往的生活制作人独家回应](https://www.zhihu.com/search?q=向往的生活)
-4. [Epic 送 3A 游戏大作](https://www.zhihu.com/search?q=游戏 控制)
-5. [白玉兰获奖名单](https://www.zhihu.com/search?q=白玉兰)
-6. [三家银行宣布支持鸿蒙](https://www.zhihu.com/search?q=银行 鸿蒙)
+4. [四级答案](https://www.zhihu.com/search?q=四级答案)
+5. [Epic 送 3A 游戏大作](https://www.zhihu.com/search?q=游戏 控制)
+6. [白玉兰获奖名单](https://www.zhihu.com/search?q=白玉兰)
 7. [《一人之下》 530 话](https://www.zhihu.com/search?q=一人之下)
 8. [白银马拉松事件调查结果](https://www.zhihu.com/search?q=甘肃白银马拉松)
 9. [华为手机是比亚迪造的？](https://www.zhihu.com/search?q=华为手机)
 10. [腾讯光子工作室强制不加班](https://www.zhihu.com/search?q=腾讯 光子工作室)
-11. [618 无敌带货王](https://www.zhihu.com/search?q=脑洞)
+11. [三家银行宣布支持鸿蒙](https://www.zhihu.com/search?q=银行 鸿蒙)
+12. [618 无敌带货王](https://www.zhihu.com/search?q=脑洞)
 
 <!-- END -->
 
