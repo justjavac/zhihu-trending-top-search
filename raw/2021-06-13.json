@@ -1,7 +1,7 @@
 [
   { "query": "六级答案", "display_query": "六级答案" },
-  { "query": "四级答案", "display_query": "四级答案" },
   { "query": "你好世界", "display_query": "动画电影《你好世界》" },
+  { "query": "四级答案", "display_query": "四级答案" },
   { "query": "莫文蔚", "display_query": "莫文蔚 杜嘉班纳" },
   { "query": "向往的生活", "display_query": "向往的生活制作人独家回应" },
   { "query": "四六级", "display_query": "英语四六级" },
