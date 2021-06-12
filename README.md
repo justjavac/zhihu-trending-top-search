@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jun 12 2021 21:17:08 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jun 12 2021 22:05:46 GMT+0800 (China Standard Time) -->
 
 1. [六级答案](https://www.zhihu.com/search?q=六级答案)
 2. [四级答案](https://www.zhihu.com/search?q=四级答案)
@@ -23,8 +23,8 @@
 5. [向往的生活制作人独家回应](https://www.zhihu.com/search?q=向往的生活)
 6. [英语四六级](https://www.zhihu.com/search?q=四六级)
 7. [海贼王 1016 话](https://www.zhihu.com/search?q=海贼王)
-8. [白玉兰获奖名单](https://www.zhihu.com/search?q=白玉兰)
-9. [华为手机是比亚迪造的？](https://www.zhihu.com/search?q=华为手机)
+8. [华为手机是比亚迪造的？](https://www.zhihu.com/search?q=华为手机)
+9. [白玉兰获奖名单](https://www.zhihu.com/search?q=白玉兰)
 10. [Epic 送 3A 游戏大作](https://www.zhihu.com/search?q=游戏 控制)
 11. [白银马拉松事件调查结果](https://www.zhihu.com/search?q=甘肃白银马拉松)
 12. [英语四级](https://www.zhihu.com/search?q=英语四级)
