@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jun 12 2021 23:07:56 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jun 13 2021 00:11:16 GMT+0800 (China Standard Time) -->
 
 1. [六级答案](https://www.zhihu.com/search?q=六级答案)
 2. [四级答案](https://www.zhihu.com/search?q=四级答案)
@@ -26,13 +26,6 @@
 8. [华为手机是比亚迪造的？](https://www.zhihu.com/search?q=华为手机)
 9. [Epic 送 3A 游戏大作](https://www.zhihu.com/search?q=游戏 控制)
 10. [白银马拉松事件调查结果](https://www.zhihu.com/search?q=甘肃白银马拉松)
-11. [白玉兰获奖名单](https://www.zhihu.com/search?q=白玉兰)
-12. [英语四级](https://www.zhihu.com/search?q=英语四级)
-13. [英语六级](https://www.zhihu.com/search?q=英语六级)
-14. [《一人之下》 530 话](https://www.zhihu.com/search?q=一人之下)
-15. [腾讯光子工作室强制不加班](https://www.zhihu.com/search?q=腾讯 光子工作室)
-16. [三家银行宣布支持鸿蒙](https://www.zhihu.com/search?q=银行 鸿蒙)
-17. [618 无敌带货王](https://www.zhihu.com/search?q=脑洞)
 
 <!-- END -->
 
