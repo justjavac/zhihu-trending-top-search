@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jun 14 2021 05:04:28 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jun 14 2021 06:05:46 GMT+0800 (China Standard Time) -->
 
 1. [动画电影《你好世界》](https://www.zhihu.com/search?q=你好世界)
 2. [埃里克森突然倒地](https://www.zhihu.com/search?q=埃里克森)
