@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jun 13 2021 17:07:45 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jun 13 2021 18:07:13 GMT+0800 (China Standard Time) -->
 
 1. [埃里克森突然倒地](https://www.zhihu.com/search?q=埃里克森)
 2. [六级答案](https://www.zhihu.com/search?q=六级答案)
@@ -23,11 +23,11 @@
 5. [四级答案](https://www.zhihu.com/search?q=四级答案)
 6. [河南卫视「端午奇妙游」](https://www.zhihu.com/search?q=端午奇妙游)
 7. [向往的生活制作人独家回应](https://www.zhihu.com/search?q=向往的生活)
-8. [海贼王 1016 话](https://www.zhihu.com/search?q=海贼王)
-9. [湖北十堰燃气爆炸](https://www.zhihu.com/search?q=十堰燃气爆炸)
-10. [白银马拉松事件调查结果](https://www.zhihu.com/search?q=甘肃白银马拉松)
-11. [英语四六级](https://www.zhihu.com/search?q=四六级)
-12. [PS5 游戏瑞奇与叮当](https://www.zhihu.com/search?q=瑞奇与叮当)
+8. [湖北十堰燃气爆炸](https://www.zhihu.com/search?q=十堰燃气爆炸)
+9. [海贼王 1016 话](https://www.zhihu.com/search?q=海贼王)
+10. [PS5 游戏瑞奇与叮当](https://www.zhihu.com/search?q=瑞奇与叮当)
+11. [白银马拉松事件调查结果](https://www.zhihu.com/search?q=甘肃白银马拉松)
+12. [英语四六级](https://www.zhihu.com/search?q=四六级)
 13. [华为手机是比亚迪造的？](https://www.zhihu.com/search?q=华为手机)
 14. [Epic 送 3A 游戏大作](https://www.zhihu.com/search?q=游戏 控制)
 
