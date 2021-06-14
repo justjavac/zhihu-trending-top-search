@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jun 15 2021 06:06:42 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jun 15 2021 07:06:06 GMT+0800 (China Standard Time) -->
 
 1. [湖北十堰燃气爆炸](https://www.zhihu.com/search?q=十堰燃气爆炸)
 2. [埃里克森突然倒地](https://www.zhihu.com/search?q=埃里克森)
