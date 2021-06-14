@@ -1,7 +1,7 @@
 [
   { "query": "你好世界", "display_query": "动画电影《你好世界》" },
-  { "query": "埃里克森", "display_query": "埃里克森突然倒地" },
   { "query": "摩尔庄园", "display_query": "《摩尔庄园》端午节" },
+  { "query": "埃里克森", "display_query": "埃里克森突然倒地" },
   { "query": "端午奇妙游", "display_query": "河南卫视「端午奇妙游」" },
   { "query": "六级答案", "display_query": "六级答案" },
   { "query": "十堰燃气爆炸", "display_query": "湖北十堰燃气爆炸" },
