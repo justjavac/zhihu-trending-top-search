@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jun 14 2021 11:09:32 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jun 14 2021 12:07:43 GMT+0800 (China Standard Time) -->
 
 1. [动画电影《你好世界》](https://www.zhihu.com/search?q=你好世界)
 2. [埃里克森突然倒地](https://www.zhihu.com/search?q=埃里克森)
@@ -23,9 +23,10 @@
 5. [河南卫视「端午奇妙游」](https://www.zhihu.com/search?q=端午奇妙游)
 6. [六级答案](https://www.zhihu.com/search?q=六级答案)
 7. [湖北十堰燃气爆炸](https://www.zhihu.com/search?q=十堰燃气爆炸)
-8. [四级答案](https://www.zhihu.com/search?q=四级答案)
-9. [海贼王 1016 话](https://www.zhihu.com/search?q=海贼王)
-10. [PS5 游戏瑞奇与叮当](https://www.zhihu.com/search?q=瑞奇与叮当)
+8. [海贼王 1016 话](https://www.zhihu.com/search?q=海贼王)
+9. [PS5 游戏瑞奇与叮当](https://www.zhihu.com/search?q=瑞奇与叮当)
+10. [搜狗输入法等被下架](https://www.zhihu.com/search?q=输入法下架)
+11. [四级答案](https://www.zhihu.com/search?q=四级答案)
 
 <!-- END -->
 
