@@ -14,11 +14,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jun 15 2021 00:12:05 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jun 15 2021 01:22:42 GMT+0800 (China Standard Time) -->
 
 1. [埃里克森突然倒地](https://www.zhihu.com/search?q=埃里克森)
-2. [河南卫视「端午奇妙游」](https://www.zhihu.com/search?q=端午奇妙游)
-3. [湖北十堰燃气爆炸](https://www.zhihu.com/search?q=十堰燃气爆炸)
+2. [湖北十堰燃气爆炸](https://www.zhihu.com/search?q=十堰燃气爆炸)
+3. [河南卫视「端午奇妙游」](https://www.zhihu.com/search?q=端午奇妙游)
 4. [搜狗输入法等被下架](https://www.zhihu.com/search?q=输入法下架)
 5. [PS5 游戏瑞奇与叮当](https://www.zhihu.com/search?q=瑞奇与叮当)
 6. [郑恺主演电影《超越》](https://www.zhihu.com/search?q=郑恺)
