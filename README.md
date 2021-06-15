@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jun 15 2021 20:08:16 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jun 15 2021 21:19:10 GMT+0800 (China Standard Time) -->
 
 1. [《原神》获苹果设计奖](https://www.zhihu.com/search?q=原神)
 2. [二手平台现低价显卡](https://www.zhihu.com/search?q=显卡)
