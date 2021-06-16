@@ -14,12 +14,12 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jun 16 2021 20:08:40 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jun 16 2021 21:20:02 GMT+0800 (China Standard Time) -->
 
 1. [《原神》获苹果设计奖](https://www.zhihu.com/search?q=原神)
 2. [二手平台现低价显卡](https://www.zhihu.com/search?q=显卡)
-3. [任天堂塞尔达怀旧掌机发布](https://www.zhihu.com/search?q=塞尔达)
-4. [毛晓彤 1250 万片酬遭拖欠](https://www.zhihu.com/search?q=毛晓彤)
+3. [毛晓彤 1250 万片酬遭拖欠](https://www.zhihu.com/search?q=毛晓彤)
+4. [任天堂塞尔达怀旧掌机发布](https://www.zhihu.com/search?q=塞尔达)
 5. [中国男足晋级 12 强赛](https://www.zhihu.com/search?q=中国男足)
 6. [《眷思量》动画上线](https://www.zhihu.com/search?q=眷思量)
 7. [河南共青团 浙江卫视](https://www.zhihu.com/search?q=浙江卫视抄袭)
