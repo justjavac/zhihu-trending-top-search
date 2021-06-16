@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jun 16 2021 23:06:06 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jun 17 2021 00:11:50 GMT+0800 (China Standard Time) -->
 
 1. [《原神》获苹果设计奖](https://www.zhihu.com/search?q=原神)
 2. [二手平台现低价显卡](https://www.zhihu.com/search?q=显卡)
@@ -26,11 +26,6 @@
 8. [张雨绮被私生饭骚扰](https://www.zhihu.com/search?q=张雨绮)
 9. [法国队 1:0 小胜德国队](https://www.zhihu.com/search?q=德法大战)
 10. [PS5 游戏瑞奇与叮当](https://www.zhihu.com/search?q=瑞奇与叮当)
-11. [《哥哥的滚烫人生》阵容](https://www.zhihu.com/search?q=哥哥的滚烫人生)
-12. [媒体点名小米 120W 无线快充](https://www.zhihu.com/search?q=小米快充)
-13. [电影《比得兔 2》上线](https://www.zhihu.com/search?q=比得兔2)
-14. [端午档电影无一票房破亿](https://www.zhihu.com/search?q=端午档票房)
-15. [微软 B 社 E3 发布会](https://www.zhihu.com/search?q=E3 游戏展)
 
 <!-- END -->
 
