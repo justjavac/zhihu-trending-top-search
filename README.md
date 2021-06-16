@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jun 16 2021 13:10:39 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jun 16 2021 14:07:11 GMT+0800 (China Standard Time) -->
 
 1. [《原神》获苹果设计奖](https://www.zhihu.com/search?q=原神)
 2. [任天堂塞尔达怀旧掌机发布](https://www.zhihu.com/search?q=塞尔达)
