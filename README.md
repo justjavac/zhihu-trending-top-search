@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jun 17 2021 18:06:21 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jun 17 2021 19:04:53 GMT+0800 (China Standard Time) -->
 
 1. [神舟十二号发射！](https://www.zhihu.com/search?q=神舟十二号)
 2. [百岁翻译界泰斗许渊冲逝世](https://www.zhihu.com/search?q=许渊冲)
