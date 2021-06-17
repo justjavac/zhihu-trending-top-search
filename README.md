@@ -14,10 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jun 17 2021 09:52:25 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jun 17 2021 10:27:02 GMT+0800 (China Standard Time) -->
 
-1. [《原神》获苹果设计奖](https://www.zhihu.com/search?q=原神)
-2. [神州十二号发射！](https://www.zhihu.com/search?q=神州十二号)
+1. [神舟十二号发射！](https://www.zhihu.com/search?q=神舟十二号)
+2. [《原神》获苹果设计奖](https://www.zhihu.com/search?q=原神)
 3. [二手平台现低价显卡](https://www.zhihu.com/search?q=显卡)
 4. [毛晓彤 1250 万片酬遭拖欠](https://www.zhihu.com/search?q=毛晓彤)
 5. [任天堂塞尔达怀旧掌机发布](https://www.zhihu.com/search?q=塞尔达)
@@ -26,8 +26,9 @@
 8. [河南共青团 浙江卫视](https://www.zhihu.com/search?q=浙江卫视抄袭)
 9. [张雨绮被私生饭骚扰](https://www.zhihu.com/search?q=张雨绮)
 10. [《哥哥的滚烫人生》阵容](https://www.zhihu.com/search?q=哥哥的滚烫人生)
-11. [法国队 1:0 小胜德国队](https://www.zhihu.com/search?q=德法大战)
-12. [PS5 游戏瑞奇与叮当](https://www.zhihu.com/search?q=瑞奇与叮当)
+11. [神州十二号发射！](https://www.zhihu.com/search?q=神州十二号)
+12. [法国队 1:0 小胜德国队](https://www.zhihu.com/search?q=德法大战)
+13. [PS5 游戏瑞奇与叮当](https://www.zhihu.com/search?q=瑞奇与叮当)
 
 <!-- END -->
 
