@@ -14,14 +14,14 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jun 19 2021 00:11:39 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jun 19 2021 01:23:19 GMT+0800 (China Standard Time) -->
 
-1. [蜜雪冰城主题曲](https://www.zhihu.com/search?q=蜜雪冰城)
-2. [一人之下 564 话](https://www.zhihu.com/search?q=一人之下)
-3. [小米回应手机异常发热](https://www.zhihu.com/search?q=小米)
-4. [百岁翻译界泰斗许渊冲逝世](https://www.zhihu.com/search?q=许渊冲)
+1. [深圳疫情](https://www.zhihu.com/search?q=深圳疫情)
+2. [蜜雪冰城主题曲](https://www.zhihu.com/search?q=蜜雪冰城)
+3. [一人之下 564 话](https://www.zhihu.com/search?q=一人之下)
+4. [小米回应手机异常发热](https://www.zhihu.com/search?q=小米)
 5. [一加将成为 OPPO 子品牌](https://www.zhihu.com/search?q=一加)
-6. [深圳疫情](https://www.zhihu.com/search?q=深圳疫情)
+6. [百岁翻译界泰斗许渊冲逝世](https://www.zhihu.com/search?q=许渊冲)
 7. [画江湖第四季第十集](https://www.zhihu.com/search?q=画江湖之不良人第四季)
 8. [了不起的老爸](https://www.zhihu.com/search?q=了不起的老爸)
 9. [太空外卖 宫保鸡丁](https://www.zhihu.com/search?q=太空外卖)
