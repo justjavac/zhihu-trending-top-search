@@ -14,12 +14,12 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jun 19 2021 22:04:57 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jun 19 2021 23:05:57 GMT+0800 (China Standard Time) -->
 
 1. [回形针发文道歉](https://www.zhihu.com/search?q=回形针道歉)
-2. [蜜雪冰城主题曲](https://www.zhihu.com/search?q=蜜雪冰城)
-3. [小米回应手机异常发热](https://www.zhihu.com/search?q=小米)
-4. [了不起的老爸](https://www.zhihu.com/search?q=了不起的老爸)
+2. [了不起的老爸](https://www.zhihu.com/search?q=了不起的老爸)
+3. [蜜雪冰城主题曲](https://www.zhihu.com/search?q=蜜雪冰城)
+4. [小米回应手机异常发热](https://www.zhihu.com/search?q=小米)
 5. [太空外卖 宫保鸡丁](https://www.zhihu.com/search?q=太空外卖)
 6. [艺术作品偷拍 5000 名女生](https://www.zhihu.com/search?q=宋拓 偷拍)
 7. [一人之下 564 话](https://www.zhihu.com/search?q=一人之下)
