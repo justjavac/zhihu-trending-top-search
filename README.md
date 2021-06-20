@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jun 20 2021 19:06:09 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jun 20 2021 20:07:42 GMT+0800 (China Standard Time) -->
 
 1. [回形针发文道歉](https://www.zhihu.com/search?q=回形针道歉)
 2. [接种疫苗后台湾 62 人猝死](https://www.zhihu.com/search?q=台湾 疫苗)
