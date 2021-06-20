@@ -14,14 +14,14 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jun 21 2021 01:20:02 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jun 21 2021 02:05:30 GMT+0800 (China Standard Time) -->
 
 1. [回形针发文道歉](https://www.zhihu.com/search?q=回形针道歉)
-2. [百度试用期员工被劝退](https://www.zhihu.com/search?q=百度员工被劝退)
-3. [接种疫苗后台湾 62 人猝死](https://www.zhihu.com/search?q=台湾 疫苗)
-4. [中国空间站中文操作界面](https://www.zhihu.com/search?q=空间站 中文)
-5. [德国 4:2 击败葡萄牙](https://www.zhihu.com/search?q=德国队)
-6. [上海电影节](https://www.zhihu.com/search?q=上海电影节)
+2. [德国 4:2 击败葡萄牙](https://www.zhihu.com/search?q=德国队)
+3. [中国空间站中文操作界面](https://www.zhihu.com/search?q=空间站 中文)
+4. [百度试用期员工被劝退](https://www.zhihu.com/search?q=百度员工被劝退)
+5. [上海电影节](https://www.zhihu.com/search?q=上海电影节)
+6. [接种疫苗后台湾 62 人猝死](https://www.zhihu.com/search?q=台湾 疫苗)
 
 <!-- END -->
 
