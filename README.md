@@ -14,20 +14,14 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jun 20 2021 23:05:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jun 21 2021 00:10:08 GMT+0800 (China Standard Time) -->
 
-1. [德国 4:2 击败葡萄牙](https://www.zhihu.com/search?q=德国队)
-2. [回形针发文道歉](https://www.zhihu.com/search?q=回形针道歉)
-3. [中国空间站中文操作界面](https://www.zhihu.com/search?q=空间站 中文)
-4. [接种疫苗后台湾 62 人猝死](https://www.zhihu.com/search?q=台湾 疫苗)
-5. [百度试用期员工被劝退](https://www.zhihu.com/search?q=百度员工被劝退)
-6. [上海电影节](https://www.zhihu.com/search?q=上海电影节)
-7. [蜜雪冰城主题曲](https://www.zhihu.com/search?q=蜜雪冰城)
-8. [艺术作品偷拍 5000 名女生](https://www.zhihu.com/search?q=宋拓 偷拍)
-9. [太空外卖 宫保鸡丁](https://www.zhihu.com/search?q=太空外卖)
-10. [了不起的老爸](https://www.zhihu.com/search?q=了不起的老爸)
-11. [小米回应手机异常发热](https://www.zhihu.com/search?q=小米)
-12. [一人之下 564 话](https://www.zhihu.com/search?q=一人之下)
+1. [回形针发文道歉](https://www.zhihu.com/search?q=回形针道歉)
+2. [中国空间站中文操作界面](https://www.zhihu.com/search?q=空间站 中文)
+3. [百度试用期员工被劝退](https://www.zhihu.com/search?q=百度员工被劝退)
+4. [德国 4:2 击败葡萄牙](https://www.zhihu.com/search?q=德国队)
+5. [上海电影节](https://www.zhihu.com/search?q=上海电影节)
+6. [接种疫苗后台湾 62 人猝死](https://www.zhihu.com/search?q=台湾 疫苗)
 
 <!-- END -->
 
