@@ -14,17 +14,17 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jun 20 2021 08:21:15 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jun 20 2021 10:00:28 GMT+0800 (China Standard Time) -->
 
 1. [回形针发文道歉](https://www.zhihu.com/search?q=回形针道歉)
 2. [蜜雪冰城主题曲](https://www.zhihu.com/search?q=蜜雪冰城)
-3. [小米回应手机异常发热](https://www.zhihu.com/search?q=小米)
-4. [德国 4:2 击败葡萄牙](https://www.zhihu.com/search?q=德国队)
+3. [德国 4:2 击败葡萄牙](https://www.zhihu.com/search?q=德国队)
+4. [小米回应手机异常发热](https://www.zhihu.com/search?q=小米)
 5. [了不起的老爸](https://www.zhihu.com/search?q=了不起的老爸)
 6. [一人之下 564 话](https://www.zhihu.com/search?q=一人之下)
-7. [艺术作品偷拍 5000 名女生](https://www.zhihu.com/search?q=宋拓 偷拍)
-8. [中国空间站中文操作界面](https://www.zhihu.com/search?q=空间站 中文)
-9. [太空外卖 宫保鸡丁](https://www.zhihu.com/search?q=太空外卖)
+7. [太空外卖 宫保鸡丁](https://www.zhihu.com/search?q=太空外卖)
+8. [艺术作品偷拍 5000 名女生](https://www.zhihu.com/search?q=宋拓 偷拍)
+9. [中国空间站中文操作界面](https://www.zhihu.com/search?q=空间站 中文)
 10. [百度试用期员工被劝退](https://www.zhihu.com/search?q=百度员工被劝退)
 
 <!-- END -->
