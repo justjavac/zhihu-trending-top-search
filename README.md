@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jun 21 2021 18:06:40 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jun 21 2021 19:04:40 GMT+0800 (China Standard Time) -->
 
 1. [蜜雪冰城主题曲](https://www.zhihu.com/search?q=蜜雪冰城)
 2. [《瑞克和莫蒂》第五季](https://www.zhihu.com/search?q=瑞克和莫蒂)
@@ -23,8 +23,8 @@
 5. [腾讯新游白夜极光](https://www.zhihu.com/search?q=白夜极光)
 6. [iPhone 将采用可回收材料生产](https://www.zhihu.com/search?q=苹果)
 7. [德国 4:2 击败葡萄牙](https://www.zhihu.com/search?q=德国队)
-8. [动画萤石眼之歌完结](https://www.zhihu.com/search?q=薇薇 -萤石眼之歌-)
-9. [《最强大脑》导演王运庆离世](https://www.zhihu.com/search?q=最强大脑导演王运庆)
+8. [《最强大脑》导演王运庆离世](https://www.zhihu.com/search?q=最强大脑导演王运庆)
+9. [动画萤石眼之歌完结](https://www.zhihu.com/search?q=薇薇 -萤石眼之歌-)
 10. [百度试用期员工被劝退](https://www.zhihu.com/search?q=百度员工被劝退)
 11. [上海电影节](https://www.zhihu.com/search?q=上海电影节)
 12. [接种疫苗后台湾 62 人猝死](https://www.zhihu.com/search?q=台湾 疫苗)
