@@ -14,19 +14,20 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jun 21 2021 14:07:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jun 21 2021 15:16:19 GMT+0800 (China Standard Time) -->
 
 1. [《瑞克和莫蒂》第五季](https://www.zhihu.com/search?q=瑞克和莫蒂)
 2. [蜜雪冰城主题曲](https://www.zhihu.com/search?q=蜜雪冰城)
 3. [百度试用期员工被劝退](https://www.zhihu.com/search?q=百度员工被劝退)
-4. [腾讯新游白夜极光](https://www.zhihu.com/search?q=白夜极光)
-5. [iPhone 将采用可回收材料生产](https://www.zhihu.com/search?q=苹果)
-6. [德国 4:2 击败葡萄牙](https://www.zhihu.com/search?q=德国队)
-7. [动画萤石眼之歌完结](https://www.zhihu.com/search?q=薇薇 -萤石眼之歌-)
-8. [上海电影节](https://www.zhihu.com/search?q=上海电影节)
-9. [接种疫苗后台湾 62 人猝死](https://www.zhihu.com/search?q=台湾 疫苗)
-10. [中国空间站中文操作界面](https://www.zhihu.com/search?q=空间站 中文)
-11. [回形针发文道歉](https://www.zhihu.com/search?q=回形针道歉)
+4. [首汽约车跳车事件调查结果公布](https://www.zhihu.com/search?q=首汽约车)
+5. [腾讯新游白夜极光](https://www.zhihu.com/search?q=白夜极光)
+6. [iPhone 将采用可回收材料生产](https://www.zhihu.com/search?q=苹果)
+7. [德国 4:2 击败葡萄牙](https://www.zhihu.com/search?q=德国队)
+8. [动画萤石眼之歌完结](https://www.zhihu.com/search?q=薇薇 -萤石眼之歌-)
+9. [上海电影节](https://www.zhihu.com/search?q=上海电影节)
+10. [接种疫苗后台湾 62 人猝死](https://www.zhihu.com/search?q=台湾 疫苗)
+11. [中国空间站中文操作界面](https://www.zhihu.com/search?q=空间站 中文)
+12. [回形针发文道歉](https://www.zhihu.com/search?q=回形针道歉)
 
 <!-- END -->
 
