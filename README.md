@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jun 21 2021 19:04:40 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jun 21 2021 20:08:43 GMT+0800 (China Standard Time) -->
 
 1. [蜜雪冰城主题曲](https://www.zhihu.com/search?q=蜜雪冰城)
 2. [《瑞克和莫蒂》第五季](https://www.zhihu.com/search?q=瑞克和莫蒂)
