@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jun 21 2021 21:19:09 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jun 21 2021 22:05:31 GMT+0800 (China Standard Time) -->
 
 1. [蜜雪冰城主题曲](https://www.zhihu.com/search?q=蜜雪冰城)
 2. [游戏王金卡拍卖叫价千万](https://www.zhihu.com/search?q=游戏王)
