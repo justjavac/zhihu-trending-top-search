@@ -14,11 +14,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jun 21 2021 20:08:43 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jun 21 2021 21:19:09 GMT+0800 (China Standard Time) -->
 
 1. [蜜雪冰城主题曲](https://www.zhihu.com/search?q=蜜雪冰城)
-2. [《瑞克和莫蒂》第五季](https://www.zhihu.com/search?q=瑞克和莫蒂)
-3. [游戏王金卡拍卖叫价千万](https://www.zhihu.com/search?q=游戏王)
+2. [游戏王金卡拍卖叫价千万](https://www.zhihu.com/search?q=游戏王)
+3. [《瑞克和莫蒂》第五季](https://www.zhihu.com/search?q=瑞克和莫蒂)
 4. [首汽约车跳车事件调查结果公布](https://www.zhihu.com/search?q=首汽约车)
 5. [腾讯新游白夜极光](https://www.zhihu.com/search?q=白夜极光)
 6. [iPhone 将采用可回收材料生产](https://www.zhihu.com/search?q=苹果)
