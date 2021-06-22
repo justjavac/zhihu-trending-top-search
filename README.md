@@ -14,22 +14,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jun 22 2021 23:05:41 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jun 23 2021 00:11:32 GMT+0800 (China Standard Time) -->
 
 1. [蜜雪冰城主题曲](https://www.zhihu.com/search?q=蜜雪冰城)
 2. [首汽约车跳车事件调查结果公布](https://www.zhihu.com/search?q=首汽约车)
 3. [丁磊称中国学生缺乏独立思考](https://www.zhihu.com/search?q=丁磊)
 4. [徐真真二级烧伤](https://www.zhihu.com/search?q=徐真真)
-5. [iPhone 将采用可回收材料生产](https://www.zhihu.com/search?q=苹果)
-6. [新冠病毒 Delta 变异株](https://www.zhihu.com/search?q=新冠病毒)
-7. [三只松鼠前高管盗卖废纸箱获刑](https://www.zhihu.com/search?q=三只松鼠)
-8. [《最强大脑》导演王运庆离世](https://www.zhihu.com/search?q=最强大脑导演王运庆)
-9. [陌陌旗下游戏高度抄袭](https://www.zhihu.com/search?q=黑帝斯)
-10. [陶虹说不是会哭就叫好演员](https://www.zhihu.com/search?q=陶虹说不是会哭就叫好演员)
-11. [游戏王金卡拍卖叫价千万](https://www.zhihu.com/search?q=游戏王)
-12. [《瑞克和莫蒂》第五季](https://www.zhihu.com/search?q=瑞克和莫蒂)
-13. [腾讯新游白夜极光](https://www.zhihu.com/search?q=白夜极光)
-14. [动画萤石眼之歌完结](https://www.zhihu.com/search?q=薇薇 -萤石眼之歌-)
+5. [新冠病毒 Delta 变异株](https://www.zhihu.com/search?q=新冠病毒)
+6. [三只松鼠前高管盗卖废纸箱获刑](https://www.zhihu.com/search?q=三只松鼠)
+7. [《最强大脑》导演王运庆离世](https://www.zhihu.com/search?q=最强大脑导演王运庆)
+8. [陌陌旗下游戏高度抄袭](https://www.zhihu.com/search?q=黑帝斯)
+9. [陶虹说不是会哭就叫好演员](https://www.zhihu.com/search?q=陶虹说不是会哭就叫好演员)
+10. [孙杨被禁赛 4 年 3 个月](https://www.zhihu.com/search?q=孙杨)
 
 <!-- END -->
 
