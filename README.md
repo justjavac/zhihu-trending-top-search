@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jun 22 2021 10:25:26 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jun 22 2021 11:07:30 GMT+0800 (China Standard Time) -->
 
 1. [蜜雪冰城主题曲](https://www.zhihu.com/search?q=蜜雪冰城)
 2. [游戏王金卡拍卖叫价千万](https://www.zhihu.com/search?q=游戏王)
@@ -24,6 +24,7 @@
 6. [腾讯新游白夜极光](https://www.zhihu.com/search?q=白夜极光)
 7. [《最强大脑》导演王运庆离世](https://www.zhihu.com/search?q=最强大脑导演王运庆)
 8. [动画萤石眼之歌完结](https://www.zhihu.com/search?q=薇薇 -萤石眼之歌-)
+9. [丁磊称中国学生缺乏独立思考](https://www.zhihu.com/search?q=丁磊)
 
 <!-- END -->
 
