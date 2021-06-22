@@ -1,7 +1,6 @@
 [
   { "query": "蜜雪冰城", "display_query": "蜜雪冰城主题曲" },
   { "query": "首汽约车", "display_query": "首汽约车跳车事件调查结果公布" },
-  { "query": "游戏王", "display_query": "游戏王金卡拍卖叫价千万" },
   { "query": "丁磊", "display_query": "丁磊称中国学生缺乏独立思考" },
   { "query": "徐真真", "display_query": "徐真真二级烧伤" },
   { "query": "苹果", "display_query": "iPhone 将采用可回收材料生产" },
@@ -9,6 +8,7 @@
   { "query": "三只松鼠", "display_query": "三只松鼠前高管盗卖废纸箱获刑" },
   { "query": "最强大脑导演王运庆", "display_query": "《最强大脑》导演王运庆离世" },
   { "query": "黑帝斯", "display_query": "陌陌旗下游戏高度抄袭" },
+  { "query": "游戏王", "display_query": "游戏王金卡拍卖叫价千万" },
   { "query": "瑞克和莫蒂", "display_query": "《瑞克和莫蒂》第五季" },
   { "query": "白夜极光", "display_query": "腾讯新游白夜极光" },
   { "query": "薇薇 -萤石眼之歌-", "display_query": "动画萤石眼之歌完结" }
