@@ -14,13 +14,13 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jun 22 2021 14:07:01 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jun 22 2021 15:09:53 GMT+0800 (China Standard Time) -->
 
 1. [蜜雪冰城主题曲](https://www.zhihu.com/search?q=蜜雪冰城)
 2. [首汽约车跳车事件调查结果公布](https://www.zhihu.com/search?q=首汽约车)
 3. [游戏王金卡拍卖叫价千万](https://www.zhihu.com/search?q=游戏王)
-4. [徐真真二级烧伤](https://www.zhihu.com/search?q=徐真真)
-5. [丁磊称中国学生缺乏独立思考](https://www.zhihu.com/search?q=丁磊)
+4. [丁磊称中国学生缺乏独立思考](https://www.zhihu.com/search?q=丁磊)
+5. [徐真真二级烧伤](https://www.zhihu.com/search?q=徐真真)
 6. [iPhone 将采用可回收材料生产](https://www.zhihu.com/search?q=苹果)
 7. [新冠病毒 Delta 变异株](https://www.zhihu.com/search?q=新冠病毒)
 8. [《最强大脑》导演王运庆离世](https://www.zhihu.com/search?q=最强大脑导演王运庆)
