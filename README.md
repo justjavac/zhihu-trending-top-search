@@ -14,23 +14,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jun 23 2021 23:05:22 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jun 24 2021 00:07:43 GMT+0800 (China Standard Time) -->
 
 1. [高考分数线陆续公布](https://www.zhihu.com/search?q=高考分数线)
 2. [孙杨被禁赛 4 年 3 个月](https://www.zhihu.com/search?q=孙杨)
 3. [蒋勇律师去世](https://www.zhihu.com/search?q=蒋勇)
 4. [原神新角色枫原万叶 pv](https://www.zhihu.com/search?q=原神)
 5. [丁磊称中国学生缺乏独立思考](https://www.zhihu.com/search?q=丁磊)
-6. [游戏王拍卖再现 4 万元 U 盘](https://www.zhihu.com/search?q=游戏王)
-7. [徐真真二级烧伤](https://www.zhihu.com/search?q=徐真真)
-8. [明日方舟要出博士剧情？](https://www.zhihu.com/search?q=明日方舟)
+6. [明日方舟要出博士剧情？](https://www.zhihu.com/search?q=明日方舟)
+7. [游戏王拍卖再现 4 万元 U 盘](https://www.zhihu.com/search?q=游戏王)
+8. [徐真真二级烧伤](https://www.zhihu.com/search?q=徐真真)
 9. [三只松鼠前高管盗卖废纸箱获刑](https://www.zhihu.com/search?q=三只松鼠)
 10. [新冠病毒 Delta 变异株](https://www.zhihu.com/search?q=新冠病毒)
-11. [陌陌旗下游戏高度抄袭](https://www.zhihu.com/search?q=黑帝斯)
-12. [陶虹说不是会哭就叫好演员](https://www.zhihu.com/search?q=陶虹说不是会哭就叫好演员)
-13. [《最强大脑》导演王运庆离世](https://www.zhihu.com/search?q=最强大脑导演王运庆)
-14. [首汽约车跳车事件调查结果公布](https://www.zhihu.com/search?q=首汽约车)
-15. [蜜雪冰城主题曲](https://www.zhihu.com/search?q=蜜雪冰城)
 
 <!-- END -->
 
