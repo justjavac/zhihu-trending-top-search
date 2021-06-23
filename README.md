@@ -14,18 +14,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jun 23 2021 18:06:34 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jun 23 2021 19:04:46 GMT+0800 (China Standard Time) -->
 
 1. [高考分数线陆续公布](https://www.zhihu.com/search?q=高考分数线)
 2. [孙杨被禁赛 4 年 3 个月](https://www.zhihu.com/search?q=孙杨)
 3. [原神新角色枫原万叶 pv](https://www.zhihu.com/search?q=原神)
 4. [丁磊称中国学生缺乏独立思考](https://www.zhihu.com/search?q=丁磊)
-5. [徐真真二级烧伤](https://www.zhihu.com/search?q=徐真真)
-6. [三只松鼠前高管盗卖废纸箱获刑](https://www.zhihu.com/search?q=三只松鼠)
-7. [新冠病毒 Delta 变异株](https://www.zhihu.com/search?q=新冠病毒)
-8. [陌陌旗下游戏高度抄袭](https://www.zhihu.com/search?q=黑帝斯)
-9. [陶虹说不是会哭就叫好演员](https://www.zhihu.com/search?q=陶虹说不是会哭就叫好演员)
-10. [游戏王拍卖再现 4 万元 U 盘](https://www.zhihu.com/search?q=游戏王)
+5. [游戏王拍卖再现 4 万元 U 盘](https://www.zhihu.com/search?q=游戏王)
+6. [徐真真二级烧伤](https://www.zhihu.com/search?q=徐真真)
+7. [三只松鼠前高管盗卖废纸箱获刑](https://www.zhihu.com/search?q=三只松鼠)
+8. [新冠病毒 Delta 变异株](https://www.zhihu.com/search?q=新冠病毒)
+9. [陌陌旗下游戏高度抄袭](https://www.zhihu.com/search?q=黑帝斯)
+10. [陶虹说不是会哭就叫好演员](https://www.zhihu.com/search?q=陶虹说不是会哭就叫好演员)
 11. [《最强大脑》导演王运庆离世](https://www.zhihu.com/search?q=最强大脑导演王运庆)
 12. [首汽约车跳车事件调查结果公布](https://www.zhihu.com/search?q=首汽约车)
 13. [蜜雪冰城主题曲](https://www.zhihu.com/search?q=蜜雪冰城)
