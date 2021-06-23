@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jun 23 2021 07:05:18 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jun 23 2021 08:19:36 GMT+0800 (China Standard Time) -->
 
 1. [蜜雪冰城主题曲](https://www.zhihu.com/search?q=蜜雪冰城)
 2. [首汽约车跳车事件调查结果公布](https://www.zhihu.com/search?q=首汽约车)
