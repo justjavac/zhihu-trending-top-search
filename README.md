@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jun 25 2021 02:06:44 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jun 25 2021 03:04:09 GMT+0800 (China Standard Time) -->
 
 1. [高考分数线陆续公布](https://www.zhihu.com/search?q=高考分数线)
 2. [《光与夜之恋》上线](https://www.zhihu.com/search?q=光与夜之恋)
