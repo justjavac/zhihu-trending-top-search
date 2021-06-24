@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jun 24 2021 14:07:14 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jun 24 2021 15:05:10 GMT+0800 (China Standard Time) -->
 
 1. [高考分数线陆续公布](https://www.zhihu.com/search?q=高考分数线)
 2. [孙杨被禁赛 4 年 3 个月](https://www.zhihu.com/search?q=孙杨)
