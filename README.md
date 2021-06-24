@@ -14,13 +14,13 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jun 24 2021 12:07:35 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jun 24 2021 13:05:06 GMT+0800 (China Standard Time) -->
 
 1. [高考分数线陆续公布](https://www.zhihu.com/search?q=高考分数线)
 2. [孙杨被禁赛 4 年 3 个月](https://www.zhihu.com/search?q=孙杨)
 3. [蒋勇律师去世](https://www.zhihu.com/search?q=蒋勇)
-4. [原神新角色枫原万叶 pv](https://www.zhihu.com/search?q=原神)
-5. [《光与夜之恋》上线](https://www.zhihu.com/search?q=光与夜之恋)
+4. [《光与夜之恋》上线](https://www.zhihu.com/search?q=光与夜之恋)
+5. [原神新角色枫原万叶 pv](https://www.zhihu.com/search?q=原神)
 6. [明日方舟要出博士剧情？](https://www.zhihu.com/search?q=明日方舟)
 7. [游戏王拍卖再现 4 万元 U 盘](https://www.zhihu.com/search?q=游戏王)
 8. [徐真真二级烧伤](https://www.zhihu.com/search?q=徐真真)
