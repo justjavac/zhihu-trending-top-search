@@ -14,13 +14,13 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jun 25 2021 07:05:55 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jun 25 2021 08:21:21 GMT+0800 (China Standard Time) -->
 
 1. [高考分数线陆续公布](https://www.zhihu.com/search?q=高考分数线)
 2. [《光与夜之恋》上线](https://www.zhihu.com/search?q=光与夜之恋)
 3. [杀毒软件之父死于狱中](https://www.zhihu.com/search?q=杀毒软件之父)
-4. [蒋勇律师去世](https://www.zhihu.com/search?q=蒋勇)
-5. [江苏高考分数线揭晓](https://www.zhihu.com/search?q=江西高考)
+4. [江苏高考分数线揭晓](https://www.zhihu.com/search?q=江西高考)
+5. [蒋勇律师去世](https://www.zhihu.com/search?q=蒋勇)
 6. [明日方舟要出博士剧情？](https://www.zhihu.com/search?q=明日方舟)
 7. [画江湖第 4 季第 11 集](https://www.zhihu.com/search?q=画江湖之不良人)
 8. [主播滕杨天下涉赌被提起公诉](https://www.zhihu.com/search?q=滕杨天下)
