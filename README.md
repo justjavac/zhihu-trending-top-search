@@ -14,14 +14,14 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jun 25 2021 18:06:20 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jun 25 2021 19:04:39 GMT+0800 (China Standard Time) -->
 
 1. [Windows 11 系统发布](https://www.zhihu.com/search?q=windows 11)
 2. [《一人之下》565 话](https://www.zhihu.com/search?q=一人之下)
 3. [杀毒软件之父死于狱中](https://www.zhihu.com/search?q=杀毒软件之父)
 4. [江苏高考分数线揭晓](https://www.zhihu.com/search?q=江西高考)
-5. [蒋勇律师去世](https://www.zhihu.com/search?q=蒋勇)
-6. [明日方舟要出博士剧情？](https://www.zhihu.com/search?q=明日方舟)
+5. [明日方舟要出博士剧情？](https://www.zhihu.com/search?q=明日方舟)
+6. [蒋勇律师去世](https://www.zhihu.com/search?q=蒋勇)
 7. [主播滕杨天下涉赌被提起公诉](https://www.zhihu.com/search?q=滕杨天下)
 8. [葡萄牙 2:2 战平法国](https://www.zhihu.com/search?q=葡萄牙队)
 9. [《千古玦尘》配音引争议](https://www.zhihu.com/search?q=千古玦尘配音)
