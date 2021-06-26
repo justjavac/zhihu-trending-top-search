@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jun 27 2021 04:08:28 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jun 27 2021 05:06:09 GMT+0800 (China Standard Time) -->
 
 1. [乌合麒麟道歉](https://www.zhihu.com/search?q=乌合麒麟)
 2. [马嘉祺高考成绩](https://www.zhihu.com/search?q=马嘉祺高考)
