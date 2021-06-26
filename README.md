@@ -14,14 +14,14 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jun 26 2021 10:18:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jun 26 2021 11:06:22 GMT+0800 (China Standard Time) -->
 
 1. [Windows 11 系统发布](https://www.zhihu.com/search?q=windows 11)
-2. [《一人之下》565 话](https://www.zhihu.com/search?q=一人之下)
-3. [杀毒软件之父死于狱中](https://www.zhihu.com/search?q=杀毒软件之父)
-4. [江苏高考分数线揭晓](https://www.zhihu.com/search?q=江西高考)
-5. [《千古玦尘》配音引争议](https://www.zhihu.com/search?q=千古玦尘配音)
-6. [Steam 夏季大特卖](https://www.zhihu.com/search?q=Steam)
+2. [杀毒软件之父死于狱中](https://www.zhihu.com/search?q=杀毒软件之父)
+3. [江苏高考分数线揭晓](https://www.zhihu.com/search?q=江西高考)
+4. [《千古玦尘》配音引争议](https://www.zhihu.com/search?q=千古玦尘配音)
+5. [Steam 夏季大特卖](https://www.zhihu.com/search?q=Steam)
+6. [《一人之下》565 话](https://www.zhihu.com/search?q=一人之下)
 7. [葡萄牙 2:2 战平法国](https://www.zhihu.com/search?q=葡萄牙队)
 
 <!-- END -->
