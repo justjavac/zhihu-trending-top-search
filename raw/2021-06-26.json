@@ -1,9 +1,9 @@
 [
   { "query": "windows 11", "display_query": "Windows 11 系统发布" },
-  { "query": "杀毒软件之父", "display_query": "杀毒软件之父死于狱中" },
   { "query": "江西高考", "display_query": "江苏高考分数线揭晓" },
   { "query": "千古玦尘配音", "display_query": "《千古玦尘》配音引争议" },
   { "query": "Steam", "display_query": "Steam 夏季大特卖" },
+  { "query": "杀毒软件之父", "display_query": "杀毒软件之父死于狱中" },
   { "query": "一人之下", "display_query": "《一人之下》565 话" },
   { "query": "葡萄牙队", "display_query": "葡萄牙 2:2 战平法国" }
 ]
