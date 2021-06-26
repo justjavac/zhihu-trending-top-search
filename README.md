@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jun 26 2021 13:04:28 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jun 26 2021 14:06:53 GMT+0800 (China Standard Time) -->
 
 1. [Windows 11 系统发布](https://www.zhihu.com/search?q=windows 11)
 2. [江苏高考分数线揭晓](https://www.zhihu.com/search?q=江西高考)
