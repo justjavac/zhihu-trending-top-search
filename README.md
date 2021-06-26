@@ -14,19 +14,20 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jun 26 2021 15:06:15 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jun 26 2021 16:08:01 GMT+0800 (China Standard Time) -->
 
-1. [Windows 11 系统发布](https://www.zhihu.com/search?q=windows 11)
-2. [江苏高考分数线揭晓](https://www.zhihu.com/search?q=江西高考)
-3. [《千古玦尘》配音引争议](https://www.zhihu.com/search?q=千古玦尘配音)
-4. [Steam 夏季大特卖](https://www.zhihu.com/search?q=Steam)
-5. [海贼王 1017 话更新](https://www.zhihu.com/search?q=海贼王)
-6. [特斯拉召回 28 万辆车](https://www.zhihu.com/search?q=特斯拉 召回)
-7. [华为 P 50 将于 7 月底发布](https://www.zhihu.com/search?q=华为p50)
-8. [乌合麒麟道歉](https://www.zhihu.com/search?q=乌合麒麟)
-9. [杀毒软件之父死于狱中](https://www.zhihu.com/search?q=杀毒软件之父)
-10. [《一人之下》565 话](https://www.zhihu.com/search?q=一人之下)
-11. [葡萄牙 2:2 战平法国](https://www.zhihu.com/search?q=葡萄牙队)
+1. [乌合麒麟道歉](https://www.zhihu.com/search?q=乌合麒麟)
+2. [Windows 11 系统发布](https://www.zhihu.com/search?q=windows 11)
+3. [海贼王 1017 话更新](https://www.zhihu.com/search?q=海贼王)
+4. [马嘉祺高考成绩](https://www.zhihu.com/search?q=马嘉祺高考)
+5. [江苏高考分数线揭晓](https://www.zhihu.com/search?q=江西高考)
+6. [华为 P 50 将于 7 月底发布](https://www.zhihu.com/search?q=华为p50)
+7. [特斯拉召回 28 万辆车](https://www.zhihu.com/search?q=特斯拉 召回)
+8. [《千古玦尘》配音引争议](https://www.zhihu.com/search?q=千古玦尘配音)
+9. [Steam 夏季大特卖](https://www.zhihu.com/search?q=Steam)
+10. [杀毒软件之父死于狱中](https://www.zhihu.com/search?q=杀毒软件之父)
+11. [《一人之下》565 话](https://www.zhihu.com/search?q=一人之下)
+12. [葡萄牙 2:2 战平法国](https://www.zhihu.com/search?q=葡萄牙队)
 
 <!-- END -->
 
