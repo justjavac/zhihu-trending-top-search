@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jun 28 2021 04:07:56 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jun 28 2021 05:06:36 GMT+0800 (China Standard Time) -->
 
 1. [乌合麒麟道歉](https://www.zhihu.com/search?q=乌合麒麟)
 2. [马嘉祺高考成绩](https://www.zhihu.com/search?q=马嘉祺高考)
@@ -25,6 +25,7 @@
 7. [特斯拉召回 28 万辆车](https://www.zhihu.com/search?q=特斯拉 召回)
 8. [贝尔被记者惹怒](https://www.zhihu.com/search?q=贝尔)
 9. [今年新增 37 个本科专业](https://www.zhihu.com/search?q=新专业)
+10. [葡萄牙无缘欧洲杯八强](https://www.zhihu.com/search?q=葡萄牙队)
 
 <!-- END -->
 
