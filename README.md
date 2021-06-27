@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jun 27 2021 13:04:32 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jun 27 2021 14:07:50 GMT+0800 (China Standard Time) -->
 
 1. [乌合麒麟道歉](https://www.zhihu.com/search?q=乌合麒麟)
 2. [马嘉祺高考成绩](https://www.zhihu.com/search?q=马嘉祺高考)
@@ -22,9 +22,10 @@
 4. [华为 P 50 将于 7 月底发布](https://www.zhihu.com/search?q=华为p50)
 5. [海贼王 1017 话更新](https://www.zhihu.com/search?q=海贼王)
 6. [特斯拉召回 28 万辆车](https://www.zhihu.com/search?q=特斯拉 召回)
-7. [《千古玦尘》配音引争议](https://www.zhihu.com/search?q=千古玦尘配音)
-8. [Steam 夏季大特卖](https://www.zhihu.com/search?q=Steam)
-9. [Windows 11 系统发布](https://www.zhihu.com/search?q=windows 11)
+7. [贝尔被记者惹怒](https://www.zhihu.com/search?q=贝尔)
+8. [《千古玦尘》配音引争议](https://www.zhihu.com/search?q=千古玦尘配音)
+9. [Steam 夏季大特卖](https://www.zhihu.com/search?q=Steam)
+10. [Windows 11 系统发布](https://www.zhihu.com/search?q=windows 11)
 
 <!-- END -->
 
