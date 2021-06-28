@@ -14,15 +14,15 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jun 28 2021 18:06:08 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jun 28 2021 19:04:27 GMT+0800 (China Standard Time) -->
 
-1. [原神新角色演示 PV](https://www.zhihu.com/search?q=原神)
-2. [《电锯人》发布动画 PV](https://www.zhihu.com/search?q=电锯人)
-3. [荣耀 50 首销 1 分钟破 5 亿](https://www.zhihu.com/search?q=荣耀50)
+1. [《电锯人》发布动画 PV](https://www.zhihu.com/search?q=电锯人)
+2. [荣耀 50 首销 1 分钟破 5 亿](https://www.zhihu.com/search?q=荣耀50)
+3. [原神新角色演示 PV](https://www.zhihu.com/search?q=原神)
 4. [乌克兰撤回反华声明联署](https://www.zhihu.com/search?q=乌克兰)
 5. [瑞克和莫蒂第五季更新](https://www.zhihu.com/search?q=瑞克和莫蒂)
-6. [今年新增 37 个本科专业](https://www.zhihu.com/search?q=新专业)
-7. [我国人均国民收入超 1 万美元](https://www.zhihu.com/search?q=人均国民收入)
+6. [我国人均国民收入超 1 万美元](https://www.zhihu.com/search?q=人均国民收入)
+7. [今年新增 37 个本科专业](https://www.zhihu.com/search?q=新专业)
 8. [小米电视 6 系列发布](https://www.zhihu.com/search?q=小米电视)
 9. [葡萄牙无缘欧洲杯八强](https://www.zhihu.com/search?q=葡萄牙队)
 10. [高校录取通知书](https://www.zhihu.com/search?q=高校录取通知书)
