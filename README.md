@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jun 29 2021 03:06:52 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jun 29 2021 04:05:45 GMT+0800 (China Standard Time) -->
 
 1. [《电锯人》发布动画 PV](https://www.zhihu.com/search?q=电锯人)
 2. [原神新角色演示 PV](https://www.zhihu.com/search?q=原神)
@@ -24,9 +24,9 @@
 6. [我国人均国民收入超 1 万美元](https://www.zhihu.com/search?q=人均国民收入)
 7. [小米电视 6 系列发布](https://www.zhihu.com/search?q=小米电视)
 8. [今年新增 37 个本科专业](https://www.zhihu.com/search?q=新专业)
-9. [西班牙加时 5:3 淘汰克罗地亚](https://www.zhihu.com/search?q=西班牙队)
-10. [葡萄牙无缘欧洲杯八强](https://www.zhihu.com/search?q=葡萄牙队)
-11. [高校录取通知书](https://www.zhihu.com/search?q=高校录取通知书)
+9. [葡萄牙无缘欧洲杯八强](https://www.zhihu.com/search?q=葡萄牙队)
+10. [高校录取通知书](https://www.zhihu.com/search?q=高校录取通知书)
+11. [西班牙加时 5:3 淘汰克罗地亚](https://www.zhihu.com/search?q=西班牙队)
 
 <!-- END -->
 
