@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jun 29 2021 13:04:47 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jun 29 2021 14:07:06 GMT+0800 (China Standard Time) -->
 
 1. [原神新角色演示 PV](https://www.zhihu.com/search?q=原神)
 2. [荣耀 50 首销 1 分钟破 5 亿](https://www.zhihu.com/search?q=荣耀50)
