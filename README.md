@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jun 29 2021 22:05:18 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jun 29 2021 23:05:51 GMT+0800 (China Standard Time) -->
 
 1. [张桂梅获「七一勋章」](https://www.zhihu.com/search?q=张桂梅)
 2. [荣耀 50 首销 1 分钟破 5 亿](https://www.zhihu.com/search?q=荣耀50)
