@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jun 29 2021 23:05:51 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jun 30 2021 00:08:11 GMT+0800 (China Standard Time) -->
 
 1. [张桂梅获「七一勋章」](https://www.zhihu.com/search?q=张桂梅)
 2. [荣耀 50 首销 1 分钟破 5 亿](https://www.zhihu.com/search?q=荣耀50)
@@ -26,13 +26,6 @@
 8. [你会给宠物吃玻尿酸粮吗？](https://www.zhihu.com/search?q=玻尿酸宠物粮)
 9. [五菱宏光 MINIEV 安全吗](https://www.zhihu.com/search?q=MINIEV)
 10. [Apple Watch 获药管局医疗器械批准](https://www.zhihu.com/search?q=Apple Watch)
-11. [《电锯人》发布动画 PV](https://www.zhihu.com/search?q=电锯人)
-12. [原神新角色演示 PV](https://www.zhihu.com/search?q=原神)
-13. [小米电视 6 系列发布](https://www.zhihu.com/search?q=小米电视)
-14. [今年新增 37 个本科专业](https://www.zhihu.com/search?q=新专业)
-15. [乌克兰撤回反华声明联署](https://www.zhihu.com/search?q=乌克兰)
-16. [瑞克和莫蒂第五季更新](https://www.zhihu.com/search?q=瑞克和莫蒂)
-17. [葡萄牙无缘欧洲杯八强](https://www.zhihu.com/search?q=葡萄牙队)
 
 <!-- END -->
 
