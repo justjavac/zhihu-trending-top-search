@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jun 29 2021 08:20:04 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jun 29 2021 09:47:13 GMT+0800 (China Standard Time) -->
 
 1. [瑞克和莫蒂第五季更新](https://www.zhihu.com/search?q=瑞克和莫蒂)
 2. [原神新角色演示 PV](https://www.zhihu.com/search?q=原神)
