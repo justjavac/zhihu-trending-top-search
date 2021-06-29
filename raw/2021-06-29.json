@@ -1,6 +1,5 @@
 [
   { "query": "张桂梅", "display_query": "张桂梅获「七一勋章」" },
-  { "query": "原神", "display_query": "原神新角色演示 PV" },
   { "query": "荣耀50", "display_query": "荣耀 50 首销 1 分钟破 5 亿" },
   { "query": "电锯人", "display_query": "《电锯人》发布动画 PV  " },
   { "query": "人均国民收入", "display_query": "我国人均国民收入超 1 万美元" },
@@ -8,7 +7,9 @@
   { "query": "骁龙888plus", "display_query": "高通骁龙 888 Plus 发布" },
   { "query": "西班牙队", "display_query": "西班牙加时 5:3 淘汰克罗地亚" },
   { "query": "高校录取通知书", "display_query": "高校录取通知书" },
+  { "query": "MINIEV", "display_query": "五菱宏光 MINIEV 安全吗" },
   { "query": "Apple Watch", "display_query": "Apple Watch 获药管局医疗器械批准" },
+  { "query": "原神", "display_query": "原神新角色演示 PV" },
   { "query": "小米电视", "display_query": "小米电视 6 系列发布" },
   { "query": "新专业", "display_query": "今年新增 37 个本科专业" },
   { "query": "乌克兰", "display_query": "乌克兰撤回反华声明联署" },
