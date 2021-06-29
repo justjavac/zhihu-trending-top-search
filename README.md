@@ -14,19 +14,19 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jun 29 2021 21:13:48 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jun 29 2021 22:05:18 GMT+0800 (China Standard Time) -->
 
 1. [张桂梅获「七一勋章」](https://www.zhihu.com/search?q=张桂梅)
 2. [荣耀 50 首销 1 分钟破 5 亿](https://www.zhihu.com/search?q=荣耀50)
-3. [《电锯人》发布动画 PV](https://www.zhihu.com/search?q=电锯人)
-4. [我国人均国民收入超 1 万美元](https://www.zhihu.com/search?q=人均国民收入)
-5. [姆巴佩失点法国无缘八强](https://www.zhihu.com/search?q=法国队)
-6. [高通骁龙 888 Plus 发布](https://www.zhihu.com/search?q=骁龙888plus)
-7. [高校录取通知书](https://www.zhihu.com/search?q=高校录取通知书)
-8. [西班牙加时 5:3 淘汰克罗地亚](https://www.zhihu.com/search?q=西班牙队)
-9. [你会给宠物吃玻尿酸粮吗？](https://www.zhihu.com/search?q=玻尿酸宠物粮)
-10. [五菱宏光 MINIEV 安全吗](https://www.zhihu.com/search?q=MINIEV)
-11. [Apple Watch 获药管局医疗器械批准](https://www.zhihu.com/search?q=Apple Watch)
+3. [我国人均国民收入超 1 万美元](https://www.zhihu.com/search?q=人均国民收入)
+4. [姆巴佩失点法国无缘八强](https://www.zhihu.com/search?q=法国队)
+5. [高通骁龙 888 Plus 发布](https://www.zhihu.com/search?q=骁龙888plus)
+6. [高校录取通知书](https://www.zhihu.com/search?q=高校录取通知书)
+7. [西班牙加时 5:3 淘汰克罗地亚](https://www.zhihu.com/search?q=西班牙队)
+8. [你会给宠物吃玻尿酸粮吗？](https://www.zhihu.com/search?q=玻尿酸宠物粮)
+9. [五菱宏光 MINIEV 安全吗](https://www.zhihu.com/search?q=MINIEV)
+10. [Apple Watch 获药管局医疗器械批准](https://www.zhihu.com/search?q=Apple Watch)
+11. [《电锯人》发布动画 PV](https://www.zhihu.com/search?q=电锯人)
 12. [原神新角色演示 PV](https://www.zhihu.com/search?q=原神)
 13. [小米电视 6 系列发布](https://www.zhihu.com/search?q=小米电视)
 14. [今年新增 37 个本科专业](https://www.zhihu.com/search?q=新专业)
