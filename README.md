@@ -14,20 +14,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jun 29 2021 12:06:53 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jun 29 2021 13:04:47 GMT+0800 (China Standard Time) -->
 
 1. [原神新角色演示 PV](https://www.zhihu.com/search?q=原神)
 2. [荣耀 50 首销 1 分钟破 5 亿](https://www.zhihu.com/search?q=荣耀50)
 3. [《电锯人》发布动画 PV](https://www.zhihu.com/search?q=电锯人)
-4. [乌克兰撤回反华声明联署](https://www.zhihu.com/search?q=乌克兰)
-5. [我国人均国民收入超 1 万美元](https://www.zhihu.com/search?q=人均国民收入)
-6. [姆巴佩失点法国无缘八强](https://www.zhihu.com/search?q=法国队)
-7. [小米电视 6 系列发布](https://www.zhihu.com/search?q=小米电视)
-8. [今年新增 37 个本科专业](https://www.zhihu.com/search?q=新专业)
-9. [西班牙加时 5:3 淘汰克罗地亚](https://www.zhihu.com/search?q=西班牙队)
-10. [高校录取通知书](https://www.zhihu.com/search?q=高校录取通知书)
-11. [瑞克和莫蒂第五季更新](https://www.zhihu.com/search?q=瑞克和莫蒂)
-12. [葡萄牙无缘欧洲杯八强](https://www.zhihu.com/search?q=葡萄牙队)
+4. [我国人均国民收入超 1 万美元](https://www.zhihu.com/search?q=人均国民收入)
+5. [姆巴佩失点法国无缘八强](https://www.zhihu.com/search?q=法国队)
+6. [小米电视 6 系列发布](https://www.zhihu.com/search?q=小米电视)
+7. [今年新增 37 个本科专业](https://www.zhihu.com/search?q=新专业)
+8. [西班牙加时 5:3 淘汰克罗地亚](https://www.zhihu.com/search?q=西班牙队)
+9. [高校录取通知书](https://www.zhihu.com/search?q=高校录取通知书)
+10. [Apple Watch 获药管局医疗器械批准](https://www.zhihu.com/search?q=Apple Watch)
+11. [乌克兰撤回反华声明联署](https://www.zhihu.com/search?q=乌克兰)
+12. [瑞克和莫蒂第五季更新](https://www.zhihu.com/search?q=瑞克和莫蒂)
+13. [葡萄牙无缘欧洲杯八强](https://www.zhihu.com/search?q=葡萄牙队)
 
 <!-- END -->
 
