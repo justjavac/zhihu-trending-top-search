@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jun 30 2021 13:04:58 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jun 30 2021 14:08:12 GMT+0800 (China Standard Time) -->
 
 1. [张桂梅获「七一勋章」](https://www.zhihu.com/search?q=张桂梅)
 2. [我国人均国民收入超 1 万美元](https://www.zhihu.com/search?q=人均国民收入)
