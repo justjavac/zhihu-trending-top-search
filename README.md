@@ -14,22 +14,24 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jun 30 2021 22:05:16 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jun 30 2021 23:06:07 GMT+0800 (China Standard Time) -->
 
-1. [张桂梅获「七一勋章」](https://www.zhihu.com/search?q=张桂梅)
-2. [《奇蛋物语》特别篇上映](https://www.zhihu.com/search?q=奇蛋物语)
-3. [《一拳超人》192 话](https://www.zhihu.com/search?q=一拳超人)
-4. [高通骁龙 888 Plus 发布](https://www.zhihu.com/search?q=骁龙888plus)
-5. [姆巴佩失点法国无缘八强](https://www.zhihu.com/search?q=法国队)
-6. [英格兰 2:0 淘汰德国](https://www.zhihu.com/search?q=英格兰队)
-7. [华为公开「唇动解锁」新专利](https://www.zhihu.com/search?q=唇动解锁)
-8. [你会给宠物吃玻尿酸粮吗？](https://www.zhihu.com/search?q=玻尿酸宠物粮)
-9. [五菱宏光 MINIEV 安全吗](https://www.zhihu.com/search?q=MINIEV)
-10. [我国人均国民收入超 1 万美元](https://www.zhihu.com/search?q=人均国民收入)
-11. [高校录取通知书](https://www.zhihu.com/search?q=高校录取通知书)
-12. [荣耀 50 首销 1 分钟破 5 亿](https://www.zhihu.com/search?q=荣耀50)
-13. [Apple Watch 获药管局医疗器械批准](https://www.zhihu.com/search?q=Apple Watch)
-14. [西班牙加时 5:3 淘汰克罗地亚](https://www.zhihu.com/search?q=西班牙队)
+1. [长沙橘洲建党百年烟花秀](https://www.zhihu.com/search?q=长沙烟花秀)
+2. [张桂梅获「七一勋章」](https://www.zhihu.com/search?q=张桂梅)
+3. [《奇蛋物语》特别篇上映](https://www.zhihu.com/search?q=奇蛋物语)
+4. [《一拳超人》192 话](https://www.zhihu.com/search?q=一拳超人)
+5. [高通骁龙 888 Plus 发布](https://www.zhihu.com/search?q=骁龙888plus)
+6. [我国人均国民收入超 1 万美元](https://www.zhihu.com/search?q=人均国民收入)
+7. [航天员在太空祝党生日快乐](https://www.zhihu.com/search?q=中国空间站)
+8. [姆巴佩失点法国无缘八强](https://www.zhihu.com/search?q=法国队)
+9. [英格兰 2:0 淘汰德国](https://www.zhihu.com/search?q=英格兰队)
+10. [华为公开「唇动解锁」新专利](https://www.zhihu.com/search?q=唇动解锁)
+11. [你会给宠物吃玻尿酸粮吗？](https://www.zhihu.com/search?q=玻尿酸宠物粮)
+12. [五菱宏光 MINIEV 安全吗](https://www.zhihu.com/search?q=MINIEV)
+13. [高校录取通知书](https://www.zhihu.com/search?q=高校录取通知书)
+14. [荣耀 50 首销 1 分钟破 5 亿](https://www.zhihu.com/search?q=荣耀50)
+15. [Apple Watch 获药管局医疗器械批准](https://www.zhihu.com/search?q=Apple Watch)
+16. [西班牙加时 5:3 淘汰克罗地亚](https://www.zhihu.com/search?q=西班牙队)
 
 <!-- END -->
 
