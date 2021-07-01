@@ -7,6 +7,6 @@
   { "query": "人均国民收入", "display_query": "我国人均国民收入超 1 万美元" },
   { "query": "新规", "display_query": "7 月这些新规开始实施" },
   { "query": "新冠疫苗接种", "display_query": "全国新冠疫苗接种剂次超 12 亿" },
-  { "query": "新专业", "display_query": "今年新增 37 个本科专业" },
-  { "query": "高校录取通知书", "display_query": "高校录取通知书" }
+  { "query": "高校录取通知书", "display_query": "高校录取通知书" },
+  { "query": "新专业", "display_query": "今年新增 37 个本科专业" }
 ]
