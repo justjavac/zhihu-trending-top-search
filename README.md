@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jul 01 2021 23:06:17 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jul 02 2021 00:08:04 GMT+0800 (China Standard Time) -->
 
 1. [第一个百年奋斗目标实现](https://www.zhihu.com/search?q=百年奋斗目标)
 2. [中国空间站发来生日祝福](https://www.zhihu.com/search?q=空间站)
@@ -26,11 +26,6 @@
 8. [全国新冠疫苗接种剂次超 12 亿](https://www.zhihu.com/search?q=新冠疫苗接种)
 9. [长沙橘洲建党百年烟花秀](https://www.zhihu.com/search?q=长沙烟花秀)
 10. [7 月这些新规开始实施](https://www.zhihu.com/search?q=新规)
-11. [张桂梅获「七一勋章」](https://www.zhihu.com/search?q=张桂梅)
-12. [华为公开「唇动解锁」新专利](https://www.zhihu.com/search?q=唇动解锁)
-13. [我国人均国民收入超 1 万美元](https://www.zhihu.com/search?q=人均国民收入)
-14. [高校录取通知书](https://www.zhihu.com/search?q=高校录取通知书)
-15. [今年新增 37 个本科专业](https://www.zhihu.com/search?q=新专业)
 
 <!-- END -->
 
