@@ -14,17 +14,17 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jul 01 2021 11:07:45 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jul 01 2021 12:06:59 GMT+0800 (China Standard Time) -->
 
 1. [建党 100 周年庆祝大会](https://www.zhihu.com/search?q=庆祝大会)
-2. [张桂梅获「七一勋章」](https://www.zhihu.com/search?q=张桂梅)
-3. [航天员在太空祝党生日快乐](https://www.zhihu.com/search?q=中国空间站)
-4. [长沙橘洲建党百年烟花秀](https://www.zhihu.com/search?q=长沙烟花秀)
-5. [华为公开「唇动解锁」新专利](https://www.zhihu.com/search?q=唇动解锁)
-6. [我国人均国民收入超 1 万美元](https://www.zhihu.com/search?q=人均国民收入)
-7. [7 月这些新规开始实施](https://www.zhihu.com/search?q=新规)
-8. [全国新冠疫苗接种剂次超 12 亿](https://www.zhihu.com/search?q=新冠疫苗接种)
-9. [歼-10 歼-20 亮相庆祝大会](https://www.zhihu.com/search?q=歼20)
+2. [歼-10 歼-20 亮相庆祝大会](https://www.zhihu.com/search?q=歼20)
+3. [张桂梅获「七一勋章」](https://www.zhihu.com/search?q=张桂梅)
+4. [航天员在太空祝党生日快乐](https://www.zhihu.com/search?q=中国空间站)
+5. [长沙橘洲建党百年烟花秀](https://www.zhihu.com/search?q=长沙烟花秀)
+6. [华为公开「唇动解锁」新专利](https://www.zhihu.com/search?q=唇动解锁)
+7. [我国人均国民收入超 1 万美元](https://www.zhihu.com/search?q=人均国民收入)
+8. [7 月这些新规开始实施](https://www.zhihu.com/search?q=新规)
+9. [全国新冠疫苗接种剂次超 12 亿](https://www.zhihu.com/search?q=新冠疫苗接种)
 10. [《革命者》献礼建党百年](https://www.zhihu.com/search?q=革命者)
 11. [高校录取通知书](https://www.zhihu.com/search?q=高校录取通知书)
 12. [今年新增 37 个本科专业](https://www.zhihu.com/search?q=新专业)
