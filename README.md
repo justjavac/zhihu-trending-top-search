@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jul 02 2021 13:06:56 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jul 02 2021 14:06:03 GMT+0800 (China Standard Time) -->
 
 1. [第一个百年奋斗目标实现](https://www.zhihu.com/search?q=百年奋斗目标)
 2. [中国空间站发来生日祝福](https://www.zhihu.com/search?q=空间站)
@@ -24,8 +24,10 @@
 6. [航天员在太空祝党生日快乐](https://www.zhihu.com/search?q=中国空间站)
 7. [《革命者》献礼建党百年](https://www.zhihu.com/search?q=革命者)
 8. [全国新冠疫苗接种剂次超 12 亿](https://www.zhihu.com/search?q=新冠疫苗接种)
-9. [长沙橘洲建党百年烟花秀](https://www.zhihu.com/search?q=长沙烟花秀)
-10. [7 月这些新规开始实施](https://www.zhihu.com/search?q=新规)
+9. [合肥市民在延乔路献花](https://www.zhihu.com/search?q=合肥延乔路)
+10. [白鹤滩水电站正式投产发电](https://www.zhihu.com/search?q=白鹤滩水电站)
+11. [长沙橘洲建党百年烟花秀](https://www.zhihu.com/search?q=长沙烟花秀)
+12. [7 月这些新规开始实施](https://www.zhihu.com/search?q=新规)
 
 <!-- END -->
 
