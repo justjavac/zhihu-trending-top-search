@@ -14,12 +14,12 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jul 04 2021 08:18:50 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jul 04 2021 09:47:44 GMT+0800 (China Standard Time) -->
 
 1. [第一个百年奋斗目标实现](https://www.zhihu.com/search?q=百年奋斗目标)
 2. [感染幽门螺杆菌或诱发胃癌](https://www.zhihu.com/search?q=幽门螺杆菌)
-3. [5 毫米铅笔芯上微雕天安门](https://www.zhihu.com/search?q=微雕天安门)
-4. [福岛核电站集装箱腐蚀或凹陷](https://www.zhihu.com/search?q=福岛核电站)
+3. [福岛核电站集装箱腐蚀或凹陷](https://www.zhihu.com/search?q=福岛核电站)
+4. [5 毫米铅笔芯上微雕天安门](https://www.zhihu.com/search?q=微雕天安门)
 5. [意大利晋级欧洲杯四强](https://www.zhihu.com/search?q=意大利队)
 6. [许愿 2021 下半年](https://www.zhihu.com/search?q=2021 下半年)
 7. [加拿大气温飙升致上百人死亡](https://www.zhihu.com/search?q=加拿大气温飙升)
