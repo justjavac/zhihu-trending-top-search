@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jul 05 2021 23:06:14 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jul 06 2021 00:08:00 GMT+0800 (China Standard Time) -->
 
 1. [江苏女生中考 8 门满分](https://www.zhihu.com/search?q=中考)
 2. [滴滴出行 APP 下架](https://www.zhihu.com/search?q=滴滴下架)
@@ -26,17 +26,6 @@
 8. [青岛遭最大规模浒苔侵袭](https://www.zhihu.com/search?q=青岛 浒苔)
 9. [女子网恋被骗八百多万](https://www.zhihu.com/search?q=网恋被骗)
 10. [中国邮政储蓄银行被罚 449 万](https://www.zhihu.com/search?q=中国邮政储蓄银行)
-11. [雷军赠金山员工每人 600 股](https://www.zhihu.com/search?q=金山股票)
-12. [湖南卫视毕业礼](https://www.zhihu.com/search?q=2021毕业礼)
-13. [中国空间站航天员首次出舱活动](https://www.zhihu.com/search?q=首次出舱)
-14. [福岛核电站集装箱腐蚀或凹陷](https://www.zhihu.com/search?q=福岛核电站)
-15. [刘亦菲代言《传奇世界》](https://www.zhihu.com/search?q=传奇世界手游)
-16. [小米将以 2.05 亿美元收购紫米](https://www.zhihu.com/search?q=小米收购紫米)
-17. [加拿大气温飙升致上百人死亡](https://www.zhihu.com/search?q=加拿大气温飙升)
-18. [明日方舟新活动新模式 ](https://www.zhihu.com/search?q=明日方舟 联锁竞赛)
-19. [感染幽门螺杆菌或诱发胃癌](https://www.zhihu.com/search?q=幽门螺杆菌)
-20. [反网络黑灰产联盟成立](https://www.zhihu.com/search?q=TapTap)
-21. [意大利晋级欧洲杯四强](https://www.zhihu.com/search?q=意大利队)
 
 <!-- END -->
 
