@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jul 06 2021 01:13:07 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jul 06 2021 02:06:23 GMT+0800 (China Standard Time) -->
 
 1. [江苏女生中考 8 门满分](https://www.zhihu.com/search?q=中考)
 2. [滴滴出行 APP 下架](https://www.zhihu.com/search?q=滴滴下架)
