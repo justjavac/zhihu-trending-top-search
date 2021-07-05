@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jul 05 2021 18:06:23 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jul 05 2021 19:04:30 GMT+0800 (China Standard Time) -->
 
 1. [江苏女生中考 8 门满分](https://www.zhihu.com/search?q=中考)
 2. [滴滴出行 APP 下架](https://www.zhihu.com/search?q=滴滴下架)
@@ -23,8 +23,8 @@
 5. [云南新增 3 例本土确诊](https://www.zhihu.com/search?q=云南疫情)
 6. [湖南卫视毕业礼](https://www.zhihu.com/search?q=2021毕业礼)
 7. [控制欲算爱的表现吗](https://www.zhihu.com/search?q=扑通扑通的心)
-8. [青岛遭最大规模浒苔侵袭](https://www.zhihu.com/search?q=青岛 浒苔)
-9. [瑞克和莫蒂第五季第三集](https://www.zhihu.com/search?q=瑞克和莫蒂)
+8. [瑞克和莫蒂第五季第三集](https://www.zhihu.com/search?q=瑞克和莫蒂)
+9. [青岛遭最大规模浒苔侵袭](https://www.zhihu.com/search?q=青岛 浒苔)
 10. [女子网恋被骗八百多万](https://www.zhihu.com/search?q=网恋被骗)
 11. [雷军赠金山员工每人 600 股](https://www.zhihu.com/search?q=金山股票)
 12. [中国邮政储蓄银行被罚 449 万](https://www.zhihu.com/search?q=中国邮政储蓄银行)
