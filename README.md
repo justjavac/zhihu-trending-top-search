@@ -14,20 +14,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jul 06 2021 12:06:59 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jul 06 2021 13:04:47 GMT+0800 (China Standard Time) -->
 
 1. [萧亚轩 谢谢你你的一切再见](https://www.zhihu.com/search?q=萧亚轩)
 2. [滴滴出行 APP 下架](https://www.zhihu.com/search?q=滴滴下架)
 3. [林生斌再婚得女](https://www.zhihu.com/search?q=林生斌)
-4. [江苏女生中考 8 门满分](https://www.zhihu.com/search?q=中考)
-5. [瑞克和莫蒂第五季第三集](https://www.zhihu.com/search?q=瑞克和莫蒂)
+4. [小米再发 1.2 亿股重奖技术人才](https://www.zhihu.com/search?q=小米)
+5. [江苏女生中考 8 门满分](https://www.zhihu.com/search?q=中考)
 6. [控制欲算爱的表现吗](https://www.zhihu.com/search?q=扑通扑通的心)
 7. [云南新增 3 例本土确诊](https://www.zhihu.com/search?q=云南疫情)
-8. [青岛遭最大规模浒苔侵袭](https://www.zhihu.com/search?q=青岛 浒苔)
-9. [腾讯游戏上线「零点巡航」功能](https://www.zhihu.com/search?q=腾讯游戏)
-10. [中国邮政储蓄银行被罚 449 万](https://www.zhihu.com/search?q=中国邮政储蓄银行)
-11. [我的世界加入文言文](https://www.zhihu.com/search?q=我的世界)
-12. [女子网恋被骗八百多万](https://www.zhihu.com/search?q=网恋被骗)
+8. [瑞克和莫蒂第五季第三集](https://www.zhihu.com/search?q=瑞克和莫蒂)
+9. [中国移动成立芯片公司](https://www.zhihu.com/search?q=中国移动)
+10. [青岛遭最大规模浒苔侵袭](https://www.zhihu.com/search?q=青岛 浒苔)
+11. [腾讯游戏上线「零点巡航」功能](https://www.zhihu.com/search?q=腾讯游戏)
+12. [中国邮政储蓄银行被罚 449 万](https://www.zhihu.com/search?q=中国邮政储蓄银行)
+13. [我的世界加入文言文](https://www.zhihu.com/search?q=我的世界)
+14. [女子网恋被骗八百多万](https://www.zhihu.com/search?q=网恋被骗)
 
 <!-- END -->
 
