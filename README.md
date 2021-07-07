@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jul 07 2021 16:06:49 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jul 07 2021 17:05:51 GMT+0800 (China Standard Time) -->
 
 1. [中国移动成立芯片公司](https://www.zhihu.com/search?q=中国移动)
 2. [七七事变 84 周年](https://www.zhihu.com/search?q=七七事变)
