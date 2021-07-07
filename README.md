@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jul 07 2021 10:19:05 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jul 07 2021 11:05:55 GMT+0800 (China Standard Time) -->
 
 1. [中国移动成立芯片公司](https://www.zhihu.com/search?q=中国移动)
 2. [小米再发 1.2 亿股重奖技术人才](https://www.zhihu.com/search?q=小米)
@@ -25,8 +25,8 @@
 7. [云南新增 3 例本土确诊](https://www.zhihu.com/search?q=云南疫情)
 8. [四川 4 人自家化粪池死亡](https://www.zhihu.com/search?q=化粪池 坠亡)
 9. [意大利点球大战淘汰西班牙](https://www.zhihu.com/search?q=意大利队)
-10. [青岛遭最大规模浒苔侵袭](https://www.zhihu.com/search?q=青岛 浒苔)
-11. [深圳禁止 APP「不全面授权就不让用」](https://www.zhihu.com/search?q=大数据杀熟)
+10. [深圳禁止 APP「不全面授权就不让用」](https://www.zhihu.com/search?q=大数据杀熟)
+11. [青岛遭最大规模浒苔侵袭](https://www.zhihu.com/search?q=青岛 浒苔)
 12. [中国邮政储蓄银行被罚 449 万](https://www.zhihu.com/search?q=中国邮政储蓄银行)
 13. [女子网恋被骗八百多万](https://www.zhihu.com/search?q=网恋被骗)
 
