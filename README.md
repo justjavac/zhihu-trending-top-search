@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jul 08 2021 03:04:23 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jul 08 2021 04:06:09 GMT+0800 (China Standard Time) -->
 
 1. [七七事变 84 周年](https://www.zhihu.com/search?q=七七事变)
 2. [韩国跻身发达国家](https://www.zhihu.com/search?q=韩国 发达国家)
@@ -25,7 +25,8 @@
 7. [《眷思量》导演亲自答](https://www.zhihu.com/search?q=眷思量)
 8. [深圳禁止 APP 杀熟](https://www.zhihu.com/search?q=大数据杀熟)
 9. [意大利点球大战淘汰西班牙](https://www.zhihu.com/search?q=意大利队)
-10. [腾讯游戏「零点巡航」功能](https://www.zhihu.com/search?q=腾讯游戏)
+10. [四川 4 人化粪池中死亡](https://www.zhihu.com/search?q=化粪池坠亡)
+11. [腾讯游戏「零点巡航」功能](https://www.zhihu.com/search?q=腾讯游戏)
 
 <!-- END -->
 
