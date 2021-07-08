@@ -14,14 +14,14 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jul 08 2021 20:08:40 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jul 08 2021 21:15:54 GMT+0800 (China Standard Time) -->
 
 1. [林生斌回应火灾赔偿金去向](https://www.zhihu.com/search?q=林生斌)
 2. [滴滴 App 下架](https://www.zhihu.com/search?q=滴滴下架)
 3. [Switch 新机型公布](https://www.zhihu.com/search?q=switch)
-4. [韩国跻身发达国家](https://www.zhihu.com/search?q=韩国 发达国家)
+4. [福原爱江宏杰离婚](https://www.zhihu.com/search?q=福原爱)
 5. [《画江湖》第四季完结](https://www.zhihu.com/search?q=画江湖之不良人)
-6. [福原爱江宏杰离婚](https://www.zhihu.com/search?q=福原爱)
+6. [韩国跻身发达国家](https://www.zhihu.com/search?q=韩国 发达国家)
 7. [小林家的龙女仆第二季](https://www.zhihu.com/search?q=小林家的龙女仆)
 8. [上海多小区出现野生貉](https://www.zhihu.com/search?q=野生貉)
 9. [英格兰晋级欧洲杯决赛](https://www.zhihu.com/search?q=英格兰队)
