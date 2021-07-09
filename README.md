@@ -14,12 +14,12 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jul 10 2021 01:14:41 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jul 10 2021 02:06:39 GMT+0800 (China Standard Time) -->
 
 1. [滴滴企业版等 25 款 App 下架](https://www.zhihu.com/search?q=滴滴)
 2. [林生斌回应火灾赔偿金去向](https://www.zhihu.com/search?q=林生斌)
-3. [福原爱江宏杰离婚](https://www.zhihu.com/search?q=福原爱)
-4. [《中国医生》上映](https://www.zhihu.com/search?q=中国医生)
+3. [《中国医生》上映](https://www.zhihu.com/search?q=中国医生)
+4. [福原爱江宏杰离婚](https://www.zhihu.com/search?q=福原爱)
 5. [字节跳动取消大小周](https://www.zhihu.com/search?q=字节跳动)
 6. [一人之下 567 话](https://www.zhihu.com/search?q=一人之下)
 7. [《你好火焰蓝》开播](https://www.zhihu.com/search?q=你好火焰蓝)
