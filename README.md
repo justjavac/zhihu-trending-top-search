@@ -14,20 +14,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jul 12 2021 11:07:29 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jul 12 2021 12:07:18 GMT+0800 (China Standard Time) -->
 
 1. [意大利时隔 53 年再夺欧洲杯](https://www.zhihu.com/search?q=欧洲杯)
 2. [女子当街被强拽进车](https://www.zhihu.com/search?q=女子被强拽进车)
-3. [《中国医生》上映](https://www.zhihu.com/search?q=中国医生)
-4. [阿根廷夺冠](https://www.zhihu.com/search?q=阿根廷赢了)
-5. [北京暴雨](https://www.zhihu.com/search?q=北京暴雨)
+3. [阿根廷夺冠](https://www.zhihu.com/search?q=阿根廷赢了)
+4. [北京暴雨](https://www.zhihu.com/search?q=北京暴雨)
+5. [《失孤》原型儿子找到](https://www.zhihu.com/search?q=失孤)
 6. [时光代理人完结](https://www.zhihu.com/search?q=时光代理人)
-7. [滴滴企业版等 25 款 App 下架](https://www.zhihu.com/search?q=滴滴)
-8. [市监总局禁止虎牙与斗鱼合并](https://www.zhihu.com/search?q=虎牙斗鱼合并)
-9. [字节跳动取消大小周](https://www.zhihu.com/search?q=字节跳动)
-10. [欧洲杯意大利夺冠](https://www.zhihu.com/search?q=欧洲杯)
-11. [林生斌回应火灾赔偿金去向](https://www.zhihu.com/search?q=林生斌)
-12. [《你好火焰蓝》开播](https://www.zhihu.com/search?q=你好火焰蓝)
+7. [生化危机 CG 动画美剧](https://www.zhihu.com/search?q=生化危机：无尽黑暗)
+8. [《中国医生》上映](https://www.zhihu.com/search?q=中国医生)
+9. [滴滴企业版等 25 款 App 下架](https://www.zhihu.com/search?q=滴滴)
+10. [市监总局禁止虎牙与斗鱼合并](https://www.zhihu.com/search?q=虎牙斗鱼合并)
+11. [字节跳动取消大小周](https://www.zhihu.com/search?q=字节跳动)
+12. [欧洲杯意大利夺冠](https://www.zhihu.com/search?q=欧洲杯)
+13. [林生斌回应火灾赔偿金去向](https://www.zhihu.com/search?q=林生斌)
+14. [《你好火焰蓝》开播](https://www.zhihu.com/search?q=你好火焰蓝)
 
 <!-- END -->
 
