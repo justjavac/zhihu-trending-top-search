@@ -14,25 +14,26 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jul 12 2021 14:07:26 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jul 12 2021 15:05:03 GMT+0800 (China Standard Time) -->
 
 1. [意大利时隔 53 年再夺欧洲杯](https://www.zhihu.com/search?q=欧洲杯)
-2. [女子当街被强拽进车](https://www.zhihu.com/search?q=女子被强拽进车)
-3. [北京暴雨](https://www.zhihu.com/search?q=北京暴雨)
-4. [阿根廷夺冠](https://www.zhihu.com/search?q=阿根廷赢了)
+2. [北京暴雨](https://www.zhihu.com/search?q=北京暴雨)
+3. [阿根廷夺冠](https://www.zhihu.com/search?q=阿根廷赢了)
+4. [《失孤》原型儿子找到](https://www.zhihu.com/search?q=失孤)
 5. [瑞克和莫蒂第五季第四集](https://www.zhihu.com/search?q=瑞克和莫蒂)
 6. [时光代理人完结](https://www.zhihu.com/search?q=时光代理人)
 7. [《阴阳师》全新 SP 式神](https://www.zhihu.com/search?q=阴阳师)
-8. [《失孤》原型儿子找到](https://www.zhihu.com/search?q=失孤)
-9. [生化危机 CG 动画美剧](https://www.zhihu.com/search?q=生化危机：无尽黑暗)
-10. [曝全新 iPad mini 今秋发布](https://www.zhihu.com/search?q=iPad mini)
-11. [《中国医生》上映](https://www.zhihu.com/search?q=中国医生)
-12. [滴滴企业版等 25 款 App 下架](https://www.zhihu.com/search?q=滴滴)
-13. [市监总局禁止虎牙与斗鱼合并](https://www.zhihu.com/search?q=虎牙斗鱼合并)
-14. [字节跳动取消大小周](https://www.zhihu.com/search?q=字节跳动)
-15. [欧洲杯意大利夺冠](https://www.zhihu.com/search?q=欧洲杯)
-16. [林生斌回应火灾赔偿金去向](https://www.zhihu.com/search?q=林生斌)
-17. [《你好火焰蓝》开播](https://www.zhihu.com/search?q=你好火焰蓝)
+8. [生化危机 CG 动画美剧](https://www.zhihu.com/search?q=生化危机：无尽黑暗)
+9. [曝全新 iPad mini 今秋发布](https://www.zhihu.com/search?q=iPad mini)
+10. [华为自研驱动芯片完成试产](https://www.zhihu.com/search?q=华为自研芯片)
+11. [女子当街被强拽进车](https://www.zhihu.com/search?q=女子被强拽进车)
+12. [《中国医生》上映](https://www.zhihu.com/search?q=中国医生)
+13. [滴滴企业版等 25 款 App 下架](https://www.zhihu.com/search?q=滴滴)
+14. [市监总局禁止虎牙与斗鱼合并](https://www.zhihu.com/search?q=虎牙斗鱼合并)
+15. [字节跳动取消大小周](https://www.zhihu.com/search?q=字节跳动)
+16. [欧洲杯意大利夺冠](https://www.zhihu.com/search?q=欧洲杯)
+17. [林生斌回应火灾赔偿金去向](https://www.zhihu.com/search?q=林生斌)
+18. [《你好火焰蓝》开播](https://www.zhihu.com/search?q=你好火焰蓝)
 
 <!-- END -->
 
