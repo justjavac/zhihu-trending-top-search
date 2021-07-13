@@ -14,19 +14,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jul 13 2021 11:06:14 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jul 13 2021 12:07:03 GMT+0800 (China Standard Time) -->
 
-1. [意大利时隔 53 年再夺欧洲杯](https://www.zhihu.com/search?q=欧洲杯)
-2. [江苏苏州酒店坍塌](https://www.zhihu.com/search?q=酒店坍塌)
+1. [江苏苏州酒店坍塌](https://www.zhihu.com/search?q=酒店坍塌)
+2. [意大利时隔 53 年再夺欧洲杯](https://www.zhihu.com/search?q=欧洲杯)
 3. [《失孤》原型儿子找到](https://www.zhihu.com/search?q=失孤)
-4. [明日方舟新剿灭「积水潮窟」](https://www.zhihu.com/search?q=明日方舟)
-5. [瑞克和莫蒂第五季第四集](https://www.zhihu.com/search?q=瑞克和莫蒂)
-6. [时光代理人完结](https://www.zhihu.com/search?q=时光代理人)
-7. [北京暴雨](https://www.zhihu.com/search?q=北京暴雨)
-8. [《阴阳师》全新 SP 式神](https://www.zhihu.com/search?q=阴阳师)
-9. [华为自研驱动芯片完成试产](https://www.zhihu.com/search?q=华为自研芯片)
-10. [曝全新 iPad mini 今秋发布](https://www.zhihu.com/search?q=iPad mini)
-11. [阿根廷夺冠](https://www.zhihu.com/search?q=阿根廷赢了)
+4. [不打疫苗或将影响出行](https://www.zhihu.com/search?q=疫苗)
+5. [明日方舟新剿灭「积水潮窟」](https://www.zhihu.com/search?q=明日方舟)
+6. [五成降噪耳机不达标](https://www.zhihu.com/search?q=降噪耳机)
+7. [瑞克和莫蒂第五季第四集](https://www.zhihu.com/search?q=瑞克和莫蒂)
+8. [苹果面临 70 亿美元赔偿](https://www.zhihu.com/search?q=苹果)
+9. [时光代理人完结](https://www.zhihu.com/search?q=时光代理人)
+10. [北京暴雨](https://www.zhihu.com/search?q=北京暴雨)
+11. [《阴阳师》全新 SP 式神](https://www.zhihu.com/search?q=阴阳师)
+12. [华为自研驱动芯片完成试产](https://www.zhihu.com/search?q=华为自研芯片)
+13. [曝全新 iPad mini 今秋发布](https://www.zhihu.com/search?q=iPad mini)
+14. [阿根廷夺冠](https://www.zhihu.com/search?q=阿根廷赢了)
 
 <!-- END -->
 
