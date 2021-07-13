@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jul 13 2021 09:51:19 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jul 13 2021 10:19:49 GMT+0800 (China Standard Time) -->
 
 1. [意大利时隔 53 年再夺欧洲杯](https://www.zhihu.com/search?q=欧洲杯)
 2. [江苏苏州酒店坍塌](https://www.zhihu.com/search?q=酒店坍塌)
