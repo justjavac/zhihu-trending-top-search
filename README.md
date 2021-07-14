@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jul 14 2021 21:15:25 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jul 14 2021 22:05:08 GMT+0800 (China Standard Time) -->
 
 1. [B 站崩了](https://www.zhihu.com/search?q=b站崩了)
 1. [A 站崩了](https://www.zhihu.com/search?q=A站崩了)
