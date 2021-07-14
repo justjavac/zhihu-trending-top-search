@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jul 15 2021 01:13:54 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jul 15 2021 02:06:32 GMT+0800 (China Standard Time) -->
 
 1. [失孤原型决定留养父母身边](https://www.zhihu.com/search?q=失孤原型)
 1. [中科院 引雷试验](https://www.zhihu.com/search?q=引雷试验)
@@ -25,6 +25,7 @@
 1. [京东平均年薪涨至 16 薪](https://www.zhihu.com/search?q=京东)
 1. [海贼王 1019 话情报](https://www.zhihu.com/search?q=海贼王)
 1. [东奥乒乓球赛不许吹球](https://www.zhihu.com/search?q=乒乓球)
+1. [花莲连续发生 22 起地震](https://www.zhihu.com/search?q=花莲地震)
 1. [《眷思量》第六集更新](https://www.zhihu.com/search?q=眷思量)
 
 <!-- END -->
