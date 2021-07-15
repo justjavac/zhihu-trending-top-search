@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jul 15 2021 22:05:09 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jul 15 2021 23:06:08 GMT+0800 (China Standard Time) -->
 
 1. [秋瓷炫](https://www.zhihu.com/search?q=秋瓷炫)
 1. [《原神》神里绫华角色 PV](https://www.zhihu.com/search?q=原神)
@@ -23,9 +23,9 @@
 1. [新冠疫苗接种超 14 亿剂次](https://www.zhihu.com/search?q=新冠疫苗)
 1. [传阿里腾讯将互开放生态系统](https://www.zhihu.com/search?q=阿里腾讯)
 1. [黑怕女孩初舞台](https://www.zhihu.com/search?q=黑怕女孩)
+1. [网红小冉吸脂后感染去世](https://www.zhihu.com/search?q=网红小冉)
 1. [中科院 引雷试验](https://www.zhihu.com/search?q=引雷试验)
 1. [海贼王 1019 话情报](https://www.zhihu.com/search?q=海贼王)
-1. [网红小冉吸脂后感染去世](https://www.zhihu.com/search?q=网红小冉)
 1. [北京环球影城物价](https://www.zhihu.com/search?q=环球影城)
 1. [明日方舟故事集「如我所见」](https://www.zhihu.com/search?q=明日方舟)
 1. [喜羊羊与灰太狼之决战次时代](https://www.zhihu.com/search?q=喜羊羊与灰太狼)
