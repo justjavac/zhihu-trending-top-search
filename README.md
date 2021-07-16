@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jul 16 2021 23:06:20 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jul 17 2021 00:08:10 GMT+0800 (China Standard Time) -->
 
 1. [华晨宇整容](https://www.zhihu.com/search?q=华晨宇)
 1. [北京首次发布蚊虫叮咬指数](https://www.zhihu.com/search?q=蚊虫叮咬指数)
@@ -26,17 +26,6 @@
 1. [小米销量超苹果](https://www.zhihu.com/search?q=小米)
 1. [东奥巴西运动员集体感染](https://www.zhihu.com/search?q=巴西运动员集体感染)
 1. [INTO1 新专辑](https://www.zhihu.com/search?q=into1)
-1. [网红小冉吸脂后感染去世](https://www.zhihu.com/search?q=网红吸脂)
-1. [黑怕女孩初舞台](https://www.zhihu.com/search?q=黑怕女孩)
-1. [《一人之下》535（568）话](https://www.zhihu.com/search?q=一人之下)
-1. [传阿里腾讯将互开放生态系统](https://www.zhihu.com/search?q=阿里腾讯)
-1. [茶颜悦色跨城代购](https://www.zhihu.com/search?q=茶颜悦色)
-1. [新冠疫苗接种超 14 亿剂次](https://www.zhihu.com/search?q=新冠疫苗)
-1. [塞尔达传说：御天之剑](https://www.zhihu.com/search?q=塞尔达)
-1. [失孤原型决定留养父母身边](https://www.zhihu.com/search?q=失孤原型)
-1. [海贼王 1019 话情报](https://www.zhihu.com/search?q=海贼王)
-1. [北京环球影城物价](https://www.zhihu.com/search?q=环球影城)
-1. [中科院 引雷试验](https://www.zhihu.com/search?q=引雷试验)
 
 <!-- END -->
 
