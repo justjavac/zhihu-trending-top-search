@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jul 17 2021 03:04:24 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jul 17 2021 04:06:02 GMT+0800 (China Standard Time) -->
 
 1. [华晨宇整容](https://www.zhihu.com/search?q=华晨宇)
 1. [北京首次发布蚊虫叮咬指数](https://www.zhihu.com/search?q=蚊虫叮咬指数)
@@ -23,8 +23,8 @@
 1. [《原神》若陀龙王创作幕后](https://www.zhihu.com/search?q=原神)
 1. [《原神》神里绫华角色 PV](https://www.zhihu.com/search?q=原神)
 1. [苹果教育优惠活动开始](https://www.zhihu.com/search?q=教育优惠)
-1. [小米销量超苹果](https://www.zhihu.com/search?q=小米)
 1. [东奥巴西运动员集体感染](https://www.zhihu.com/search?q=巴西运动员集体感染)
+1. [小米销量超苹果](https://www.zhihu.com/search?q=小米)
 1. [INTO1 新专辑](https://www.zhihu.com/search?q=into1)
 
 <!-- END -->
