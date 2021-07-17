@@ -7,6 +7,6 @@
   { "query": "巴西运动员集体感染", "display_query": "东奥巴西运动员集体感染" },
   { "query": "into1", "display_query": "INTO1 新专辑" },
   { "query": "碳排放权", "display_query": "碳排放权交易市场开市" },
-  { "query": "Steam", "display_query": "V 社推出 Steam 便携掌机 " },
-  { "query": "中国奥运旗手", "display_query": "朱婷赵帅担任中国奥运旗手" }
+  { "query": "中国奥运旗手", "display_query": "朱婷赵帅担任中国奥运旗手" },
+  { "query": "Steam", "display_query": "V 社推出 Steam 便携掌机 " }
 ]
