@@ -14,22 +14,13 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jul 18 2021 23:06:08 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jul 19 2021 00:07:41 GMT+0800 (China Standard Time) -->
 
 1. [老人每天上网超 10 小时](https://www.zhihu.com/search?q=老人网瘾)
 1. [东京奥运村 2 名运动员确诊](https://www.zhihu.com/search?q=东京奥运村确诊)
 1. [热依扎告素人网友败诉](https://www.zhihu.com/search?q=热依扎败诉)
-1. [朱婷赵帅担任中国奥运旗手](https://www.zhihu.com/search?q=中国奥运旗手)
 1. [自动抢红包软件被判赔 475 万](https://www.zhihu.com/search?q=微信自动抢红包)
-1. [华晨宇整容](https://www.zhihu.com/search?q=华晨宇)
-1. [INTO1 新专辑](https://www.zhihu.com/search?q=into1)
-1. [北京首次发布蚊虫叮咬指数](https://www.zhihu.com/search?q=蚊虫叮咬指数)
-1. [东奥巴西运动员集体感染](https://www.zhihu.com/search?q=巴西运动员集体感染)
-1. [碳排放权交易市场开市](https://www.zhihu.com/search?q=碳排放权)
-1. [苹果教育优惠活动开始](https://www.zhihu.com/search?q=教育优惠)
-1. [小米销量超苹果](https://www.zhihu.com/search?q=小米)
-1. [金毛 Siri 因宠物托运致死](https://www.zhihu.com/search?q=金毛siri)
-1. [V 社推出 Steam 便携掌机](https://www.zhihu.com/search?q=Steam)
+1. [朱婷赵帅担任中国奥运旗手](https://www.zhihu.com/search?q=中国奥运旗手)
 
 <!-- END -->
 
