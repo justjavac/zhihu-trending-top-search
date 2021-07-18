@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jul 18 2021 08:20:31 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jul 18 2021 09:50:27 GMT+0800 (China Standard Time) -->
 
 1. [华晨宇整容](https://www.zhihu.com/search?q=华晨宇)
 1. [北京首次发布蚊虫叮咬指数](https://www.zhihu.com/search?q=蚊虫叮咬指数)
