@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jul 19 2021 16:07:05 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jul 19 2021 17:06:02 GMT+0800 (China Standard Time) -->
 
 1. [老人每天上网超 10 小时](https://www.zhihu.com/search?q=老人网瘾)
 1. [东京奥运村 2 名运动员确诊](https://www.zhihu.com/search?q=东京奥运村确诊)
