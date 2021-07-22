@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jul 23 2021 02:06:40 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jul 23 2021 03:04:13 GMT+0800 (China Standard Time) -->
 
 1. [武大教授周玄毅被通报处分](https://www.zhihu.com/search?q=周玄毅)
 1. [警方通报吴亦凡事件](https://www.zhihu.com/search?q=吴亦凡)
