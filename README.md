@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jul 22 2021 10:24:02 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jul 22 2021 11:06:03 GMT+0800 (China Standard Time) -->
 
 1. [河南暴雨救援电话](https://www.zhihu.com/search?q=暴雨救援)
 1. [南京发现 17 例新冠阳性](https://www.zhihu.com/search?q=南京)
