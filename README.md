@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jul 22 2021 20:08:31 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jul 22 2021 21:13:55 GMT+0800 (China Standard Time) -->
 
 1. [河南暴雨救援电话](https://www.zhihu.com/search?q=暴雨救援)
 1. [警方通报吴亦凡事件](https://www.zhihu.com/search?q=吴亦凡)
