@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jul 24 2021 19:04:38 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jul 24 2021 20:08:09 GMT+0800 (China Standard Time) -->
 
 1. [中国拿下东京奥运首金](https://www.zhihu.com/search?q=女子气步枪决赛)
 1. [腾讯被责令解除音乐独家版权](https://www.zhihu.com/search?q=腾讯音乐版权)
@@ -22,6 +22,7 @@
 1. [拜拜啦人间事件](https://www.zhihu.com/search?q=拜拜啦人间录音)
 1. [东京奥运会开幕式](https://www.zhihu.com/search?q=东京奥运会开幕式)
 1. [江苏新增 12 例本土确诊](https://www.zhihu.com/search?q=南京疫情)
+1. [五十公里桃花坞收官](https://www.zhihu.com/search?q=五十公里桃花坞)
 1. [台风烟花](https://www.zhihu.com/search?q=台风烟花)
 1. [原神×索尼联动新角色](https://www.zhihu.com/search?q=原神)
 1. [北京奥运会开幕式什么水平](https://www.zhihu.com/search?q=北京奥运会开幕式)
