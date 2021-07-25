@@ -6,7 +6,7 @@
   { "query": "女排", "display_query": "东京奥运会女排首场 0:3 失利" },
   { "query": "台风烟花", "display_query": "台风「烟花」将登陆" },
   { "query": "举重", "display_query": "李发彬夺得中国第五金" },
-  { "query": "孙一文", "display_query": "孙一文夺得第三金" },
   { "query": "跳水", "display_query": "施廷懋王涵女子双人 3 米板夺金" },
+  { "query": "孙一文", "display_query": "孙一文夺得第三金" },
   { "query": "长春火灾", "display_query": "长春一物流仓库发生火灾" }
 ]
