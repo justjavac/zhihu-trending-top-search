@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jul 25 2021 21:11:28 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jul 25 2021 22:05:25 GMT+0800 (China Standard Time) -->
 
 1. [中国拿下东京奥运首金](https://www.zhihu.com/search?q=女子气步枪决赛)
 1. [腾讯被责令解除音乐独家版权](https://www.zhihu.com/search?q=腾讯音乐版权)
@@ -25,6 +25,7 @@
 1. [李发彬夺得中国第五金](https://www.zhihu.com/search?q=举重)
 1. [施廷懋王涵女子双人 3 米板夺金](https://www.zhihu.com/search?q=跳水)
 1. [孙一文夺得第三金](https://www.zhihu.com/search?q=孙一文)
+1. [长春一物流仓库发生火灾](https://www.zhihu.com/search?q=长春火灾)
 1. [北京奥运会开幕式什么水平](https://www.zhihu.com/search?q=北京奥运会开幕式)
 1. [东京奥运会开幕式](https://www.zhihu.com/search?q=东京奥运会开幕式)
 1. [俄罗斯为何无缘奥运会](https://www.zhihu.com/search?q=俄罗斯奥运会)
