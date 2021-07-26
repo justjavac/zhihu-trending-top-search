@@ -6,7 +6,8 @@
   { "query": "女排", "display_query": "东京奥运会女排首场 0:3 失利" },
   { "query": "跨性别运动员", "display_query": "跨性别举重运动员" },
   { "query": "明日方舟", "display_query": "明日方舟夏日嘉年华" },
+  { "query": "姜冉馨", "display_query": "姜冉馨 10 米气手枪铜牌" },
   { "query": "举重", "display_query": "李发彬夺得中国第五金" },
-  { "query": "跳水", "display_query": "施廷懋王涵女子双人 3 米板夺金" },
-  { "query": "眷思量", "display_query": "《眷思量》第八集更新" }
+  { "query": "眷思量", "display_query": "《眷思量》第八集更新" },
+  { "query": "跳水", "display_query": "施廷懋王涵女子双人 3 米板夺金" }
 ]
