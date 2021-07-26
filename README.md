@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jul 27 2021 03:04:37 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jul 27 2021 04:07:41 GMT+0800 (China Standard Time) -->
 
 1. [乒乓球混双决赛](https://www.zhihu.com/search?q=乒乓球)
 1. [江苏新增确诊 39 例](https://www.zhihu.com/search?q=江苏疫情)
