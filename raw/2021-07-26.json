@@ -1,13 +1,14 @@
 [
-  { "query": "女子气步枪决赛", "display_query": "中国拿下东京奥运首金" },
+  { "query": "女排", "display_query": "东京奥运会女排首场 0:3 失利" },
   { "query": "腾讯音乐版权", "display_query": "腾讯被责令解除音乐独家版权" },
   { "query": "鸿星尔克野性消费", "display_query": "鸿星尔克「野性消费」" },
-  { "query": "女排", "display_query": "东京奥运会女排首场 0:3 失利" },
   { "query": "台风烟花", "display_query": "台风「烟花」将登陆" },
   { "query": "举重", "display_query": "李发彬夺得中国第五金" },
   { "query": "孙一文", "display_query": "孙一文夺得第三金" },
   { "query": "跳水", "display_query": "施廷懋王涵女子双人 3 米板夺金" },
   { "query": "长春火灾", "display_query": "长春一物流仓库发生火灾" },
   { "query": "奥运会疫情", "display_query": "123 名奥运相关人员新冠阳性" },
+  { "query": "举重金牌", "display_query": "侯志慧夺下第二金" },
+  { "query": "女子气步枪决赛", "display_query": "中国拿下东京奥运首金" },
   { "query": "拜拜啦人间录音", "display_query": "拜拜啦人间事件" }
 ]
