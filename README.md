@@ -14,8 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jul 28 2021 11:06:01 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jul 28 2021 12:07:16 GMT+0800 (China Standard Time) -->
 
+1. [南京疫情已确诊 153 例](https://www.zhihu.com/search?q=南京)
 1. [东京奥运会女排 0:3 两连败](https://www.zhihu.com/search?q=女排)
 1. [你是我的荣耀热播](https://www.zhihu.com/search?q=你是我的荣耀)
 1. [乒乓球混双决赛](https://www.zhihu.com/search?q=乒乓球)
@@ -24,7 +25,6 @@
 1. [奥运射击杨皓然/杨倩夺冠](https://www.zhihu.com/search?q=混合团体10米气步枪)
 1. [谷歌奥运会定制小游戏](https://www.zhihu.com/search?q=涂鸦冠军岛运动会)
 1. [黑神话悟空策划离职发文](https://www.zhihu.com/search?q=黑神话：悟空)
-1. [南京疫情已确诊 153 例](https://www.zhihu.com/search?q=南京)
 1. [四川新增本土确诊 3 例](https://www.zhihu.com/search?q=四川疫情)
 1. [南京疫情确定为德尔塔毒株](https://www.zhihu.com/search?q=江苏疫情)
 1. [河南新一轮降雨](https://www.zhihu.com/search?q=河南暴雨)
