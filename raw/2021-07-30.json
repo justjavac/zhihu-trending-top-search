@@ -1,12 +1,14 @@
 [
   { "query": "南京疫情", "display_query": "南京病例分布及轨迹图" },
+  { "query": "跨性别运动员", "display_query": "特朗普炮轰跨性别运动员" },
+  { "query": "北京疫情", "display_query": "北京新增 2 例确诊病例" },
   { "query": "张家界", "display_query": "张家界疫情" },
-  { "query": "明日方舟", "display_query": "明日方舟调整假日威龙陈立绘" },
-  { "query": "奥运会开幕式", "display_query": "日媒披露开幕式原方案" },
-  { "query": "赛艇", "display_query": "中国组合赛艇女子四人双桨夺金" },
   { "query": "北京疫情", "display_query": "回龙观一小区暂时封闭" },
-  { "query": "A-Soul", "display_query": "虚拟偶像向晚真人疑暴露" },
-  { "query": "仙剑奇侠传七", "display_query": "仙剑奇侠传七官宣定档" },
+  { "query": "赛艇", "display_query": "中国组合赛艇女子四人双桨夺金" },
+  { "query": "奥运会开幕式", "display_query": "日媒披露开幕式原方案" },
+  { "query": "明日方舟", "display_query": "明日方舟调整假日威龙陈立绘" },
   { "query": "三七互娱", "display_query": "三七互娱回应员工猝死" },
-  { "query": "任天堂", "display_query": "奥运会开幕式披露原方案" }
+  { "query": "任天堂", "display_query": "奥运会开幕式披露原方案" },
+  { "query": "A-Soul", "display_query": "虚拟偶像向晚真人疑暴露" },
+  { "query": "仙剑奇侠传七", "display_query": "仙剑奇侠传七官宣定档" }
 ]
