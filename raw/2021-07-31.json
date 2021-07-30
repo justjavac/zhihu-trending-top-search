@@ -1,15 +1,15 @@
 [
   { "query": "盛夏未来", "display_query": "张子枫吴磊《盛夏未来》" },
-  { "query": "怒火重案", "display_query": "谢霆锋甄子丹《怒火·重案》" },
+  { "query": "张家界", "display_query": "张家界疫情" },
   { "query": "南京疫情", "display_query": "南京病例分布及轨迹图" },
   { "query": "三七互娱", "display_query": "三七互娱回应员工猝死" },
   { "query": "任天堂", "display_query": "奥运会开幕式披露原方案" },
-  { "query": "张家界", "display_query": "张家界疫情" },
+  { "query": "明日方舟", "display_query": "明日方舟调整假日威龙陈立绘" },
   { "query": "Siri", "display_query": "苹果 Siri 金牌播报忽略中国" },
   { "query": "微信 注册", "display_query": "微信暂停新用户注册" },
   { "query": "美国地震", "display_query": "美国阿拉斯加州 8.1 级地震" },
   { "query": "我的世界", "display_query": "我的世界起诉侵权赔偿五千万" },
+  { "query": "怒火重案", "display_query": "谢霆锋甄子丹《怒火·重案》" },
   { "query": "致命女人", "display_query": "致命女人 大结局" },
-  { "query": "铃木达央", "display_query": "铃木达央出轨女粉丝" },
-  { "query": "明日方舟", "display_query": "明日方舟调整假日威龙陈立绘" }
+  { "query": "铃木达央", "display_query": "铃木达央出轨女粉丝" }
 ]
