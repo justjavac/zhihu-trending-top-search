@@ -1,13 +1,13 @@
 [
+  { "query": "原神", "display_query": "原神入选文化出口重点项目" },
   { "query": "小s", "display_query": "小 S 称台湾选手为「国手」" },
-  { "query": "逆水寒", "display_query": "游戏昵称含吴亦凡可免费改" },
   { "query": "苏炳添", "display_query": "男子百米苏炳添获得第 6" },
-  { "query": "江苏疫情", "display_query": "江苏新增本土确诊 40 例" },
   { "query": "盛夏未来", "display_query": "张子枫吴磊《盛夏未来》" },
+  { "query": "铅球金牌", "display_query": "巩立姣夺得铅球金牌 " },
+  { "query": "江苏疫情", "display_query": "江苏新增本土确诊 40 例" },
   { "query": "郑州", "display_query": "郑州疫情" },
   { "query": "纸嫁衣 2", "display_query": "纸嫁衣 2 奘铃村" },
   { "query": "吴亦凡封号", "display_query": "全平台封禁吴亦凡账号" },
-  { "query": "铅球金牌", "display_query": "巩立姣夺得铅球金牌 " },
-  { "query": "崔健", "display_query": "崔健生日" },
-  { "query": "原神", "display_query": "原神入选文化出口重点项目" }
+  { "query": "逆水寒", "display_query": "游戏昵称含吴亦凡可免费改" },
+  { "query": "崔健", "display_query": "崔健生日" }
 ]
