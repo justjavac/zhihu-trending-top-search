@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Aug 02 2021 09:50:39 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Aug 02 2021 10:19:53 GMT+0800 (China Standard Time) -->
 
 1. [吴亦凡涉嫌强奸罪被拘留](https://www.zhihu.com/search?q=吴亦凡)
 1. [中国女排 3:0 击败意大利](https://www.zhihu.com/search?q=中国女排)
