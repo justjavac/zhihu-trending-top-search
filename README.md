@@ -14,9 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Aug 07 2021 01:14:08 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Aug 07 2021 02:06:46 GMT+0800 (China Standard Time) -->
 
-1. [党妹道歉并退网](https://www.zhihu.com/search?q=党妹)
+1. [梅西离队](https://www.zhihu.com/search?q=梅西)
 1. [游戏不是洪水猛兽](https://www.zhihu.com/search?q=网络游戏)
 1. [游戏《还我河山》争议](https://www.zhihu.com/search?q=还我河山)
 1. [辉夜大小姐 233 话](https://www.zhihu.com/search?q=辉夜大小姐)
@@ -26,7 +26,7 @@
 1. [华为申请姚安娜商标](https://www.zhihu.com/search?q=姚安娜商标)
 1. [乒乓球女团将和日本争金](https://www.zhihu.com/search?q=乒乓球女团)
 1. [《余生请多指教》定档](https://www.zhihu.com/search?q=余生请多指教)
-1. [梅西离队](https://www.zhihu.com/search?q=梅西)
+1. [党妹道歉并退网](https://www.zhihu.com/search?q=党妹)
 
 <!-- END -->
 
