@@ -1,14 +1,15 @@
 [
-  { "query": "10米跳台", "display_query": "男子 10 米台曹缘摘金" },
   { "query": "阿里", "display_query": "阿里巴巴女员工被侵害" },
-  { "query": "x特遣队", "display_query": "X 特遣队：全员集结" },
   { "query": "明星势力榜", "display_query": "微博「明星势力榜」下线" },
   { "query": "龙珠", "display_query": "中国接力队的「龟派气功」" },
   { "query": "林书豪", "display_query": "林书豪新冠检测呈阳性" },
   { "query": "魔道祖师", "display_query": "《魔道祖师》完结篇" },
-  { "query": "网络游戏", "display_query": "奥运冠军因游戏防沉迷崩溃" },
+  { "query": "10米跳台", "display_query": "男子 10 米台曹缘摘金" },
   { "query": "梅西离开巴萨", "display_query": "梅西离开巴萨" },
   { "query": "水谷隼", "display_query": "水谷隼退役" },
+  { "query": "x特遣队", "display_query": "X 特遣队：全员集结" },
+  { "query": "海贼王", "display_query": "海贼王 1021 话" },
+  { "query": "网络游戏", "display_query": "奥运冠军因游戏防沉迷崩溃" },
   { "query": "王文娟", "display_query": "林黛玉扮演者王文娟去世" },
   { "query": "党妹", "display_query": "党妹道歉并退网" },
   { "query": "我家有冠军", "display_query": "我家有冠军" }
