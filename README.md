@@ -14,18 +14,20 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Aug 14 2021 12:07:12 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Aug 14 2021 13:04:51 GMT+0800 (China Standard Time) -->
 
 1. [张哲瀚道歉](https://www.zhihu.com/search?q=张哲瀚)
 1. [霍尊](https://www.zhihu.com/search?q=霍尊)
+1. [荣耀 magic3 系列发布](https://www.zhihu.com/search?q=荣耀手机)
 1. [七夕节](https://www.zhihu.com/search?q=七夕)
-1. [永劫无间全面开服](https://www.zhihu.com/search?q=永劫无间)
 1. [阿怀抄袭](https://www.zhihu.com/search?q=阿怀)
-1. [德尔塔病毒还会变异吗？](https://www.zhihu.com/search?q=德尔塔)
-1. [90 婚介所太真实了](https://www.zhihu.com/search?q=90婚介所)
 1. [披荆斩棘的哥哥](https://www.zhihu.com/search?q=披荆斩棘的哥哥)
-1. [湖北随县遭遇极端强降雨](https://www.zhihu.com/search?q=湖北暴雨)
+1. [90 婚介所太真实了](https://www.zhihu.com/search?q=90婚介所)
+1. [疑似陈伟霆何穗恋情曝光](https://www.zhihu.com/search?q=陈伟霆何穗)
 1. [20 岁女生减肥营中猝死](https://www.zhihu.com/search?q=减肥营)
+1. [湖北随县遭遇极端强降雨](https://www.zhihu.com/search?q=湖北暴雨)
+1. [永劫无间全面开服](https://www.zhihu.com/search?q=永劫无间)
+1. [德尔塔病毒还会变异吗？](https://www.zhihu.com/search?q=德尔塔)
 1. [霍尊《披荆斩棘的哥哥》](https://www.zhihu.com/search?q=霍尊)
 1. [乌合麒麟新作](https://www.zhihu.com/search?q=乌合麒麟)
 1. [EVA 终上线流媒体](https://www.zhihu.com/search?q=eva)
