@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Aug 17 2021 03:04:41 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Aug 17 2021 04:06:05 GMT+0800 (China Standard Time) -->
 
 1. [吴亦凡被批捕](https://www.zhihu.com/search?q=吴亦凡)
 1. [张哲瀚被中演协从业抵制](https://www.zhihu.com/search?q=张哲瀚)
