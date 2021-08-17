@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Aug 18 2021 05:05:26 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Aug 18 2021 06:06:20 GMT+0800 (China Standard Time) -->
 
 1. [吴亦凡被批捕](https://www.zhihu.com/search?q=吴亦凡)
 1. [阿富汗首都降下国旗](https://www.zhihu.com/search?q=阿富汗)
