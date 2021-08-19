@@ -14,12 +14,12 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Aug 20 2021 03:04:32 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Aug 20 2021 04:07:07 GMT+0800 (China Standard Time) -->
 
 1. [孟晚舟](https://www.zhihu.com/search?q=孟晚舟)
 1. [3 个月大婴儿被「快递」](https://www.zhihu.com/search?q=婴儿被快递)
-1. [塔利班首场发布会](https://www.zhihu.com/search?q=塔利班)
 1. [宫崎骏作品被刷 1 星](https://www.zhihu.com/search?q=宫崎骏)
+1. [塔利班首场发布会](https://www.zhihu.com/search?q=塔利班)
 1. [零食吃对有助于延长寿命](https://www.zhihu.com/search?q=零食)
 1. [游戏公司用 AI 裁员](https://www.zhihu.com/search?q=AI裁员)
 1. [恋恋剧中人太好嗑了](https://www.zhihu.com/search?q=恋恋剧中人)
