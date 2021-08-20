@@ -1,19 +1,21 @@
 [
   { "query": "孟晚舟", "display_query": "孟晚舟" },
-  { "query": "婴儿被快递", "display_query": "3 个月大婴儿被「快递」" },
+  { "query": "神舟十二号", "display_query": "神十二航天员二次出舱成功" },
   { "query": "黑神话悟空", "display_query": "黑神话悟空 UE5 实机演示" },
   { "query": "塔利班", "display_query": "塔利班首场发布会" },
-  { "query": "RNG", "display_query": "RNG 止步季后赛六强" },
-  { "query": "双汇", "display_query": "双汇万洪建「炮轰」其父" },
-  { "query": "恋恋剧中人", "display_query": "恋恋剧中人太好嗑了" },
   { "query": "张文宏", "display_query": "张文宏发文透露近况" },
+  { "query": "多益网络", "display_query": "多益董事诉 CEO 贪污" },
+  { "query": "恋恋剧中人", "display_query": "恋恋剧中人太好嗑了" },
+  { "query": "腾讯起诉抖音", "display_query": "腾讯视频起诉抖音侵权索赔 1 亿" },
+  { "query": "双汇", "display_query": "双汇万洪建「炮轰」其父" },
+  { "query": "瞿广慈", "display_query": "稀奇艺术创始人瞿广慈去世" },
+  { "query": "婴儿被快递", "display_query": "3 个月大婴儿被「快递」" },
+  { "query": "RNG", "display_query": "RNG 止步季后赛六强" },
   { "query": "千叶真一", "display_query": "演员千叶真一去世" },
   { "query": "蔚来", "display_query": "蔚来车主发联合声明" },
   { "query": "腾讯500亿", "display_query": "腾讯再投 500 亿助力共同富裕" },
   { "query": "谢晖", "display_query": "谢晖因酒后失言被停职" },
   { "query": "宫崎骏", "display_query": "宫崎骏作品被刷 1 星" },
   { "query": "零食", "display_query": "零食吃对有助于延长寿命" },
-  { "query": "AI裁员", "display_query": "游戏公司用 AI 裁员" },
-  { "query": "腾讯起诉抖音", "display_query": "腾讯视频起诉抖音侵权索赔 1 亿" },
-  { "query": "瞿广慈", "display_query": "稀奇艺术创始人瞿广慈去世" }
+  { "query": "AI裁员", "display_query": "游戏公司用 AI 裁员" }
 ]
