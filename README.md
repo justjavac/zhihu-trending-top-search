@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Aug 23 2021 06:05:40 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Aug 23 2021 07:07:56 GMT+0800 (China Standard Time) -->
 
 1. [QG 晋级世冠总决赛](https://www.zhihu.com/search?q=QGhappy)
 1. [上海公布新增病例轨迹](https://www.zhihu.com/search?q=上海疫情)
