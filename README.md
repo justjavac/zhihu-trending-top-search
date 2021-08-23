@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Aug 23 2021 15:08:05 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Aug 23 2021 16:07:32 GMT+0800 (China Standard Time) -->
 
 1. [QG 晋级世冠总决赛](https://www.zhihu.com/search?q=QGhappy)
 1. [Lisa 将 solo 出道](https://www.zhihu.com/search?q=Lisa)
