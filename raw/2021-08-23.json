@@ -1,9 +1,10 @@
 [
   { "query": "QGhappy", "display_query": "QG 晋级世冠总决赛" },
-  { "query": "WE", "display_query": "WE 晋级胜者组决赛" },
   { "query": "fpx", "display_query": "FPX 晋级胜者组决赛" },
+  { "query": "扫黑风暴", "display_query": "《扫黑风暴》导演亲自答" },
   { "query": "金曲奖", "display_query": "第 32 届金曲奖 " },
   { "query": "张雨绮", "display_query": "张雨绮李柄熹退出女儿 4" },
+  { "query": "WE", "display_query": "WE 晋级胜者组决赛" },
   { "query": "非法出版物", "display_query": "校门口卖色情漫画被抓" },
   { "query": "进击的巨人", "display_query": "进击的巨人最终季后半" },
   { "query": "胖哥俩肉蟹煲", "display_query": "网红餐厅大量使用过期食材" },
