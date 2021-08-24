@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Aug 24 2021 20:09:08 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Aug 24 2021 21:13:04 GMT+0800 (China Standard Time) -->
 
 1. [QG 晋级世冠总决赛](https://www.zhihu.com/search?q=QGhappy)
 1. [湖南卫视回应钱枫事件](https://www.zhihu.com/search?q=湖南卫视回应)
