@@ -1,13 +1,17 @@
 [
-  { "query": "吴谢宇", "display_query": "北大学子吴谢宇被判死刑" },
+  { "query": "支付宝", "display_query": "支付宝里的钱要不要取出来" },
   { "query": "郑爽", "display_query": "郑爽被罚款 2.99 亿元  " },
   { "query": "喀布尔机场", "display_query": "喀布尔机场发生两起爆炸" },
-  { "query": "黄旭熙", "display_query": "黄旭熙日程全面取消" },
-  { "query": "还珠格格", "display_query": "还珠格格下架" },
+  { "query": "原神", "display_query": "原神「雷电将军」角色 pv" },
+  { "query": "吴谢宇", "display_query": "北大学子吴谢宇被判死刑" },
+  { "query": "孟晚舟", "display_query": "孟晚舟被非法拘押 1000天" },
   { "query": "湖南卫视钱枫", "display_query": "湖南卫视解除与钱枫的合作" },
+  { "query": "还珠格格", "display_query": "还珠格格下架" },
+  { "query": "库克", "display_query": "库克就任苹果 CEO 十年 " },
+  { "query": "徐俐", "display_query": "央视新闻主播徐俐退休" },
+  { "query": "黄旭熙", "display_query": "黄旭熙日程全面取消" },
   { "query": "米哈游", "display_query": "米哈游年营收 101 亿" },
   { "query": "一人之下", "display_query": "一人之下 541 话更新" },
-  { "query": "原神", "display_query": "原神「雷电将军」角色 pv" },
   { "query": "美国 华为", "display_query": "美允许向华为售汽车零部件芯片" },
   { "query": "金铲铲之战", "display_query": "金铲铲之战" },
   { "query": "脱口秀大会", "display_query": "「朱一旦」亲自答" },
@@ -23,6 +27,5 @@
   { "query": "steam", "display_query": "Steam 截图成定制商品" },
   { "query": "短视频", "display_query": "短视频碾压游戏等娱乐" },
   { "query": "奖牌掉皮", "display_query": "东京奥组委回应奖牌掉皮" },
-  { "query": "快递小哥", "display_query": "快递小哥故意酒驾求抓" },
-  { "query": "库克", "display_query": "库克就任苹果 CEO 十年 " }
+  { "query": "快递小哥", "display_query": "快递小哥故意酒驾求抓" }
 ]
