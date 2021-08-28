@@ -3,10 +3,13 @@
   { "query": "郑爽", "display_query": "郑爽被罚款 2.99 亿元  " },
   { "query": "喀布尔机场", "display_query": "喀布尔机场发生两起爆炸" },
   { "query": "扫黑风暴", "display_query": "《扫黑》大江亲自答" },
-  { "query": "QQ音乐", "display_query": "QQ 音乐限制专辑重复购买" },
-  { "query": "残奥会", "display_query": "残奥会中国队被取消一金一银 " },
+  { "query": "QGhappy", "display_query": "QGhappy 世冠杯夺冠" },
+  { "query": "FPX", "display_query": "FPX 晋级全球总决赛" },
   { "query": "明日创作计划", "display_query": "明日5一公主题原生" },
   { "query": "一人之下", "display_query": "一人之下 541 话更新" },
-  { "query": "还珠格格", "display_query": "还珠格格下架" },
-  { "query": "湖南卫视钱枫", "display_query": "湖南卫视解除与钱枫的合作" }
+  { "query": "崔健", "display_query": "崔健新专辑" },
+  { "query": "湖南卫视钱枫", "display_query": "湖南卫视解除与钱枫的合作" },
+  { "query": "QQ音乐", "display_query": "QQ 音乐限制专辑重复购买" },
+  { "query": "残奥会", "display_query": "残奥会中国队被取消一金一银 " },
+  { "query": "还珠格格", "display_query": "还珠格格下架" }
 ]
