@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Aug 30 2021 03:04:16 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Aug 30 2021 04:08:34 GMT+0800 (China Standard Time) -->
 
 1. [媒体发文批评游戏圈](https://www.zhihu.com/search?q=手机游戏)
 1. [《光恋》齐司礼生日卡](https://www.zhihu.com/search?q=光与夜之恋)
