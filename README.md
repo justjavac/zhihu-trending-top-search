@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Aug 30 2021 16:11:46 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Aug 30 2021 17:06:18 GMT+0800 (China Standard Time) -->
 
 1. [电影《失控玩家》](https://www.zhihu.com/search?q=失控玩家)
 1. [前妻指控李阳家暴女儿](https://www.zhihu.com/search?q=李阳家暴)
