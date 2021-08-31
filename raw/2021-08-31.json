@@ -5,10 +5,10 @@
   { "query": "失控玩家", "display_query": "电影《失控玩家》" },
   { "query": "理想之城", "display_query": "《理想之城》主演亲自答" },
   { "query": "重点班", "display_query": "教育部要求不得设置重点班" },
-  { "query": "腾讯游戏", "display_query": "腾讯收购拉瑞安 30% 股份" },
-  { "query": "斗破苍穹", "display_query": "斗破苍穹第四季 24 集" },
   { "query": "梅西", "display_query": "梅西上演巴黎首秀" },
+  { "query": "斗破苍穹", "display_query": "斗破苍穹第四季 24 集" },
   { "query": "华夏航空", "display_query": "华夏航空一航班冲出跑道" },
+  { "query": "腾讯游戏", "display_query": "腾讯收购拉瑞安 30% 股份" },
   { "query": "EDG", "display_query": "EDG 晋级 LPL 总决赛" },
   { "query": "华为 EMUI12", "display_query": "华为海外发布 EMUI 12" }
 ]
