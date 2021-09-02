@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Sep 03 2021 03:04:49 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Sep 03 2021 04:06:51 GMT+0800 (China Standard Time) -->
 
 1. [洗碗机均价破 7000 元](https://www.zhihu.com/search?q=洗碗机)
 1. [志愿军烈士遗骸归国](https://www.zhihu.com/search?q=志愿军)
