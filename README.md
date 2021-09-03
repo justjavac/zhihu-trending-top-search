@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Sep 04 2021 01:13:04 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Sep 04 2021 02:06:44 GMT+0800 (China Standard Time) -->
 
 1. [游戏骗局小学生被骗千元](https://www.zhihu.com/search?q=游戏骗局)
 1. [志愿军烈士遗骸归国](https://www.zhihu.com/search?q=志愿军)
