@@ -1,6 +1,6 @@
 [
-  { "query": "中国男足", "display_query": "国足 0:3 完败澳大利亚" },
   { "query": "游戏骗局", "display_query": "游戏骗局小学生被骗千元" },
+  { "query": "志愿军", "display_query": "志愿军烈士遗骸归国" },
   { "query": "RNG", "display_query": "RNG 晋级全球总决赛" },
   { "query": "郭老师", "display_query": "网红郭老师全平台账号被封" },
   { "query": "太原化工厂", "display_query": "山西太原一化工厂疑似爆炸" },
@@ -8,5 +8,5 @@
   { "query": "小米汽车总部", "display_query": "小米汽车落户北京" },
   { "query": "小鹏汽车", "display_query": "小鹏汽车宣布取消大小周" },
   { "query": "EDG", "display_query": "EDG 夺夏季赛冠军" },
-  { "query": "志愿军", "display_query": "志愿军烈士遗骸归国" }
+  { "query": "中国男足", "display_query": "国足 0:3 完败澳大利亚" }
 ]
