@@ -4,9 +4,11 @@
   { "query": "邢益凡", "display_query": "北航新生邢益凡" },
   { "query": "王某文妻子", "display_query": "阿里案王某文妻子再发文" },
   { "query": "哔哩哔哩", "display_query": "米哈游起诉哔哩哔哩" },
-  { "query": "谢霆锋", "display_query": "谢霆锋申请退出加国籍" },
-  { "query": "网络游戏", "display_query": "网络游戏属地审核试点" },
-  { "query": "lng", "display_query": "LNG 最终晋级世界赛" },
+  { "query": "东京残奥会", "display_query": "残奥会 96 金收官" },
   { "query": "余生请多指教", "display_query": "余生请多指教撤档" },
-  { "query": "安徽太湖", "display_query": "安徽一皮卡冲下 80 米深崖" }
+  { "query": "lng", "display_query": "LNG 最终晋级世界赛" },
+  { "query": "五一劳动勋章", "display_query": "苏炳添等获五一劳动勋章" },
+  { "query": "安徽太湖", "display_query": "安徽一皮卡冲下 80 米深崖" },
+  { "query": "谢霆锋", "display_query": "谢霆锋申请退出加国籍" },
+  { "query": "网络游戏", "display_query": "网络游戏属地审核试点" }
 ]
