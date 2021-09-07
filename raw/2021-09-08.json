@@ -1,6 +1,6 @@
 [
+  { "query": "国足", "display_query": "十二强赛国足 0:1 不敌日本" },
   { "query": "眷思量", "display_query": "眷思量导演亲自答" },
-  { "query": "丁宁", "display_query": "丁宁宣布退役" },
   { "query": "邢益凡", "display_query": "北航新生邢益凡" },
   { "query": "亚运会", "display_query": "杭州亚运会电竞项目" },
   { "query": "谢霆锋", "display_query": "谢霆锋申请退出加国籍" },
@@ -9,7 +9,7 @@
   { "query": "女子 酒店", "display_query": "女子住酒店遭陌生男刷卡" },
   { "query": "大学生领证", "display_query": "大学生领证 1 小时闹离婚" },
   { "query": "京东", "display_query": "徐雷升任京东总裁" },
-  { "query": "国足", "display_query": "十二强赛国足 0:1 不敌日本" },
+  { "query": "丁宁", "display_query": "丁宁宣布退役" },
   { "query": "圆通", "display_query": "圆通回应女生被碾压致死事件" },
   { "query": "国足", "display_query": "世界杯预选赛中国 vs 日本" }
 ]
