@@ -1,6 +1,6 @@
 [
+  { "query": "哈利波特魔法觉醒", "display_query": "哈利波特魔法觉醒分院" },
   { "query": "CAR-T", "display_query": "国内首例 CAR-T 癌症治疗" },
-  { "query": "vivo", "display_query": "vivo 正式发布自研芯片" },
   { "query": "亚运会", "display_query": "杭州亚运会电竞项目公布" },
   { "query": "iPhone13", "display_query": "iPhone 13 详细配置曝光" },
   { "query": "辛丑条约", "display_query": "辛丑条约签订 120 周年" },
@@ -9,5 +9,5 @@
   { "query": "国足", "display_query": "十二强赛国足 0:1 不敌日本" },
   { "query": "男子 皮箱", "display_query": "男子皮箱藏尸打车被识破" },
   { "query": "苹果发布会", "display_query": "苹果发布会邀请函" },
-  { "query": "哈利波特魔法觉醒", "display_query": "哈利波特魔法觉醒分院" }
+  { "query": "vivo", "display_query": "vivo 正式发布自研芯片" }
 ]
