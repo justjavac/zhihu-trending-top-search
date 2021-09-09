@@ -14,10 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Sep 10 2021 02:06:54 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Sep 10 2021 03:04:50 GMT+0800 (China Standard Time) -->
 
-1. [哈利波特魔法觉醒](https://www.zhihu.com/search?q=哈利波特魔法觉醒)
 1. [劳荣枝一审被判死刑](https://www.zhihu.com/search?q=劳荣枝)
+1. [哈利波特魔法觉醒](https://www.zhihu.com/search?q=哈利波特魔法觉醒)
 1. [李银河谈勇敢](https://www.zhihu.com/search?q=李银河)
 1. [张继科没有主角光环](https://www.zhihu.com/search?q=张继科)
 1. [苹果发布会邀请函](https://www.zhihu.com/search?q=苹果发布会)
