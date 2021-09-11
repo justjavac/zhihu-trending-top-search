@@ -14,28 +14,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Sep 11 2021 23:05:42 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Sep 12 2021 00:07:50 GMT+0800 (China Standard Time) -->
 
 1. [「911 事件」20 年](https://www.zhihu.com/search?q=911)
-1. [「货拉拉」案宣判](https://www.zhihu.com/search?q=货拉拉)
 1. [《双探》段奕宏亲自答](https://www.zhihu.com/search?q=双探)
-1. [张继科没有主角光环](https://www.zhihu.com/search?q=张继科)
-1. [2021 数学建模国赛](https://www.zhihu.com/search?q=数学建模国赛)
+1. [「货拉拉」案宣判](https://www.zhihu.com/search?q=货拉拉)
 1. [PS5 游戏发布会](https://www.zhihu.com/search?q=PS5)
 1. [比心关闭「陪玩」功能](https://www.zhihu.com/search?q=比心)
 1. [黑石集团终止收购 SOHO 中国](https://www.zhihu.com/search?q=SOHO)
+1. [2021 数学建模国赛](https://www.zhihu.com/search?q=数学建模国赛)
 1. [大连一住户家中发生燃爆](https://www.zhihu.com/search?q=大连 燃爆)
 1. [重庆一对闺蜜公厕遇害](https://www.zhihu.com/search?q=重庆 公厕遇害)
-1. [李银河谈勇敢](https://www.zhihu.com/search?q=李银河)
-1. [司机二次碾压宠物狗](https://www.zhihu.com/search?q=司机撞狗)
-1. [小米因广告赔偿用户 1 元](https://www.zhihu.com/search?q=小米 1元)
-1. [官方约谈腾讯网易](https://www.zhihu.com/search?q=腾讯网易)
-1. [济南整形医院老板殴打顾客](https://www.zhihu.com/search?q=济南整形医院)
-1. [过半学生可解开防沉迷](https://www.zhihu.com/search?q=防沉迷)
-1. [李维嘉代言翻车](https://www.zhihu.com/search?q=李维嘉)
-1. [一人之下 543 话更新](https://www.zhihu.com/search?q=一人之下)
-1. [劳荣枝一审被判死刑](https://www.zhihu.com/search?q=劳荣枝)
-1. [残奥健儿被授予五四奖章](https://www.zhihu.com/search?q=残奥健儿)
+1. [顶楼 3 几乎全员下线](https://www.zhihu.com/search?q=顶楼3)
 
 <!-- END -->
 
