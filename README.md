@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Sep 13 2021 02:06:39 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Sep 13 2021 03:04:20 GMT+0800 (China Standard Time) -->
 
 1. [「911 事件」20 年](https://www.zhihu.com/search?q=911)
 1. [大连一住户家中发生燃爆](https://www.zhihu.com/search?q=大连 燃爆)
