@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Sep 14 2021 03:09:09 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Sep 14 2021 04:07:36 GMT+0800 (China Standard Time) -->
 
 1. [精灵宝可梦：可可](https://www.zhihu.com/search?q=精灵宝可梦可可)
 1. [米哈游警告原神数据网](https://www.zhihu.com/search?q=原神)
