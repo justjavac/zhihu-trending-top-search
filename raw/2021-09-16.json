@@ -1,9 +1,9 @@
 [
-  { "query": "苹果发布会", "display_query": "苹果发布会" },
-  { "query": "iphone13", "display_query": "iPhone 13 值不值得买" },
-  { "query": "少年歌行", "display_query": "少年歌行导演亲自答" },
-  { "query": "苏炳添", "display_query": "苏炳添或将得到奥运奖牌 " },
   { "query": "莆田疫情", "display_query": "福建疫情" },
+  { "query": "iphone13", "display_query": "iPhone 13 值不值得买" },
+  { "query": "苹果发布会", "display_query": "苹果发布会" },
+  { "query": "苏炳添", "display_query": "苏炳添或将得到奥运奖牌 " },
+  { "query": "少年歌行", "display_query": "少年歌行导演亲自答" },
   { "query": "成都女子失联", "display_query": "成都失联女子「还活着」" },
   { "query": "北京环球影城", "display_query": "飞猪环球影城优速通自动退票" },
   { "query": "云南虫谷", "display_query": "《云南虫谷》大结局" },
