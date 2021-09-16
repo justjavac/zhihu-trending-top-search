@@ -1,5 +1,5 @@
 [
-  { "query": "泸县", "display_query": "四川泸县 6.0 级地震" },
+  { "query": "全运会", "display_query": "全运会开幕式" },
   { "query": "少年歌行", "display_query": "少年歌行导演亲自答" },
   { "query": "南仁东", "display_query": "南仁东逝世四周年" },
   { "query": "苏炳添", "display_query": "苏炳添或将得到奥运奖牌 " },
@@ -8,8 +8,8 @@
   { "query": "辅助生殖技术", "display_query": "辅助生殖需求飙升" },
   { "query": "iPhone12", "display_query": "iPhone 12 价格直降千元" },
   { "query": "三星嘲讽iPhone", "display_query": "三星嘲讽 iPhone 13" },
-  { "query": "全运会", "display_query": "全运会开幕式" },
   { "query": "拜仁", "display_query": "巴塞罗那 0:3 拜仁" },
+  { "query": "泸县", "display_query": "四川泸县 6.0 级地震" },
   { "query": "苹果发布会", "display_query": "苹果发布会" },
   { "query": "iphone13", "display_query": "iPhone 13 值不值得买" },
   { "query": "ipad2021", "display_query": "iPad 2021" },
