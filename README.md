@@ -14,21 +14,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Sep 16 2021 20:09:39 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Sep 16 2021 21:14:56 GMT+0800 (China Standard Time) -->
 
-1. [iPad 2021](https://www.zhihu.com/search?q=ipad2021)
+1. [iPhone 12 价格直降千元](https://www.zhihu.com/search?q=iPhone12)
 1. [iPhone 13 值不值得买](https://www.zhihu.com/search?q=iphone13)
-1. [120 万国产抗癌神药上市](https://www.zhihu.com/search?q=国产抗癌神药)
+1. [全运会开幕式](https://www.zhihu.com/search?q=全运会)
 1. [苏炳添或将得到奥运奖牌](https://www.zhihu.com/search?q=苏炳添)
+1. [四川泸县 6.0 级地震](https://www.zhihu.com/search?q=泸县)
 1. [苹果发布会](https://www.zhihu.com/search?q=苹果发布会)
-1. [学生未婚性行为将被处分](https://www.zhihu.com/search?q=未婚性行为)
 1. [Apple Watch](https://www.zhihu.com/search?q=appleWatch)
 1. [巴塞罗那 0:3 拜仁](https://www.zhihu.com/search?q=拜仁)
 1. [南仁东逝世四周年](https://www.zhihu.com/search?q=南仁东)
 1. [鹰角新游《来自星尘》](https://www.zhihu.com/search?q=来自星尘)
+1. [iPad 2021](https://www.zhihu.com/search?q=ipad2021)
+1. [120 万国产抗癌神药上市](https://www.zhihu.com/search?q=国产抗癌神药)
+1. [学生未婚性行为将被处分](https://www.zhihu.com/search?q=未婚性行为)
 1. [fgo 中国从者调整](https://www.zhihu.com/search?q=fgo)
-1. [全运会开幕式](https://www.zhihu.com/search?q=全运会)
-1. [四川泸县 6.0 级地震](https://www.zhihu.com/search?q=泸县)
 1. [三星嘲讽 iPhone 13](https://www.zhihu.com/search?q=三星嘲讽iPhone)
 1. [少年歌行导演亲自答](https://www.zhihu.com/search?q=少年歌行)
 1. [紫燕百味鸡橱窗里老鼠乱窜](https://www.zhihu.com/search?q=紫燕百味鸡)
@@ -42,7 +43,6 @@
 1. [美无人机操作员游戏玩家居多](https://www.zhihu.com/search?q=无人机)
 1. [官方整顿饭圈产业链](https://www.zhihu.com/search?q=饭圈产业链)
 1. [成都失联女子「还活着」](https://www.zhihu.com/search?q=成都女子失联)
-1. [iPhone 12 价格直降千元](https://www.zhihu.com/search?q=iPhone12)
 
 <!-- END -->
 
