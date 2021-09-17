@@ -14,43 +14,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Sep 17 2021 23:06:08 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Sep 18 2021 00:08:41 GMT+0800 (China Standard Time) -->
 
 1. [神舟十二号返回](https://www.zhihu.com/search?q=神舟十二)
-1. [《峰爆》上映](https://www.zhihu.com/search?q=峰爆)
 1. [《灵媒》](https://www.zhihu.com/search?q=灵媒)
-1. [iPhone 13 预售秒没](https://www.zhihu.com/search?q=iPhone13)
-1. [山西前首富李兆会被法院悬赏](https://www.zhihu.com/search?q=李兆会)
 1. [中秋节礼物推荐](https://www.zhihu.com/search?q=中秋节礼物)
-1. [国产独立游戏《风来之国》](https://www.zhihu.com/search?q=风来之国)
+1. [iPhone 13 预售秒没](https://www.zhihu.com/search?q=iPhone13)
 1. [福建疫情](https://www.zhihu.com/search?q=福建疫情)
-1. [一人之下第四季定档](https://www.zhihu.com/search?q=一人之下)
-1. [北京冬奥会主题口号](https://www.zhihu.com/search?q=北京冬奥会)
+1. [广电通知停止宣传槟榔](https://www.zhihu.com/search?q=槟榔)
 1. [哈利波特手游被投诉](https://www.zhihu.com/search?q=哈利波特魔法觉醒)
-1. [iPhone 13 开启预售](https://www.zhihu.com/search?q=iPhone13)
-1. [120 万国产抗癌神药上市](https://www.zhihu.com/search?q=国产抗癌神药)
-1. [四川泸县 6.0 级地震](https://www.zhihu.com/search?q=泸县)
-1. [校门口游戏租号成产业](https://www.zhihu.com/search?q=租号)
-1. [全运会开幕式](https://www.zhihu.com/search?q=全运会)
-1. [fgo 中国从者调整](https://www.zhihu.com/search?q=fgo)
-1. [神舟返回舱顺利着陆](https://www.zhihu.com/search?q=神舟十二)
-1. [中国申请加入 CPTPP](https://www.zhihu.com/search?q=cptpp)
-1. [三星嘲讽 iPhone 13](https://www.zhihu.com/search?q=三星嘲讽iPhone)
-1. [神舟十二返回地球](https://www.zhihu.com/search?q=神舟十二)
-1. [一人之下 577 话更新](https://www.zhihu.com/search?q=一人之下)
-1. [少年歌行导演亲自答](https://www.zhihu.com/search?q=少年歌行)
-1. [iPhone 12 价格直降千元](https://www.zhihu.com/search?q=iPhone12)
-1. [苏炳添或将得到奥运奖牌](https://www.zhihu.com/search?q=苏炳添)
-1. [辅助生殖需求飙升](https://www.zhihu.com/search?q=辅助生殖技术)
-1. [紫燕百味鸡橱窗里老鼠乱窜](https://www.zhihu.com/search?q=紫燕百味鸡)
-1. [鹰角新游《来自星尘》](https://www.zhihu.com/search?q=来自星尘)
-1. [神舟十二明日返回地球](https://www.zhihu.com/search?q=神舟十二)
-1. [南仁东逝世四周年](https://www.zhihu.com/search?q=南仁东)
-1. [巴塞罗那 0:3 拜仁](https://www.zhihu.com/search?q=拜仁)
-1. [苹果发布会](https://www.zhihu.com/search?q=苹果发布会)
-1. [iPhone 13 值不值得买](https://www.zhihu.com/search?q=iphone13)
-1. [iPad 2021](https://www.zhihu.com/search?q=ipad2021)
-1. [Apple Watch](https://www.zhihu.com/search?q=appleWatch)
+1. [一人之下第四季定档](https://www.zhihu.com/search?q=一人之下)
+1. [山西前首富李兆会被法院悬赏](https://www.zhihu.com/search?q=李兆会)
+1. [北京冬奥会主题口号](https://www.zhihu.com/search?q=北京冬奥会)
 
 <!-- END -->
 
