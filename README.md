@@ -14,14 +14,14 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Sep 19 2021 03:06:16 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Sep 19 2021 04:06:34 GMT+0800 (China Standard Time) -->
 
-1. [《灵媒》](https://www.zhihu.com/search?q=灵媒)
-1. [福建疫情](https://www.zhihu.com/search?q=福建疫情)
 1. [中秋节礼物推荐](https://www.zhihu.com/search?q=中秋节礼物)
+1. [福建疫情](https://www.zhihu.com/search?q=福建疫情)
+1. [山西前首富李兆会被法院悬赏](https://www.zhihu.com/search?q=李兆会)
 1. [国产独立游戏《风来之国》](https://www.zhihu.com/search?q=风来之国)
 1. [北京冬奥会主题口号](https://www.zhihu.com/search?q=北京冬奥会)
-1. [山西前首富李兆会被法院悬赏](https://www.zhihu.com/search?q=李兆会)
+1. [《灵媒》](https://www.zhihu.com/search?q=灵媒)
 1. [校门口游戏租号成产业](https://www.zhihu.com/search?q=租号)
 1. [iPhone 13 预售秒没](https://www.zhihu.com/search?q=iPhone13)
 1. [iPhone 13 买什么颜色](https://www.zhihu.com/search?q=iPhone 颜色)
