@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Sep 20 2021 05:08:00 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Sep 20 2021 07:06:33 GMT+0800 (China Standard Time) -->
 
 1. [中国驻里约总领馆遭爆炸袭击](https://www.zhihu.com/search?q=里约总领馆)
 1. [苹果官网崩了](https://www.zhihu.com/search?q=苹果官网)
