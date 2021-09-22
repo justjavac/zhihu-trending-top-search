@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Sep 23 2021 04:06:40 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Sep 23 2021 05:05:22 GMT+0800 (China Standard Time) -->
 
 1. [鱿鱼游戏](https://www.zhihu.com/search?q=鱿鱼游戏)
 1. [苏炳添短跑实验室](https://www.zhihu.com/search?q=苏炳添)
