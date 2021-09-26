@@ -1,9 +1,9 @@
 [
-  { "query": "东北限电", "display_query": "国家电网回应东北限电" },
   { "query": "孟晚舟", "display_query": "孟晚舟已回到祖国" },
+  { "query": "东北限电", "display_query": "国家电网回应东北限电" },
+  { "query": "乌合麒麟", "display_query": "乌合麒麟《归舟》" },
   { "query": "iPhone13 bug", "display_query": "iPhone 13 拍照有马赛克" },
   { "query": "华为声明", "display_query": "华为称将继续在美国维权" },
-  { "query": "乌合麒麟", "display_query": "乌合麒麟《归舟》" },
   { "query": "原神", "display_query": "原神心海流水史低" },
   { "query": "动画片", "display_query": "广电支持优秀动画片" },
   { "query": "喜羊羊与灰太狼", "display_query": "喜羊羊与灰太狼新电影" },
