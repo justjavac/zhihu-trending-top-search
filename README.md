@@ -14,17 +14,20 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Sep 29 2021 12:08:09 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Sep 29 2021 13:05:43 GMT+0800 (China Standard Time) -->
 
+1. [《原神》周年庆](https://www.zhihu.com/search?q=原神)
 1. [鱿鱼游戏](https://www.zhihu.com/search?q=鱿鱼游戏)
 1. [地窖囚禁性侵罪犯被执行死刑](https://www.zhihu.com/search?q=地窖囚禁)
 1. [珠海航展](https://www.zhihu.com/search?q=珠海航展)
 1. [货拉拉案司机提出上诉](https://www.zhihu.com/search?q=货拉拉)
-1. [媒体揭「病媛」带货套路](https://www.zhihu.com/search?q=病媛)
 1. [《原神》周年 20 问](https://www.zhihu.com/search?q=原神)
+1. [媒体揭「病媛」带货套路](https://www.zhihu.com/search?q=病媛)
+1. [杭州西湖区约谈江南布衣](https://www.zhihu.com/search?q=江南布衣)
+1. [刀剑神域手游删号](https://www.zhihu.com/search?q=刀剑神域手游)
+1. [微信 「群聊折叠」](https://www.zhihu.com/search?q=群聊折叠)
 1. [劳荣枝上诉案已正式立案](https://www.zhihu.com/search?q=劳荣枝)
 1. [媒体评「限电是盘大棋」](https://www.zhihu.com/search?q=限电 大棋)
-1. [杭州西湖区约谈江南布衣](https://www.zhihu.com/search?q=江南布衣)
 1. [吉利进军手机业务](https://www.zhihu.com/search?q=吉利 手机)
 1. [特斯拉法务部回应](https://www.zhihu.com/search?q=特斯拉)
 1. [再见爱人越看越上头](https://www.zhihu.com/search?q=再见爱人)
