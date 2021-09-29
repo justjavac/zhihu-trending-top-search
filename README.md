@@ -14,18 +14,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Sep 29 2021 16:07:19 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Sep 29 2021 17:06:07 GMT+0800 (China Standard Time) -->
 
-1. [地窖囚禁性侵罪犯被执行死刑](https://www.zhihu.com/search?q=地窖囚禁)
-1. [岸田文雄将出任日本首相](https://www.zhihu.com/search?q=岸田文雄)
-1. [珠海航展](https://www.zhihu.com/search?q=珠海航展)
-1. [《原神》周年庆](https://www.zhihu.com/search?q=原神)
+1. [恒大汽车股飙涨 44.4 %](https://www.zhihu.com/search?q=恒大)
 1. [鱿鱼游戏](https://www.zhihu.com/search?q=鱿鱼游戏)
 1. [陕西全运会闭幕](https://www.zhihu.com/search?q=全运会)
-1. [劳荣枝上诉案已正式立案](https://www.zhihu.com/search?q=劳荣枝)
-1. [中国女篮亚洲杯 2 连胜](https://www.zhihu.com/search?q=中国女篮)
+1. [地窖囚禁性侵罪犯被执行死刑](https://www.zhihu.com/search?q=地窖囚禁)
+1. [吉利进军手机业务](https://www.zhihu.com/search?q=吉利 手机)
 1. [塞尔维亚失联女子与父亲相见](https://www.zhihu.com/search?q=失联女子)
 1. [货拉拉案司机提出上诉](https://www.zhihu.com/search?q=货拉拉)
+1. [珠海长隆致歉](https://www.zhihu.com/search?q=珠海长隆)
+1. [珠海航展](https://www.zhihu.com/search?q=珠海航展)
+1. [特斯拉数据储存在中国](https://www.zhihu.com/search?q=特斯拉数据)
+1. [岸田文雄将出任日本首相](https://www.zhihu.com/search?q=岸田文雄)
+1. [《原神》周年庆](https://www.zhihu.com/search?q=原神)
+1. [劳荣枝上诉案已正式立案](https://www.zhihu.com/search?q=劳荣枝)
+1. [中国女篮亚洲杯 2 连胜](https://www.zhihu.com/search?q=中国女篮)
 1. [媒体揭「病媛」带货套路](https://www.zhihu.com/search?q=病媛)
 1. [微信 「群聊折叠」](https://www.zhihu.com/search?q=群聊折叠)
 1. [兰州开往成都动车撞人](https://www.zhihu.com/search?q=动车撞人)
@@ -35,7 +39,6 @@
 1. [《原神》周年 20 问](https://www.zhihu.com/search?q=原神)
 1. [刀剑神域手游删号](https://www.zhihu.com/search?q=刀剑神域手游)
 1. [媒体评「限电是盘大棋」](https://www.zhihu.com/search?q=限电 大棋)
-1. [吉利进军手机业务](https://www.zhihu.com/search?q=吉利 手机)
 1. [特斯拉法务部回应](https://www.zhihu.com/search?q=特斯拉)
 1. [辽阳一企业因限电煤气泄漏](https://www.zhihu.com/search?q=辽阳煤气泄漏)
 1. [S11 主题曲《不可阻挡》](https://www.zhihu.com/search?q=s11主题曲)
@@ -43,7 +46,6 @@
 1. [六成粉色 iPhone 被男性购买](https://www.zhihu.com/search?q=粉色 iPhone)
 1. [美国强迫台积电交出数据](https://www.zhihu.com/search?q=台积电)
 1. [迪迦奥特曼重新上架](https://www.zhihu.com/search?q=迪迦奥特曼)
-1. [珠海长隆致歉](https://www.zhihu.com/search?q=珠海长隆)
 1. [上海时至 10 月 3 日大面积停电](https://www.zhihu.com/search?q=上海停电)
 1. [布克感染新冠](https://www.zhihu.com/search?q=布克)
 1. [楚留香导演张鹏翼去世](https://www.zhihu.com/search?q=张鹏翼)
