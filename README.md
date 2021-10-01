@@ -14,34 +14,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Oct 01 2021 23:06:53 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Oct 02 2021 00:08:50 GMT+0800 (China Standard Time) -->
 
 1. [韩东君 长津湖](https://www.zhihu.com/search?q=长津湖)
-1. [国庆节旅行文案](https://www.zhihu.com/search?q=国庆节旅行文案)
-1. [《我和我的父辈》](https://www.zhihu.com/search?q=我和我的父辈)
-1. [iPhone 13 触控失灵](https://www.zhihu.com/search?q=iPhone13)
 1. [原神感恩答谢](https://www.zhihu.com/search?q=原神)
+1. [《我和我的父辈》](https://www.zhihu.com/search?q=我和我的父辈)
+1. [《一人之下》更新](https://www.zhihu.com/search?q=一人之下)
 1. [国庆节小众景点](https://www.zhihu.com/search?q=国庆节小众景点)
+1. [腾讯入股《影之刃》开发商](https://www.zhihu.com/search?q=影之刃)
 1. [专家建议高考外语选考](https://www.zhihu.com/search?q=外语)
 1. [阿里腾讯布局「元宇宙」](https://www.zhihu.com/search?q=元宇宙)
 1. [国庆节假期文案](https://www.zhihu.com/search?q=国庆节假期文案)
-1. [腾讯入股《影之刃》开发商](https://www.zhihu.com/search?q=影之刃)
-1. [桌游店提供黑执事服务](https://www.zhihu.com/search?q=桌游)
-1. [虚拟手办遭吐槽](https://www.zhihu.com/search?q=虚拟手办)
-1. [胡军亲自答](https://www.zhihu.com/search?q=长津湖)
-1. [国庆多地公布防疫政](https://www.zhihu.com/search?q=国庆防疫政策)
-1. [茶百道过期材料更换标签](https://www.zhihu.com/search?q=茶百道)
-1. [特斯拉起诉车顶维权女车主](https://www.zhihu.com/search?q=车顶维权)
-1. [恒大汽车股飙涨 44.4 %](https://www.zhihu.com/search?q=恒大)
-1. [岸田文雄将出任日本首相](https://www.zhihu.com/search?q=岸田文雄)
-1. [少年歌行制作人亲自答](https://www.zhihu.com/search?q=少年歌行)
-1. [韩磊疑似涉嫌漏税](https://www.zhihu.com/search?q=韩磊)
-1. [「病媛」事件疑似反转](https://www.zhihu.com/search?q=病媛)
-1. [S11 主题曲《不可阻挡》](https://www.zhihu.com/search?q=s11主题曲)
-1. [媒体评「限电是盘大棋」](https://www.zhihu.com/search?q=限电 大棋)
-1. [重庆女子医院就诊摔倒致残](https://www.zhihu.com/search?q=重庆女子 就诊摔倒)
-1. [格力电器将注销 2.2 亿股](https://www.zhihu.com/search?q=格力股份)
-1. [地窖囚禁性侵罪犯被执行死刑](https://www.zhihu.com/search?q=地窖囚禁)
+1. [国庆节旅行文案](https://www.zhihu.com/search?q=国庆节旅行文案)
 
 <!-- END -->
 
