@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Oct 08 2021 03:05:21 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Oct 08 2021 04:06:42 GMT+0800 (China Standard Time) -->
 
 1. [诺贝尔化学奖公布](https://www.zhihu.com/search?q=诺贝尔化学奖)
 1. [米哈游崩坏系列新作](https://www.zhihu.com/search?q=崩坏：星穹铁道)
