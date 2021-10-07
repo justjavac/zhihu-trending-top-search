@@ -1,13 +1,13 @@
 [
-  { "query": "诺贝尔文学奖", "display_query": "诺贝尔文学奖揭晓" },
-  { "query": "NBA球员被捕", "display_query": "18 名前 NBA 球员被捕" },
   { "query": "诺贝尔化学奖", "display_query": "诺贝尔化学奖公布" },
+  { "query": "崩坏：星穹铁道", "display_query": "米哈游崩坏系列新作" },
   { "query": "承德密切接触者", "display_query": "河北承德紧急寻人" },
+  { "query": "十一假期", "display_query": "十一假期要结束了" },
   { "query": "迪士尼", "display_query": "迪士尼回应游客排队时昏倒身亡" },
   { "query": "黑猩猩", "display_query": "动物园黑猩猩攻击游客" },
   { "query": "山西", "display_query": "山西启动 Ⅲ 级应急响应" },
-  { "query": "崩坏：星穹铁道", "display_query": "米哈游崩坏系列新作" },
+  { "query": "诺贝尔文学奖", "display_query": "诺贝尔文学奖揭晓" },
   { "query": "LNG", "display_query": "LNG 开赛四战全胜" },
-  { "query": "十一假期", "display_query": "十一假期要结束了" },
+  { "query": "NBA球员被捕", "display_query": "18 名前 NBA 球员被捕" },
   { "query": "加索尔", "display_query": "加索尔宣布退役" }
 ]
