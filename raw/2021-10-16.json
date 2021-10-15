@@ -1,7 +1,7 @@
 [
   { "query": "神舟十三号", "display_query": "神舟十三号发射升空" },
+  { "query": "仙剑奇侠传7", "display_query": "仙剑奇侠传 7 开售" },
   { "query": "国考", "display_query": "国考启动网上报名" },
-  { "query": "光遇", "display_query": "《光遇》风行季" },
   { "query": "FPX", "display_query": "FPX 世界赛爆冷出局" },
   { "query": "黄金米", "display_query": "20 万黄金制千粒米扔黄浦江" },
   { "query": "重阳节文案", "display_query": "重阳节祝福文案" },
@@ -9,8 +9,8 @@
   { "query": "N号房", "display_query": "N 号房主犯被判 42 年" },
   { "query": "拉姆", "display_query": "拉姆案被告人被判死刑" },
   { "query": "Apple Watch S7", "display_query": "Apple Watch S7 上手体验" },
+  { "query": "光遇", "display_query": "《光遇》风行季" },
   { "query": "羲和号", "display_query": "「羲和号」成功发射" },
-  { "query": "仙剑奇侠传7", "display_query": "仙剑奇侠传 7 开售" },
   { "query": "一人之下", "display_query": "一人之下 547 话更新" },
   { "query": "FPX", "display_query": "FPX 三战全败" },
   { "query": "原神", "display_query": "原神整活马斯克" },
