@@ -1,11 +1,11 @@
 [
   { "query": "神舟十三号", "display_query": "神舟十三号发射成功" },
-  { "query": "仙剑奇侠传7", "display_query": "仙剑奇侠传 7 开售" },
   { "query": "兰心大剧院", "display_query": "《兰心大剧院》" },
+  { "query": "功勋", "display_query": "《功勋》孙家栋单元" },
   { "query": "FPX", "display_query": "FPX 世界赛爆冷出局" },
   { "query": "黄金米", "display_query": "20 万黄金制千粒米扔黄浦江" },
-  { "query": "功勋", "display_query": "《功勋》孙家栋单元" },
   { "query": "羲和号", "display_query": "「羲和号」成功发射" },
+  { "query": "仙剑奇侠传7", "display_query": "仙剑奇侠传 7 开售" },
   { "query": "天书奇谭", "display_query": "《天书奇谭》4K 版" },
   { "query": "搜狗", "display_query": "搜狗 15 日正式并入腾讯" },
   { "query": "海底捞", "display_query": "海底捞回应能否办婚礼" },
