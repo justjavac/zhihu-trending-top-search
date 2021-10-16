@@ -1,0 +1,12 @@
+[
+  { "query": "神舟十三号", "display_query": "神舟十三号发射成功" },
+  { "query": "兰心大剧院", "display_query": "《兰心大剧院》" },
+  { "query": "LGD", "display_query": "LGD 晋级 TI10 总决赛" },
+  { "query": "FPX", "display_query": "FPX 世界赛爆冷出局" },
+  { "query": "黄金米", "display_query": "20 万黄金制千粒米扔黄浦江" },
+  { "query": "小米电视大师", "display_query": "小米电视大师降价" },
+  { "query": "吴谢宇", "display_query": "北大弑母案吴谢宇亲笔信" },
+  { "query": "功勋", "display_query": "《功勋》孙家栋单元" },
+  { "query": "原神", "display_query": "原神整活马斯克" },
+  { "query": "海底捞", "display_query": "海底捞回应能否办婚礼" }
+]
