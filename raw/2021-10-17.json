@@ -1,19 +1,19 @@
 [
   { "query": "神舟十三号", "display_query": "神舟十三号发射成功" },
   { "query": "LGD", "display_query": "LGD 晋级 TI10 总决赛" },
+  { "query": "兰心大剧院", "display_query": "《兰心大剧院》" },
   { "query": "仙剑奇侠传7", "display_query": "仙剑奇侠传 7 开售" },
-  { "query": "原神", "display_query": "原神整活马斯克" },
   { "query": "黄金米", "display_query": "20 万黄金制千粒米扔黄浦江" },
   { "query": "EDG", "display_query": "EDG 二连败小组第二出线" },
-  { "query": "兰心大剧院", "display_query": "《兰心大剧院》" },
   { "query": "功勋", "display_query": "《功勋》孙家栋单元" },
-  { "query": "一人之下", "display_query": "一人之下 547 话更新" },
   { "query": "FPX", "display_query": "FPX 世界赛爆冷出局" },
+  { "query": "一人之下", "display_query": "一人之下 547 话更新" },
+  { "query": "吴谢宇", "display_query": "北大弑母案吴谢宇亲笔信" },
+  { "query": "原神", "display_query": "原神整活马斯克" },
   { "query": "天书奇谭", "display_query": "《天书奇谭》4K 版" },
   { "query": "搜狗", "display_query": "搜狗 15 日正式并入腾讯" },
   { "query": "海底捞", "display_query": "海底捞回应能否办婚礼" },
   { "query": "小米电视大师", "display_query": "小米电视大师降价" },
   { "query": "进击的巨人", "display_query": "进击的巨人最终季预告" },
-  { "query": "战争雷霆", "display_query": "战争雷霆玩家泄军事机密" },
-  { "query": "吴谢宇", "display_query": "北大弑母案吴谢宇亲笔信" }
+  { "query": "战争雷霆", "display_query": "战争雷霆玩家泄军事机密" }
 ]
