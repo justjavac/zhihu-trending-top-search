@@ -1,6 +1,6 @@
 [
   { "query": "何同学", "display_query": "何同学 「AirDesk」" },
-  { "query": "上海旅行团", "display_query": "上海旅行团 7 人均阳性" },
+  { "query": "MIUI 13", "display_query": "MIUI 13 将有大改动" },
   { "query": "LGD", "display_query": "LGD 获得 TI10 亚军" },
   { "query": "杀手机器狗", "display_query": "美国公司发布杀手机器狗" },
   { "query": "RNG", "display_query": "RNG C 组第一出线" },
@@ -9,6 +9,7 @@
   { "query": "乐山", "display_query": "四川乐山发生 4.3 级地震" },
   { "query": "魔道祖师", "display_query": "国漫《魔道祖师》大结局" },
   { "query": "樊振东", "display_query": "媒体评樊振东谢绝礼物" },
+  { "query": "上海旅行团", "display_query": "上海旅行团 7 人均阳性" },
   { "query": "美国威胁韩国", "display_query": "美威胁韩：别逼我走那一步" },
   { "query": "库里", "display_query": "库里 41 分勇士 5 连胜" },
   { "query": "孙悦", "display_query": "孙悦正式退役" },
