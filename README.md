@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Oct 21 2021 04:06:40 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Oct 21 2021 05:05:46 GMT+0800 (China Standard Time) -->
 
 1. [S11 八强赛 LPL 内战](https://www.zhihu.com/search?q=s11八强赛)
 1. [麦当劳被曝使用过期食材](https://www.zhihu.com/search?q=麦当劳)
