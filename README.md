@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Oct 22 2021 05:05:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Oct 22 2021 06:06:29 GMT+0800 (China Standard Time) -->
 
 1. [《功勋》大结局](https://www.zhihu.com/search?q=功勋)
 1. [警方通报李云迪嫖娼](https://www.zhihu.com/search?q=李云迪)
