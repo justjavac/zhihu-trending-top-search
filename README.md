@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Oct 23 2021 09:54:43 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Oct 23 2021 10:26:50 GMT+0800 (China Standard Time) -->
 
 1. [《功勋》大结局](https://www.zhihu.com/search?q=功勋)
 1. [警方通报李云迪嫖娼](https://www.zhihu.com/search?q=李云迪)
@@ -24,9 +24,10 @@
 1. [朝阳群众是种怎样的存在](https://www.zhihu.com/search?q=朝阳群众)
 1. [长征胜利 85 周年](https://www.zhihu.com/search?q=长征胜利)
 1. [一人之下 548 话更新](https://www.zhihu.com/search?q=一人之下)
+1. [《不速来客》](https://www.zhihu.com/search?q=不速来客)
+1. [乌合麒麟新作](https://www.zhihu.com/search?q=乌合麒麟)
 1. [T1 零封 HLE 晋级四强](https://www.zhihu.com/search?q=T1)
 1. [华为开发者大会 HDC 2021](https://www.zhihu.com/search?q=华为开发者大会)
-1. [乌合麒麟新作](https://www.zhihu.com/search?q=乌合麒麟)
 1. [一人之下 4 更新](https://www.zhihu.com/search?q=一人之下 4)
 1. [沈阳一饭店突发爆炸](https://www.zhihu.com/search?q=沈阳饭店爆炸)
 1. [战神 4 上架 Steam](https://www.zhihu.com/search?q=战神4)
