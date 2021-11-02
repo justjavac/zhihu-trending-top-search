@@ -1,6 +1,6 @@
 [
+  { "query": "字节跳动", "display_query": "字节跳动调整组织架构" },
   { "query": "东京地铁", "display_query": "东京地铁纵火砍人事件" },
-  { "query": "高铁霸座", "display_query": "高铁霸座将属违法行为" },
   { "query": "间谍过家家", "display_query": "《间谍过家家》动画化" },
   { "query": "堡垒之夜", "display_query": "《堡垒之夜》国服关服" },
   { "query": "十一月", "display_query": "十一月朋友圈文案" },
@@ -9,6 +9,7 @@
   { "query": "加班申请", "display_query": "网传腾讯字节加班需申请" },
   { "query": "快乐大本营", "display_query": "《快乐大本营》升级改版" },
   { "query": "CBA周最佳", "display_query": "郭艾伦当选 CBA 周最佳" },
+  { "query": "高铁霸座", "display_query": "高铁霸座将属违法行为" },
   { "query": "吴亦凡", "display_query": "吴亦凡经纪公司涉纠纷被起诉" },
   { "query": "notability", "display_query": "Notability 年费订阅制" },
   { "query": "马斯克", "display_query": "马斯克中文发《七步诗》" },
