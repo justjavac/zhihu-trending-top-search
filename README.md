@@ -14,24 +14,25 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Nov 03 2021 20:10:12 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Nov 03 2021 21:15:09 GMT+0800 (China Standard Time) -->
 
 1. [著名哲学家李泽厚逝世](https://www.zhihu.com/search?q=李泽厚)
-1. [GoodNotes 降价](https://www.zhihu.com/search?q=goodnotes)
-1. [电视剧《三体》最新预告](https://www.zhihu.com/search?q=三体电视剧)
 1. [Notability 致歉](https://www.zhihu.com/search?q=Notability)
+1. [字节跳动调整组织架构](https://www.zhihu.com/search?q=字节跳动)
+1. [GoodNotes 降价](https://www.zhihu.com/search?q=goodnotes)
 1. [国内疫情最新动态](https://www.zhihu.com/search?q=国内疫情)
 1. [《原神》胡桃复刻池](https://www.zhihu.com/search?q=原神)
-1. [无职转生 Part.2 更新](https://www.zhihu.com/search?q=无职转生)
+1. [华夏基金蔡向阳不幸辞世](https://www.zhihu.com/search?q=蔡向阳)
+1. [微念所持李子柒股权被冻结](https://www.zhihu.com/search?q=李子柒)
+1. [《乌海》导演亲自答](https://www.zhihu.com/search?q=乌海)
 1. [媒体「嫖娼合法化论调当休矣」](https://www.zhihu.com/search?q=嫖娼合法化)
-1. [字节跳动调整组织架构](https://www.zhihu.com/search?q=字节跳动)
+1. [电视剧《三体》最新预告](https://www.zhihu.com/search?q=三体电视剧)
+1. [无职转生 Part.2 更新](https://www.zhihu.com/search?q=无职转生)
 1. [成都市新增 2 例本土病例](https://www.zhihu.com/search?q=成都疫情)
 1. [吴亦凡经纪公司涉纠纷被起诉](https://www.zhihu.com/search?q=吴亦凡)
 1. [北京新增 8 例本土确诊病例](https://www.zhihu.com/search?q=北京疫情)
-1. [华夏基金蔡向阳不幸辞世](https://www.zhihu.com/search?q=蔡向阳)
 1. [全能型冷空气横扫我国大部](https://www.zhihu.com/search?q=冷空气)
 1. [香奈儿限量礼盒](https://www.zhihu.com/search?q=香奈儿礼盒)
-1. [《乌海》导演亲自答](https://www.zhihu.com/search?q=乌海)
 1. [成都金牛区新增 1 例本土病例](https://www.zhihu.com/search?q=成都疫情)
 1. [江苏处罚后排不系安全带](https://www.zhihu.com/search?q=安全带)
 1. [大厂 er 相亲文档](https://www.zhihu.com/search?q=相亲文档)
@@ -43,7 +44,6 @@
 1. [海贼王 1031 话情报](https://www.zhihu.com/search?q=海贼王)
 1. [三巨头 84 分湖人胜火箭](https://www.zhihu.com/search?q=湖人)
 1. [事业单位招聘不得限制毕业院校](https://www.zhihu.com/search?q=事业单位招聘)
-1. [微念所持李子柒股权被冻结](https://www.zhihu.com/search?q=李子柒)
 1. [双十一 显卡](https://www.zhihu.com/search?q=显卡)
 1. [《快乐大本营》升级改版](https://www.zhihu.com/search?q=快乐大本营)
 1. [变美习惯](https://www.zhihu.com/search?q=变美习惯)
