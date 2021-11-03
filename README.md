@@ -14,26 +14,31 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Nov 03 2021 15:06:59 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Nov 03 2021 16:08:09 GMT+0800 (China Standard Time) -->
 
-1. [《原神》胡桃复刻池](https://www.zhihu.com/search?q=原神)
+1. [GoodNotes 降价](https://www.zhihu.com/search?q=goodnotes)
 1. [Notability 致歉](https://www.zhihu.com/search?q=Notability)
 1. [大厂 er 相亲文档](https://www.zhihu.com/search?q=相亲文档)
-1. [吴亦凡经纪公司涉纠纷被起诉](https://www.zhihu.com/search?q=吴亦凡)
+1. [渤海银行涉事员工失联](https://www.zhihu.com/search?q=渤海银行)
 1. [国内疫情最新动态](https://www.zhihu.com/search?q=国内疫情)
+1. [马斯克中文发《七步诗》](https://www.zhihu.com/search?q=马斯克)
+1. [媒体「嫖娼合法化论调当休矣」](https://www.zhihu.com/search?q=嫖娼合法化)
+1. [《识夜描银》导演亲自答](https://www.zhihu.com/search?q=识夜描银)
+1. [《红楼梦》贾蓉饰演者杨俊勇去世](https://www.zhihu.com/search?q=杨俊勇)
+1. [国家反诈动画大片](https://www.zhihu.com/search?q=反诈动画)
+1. [《原神》胡桃复刻池](https://www.zhihu.com/search?q=原神)
+1. [吴亦凡经纪公司涉纠纷被起诉](https://www.zhihu.com/search?q=吴亦凡)
 1. [海贼王 1031 话情报](https://www.zhihu.com/search?q=海贼王)
 1. [三巨头 84 分湖人胜火箭](https://www.zhihu.com/search?q=湖人)
 1. [事业单位招聘不得限制毕业院校](https://www.zhihu.com/search?q=事业单位招聘)
 1. [微念所持李子柒股权被冻结](https://www.zhihu.com/search?q=李子柒)
 1. [华夏基金蔡向阳不幸辞世](https://www.zhihu.com/search?q=蔡向阳)
 1. [双十一 显卡](https://www.zhihu.com/search?q=显卡)
-1. [马斯克中文发《七步诗》](https://www.zhihu.com/search?q=马斯克)
 1. [全能型冷空气横扫我国大部](https://www.zhihu.com/search?q=冷空气)
 1. [成都金牛区新增 1 例本土病例](https://www.zhihu.com/search?q=成都疫情)
 1. [《快乐大本营》升级改版](https://www.zhihu.com/search?q=快乐大本营)
 1. [变美习惯](https://www.zhihu.com/search?q=变美习惯)
 1. [羽绒服推荐](https://www.zhihu.com/search?q=保暖羽绒服)
-1. [渤海银行涉事员工失联](https://www.zhihu.com/search?q=渤海银行)
 1. [蜜雪冰城注册商标](https://www.zhihu.com/search?q=蜜雪冰城)
 1. [雅虎停止大陆产品与服务](https://www.zhihu.com/search?q=雅虎)
 1. [Notability 年费订阅制](https://www.zhihu.com/search?q=notability)
