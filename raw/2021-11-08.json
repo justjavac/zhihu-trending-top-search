@@ -1,6 +1,6 @@
 [
+  { "query": "太空中理发", "display_query": "在太空中理发有多困难？" },
   { "query": "海贼王", "display_query": "海贼王 1031 话" },
-  { "query": "一箭三星", "display_query": "我国一箭三星发射成功" },
   { "query": "篮网", "display_query": "杜兰特 29+10 篮网 4 连胜" },
   { "query": "勇士", "display_query": "勇士大胜鹈鹕 41 分" },
   { "query": "内蒙古降雪", "display_query": "内蒙古降雪多车连撞" },
@@ -9,6 +9,6 @@
   { "query": "曼城", "display_query": "曼市德比曼联不敌曼城" },
   { "query": "英雄联盟双城之战", "display_query": "英雄联盟动画开播" },
   { "query": "斗破苍穹三年之约", "display_query": "斗破苍穹三年之约更新" },
-  { "query": "太空中理发", "display_query": "在太空中理发有多困难？" },
+  { "query": "一箭三星", "display_query": "我国一箭三星发射成功" },
   { "query": "李佳琦王冰冰", "display_query": "李佳琦王冰冰卖空 12 万罐松子" }
 ]
