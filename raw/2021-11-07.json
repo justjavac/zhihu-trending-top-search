@@ -1,18 +1,19 @@
 [
   { "query": "国王排名", "display_query": "国王排名第四集更新" },
-  { "query": "杨洋 痘博士", "display_query": "杨洋起诉痘博士侵犯肖像权" },
-  { "query": "EDG", "display_query": "S11 EDG 夺冠 " },
-  { "query": "一人之下", "display_query": "一人之下 585 话更新" },
-  { "query": "疫情", "display_query": "国内疫情最新动态" },
-  { "query": "重庆疫情", "display_query": "重庆疫情" },
   { "query": "特斯拉", "display_query": "特斯拉召回部分 Model 3" },
+  { "query": "EDG", "display_query": "S11 EDG 夺冠 " },
   { "query": "北京初雪", "display_query": "北京初雪" },
-  { "query": "勇士", "display_query": "勇士大胜鹈鹕 41 分" },
+  { "query": "疫情", "display_query": "国内疫情最新动态" },
+  { "query": "海贼王", "display_query": "海贼王 1031 话" },
+  { "query": "一人之下", "display_query": "一人之下 585 话更新" },
+  { "query": "重庆疫情", "display_query": "重庆疫情" },
   { "query": "12代酷睿", "display_query": "英特尔 12 代酷睿处理器" },
+  { "query": "亚运会电竞", "display_query": "电竞成亚运会正式项目" },
+  { "query": "杨洋 痘博士", "display_query": "杨洋起诉痘博士侵犯肖像权" },
+  { "query": "勇士", "display_query": "勇士大胜鹈鹕 41 分" },
   { "query": "崩坏3", "display_query": "崩坏 3 steam 差评" },
   { "query": "国足", "display_query": "国足调整 12 强赛名单" },
   { "query": "腾讯 退休", "display_query": "腾讯推出员工退休福利" },
   { "query": "内蒙古降雪", "display_query": "内蒙古降雪多车连撞" },
-  { "query": "EDG", "display_query": "S11 总决赛 EDG vs DK" },
-  { "query": "海贼王", "display_query": "海贼王 1031 话" }
+  { "query": "EDG", "display_query": "S11 总决赛 EDG vs DK" }
 ]
