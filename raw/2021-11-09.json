@@ -1,19 +1,19 @@
 [
   { "query": "马斯克", "display_query": "马斯克面临百亿天价税单" },
   { "query": "马斯克", "display_query": "马斯克发投票是否出售特斯拉股票" },
-  { "query": "无职转生", "display_query": "无职转生 part.2 更新" },
-  { "query": "原神", "display_query": "原神胡桃池流水" },
-  { "query": "疫情", "display_query": "国内疫情最新动态" },
-  { "query": "郑州疫情", "display_query": "郑州通报 12 例感染者轨迹 9 名为儿童" },
-  { "query": "奇遇人间角落", "display_query": "奇遇人间角落开播" },
-  { "query": "通辽雪灾", "display_query": "内蒙古通辽雪灾" },
-  { "query": "新东方", "display_query": "新东方计划成立农业平台" },
   { "query": "成都环球中心", "display_query": "成都多人逃离疫情封控区" },
+  { "query": "无职转生", "display_query": "无职转生 part.2 更新" },
+  { "query": "疫情", "display_query": "国内疫情最新动态" },
+  { "query": "原神", "display_query": "原神胡桃池流水" },
+  { "query": "奇遇人间角落", "display_query": "奇遇人间角落开播" },
+  { "query": "新东方", "display_query": "新东方计划成立农业平台" },
+  { "query": "通辽雪灾", "display_query": "内蒙古通辽雪灾" },
+  { "query": "英雄联盟双城之战", "display_query": "英雄联盟动画开播" },
+  { "query": "郑州疫情", "display_query": "郑州通报 12 例感染者轨迹 9 名为儿童" },
   { "query": "张伟丽", "display_query": "张伟丽二番战憾负罗斯" },
   { "query": "勇士", "display_query": "库里三节 20 分勇士胜火箭" },
   { "query": "斗破苍穹三年之约", "display_query": "斗破苍穹三年之约更新" },
   { "query": "太空中理发", "display_query": "在太空中理发有多困难？" },
   { "query": "天书奇谭", "display_query": "天书奇谭 4K 纪念版" },
-  { "query": "立冬文案", "display_query": "立冬文案" },
-  { "query": "英雄联盟双城之战", "display_query": "英雄联盟动画开播" }
+  { "query": "立冬文案", "display_query": "立冬文案" }
 ]
