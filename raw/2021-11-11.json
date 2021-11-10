@@ -1,6 +1,6 @@
 [
-  { "query": "丁香医生", "display_query": "丁香医生发文炮轰电子烟" },
   { "query": "岸田文雄", "display_query": "岸田文雄当选日本首相" },
+  { "query": "计算机二级", "display_query": "计算机二级成绩" },
   { "query": "鸿星尔克", "display_query": "鸿星尔克成立实业公司" },
   { "query": "南方降温", "display_query": "南方断崖式降温" },
   { "query": "上海降温", "display_query": "上海气温一夜爆降 15 度" },
@@ -9,6 +9,7 @@
   { "query": "勇士", "display_query": "库里 50 分勇士 5 连胜" },
   { "query": "英雄联盟双城之战", "display_query": "英雄联盟动画水平" },
   { "query": "寒假时间", "display_query": "2022 学生寒假时间出炉" },
+  { "query": "丁香医生", "display_query": "丁香医生发文炮轰电子烟" },
   { "query": "梅桢", "display_query": "梅桢起诉大四备考学生" },
   { "query": "永劫无间", "display_query": "永劫无间全球销量破 600 万" },
   { "query": "两不疑", "display_query": "《两不疑》导演亲自答" },
