@@ -14,44 +14,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Nov 14 2021 23:08:12 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Nov 15 2021 00:08:38 GMT+0800 (China Standard Time) -->
 
 1. [扬名立万](https://www.zhihu.com/search?q=扬名立万)
-1. [醉驾找「yuwei」案宣判](https://www.zhihu.com/search?q=yuwei)
-1. [库里加冕 NBA 历史三分王](https://www.zhihu.com/search?q=库里)
-1. [一人之下 4 更新](https://www.zhihu.com/search?q=一人之下4)
+1. [斗破苍穹三年之约更新](https://www.zhihu.com/search?q=斗破苍穹三年之约)
+1. [中国女排颜妮退役](https://www.zhihu.com/search?q=颜妮)
+1. [英雄联盟动画更新](https://www.zhihu.com/search?q=英雄联盟双城之战)
 1. [凡人修仙传年番开播](https://www.zhihu.com/search?q=凡人修仙传)
 1. [吸入式新冠疫苗](https://www.zhihu.com/search?q=吸入式疫苗)
-1. [哈登 39+12 篮网胜鹈鹕](https://www.zhihu.com/search?q=篮网)
-1. [英雄联盟动画更新](https://www.zhihu.com/search?q=英雄联盟双城之战)
-1. [斗破苍穹三年之约更新](https://www.zhihu.com/search?q=斗破苍穹三年之约)
+1. [一人之下 4 更新](https://www.zhihu.com/search?q=一人之下4)
+1. [醉驾找「yuwei」案宣判](https://www.zhihu.com/search?q=yuwei)
+1. [库里加冕 NBA 历史三分王](https://www.zhihu.com/search?q=库里)
 1. [布兰妮正式恢复自由](https://www.zhihu.com/search?q=布兰妮)
-1. [女孩晨跑遇害案嫌犯父亲涉嫌包庇](https://www.zhihu.com/search?q=女孩晨跑遇害)
-1. [芝大枪杀案嫌犯落网](https://www.zhihu.com/search?q=芝大枪杀案)
-1. [中国女排颜妮退役](https://www.zhihu.com/search?q=颜妮)
-1. [湖人惨败森林狼 24 分](https://www.zhihu.com/search?q=湖人)
-1. [原神 2.3 版本前瞻](https://www.zhihu.com/search?q=原神)
-1. [休斯敦音乐节发生踩踏事故](https://www.zhihu.com/search?q=休斯敦音乐节)
-1. [面条加罂粟致尿检阳性案宣判](https://www.zhihu.com/search?q=司机吃面尿检阳性)
-1. [好未来学科服务于年底停止](https://www.zhihu.com/search?q=好未来)
-1. [苹果内测「遗产联系人」](https://www.zhihu.com/search?q=遗产联系人)
-1. [小米双十一战绩](https://www.zhihu.com/search?q=小米双十一)
-1. [英雄联盟双城关系有多差](https://www.zhihu.com/search?q=英雄联盟双城之战)
-1. [九价 HPV 疫苗一分钟抢完](https://www.zhihu.com/search?q=九价)
-1. [星巴克全职员工享 14 薪](https://www.zhihu.com/search?q=星巴克薪资)
-1. [冬奥运动员菜单有 678 道菜品](https://www.zhihu.com/search?q=冬奥会菜单)
-1. [印度毒泡沫沐浴庆祝太阳神节](https://www.zhihu.com/search?q=印度毒泡沫)
-1. [上海地铁接触网跳闸](https://www.zhihu.com/search?q=上海地铁)
-1. [辉瑞「疫苗恐怖主义」](https://www.zhihu.com/search?q=辉瑞)
-1. [孟羽童成为董明珠秘书](https://www.zhihu.com/search?q=孟羽童)
-1. [李铁换人引争议](https://www.zhihu.com/search?q=李铁)
-1. [日语朝鲜语都来自中国东北](https://www.zhihu.com/search?q=中国东北)
-1. [「加拿大一枝黄花」防除公告](https://www.zhihu.com/search?q=加拿大一枝黄花)
-1. [钟南山称需及时补加强针](https://www.zhihu.com/search?q=新冠疫苗加强针)
-1. [太平鸟深陷抄袭风波](https://www.zhihu.com/search?q=太平鸟)
-1. [网传广州队已欠薪两月](https://www.zhihu.com/search?q=广州队欠薪)
-1. [一人之下最新话更新](https://www.zhihu.com/search?q=一人之下)
-1. [网传非洲代笔全球 50% 论文](https://www.zhihu.com/search?q=非洲代笔)
 
 <!-- END -->
 
