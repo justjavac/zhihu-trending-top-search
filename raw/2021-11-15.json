@@ -1,16 +1,19 @@
 [
   { "query": "中南屋", "display_query": "赛雷再发视频起底中南屋" },
-  { "query": "扬名立万", "display_query": "扬名立万" },
   { "query": "女孩晨跑遇害", "display_query": "女孩晨跑遇害案嫌犯父亲涉嫌包庇" },
+  { "query": "扬名立万", "display_query": "扬名立万" },
+  { "query": "斗破苍穹三年之约", "display_query": "斗破苍穹三年之约更新" },
+  { "query": "周琦", "display_query": "周琦 NBL 首秀 10+8" },
+  { "query": "法国进军世界杯", "display_query": "法国 8:0 胜哈萨克斯坦" },
+  { "query": "好未来", "display_query": "好未来学科服务于年底停止" },
+  { "query": "芝大枪杀案", "display_query": "芝大枪杀案嫌犯落网" },
+  { "query": "布兰妮", "display_query": "布兰妮正式恢复自由" },
+  { "query": "颜妮", "display_query": "中国女排颜妮退役" },
   { "query": "工伤认定", "display_query": "上班时回家哺乳遇车祸被认定工伤" },
   { "query": "勇士", "display_query": "勇士终结 7 连胜" },
-  { "query": "斗破苍穹三年之约", "display_query": "斗破苍穹三年之约更新" },
-  { "query": "好未来", "display_query": "好未来学科服务于年底停止" },
   { "query": "哈利波特魔法觉醒", "display_query": "哈利波特手游女角色争议" },
-  { "query": "周琦", "display_query": "周琦 NBL 首秀 10+8" },
   { "query": "艾尔登法环", "display_query": "艾尔登法环测试" },
   { "query": "湖人", "display_query": "浓眉 34+15+6 湖人胜马刺" },
-  { "query": "布兰妮", "display_query": "布兰妮正式恢复自由" },
   { "query": "yuwei", "display_query": "醉驾找「yuwei」案宣判" },
   { "query": "库里", "display_query": "库里加冕 NBA 历史三分王" },
   { "query": "湖人", "display_query": "湖人惨败森林狼 24 分" },
@@ -18,7 +21,5 @@
   { "query": "一人之下4", "display_query": "一人之下 4 更新" },
   { "query": "英雄联盟双城之战", "display_query": "英雄联盟动画更新" },
   { "query": "吸入式疫苗", "display_query": "吸入式新冠疫苗" },
-  { "query": "芝大枪杀案", "display_query": "芝大枪杀案嫌犯落网" },
-  { "query": "篮网", "display_query": "哈登 39+12 篮网胜鹈鹕" },
-  { "query": "颜妮", "display_query": "中国女排颜妮退役" }
+  { "query": "篮网", "display_query": "哈登 39+12 篮网胜鹈鹕" }
 ]
