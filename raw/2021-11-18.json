@@ -1,12 +1,15 @@
 [
-  { "query": "欧莱雅", "display_query": "欧莱雅致歉" },
+  { "query": "米哈游", "display_query": "米哈游建 3A FPS 团队" },
   { "query": "中国男足", "display_query": "国足 1:1 战平澳大利亚" },
   { "query": "罗志祥", "display_query": "台媒曝罗志祥正式复出" },
   { "query": "贾宝玉", "display_query": "如果贾宝玉开 EVA 会怎样？" },
-  { "query": "米哈游", "display_query": "米哈游建 3A FPS 团队" },
-  { "query": "女大学生保镖", "display_query": "女大学生毕业做私人保镖" },
+  { "query": "欧莱雅", "display_query": "欧莱雅致歉" },
   { "query": "天花", "display_query": "美国药企惊现天花病毒" },
   { "query": "蜂花", "display_query": "蜂花「哭穷」冲上热搜" },
+  { "query": "天涯明月刀", "display_query": "天涯明月刀游戏托" },
+  { "query": "摸鱼计算器", "display_query": "网易云「摸鱼计算器」" },
+  { "query": "天玑9000", "display_query": "曝旗舰芯命名天玑 9000" },
+  { "query": "女大学生保镖", "display_query": "女大学生毕业做私人保镖" },
   { "query": "TGA", "display_query": "TGA 年度游戏提名" },
   { "query": "甄嬛传十周年", "display_query": "《甄嬛传》播出十周年" },
   { "query": "国美", "display_query": "国美处罚员工上班摸鱼" },
@@ -15,7 +18,6 @@
   { "query": "加拿大一枝黄花", "display_query": "河南发现「加拿大一枝黄花」" },
   { "query": "国家反垄断局", "display_query": "国家反垄断局正式成立" },
   { "query": "周冠宇", "display_query": "周冠宇成中国首位 F1 车手" },
-  { "query": "天涯明月刀", "display_query": "天涯明月刀游戏托" },
   { "query": "老师掌掴学生", "display_query": "四川一小学老师掌掴女生" },
   { "query": "蜘蛛侠", "display_query": "《蜘蛛侠：英雄无归》最新预告" },
   { "query": "陈漫", "display_query": "陈漫作品遭质疑" },
@@ -31,6 +33,5 @@
   { "query": "安徽客货车相撞", "display_query": "安徽客货车相撞 8 死 8 伤" },
   { "query": "中美视频会晤", "display_query": "中美元首视频会晤" },
   { "query": "盐城地震", "display_query": "江苏盐城发生 5.0 级地震" },
-  { "query": "高铁奶茶", "display_query": "广东动车推出 26 元高铁奶茶" },
-  { "query": "天玑9000", "display_query": "曝旗舰芯命名天玑 9000" }
+  { "query": "高铁奶茶", "display_query": "广东动车推出 26 元高铁奶茶" }
 ]
