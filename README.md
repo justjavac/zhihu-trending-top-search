@@ -14,44 +14,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Nov 18 2021 23:06:47 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Nov 19 2021 00:13:26 GMT+0800 (China Standard Time) -->
 
-1. [米哈游建 3A FPS 团队](https://www.zhihu.com/search?q=米哈游)
+1. [李铁言论让足协「头疼」](https://www.zhihu.com/search?q=李铁)
 1. [国足 1:1 战平澳大利亚](https://www.zhihu.com/search?q=中国男足)
 1. [台媒曝罗志祥正式复出](https://www.zhihu.com/search?q=罗志祥)
 1. [如果贾宝玉开 EVA 会怎样？](https://www.zhihu.com/search?q=贾宝玉)
-1. [欧莱雅致歉](https://www.zhihu.com/search?q=欧莱雅)
-1. [国家反垄断局正式成立](https://www.zhihu.com/search?q=国家反垄断局)
-1. [天涯明月刀游戏托](https://www.zhihu.com/search?q=天涯明月刀)
 1. [美国药企惊现天花病毒](https://www.zhihu.com/search?q=天花)
-1. [TGA 年度游戏提名](https://www.zhihu.com/search?q=TGA)
+1. [欧莱雅致歉](https://www.zhihu.com/search?q=欧莱雅)
 1. [李铁赛后发布会](https://www.zhihu.com/search?q=李铁)
-1. [华为口红耳机](https://www.zhihu.com/search?q=口红耳机)
-1. [库里 37 分勇士胜篮网](https://www.zhihu.com/search?q=勇士)
-1. [网易云「摸鱼计算器」](https://www.zhihu.com/search?q=摸鱼计算器)
-1. [海贼王 1032 话情报](https://www.zhihu.com/search?q=海贼王)
-1. [李铁言论让足协「头疼」](https://www.zhihu.com/search?q=李铁)
-1. [蜂花「哭穷」冲上热搜](https://www.zhihu.com/search?q=蜂花)
-1. [曝旗舰芯命名天玑 9000](https://www.zhihu.com/search?q=天玑9000)
-1. [女大学生毕业做私人保镖](https://www.zhihu.com/search?q=女大学生保镖)
-1. [《甄嬛传》播出十周年](https://www.zhihu.com/search?q=甄嬛传十周年)
-1. [国美处罚员工上班摸鱼](https://www.zhihu.com/search?q=国美)
-1. [河南发现「加拿大一枝黄花」](https://www.zhihu.com/search?q=加拿大一枝黄花)
-1. [周冠宇成中国首位 F1 车手](https://www.zhihu.com/search?q=周冠宇)
-1. [四川一小学老师掌掴女生](https://www.zhihu.com/search?q=老师掌掴学生)
-1. [《蜘蛛侠：英雄无归》最新预告](https://www.zhihu.com/search?q=蜘蛛侠)
-1. [陈漫作品遭质疑](https://www.zhihu.com/search?q=陈漫)
-1. [大疆发布 T40 农业无人机](https://www.zhihu.com/search?q=大疆T40)
-1. [字母 47 分雄鹿胜湖人](https://www.zhihu.com/search?q=湖人)
-1. [利物浦发生自杀式恐怖袭击](https://www.zhihu.com/search?q=利物浦 恐怖袭击)
-1. [浦发银行回应 2.95 亿被质押](https://www.zhihu.com/search?q=浦发银行)
-1. [威少 25+6+8 湖人负公牛](https://www.zhihu.com/search?q=湖人)
-1. [僵尸鱼古蛋白杀灭肿瘤](https://www.zhihu.com/search?q=僵尸鱼)
-1. [仙剑称将打造元宇宙](https://www.zhihu.com/search?q=仙剑奇侠传)
-1. [安徽客货车相撞 8 死 8 伤](https://www.zhihu.com/search?q=安徽客货车相撞)
-1. [中美元首视频会晤](https://www.zhihu.com/search?q=中美视频会晤)
-1. [江苏盐城发生 5.0 级地震](https://www.zhihu.com/search?q=盐城地震)
-1. [广东动车推出 26 元高铁奶茶](https://www.zhihu.com/search?q=高铁奶茶)
+1. [米哈游建 3A FPS 团队](https://www.zhihu.com/search?q=米哈游)
+1. [王健林称王思聪没兴趣接班](https://www.zhihu.com/search?q=王健林)
+1. [TGA 年度游戏提名](https://www.zhihu.com/search?q=TGA)
 
 <!-- END -->
 
