@@ -1,10 +1,10 @@
 [
   { "query": "出生率", "display_query": "2020 年出生率跌破 1%" },
-  { "query": "门锁", "display_query": "《门锁》导演亲自答" },
   { "query": "元宇宙", "display_query": "张家界「元宇宙研究中心」" },
+  { "query": "门锁", "display_query": "《门锁》导演亲自答" },
+  { "query": "ofo退押金", "display_query": "ofo 推出拉好友退押金功能" },
   { "query": "英雄联盟双城之战", "display_query": "英雄联盟动画大结局" },
   { "query": "一人之下4", "display_query": "一人之下 4 更新" },
-  { "query": "ofo退押金", "display_query": "ofo 推出拉好友退押金功能" },
   { "query": "三体", "display_query": "《三体》动画 PV" },
   { "query": "篮网", "display_query": "哈登准三双篮网胜魔术" },
   { "query": "货拉拉案", "display_query": "货拉拉案司机妻子发文" },
