@@ -14,44 +14,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Nov 27 2021 23:06:15 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Nov 28 2021 00:08:47 GMT+0800 (China Standard Time) -->
 
-1. [周焯华涉嫌开设赌场被批捕](https://www.zhihu.com/search?q=周焯华)
 1. [世卫将新型变异毒株命名为 Omicron](https://www.zhihu.com/search?q=新型变异毒株)
-1. [北京公共场所标识不能只用外语](https://www.zhihu.com/search?q=北京公共场所标识)
 1. [一人之下 4 更新](https://www.zhihu.com/search?q=一人之下4)
-1. [新东方在美国开设中文课程](https://www.zhihu.com/search?q=新东方)
+1. [海贼王 1033 话](https://www.zhihu.com/search?q=海贼王)
+1. [上海确诊病例在京轨迹](https://www.zhihu.com/search?q=上海确诊)
+1. [支付宝微信收款码禁止商用系误读](https://www.zhihu.com/search?q=支付宝微信)
 1. [王者荣耀 QQ 服登陆异常](https://www.zhihu.com/search?q=王者荣耀)
 1. [元宇宙炒房热](https://www.zhihu.com/search?q=元宇宙)
-1. [国王排名更新](https://www.zhihu.com/search?q=国王排名)
-1. [电子烟将参照卷烟规定管理](https://www.zhihu.com/search?q=电子烟)
 1. [手游《花亦山心之月》](https://www.zhihu.com/search?q=花亦山心之月)
-1. [一人之下 588 话](https://www.zhihu.com/search?q=一人之下)
-1. [支付宝微信收款码禁止商用系误读](https://www.zhihu.com/search?q=支付宝微信)
-1. [河南再通报「营养餐致学生呕吐」](https://www.zhihu.com/search?q=河南营养餐)
-1. [海贼王 1033 话](https://www.zhihu.com/search?q=海贼王)
-1. [湖人罕见三加时负国王](https://www.zhihu.com/search?q=湖人)
-1. [上海确诊病例在京轨迹](https://www.zhihu.com/search?q=上海确诊)
-1. [云南女子被家暴烧死](https://www.zhihu.com/search?q=家暴)
-1. [库里 32 分勇士 6 连胜](https://www.zhihu.com/search?q=勇士)
-1. [潼关肉夹馍协会道歉](https://www.zhihu.com/search?q=潼关肉夹馍)
-1. [严格限制老婆花钱也是家暴](https://www.zhihu.com/search?q=限制老婆花钱)
-1. [宁波外教杀害女学生案开审](https://www.zhihu.com/search?q=宁波外教)
-1. [腾讯辟谣「腾讯云数据库泄露」](https://www.zhihu.com/search?q=腾讯)
-1. [2021 亚太数学建模竞赛](https://www.zhihu.com/search?q=亚太赛)
-1. [「库尔勒香梨协会」起诉商户](https://www.zhihu.com/search?q=库尔勒香梨)
-1. [库里 25+10 勇士 5 连胜](https://www.zhihu.com/search?q=勇士)
-1. [中国男篮世预赛大名单](https://www.zhihu.com/search?q=中国男篮)
-1. [美将 12 家中企列入实体清单](https://www.zhihu.com/search?q=美国实体清单)
-1. [于和伟聊喜剧](https://www.zhihu.com/search?q=一年一度喜剧大赛)
-1. [杜兰特 21 分篮网胜绿军](https://www.zhihu.com/search?q=篮网)
-1. [原神玩家直播融号](https://www.zhihu.com/search?q=原神)
-1. [Steam 秋促推荐](https://www.zhihu.com/search?q=steam)
-1. [刘国梁当选国际乒联执行副主席](https://www.zhihu.com/search?q=刘国梁)
-1. [新秦时明月开播](https://www.zhihu.com/search?q=新秦时明月)
-1. [湖人加时胜步行者](https://www.zhihu.com/search?q=湖人)
-1. [曼城 2-1 逆转巴黎](https://www.zhihu.com/search?q=曼城)
-1. [骨癌女孩的抗癌日记](https://www.zhihu.com/search?q=骨癌女孩)
+1. [北京公共场所标识不能只用外语](https://www.zhihu.com/search?q=北京公共场所标识)
+1. [国王排名更新](https://www.zhihu.com/search?q=国王排名)
 
 <!-- END -->
 
