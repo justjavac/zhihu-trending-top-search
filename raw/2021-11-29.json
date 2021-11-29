@@ -1,6 +1,14 @@
 [
-  { "query": "河南营养餐", "display_query": "河南再通报「营养餐致学生呕吐」" },
   { "query": "朱贤健", "display_query": "吉林越狱逃犯朱贤健被抓" },
+  { "query": "国考", "display_query": "2022 国考" },
+  { "query": "勇士", "display_query": "库里 33 分勇士 7 连胜" },
+  { "query": "勇士", "display_query": "库里 32 分勇士 6 连胜" },
+  { "query": "河南营养餐", "display_query": "河南再通报「营养餐致学生呕吐」" },
+  { "query": "斗破苍穹三年之约", "display_query": "斗破苍穹三年之约更新" },
+  { "query": "Omicron", "display_query": "香港两人感染 Omicron 变异株" },
+  { "query": "郑州八胞胎", "display_query": "郑州怀八胞胎女子仅 18 岁" },
+  { "query": "世乒赛", "display_query": "世乒赛中国包揽女单 4 强" },
+  { "query": "休斯敦世乒赛", "display_query": "樊振东王楚钦遭瑞典组合逆转" },
   { "query": "一人之下4", "display_query": "一人之下 4 更新" },
   { "query": "国王排名", "display_query": "国王排名更新" },
   { "query": "世乒赛混双", "display_query": "世乒赛王曼昱跨国混双出局" },
@@ -8,11 +16,6 @@
   { "query": "新型变异毒株", "display_query": "世卫将新型变异毒株命名为 Omicron" },
   { "query": "内蒙疫情", "display_query": "内蒙疫情" },
   { "query": "中国男篮", "display_query": "中国男篮轻取日本" },
-  { "query": "勇士", "display_query": "库里 32 分勇士 6 连胜" },
-  { "query": "Omicron", "display_query": "香港两人感染 Omicron 变异株" },
-  { "query": "国考", "display_query": "2022 国考" },
-  { "query": "郑州八胞胎", "display_query": "郑州怀八胞胎女子仅 18 岁" },
-  { "query": "休斯敦世乒赛", "display_query": "樊振东王楚钦遭瑞典组合逆转" },
   { "query": "太阳", "display_query": "太阳克篮网取 16 连胜" },
   { "query": "茶颜悦色", "display_query": "茶颜悦色起诉茶颜观色" }
 ]
