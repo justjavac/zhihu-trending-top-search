@@ -14,46 +14,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Nov 30 2021 23:11:27 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Dec 01 2021 00:14:20 GMT+0800 (China Standard Time) -->
 
 1. [「奥密克戎」变异毒株](https://www.zhihu.com/search?q=奥密克戎)
-1. [国王排名是否炒作](https://www.zhihu.com/search?q=国王排名)
 1. [李铁向中国足协提出辞职](https://www.zhihu.com/search?q=李铁)
+1. [国王排名是否炒作](https://www.zhihu.com/search?q=国王排名)
 1. [「鹿道森」留下遗书失联](https://www.zhihu.com/search?q=鹿道森)
 1. [国内疫情最新动态](https://www.zhihu.com/search?q=疫情)
-1. [梅西七夺金球奖](https://www.zhihu.com/search?q=梅西)
-1. [巴巴多斯正式脱离英联邦](https://www.zhihu.com/search?q=巴巴多斯)
-1. [一拳超人重制版 198 话](https://www.zhihu.com/search?q=一拳超人)
-1. [苏州试睡凶宅 128 万售出](https://www.zhihu.com/search?q=苏州试睡凶宅)
-1. [教师法修订草案公开征求意见](https://www.zhihu.com/search?q=教师法)
-1. [樊振东夺世乒赛男单冠军](https://www.zhihu.com/search?q=世乒赛)
-1. [无职转生 part.2 更新](https://www.zhihu.com/search?q=无职转生)
-1. [小红书崩了](https://www.zhihu.com/search?q=小红书崩了)
-1. [詹姆斯 33 分湖人胜活塞](https://www.zhihu.com/search?q=湖人)
-1. [首个活体机器人「生娃」](https://www.zhihu.com/search?q=活体机器人)
 1. [广州高校腹泻因诺如病毒感染](https://www.zhihu.com/search?q=诺如病毒)
-1. [校长网游充值诈骗超五千万](https://www.zhihu.com/search?q=网游充值)
-1. [北京我爱我家提供违规服务](https://www.zhihu.com/search?q=我爱我家)
-1. [2021 金鸡奖提名名单](https://www.zhihu.com/search?q=金鸡奖)
-1. [上海试点落户新政](https://www.zhihu.com/search?q=上海落户)
-1. [故宫试行未成年人免费开放](https://www.zhihu.com/search?q=故宫)
-1. [Virgil Abloh 去世](https://www.zhihu.com/search?q=VirgilAbloh)
-1. [2021 年轻人熬夜报告](https://www.zhihu.com/search?q=年轻人熬夜报告)
-1. [满洲里新增确诊 17 例](https://www.zhihu.com/search?q=满洲里疫情)
-1. [库里 33 分勇士 7 连胜](https://www.zhihu.com/search?q=勇士)
-1. [世乒赛中国包揽女单 4 强](https://www.zhihu.com/search?q=世乒赛)
-1. [樊振东决赛战瑞典黑马](https://www.zhihu.com/search?q=世乒赛)
-1. [香港新增 1 例奥密克戎确诊](https://www.zhihu.com/search?q=奥密克戎)
-1. [吉林越狱逃犯朱贤健被抓](https://www.zhihu.com/search?q=朱贤健)
-1. [内蒙古疫情](https://www.zhihu.com/search?q=内蒙古疫情)
-1. [日本将禁止海外旅客入境](https://www.zhihu.com/search?q=日本 入境)
-1. [短道世界杯武大靖夺金](https://www.zhihu.com/search?q=短道世界杯)
-1. [太阳克篮网取 16 连胜](https://www.zhihu.com/search?q=太阳)
-1. [斗破苍穹三年之约更新](https://www.zhihu.com/search?q=斗破苍穹三年之约)
-1. [樊振东王楚钦遭瑞典组合逆转](https://www.zhihu.com/search?q=休斯敦世乒赛)
-1. [郑州怀八胞胎女子仅 18 岁](https://www.zhihu.com/search?q=郑州八胞胎)
-1. [2022 国考](https://www.zhihu.com/search?q=国考)
-1. [凡人修仙传年番更新](https://www.zhihu.com/search?q=凡人修仙传)
+1. [樊振东夺世乒赛男单冠军](https://www.zhihu.com/search?q=樊振东)
+1. [梅西七夺金球奖](https://www.zhihu.com/search?q=梅西)
+1. [无职转生 part.2 更新](https://www.zhihu.com/search?q=无职转生)
+1. [詹姆斯 33 分湖人胜活塞](https://www.zhihu.com/search?q=湖人)
 
 <!-- END -->
 
