@@ -1,14 +1,15 @@
 [
-  { "query": "奥密克戎", "display_query": "奥密克戎感染均为无症状或轻症" },
+  { "query": "世乒赛女单", "display_query": "王曼昱夺世乒赛女单冠军" },
   { "query": "内蒙古疫情", "display_query": "内蒙古新增本土确诊 91 例" },
   { "query": "鹿道森", "display_query": "鹿道森确认身亡" },
-  { "query": "世乒赛女单", "display_query": "王曼昱夺世乒赛女单冠军" },
+  { "query": "我爱我家", "display_query": "北京我爱我家提供违规服务" },
   { "query": "疫情", "display_query": "国内疫情最新动态" },
   { "query": "梅西", "display_query": "梅西七夺金球奖" },
   { "query": "网约车抽成", "display_query": "保障网约车司机抽成知情权" },
   { "query": "诺如病毒", "display_query": "广州高校腹泻因诺如病毒感染" },
-  { "query": "我爱我家", "display_query": "北京我爱我家提供违规服务" },
+  { "query": "樊振东", "display_query": "樊振东夺世乒赛男单冠军" },
   { "query": "河南轿车逃逸", "display_query": "轿车撞车后逃逸又撞多车" },
+  { "query": "奥密克戎", "display_query": "奥密克戎感染均为无症状或轻症" },
   { "query": "石之海", "display_query": "JOJO 石之海上线" },
   { "query": "全球态势评估", "display_query": "美国「全球态势评估」" },
   { "query": "加拿大鹅", "display_query": "上海消保委约谈加拿大鹅" },
@@ -18,6 +19,5 @@
   { "query": "艾滋病", "display_query": "世界艾滋病日" },
   { "query": "国王排名", "display_query": "国王排名是否炒作" },
   { "query": "爱奇艺", "display_query": "爱奇艺被曝大规模裁员" },
-  { "query": "樊振东", "display_query": "樊振东夺世乒赛男单冠军" },
   { "query": "小米12", "display_query": "小米 12 全球首发新骁龙 8" }
 ]
