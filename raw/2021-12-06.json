@@ -1,8 +1,8 @@
 [
-  { "query": "海贼王", "display_query": "海贼王 1034 话" },
   { "query": "中概股", "display_query": "中概股暴跌" },
-  { "query": "凡人修仙传", "display_query": "凡人修仙传年番更新" },
   { "query": "斗破苍穹三年之约", "display_query": "斗破苍穹三年之约更新" },
+  { "query": "凡人修仙传", "display_query": "凡人修仙传年番更新" },
+  { "query": "海贼王", "display_query": "海贼王 1034 话" },
   { "query": "特利迦奥特曼", "display_query": "特利迦奥特曼 20 话" },
   { "query": "鬼灭之刃", "display_query": "鬼灭之刃遊郭編开播" },
   { "query": "Rookie", "display_query": "Rookie 官宣自由人身份" },
