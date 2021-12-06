@@ -14,12 +14,12 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Dec 07 2021 04:07:47 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Dec 07 2021 05:06:35 GMT+0800 (China Standard Time) -->
 
-1. [无职转生 part.2 更新](https://www.zhihu.com/search?q=无职转生)
 1. [中国物流集团成立](https://www.zhihu.com/search?q=中国物流集团)
-1. [凡人修仙传年番更新](https://www.zhihu.com/search?q=凡人修仙传)
 1. [鬼灭之刃遊郭編开播](https://www.zhihu.com/search?q=鬼灭之刃)
+1. [无职转生 part.2 更新](https://www.zhihu.com/search?q=无职转生)
+1. [凡人修仙传年番更新](https://www.zhihu.com/search?q=凡人修仙传)
 1. [杜兰特 28+10 篮网负公牛](https://www.zhihu.com/search?q=篮网)
 1. [库里 27 分勇士负马刺](https://www.zhihu.com/search?q=勇士)
 1. [雄狮少年导演亲自答](https://www.zhihu.com/search?q=雄狮少年)
