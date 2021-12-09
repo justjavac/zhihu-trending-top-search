@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Dec 09 2021 15:07:14 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Dec 09 2021 16:08:30 GMT+0800 (China Standard Time) -->
 
 1. [陕西新增 1 例本土确诊](https://www.zhihu.com/search?q=陕西疫情)
 1. [孙卓养母发声](https://www.zhihu.com/search?q=孙卓)
