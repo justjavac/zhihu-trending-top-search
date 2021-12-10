@@ -1,14 +1,19 @@
 [
+  { "query": "原神", "display_query": "原神获 TGA 最佳手游 " },
   { "query": "尼加拉瓜", "display_query": "尼加拉瓜与台湾断交" },
   { "query": "豆瓣", "display_query": "豆瓣 APP 下架" },
-  { "query": "香港不明飞行物", "display_query": "香港出现不明飞行物" },
-  { "query": "孙卓", "display_query": "孙卓养母发声" },
   { "query": "元宇宙", "display_query": "元宇宙会造成人口风险" },
+  { "query": "邱泽", "display_query": "邱泽许玮甯官宣结婚" },
+  { "query": "南京女大学生", "display_query": "南京女大学生被男友杀害案" },
+  { "query": "孙卓", "display_query": "孙卓养母发声" },
+  { "query": "骁龙8GEN1", "display_query": "高通骁龙 8 GEN1" },
+  { "query": "一人之下", "display_query": "一人之下 590 话更新" },
+  { "query": "浙江疫情", "display_query": "绍兴近期确诊与丧事相关" },
+  { "query": "香港不明飞行物", "display_query": "香港出现不明飞行物" },
   { "query": "梅姨", "display_query": "梅姨案被拐儿童拉黑生母" },
   { "query": "原神", "display_query": "原神荒泷一斗 PV" },
   { "query": "陕西疫情", "display_query": "陕西新增 1 例本土确诊" },
   { "query": "英国议会大厦", "display_query": "英议会大厦发现可卡因残留" },
-  { "query": "骁龙8GEN1", "display_query": "高通骁龙 8 GEN1" },
   { "query": "普京", "display_query": "普京「闪电」访问印度" },
   { "query": "光环无限", "display_query": "光环无限正式解锁" },
   { "query": "疫情", "display_query": "国内疫情最新动态" },
@@ -20,6 +25,5 @@
   { "query": "泡泡", "display_query": "动画《泡泡》豪华阵容" },
   { "query": "忘不了农场", "display_query": "忘不了农场开播" },
   { "query": "研究生猝死", "display_query": "研究生猝死校方通报" },
-  { "query": "小米11", "display_query": "小米 11 青春活力版" },
-  { "query": "浙江疫情", "display_query": "绍兴近期确诊与丧事相关" }
+  { "query": "小米11", "display_query": "小米 11 青春活力版" }
 ]
