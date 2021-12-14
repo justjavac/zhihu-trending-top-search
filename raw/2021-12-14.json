@@ -3,12 +3,16 @@
   { "query": "洛必达法则", "display_query": "洛必达法则为何成为禁术" },
   { "query": "非洲文学", "display_query": "北大硕士解读非洲文学" },
   { "query": "谁是凶手", "display_query": "《谁是凶手》编剧亲自答" },
+  { "query": "管饱水饺", "display_query": "男子吃 12 元管饱水饺竟只吃馅" },
+  { "query": "遭辱骂外卖小哥发声", "display_query": "遭辱骂外卖小哥最新发声" },
+  { "query": "雪梨", "display_query": "雪梨淘宝店铺被封" },
+  { "query": "汉文帝霸陵", "display_query": "汉文帝霸陵已发现" },
+  { "query": "加班猝死", "display_query": "网红孵化公司员工加班时猝死" },
   { "query": "微博", "display_query": "微博回应被网信办处罚" },
   { "query": "袁咏仪", "display_query": "袁咏仪回应儿子不当言论" },
   { "query": "耐克起诉阿迪达斯", "display_query": "耐克起诉阿迪达斯抄袭" },
   { "query": "无职转生", "display_query": "无职转生 part.2 更新" },
   { "query": "湖人", "display_query": "詹姆斯三双湖人胜魔术" },
-  { "query": "雪梨", "display_query": "雪梨淘宝店铺被封" },
   { "query": "毒杀麻雀为自食", "display_query": "男子毒杀 200 多只麻雀称要自己吃" },
   { "query": "周琦", "display_query": "周琦 NBL 砍 22+10+7 帽" },
   { "query": "勇士", "display_query": "库里 3 三分勇士负 76 人" },
@@ -28,6 +32,5 @@
   { "query": "龙卷风", "display_query": "龙卷风致美国 80 多人死亡" },
   { "query": "特利迦奥特曼", "display_query": "特利迦奥特曼 21 话" },
   { "query": "凡人修仙传", "display_query": "凡人修仙传年番更新" },
-  { "query": "鬼灭之刃", "display_query": "鬼灭之刃第二季更新" },
-  { "query": "加班猝死", "display_query": "网红孵化公司员工加班时猝死" }
+  { "query": "鬼灭之刃", "display_query": "鬼灭之刃第二季更新" }
 ]
