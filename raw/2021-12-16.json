@@ -2,11 +2,13 @@
   { "query": "谁是凶手", "display_query": "《谁是凶手》编剧亲自答" },
   { "query": "毛星云", "display_query": "腾讯确认毛星云离世" },
   { "query": "原神", "display_query": "《原神》荒泷一斗" },
-  { "query": "uzi", "display_query": "Uzi 复出" },
   { "query": "孙卓", "display_query": "佳木斯警方回应孙卓户籍" },
-  { "query": "袁咏仪", "display_query": "袁咏仪回应儿子不当言论" },
-  { "query": "库里", "display_query": "库里加冕历史三分王" },
   { "query": "孙卓", "display_query": "黑龙江北安回应孙卓户籍" },
+  { "query": "uzi", "display_query": "Uzi 复出" },
+  { "query": "oppo", "display_query": "OPPO 智能眼镜" },
+  { "query": "购房资格绿码", "display_query": "北京「购房资格绿码」" },
+  { "query": "袁咏仪", "display_query": "袁咏仪回应儿子不当言论" },
   { "query": "央行降准", "display_query": "央行第二次降准正式落地" },
+  { "query": "库里", "display_query": "库里加冕历史三分王" },
   { "query": "淘宝 约谈", "display_query": "淘宝京东等被监管约谈" }
 ]
