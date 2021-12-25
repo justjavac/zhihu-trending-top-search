@@ -14,18 +14,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Dec 26 2021 00:09:03 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Dec 26 2021 01:14:33 GMT+0800 (China Standard Time) -->
 
-1. [考研政治](https://www.zhihu.com/search?q=考研政治)
 1. [国王排名更新](https://www.zhihu.com/search?q=国王排名)
+1. [文在寅将赦免朴槿惠](https://www.zhihu.com/search?q=朴槿惠)
+1. [霍尊回应陈露被抓](https://www.zhihu.com/search?q=霍尊回应)
+1. [《黑客帝国 4：矩阵重生》](https://www.zhihu.com/search?q=黑客帝国4)
+1. [詹姆斯·韦伯望远镜发射升空](https://www.zhihu.com/search?q=韦伯望远镜)
+1. [全国多地迎来大降温](https://www.zhihu.com/search?q=降温)
+1. [女子被误当野猪射击埋尸](https://www.zhihu.com/search?q=女子被当野猪射击)
 1. [广西新增确诊病例 5 例](https://www.zhihu.com/search?q=广西疫情)
 1. [广西东兴新增 8 例本土病例](https://www.zhihu.com/search?q=广西疫情)
-1. [霍尊回应陈露被抓](https://www.zhihu.com/search?q=霍尊回应)
-1. [詹姆斯·韦伯望远镜发射升空](https://www.zhihu.com/search?q=韦伯望远镜)
+1. [「车顶维权案」将开庭](https://www.zhihu.com/search?q=车顶维权案)
+1. [考研政治](https://www.zhihu.com/search?q=考研政治)
 1. [云南新增确诊病例 4 例](https://www.zhihu.com/search?q=云南疫情)
 1. [新秦时明月更新](https://www.zhihu.com/search?q=新秦时明月)
 1. [詹威合砍 66 分湖人 4 连败](https://www.zhihu.com/search?q=湖人)
-1. [「车顶维权案」将开庭](https://www.zhihu.com/search?q=车顶维权案)
 
 <!-- END -->
 
