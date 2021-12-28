@@ -1,14 +1,15 @@
 [
-  { "query": "西安疫情", "display_query": "西安疫情源头锁定境外输入" },
-  { "query": "三只松鼠模特", "display_query": "三只松鼠模特回应争议" },
   { "query": "小米12", "display_query": "小米 12 系列" },
+  { "query": "三只松鼠模特", "display_query": "三只松鼠模特回应争议" },
   { "query": "重庆姐弟坠亡案", "display_query": "重庆姐弟坠亡案宣判" },
+  { "query": "史景迁去世", "display_query": "历史学家史景迁去世" },
   { "query": "广东疫情", "display_query": "广东新增 1 例本土确诊" },
   { "query": "网易云音乐", "display_query": "2021 网易云音乐听歌报告" },
   { "query": "年度反腐热词", "display_query": "2021 年度十大反腐热词" },
   { "query": "微信网页版文件传输", "display_query": "微信「网页版文件传输助手」" },
   { "query": "星巴克", "display_query": "星巴克被强制执行 1087 万" },
   { "query": "山西绛县6人失踪", "display_query": "山西绛县 6 名失踪者遇难" },
+  { "query": "西安疫情", "display_query": "西安疫情源头锁定境外输入" },
   { "query": "GimGoon", "display_query": "S9 世界冠军选手退役" },
   { "query": "魔法使之夜", "display_query": "魔法使之夜动画化" },
   { "query": "幻塔", "display_query": "幻塔免费送五星" },
@@ -17,6 +18,5 @@
   { "query": "原神", "display_query": "原神 2.4 前瞻" },
   { "query": "相互宝", "display_query": "相互宝宣布将于明年关停" },
   { "query": "严阵以待", "display_query": "严阵以待 Steam 销量第一" },
-  { "query": "史景迁去世", "display_query": "历史学家史景迁去世" },
   { "query": "南京疫情", "display_query": "南京一引航员核酸阳性" }
 ]
