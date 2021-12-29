@@ -1,7 +1,7 @@
 [
   { "query": "小米12", "display_query": "小米 12 系列" },
-  { "query": "西安疫情", "display_query": "西安疫情封闭管理" },
   { "query": "西安疫情", "display_query": "西安疫情源头锁定境外输入" },
+  { "query": "西安疫情", "display_query": "西安疫情封闭管理" },
   { "query": "相互宝", "display_query": "相互宝宣布将于明年关停" },
   { "query": "三只松鼠模特", "display_query": "三只松鼠模特回应争议" },
   { "query": "九价代抢", "display_query": "九价疫苗代抢月入数万" },
