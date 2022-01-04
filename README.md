@@ -14,45 +14,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jan 04 2022 23:07:33 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jan 05 2022 00:10:13 GMT+0800 (China Standard Time) -->
 
-1. [王老吉新年推出姓氏罐](https://www.zhihu.com/search?q=王老吉)
-1. [恒大在香港交易所暂时停牌](https://www.zhihu.com/search?q=恒大)
-1. [杜兰特 26 分篮网负灰熊](https://www.zhihu.com/search?q=篮网)
-1. [南极出现聚集性疫情](https://www.zhihu.com/search?q=南极疫情)
-1. [知名音乐人袁惟仁成植物人](https://www.zhihu.com/search?q=袁惟仁)
-1. [AirPods Pro 虎年特别款](https://www.zhihu.com/search?q=AirPodsPro 虎年)
 1. [鬼灭之刃第二季更新](https://www.zhihu.com/search?q=鬼灭之刃)
-1. [多省 2020 年出生率出炉](https://www.zhihu.com/search?q=2020年出生率)
-1. [明日方舟运营发声明](https://www.zhihu.com/search?q=明日方舟)
 1. [中法俄英美联合声明「核战争打不得」](https://www.zhihu.com/search?q=五核武器国家发表联合声明)
 1. [孤泳者](https://www.zhihu.com/search?q=孤泳者)
-1. [「西安一码通」疑再次崩溃](https://www.zhihu.com/search?q=西安一码通)
-1. [男子教女友滑雪被要求证明情侣关系](https://www.zhihu.com/search?q=云佛山滑雪场)
-1. [原神申鹤新角色演示](https://www.zhihu.com/search?q=原神)
-1. [快手再传裁员](https://www.zhihu.com/search?q=快手裁员)
-1. [西安男子求隔离未果致全家确诊](https://www.zhihu.com/search?q=西安男子求隔离)
-1. [中日首次建立双边自贸关系](https://www.zhihu.com/search?q=中日双边自贸关系)
-1. [梅西等 4 名球员感染新冠](https://www.zhihu.com/search?q=梅西 新冠)
-1. [四川江油严重车祸致 8 死 19 伤](https://www.zhihu.com/search?q=四川江油车祸)
-1. [美国国防部长感染新冠](https://www.zhihu.com/search?q=美国国防部长)
-1. [内蒙古夺 WCBA 总冠军](https://www.zhihu.com/search?q=WCBA)
-1. [「操场埋尸案」24 人判刑](https://www.zhihu.com/search?q=操场埋尸案)
-1. [Kindle 或退出中国市场](https://www.zhihu.com/search?q=Kindle)
 1. [包贝尔被曝疑似抄袭](https://www.zhihu.com/search?q=包贝尔抄袭)
-1. [原神八重神子立绘](https://www.zhihu.com/search?q=原神)
-1. [张庭夫妇公司涉嫌传销被查](https://www.zhihu.com/search?q=张庭夫妇)
-1. [库里破纪录勇士胜爵士](https://www.zhihu.com/search?q=勇士)
-1. [山西一公司爆炸致 4 人死亡](https://www.zhihu.com/search?q=山西爆炸)
-1. [大连一市场发生火灾](https://www.zhihu.com/search?q=大连火灾)
-1. [今年春运首日火车票明天开售](https://www.zhihu.com/search?q=春运)
-1. [哈登三双篮网遭逆转](https://www.zhihu.com/search?q=篮网)
-1. [德罗赞连续 2 场三分绝杀](https://www.zhihu.com/search?q=德罗赞)
-1. [云南 5.5 级地震](https://www.zhihu.com/search?q=云南地震)
-1. [斗破苍穹三年之约更新](https://www.zhihu.com/search?q=斗破苍穹三年之约)
-1. [特利迦奥特曼更新](https://www.zhihu.com/search?q=特利迦奥特曼)
-1. [凡人修仙传年番更新](https://www.zhihu.com/search?q=凡人修仙传)
-1. [詹姆斯 26 分湖人胜狼](https://www.zhihu.com/search?q=湖人)
+1. [「西安一码通」疑再次崩溃](https://www.zhihu.com/search?q=西安一码通)
+1. [中日首次建立双边自贸关系](https://www.zhihu.com/search?q=中日双边自贸关系)
+1. [明日方舟运营发声明](https://www.zhihu.com/search?q=明日方舟)
+1. [多省 2020 年出生率出炉](https://www.zhihu.com/search?q=2020年出生率)
+1. [王老吉新年推出姓氏罐](https://www.zhihu.com/search?q=王老吉)
+1. [快手再传裁员](https://www.zhihu.com/search?q=快手裁员)
 
 <!-- END -->
 
