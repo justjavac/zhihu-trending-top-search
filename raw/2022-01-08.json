@@ -1,0 +1,12 @@
+[
+  { "query": "哈萨克斯坦", "display_query": "哈萨克斯坦骚乱已平息" },
+  { "query": "一年一度喜剧大赛", "display_query": "喜剧大赛年度必看" },
+  { "query": "深圳疫情", "display_query": "深圳报告 2 例新冠阳性" },
+  { "query": "西安孕妇", "display_query": "西安孕妇事件处理结果" },
+  { "query": "明日方舟", "display_query": "明日方舟全新常驻模式" },
+  { "query": "英雄联盟cg", "display_query": "英雄联盟 CG「呼唤」" },
+  { "query": "重庆爆炸", "display_query": "重庆市武隆区发生爆炸" },
+  { "query": "上海疫情", "display_query": "上海新增 3 例无症状感染者" },
+  { "query": "王者荣耀", "display_query": "王者荣耀「游戏信用门槛」" },
+  { "query": "河南疫情", "display_query": "河南禹州公布病例活动轨迹" }
+]
