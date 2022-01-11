@@ -14,37 +14,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jan 11 2022 23:12:31 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jan 12 2022 00:15:28 GMT+0800 (China Standard Time) -->
 
-1. [《何以笙箫默》下架](https://www.zhihu.com/search?q=何以笙箫默)
 1. [刘鑫曾向江母发刺激性信息](https://www.zhihu.com/search?q=刘鑫)
 1. [天津津南新增本土 10 例](https://www.zhihu.com/search?q=天津疫情)
 1. [鬼灭之刃第二季更新](https://www.zhihu.com/search?q=鬼灭之刃)
-1. [河南新增 87 例本土病例](https://www.zhihu.com/search?q=河南疫情)
+1. [《何以笙箫默》下架](https://www.zhihu.com/search?q=何以笙箫默)
 1. [iPhone 15 搭载自研芯片](https://www.zhihu.com/search?q=iPhone15)
-1. [上海孕妇核酸检测期间流产](https://www.zhihu.com/search?q=上海孕妇)
-1. [《原神》魔药研析难度](https://www.zhihu.com/search?q=原神)
-1. [媒体评任泽平谈生育](https://www.zhihu.com/search?q=任泽平)
 1. [西安公布解封政策](https://www.zhihu.com/search?q=西安解封)
 1. [江歌母亲诉刘鑫案一审宣判](https://www.zhihu.com/search?q=江歌案)
-1. [严禁高三上提前结课备考](https://www.zhihu.com/search?q=高三备考)
-1. [网友称广东粤康码崩了](https://www.zhihu.com/search?q=粤康码崩了)
-1. [新东方每 2 天成立 1 家新公司](https://www.zhihu.com/search?q=新东方)
-1. [法院为何认定刘鑫多项过错](https://www.zhihu.com/search?q=刘鑫)
-1. [郭艾伦是怎样爱上篮球的](https://www.zhihu.com/search?q=郭艾伦)
-1. [国产新游昭和米国物语](https://www.zhihu.com/search?q=昭和米国物语)
-1. [张文宏 「奥密克戎不是大号流感」](https://www.zhihu.com/search?q=奥密克戎)
-1. [公开选聘国家女排主教练](https://www.zhihu.com/search?q=女排主教练)
-1. [新东方辞退 6 万员工](https://www.zhihu.com/search?q=新东方辞退员工)
-1. [爆料称爱尔眼科存在行贿现象](https://www.zhihu.com/search?q=爱尔眼科)
-1. [篮网加时胜马刺](https://www.zhihu.com/search?q=篮网)
-1. [汤普森复出](https://www.zhihu.com/search?q=汤普森复出)
-1. [中国人民警察节](https://www.zhihu.com/search?q=中国人民警察节)
-1. [天津市委市政府致信全市](https://www.zhihu.com/search?q=天津疫情)
-1. [进击的巨人最终季 Part.2](https://www.zhihu.com/search?q=进击的巨人)
-1. [斗破苍穹三年之约更新](https://www.zhihu.com/search?q=斗破苍穹三年之约)
-1. [荣耀 Magic V 折叠屏发布](https://www.zhihu.com/search?q=荣耀折叠屏)
-1. [克莱 17 分勇士胜骑士](https://www.zhihu.com/search?q=勇士)
+1. [媒体评任泽平谈生育](https://www.zhihu.com/search?q=任泽平)
+1. [斗鱼首次断播 LPL 联赛](https://www.zhihu.com/search?q=斗鱼)
+1. [《原神》魔药研析难度](https://www.zhihu.com/search?q=原神)
 
 <!-- END -->
 
