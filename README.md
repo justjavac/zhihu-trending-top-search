@@ -14,18 +14,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jan 11 2022 10:36:42 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jan 11 2022 11:09:58 GMT+0800 (China Standard Time) -->
 
-1. [鬼灭之刃第二季更新](https://www.zhihu.com/search?q=鬼灭之刃)
 1. [媒体评任泽平谈生育](https://www.zhihu.com/search?q=任泽平)
+1. [鬼灭之刃第二季更新](https://www.zhihu.com/search?q=鬼灭之刃)
 1. [天津津南新增本土 10 例](https://www.zhihu.com/search?q=天津疫情)
-1. [张文宏 「奥密克戎不是大号流感」](https://www.zhihu.com/search?q=奥密克戎)
 1. [河南新增 87 例本土病例](https://www.zhihu.com/search?q=河南疫情)
 1. [新东方每 2 天成立 1 家新公司](https://www.zhihu.com/search?q=新东方)
+1. [张文宏 「奥密克戎不是大号流感」](https://www.zhihu.com/search?q=奥密克戎)
+1. [《原神》魔药研析难度](https://www.zhihu.com/search?q=原神)
 1. [新东方辞退 6 万员工](https://www.zhihu.com/search?q=新东方辞退员工)
 1. [江歌母亲诉刘鑫案一审宣判](https://www.zhihu.com/search?q=江歌案)
 1. [严禁高三上提前结课备考](https://www.zhihu.com/search?q=高三备考)
-1. [《原神》魔药研析难度](https://www.zhihu.com/search?q=原神)
 1. [爆料称爱尔眼科存在行贿现象](https://www.zhihu.com/search?q=爱尔眼科)
 1. [篮网加时胜马刺](https://www.zhihu.com/search?q=篮网)
 1. [汤普森复出](https://www.zhihu.com/search?q=汤普森复出)
