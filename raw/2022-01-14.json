@@ -1,0 +1,12 @@
+[
+  { "query": "马化腾", "display_query": "马化腾说腾讯只是普通公司" },
+  { "query": "佳能", "display_query": "佳能宣布关闭珠海公司" },
+  { "query": "天津疫情", "display_query": "天津新增 41 例本土确诊" },
+  { "query": "电信断网", "display_query": "电信断网" },
+  { "query": "河南疫情", "display_query": "河南新增 76 例本土确诊" },
+  { "query": "GDP超万亿城市", "display_query": "GDP 超万亿城市增至 24 个" },
+  { "query": "湖人", "display_query": "詹姆斯 34 分湖人负国王" },
+  { "query": "肯德基盲盒", "display_query": "中消协评肯德基盲盒" },
+  { "query": "携程创始人", "display_query": "携程创始人「印钱鼓励生育可行」" },
+  { "query": "法考主观题", "display_query": "法考主观题成绩" }
+]
