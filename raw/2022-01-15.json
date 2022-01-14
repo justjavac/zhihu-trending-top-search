@@ -1,0 +1,12 @@
+[
+  { "query": "杭州疫情", "display_query": "杭州新增 1 例核酸阳性" },
+  { "query": "感染学生被网暴", "display_query": "天津返大连感染学生遭网暴" },
+  { "query": "广东疫情", "display_query": "广东新增 1 例核酸阳性" },
+  { "query": "新秦时明月", "display_query": "新秦时明月更新" },
+  { "query": "武汉儿童医院", "display_query": "武汉儿童医院伤医事件" },
+  { "query": "剧本杀", "display_query": "上海市剧本杀密室规定" },
+  { "query": "脊柱侧弯", "display_query": "超 500 万学生脊柱侧弯" },
+  { "query": "孙杨", "display_query": "孙杨直播带货" },
+  { "query": "勇士", "display_query": "库里 12 分勇士负雄鹿" },
+  { "query": "水门桥", "display_query": "长津湖 2 定档春节" }
+]
