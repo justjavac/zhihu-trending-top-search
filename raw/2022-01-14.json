@@ -1,13 +1,17 @@
 [
-  { "query": "水门桥", "display_query": "长津湖 2 定档春节" },
+  { "query": "搭车死亡", "display_query": "意外车祸致搭车同事死亡" },
   { "query": "新秦时明月", "display_query": "新秦时明月更新" },
   { "query": "上海疫情", "display_query": "上海新增 2 例本土确诊" },
-  { "query": "携程创始人", "display_query": "携程创始人「印钱鼓励生育可行」" },
   { "query": "秦殇", "display_query": "《秦殇》中文版发售" },
+  { "query": "勇士", "display_query": "库里 12 分勇士负雄鹿" },
+  { "query": "国航员工自尽", "display_query": "网传一国航员工自尽" },
+  { "query": "职业资格考试时间", "display_query": "22 年职业资格考试时间" },
+  { "query": "杭州疫情", "display_query": "杭州新增 1 例核酸阳性" },
+  { "query": "水门桥", "display_query": "长津湖 2 定档春节" },
+  { "query": "太吾绘卷", "display_query": "太吾绘卷正式版进度公告" },
+  { "query": "携程创始人", "display_query": "携程创始人「印钱鼓励生育可行」" },
   { "query": "肯德基盲盒", "display_query": "中消协评肯德基盲盒" },
   { "query": "行李箱藏尸案", "display_query": "「行李箱藏尸案」被告人被公诉" },
-  { "query": "勇士", "display_query": "库里 12 分勇士负雄鹿" },
-  { "query": "职业资格考试时间", "display_query": "22 年职业资格考试时间" },
   { "query": "河南疫情", "display_query": "河南新增 98 例本土确诊" },
   { "query": "儿童票", "display_query": "儿童票拟打破以身高论票价" },
   { "query": "GDP超万亿城市", "display_query": "GDP 超万亿城市增至 24 个" },
@@ -25,6 +29,5 @@
   { "query": "佳能", "display_query": "佳能宣布关闭珠海公司" },
   { "query": "怪物猎人崛起", "display_query": "怪物猎人崛起登陆 Steam" },
   { "query": "永劫无间", "display_query": "永劫无间外挂涉案金超千万" },
-  { "query": "感染学生被网暴", "display_query": "天津返大连感染学生遭网暴" },
-  { "query": "太吾绘卷", "display_query": "太吾绘卷正式版进度公告" }
+  { "query": "感染学生被网暴", "display_query": "天津返大连感染学生遭网暴" }
 ]
