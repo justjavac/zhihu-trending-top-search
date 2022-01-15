@@ -1,0 +1,12 @@
+[
+  { "query": "北京疫情", "display_query": "北京海淀发现 1 例阳性病例" },
+  { "query": "国王排名", "display_query": "国王排名更新" },
+  { "query": "武汉儿童医院", "display_query": "武汉儿童医院伤医事件" },
+  { "query": "广州疫情", "display_query": "广州新增 1 例无症状感染" },
+  { "query": "屈臣氏", "display_query": "屈臣氏主播骂消费者像疯狗" },
+  { "query": "珠海疫情", "display_query": "珠海新增 7 例核酸阳性" },
+  { "query": "海贼王", "display_query": "海贼王 1037 话" },
+  { "query": "微信", "display_query": "微信新增语音播放暂停功能" },
+  { "query": "上海疫情", "display_query": "上海新增 2 例本土确诊" },
+  { "query": "广东医院停诊", "display_query": "广东第二人民医院停诊" }
+]
