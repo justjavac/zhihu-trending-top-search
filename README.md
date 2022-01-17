@@ -14,20 +14,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jan 17 2022 22:07:09 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jan 17 2022 23:07:23 GMT+0800 (China Standard Time) -->
 
-1. [外交部回应英国封杀华为](https://www.zhihu.com/search?q=英国封杀华为)
-1. [校方回应辅导员强奸学生](https://www.zhihu.com/search?q=辅导员强奸女学生)
-1. [宋智雅发文承认用假货](https://www.zhihu.com/search?q=宋智雅)
-1. [拼多多回应砍价争议](https://www.zhihu.com/search?q=拼多多)
 1. [中国 GDP 破 110 万亿元](https://www.zhihu.com/search?q=GDP)
+1. [宋智雅发文承认用假货](https://www.zhihu.com/search?q=宋智雅)
 1. [《零容忍》第二集](https://www.zhihu.com/search?q=零容忍)
-1. [李嘉欣病重入住 ICU](https://www.zhihu.com/search?q=李嘉欣)
-1. [斗破苍穹三年之约更新](https://www.zhihu.com/search?q=斗破苍穹三年之约)
+1. [外交部回应英国封杀华为](https://www.zhihu.com/search?q=英国封杀华为)
+1. [拼多多回应砍价争议](https://www.zhihu.com/search?q=拼多多)
 1. [进击的巨人最终季 Part.2](https://www.zhihu.com/search?q=进击的巨人)
+1. [斗破苍穹三年之约更新](https://www.zhihu.com/search?q=斗破苍穹三年之约)
+1. [校方回应辅导员强奸学生](https://www.zhihu.com/search?q=辅导员强奸女学生)
+1. [鬼灭之刃第二季更新](https://www.zhihu.com/search?q=鬼灭之刃)
+1. [家庭聚集性疫情](https://www.zhihu.com/search?q=家庭聚集性疫情)
+1. [李嘉欣病重入住 ICU](https://www.zhihu.com/search?q=李嘉欣)
 1. [俞敏洪「不想做带货网红」](https://www.zhihu.com/search?q=俞敏洪)
 1. [社区回应袁咏仪做防疫志愿者](https://www.zhihu.com/search?q=袁咏仪)
-1. [鬼灭之刃第二季更新](https://www.zhihu.com/search?q=鬼灭之刃)
 1. [克莱 13 分勇士负森林狼](https://www.zhihu.com/search?q=勇士)
 1. [中国一人户家庭数量超 1.25 亿](https://www.zhihu.com/search?q=一人户家庭)
 1. [天津新增 80 例本土确诊](https://www.zhihu.com/search?q=天津疫情)
