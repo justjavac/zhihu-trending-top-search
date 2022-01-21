@@ -1,7 +1,7 @@
 [
-  { "query": "医生直播妇科手术", "display_query": "医生直播妇科手术被刑拘" },
-  { "query": "秦始皇陵", "display_query": "秦始皇陵陪葬墓新出土文物" },
+  { "query": "iPhone13粉屏", "display_query": "iPhone 13 粉屏" },
   { "query": "北京疫情", "display_query": "北京新增 7 例本土确诊" },
+  { "query": "新秦时明月", "display_query": "新秦时明月更新" },
   { "query": "恩比德", "display_query": "恩比德 50 分平生涯纪录" },
   { "query": "篮网", "display_query": "欧文 30+7 篮网胜奇才" },
   { "query": "请辞哈利波特策划", "display_query": "万人请辞哈利波特手游策划" },
@@ -9,6 +9,8 @@
   { "query": "不良人", "display_query": "画江湖之不良人 5" },
   { "query": "高管家暴", "display_query": "高管因家暴妻子被停职" },
   { "query": "湖人", "display_query": "詹姆斯 30 分湖人负步行者" },
+  { "query": "医生直播妇科手术", "display_query": "医生直播妇科手术被刑拘" },
+  { "query": "秦始皇陵", "display_query": "秦始皇陵陪葬墓新出土文物" },
   { "query": "警方通报打工寻子", "display_query": "警方通报岳某仝确认死亡" },
   { "query": "天津疫情", "display_query": "天津新增 8 例确诊病例" },
   { "query": "郑州720特大暴雨", "display_query": "郑州暴雨灾害调查报告" },
