@@ -1,7 +1,7 @@
 [
   { "query": "北京疫情", "display_query": "北京新增 7 例本土确诊" },
-  { "query": "河南疫情", "display_query": "河南新增确诊病例 3 例" },
   { "query": "医生直播妇科手术", "display_query": "医生直播妇科手术被刑拘" },
+  { "query": "河南疫情", "display_query": "河南新增确诊病例 3 例" },
   { "query": "云南疫情", "display_query": "云南新增无症状感染 2 例" },
   { "query": "广东疫情", "display_query": "广东珠海新增 3 例确诊" },
   { "query": "国王排名", "display_query": "国王排名更新" },

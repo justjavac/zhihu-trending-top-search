@@ -14,11 +14,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jan 23 2022 05:04:57 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jan 23 2022 06:06:51 GMT+0800 (China Standard Time) -->
 
 1. [北京新增 7 例本土确诊](https://www.zhihu.com/search?q=北京疫情)
-1. [河南新增确诊病例 3 例](https://www.zhihu.com/search?q=河南疫情)
 1. [医生直播妇科手术被刑拘](https://www.zhihu.com/search?q=医生直播妇科手术)
+1. [河南新增确诊病例 3 例](https://www.zhihu.com/search?q=河南疫情)
 1. [云南新增无症状感染 2 例](https://www.zhihu.com/search?q=云南疫情)
 1. [广东珠海新增 3 例确诊](https://www.zhihu.com/search?q=广东疫情)
 1. [国王排名更新](https://www.zhihu.com/search?q=国王排名)
