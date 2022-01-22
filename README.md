@@ -14,24 +14,26 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jan 22 2022 18:08:06 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jan 22 2022 19:05:51 GMT+0800 (China Standard Time) -->
 
 1. [北京新增 7 例本土确诊](https://www.zhihu.com/search?q=北京疫情)
 1. [国防部回应「美舰擅闯西沙领海」](https://www.zhihu.com/search?q=国防部回应)
-1. [国王排名更新](https://www.zhihu.com/search?q=国王排名)
+1. [徐瑛彬 3-1 樊振东](https://www.zhihu.com/search?q=樊振东)
+1. [川航一航班挂出 7700 紧急代码](https://www.zhihu.com/search?q=川航航班紧急代码)
+1. [医生直播妇科手术被刑拘](https://www.zhihu.com/search?q=医生直播妇科手术)
+1. [广东珠海新增 3 例确诊](https://www.zhihu.com/search?q=广东疫情)
+1. [河南新增确诊病例 3 例](https://www.zhihu.com/search?q=河南疫情)
 1. [BLG 让一追二 OMG](https://www.zhihu.com/search?q=blg)
+1. [国王排名更新](https://www.zhihu.com/search?q=国王排名)
+1. [库里绝杀火箭](https://www.zhihu.com/search?q=库里)
 1. [天津新增 8 例确诊病例](https://www.zhihu.com/search?q=天津疫情)
 1. [郑州暴雨灾害调查报告](https://www.zhihu.com/search?q=郑州720特大暴雨)
-1. [徐瑛彬 3-1 樊振东](https://www.zhihu.com/search?q=樊振东)
 1. [秦始皇陵陪葬墓新出土文物](https://www.zhihu.com/search?q=秦始皇陵)
-1. [医生直播妇科手术被刑拘](https://www.zhihu.com/search?q=医生直播妇科手术)
-1. [川航一航班挂出 7700 紧急代码](https://www.zhihu.com/search?q=川航航班紧急代码)
 1. [「金钱豹」头像](https://www.zhihu.com/search?q=金钱豹头像)
 1. [斯洛文尼亚总统回应该国总理涉台不当言论](https://www.zhihu.com/search?q=斯洛文尼亚)
 1. [哈登大号三双篮网胜马刺](https://www.zhihu.com/search?q=篮网)
 1. [王者荣耀虎年限定](https://www.zhihu.com/search?q=王者荣耀虎年限定)
 1. [库里 39 分勇士加时告负](https://www.zhihu.com/search?q=勇士)
-1. [广东珠海新增 3 例确诊](https://www.zhihu.com/search?q=广东疫情)
 1. [2021 年粮食产量创新高](https://www.zhihu.com/search?q=2021粮食产量)
 1. [小米雷军首次回应退休](https://www.zhihu.com/search?q=雷军退休)
 1. [警方通报岳某仝确认死亡](https://www.zhihu.com/search?q=警方通报打工寻子)
@@ -51,7 +53,6 @@
 1. [苹果新春短片《卷土重来》](https://www.zhihu.com/search?q=苹果 卷土重来)
 1. [恩比德 50 分平生涯纪录](https://www.zhihu.com/search?q=恩比德)
 1. [欧文 30+7 篮网胜奇才](https://www.zhihu.com/search?q=篮网)
-1. [河南新增确诊病例 3 例](https://www.zhihu.com/search?q=河南疫情)
 
 <!-- END -->
 
