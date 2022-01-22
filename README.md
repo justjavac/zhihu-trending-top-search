@@ -14,13 +14,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jan 22 2022 20:10:08 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jan 22 2022 21:08:42 GMT+0800 (China Standard Time) -->
 
 1. [番大王《去你的岛》](https://www.zhihu.com/search?q=去你的岛)
-1. [国防部回应「美舰擅闯西沙领海」](https://www.zhihu.com/search?q=国防部回应)
 1. [北京新增 7 例本土确诊](https://www.zhihu.com/search?q=北京疫情)
-1. [医生直播妇科手术被刑拘](https://www.zhihu.com/search?q=医生直播妇科手术)
 1. [国王排名更新](https://www.zhihu.com/search?q=国王排名)
+1. [国防部回应「美舰擅闯西沙领海」](https://www.zhihu.com/search?q=国防部回应)
+1. [BLG 让一追二 OMG](https://www.zhihu.com/search?q=blg)
+1. [医生直播妇科手术被刑拘](https://www.zhihu.com/search?q=医生直播妇科手术)
+1. [一人之下 597 话更新](https://www.zhihu.com/search?q=一人之下)
+1. [詹姆斯 29 分湖人胜魔术](https://www.zhihu.com/search?q=湖人)
+1. [外交部回应美国制裁中企](https://www.zhihu.com/search?q=美国制裁中企)
+1. [货拉拉滴滴出行等被约谈](https://www.zhihu.com/search?q=货拉拉被约谈)
 1. [徐瑛彬 3-1 樊振东](https://www.zhihu.com/search?q=樊振东)
 1. [RNG 让一追二 AL](https://www.zhihu.com/search?q=rng)
 1. [FPX 新赛季首败](https://www.zhihu.com/search?q=fpx)
@@ -28,7 +33,6 @@
 1. [库里绝杀火箭](https://www.zhihu.com/search?q=库里)
 1. [川航一航班挂出 7700 紧急代码](https://www.zhihu.com/search?q=川航航班紧急代码)
 1. [河南新增确诊病例 3 例](https://www.zhihu.com/search?q=河南疫情)
-1. [BLG 让一追二 OMG](https://www.zhihu.com/search?q=blg)
 1. [天津新增 8 例确诊病例](https://www.zhihu.com/search?q=天津疫情)
 1. [郑州暴雨灾害调查报告](https://www.zhihu.com/search?q=郑州720特大暴雨)
 1. [秦始皇陵陪葬墓新出土文物](https://www.zhihu.com/search?q=秦始皇陵)
@@ -48,7 +52,6 @@
 1. [高管因家暴妻子被停职](https://www.zhihu.com/search?q=高管家暴)
 1. [画江湖之不良人 5](https://www.zhihu.com/search?q=不良人)
 1. [1 月 LPR 报价出炉](https://www.zhihu.com/search?q=LPR)
-1. [一人之下 597 话更新](https://www.zhihu.com/search?q=一人之下)
 1. [万人请辞哈利波特手游策划](https://www.zhihu.com/search?q=请辞哈利波特策划)
 1. [郸城县长回应先隔离再拘留](https://www.zhihu.com/search?q=河南周口返乡)
 1. [QQ 音乐内测免费听歌模式](https://www.zhihu.com/search?q=QQ音乐免费听歌)
