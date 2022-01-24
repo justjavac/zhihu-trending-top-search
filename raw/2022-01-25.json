@@ -1,8 +1,8 @@
 [
   { "query": "冬奥人员复检阳性", "display_query": "冬奥人员海关复检阳性 39 人" },
   { "query": "原神", "display_query": "《原神》新春会" },
-  { "query": "山东新增", "display_query": "山东新增 2 例本土确诊" },
   { "query": "鬼灭之刃", "display_query": "鬼灭之刃第二季更新" },
+  { "query": "山东新增", "display_query": "山东新增 2 例本土确诊" },
   { "query": "青海地震", "display_query": "青海发生 5.8 级地震" },
   { "query": "小红书", "display_query": "小红书被罚 30 万" },
   { "query": "wtt", "display_query": "WTT 女单半决赛" },
