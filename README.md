@@ -14,17 +14,19 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jan 27 2022 20:11:59 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jan 27 2022 21:13:34 GMT+0800 (China Standard Time) -->
 
-1. [杭州市新增 7 例确诊病例](https://www.zhihu.com/search?q=杭州疫情)
 1. [东莞一医院挂横幅「手术室里全是钱」](https://www.zhihu.com/search?q=康华医院)
 1. [新秦时明月更新](https://www.zhihu.com/search?q=新秦时明月)
+1. [杭州市新增 7 例确诊病例](https://www.zhihu.com/search?q=杭州疫情)
 1. [原神飞彩镌流年](https://www.zhihu.com/search?q=原神)
+1. [张一鸣卸任字节法定代表人](https://www.zhihu.com/search?q=张一鸣卸任)
 1. [微信朋友圈可发 20 张图](https://www.zhihu.com/search?q=微信新功能)
 1. [TES 0:2 OMG](https://www.zhihu.com/search?q=tes)
-1. [张一鸣卸任字节法定代表人](https://www.zhihu.com/search?q=张一鸣卸任)
-1. [张一鸣卸任字节跳动法定代表人](https://www.zhihu.com/search?q=张一鸣)
 1. [北京新增 4 例确诊](https://www.zhihu.com/search?q=北京新增)
+1. [河北 13 岁失联男孩遭恶犬咬死](https://www.zhihu.com/search?q=河北失联男孩)
+1. [青岛航空客机拖移时发生事故](https://www.zhihu.com/search?q=青岛航空)
+1. [张一鸣卸任字节跳动法定代表人](https://www.zhihu.com/search?q=张一鸣)
 1. [魔兽世界 1688 元幽灵虎](https://www.zhihu.com/search?q=魔兽世界)
 1. [英国奥密克戎变种传速较快](https://www.zhihu.com/search?q=英国奥密克戎变种)
 1. [世界杯亚洲区国足挑战日本](https://www.zhihu.com/search?q=国足挑战日本)
@@ -45,7 +47,6 @@
 1. [辽宁新增 1 例本土确诊](https://www.zhihu.com/search?q=辽宁新增)
 1. [小年习俗](https://www.zhihu.com/search?q=小年)
 1. [海贼王 1038 话情报](https://www.zhihu.com/search?q=海贼王)
-1. [河北 13 岁失联男孩遭恶犬咬死](https://www.zhihu.com/search?q=河北失联男孩)
 1. [360 公司回应网传警情](https://www.zhihu.com/search?q=360)
 1. [上海地铁乘客被屏蔽门夹住身亡](https://www.zhihu.com/search?q=上海地铁)
 1. [俄罗斯乌克兰局势](https://www.zhihu.com/search?q=俄罗斯乌克兰)
