@@ -1,10 +1,13 @@
 [
-  { "query": "国王排名", "display_query": "国王排名更新" },
   { "query": "大理灭门案", "display_query": "大理灭门案被告人宣判无罪" },
+  { "query": "国王排名", "display_query": "国王排名更新" },
   { "query": "原神", "display_query": "原神飞彩镌流年" },
-  { "query": "阿尔宙斯", "display_query": "宝可梦传说：阿尔宙斯" },
-  { "query": "迷路失踪的印度少年", "display_query": "迷路失踪的印度少年将被遣返" },
+  { "query": "僵尸校园", "display_query": "韩剧《僵尸校园》" },
   { "query": "国足", "display_query": "国足基本无缘世界杯" },
+  { "query": "迷路失踪的印度少年", "display_query": "迷路失踪的印度少年将被遣返" },
+  { "query": "阿尔宙斯", "display_query": "宝可梦传说：阿尔宙斯" },
+  { "query": "雷军", "display_query": "雷军卸任小米电子公司董事长" },
+  { "query": "互联网大厂春节红包大战", "display_query": "互联网大厂春节红包大战" },
   { "query": "流光之城", "display_query": "《流光之城》主创亲自答" },
   { "query": "画江湖", "display_query": "画江湖之不良人 5 更新" },
   { "query": "一人之下", "display_query": "一人之下最新 562 话" },
@@ -22,8 +25,6 @@
   { "query": "黑龙江疫情", "display_query": "黑龙江新增确诊 9 例" },
   { "query": "新秦时明月", "display_query": "新秦时明月更新" },
   { "query": "张一鸣", "display_query": "张一鸣卸任字节跳动法定代表人" },
-  { "query": "雷军", "display_query": "雷军卸任小米电子公司董事长" },
-  { "query": "互联网大厂春节红包大战", "display_query": "互联网大厂春节红包大战" },
   { "query": "库里", "display_query": "库里 29+8+6 胜森林狼" },
   { "query": "伊藤美诚", "display_query": "伊藤美诚不再参加混双比赛" }
 ]
