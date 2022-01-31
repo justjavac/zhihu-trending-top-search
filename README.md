@@ -14,18 +14,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jan 31 2022 14:08:47 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jan 31 2022 15:06:56 GMT+0800 (China Standard Time) -->
 
 1. [林志玲宣布生子](https://www.zhihu.com/search?q=林志玲)
 1. [鬼灭之刃第二季更新](https://www.zhihu.com/search?q=鬼灭之刃)
-1. [iOS 新增「男妈妈」emoji](https://www.zhihu.com/search?q=iOS 男妈妈)
+1. [航天员太空中喜迎春节](https://www.zhihu.com/search?q=航天员太空过年)
+1. [威少 20+12 湖人遭逆转](https://www.zhihu.com/search?q=湖人)
 1. [2022 年央视春晚节目单公布](https://www.zhihu.com/search?q=春晚节目单)
 1. [河南春晚](https://www.zhihu.com/search?q=河南春晚)
+1. [Steam 春节特卖推荐](https://www.zhihu.com/search?q=Steam)
+1. [北京新增本土确诊 12 例](https://www.zhihu.com/search?q=北京疫情)
+1. [周杰伦说新歌 MV 已拍](https://www.zhihu.com/search?q=周杰伦新歌)
+1. [冬奥中国代表团旗手确定](https://www.zhihu.com/search?q=冬奥会旗手)
+1. [iOS 新增「男妈妈」emoji](https://www.zhihu.com/search?q=iOS 男妈妈)
 1. [纳达尔夺澳网冠军](https://www.zhihu.com/search?q=纳达尔)
 1. [安以轩老公被捕](https://www.zhihu.com/search?q=安以轩老公)
 1. [中国联通被迫在美停止运营](https://www.zhihu.com/search?q=中国联通 美国)
-1. [威少 20+12 湖人遭逆转](https://www.zhihu.com/search?q=湖人)
-1. [Steam 春节特卖推荐](https://www.zhihu.com/search?q=Steam)
 1. [库里 19 分勇士胜篮网](https://www.zhihu.com/search?q=勇士)
 1. [不得随意禁止外地群众返乡](https://www.zhihu.com/search?q=不得随意禁止外地群众返乡)
 1. [高洁丝回应被曝卫生巾有虫卵](https://www.zhihu.com/search?q=高洁丝回应)
@@ -37,7 +41,6 @@
 1. [韩剧《僵尸校园》](https://www.zhihu.com/search?q=僵尸校园)
 1. [北京冬奥村按摩床获美国选手狂赞](https://www.zhihu.com/search?q=北京冬奥村)
 1. [美国海军证实 F-35C 落入南海](https://www.zhihu.com/search?q=美国海军证实)
-1. [北京新增本土确诊 12 例](https://www.zhihu.com/search?q=北京疫情)
 1. [天津新增 11 例新冠病毒感染者](https://www.zhihu.com/search?q=天津疫情)
 1. [日本樱岛火山喷发](https://www.zhihu.com/search?q=日本樱岛火山喷发)
 1. [北京冬奥人员复检阳性](https://www.zhihu.com/search?q=北京冬奥人员复检阳性)
