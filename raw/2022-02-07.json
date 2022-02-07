@@ -1,14 +1,15 @@
 [
   { "query": "冰墩墩", "display_query": "北京冬奥组委回应「一墩难求」" },
+  { "query": "中国女足", "display_query": "中国女足绝杀韩国夺冠" },
   { "query": "羽生结弦", "display_query": "羽生结弦冬奥首练" },
   { "query": "谷爱凌", "display_query": "谷爱凌顺利晋级女子大跳台决赛" },
   { "query": "花样滑冰", "display_query": "中国花滑团体赛创最佳战绩" },
+  { "query": "香港疫情", "display_query": "香港新增 351 例新冠肺炎确诊病例" },
   { "query": "鬼灭之刃", "display_query": "鬼灭之刃第二季第十集" },
-  { "query": "苏翊鸣", "display_query": "17 岁中国小将苏翊鸣获银牌" },
-  { "query": "冰壶", "display_query": "中国冰壶混双结束冬奥征程" },
   { "query": "张洁", "display_query": "著名作家张洁逝世" },
-  { "query": "中国女足", "display_query": "中国女足绝杀韩国夺冠" },
+  { "query": "冰壶", "display_query": "中国冰壶混双结束冬奥征程" },
   { "query": "王濛解说", "display_query": "王濛解说有多搞笑" },
+  { "query": "苏翊鸣", "display_query": "17 岁中国小将苏翊鸣获银牌" },
   { "query": "长江中下游地区暴雪", "display_query": "长江中下游地区暴雪" },
   { "query": "短道速滑", "display_query": "中国短道速滑夺得首金" },
   { "query": "谷爱凌", "display_query": "谷爱凌冬奥会首秀" },
@@ -29,6 +30,5 @@
   { "query": "江苏徐州地震", "display_query": "江苏徐州铜山发生 3.3 级地震" },
   { "query": "广西疫情", "display_query": "广西新增本土确诊病例 6 例" },
   { "query": "冰球", "display_query": "中国女子冰球点球胜日本" },
-  { "query": "香港疫情", "display_query": "香港新增 351 例新冠肺炎确诊病例" },
   { "query": "河北疫情", "display_query": "河北新增本土确诊病例 2 例" }
 ]
