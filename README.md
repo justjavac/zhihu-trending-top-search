@@ -14,20 +14,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Feb 09 2022 15:07:31 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Feb 09 2022 16:09:05 GMT+0800 (China Standard Time) -->
 
+1. [著名作家张洁逝世](https://www.zhihu.com/search?q=张洁)
+1. [中国女子冰球惜败瑞典](https://www.zhihu.com/search?q=冰球)
+1. [5 人自驾西藏转山遇难](https://www.zhihu.com/search?q=西藏转山遇难)
+1. [「丰县生育八孩女子」进展](https://www.zhihu.com/search?q=丰县)
 1. [个人存取现金超 5 万要登记](https://www.zhihu.com/search?q=个人存取)
 1. [张三丰扮演者去世](https://www.zhihu.com/search?q=张三丰)
-1. [武大靖的脚像 50 岁](https://www.zhihu.com/search?q=武大靖)
-1. [武大靖为队友挡住身后对手](https://www.zhihu.com/search?q=武大靖)
-1. [「丰县生育八孩女子」进展](https://www.zhihu.com/search?q=丰县)
-1. [中国女子冰球惜败瑞典](https://www.zhihu.com/search?q=冰球)
 1. [原神海灯节发奖 bug](https://www.zhihu.com/search?q=原神)
+1. [中国灵活就业者达 2 亿人](https://www.zhihu.com/search?q=灵活就业者)
+1. [武大靖为队友挡住身后对手](https://www.zhihu.com/search?q=武大靖)
+1. [韩国选手拒绝采访黑脸离场](https://www.zhihu.com/search?q=韩国选手拒绝采访黑脸离场)
+1. [武大靖的脚像 50 岁](https://www.zhihu.com/search?q=武大靖)
 1. [2021 美国贸易逆差历史新高](https://www.zhihu.com/search?q=美国贸易逆差)
 1. [美国通过《美国竞争法案》](https://www.zhihu.com/search?q=美国竞争法案)
-1. [中国灵活就业者达 2 亿人](https://www.zhihu.com/search?q=灵活就业者)
 1. [中国实体被纳入未核实名单](https://www.zhihu.com/search?q=美商务部)
-1. [5 人自驾西藏转山遇难](https://www.zhihu.com/search?q=西藏转山遇难)
 1. [篮网 9 连败](https://www.zhihu.com/search?q=篮网)
 1. [广西新增本土确诊病例 64 例](https://www.zhihu.com/search?q=广西疫情)
 1. [17 岁中国小将苏翊鸣获银牌](https://www.zhihu.com/search?q=苏翊鸣)
@@ -40,7 +42,6 @@
 1. [中国花滑团体赛创最佳战绩](https://www.zhihu.com/search?q=花样滑冰)
 1. [花滑团体赛中国队获得第 5 名](https://www.zhihu.com/search?q=花滑团体)
 1. [网传 B 站员工过年加班猝死](https://www.zhihu.com/search?q=B站员工过年加班猝死)
-1. [著名作家张洁逝世](https://www.zhihu.com/search?q=张洁)
 1. [谷爱凌夺中国第三金](https://www.zhihu.com/search?q=谷爱凌)
 1. [虎年开工第一天](https://www.zhihu.com/search?q=虎年开工)
 1. [长江中下游地区暴雪](https://www.zhihu.com/search?q=长江中下游地区暴雪)
