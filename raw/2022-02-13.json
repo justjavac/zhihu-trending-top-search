@@ -3,11 +3,12 @@
   { "query": "图书馆30秒", "display_query": "图书馆 30 秒" },
   { "query": "失德艺人", "display_query": "禁止违法失德艺人通过电视剧出镜" },
   { "query": "国王排名", "display_query": "国王排名更新" },
-  { "query": "俄罗斯乌克兰", "display_query": "俄罗斯开始撤离驻乌克兰外交人员" },
-  { "query": "苹果 果冻屏", "display_query": "苹果因「果冻屏」遭集体诉讼" },
   { "query": "高亭宇", "display_query": "高亭宇夺中国第四金" },
-  { "query": "俄罗斯运动员违禁药物检验", "display_query": "俄罗斯运动员违禁药物检验阳性" },
+  { "query": "俄罗斯乌克兰", "display_query": "俄罗斯开始撤离驻乌克兰外交人员" },
   { "query": "山东联通宽带", "display_query": "山东联通宽带限接入终端数" },
+  { "query": "俄罗斯运动员违禁药物检验", "display_query": "俄罗斯运动员违禁药物检验阳性" },
+  { "query": "冰壶", "display_query": "冰壶循环赛中国 2 连胜" },
+  { "query": "苹果 果冻屏", "display_query": "苹果因「果冻屏」遭集体诉讼" },
   { "query": "钢架雪车", "display_query": "钢架雪车闫文港摘铜" },
   { "query": "海贼王", "display_query": "海贼王 1040 话" },
   { "query": "广西新增", "display_query": "广西新增 33 例本土确诊" },
@@ -16,6 +17,5 @@
   { "query": "陕西东航飞机", "display_query": "陕西东航飞机跑道外接地" },
   { "query": "一人之下", "display_query": "一人之下 600 话更新" },
   { "query": "新秦时明月", "display_query": "新秦时明月更新" },
-  { "query": "尊严死", "display_query": "卫健委答复「尊严死」立法" },
-  { "query": "冰壶", "display_query": "冰壶循环赛中国 2 连胜" }
+  { "query": "尊严死", "display_query": "卫健委答复「尊严死」立法" }
 ]
