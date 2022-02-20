@@ -1,12 +1,17 @@
 [
-  { "query": "进击的巨人", "display_query": "进击的巨人最终季 Part.2" },
-  { "query": "意大利八分钟", "display_query": "意大利 8 分钟" },
-  { "query": "冬奥会闭幕式", "display_query": "冬奥会闭幕式" },
-  { "query": "国王排名", "display_query": "国王排名更新" },
   { "query": "凡人修仙传", "display_query": "凡人修仙传年番更新" },
+  { "query": "非婚妈妈争取生育保险", "display_query": "深圳首例非婚妈妈起诉卫健委争取生育保险" },
+  { "query": "意大利八分钟", "display_query": "意大利 8 分钟" },
+  { "query": "三分球大赛", "display_query": "唐斯夺三分球大赛冠军" },
+  { "query": "表演滑", "display_query": "花样滑冰表演滑" },
+  { "query": "扣篮大赛", "display_query": "扣篮大赛托平夺冠" },
+  { "query": "游戏王", "display_query": "游戏王大师决斗 Xyz Festival" },
+  { "query": "ag", "display_query": "AG 不敌 DYG" },
+  { "query": "拳皇", "display_query": "拳皇系列最新作" },
+  { "query": "冬奥会闭幕式", "display_query": "冬奥会闭幕式" },
+  { "query": "进击的巨人", "display_query": "进击的巨人最终季 Part.2" },
+  { "query": "国王排名", "display_query": "国王排名更新" },
   { "query": "苏炳添", "display_query": "苏炳添或递补夺奥运铜牌" },
   { "query": "rng", "display_query": "RNG 让一追二 LNG" },
-  { "query": "表演滑", "display_query": "花样滑冰表演滑" },
-  { "query": "ag", "display_query": "AG 不敌 DYG" },
   { "query": "宝可梦", "display_query": "周深演唱宝可梦周年曲" }
 ]
