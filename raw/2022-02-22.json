@@ -1,7 +1,7 @@
 [
-  { "query": "凡人修仙传", "display_query": "凡人修仙传年番更新" },
   { "query": "原神", "display_query": "字节开发类似原神游戏" },
-  { "query": "雅培", "display_query": "海关总署提醒暂停食用雅培相关婴幼儿产品" },
+  { "query": "凡人修仙传", "display_query": "凡人修仙传年番更新" },
+  { "query": "北京丰台", "display_query": "北京丰台现一核酸阳性人员" },
   { "query": "考研成绩", "display_query": "2022 考研初试成绩公布" },
   { "query": "冬奥会闭幕式", "display_query": "冬奥会闭幕式" },
   { "query": "山西阳性", "display_query": "山西晋中发现 5 名阳性人员" },
@@ -9,6 +9,7 @@
   { "query": "冰墩墩补货", "display_query": "冰墩墩补货 100 万只" },
   { "query": "三分球大赛", "display_query": "唐斯夺三分球大赛冠军" },
   { "query": "扣篮大赛", "display_query": "扣篮大赛托平夺冠" },
+  { "query": "雅培", "display_query": "海关总署提醒暂停食用雅培相关婴幼儿产品" },
   { "query": "表演滑", "display_query": "花样滑冰表演滑" },
   { "query": "进击的巨人", "display_query": "进击的巨人最终季 Part.2" },
   { "query": "尼克松访华", "display_query": "尼克松访华 50 周年纪念日" },
@@ -18,6 +19,5 @@
   { "query": "法国总统提议", "display_query": "法国总统提议俄美举行峰会" },
   { "query": "辽宁新增", "display_query": "辽宁新增 7 例本土确诊" },
   { "query": "意大利八分钟", "display_query": "意大利 8 分钟" },
-  { "query": "北京丰台", "display_query": "北京丰台现一核酸阳性人员" },
   { "query": "冬奥会赛场", "display_query": "冬奥会赛场比金牌更重要的事" }
 ]
