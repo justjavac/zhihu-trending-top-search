@@ -1,0 +1,12 @@
+[
+  { "query": "香港疫情", "display_query": "香港新增约 7000 确诊病例" },
+  { "query": "俄罗斯乌克兰", "display_query": "普京宣布承认乌东两区为独立国家" },
+  { "query": "山西新增", "display_query": "山西新增 5 例本土确诊" },
+  { "query": "原神", "display_query": "字节开发类似原神游戏" },
+  { "query": "衡水桃城中学", "display_query": "衡水桃城中学教师未发现猥亵行为" },
+  { "query": "美国制裁俄罗斯", "display_query": "美国宣布对俄制裁" },
+  { "query": "辽宁新增", "display_query": "辽宁新增 7 例本土确诊" },
+  { "query": "全国新增", "display_query": "全国新增 71 例本土确诊" },
+  { "query": "NBA 全明星赛", "display_query": "库里 16 三分砍 50 分" },
+  { "query": "雅培", "display_query": "海关总署提醒暂停食用雅培相关婴幼儿产品" }
+]
