@@ -1,0 +1,12 @@
+[
+  { "query": "上海疫情", "display_query": "上海新增 3 例本土确诊" },
+  { "query": "妇女节", "display_query": "妇女节放假" },
+  { "query": "保障单身女性生育权", "display_query": "人大代表建议保障单身女性生育权" },
+  { "query": "强制人脸识别登录网游", "display_query": "政协委员建议人脸识别登录网游" },
+  { "query": "雷军", "display_query": "雷军建议电子废旧物循环利用" },
+  { "query": "第三孩免费上幼儿园", "display_query": "政协委员建议第三孩免费上幼儿园" },
+  { "query": "王亚平在太空出差", "display_query": "人大代表王亚平在太空履职" },
+  { "query": "移民弃籍税", "display_query": "人大代表建议开征弃籍税" },
+  { "query": "收买妇女最高死刑", "display_query": "收买被拐妇女儿童可判死刑" },
+  { "query": "周鸿祎建议数字安全纳入新基建", "display_query": "周鸿祎建议数字安全纳入新基建" }
+]
