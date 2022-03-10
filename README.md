@@ -14,13 +14,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Mar 10 2022 17:08:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Mar 10 2022 18:08:38 GMT+0800 (China Standard Time) -->
 
+1. [吉林农业科技学院聚集性疫情](https://www.zhihu.com/search?q=吉林农业科技学院疫情)
 1. [上海新增 4 例本土确诊](https://www.zhihu.com/search?q=上海疫情)
 1. [吉林新增本地确诊 165 例](https://www.zhihu.com/search?q=吉林疫情)
-1. [尹锡悦当选韩国总统](https://www.zhihu.com/search?q=尹锡悦)
 1. [《画江湖之不良人》更新](https://www.zhihu.com/search?q=画江湖之不良人)
+1. [天津新增 19 例本土确诊](https://www.zhihu.com/search?q=天津疫情)
 1. [原神亮相苹果发布会](https://www.zhihu.com/search?q=原神)
+1. [俄称美实验室做过病毒试验](https://www.zhihu.com/search?q=蝙蝠新冠病毒样本试验)
+1. [尹锡悦当选韩国总统](https://www.zhihu.com/search?q=尹锡悦)
+1. [马克龙「俄罗斯和俄罗斯人民应该受到尊重」](https://www.zhihu.com/search?q=马克龙俄罗斯)
+1. [iPhone 13 苍岭绿](https://www.zhihu.com/search?q=苍岭绿 iPhone)
 1. [国家医保局发特别提醒](https://www.zhihu.com/search?q=医保停用诈骗短信)
 1. [乌方称 2 天后有核泄漏风险](https://www.zhihu.com/search?q=核泄漏风险)
 1. [俄罗斯不再参加欧洲委员会](https://www.zhihu.com/search?q=欧洲委员会)
@@ -33,7 +38,6 @@
 1. [政协委员倡议正能量剧本杀](https://www.zhihu.com/search?q=剧本杀)
 1. [詹姆斯缺阵湖人负马刺](https://www.zhihu.com/search?q=湖人)
 1. [詹姆斯三双湖人加时负火箭](https://www.zhihu.com/search?q=湖人)
-1. [天津新增 19 例本土确诊](https://www.zhihu.com/search?q=天津疫情)
 1. [海贼王 1043 话情报](https://www.zhihu.com/search?q=海贼王)
 1. [苹果春季发布会](https://www.zhihu.com/search?q=苹果春季发布会)
 1. [天津新增 19 例阳性感染者](https://www.zhihu.com/search?q=天津疫情)
