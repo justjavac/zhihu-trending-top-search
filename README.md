@@ -14,17 +14,17 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Mar 10 2022 15:07:42 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Mar 10 2022 16:09:46 GMT+0800 (China Standard Time) -->
 
 1. [上海新增 4 例本土确诊](https://www.zhihu.com/search?q=上海疫情)
-1. [《画江湖之不良人》更新](https://www.zhihu.com/search?q=画江湖之不良人)
-1. [小米股价持续破发](https://www.zhihu.com/search?q=小米)
 1. [尹锡悦当选韩国总统](https://www.zhihu.com/search?q=尹锡悦)
-1. [乌总统称已不指望加入北约](https://www.zhihu.com/search?q=俄罗斯乌克兰)
-1. [iPhone 13 连续四个月国内单机销冠](https://www.zhihu.com/search?q=iPhone中国市场)
-1. [乌方称 2 天后有核泄漏风险](https://www.zhihu.com/search?q=核泄漏风险)
+1. [小米股价持续破发](https://www.zhihu.com/search?q=小米)
 1. [吉林新增本地确诊 165 例](https://www.zhihu.com/search?q=吉林疫情)
 1. [原神亮相苹果发布会](https://www.zhihu.com/search?q=原神)
+1. [乌方称 2 天后有核泄漏风险](https://www.zhihu.com/search?q=核泄漏风险)
+1. [乌总统称已不指望加入北约](https://www.zhihu.com/search?q=俄罗斯乌克兰)
+1. [iPhone 13 连续四个月国内单机销冠](https://www.zhihu.com/search?q=iPhone中国市场)
+1. [《画江湖之不良人》更新](https://www.zhihu.com/search?q=画江湖之不良人)
 1. [美国承认乌克兰有生物研究设施](https://www.zhihu.com/search?q=乌克兰生物研究设施)
 1. [陕西新增 11 例本土确诊](https://www.zhihu.com/search?q=陕西疫情)
 1. [河北新增 10 例确诊](https://www.zhihu.com/search?q=河北疫情)
