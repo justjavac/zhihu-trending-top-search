@@ -1,14 +1,16 @@
 [
+  { "query": "苏日曼", "display_query": "青年舞蹈家苏日曼去世" },
+  { "query": "uzi", "display_query": "B 站 UP 主内涵 Uzi" },
   { "query": "海贼王", "display_query": "《海贼王》漫画 1043 话" },
   { "query": "国王排名", "display_query": "国王排名更新" },
-  { "query": "苏日曼", "display_query": "青年舞蹈家苏日曼去世" },
   { "query": "剧本杀", "display_query": "建议剧本杀版号核发" },
+  { "query": "北京夜空光圈", "display_query": "北京夜空出现光圈" },
+  { "query": "管理漏洞导致上海疫情", "display_query": "管理漏洞导致上海疫情" },
+  { "query": "篮网", "display_query": "篮网狂胜 76 人 29 分" },
+  { "query": "一人之下", "display_query": "一人之下 604 话更新" },
+  { "query": "faker", "display_query": "Faker 韩服事件 " },
   { "query": "湖人", "display_query": "詹姆斯 50 分湖人胜奇才" },
   { "query": "考研国家线公布", "display_query": "2022 年考研国家线公布" },
-  { "query": "一人之下", "display_query": "一人之下 604 话更新" },
-  { "query": "uzi", "display_query": "B 站 UP 主内涵 Uzi" },
   { "query": "勇士", "display_query": "库里 34+9 勇士胜掘金" },
-  { "query": "faker", "display_query": "Faker 韩服事件 " },
-  { "query": "篮网", "display_query": "篮网狂胜 76 人 29 分" },
   { "query": "武大靖", "display_query": "最让武大靖激动的荣耀时刻" }
 ]
