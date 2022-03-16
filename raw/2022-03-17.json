@@ -1,14 +1,15 @@
 [
   { "query": "日本地震", "display_query": "日本发生 7.4 级地震" },
-  { "query": "iPhone", "display_query": "可戴着口罩解锁 iPhone" },
   { "query": "俄乌冲突造成平民死亡", "display_query": "俄乌冲突已造成至少 636 名平民死亡" },
   { "query": "河北廊坊", "display_query": "河北廊坊全域封控管理" },
-  { "query": "新版新冠诊疗方案", "display_query": "国家卫健委发布新版新冠诊疗方案" },
   { "query": "热饮超期换标签", "display_query": "7-11 被曝热饮超期换标签" },
-  { "query": "湖人", "display_query": "詹姆斯 30+9 湖人负猛龙" },
-  { "query": "富士康 深圳", "display_query": "富士康深圳工厂暂停生产 iPhone" },
-  { "query": "勇士", "display_query": "库里 47 分勇士 4 连胜" },
-  { "query": "武汉疫情", "display_query": "武汉疫情疑似与美国进口冰鲜龙虾相关" },
   { "query": "假星巴克", "display_query": "出租屋产假星巴克外卖达 729 单" },
+  { "query": "富士康 深圳", "display_query": "富士康深圳工厂暂停生产 iPhone" },
+  { "query": "武汉疫情", "display_query": "武汉疫情疑似与美国进口冰鲜龙虾相关" },
+  { "query": "勇士", "display_query": "库里 47 分勇士 4 连胜" },
+  { "query": "湖人", "display_query": "詹姆斯 30+9 湖人负猛龙" },
+  { "query": "中美关系", "display_query": "为中美关系重回正轨积累条件" },
+  { "query": "iPhone", "display_query": "可戴着口罩解锁 iPhone" },
+  { "query": "新版新冠诊疗方案", "display_query": "国家卫健委发布新版新冠诊疗方案" },
   { "query": "游戏防沉迷", "display_query": "网信办证求未成年人网络保护条例" }
 ]
