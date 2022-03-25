@@ -1,14 +1,16 @@
 [
   { "query": "研究生学历", "display_query": "研究生学历成为入职门槛" },
-  { "query": "MU5735 黑匣子", "display_query": "黑匣子的分析工作正在进行" },
   { "query": "回南天", "display_query": "「回南天」有多夸张" },
-  { "query": "原神", "display_query": "《原神》神里绫人 PV 原神" },
   { "query": "四川航空", "display_query": "川航 3U3839 出现机械故障返航" },
+  { "query": "显卡降价", "display_query": "高端显卡降价血崩" },
+  { "query": "美方涉乌生物实验室", "display_query": "外交部敦促美方尽快作出交代" },
+  { "query": "MU5735 黑匣子", "display_query": "黑匣子的分析工作正在进行" },
+  { "query": "原神", "display_query": "《原神》神里绫人 PV 原神" },
+  { "query": "拉姆被烧伤致死案", "display_query": "拉姆被烧伤致死案二审结果" },
+  { "query": "uzi", "display_query": "Uzi 转入休养状态" },
+  { "query": "画江湖之不良人", "display_query": "画江湖之不良人第 5 季第 11 集" },
   { "query": "意大利无缘世界杯", "display_query": "意大利无缘世界杯" },
   { "query": "湖人", "display_query": "詹姆斯缺阵湖人负 76 人" },
-  { "query": "显卡降价", "display_query": "高端显卡降价血崩" },
-  { "query": "uzi", "display_query": "Uzi 转入休养状态" },
-  { "query": "拉姆被烧伤致死案", "display_query": "拉姆被烧伤致死案二审结果" },
   { "query": "坠机现场山体滑坡", "display_query": "坠机现场出现滑坡" },
   { "query": "东航飞行事故进展", "display_query": "目前发现飞机残骸及人体组织碎片" },
   { "query": "逆水寒", "display_query": "公司出纳挪用公款玩逆水寒" },
@@ -16,7 +18,6 @@
   { "query": "美国供应", "display_query": "美国确保对欧洲资源的供应" },
   { "query": "普京参加 G20 峰会", "display_query": "普京计划参加 G20 峰会" },
   { "query": "曲婉婷", "display_query": "曲婉婷母亲二审维持原判" },
-  { "query": "美方涉乌生物实验室", "display_query": "外交部敦促美方尽快作出交代" },
   { "query": "取消演出", "display_query": "全国取消或延期 9000 场演出" },
   { "query": "确定坠机事故主要撞击点", "display_query": "东航飞行事故确定主要撞击点" },
   { "query": "篮网", "display_query": "欧文 43 分篮网遭逆转" },
@@ -26,6 +27,5 @@
   { "query": "吕小军递补金牌", "display_query": "吕小军将递补里约奥运会金牌" },
   { "query": "国足", "display_query": "12 强赛国足战平沙特" },
   { "query": "天宫课堂", "display_query": "「天宫课堂」第二课" },
-  { "query": "吉林疫情", "display_query": "吉林省本土新增「2320+528」" },
-  { "query": "画江湖之不良人", "display_query": "画江湖之不良人第 5 季第 11 集" }
+  { "query": "吉林疫情", "display_query": "吉林省本土新增「2320+528」" }
 ]
