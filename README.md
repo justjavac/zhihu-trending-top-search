@@ -14,23 +14,27 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Apr 18 2022 21:21:10 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Apr 18 2022 22:07:46 GMT+0800 (China Standard Time) -->
 
+1. [上海外卖员阳性送单将被追责](https://www.zhihu.com/search?q=外卖员阳性送单将被追责)
+1. [周末多睡 2 小时可降低抑郁风险](https://www.zhihu.com/search?q=多睡 降低抑郁风险)
+1. [辽宁胜广东进 CBA 总决赛](https://www.zhihu.com/search?q=辽宁晋级CBA总决赛)
+1. [间谍过家家第二集](https://www.zhihu.com/search?q=间谍过家家第二集)
 1. [中科院因费用停用知网数据库](https://www.zhihu.com/search?q=中科院停用知网数据库)
-1. [黑龙江新增本土确诊病例](https://www.zhihu.com/search?q=黑龙江新增本土确诊)
+1. [瑞幸咖啡因出现 BUG 道歉](https://www.zhihu.com/search?q=瑞幸咖啡因BUG道歉)
+1. [库里复出勇士首战胜掘金](https://www.zhihu.com/search?q=勇士 掘金)
+1. [一季度国内旅游总人次同比下降](https://www.zhihu.com/search?q=国内旅游总人次同比下降)
 1. [现实版我不是药神](https://www.zhihu.com/search?q=现实版我不是药神)
+1. [安徽芜湖现一例初筛阳性感染者](https://www.zhihu.com/search?q=安徽芜湖疫情)
+1. [黑龙江新增本土确诊病例](https://www.zhihu.com/search?q=黑龙江新增本土确诊)
 1. [《新·奥特曼》最新 PV](https://www.zhihu.com/search?q=新奥特曼PV)
 1. [扇脸殴打婴儿男子已被抓捕](https://www.zhihu.com/search?q=扇脸殴打婴儿男子已被抓捕)
 1. [央行外汇局出台防疫和经济发展举措](https://www.zhihu.com/search?q=央行外汇局出台举措)
 1. [76 人首战大胜猛龙](https://www.zhihu.com/search?q=76人 猛龙)
-1. [周末多睡 2 小时可降低抑郁风险](https://www.zhihu.com/search?q=多睡 降低抑郁风险)
-1. [上海外卖员阳性送单将被追责](https://www.zhihu.com/search?q=外卖员阳性送单将被追责)
-1. [瑞幸咖啡因出现 BUG 道歉](https://www.zhihu.com/search?q=瑞幸咖啡因BUG道歉)
 1. [普京签署从外国股市退市的法令](https://www.zhihu.com/search?q=俄公司从外国股市退市)
 1. [V5 晋级败者组决赛](https://www.zhihu.com/search?q=V5)
 1. [以岭药业一字跌停](https://www.zhihu.com/search?q=以岭药业一字跌停)
 1. [足量发放全国统一通行证](https://www.zhihu.com/search?q=国务院 全国统一通行证)
-1. [辽宁胜广东进 CBA 总决赛](https://www.zhihu.com/search?q=辽宁晋级CBA总决赛)
 1. [塞尔维亚首都爆发「亲俄」抗议](https://www.zhihu.com/search?q=塞尔维亚亲俄抗议)
 1. [原神 PV 短片雪霁逢椿](https://www.zhihu.com/search?q=原神PV)
 1. [RNG 晋级决赛](https://www.zhihu.com/search?q=rng)
@@ -52,8 +56,6 @@
 1. [科切拉音乐节](https://www.zhihu.com/search?q=科切拉音乐节)
 1. [全国新增本土确诊 3504](https://www.zhihu.com/search?q=全国新增)
 1. [上海新增本土确诊 3238 例](https://www.zhihu.com/search?q=上海新增)
-1. [间谍过家家第二集](https://www.zhihu.com/search?q=间谍过家家第二集)
-1. [安徽芜湖现一例初筛阳性感染者](https://www.zhihu.com/search?q=安徽芜湖疫情)
 1. [辉夜大小姐想让我告白第三季更新](https://www.zhihu.com/search?q=辉夜大小姐想让我告白第三季第二集)
 1. [从神一到神十三的技术进步](https://www.zhihu.com/search?q=从神一到神十三)
 
