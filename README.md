@@ -14,24 +14,27 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Apr 21 2022 19:07:47 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Apr 21 2022 20:15:26 GMT+0800 (China Standard Time) -->
 
+1. [微信朋友圈 10 年](https://www.zhihu.com/search?q=朋友圈)
 1. [美籍外教以故意杀人罪判处死刑](https://www.zhihu.com/search?q=美籍外教以故意杀人罪判处死刑)
 1. [莎拉波娃宣布怀孕](https://www.zhihu.com/search?q=莎拉波娃宣布怀孕)
+1. [腾讯游戏 QQ 堂正式停服](https://www.zhihu.com/search?q=腾讯游戏 QQ 堂正式停服)
+1. [最新一艘 055 型驱逐舰亮相](https://www.zhihu.com/search?q=055型驱逐舰亮相)
+1. [海贼王 1047 话情报](https://www.zhihu.com/search?q=海贼王 1047 话情报)
+1. [同济医院违规使用医保基金被通报](https://www.zhihu.com/search?q=同济医院违规使用医保基金被通报)
+1. [宁德时代市值跌破万亿](https://www.zhihu.com/search?q=宁德时代市值跌破万亿)
+1. [康师傅客服回应疑有老鼠屎](https://www.zhihu.com/search?q=康师傅 老鼠屎)
+1. [艾尔登法环 1.04 更新](https://www.zhihu.com/search?q=艾尔登法环 1.04 更新)
 1. [赌王何鸿燊遗产争夺案宣判](https://www.zhihu.com/search?q=何鸿燊 何超贤)
-1. [微信朋友圈 10 年](https://www.zhihu.com/search?q=朋友圈)
 1. [女子实名举报医师丈夫](https://www.zhihu.com/search?q=女子实名举报医师丈夫)
 1. [陶虹 5 年分红 4.2 亿元](https://www.zhihu.com/search?q=陶虹分红)
 1. [民航局发布东航故调查初步报告](https://www.zhihu.com/search?q=东航事故报告)
 1. [好丽友澄清「双标」传闻](https://www.zhihu.com/search?q=好丽友澄清「双标」传闻)
 1. [俄方已向乌方递交谈判文件](https://www.zhihu.com/search?q=俄乌谈判)
 1. [陶虹从传销公司三年分红 2.6 亿元](https://www.zhihu.com/search?q=陶虹从传销公司三年分红 2.6 亿元)
-1. [最新一艘 055 型驱逐舰亮相](https://www.zhihu.com/search?q=055型驱逐舰亮相)
-1. [艾尔登法环 1.04 更新](https://www.zhihu.com/search?q=艾尔登法环 1.04 更新)
 1. [博鳌亚洲论坛 2022 年会](https://www.zhihu.com/search?q=博鳌亚洲论坛 2022 年会)
 1. [台媒新闻快讯闹出大乌龙](https://www.zhihu.com/search?q=台媒新闻快讯闹出大乌龙)
-1. [海贼王 1047 话情报](https://www.zhihu.com/search?q=海贼王 1047 话情报)
-1. [腾讯游戏 QQ 堂正式停服](https://www.zhihu.com/search?q=腾讯游戏 QQ 堂正式停服)
 1. [3 月以来本土感染者 49 万多例](https://www.zhihu.com/search?q=本土感染者)
 1. [小米 MIUI Go 曝光](https://www.zhihu.com/search?q=小米MIUIGo)
 1. [个人养老金制度即将出炉](https://www.zhihu.com/search?q=个人养老金制度)
@@ -52,7 +55,6 @@
 1. [日元贬值](https://www.zhihu.com/search?q=日元贬值)
 1. [公司要求员工下班发手机电量截图](https://www.zhihu.com/search?q=公司要求 手机电量截图)
 1. [研究发现大脑可与肠道细菌直接对话](https://www.zhihu.com/search?q=大脑可与肠道细菌直接对话)
-1. [康师傅客服回应疑有老鼠屎](https://www.zhihu.com/search?q=康师傅 老鼠屎)
 1. [《创造营》刘某以诈骗获刑](https://www.zhihu.com/search?q=刘丞以诈骗)
 1. [美国撤销 89 个国家旅游限制令](https://www.zhihu.com/search?q=美国 撤销 旅游限令)
 1. [张庭夫妇公司 96 套房产被查封](https://www.zhihu.com/search?q=张庭 房产被查封)
