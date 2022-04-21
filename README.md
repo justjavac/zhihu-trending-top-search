@@ -14,8 +14,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Apr 21 2022 15:08:52 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Apr 21 2022 16:12:13 GMT+0800 (China Standard Time) -->
 
+1. [微信朋友圈 10 年](https://www.zhihu.com/search?q=朋友圈)
+1. [莎拉波娃宣布怀孕](https://www.zhihu.com/search?q=莎拉波娃宣布怀孕)
+1. [赌王何鸿燊遗产争夺案宣判](https://www.zhihu.com/search?q=何鸿燊 何超贤)
+1. [艾尔登法环 1.04 更新](https://www.zhihu.com/search?q=艾尔登法环 1.04 更新)
+1. [腾讯游戏 QQ 堂正式停服](https://www.zhihu.com/search?q=腾讯游戏 QQ 堂正式停服)
+1. [最新一艘 055 型驱逐舰亮相](https://www.zhihu.com/search?q=055型驱逐舰亮相)
+1. [民航局发布东航故调查初步报告](https://www.zhihu.com/search?q=东航事故报告)
+1. [台媒新闻快讯闹出大乌龙](https://www.zhihu.com/search?q=台媒新闻快讯闹出大乌龙)
+1. [海贼王 1047 话情报](https://www.zhihu.com/search?q=海贼王 1047 话情报)
+1. [女子实名举报医师丈夫](https://www.zhihu.com/search?q=女子实名举报医师丈夫)
 1. [3 月以来本土感染者 49 万多例](https://www.zhihu.com/search?q=本土感染者)
 1. [小米 MIUI Go 曝光](https://www.zhihu.com/search?q=小米MIUIGo)
 1. [个人养老金制度即将出炉](https://www.zhihu.com/search?q=个人养老金制度)
@@ -25,10 +35,8 @@
 1. [iPhone 15 Pro 或引入潜望式长焦镜头](https://www.zhihu.com/search?q=iPhone 潜望式长焦)
 1. [TES 晋级决赛](https://www.zhihu.com/search?q=tes)
 1. [吴尊友称没发现新冠病毒变异的规律性](https://www.zhihu.com/search?q=吴尊友 新冠病毒变异规律)
-1. [民航局发布东航故调查初步报告](https://www.zhihu.com/search?q=东航事故报告)
 1. [江苏人大主席与人妻通奸被抓](https://www.zhihu.com/search?q=江苏人大主席 通奸)
 1. [上海外卖小哥在桥洞下打地铺](https://www.zhihu.com/search?q=上海外卖小哥打地铺)
-1. [赌王何鸿燊遗产争夺案宣判](https://www.zhihu.com/search?q=何鸿燊 何超贤)
 1. [腾讯视频宣布上调会员价格](https://www.zhihu.com/search?q=腾讯视频会员)
 1. [绥化教育局回应开除学生](https://www.zhihu.com/search?q=绥化教育局回应)
 1. [陶虹 5 年分红 4.2 亿元](https://www.zhihu.com/search?q=陶虹分红)
@@ -43,8 +51,6 @@
 1. [康师傅客服回应疑有老鼠屎](https://www.zhihu.com/search?q=康师傅 老鼠屎)
 1. [《创造营》刘某以诈骗获刑](https://www.zhihu.com/search?q=刘丞以诈骗)
 1. [美国撤销 89 个国家旅游限制令](https://www.zhihu.com/search?q=美国 撤销 旅游限令)
-1. [微信朋友圈 10 年](https://www.zhihu.com/search?q=朋友圈)
-1. [最新一艘 055 型驱逐舰亮相](https://www.zhihu.com/search?q=055型驱逐舰亮相)
 1. [张庭夫妇公司 96 套房产被查封](https://www.zhihu.com/search?q=张庭 房产被查封)
 1. [C 罗新生儿子夭折](https://www.zhihu.com/search?q=C罗儿子夭折)
 
