@@ -1,12 +1,17 @@
 [
-  { "query": "世界首例感染新冠者已去世", "display_query": "世界首例感染新冠者已去世" },
   { "query": "梅德韦杰夫揭示俄在乌军事行动意义", "display_query": "梅德韦杰夫揭示俄在乌军事行动意义" },
   { "query": "南昌宣布三天大范围静态管理", "display_query": "南昌宣布三天大范围静态管理" },
+  { "query": "深空之眼公测", "display_query": "深空之眼公测" },
+  { "query": "世界首例感染新冠者已去世", "display_query": "世界首例感染新冠者已去世" },
+  { "query": "派对浪客诸葛孔明第四集", "display_query": "派对浪客诸葛孔明第四集" },
+  { "query": "一人之下 610 话", "display_query": "一人之下 610 话" },
+  { "query": "库里 27 分勇士 3:0 掘金", "display_query": "库里 27 分勇士 3:0 掘金" },
+  { "query": "爱奇艺更换 logo", "display_query": "爱奇艺更换 logo" },
+  { "query": "CBA 总决赛辽宁 2:0 广厦", "display_query": "CBA 总决赛辽宁 2:0 广厦" },
+  { "query": "大侦探 第九案", "display_query": "大侦探 第九案" },
   { "query": "美股崩了", "display_query": "美股崩了" },
   { "query": "吴谢宇案二审因故中止审", "display_query": "吴谢宇案二审因故中止审" },
   { "query": "阅读给你答案", "display_query": "阅读给你答案" },
-  { "query": "库里 27 分勇士 3:0 掘金", "display_query": "库里 27 分勇士 3:0 掘金" },
-  { "query": "一人之下 610 话", "display_query": "一人之下 610 话" },
   { "query": "台湾逾七成受访者曾遇职场霸凌", "display_query": "台湾逾七成受访者曾遇职场霸凌" },
   { "query": "知否隐秘剧情解析", "display_query": "知否隐秘剧情解析" },
   {
@@ -14,8 +19,6 @@
     "display_query": "外交部回应 YouTube 干预香港特首选举"
   },
   { "query": "人大学者称不希望房子榨干几代人的财富", "display_query": "人大学者称不希望房子榨干几代人的财富" },
-  { "query": "深空之眼公测", "display_query": "深空之眼公测" },
-  { "query": "大侦探 第九案", "display_query": "大侦探 第九案" },
   { "query": "两栖攻击舰广西舰公开亮相", "display_query": "两栖攻击舰广西舰公开亮相" },
   {
     "query": "全面屏 iPhone 或将在 2024 年推出",
@@ -50,7 +53,6 @@
   },
   { "query": "首部航母主题宣传片", "display_query": "首部航母主题宣传片" },
   { "query": "王者荣耀抄袭时空中的绘旅人", "display_query": "王者荣耀抄袭时空中的绘旅人" },
-  { "query": "派对浪客诸葛孔明第四集", "display_query": "派对浪客诸葛孔明第四集" },
   { "query": "篮网再负凯尔特人", "display_query": "篮网再负凯尔特人" },
   { "query": "丹麦等国现不明原因儿童急性肝炎", "display_query": "丹麦等国现不明原因儿童急性肝炎" },
   { "query": "恩比德三分准绝杀猛龙", "display_query": "恩比德三分准绝杀猛龙" },
