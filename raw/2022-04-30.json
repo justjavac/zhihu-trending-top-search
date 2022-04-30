@@ -1,6 +1,17 @@
 [
   { "query": "B 站崩了", "display_query": "B 站崩了" },
   { "query": "国际不打小孩日", "display_query": "国际不打小孩日" },
+  { "query": "长沙倒塌事故 23 人被困", "display_query": "长沙倒塌事故 23 人被困" },
+  {
+    "query": "武汉eStarPro 晋级 KPL 总决赛",
+    "display_query": "武汉eStarPro 晋级 KPL 总决赛"
+  },
+  { "query": "苹果宣布推出自助维修服务", "display_query": "苹果宣布推出自助维修服务" },
+  { "query": "多国暴发巧克力相关沙门氏菌疫情", "display_query": "多国暴发巧克力相关沙门氏菌疫情" },
+  { "query": "华为 Mate Xs 2 折叠屏手机发布", "display_query": "华为 Mate Xs 2 折叠屏手机发布" },
+  { "query": "76 人 4:2 淘汰猛龙", "display_query": "76 人 4:2 淘汰猛龙" },
+  { "query": "美国正在德国训练乌克兰武装部队", "display_query": "美国正在德国训练乌克兰武装部队" },
+  { "query": "派对浪客诸葛孔明第五集", "display_query": "派对浪客诸葛孔明第五集" },
   { "query": "美国拟 80 亿美元强销台湾波音客机", "display_query": "美国拟 80 亿美元强销台湾波音客机" },
   {
     "query": "一季度推特营收 12 亿美元同比增长 16%",
@@ -8,12 +19,7 @@
   },
   { "query": "美国第一季度经济折合年率萎缩 1.4%", "display_query": "美国第一季度经济折合年率萎缩 1.4%" },
   { "query": "五一进北京公共场所须持核酸证明", "display_query": "五一进北京公共场所须持核酸证明" },
-  { "query": "苹果宣布推出自助维修服务", "display_query": "苹果宣布推出自助维修服务" },
-  { "query": "多国暴发巧克力相关沙门氏菌疫情", "display_query": "多国暴发巧克力相关沙门氏菌疫情" },
-  { "query": "76 人 4:2 淘汰猛龙", "display_query": "76 人 4:2 淘汰猛龙" },
   { "query": "上海新增「1249 +8932」", "display_query": "上海新增「1249 +8932」" },
-  { "query": "美国正在德国训练乌克兰武装部队", "display_query": "美国正在德国训练乌克兰武装部队" },
-  { "query": "华为 Mate Xs 2 折叠屏手机发布", "display_query": "华为 Mate Xs 2 折叠屏手机发布" },
   { "query": "唐山女子举报丈夫", "display_query": "唐山女子举报丈夫" },
   { "query": "动画《间谍过家家》仍未上线", "display_query": "动画《间谍过家家》仍未上线" },
   { "query": "股票交易过户费总体下调 50%", "display_query": "股票交易过户费总体下调 50%" },

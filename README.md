@@ -14,21 +14,24 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Apr 30 2022 20:13:11 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Apr 30 2022 21:17:40 GMT+0800 (China Standard Time) -->
 
 1. [B 站崩了](https://www.zhihu.com/search?q=B 站崩了)
 1. [国际不打小孩日](https://www.zhihu.com/search?q=国际不打小孩日)
+1. [长沙倒塌事故 23 人被困](https://www.zhihu.com/search?q=长沙倒塌事故 23 人被困)
+1. [武汉eStarPro 晋级 KPL 总决赛](https://www.zhihu.com/search?q=武汉eStarPro 晋级 KPL 总决赛)
+1. [苹果宣布推出自助维修服务](https://www.zhihu.com/search?q=苹果宣布推出自助维修服务)
+1. [多国暴发巧克力相关沙门氏菌疫情](https://www.zhihu.com/search?q=多国暴发巧克力相关沙门氏菌疫情)
+1. [华为 Mate Xs 2 折叠屏手机发布](https://www.zhihu.com/search?q=华为 Mate Xs 2 折叠屏手机发布)
+1. [76 人 4:2 淘汰猛龙](https://www.zhihu.com/search?q=76 人 4:2 淘汰猛龙)
+1. [美国正在德国训练乌克兰武装部队](https://www.zhihu.com/search?q=美国正在德国训练乌克兰武装部队)
+1. [派对浪客诸葛孔明第五集](https://www.zhihu.com/search?q=派对浪客诸葛孔明第五集)
 1. [美国拟 80 亿美元强销台湾波音客机](https://www.zhihu.com/search?q=美国拟 80 亿美元强销台湾波音客机)
 1. [一季度推特营收 12 亿美元同比增长 16%](https://www.zhihu.com/search?q=一季度推特营收 12 亿美元同比增长
    16%)
 1. [美国第一季度经济折合年率萎缩 1.4%](https://www.zhihu.com/search?q=美国第一季度经济折合年率萎缩 1.4%)
 1. [五一进北京公共场所须持核酸证明](https://www.zhihu.com/search?q=五一进北京公共场所须持核酸证明)
-1. [苹果宣布推出自助维修服务](https://www.zhihu.com/search?q=苹果宣布推出自助维修服务)
-1. [多国暴发巧克力相关沙门氏菌疫情](https://www.zhihu.com/search?q=多国暴发巧克力相关沙门氏菌疫情)
-1. [76 人 4:2 淘汰猛龙](https://www.zhihu.com/search?q=76 人 4:2 淘汰猛龙)
 1. [上海新增「1249 +8932」](https://www.zhihu.com/search?q=上海新增「1249 +8932」)
-1. [美国正在德国训练乌克兰武装部队](https://www.zhihu.com/search?q=美国正在德国训练乌克兰武装部队)
-1. [华为 Mate Xs 2 折叠屏手机发布](https://www.zhihu.com/search?q=华为 Mate Xs 2 折叠屏手机发布)
 1. [唐山女子举报丈夫](https://www.zhihu.com/search?q=唐山女子举报丈夫)
 1. [动画《间谍过家家》仍未上线](https://www.zhihu.com/search?q=动画《间谍过家家》仍未上线)
 1. [股票交易过户费总体下调 50%](https://www.zhihu.com/search?q=股票交易过户费总体下调 50%)
