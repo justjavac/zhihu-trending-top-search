@@ -14,16 +14,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed May 04 2022 07:07:56 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed May 04 2022 08:41:23 GMT+0800 (China Standard Time) -->
 
+1. [法国电价暴涨 400%](https://www.zhihu.com/search?q=法国电价暴涨 400%)
+1. [恢复领土完整是乌最终目标](https://www.zhihu.com/search?q=恢复领土完整是乌最终目标)
 1. [明兰爱顾廷烨吗](https://www.zhihu.com/search?q=明兰爱顾廷烨吗)
 1. [媒体称长沙居民自建房倒塌事故已致 2 人遇难](https://www.zhihu.com/search?q=媒体称长沙居民自建房倒塌事故已致 2
    人遇难)
-1. [法国电价暴涨 400%](https://www.zhihu.com/search?q=法国电价暴涨 400%)
+1. [7 人行程卡带星翻高速护栏入浙](https://www.zhihu.com/search?q=7 人行程卡带星翻高速护栏入浙)
+1. [13 人吃火锅消费千元陆续离开逃单](https://www.zhihu.com/search?q=13 人吃火锅消费千元陆续离开逃单)
+1. [上海新增本土「260+4722」](https://www.zhihu.com/search?q=上海新增本土「260+4722」)
+1. [5 驱 1 护 1 航母](https://www.zhihu.com/search?q=5 驱 1 护 1 航母)
+1. [北京加强公厕消杀](https://www.zhihu.com/search?q=北京加强公厕消杀)
+1. [北京新增本土「46+5」](https://www.zhihu.com/search?q=北京新增本土「46+5」)
 1. [「神秘」儿童肝炎病情模式](https://www.zhihu.com/search?q=「神秘」儿童肝炎病情模式)
 1. [上海辟谣「云南物资没人要」](https://www.zhihu.com/search?q=上海辟谣「云南物资没人要」)
 1. [乌军否认基辅幽灵已战死](https://www.zhihu.com/search?q=乌军否认基辅幽灵已战死)
-1. [7 人行程卡带星翻高速护栏入浙](https://www.zhihu.com/search?q=7 人行程卡带星翻高速护栏入浙)
 1. [长沙第 9 名被困者获救](https://www.zhihu.com/search?q=长沙第 9 名被困者获救)
 1. [刘畊宏带火瑜伽垫](https://www.zhihu.com/search?q=刘畊宏带火瑜伽垫)
 1. [山东潍坊 3.4 级地震](https://www.zhihu.com/search?q=山东潍坊 3.4 级地震)
