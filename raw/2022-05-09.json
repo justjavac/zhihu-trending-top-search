@@ -1,17 +1,20 @@
 [
-  { "query": "俄军与亚速钢铁厂守军首次进行面对面接触", "display_query": "俄军与亚速钢铁厂守军首次进行面对面接触" },
-  { "query": "端午节共放 3 天假", "display_query": "端午节共放 3 天假" },
+  { "query": "李嘉诚时隔近 10 年又在内地楼市出手", "display_query": "李嘉诚时隔近 10 年又在内地楼市出手" },
   { "query": "大侦探 收官", "display_query": "大侦探 收官" },
-  { "query": "人民艺术家秦怡辞世", "display_query": "人民艺术家秦怡辞世" },
-  { "query": "普京阅兵式讲话", "display_query": "普京阅兵式讲话" },
-  { "query": "多地核酸检测政府采购价下调", "display_query": "多地核酸检测政府采购价下调" },
-  { "query": "间谍过家家第五集", "display_query": "间谍过家家第五集" },
-  { "query": "全国粮食春播 4.92 亿亩", "display_query": "全国粮食春播 4.92 亿亩" },
-  { "query": "知网嫌赔偿金过高上诉被驳回", "display_query": "知网嫌赔偿金过高上诉被驳回" },
   {
     "query": "研究生跟「客服」通话 3 小时被骗 74 万",
     "display_query": "研究生跟「客服」通话 3 小时被骗 74 万"
   },
+  { "query": "AP 考试因疫情原因取消", "display_query": "AP 考试因疫情原因取消" },
+  { "query": "俄军与亚速钢铁厂守军首次进行面对面接触", "display_query": "俄军与亚速钢铁厂守军首次进行面对面接触" },
+  { "query": "人民艺术家秦怡辞世", "display_query": "人民艺术家秦怡辞世" },
+  { "query": "普京阅兵式讲话", "display_query": "普京阅兵式讲话" },
+  { "query": "全国粮食春播 4.92 亿亩", "display_query": "全国粮食春播 4.92 亿亩" },
+  { "query": "了不起舞社 第四期", "display_query": "了不起舞社 第四期" },
+  { "query": "多地核酸检测政府采购价下调", "display_query": "多地核酸检测政府采购价下调" },
+  { "query": "端午节共放 3 天假", "display_query": "端午节共放 3 天假" },
+  { "query": "间谍过家家第五集", "display_query": "间谍过家家第五集" },
+  { "query": "知网嫌赔偿金过高上诉被驳回", "display_query": "知网嫌赔偿金过高上诉被驳回" },
   { "query": "武林外传 隐藏剧情", "display_query": "武林外传 隐藏剧情" },
   { "query": "快播被吊销执照", "display_query": "快播被吊销执照" },
   { "query": "多地出现红火蚁伤人事件", "display_query": "多地出现红火蚁伤人事件" },
@@ -31,7 +34,6 @@
   { "query": "联合国安理会通过涉乌克兰局势声明", "display_query": "联合国安理会通过涉乌克兰局势声明" },
   { "query": "俄民众对普京的信任度水平上涨", "display_query": "俄民众对普京的信任度水平上涨" },
   { "query": "新游记 第四期", "display_query": "新游记 第四期" },
-  { "query": "了不起舞社 第四期", "display_query": "了不起舞社 第四期" },
   { "query": "两协会发布演员聘用合同范本", "display_query": "两协会发布演员聘用合同范本" },
   { "query": "「祝融号」准备在火星越冬", "display_query": "「祝融号」准备在火星越冬" }
 ]
