@@ -1,12 +1,18 @@
 [
   { "query": "上海疫情", "display_query": "上海疫情" },
+  { "query": "苹果测试放弃Lightning", "display_query": "苹果测试放弃Lightning" },
+  { "query": "IE 浏览器退役", "display_query": "IE 浏览器退役" },
+  { "query": "A-soul 制作委员会致歉", "display_query": "A-soul 制作委员会致歉" },
+  { "query": "大妈们公厕外排队狂抽厕纸", "display_query": "大妈们公厕外排队狂抽厕纸" },
+  { "query": "新游记 第五期", "display_query": "新游记 第五期" },
+  { "query": "西安 3 岁男孩掉入下水道被冲走", "display_query": "西安 3 岁男孩掉入下水道被冲走" },
+  { "query": "尤伯杯决赛中国队不敌韩国", "display_query": "尤伯杯决赛中国队不敌韩国" },
+  { "query": "王牌对王牌 收官", "display_query": "王牌对王牌 收官" },
+  { "query": "卡拉奇大学恐袭事件策划者被捕", "display_query": "卡拉奇大学恐袭事件策划者被捕" },
   { "query": "四川邻水县一周发现 499 例感染者", "display_query": "四川邻水县一周发现 499 例感染者" },
   { "query": "巴黎世家「破烂鞋」一双卖 1.2 万元", "display_query": "巴黎世家「破烂鞋」一双卖 1.2 万元" },
-  { "query": "苹果测试放弃Lightning", "display_query": "苹果测试放弃Lightning" },
   { "query": "小龙虾每斤跌破 10 元", "display_query": "小龙虾每斤跌破 10 元" },
   { "query": "林毅夫表示中国经济总量早晚是美国的两倍", "display_query": "林毅夫表示中国经济总量早晚是美国的两倍" },
-  { "query": "西安 3 岁男孩掉入下水道被冲走", "display_query": "西安 3 岁男孩掉入下水道被冲走" },
-  { "query": "IE 浏览器退役", "display_query": "IE 浏览器退役" },
   { "query": "芬兰总统批准芬兰加入北约的申请", "display_query": "芬兰总统批准芬兰加入北约的申请" },
   { "query": "中铁十一局 6 领导防疫不力被问责", "display_query": "中铁十一局 6 领导防疫不力被问责" },
   { "query": "小放牛被判赔偿海底捞 95 万元", "display_query": "小放牛被判赔偿海底捞 95 万元" },
@@ -29,6 +35,5 @@
     "query": " 清华大学 5 月 14 日起校门不进不出",
     "display_query": " 清华大学 5 月 14 日起校门不进不出"
   },
-  { "query": "调整差别化住房信贷政策", "display_query": "调整差别化住房信贷政策" },
-  { "query": "王牌对王牌 收官", "display_query": "王牌对王牌 收官" }
+  { "query": "调整差别化住房信贷政策", "display_query": "调整差别化住房信贷政策" }
 ]
