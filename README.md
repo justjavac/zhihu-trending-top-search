@@ -14,18 +14,19 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed May 18 2022 08:35:32 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed May 18 2022 10:47:26 GMT+0800 (China Standard Time) -->
 
 1. [美国 UFO 公开听证会](https://www.zhihu.com/search?q=美国 UFO 公开听证会)
-1. [奥密克戎变异株进入广东](https://www.zhihu.com/search?q=奥密克戎变异株进入广东)
 1. [妇炎洁广告被指侮辱女性](https://www.zhihu.com/search?q=妇炎洁广告被指侮辱女性)
-1. [我国已建成世界最大规模高等教育体系](https://www.zhihu.com/search?q=我国已建成世界最大规模高等教育体系)
 1. [美国超市枪击案遇害者均为非裔](https://www.zhihu.com/search?q=美国超市枪击案遇害者均为非裔)
+1. [乌方将马里乌波尔控制权移交俄方](https://www.zhihu.com/search?q=乌方将马里乌波尔控制权移交俄方)
+1. [奥密克戎变异株进入广东](https://www.zhihu.com/search?q=奥密克戎变异株进入广东)
+1. [瑞典正式签署加入北约申请](https://www.zhihu.com/search?q=瑞典正式签署加入北约申请)
+1. [我国已建成世界最大规模高等教育体系](https://www.zhihu.com/search?q=我国已建成世界最大规模高等教育体系)
 1. [俄黑客组织向英美德等十国政府网站宣战](https://www.zhihu.com/search?q=俄黑客组织向英美德等十国政府网站宣战)
 1. [瑞典政府宣布将申请加入北约](https://www.zhihu.com/search?q=瑞典政府宣布将申请加入北约)
-1. [发改委召开 5 月份新闻发布会](https://www.zhihu.com/search?q=发改委召开 5 月份新闻发布会)
 1. [四川邻水县一周发现 499 例感染者](https://www.zhihu.com/search?q=四川邻水县一周发现 499 例感染者)
-1. [瑞典正式签署加入北约申请](https://www.zhihu.com/search?q=瑞典正式签署加入北约申请)
+1. [发改委召开 5 月份新闻发布会](https://www.zhihu.com/search?q=发改委召开 5 月份新闻发布会)
 1. [凯尔特人 4:3 淘汰雄鹿](https://www.zhihu.com/search?q=凯尔特人 4:3 淘汰雄鹿)
 1. [唐山重大刑事案件嫌疑人](https://www.zhihu.com/search?q=唐山重大刑事案件嫌疑人)
 1. [明日方舟危机合约新赛季](https://www.zhihu.com/search?q=明日方舟危机合约新赛季)
@@ -40,7 +41,6 @@
 1. [马斯克称以更低价收购推特「并非不可能」](https://www.zhihu.com/search?q=马斯克称以更低价收购推特「并非不可能」)
 1. [南京试点临期食品进慈善超市免费发放](https://www.zhihu.com/search?q=南京试点临期食品进慈善超市免费发放)
 1. [华尔街巨头抄底中国互联网股](https://www.zhihu.com/search?q=华尔街巨头抄底中国互联网股)
-1. [乌方将马里乌波尔控制权移交俄方](https://www.zhihu.com/search?q=乌方将马里乌波尔控制权移交俄方)
 1. [巴黎世家「破烂鞋」一双卖 1.2 万元](https://www.zhihu.com/search?q=巴黎世家「破烂鞋」一双卖 1.2 万元)
 
 <!-- END -->
