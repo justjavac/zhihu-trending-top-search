@@ -14,24 +14,25 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu May 19 2022 20:15:17 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu May 19 2022 21:32:49 GMT+0800 (China Standard Time) -->
 
 1. [山西师大多名毕业研究生被追回国家助学金](https://www.zhihu.com/search?q=山西师大多名毕业研究生被追回国家助学金)
+1. [河南 18 岁女孩聚餐后遇害](https://www.zhihu.com/search?q=河南 18 岁女孩聚餐后遇害)
 1. [俄罗斯版可口可乐系列饮料面世](https://www.zhihu.com/search?q=俄罗斯版可口可乐系列饮料面世)
-1. [上海多人加价倒卖离沪火车票被抓](https://www.zhihu.com/search?q=上海多人加价倒卖离沪火车票被抓)
 1. [年轻小鼠脑脊液可增强老年小鼠记忆力](https://www.zhihu.com/search?q=年轻小鼠脑脊液可增强老年小鼠记忆力)
 1. [中方应约同沙利文通电话](https://www.zhihu.com/search?q=中方应约同沙利文通电话)
-1. [欧洲多国发现猴痘确诊及疑似病例](https://www.zhihu.com/search?q=欧洲多国发现猴痘确诊及疑似病例)
 1. [小伙网恋脚踏两条船竟是同一男子所扮](https://www.zhihu.com/search?q=小伙网恋脚踏两条船竟是同一男子所扮)
-1. [被打成熊猫眼女孩系精神残疾母亲所打](https://www.zhihu.com/search?q=被打成熊猫眼女孩系精神残疾母亲所打)
+1. [欧洲多国发现猴痘确诊及疑似病例](https://www.zhihu.com/search?q=欧洲多国发现猴痘确诊及疑似病例)
 1. [多地拟将试管婴儿费用纳入医保](https://www.zhihu.com/search?q=多地拟将试管婴儿费用纳入医保)
+1. [被打成熊猫眼女孩系精神残疾母亲所打](https://www.zhihu.com/search?q=被打成熊猫眼女孩系精神残疾母亲所打)
+1. [拜登女儿新冠检测阳性](https://www.zhihu.com/search?q=拜登女儿新冠检测阳性)
+1. [上海多人加价倒卖离沪火车票被抓](https://www.zhihu.com/search?q=上海多人加价倒卖离沪火车票被抓)
 1. [河北两村庄因建光伏电站毁百亩麦地](https://www.zhihu.com/search?q=河北两村庄因建光伏电站毁百亩麦地)
 1. [周杰伦 20 日视频号演唱会](https://www.zhihu.com/search?q=周杰伦 20 日视频号演唱会)
 1. [北京朝阳 10 街乡部分区域解除管控](https://www.zhihu.com/search?q=北京朝阳 10 街乡部分区域解除管控)
 1. [巴特勒 41+9 热火 1:0 绿军](https://www.zhihu.com/search?q=巴特勒 41+9 热火 1:0 绿军)
 1. [且试天下 大结局](https://www.zhihu.com/search?q=且试天下 大结局)
 1. [美国 UFO 公开听证会](https://www.zhihu.com/search?q=美国 UFO 公开听证会)
-1. [河南 18 岁女孩聚餐后遇害](https://www.zhihu.com/search?q=河南 18 岁女孩聚餐后遇害)
 1. [拳头再发季中赛公告](https://www.zhihu.com/search?q=拳头再发季中赛公告)
 1. [面包车坠河 10 人遇难](https://www.zhihu.com/search?q=面包车坠河 10 人遇难)
 1. [社保局未发现珈乐被克扣工资](https://www.zhihu.com/search?q=社保局未发现珈乐被克扣工资)
@@ -41,7 +42,6 @@
 1. [瑞典正式签署加入北约申请](https://www.zhihu.com/search?q=瑞典正式签署加入北约申请)
 1. [上海河南英语四六级考试延期](https://www.zhihu.com/search?q=上海河南英语四六级考试延期)
 1. [乌方将马里乌波尔控制权移交俄方](https://www.zhihu.com/search?q=乌方将马里乌波尔控制权移交俄方)
-1. [拜登女儿新冠检测阳性](https://www.zhihu.com/search?q=拜登女儿新冠检测阳性)
 1. [南京试点临期食品进慈善超市免费发放](https://www.zhihu.com/search?q=南京试点临期食品进慈善超市免费发放)
 1. [华尔街巨头抄底中国互联网股](https://www.zhihu.com/search?q=华尔街巨头抄底中国互联网股)
 1. [大型民用直升机 AC313A 成功首飞](https://www.zhihu.com/search?q=大型民用直升机 AC313A 成功首飞)
