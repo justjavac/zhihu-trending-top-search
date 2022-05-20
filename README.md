@@ -14,19 +14,23 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri May 20 2022 16:10:54 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri May 20 2022 17:09:24 GMT+0800 (China Standard Time) -->
 
 1. [俄罗斯版可口可乐系列饮料面世](https://www.zhihu.com/search?q=俄罗斯版可口可乐系列饮料面世)
-1. [澳门酒店双女尸案嫌疑人落网](https://www.zhihu.com/search?q=澳门酒店双女尸案嫌疑人落网)
 1. [山西师大多名毕业研究生被追回国家助学金](https://www.zhihu.com/search?q=山西师大多名毕业研究生被追回国家助学金)
-1. [四川雅安 4.8 级地震](https://www.zhihu.com/search?q=四川雅安 4.8 级地震)
 1. [多地拟将试管婴儿费用纳入医保](https://www.zhihu.com/search?q=多地拟将试管婴儿费用纳入医保)
-1. [请叫我总监 大结局](https://www.zhihu.com/search?q=请叫我总监 大结局)
+1. [重庆 20 余人大巴车翻入河沟目前致 1 死 1 重伤](https://www.zhihu.com/search?q=重庆 20
+   余人大巴车翻入河沟目前致 1 死 1 重伤)
+1. [加拿大政府禁用华为中兴产品](https://www.zhihu.com/search?q=加拿大政府禁用华为中兴产品)
 1. [杭州地铁 1 号线站内涌入大量水](https://www.zhihu.com/search?q=杭州地铁 1 号线站内涌入大量水)
-1. [天津市春季高考将调整至 6 月 12 日举行](https://www.zhihu.com/search?q=天津市春季高考将调整至 6 月 12
-   日举行)
 1. [315 曝光的土坑酸菜厂被罚 55 万](https://www.zhihu.com/search?q=315 曝光的土坑酸菜厂被罚 55 万)
 1. [奥密克戎新亚型毒株在美迅速传播](https://www.zhihu.com/search?q=奥密克戎新亚型毒株在美迅速传播)
+1. [四川雅安 4.8 级地震](https://www.zhihu.com/search?q=四川雅安 4.8 级地震)
+1. [中方应约同沙利文通电话](https://www.zhihu.com/search?q=中方应约同沙利文通电话)
+1. [澳门酒店双女尸案嫌疑人落网](https://www.zhihu.com/search?q=澳门酒店双女尸案嫌疑人落网)
+1. [请叫我总监 大结局](https://www.zhihu.com/search?q=请叫我总监 大结局)
+1. [天津市春季高考将调整至 6 月 12 日举行](https://www.zhihu.com/search?q=天津市春季高考将调整至 6 月 12
+   日举行)
 1. [人类或将面临二战后最大粮食危机](https://www.zhihu.com/search?q=人类或将面临二战后最大粮食危机)
 1. [不明原因儿童肺炎病例为何异常增多](https://www.zhihu.com/search?q=不明原因儿童肺炎病例为何异常增多)
 1. [英伟达 40 系列显卡或于 7 月发布](https://www.zhihu.com/search?q=英伟达 40 系列显卡或于 7 月发布)
@@ -36,7 +40,6 @@
 1. [北京新增本土新冠肺炎感染者 49 例](https://www.zhihu.com/search?q=北京新增本土新冠肺炎感染者 49 例)
 1. [被打成熊猫眼女孩系精神残疾母亲所打](https://www.zhihu.com/search?q=被打成熊猫眼女孩系精神残疾母亲所打)
 1. [河北两村庄因建光伏电站毁百亩麦地](https://www.zhihu.com/search?q=河北两村庄因建光伏电站毁百亩麦地)
-1. [中方应约同沙利文通电话](https://www.zhihu.com/search?q=中方应约同沙利文通电话)
 1. [上海河南英语四六级考试延期](https://www.zhihu.com/search?q=上海河南英语四六级考试延期)
 1. [拜登女儿新冠检测阳性](https://www.zhihu.com/search?q=拜登女儿新冠检测阳性)
 1. [巴特勒 41+9 热火 1:0 绿军](https://www.zhihu.com/search?q=巴特勒 41+9 热火 1:0 绿军)
