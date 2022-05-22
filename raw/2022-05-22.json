@@ -1,24 +1,26 @@
 [
-  { "query": "爱死亡机器人第三季", "display_query": "爱死亡机器人第三季" },
-  { "query": "我国报告输入首例 BA.2.12.1", "display_query": "我国报告输入首例 BA.2.12.1" },
-  { "query": "海底捞回应河豚锅致顾客中毒", "display_query": "海底捞回应河豚锅致顾客中毒" },
-  { "query": "妇炎洁就广告侮辱女性道歉", "display_query": "妇炎洁就广告侮辱女性道歉" },
-  { "query": "世卫称猴痘病毒现有 2 个进化支", "display_query": "世卫称猴痘病毒现有 2 个进化支" },
-  { "query": "英国首相父亲入籍申请获批成为法国公民", "display_query": "英国首相父亲入籍申请获批成为法国公民" },
-  { "query": "男子非法倒卖超千万社交账号", "display_query": "男子非法倒卖超千万社交账号" },
-  { "query": "英美等国报告多例猴痘病例", "display_query": "英美等国报告多例猴痘病例" },
-  {
-    "query": "G2 MSI 对抗赛首日终结 T1 RNG 连胜",
-    "display_query": "G2 MSI 对抗赛首日终结 T1 RNG 连胜"
-  },
-  { "query": "原神 2.7 版本前瞻", "display_query": "原神 2.7 版本前瞻" },
-  { "query": "加拿大政府禁用华为中兴产品", "display_query": "加拿大政府禁用华为中兴产品" },
-  { "query": "周杰伦线上演唱会", "display_query": "周杰伦线上演唱会" },
   {
     "query": "河南多家医院近 40 名专家跳槽郑大一附院",
     "display_query": "河南多家医院近 40 名专家跳槽郑大一附院"
   },
+  { "query": "英美等国报告多例猴痘病例", "display_query": "英美等国报告多例猴痘病例" },
+  { "query": "爱死亡机器人第三季", "display_query": "爱死亡机器人第三季" },
+  { "query": "英国首相父亲入籍申请获批成为法国公民", "display_query": "英国首相父亲入籍申请获批成为法国公民" },
+  {
+    "query": "G2 MSI 对抗赛首日终结 T1 RNG 连胜",
+    "display_query": "G2 MSI 对抗赛首日终结 T1 RNG 连胜"
+  },
+  { "query": "周杰伦线上演唱会", "display_query": "周杰伦线上演唱会" },
+  { "query": "原神 2.7 版本前瞻", "display_query": "原神 2.7 版本前瞻" },
+  { "query": "向往的生活 第三期", "display_query": "向往的生活 第三期" },
+  { "query": "天赐的声音 第十期", "display_query": "天赐的声音 第十期" },
   { "query": "G2 MSI 对抗赛揭幕战 1:0 T1", "display_query": "G2 MSI 对抗赛揭幕战 1:0 T1" },
+  { "query": "我国报告输入首例 BA.2.12.1", "display_query": "我国报告输入首例 BA.2.12.1" },
+  { "query": "海底捞回应河豚锅致顾客中毒", "display_query": "海底捞回应河豚锅致顾客中毒" },
+  { "query": "妇炎洁就广告侮辱女性道歉", "display_query": "妇炎洁就广告侮辱女性道歉" },
+  { "query": "世卫称猴痘病毒现有 2 个进化支", "display_query": "世卫称猴痘病毒现有 2 个进化支" },
+  { "query": "男子非法倒卖超千万社交账号", "display_query": "男子非法倒卖超千万社交账号" },
+  { "query": "加拿大政府禁用华为中兴产品", "display_query": "加拿大政府禁用华为中兴产品" },
   { "query": "专家表示近视手术无法治愈近视", "display_query": "专家表示近视手术无法治愈近视" },
   { "query": "飞盘运动引争议", "display_query": "飞盘运动引争议" },
   { "query": "上海一人划伤居委干部后自伤", "display_query": "上海一人划伤居委干部后自伤" },
