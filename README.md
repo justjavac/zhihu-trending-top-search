@@ -14,18 +14,20 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu May 26 2022 06:08:30 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu May 26 2022 07:08:31 GMT+0800 (China Standard Time) -->
 
+1. [官方通报清华女博士报考协警](https://www.zhihu.com/search?q=官方通报清华女博士报考协警)
 1. [不得用医保支付大规模核酸检测费用](https://www.zhihu.com/search?q=不得用医保支付大规模核酸检测费用)
 1. [12-14 周岁涉严重暴力犯罪原则上送入专门学校](https://www.zhihu.com/search?q=12-14
    周岁涉严重暴力犯罪原则上送入专门学校)
-1. [新疆乌鲁木齐发现 2 个核酸混管异常](https://www.zhihu.com/search?q=新疆乌鲁木齐发现 2 个核酸混管异常)
-1. [北京一网吧私自营业致疫情扩散](https://www.zhihu.com/search?q=北京一网吧私自营业致疫情扩散)
-1. [全球变暖或致人类睡眠时间减少](https://www.zhihu.com/search?q=全球变暖或致人类睡眠时间减少)
-1. [官方通报清华女博士报考协警](https://www.zhihu.com/search?q=官方通报清华女博士报考协警)
-1. [全球已确诊 131 例猴痘病例](https://www.zhihu.com/search?q=全球已确诊 131 例猴痘病例)
 1. [合肥：努力让隔离点变成招商点招才点](https://www.zhihu.com/search?q=合肥：努力让隔离点变成招商点招才点)
+1. [新疆乌鲁木齐发现 2 个核酸混管异常](https://www.zhihu.com/search?q=新疆乌鲁木齐发现 2 个核酸混管异常)
+1. [全球小麦库存量只够供应十周](https://www.zhihu.com/search?q=全球小麦库存量只够供应十周)
+1. [全球已确诊 131 例猴痘病例](https://www.zhihu.com/search?q=全球已确诊 131 例猴痘病例)
+1. [北京一网吧私自营业致疫情扩散](https://www.zhihu.com/search?q=北京一网吧私自营业致疫情扩散)
 1. [中俄两军组织实施联合空中战略巡航](https://www.zhihu.com/search?q=中俄两军组织实施联合空中战略巡航)
+1. [韩国总统尹锡悦夫人被举报履历造假](https://www.zhihu.com/search?q=韩国总统尹锡悦夫人被举报履历造假)
+1. [全球变暖或致人类睡眠时间减少](https://www.zhihu.com/search?q=全球变暖或致人类睡眠时间减少)
 1. [英国猴痘确诊病例增至 57 例](https://www.zhihu.com/search?q=英国猴痘确诊病例增至 57 例)
 1. [外交部用歌词回应「美国涉台言论」](https://www.zhihu.com/search?q=外交部用歌词回应「美国涉台言论」)
 1. [国常会宣布减征汽车购置税 600 亿元](https://www.zhihu.com/search?q=国常会宣布减征汽车购置税 600 亿元)
