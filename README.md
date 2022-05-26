@@ -14,16 +14,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu May 26 2022 12:21:59 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu May 26 2022 13:14:03 GMT+0800 (China Standard Time) -->
 
-1. [新疆乌鲁木齐发现 2 个核酸混管异常](https://www.zhihu.com/search?q=新疆乌鲁木齐发现 2 个核酸混管异常)
+1. [美军核潜艇南海撞山调查报告公布](https://www.zhihu.com/search?q=美军核潜艇南海撞山调查报告公布)
 1. [全球通胀冲击严重程度](https://www.zhihu.com/search?q=全球通胀冲击严重程度)
 1. [沪指失守 3100 点](https://www.zhihu.com/search?q=沪指失守 3100 点)
-1. [美军核潜艇南海撞山调查报告公布](https://www.zhihu.com/search?q=美军核潜艇南海撞山调查报告公布)
-1. [9 省区市将迎雷暴大风或冰雹](https://www.zhihu.com/search?q=9 省区市将迎雷暴大风或冰雹)
-1. [网传常态化核酸费用约 80％ 由医保负担](https://www.zhihu.com/search?q=网传常态化核酸费用约 80％ 由医保负担)
+1. [上海高二高三 6 月 6 日复课](https://www.zhihu.com/search?q=上海高二高三 6 月 6 日复课)
 1. [不得用医保支付大规模核酸检测费用](https://www.zhihu.com/search?q=不得用医保支付大规模核酸检测费用)
 1. [阶段性实施国内客运航班运行财政补贴](https://www.zhihu.com/search?q=阶段性实施国内客运航班运行财政补贴)
+1. [CNN 向环球时报承认报道不实](https://www.zhihu.com/search?q=CNN 向环球时报承认报道不实)
+1. [肯德基回应可达鸭被热炒](https://www.zhihu.com/search?q=肯德基回应可达鸭被热炒)
+1. [上海 6 月购物商场全面恢复线下营业](https://www.zhihu.com/search?q=上海 6 月购物商场全面恢复线下营业)
+1. [江苏常州武进区花园街附近发生爆炸](https://www.zhihu.com/search?q=江苏常州武进区花园街附近发生爆炸)
+1. [新疆乌鲁木齐发现 2 个核酸混管异常](https://www.zhihu.com/search?q=新疆乌鲁木齐发现 2 个核酸混管异常)
+1. [9 省区市将迎雷暴大风或冰雹](https://www.zhihu.com/search?q=9 省区市将迎雷暴大风或冰雹)
+1. [网传常态化核酸费用约 80％ 由医保负担](https://www.zhihu.com/search?q=网传常态化核酸费用约 80％ 由医保负担)
 1. [英国猴痘确诊病例增至 57 例](https://www.zhihu.com/search?q=英国猴痘确诊病例增至 57 例)
 1. [核酸检测单人单检不高于 16 元](https://www.zhihu.com/search?q=核酸检测单人单检不高于 16 元)
 1. [爱彼迎退出中国大陆](https://www.zhihu.com/search?q=爱彼迎退出中国大陆)
@@ -47,8 +52,6 @@
 1. [世卫组织「无证据表明猴痘病毒已变异」](https://www.zhihu.com/search?q=世卫组织「无证据表明猴痘病毒已变异」)
 1. [星巴克宣布将退出俄罗斯市场](https://www.zhihu.com/search?q=星巴克宣布将退出俄罗斯市场)
 1. [知网称受到同行对手打压](https://www.zhihu.com/search?q=知网称受到同行对手打压)
-1. [上海 6 月购物商场全面恢复线下营业](https://www.zhihu.com/search?q=上海 6 月购物商场全面恢复线下营业)
-1. [肯德基回应可达鸭被热炒](https://www.zhihu.com/search?q=肯德基回应可达鸭被热炒)
 
 <!-- END -->
 
