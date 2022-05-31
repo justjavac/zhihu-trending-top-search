@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jun 01 2022 05:08:03 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jun 01 2022 06:08:55 GMT+0800 (China Standard Time) -->
 
 1. [国家新闻出版署认定 62 种图书不合格](https://www.zhihu.com/search?q=国家新闻出版署认定 62 种图书不合格)
 1. [上海白蚁爆发](https://www.zhihu.com/search?q=上海白蚁爆发)
