@@ -14,18 +14,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jun 01 2022 16:14:21 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jun 01 2022 17:10:58 GMT+0800 (China Standard Time) -->
 
 1. [老乡鸡被曝强转千名员工劳务派遣](https://www.zhihu.com/search?q=老乡鸡被曝强转千名员工劳务派遣)
-1. [深圳楼市再现「日光盘」](https://www.zhihu.com/search?q=深圳楼市再现「日光盘」)
-1. [铁路客票预售期调整为 15 天](https://www.zhihu.com/search?q=铁路客票预售期调整为 15 天)
+1. [欧盟达成对俄禁油令](https://www.zhihu.com/search?q=欧盟达成对俄禁油令)
 1. [上海一便利店加价 5 毛被罚 3500 元](https://www.zhihu.com/search?q=上海一便利店加价 5 毛被罚 3500 元)
 1. [安徽亳州一初中生校内坠亡](https://www.zhihu.com/search?q=安徽亳州一初中生校内坠亡)
-1. [美国和加拿大多地出现甲肝病例](https://www.zhihu.com/search?q=美国和加拿大多地出现甲肝病例)
+1. [深圳楼市再现「日光盘」](https://www.zhihu.com/search?q=深圳楼市再现「日光盘」)
+1. [俄军攻入北顿涅茨克市中心](https://www.zhihu.com/search?q=俄军攻入北顿涅茨克市中心)
 1. [我国经济景气水平较 4 月份有所改善](https://www.zhihu.com/search?q=我国经济景气水平较 4 月份有所改善)
-1. [吉林四平两次以上未测核酸拘留罚款](https://www.zhihu.com/search?q=吉林四平两次以上未测核酸拘留罚款)
+1. [教育部成立调查组全面彻查教材插图问题](https://www.zhihu.com/search?q=教育部成立调查组全面彻查教材插图问题)
 1. [6 月 1 日起网剧正式拥有网标](https://www.zhihu.com/search?q=6 月 1 日起网剧正式拥有网标)
-1. [欧盟达成对俄禁油令](https://www.zhihu.com/search?q=欧盟达成对俄禁油令)
+1. [反诈老陈回应「连麦女主播时做不雅动作」](https://www.zhihu.com/search?q=反诈老陈回应「连麦女主播时做不雅动作」)
+1. [铁路客票预售期调整为 15 天](https://www.zhihu.com/search?q=铁路客票预售期调整为 15 天)
+1. [美国和加拿大多地出现甲肝病例](https://www.zhihu.com/search?q=美国和加拿大多地出现甲肝病例)
+1. [吉林四平两次以上未测核酸拘留罚款](https://www.zhihu.com/search?q=吉林四平两次以上未测核酸拘留罚款)
 1. [河南 3 人因蜱虫病病逝](https://www.zhihu.com/search?q=河南 3 人因蜱虫病病逝)
 1. [「蒙娜丽莎」画像被扔蛋糕](https://www.zhihu.com/search?q=「蒙娜丽莎」画像被扔蛋糕)
 1. [山姆促销员称 1 天只能去 2 次厕所](https://www.zhihu.com/search?q=山姆促销员称 1 天只能去 2 次厕所)
@@ -37,8 +40,6 @@
 1. [马斯克再夸中国](https://www.zhihu.com/search?q=马斯克再夸中国)
 1. [鱼丁糸拿回苏打绿商标权](https://www.zhihu.com/search?q=鱼丁糸拿回苏打绿商标权)
 1. [武汉一知名虾店被曝用黑油死虾](https://www.zhihu.com/search?q=武汉一知名虾店被曝用黑油死虾)
-1. [教育部成立调查组全面彻查教材插图问题](https://www.zhihu.com/search?q=教育部成立调查组全面彻查教材插图问题)
-1. [俄军攻入北顿涅茨克市中心](https://www.zhihu.com/search?q=俄军攻入北顿涅茨克市中心)
 1. [官方称要精准规范开展疫情防控消毒](https://www.zhihu.com/search?q=官方称要精准规范开展疫情防控消毒)
 1. [首例奥密克戎变异株 BA.5 输入上海](https://www.zhihu.com/search?q=首例奥密克戎变异株 BA.5 输入上海)
 1. [国家新闻出版署认定 62 种图书不合格](https://www.zhihu.com/search?q=国家新闻出版署认定 62 种图书不合格)
