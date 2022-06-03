@@ -2,14 +2,20 @@
   { "query": "端午安康", "display_query": "端午安康" },
   { "query": "北京已经转入动态清零阶段", "display_query": "北京已经转入动态清零阶段" },
   { "query": "NBA 总决赛", "display_query": "NBA 总决赛" },
-  { "query": "芦山县地震前减灾所提前 9 秒预警雅安", "display_query": "芦山县地震前减灾所提前 9 秒预警雅安" },
-  { "query": "卢布成全球表现最好货币", "display_query": "卢布成全球表现最好货币" },
-  { "query": "老师带网瘾少年去妈妈工地搬钢筋", "display_query": "老师带网瘾少年去妈妈工地搬钢筋" },
-  { "query": "俄乌冲突升级 100 天", "display_query": "俄乌冲突升级 100 天" },
+  { "query": "河南大学回应一学生在宿舍打 120 求救", "display_query": "河南大学回应一学生在宿舍打 120 求救" },
   { "query": "Bin 离队", "display_query": "Bin 离队" },
+  { "query": "芦山县地震前减灾所提前 9 秒预警雅安", "display_query": "芦山县地震前减灾所提前 9 秒预警雅安" },
+  {
+    "query": "神舟十三号航天员乘组在轨拍摄的 8k 高清影像「曝光」",
+    "display_query": "神舟十三号航天员乘组在轨拍摄的 8k 高清影像「曝光」"
+  },
+  { "query": "Uzi 离队", "display_query": "Uzi 离队" },
+  { "query": "爱彼迎开放房东一键迁移通道", "display_query": "爱彼迎开放房东一键迁移通道" },
+  { "query": "老师带网瘾少年去妈妈工地搬钢筋", "display_query": "老师带网瘾少年去妈妈工地搬钢筋" },
+  { "query": "卢布成全球表现最好货币", "display_query": "卢布成全球表现最好货币" },
+  { "query": "俄乌冲突升级 100 天", "display_query": "俄乌冲突升级 100 天" },
   { "query": "美团第一季度营收 462.7 亿元", "display_query": "美团第一季度营收 462.7 亿元" },
   { "query": "北京扩大阶段性缓缴三项社保费实施范围", "display_query": "北京扩大阶段性缓缴三项社保费实施范围" },
-  { "query": "Uzi 离队", "display_query": "Uzi 离队" },
   {
     "query": "芦山 6.1 级地震为 2013 年芦山 7.0 级地震余震",
     "display_query": "芦山 6.1 级地震为 2013 年芦山 7.0 级地震余震"
