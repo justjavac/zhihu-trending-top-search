@@ -14,26 +14,27 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jun 03 2022 22:07:15 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jun 03 2022 23:08:16 GMT+0800 (China Standard Time) -->
 
 1. [端午安康](https://www.zhihu.com/search?q=端午安康)
 1. [北京已经转入动态清零阶段](https://www.zhihu.com/search?q=北京已经转入动态清零阶段)
 1. [NBA 总决赛](https://www.zhihu.com/search?q=NBA 总决赛)
-1. [反诈老陈道歉](https://www.zhihu.com/search?q=反诈老陈道歉)
+1. [Uzi 离队](https://www.zhihu.com/search?q=Uzi 离队)
+1. [Bin 离队](https://www.zhihu.com/search?q=Bin 离队)
+1. [老师带网瘾少年去妈妈工地搬钢筋](https://www.zhihu.com/search?q=老师带网瘾少年去妈妈工地搬钢筋)
 1. [卢布成全球表现最好货币](https://www.zhihu.com/search?q=卢布成全球表现最好货币)
+1. [反诈老陈道歉](https://www.zhihu.com/search?q=反诈老陈道歉)
+1. [德普状告前妻诽谤案胜诉](https://www.zhihu.com/search?q=德普状告前妻诽谤案胜诉)
+1. [北京要求端午假期非必要不出京](https://www.zhihu.com/search?q=北京要求端午假期非必要不出京)
 1. [北京扩大阶段性缓缴三项社保费实施范围](https://www.zhihu.com/search?q=北京扩大阶段性缓缴三项社保费实施范围)
 1. [美国油价再创新高](https://www.zhihu.com/search?q=美国油价再创新高)
-1. [老师带网瘾少年去妈妈工地搬钢筋](https://www.zhihu.com/search?q=老师带网瘾少年去妈妈工地搬钢筋)
 1. [工信部要求企业做好稳定生产方案](https://www.zhihu.com/search?q=工信部要求企业做好稳定生产方案)
-1. [Uzi 离队](https://www.zhihu.com/search?q=Uzi 离队)
 1. [河南大学回应一学生在宿舍打 120 求救](https://www.zhihu.com/search?q=河南大学回应一学生在宿舍打 120 求救)
 1. [俄乌冲突升级 100 天](https://www.zhihu.com/search?q=俄乌冲突升级 100 天)
-1. [北京要求端午假期非必要不出京](https://www.zhihu.com/search?q=北京要求端午假期非必要不出京)
 1. [台湾新增本土确诊病例 76517 例](https://www.zhihu.com/search?q=台湾新增本土确诊病例 76517 例)
 1. [芦山 6.1 级地震为 2013 年芦山 7.0 级地震余震](https://www.zhihu.com/search?q=芦山 6.1 级地震为
    2013 年芦山 7.0 级地震余震)
 1. [美国一医院发生枪击案致 4 人死亡](https://www.zhihu.com/search?q=美国一医院发生枪击案致 4 人死亡)
-1. [Bin 离队](https://www.zhihu.com/search?q=Bin 离队)
 1. [芦山县地震前减灾所提前 9 秒预警雅安](https://www.zhihu.com/search?q=芦山县地震前减灾所提前 9 秒预警雅安)
 1. [神舟十三号航天员乘组在轨拍摄的 8k 高清影像「曝光」](https://www.zhihu.com/search?q=神舟十三号航天员乘组在轨拍摄的
    8k 高清影像「曝光」)
