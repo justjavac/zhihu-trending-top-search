@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jun 04 2022 18:07:40 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jun 04 2022 19:07:42 GMT+0800 (China Standard Time) -->
 
 1. [神十四出差三人组公开亮相](https://www.zhihu.com/search?q=神十四出差三人组公开亮相)
 1. [北京疫情整体进入扫尾阶段](https://www.zhihu.com/search?q=北京疫情整体进入扫尾阶段)
@@ -22,11 +22,13 @@
 1. [D2809 在贵州榕江站撞上泥石流脱线](https://www.zhihu.com/search?q=D2809 在贵州榕江站撞上泥石流脱线)
 1. [中国空间站将建成国家太空实验室](https://www.zhihu.com/search?q=中国空间站将建成国家太空实验室)
 1. [女孩自述被 3 人强奸案嫌疑人被批捕](https://www.zhihu.com/search?q=女孩自述被 3 人强奸案嫌疑人被批捕)
-1. [合肥城管回应执法人员开奥迪 A6 执法](https://www.zhihu.com/search?q=合肥城管回应执法人员开奥迪 A6 执法)
-1. [河南核酸采样屋设计遭吐槽](https://www.zhihu.com/search?q=河南核酸采样屋设计遭吐槽)
+1. [拜登称俄罗斯可远低于市场价出口石油](https://www.zhihu.com/search?q=拜登称俄罗斯可远低于市场价出口石油)
+1. [北京新增本土感染 12 例](https://www.zhihu.com/search?q=北京新增本土感染 12 例)
 1. [D2809 次列车值乘司机 5 秒钟内采取紧急制动](https://www.zhihu.com/search?q=D2809 次列车值乘司机 5
    秒钟内采取紧急制动)
-1. [北京新增本土感染 12 例](https://www.zhihu.com/search?q=北京新增本土感染 12 例)
+1. [欧盟正式批准第六轮对俄制裁](https://www.zhihu.com/search?q=欧盟正式批准第六轮对俄制裁)
+1. [合肥城管回应执法人员开奥迪 A6 执法](https://www.zhihu.com/search?q=合肥城管回应执法人员开奥迪 A6 执法)
+1. [河南核酸采样屋设计遭吐槽](https://www.zhihu.com/search?q=河南核酸采样屋设计遭吐槽)
 1. [北京已经转入动态清零阶段](https://www.zhihu.com/search?q=北京已经转入动态清零阶段)
 1. [英国女王登基 70 周年庆典开幕](https://www.zhihu.com/search?q=英国女王登基 70 周年庆典开幕)
 1. [湖南长沙一早餐店燃爆事故致 1 死 13 伤](https://www.zhihu.com/search?q=湖南长沙一早餐店燃爆事故致 1 死 13
@@ -37,7 +39,6 @@
 1. [北京扩大阶段性缓缴三项社保费实施范围](https://www.zhihu.com/search?q=北京扩大阶段性缓缴三项社保费实施范围)
 1. [8000 多 LV 拖鞋穿一个星期掉色](https://www.zhihu.com/search?q=8000 多 LV 拖鞋穿一个星期掉色)
 1. [国家卫健委表示「目前全国疫情防控形势持续向好」](https://www.zhihu.com/search?q=国家卫健委表示「目前全国疫情防控形势持续向好」)
-1. [欧盟正式批准第六轮对俄制裁](https://www.zhihu.com/search?q=欧盟正式批准第六轮对俄制裁)
 1. [工信部要求企业做好稳定生产方案](https://www.zhihu.com/search?q=工信部要求企业做好稳定生产方案)
 1. [爱彼迎开放房东一键迁移通道](https://www.zhihu.com/search?q=爱彼迎开放房东一键迁移通道)
 1. [NBA 总决赛](https://www.zhihu.com/search?q=NBA 总决赛)
