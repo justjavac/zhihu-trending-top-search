@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jun 04 2022 14:09:22 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jun 04 2022 15:07:58 GMT+0800 (China Standard Time) -->
 
 1. [北京已经转入动态清零阶段](https://www.zhihu.com/search?q=北京已经转入动态清零阶段)
 1. [神十四出差三人组公开亮相](https://www.zhihu.com/search?q=神十四出差三人组公开亮相)
@@ -22,17 +22,18 @@
 1. [D2809 在贵州榕江站撞上泥石流脱线](https://www.zhihu.com/search?q=D2809 在贵州榕江站撞上泥石流脱线)
 1. [中国空间站将建成国家太空实验室](https://www.zhihu.com/search?q=中国空间站将建成国家太空实验室)
 1. [国家卫健委表示「目前全国疫情防控形势持续向好」](https://www.zhihu.com/search?q=国家卫健委表示「目前全国疫情防控形势持续向好」)
+1. [东莞市警方通报「东城街道持刀伤人案」](https://www.zhihu.com/search?q=东莞市警方通报「东城街道持刀伤人案」)
 1. [美国油价再创新高](https://www.zhihu.com/search?q=美国油价再创新高)
+1. [欧盟正式批准第六轮对俄制裁](https://www.zhihu.com/search?q=欧盟正式批准第六轮对俄制裁)
+1. [北京扩大阶段性缓缴三项社保费实施范围](https://www.zhihu.com/search?q=北京扩大阶段性缓缴三项社保费实施范围)
 1. [工信部要求企业做好稳定生产方案](https://www.zhihu.com/search?q=工信部要求企业做好稳定生产方案)
 1. [爱彼迎开放房东一键迁移通道](https://www.zhihu.com/search?q=爱彼迎开放房东一键迁移通道)
-1. [东莞市警方通报「东城街道持刀伤人案」](https://www.zhihu.com/search?q=东莞市警方通报「东城街道持刀伤人案」)
 1. [NBA 总决赛](https://www.zhihu.com/search?q=NBA 总决赛)
 1. [二连浩特发现 4 例初筛阳性](https://www.zhihu.com/search?q=二连浩特发现 4 例初筛阳性)
 1. [美团第一季度营收 462.7 亿元](https://www.zhihu.com/search?q=美团第一季度营收 462.7 亿元)
 1. [英国女王登基 70 周年庆典开幕](https://www.zhihu.com/search?q=英国女王登基 70 周年庆典开幕)
 1. [神十四航天员陈冬刘洋蔡旭哲](https://www.zhihu.com/search?q=神十四航天员陈冬刘洋蔡旭哲)
 1. [	湖南凤凰古城遇强降雨](https://www.zhihu.com/search?q=	湖南凤凰古城遇强降雨)
-1. [北京扩大阶段性缓缴三项社保费实施范围](https://www.zhihu.com/search?q=北京扩大阶段性缓缴三项社保费实施范围)
 1. [马斯克要求员工每周至少在办公室待 40 小时](https://www.zhihu.com/search?q=马斯克要求员工每周至少在办公室待 40
    小时)
 1. [卢布成全球表现最好货币](https://www.zhihu.com/search?q=卢布成全球表现最好货币)
@@ -53,7 +54,6 @@
 1. [合肥城管回应执法人员开奥迪 A6 执法](https://www.zhihu.com/search?q=合肥城管回应执法人员开奥迪 A6 执法)
 1. [反诈老陈道歉](https://www.zhihu.com/search?q=反诈老陈道歉)
 1. [台湾新增本土确诊病例 76517 例](https://www.zhihu.com/search?q=台湾新增本土确诊病例 76517 例)
-1. [欧盟正式批准第六轮对俄制裁](https://www.zhihu.com/search?q=欧盟正式批准第六轮对俄制裁)
 1. [王明亮卸任知网法定代表人及董事长](https://www.zhihu.com/search?q=王明亮卸任知网法定代表人及董事长)
 
 <!-- END -->
