@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jun 04 2022 19:07:42 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jun 04 2022 20:12:14 GMT+0800 (China Standard Time) -->
 
 1. [神十四出差三人组公开亮相](https://www.zhihu.com/search?q=神十四出差三人组公开亮相)
 1. [北京疫情整体进入扫尾阶段](https://www.zhihu.com/search?q=北京疫情整体进入扫尾阶段)
@@ -22,8 +22,11 @@
 1. [D2809 在贵州榕江站撞上泥石流脱线](https://www.zhihu.com/search?q=D2809 在贵州榕江站撞上泥石流脱线)
 1. [中国空间站将建成国家太空实验室](https://www.zhihu.com/search?q=中国空间站将建成国家太空实验室)
 1. [女孩自述被 3 人强奸案嫌疑人被批捕](https://www.zhihu.com/search?q=女孩自述被 3 人强奸案嫌疑人被批捕)
-1. [拜登称俄罗斯可远低于市场价出口石油](https://www.zhihu.com/search?q=拜登称俄罗斯可远低于市场价出口石油)
 1. [北京新增本土感染 12 例](https://www.zhihu.com/search?q=北京新增本土感染 12 例)
+1. [北京发布多项措施统筹防疫和稳经济](https://www.zhihu.com/search?q=北京发布多项措施统筹防疫和稳经济)
+1. [天赐的声音 收官](https://www.zhihu.com/search?q=天赐的声音 收官)
+1. [英国女王因身体不适暂停参加庆祝活动](https://www.zhihu.com/search?q=英国女王因身体不适暂停参加庆祝活动)
+1. [拜登称俄罗斯可远低于市场价出口石油](https://www.zhihu.com/search?q=拜登称俄罗斯可远低于市场价出口石油)
 1. [D2809 次列车值乘司机 5 秒钟内采取紧急制动](https://www.zhihu.com/search?q=D2809 次列车值乘司机 5
    秒钟内采取紧急制动)
 1. [欧盟正式批准第六轮对俄制裁](https://www.zhihu.com/search?q=欧盟正式批准第六轮对俄制裁)
@@ -50,7 +53,6 @@
 1. [卢布成全球表现最好货币](https://www.zhihu.com/search?q=卢布成全球表现最好货币)
 1. [唱作人陈道明去世](https://www.zhihu.com/search?q=唱作人陈道明去世)
 1. [大数据显示咸粽子销量是甜粽子 4 倍](https://www.zhihu.com/search?q=大数据显示咸粽子销量是甜粽子 4 倍)
-1. [北京发布多项措施统筹防疫和稳经济](https://www.zhihu.com/search?q=北京发布多项措施统筹防疫和稳经济)
 1. [美国一医院发生枪击案致 4 人死亡](https://www.zhihu.com/search?q=美国一医院发生枪击案致 4 人死亡)
 1. [神舟十三号航天员乘组在轨拍摄的 8k 高清影像「曝光」](https://www.zhihu.com/search?q=神舟十三号航天员乘组在轨拍摄的
    8k 高清影像「曝光」)
