@@ -14,19 +14,23 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jun 07 2022 11:45:07 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jun 07 2022 12:17:16 GMT+0800 (China Standard Time) -->
 
+1. [河南大学脑出血死亡女孩父亲发声](https://www.zhihu.com/search?q=河南大学脑出血死亡女孩父亲发声)
 1. [郑州女大学生求救 120 未果去世案 5 人被处理](https://www.zhihu.com/search?q=郑州女大学生求救 120 未果去世案
    5 人被处理)
-1. [乌克兰基辅传出巨大爆炸声](https://www.zhihu.com/search?q=乌克兰基辅传出巨大爆炸声)
-1. [河南大学脑出血死亡女孩父亲发声](https://www.zhihu.com/search?q=河南大学脑出血死亡女孩父亲发声)
-1. [美国猴痘基因组惊现第二分支](https://www.zhihu.com/search?q=美国猴痘基因组惊现第二分支)
-1. [重庆拉响防空警报悼念「重庆大轰炸」遇难同胞](https://www.zhihu.com/search?q=重庆拉响防空警报悼念「重庆大轰炸」遇难同胞)
-1. [深圳宾利女车主回应称网传视频被剪辑](https://www.zhihu.com/search?q=深圳宾利女车主回应称网传视频被剪辑)
 1. [中国女排排名升至世界第二](https://www.zhihu.com/search?q=中国女排排名升至世界第二)
-1. [东南大学校庆匿名校友捐赠 3 亿元](https://www.zhihu.com/search?q=东南大学校庆匿名校友捐赠 3 亿元)
-1. [声生不息 第七期](https://www.zhihu.com/search?q=声生不息 第七期)
 1. [端午假期拍到了哪些美景](https://www.zhihu.com/search?q=端午假期拍到了哪些美景)
+1. [深圳宾利女车主回应称网传视频被剪辑](https://www.zhihu.com/search?q=深圳宾利女车主回应称网传视频被剪辑)
+1. [美国猴痘基因组惊现第二分支](https://www.zhihu.com/search?q=美国猴痘基因组惊现第二分支)
+1. [国务院发布《未成年人文身治理工作办法》](https://www.zhihu.com/search?q=国务院发布《未成年人文身治理工作办法》)
+1. [北京海淀转入常态化疫情防控](https://www.zhihu.com/search?q=北京海淀转入常态化疫情防控)
+1. [北京进入公共场所核酸阴性证明时效调整为 72
+   小时](https://www.zhihu.com/search?q=北京进入公共场所核酸阴性证明时效调整为 72 小时)
+1. [东南大学校庆匿名校友捐赠 3 亿元](https://www.zhihu.com/search?q=东南大学校庆匿名校友捐赠 3 亿元)
+1. [乌克兰基辅传出巨大爆炸声](https://www.zhihu.com/search?q=乌克兰基辅传出巨大爆炸声)
+1. [重庆拉响防空警报悼念「重庆大轰炸」遇难同胞](https://www.zhihu.com/search?q=重庆拉响防空警报悼念「重庆大轰炸」遇难同胞)
+1. [声生不息 第七期](https://www.zhihu.com/search?q=声生不息 第七期)
 1. [北京大部分餐饮单位开放堂食恢复正常上班](https://www.zhihu.com/search?q=北京大部分餐饮单位开放堂食恢复正常上班)
 1. [朝鲜发射不明弹道导弹](https://www.zhihu.com/search?q=朝鲜发射不明弹道导弹)
 1. [岸田文雄或成首位出席北约峰会的日本首相](https://www.zhihu.com/search?q=岸田文雄或成首位出席北约峰会的日本首相)
@@ -43,8 +47,6 @@
 1. [深圳国资委通报车位纠纷事件](https://www.zhihu.com/search?q=深圳国资委通报车位纠纷事件)
 1. [人类首次在地球以外发现多种氨基酸](https://www.zhihu.com/search?q=人类首次在地球以外发现多种氨基酸)
 1. [中国女排 2:3 不敌泰国队](https://www.zhihu.com/search?q=中国女排 2:3 不敌泰国队)
-1. [北京进入公共场所核酸阴性证明时效调整为 72
-   小时](https://www.zhihu.com/search?q=北京进入公共场所核酸阴性证明时效调整为 72 小时)
 1. [深振业董秘回应宾利门事件](https://www.zhihu.com/search?q=深振业董秘回应宾利门事件)
 
 <!-- END -->
