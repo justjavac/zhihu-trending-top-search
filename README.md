@@ -14,23 +14,26 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jun 10 2022 07:07:51 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jun 10 2022 08:44:02 GMT+0800 (China Standard Time) -->
 
 1. [空军一架歼 7 飞机失事造成民房受损](https://www.zhihu.com/search?q=空军一架歼 7 飞机失事造成民房受损)
-1. [泽连斯基签署制裁普京的总统令](https://www.zhihu.com/search?q=泽连斯基签署制裁普京的总统令)
-1. [河北多地疫情管理被指一刀切](https://www.zhihu.com/search?q=河北多地疫情管理被指一刀切)
-1. [中国外贸进出口总值同比增长 8.3%](https://www.zhihu.com/search?q=中国外贸进出口总值同比增长 8.3%)
-1. [27 所军队院校邀请高三学子加入](https://www.zhihu.com/search?q=27 所军队院校邀请高三学子加入)
 1. [油价 14 日将迎年内第 11 轮调整](https://www.zhihu.com/search?q=油价 14 日将迎年内第 11 轮调整)
+1. [泽连斯基签署制裁普京的总统令](https://www.zhihu.com/search?q=泽连斯基签署制裁普京的总统令)
+1. [中国天眼发现首例持续活跃重复快速射电暴](https://www.zhihu.com/search?q=中国天眼发现首例持续活跃重复快速射电暴)
+1. [北京朝阳暂停娱乐场所营业](https://www.zhihu.com/search?q=北京朝阳暂停娱乐场所营业)
+1. [河北多地疫情管理被指一刀切](https://www.zhihu.com/search?q=河北多地疫情管理被指一刀切)
+1. [小偷逃跑时溺亡家属索赔 158 万被驳回](https://www.zhihu.com/search?q=小偷逃跑时溺亡家属索赔 158 万被驳回)
+1. [中国外贸进出口总值同比增长 8.3%](https://www.zhihu.com/search?q=中国外贸进出口总值同比增长 8.3%)
+1. [NBA 总决赛绿军再胜勇士](https://www.zhihu.com/search?q=NBA 总决赛绿军再胜勇士)
+1. [避免盲目扩大范围开展全员筛查](https://www.zhihu.com/search?q=避免盲目扩大范围开展全员筛查)
+1. [27 所军队院校邀请高三学子加入](https://www.zhihu.com/search?q=27 所军队院校邀请高三学子加入)
 1. [京东将试点餐饮外卖业务](https://www.zhihu.com/search?q=京东将试点餐饮外卖业务)
 1. [2 岁男童与狗走失 8 天后狗独自归家](https://www.zhihu.com/search?q=2 岁男童与狗走失 8 天后狗独自归家)
 1. [让子弹飞](https://www.zhihu.com/search?q=让子弹飞)
 1. [男子举报中石化经理姐夫有不正当关系](https://www.zhihu.com/search?q=男子举报中石化经理姐夫有不正当关系)
 1. [拜登「美洲经济繁荣伙伴关系」](https://www.zhihu.com/search?q=拜登「美洲经济繁荣伙伴关系」)
 1. [临夏 12 岁女童性侵事件调查](https://www.zhihu.com/search?q=临夏 12 岁女童性侵事件调查)
-1. [北京朝阳暂停娱乐场所营业](https://www.zhihu.com/search?q=北京朝阳暂停娱乐场所营业)
 1. [胡海泉奶茶品牌偷税被罚](https://www.zhihu.com/search?q=胡海泉奶茶品牌偷税被罚)
-1. [中国天眼发现首例持续活跃重复快速射电暴](https://www.zhihu.com/search?q=中国天眼发现首例持续活跃重复快速射电暴)
 
 <!-- END -->
 
