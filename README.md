@@ -14,17 +14,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jun 15 2022 15:08:04 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jun 15 2022 16:10:32 GMT+0800 (China Standard Time) -->
 
 1. [唐山称打人事件给这座英雄的城市抹了黑](https://www.zhihu.com/search?q=唐山称打人事件给这座英雄的城市抹了黑)
 1. [警方通报河南女子举报父亲遭警察殴打致死](https://www.zhihu.com/search?q=警方通报河南女子举报父亲遭警察殴打致死)
-1. [中国天眼发现地外文明可疑信号](https://www.zhihu.com/search?q=中国天眼发现地外文明可疑信号)
-1. [河南卫健委调查储户被赋红码](https://www.zhihu.com/search?q=河南卫健委调查储户被赋红码)
 1. [5 月全国城镇调查失业率为 5.9 %](https://www.zhihu.com/search?q=5 月全国城镇调查失业率为 5.9 %)
-1. [云南文山 2 岁失踪男童已遇难](https://www.zhihu.com/search?q=云南文山 2 岁失踪男童已遇难)
-1. [微软 IE 浏览器正式退役](https://www.zhihu.com/search?q=微软 IE 浏览器正式退役)
+1. [河南卫健委调查储户被赋红码](https://www.zhihu.com/search?q=河南卫健委调查储户被赋红码)
 1. [海贼王巴基成为新四皇](https://www.zhihu.com/search?q=海贼王巴基成为新四皇)
 1. [三星堆发现着裙立发人像](https://www.zhihu.com/search?q=三星堆发现着裙立发人像)
+1. [中国天眼发现地外文明可疑信号](https://www.zhihu.com/search?q=中国天眼发现地外文明可疑信号)
+1. [微软 IE 浏览器正式退役](https://www.zhihu.com/search?q=微软 IE 浏览器正式退役)
+1. [唐山公安局回应是否增设接待窗口](https://www.zhihu.com/search?q=唐山公安局回应是否增设接待窗口)
+1. [云南文山 2 岁失踪男童已遇难](https://www.zhihu.com/search?q=云南文山 2 岁失踪男童已遇难)
 1. [江苏无锡一幢两层楼民房发生坍塌](https://www.zhihu.com/search?q=江苏无锡一幢两层楼民房发生坍塌)
 1. [四川阿坝州马尔康市发生 4.4 级地震](https://www.zhihu.com/search?q=四川阿坝州马尔康市发生 4.4 级地震)
 1. [唐山公布「雷霆风暴」整治行动举报方式](https://www.zhihu.com/search?q=唐山公布「雷霆风暴」整治行动举报方式)
