@@ -14,21 +14,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jun 15 2022 22:07:24 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jun 15 2022 23:08:14 GMT+0800 (China Standard Time) -->
 
-1. [校车司机多次猥亵多名女童被判六年](https://www.zhihu.com/search?q=校车司机多次猥亵多名女童被判六年)
-1. [警方通报河南女子举报父亲遭警察殴打致死](https://www.zhihu.com/search?q=警方通报河南女子举报父亲遭警察殴打致死)
-1. [中国天眼发现地外文明可疑信号](https://www.zhihu.com/search?q=中国天眼发现地外文明可疑信号)
-1. [陕西高考前失联女孩已去世](https://www.zhihu.com/search?q=陕西高考前失联女孩已去世)
-1. [江苏无锡一幢两层楼民房发生坍塌](https://www.zhihu.com/search?q=江苏无锡一幢两层楼民房发生坍塌)
-1. [海贼王巴基成为新四皇](https://www.zhihu.com/search?q=海贼王巴基成为新四皇)
 1. [勇士击败凯尔特人夺得冠军点](https://www.zhihu.com/search?q=勇士击败凯尔特人夺得冠军点)
-1. [5 月全国城镇调查失业率为 5.9 %](https://www.zhihu.com/search?q=5 月全国城镇调查失业率为 5.9 %)
+1. [中国天眼发现地外文明可疑信号](https://www.zhihu.com/search?q=中国天眼发现地外文明可疑信号)
+1. [河南卫健委调查储户被赋红码](https://www.zhihu.com/search?q=河南卫健委调查储户被赋红码)
+1. [警方通报河南女子举报父亲遭警察殴打致死](https://www.zhihu.com/search?q=警方通报河南女子举报父亲遭警察殴打致死)
+1. [海贼王巴基成为新四皇](https://www.zhihu.com/search?q=海贼王巴基成为新四皇)
+1. [江苏无锡一幢两层楼民房发生坍塌](https://www.zhihu.com/search?q=江苏无锡一幢两层楼民房发生坍塌)
+1. [男子因生僻姓氏做核酸不出结果](https://www.zhihu.com/search?q=男子因生僻姓氏做核酸不出结果)
+1. [微软 IE 浏览器正式退役](https://www.zhihu.com/search?q=微软 IE 浏览器正式退役)
+1. [陕西高考前失联女孩已去世](https://www.zhihu.com/search?q=陕西高考前失联女孩已去世)
 1. [国家卫健委印发猴痘诊疗指南](https://www.zhihu.com/search?q=国家卫健委印发猴痘诊疗指南)
+1. [校车司机多次猥亵多名女童被判六年](https://www.zhihu.com/search?q=校车司机多次猥亵多名女童被判六年)
+1. [5 月全国城镇调查失业率为 5.9 %](https://www.zhihu.com/search?q=5 月全国城镇调查失业率为 5.9 %)
 1. [脱口秀专场 王勉](https://www.zhihu.com/search?q=脱口秀专场 王勉)
 1. [郑恺 900 万股权被冻结](https://www.zhihu.com/search?q=郑恺 900 万股权被冻结)
-1. [河南卫健委调查储户被赋红码](https://www.zhihu.com/search?q=河南卫健委调查储户被赋红码)
-1. [微软 IE 浏览器正式退役](https://www.zhihu.com/search?q=微软 IE 浏览器正式退役)
 1. [女孩嘴含夹竹桃拍照后中毒送医](https://www.zhihu.com/search?q=女孩嘴含夹竹桃拍照后中毒送医)
 1. [唐山公安局回应是否增设接待窗口](https://www.zhihu.com/search?q=唐山公安局回应是否增设接待窗口)
 1. [榆林一女孩高考前失联](https://www.zhihu.com/search?q=榆林一女孩高考前失联)
