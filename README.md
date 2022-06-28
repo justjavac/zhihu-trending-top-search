@@ -14,25 +14,26 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jun 28 2022 07:07:50 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jun 28 2022 08:44:24 GMT+0800 (China Standard Time) -->
 
 1. [德云社艺人陈某被刑拘](https://www.zhihu.com/search?q=德云社艺人陈某被刑拘)
-1. [不得以任何理由对货车进行强制劝返](https://www.zhihu.com/search?q=不得以任何理由对货车进行强制劝返)
-1. [宋丹丹回应桃花坞争议](https://www.zhihu.com/search?q=宋丹丹回应桃花坞争议)
-1. [中国恒大接获香港清盘呈请](https://www.zhihu.com/search?q=中国恒大接获香港清盘呈请)
 1. [上海飞三亚爆满航司换大飞机](https://www.zhihu.com/search?q=上海飞三亚爆满航司换大飞机)
-1. [开封新东方村镇银行突然开通线上交易](https://www.zhihu.com/search?q=开封新东方村镇银行突然开通线上交易)
-1. [说英雄 大结局](https://www.zhihu.com/search?q=说英雄 大结局)
-1. [任泽平否认为 1500 万年薪加入恒大](https://www.zhihu.com/search?q=任泽平否认为 1500 万年薪加入恒大)
-1. [薇娅丈夫公司违反广告法被罚 19 万](https://www.zhihu.com/search?q=薇娅丈夫公司违反广告法被罚 19 万)
 1. [iPhone 14 将继续用 Lightning 接口](https://www.zhihu.com/search?q=iPhone 14 将继续用
    Lightning 接口)
+1. [中国恒大接获香港清盘呈请](https://www.zhihu.com/search?q=中国恒大接获香港清盘呈请)
+1. [拜登宣布 G7 全球基建计划](https://www.zhihu.com/search?q=拜登宣布 G7 全球基建计划)
+1. [演员李崇霄去世](https://www.zhihu.com/search?q=演员李崇霄去世)
+1. [不得以任何理由对货车进行强制劝返](https://www.zhihu.com/search?q=不得以任何理由对货车进行强制劝返)
+1. [任泽平否认为 1500 万年薪加入恒大](https://www.zhihu.com/search?q=任泽平否认为 1500 万年薪加入恒大)
+1. [说英雄 大结局](https://www.zhihu.com/search?q=说英雄 大结局)
+1. [陈芋汐全红婵包揽十米台金银牌](https://www.zhihu.com/search?q=陈芋汐全红婵包揽十米台金银牌)
+1. [宋丹丹回应桃花坞争议](https://www.zhihu.com/search?q=宋丹丹回应桃花坞争议)
+1. [开封新东方村镇银行突然开通线上交易](https://www.zhihu.com/search?q=开封新东方村镇银行突然开通线上交易)
+1. [薇娅丈夫公司违反广告法被罚 19 万](https://www.zhihu.com/search?q=薇娅丈夫公司违反广告法被罚 19 万)
 1. [北约将宣布俄方不再是北约的伙伴](https://www.zhihu.com/search?q=北约将宣布俄方不再是北约的伙伴)
 1. [腾讯回应 QQ 大规模盗号](https://www.zhihu.com/search?q=腾讯回应 QQ 大规模盗号)
 1. [强制婚检还是自愿婚检](https://www.zhihu.com/search?q=强制婚检还是自愿婚检)
 1. [宝洁发布侮辱女性广告维权进展公布](https://www.zhihu.com/search?q=宝洁发布侮辱女性广告维权进展公布)
-1. [演员李崇霄去世](https://www.zhihu.com/search?q=演员李崇霄去世)
-1. [拜登宣布 G7 全球基建计划](https://www.zhihu.com/search?q=拜登宣布 G7 全球基建计划)
 1. [江苏 3 姐弟 2 人清华 1 人 211](https://www.zhihu.com/search?q=江苏 3 姐弟 2 人清华 1 人 211)
 1. [2022 环法自行车赛即将开赛](https://www.zhihu.com/search?q=2022 环法自行车赛即将开赛)
 1. [四川高考将不再分文理科](https://www.zhihu.com/search?q=四川高考将不再分文理科)
