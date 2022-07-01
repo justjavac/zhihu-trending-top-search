@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jul 02 2022 06:07:30 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jul 02 2022 07:07:30 GMT+0800 (China Standard Time) -->
 
 1. [黑袍纠察队](https://www.zhihu.com/search?q=黑袍纠察队)
 1. [2022 年下半年第一天](https://www.zhihu.com/search?q=2022 年下半年第一天)
