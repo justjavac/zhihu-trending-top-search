@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jul 02 2022 14:10:33 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jul 02 2022 15:07:24 GMT+0800 (China Standard Time) -->
 
 1. [网易旗下卡牌游戏被曝抄袭独立游戏](https://www.zhihu.com/search?q=网易旗下卡牌游戏被曝抄袭独立游戏)
 1. [耳其总统警告芬兰瑞典](https://www.zhihu.com/search?q=耳其总统警告芬兰瑞典)
