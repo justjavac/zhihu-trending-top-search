@@ -14,10 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jul 02 2022 22:06:56 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jul 02 2022 23:07:35 GMT+0800 (China Standard Time) -->
 
 1. [开播情景喜剧](https://www.zhihu.com/search?q=开播情景喜剧)
-1. [航空工业发布军民机命名规则](https://www.zhihu.com/search?q=航空工业发布军民机命名规则)
 1. [某实验室正式揭牌成立](https://www.zhihu.com/search?q=某实验室正式揭牌成立)
 1. [温州海域现 200 多条海豚嬉戏](https://www.zhihu.com/search?q=温州海域现 200 多条海豚嬉戏)
 1. [无锡发现 39 名阳性人员](https://www.zhihu.com/search?q=无锡发现 39 名阳性人员)
@@ -26,6 +25,8 @@
 1. [四川警方通报 5 名未成年人遭性侵案](https://www.zhihu.com/search?q=四川警方通报 5 名未成年人遭性侵案)
 1. [媒体：健康码全国互认不能再等了](https://www.zhihu.com/search?q=媒体：健康码全国互认不能再等了)
 1. [小鹏 P7 出事故安全气囊没有弹出](https://www.zhihu.com/search?q=小鹏 P7 出事故安全气囊没有弹出)
+1. [全红婵正式落户广州](https://www.zhihu.com/search?q=全红婵正式落户广州)
+1. [航空工业发布军民机命名规则](https://www.zhihu.com/search?q=航空工业发布军民机命名规则)
 1. [奔跑吧](https://www.zhihu.com/search?q=奔跑吧)
 1. [梦华录](https://www.zhihu.com/search?q=梦华录)
 1. [向往的生活](https://www.zhihu.com/search?q=向往的生活)

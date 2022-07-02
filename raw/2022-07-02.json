@@ -1,6 +1,5 @@
 [
   { "query": "开播情景喜剧", "display_query": "开播情景喜剧" },
-  { "query": "航空工业发布军民机命名规则", "display_query": "航空工业发布军民机命名规则" },
   { "query": "某实验室正式揭牌成立", "display_query": "某实验室正式揭牌成立" },
   { "query": "温州海域现 200 多条海豚嬉戏", "display_query": "温州海域现 200 多条海豚嬉戏" },
   { "query": "无锡发现 39 名阳性人员", "display_query": "无锡发现 39 名阳性人员" },
@@ -9,6 +8,8 @@
   { "query": "四川警方通报 5 名未成年人遭性侵案", "display_query": "四川警方通报 5 名未成年人遭性侵案" },
   { "query": "媒体：健康码全国互认不能再等了", "display_query": "媒体：健康码全国互认不能再等了" },
   { "query": "小鹏 P7 出事故安全气囊没有弹出", "display_query": "小鹏 P7 出事故安全气囊没有弹出" },
+  { "query": "全红婵正式落户广州", "display_query": "全红婵正式落户广州" },
+  { "query": "航空工业发布军民机命名规则", "display_query": "航空工业发布军民机命名规则" },
   { "query": "奔跑吧", "display_query": "奔跑吧" },
   { "query": "梦华录", "display_query": "梦华录" },
   { "query": "向往的生活", "display_query": "向往的生活" },
