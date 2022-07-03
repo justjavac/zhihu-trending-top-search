@@ -1,8 +1,6 @@
 [
   { "query": "北京暴雨", "display_query": "北京暴雨" },
   { "query": "开播情景喜剧", "display_query": "开播情景喜剧" },
-  { "query": "中国跳水梦之队已包揽 10 金", "display_query": "中国跳水梦之队已包揽 10 金" },
-  { "query": "7 成美国人反对拜登连任总统", "display_query": "7 成美国人反对拜登连任总统" },
   { "query": "游戏崩坏三疑似加入男武神", "display_query": "游戏崩坏三疑似加入男武神" },
   {
     "query": "专家：Covid-19 可能起源于美国生物实验室",
@@ -12,6 +10,10 @@
   { "query": "第 33 届金曲奖", "display_query": "第 33 届金曲奖" },
   { "query": "中国说唱巅峰对决", "display_query": "中国说唱巅峰对决" },
   { "query": "钟薛高雪糕 31℃ 放 1 小时不化", "display_query": "钟薛高雪糕 31℃ 放 1 小时不化" },
+  { "query": "美国一母亲长期喂婴儿果蔬致其饿死", "display_query": "美国一母亲长期喂婴儿果蔬致其饿死" },
+  { "query": "福景 001 轮沉没 27 人落水失联", "display_query": "福景 001 轮沉没 27 人落水失联" },
+  { "query": "中国跳水梦之队已包揽 10 金", "display_query": "中国跳水梦之队已包揽 10 金" },
+  { "query": "7 成美国人反对拜登连任总统", "display_query": "7 成美国人反对拜登连任总统" },
   { "query": "演员刘伯勋因心梗去世", "display_query": "演员刘伯勋因心梗去世" },
   { "query": "台风「暹芭」登陆广东电白", "display_query": "台风「暹芭」登陆广东电白" },
   { "query": "全红婵正式落户广州", "display_query": "全红婵正式落户广州" },
