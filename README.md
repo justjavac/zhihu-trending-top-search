@@ -14,11 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jul 03 2022 12:19:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jul 03 2022 13:07:48 GMT+0800 (China Standard Time) -->
 
 1. [北京暴雨](https://www.zhihu.com/search?q=北京暴雨)
 1. [开播情景喜剧](https://www.zhihu.com/search?q=开播情景喜剧)
-1. [小鹏 P7 出事故安全气囊没有弹出](https://www.zhihu.com/search?q=小鹏 P7 出事故安全气囊没有弹出)
 1. [全红婵正式落户广州](https://www.zhihu.com/search?q=全红婵正式落户广州)
 1. [演员刘伯勋因心梗去世](https://www.zhihu.com/search?q=演员刘伯勋因心梗去世)
 1. [台风「暹芭」登陆广东电白](https://www.zhihu.com/search?q=台风「暹芭」登陆广东电白)
@@ -27,6 +26,8 @@
 1. [游戏崩坏三疑似加入男武神](https://www.zhihu.com/search?q=游戏崩坏三疑似加入男武神)
 1. [专家：Covid-19 可能起源于美国生物实验室](https://www.zhihu.com/search?q=专家：Covid-19
    可能起源于美国生物实验室)
+1. [朱婷加盟意大利斯坎迪奇俱乐部](https://www.zhihu.com/search?q=朱婷加盟意大利斯坎迪奇俱乐部)
+1. [小鹏 P7 出事故安全气囊没有弹出](https://www.zhihu.com/search?q=小鹏 P7 出事故安全气囊没有弹出)
 1. [行程码带星后多城出现了替代方案](https://www.zhihu.com/search?q=行程码带星后多城出现了替代方案)
 1. [四川警方通报 5 名未成年人遭性侵案](https://www.zhihu.com/search?q=四川警方通报 5 名未成年人遭性侵案)
 1. [媒体：健康码全国互认不能再等了](https://www.zhihu.com/search?q=媒体：健康码全国互认不能再等了)
