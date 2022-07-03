@@ -14,11 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jul 03 2022 08:44:45 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jul 03 2022 11:02:41 GMT+0800 (China Standard Time) -->
 
+1. [北京暴雨](https://www.zhihu.com/search?q=北京暴雨)
 1. [开播情景喜剧](https://www.zhihu.com/search?q=开播情景喜剧)
-1. [无锡发现 39 名阳性人员](https://www.zhihu.com/search?q=无锡发现 39 名阳性人员)
-1. [妈妈辅导作业被气到痉挛手成鸡爪](https://www.zhihu.com/search?q=妈妈辅导作业被气到痉挛手成鸡爪)
 1. [行程码带星后多城出现了替代方案](https://www.zhihu.com/search?q=行程码带星后多城出现了替代方案)
 1. [四川警方通报 5 名未成年人遭性侵案](https://www.zhihu.com/search?q=四川警方通报 5 名未成年人遭性侵案)
 1. [媒体：健康码全国互认不能再等了](https://www.zhihu.com/search?q=媒体：健康码全国互认不能再等了)
@@ -26,6 +25,9 @@
 1. [全红婵正式落户广州](https://www.zhihu.com/search?q=全红婵正式落户广州)
 1. [演员刘伯勋因心梗去世](https://www.zhihu.com/search?q=演员刘伯勋因心梗去世)
 1. [台风「暹芭」登陆广东电白](https://www.zhihu.com/search?q=台风「暹芭」登陆广东电白)
+1. [中国跳水梦之队已包揽 10 金](https://www.zhihu.com/search?q=中国跳水梦之队已包揽 10 金)
+1. [无锡发现 39 名阳性人员](https://www.zhihu.com/search?q=无锡发现 39 名阳性人员)
+1. [妈妈辅导作业被气到痉挛手成鸡爪](https://www.zhihu.com/search?q=妈妈辅导作业被气到痉挛手成鸡爪)
 1. [温州海域现 200 多条海豚嬉戏](https://www.zhihu.com/search?q=温州海域现 200 多条海豚嬉戏)
 
 <!-- END -->
