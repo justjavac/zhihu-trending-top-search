@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jul 04 2022 15:10:49 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jul 04 2022 16:10:56 GMT+0800 (China Standard Time) -->
 
 1. [北京健康宝继续优化核酸天数规则](https://www.zhihu.com/search?q=北京健康宝继续优化核酸天数规则)
 1. [石家庄暂停每周一次的常态化核酸](https://www.zhihu.com/search?q=石家庄暂停每周一次的常态化核酸)
