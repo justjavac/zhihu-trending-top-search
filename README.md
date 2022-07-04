@@ -14,9 +14,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jul 04 2022 22:11:58 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jul 04 2022 23:08:04 GMT+0800 (China Standard Time) -->
 
-1. [石家庄一牌楼顶冠坠落致 8 死 1 伤](https://www.zhihu.com/search?q=石家庄一牌楼顶冠坠落致 8 死 1 伤)
 1. [英国单方面修改北爱议定书](https://www.zhihu.com/search?q=英国单方面修改北爱议定书)
 1. [世茂集团 10 亿美元公募债券违约](https://www.zhihu.com/search?q=世茂集团 10 亿美元公募债券违约)
 1. [PDD 直播唱歌被起诉](https://www.zhihu.com/search?q=PDD 直播唱歌被起诉)
@@ -26,6 +25,8 @@
 1. [俄官员称谢韦尔斯克之战已经打响](https://www.zhihu.com/search?q=俄官员称谢韦尔斯克之战已经打响)
 1. [上海发生持刀伤人事件](https://www.zhihu.com/search?q=上海发生持刀伤人事件)
 1. [袁冰妍工作室回应偷漏税并道歉](https://www.zhihu.com/search?q=袁冰妍工作室回应偷漏税并道歉)
+1. [广东沉船海域附近已打捞起 12 具遗体](https://www.zhihu.com/search?q=广东沉船海域附近已打捞起 12 具遗体)
+1. [石家庄一牌楼顶冠坠落致 8 死 1 伤](https://www.zhihu.com/search?q=石家庄一牌楼顶冠坠落致 8 死 1 伤)
 1. [安徽泗县新增 13 个高风险区](https://www.zhihu.com/search?q=安徽泗县新增 13 个高风险区)
 1. [警方通报男子编造有关南京银行谣言](https://www.zhihu.com/search?q=警方通报男子编造有关南京银行谣言)
 1. [中国女排 3 比 1 战胜韩国女排](https://www.zhihu.com/search?q=中国女排 3 比 1 战胜韩国女排)
