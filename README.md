@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jul 05 2022 17:08:01 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jul 05 2022 18:08:51 GMT+0800 (China Standard Time) -->
 
 1. [河南漯河发生车祸致 1 死 5 伤](https://www.zhihu.com/search?q=河南漯河发生车祸致 1 死 5 伤)
 1. [央视曝部分儿童厨具暗藏隐患](https://www.zhihu.com/search?q=央视曝部分儿童厨具暗藏隐患)
