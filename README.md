@@ -14,9 +14,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jul 06 2022 22:13:02 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jul 06 2022 23:13:21 GMT+0800 (China Standard Time) -->
 
-1. [湖州法华寺社招朝九晚五月薪上万](https://www.zhihu.com/search?q=湖州法华寺社招朝九晚五月薪上万)
 1. [唐山房价跌入谷底](https://www.zhihu.com/search?q=唐山房价跌入谷底)
 1. [王毅将同美国国务卿布林肯举行会晤](https://www.zhihu.com/search?q=王毅将同美国国务卿布林肯举行会晤)
 1. [WTI 原油跌破 100 美元/桶](https://www.zhihu.com/search?q=WTI 原油跌破 100 美元/桶)
@@ -26,6 +25,8 @@
 1. [周杰伦最伟大的作品先行曲](https://www.zhihu.com/search?q=周杰伦最伟大的作品先行曲)
 1. [唐山等地实行一人购房全家帮](https://www.zhihu.com/search?q=唐山等地实行一人购房全家帮)
 1. [国产空天飞行器「飞天一号」首飞成功](https://www.zhihu.com/search?q=国产空天飞行器「飞天一号」首飞成功)
+1. [沈阳一学生读书 3 年无缘高考](https://www.zhihu.com/search?q=沈阳一学生读书 3 年无缘高考)
+1. [湖州法华寺社招朝九晚五月薪上万](https://www.zhihu.com/search?q=湖州法华寺社招朝九晚五月薪上万)
 1. [江苏太仓一观光机坠毁 2 人伤亡不明](https://www.zhihu.com/search?q=江苏太仓一观光机坠毁 2 人伤亡不明)
 1. [央行公开市场逆回购单日操作规模降至 30 亿元](https://www.zhihu.com/search?q=央行公开市场逆回购单日操作规模降至 30
    亿元)
