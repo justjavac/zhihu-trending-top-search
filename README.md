@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jul 06 2022 12:38:40 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jul 06 2022 13:20:20 GMT+0800 (China Standard Time) -->
 
 1. [河南 4 家村镇银行同日更换高管](https://www.zhihu.com/search?q=河南 4 家村镇银行同日更换高管)
 1. [微信内测一个手机可注册俩号](https://www.zhihu.com/search?q=微信内测一个手机可注册俩号)
