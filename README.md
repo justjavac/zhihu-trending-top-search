@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jul 08 2022 06:08:53 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jul 08 2022 07:08:44 GMT+0800 (China Standard Time) -->
 
 1. [今日中国再不是 1937 的中国](https://www.zhihu.com/search?q=今日中国再不是 1937 的中国)
 1. [南京女大学生被害案一审宣判](https://www.zhihu.com/search?q=南京女大学生被害案一审宣判)
