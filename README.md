@@ -14,9 +14,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jul 07 2022 19:07:42 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jul 07 2022 20:17:05 GMT+0800 (China Standard Time) -->
 
-1. [网传北京十渡风景区一小型飞机坠毁](https://www.zhihu.com/search?q=网传北京十渡风景区一小型飞机坠毁)
 1. [中国男篮出访队伍中多人核酸阳性](https://www.zhihu.com/search?q=中国男篮出访队伍中多人核酸阳性)
 1. [美联储会议纪要即将来袭](https://www.zhihu.com/search?q=美联储会议纪要即将来袭)
 1. [斯里兰卡总理称国家已破产](https://www.zhihu.com/search?q=斯里兰卡总理称国家已破产)
@@ -27,6 +26,8 @@
 1. [南京女大学生被害案一审宣判](https://www.zhihu.com/search?q=南京女大学生被害案一审宣判)
 1. [一拳超人 212 话](https://www.zhihu.com/search?q=一拳超人 212 话)
 1. [马斯克与女高管生下双胞胎](https://www.zhihu.com/search?q=马斯克与女高管生下双胞胎)
+1. [游戏王作者去世](https://www.zhihu.com/search?q=游戏王作者去世)
+1. [网传北京十渡风景区一小型飞机坠毁](https://www.zhihu.com/search?q=网传北京十渡风景区一小型飞机坠毁)
 1. [拼多多回应店铺「血腥夸张宣传事件」](https://www.zhihu.com/search?q=拼多多回应店铺「血腥夸张宣传事件」)
 1. [美国至少 23 人感染李斯特菌](https://www.zhihu.com/search?q=美国至少 23 人感染李斯特菌)
 1. [易烊千玺等演员将入职中国国家话剧院](https://www.zhihu.com/search?q=易烊千玺等演员将入职中国国家话剧院)
