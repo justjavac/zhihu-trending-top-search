@@ -1,6 +1,5 @@
 [
   { "query": "安倍晋三去世", "display_query": "安倍晋三去世" },
-  { "query": "英国首相约翰逊发表辞职声明", "display_query": "英国首相约翰逊发表辞职声明" },
   { "query": "奥密克戎新分支 BA.5 或提高重症率", "display_query": "奥密克戎新分支 BA.5 或提高重症率" },
   { "query": "欧洲大型强子对撞机开启新运行", "display_query": "欧洲大型强子对撞机开启新运行" },
   { "query": "哈根达斯回应被查出一类致癌物", "display_query": "哈根达斯回应被查出一类致癌物" },
@@ -9,6 +8,8 @@
   { "query": "全球唯一新冠预防药将在海南使用", "display_query": "全球唯一新冠预防药将在海南使用" },
   { "query": "进北京公共场所无需查疫苗", "display_query": "进北京公共场所无需查疫苗" },
   { "query": "通信行程卡查询时间调整为 7 天", "display_query": "通信行程卡查询时间调整为 7 天" },
+  { "query": "河南储户又赋红码", "display_query": "河南储户又赋红码" },
+  { "query": "英国首相约翰逊发表辞职声明", "display_query": "英国首相约翰逊发表辞职声明" },
   { "query": "安倍晋三无生命体征", "display_query": "安倍晋三无生命体征" },
   { "query": "安倍晋三", "display_query": "安倍晋三" },
   { "query": "安倍晋三被枪击", "display_query": "安倍晋三被枪击" },
