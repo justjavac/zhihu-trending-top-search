@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jul 09 2022 16:09:45 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jul 09 2022 17:07:53 GMT+0800 (China Standard Time) -->
 
 1. [向往的生活](https://www.zhihu.com/search?q=向往的生活)
 1. [2022 年上海高考英语](https://www.zhihu.com/search?q=2022 年上海高考英语)
@@ -26,6 +26,7 @@
 1. [2022 省考](https://www.zhihu.com/search?q=2022 省考)
 1. [上海一男子持刀伤人](https://www.zhihu.com/search?q=上海一男子持刀伤人)
 1. [晶体学家范海福逝](https://www.zhihu.com/search?q=晶体学家范海福逝)
+1. [斯里兰卡示威者冲入总统官邸](https://www.zhihu.com/search?q=斯里兰卡示威者冲入总统官邸)
 1. [奥密克戎 BA.5 亚分支正全球流行](https://www.zhihu.com/search?q=奥密克戎 BA.5 亚分支正全球流行)
 1. [闪光投行季工作揽责](https://www.zhihu.com/search?q=闪光投行季工作揽责)
 1. [浪姐 3](https://www.zhihu.com/search?q=浪姐 3)
