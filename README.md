@@ -14,9 +14,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jul 09 2022 22:07:06 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jul 09 2022 23:08:34 GMT+0800 (China Standard Time) -->
 
-1. [向往的生活](https://www.zhihu.com/search?q=向往的生活)
 1. [我国 6 月 CPI 数据](https://www.zhihu.com/search?q=我国 6 月 CPI 数据)
 1. [中美外长会晤](https://www.zhihu.com/search?q=中美外长会晤)
 1. [马斯克终止收购推特](https://www.zhihu.com/search?q=马斯克终止收购推特)
@@ -26,6 +25,8 @@
 1. [斯里兰卡示威者冲入总统官邸](https://www.zhihu.com/search?q=斯里兰卡示威者冲入总统官邸)
 1. [海口 7 天临时管控](https://www.zhihu.com/search?q=海口 7 天临时管控)
 1. [日本 2021 年仅有 1 人死于枪击](https://www.zhihu.com/search?q=日本 2021 年仅有 1 人死于枪击)
+1. [29 岁男子长期久坐打游戏患血栓](https://www.zhihu.com/search?q=29 岁男子长期久坐打游戏患血栓)
+1. [向往的生活](https://www.zhihu.com/search?q=向往的生活)
 1. [北京社会面核检系统 9 日 21 时暂停服务](https://www.zhihu.com/search?q=北京社会面核检系统 9 日 21
    时暂停服务)
 1. [2022 年上海高考英语](https://www.zhihu.com/search?q=2022 年上海高考英语)
