@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jul 09 2022 12:13:44 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jul 09 2022 13:06:58 GMT+0800 (China Standard Time) -->
 
 1. [向往的生活](https://www.zhihu.com/search?q=向往的生活)
 1. [奥密克戎 BA.5 亚分支正全球流行](https://www.zhihu.com/search?q=奥密克戎 BA.5 亚分支正全球流行)
@@ -24,9 +24,11 @@
 1. [2022 年上海高考英语](https://www.zhihu.com/search?q=2022 年上海高考英语)
 1. [北京社会面核检系统 9 日 21 时暂停服务](https://www.zhihu.com/search?q=北京社会面核检系统 9 日 21
    时暂停服务)
+1. [我国 6 月 CPI 数据](https://www.zhihu.com/search?q=我国 6 月 CPI 数据)
+1. [中美外长会晤](https://www.zhihu.com/search?q=中美外长会晤)
+1. [马斯克终止收购推特](https://www.zhihu.com/search?q=马斯克终止收购推特)
 1. [警方公布安倍死因](https://www.zhihu.com/search?q=警方公布安倍死因)
 1. [拜登下令降半旗](https://www.zhihu.com/search?q=拜登下令降半旗)
-1. [我国 6 月 CPI 数据](https://www.zhihu.com/search?q=我国 6 月 CPI 数据)
 1. [安倍晋三遇刺身亡](https://www.zhihu.com/search?q=安倍晋三遇刺身亡)
 1. [詹姆斯·肯恩去世](https://www.zhihu.com/search?q=詹姆斯·肯恩去世)
 1. [英保守党最终候选人](https://www.zhihu.com/search?q=英保守党最终候选人)

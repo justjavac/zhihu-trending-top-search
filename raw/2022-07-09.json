@@ -9,9 +9,11 @@
     "query": "北京社会面核检系统 9 日 21 时暂停服务",
     "display_query": "北京社会面核检系统 9 日 21 时暂停服务"
   },
+  { "query": "我国 6 月 CPI 数据", "display_query": "我国 6 月 CPI 数据" },
+  { "query": "中美外长会晤", "display_query": "中美外长会晤" },
+  { "query": "马斯克终止收购推特", "display_query": "马斯克终止收购推特" },
   { "query": "警方公布安倍死因", "display_query": "警方公布安倍死因" },
   { "query": "拜登下令降半旗", "display_query": "拜登下令降半旗" },
-  { "query": "我国 6 月 CPI 数据", "display_query": "我国 6 月 CPI 数据" },
   { "query": "安倍晋三遇刺身亡", "display_query": "安倍晋三遇刺身亡" },
   { "query": "詹姆斯·肯恩去世", "display_query": "詹姆斯·肯恩去世" },
   { "query": "英保守党最终候选人", "display_query": "英保守党最终候选人" },
