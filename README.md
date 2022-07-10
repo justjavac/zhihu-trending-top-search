@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jul 10 2022 15:07:38 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jul 10 2022 16:10:55 GMT+0800 (China Standard Time) -->
 
 1. [斯里兰卡示威者冲入总统官邸](https://www.zhihu.com/search?q=斯里兰卡示威者冲入总统官邸)
 1. [海口 7 天临时管控](https://www.zhihu.com/search?q=海口 7 天临时管控)
