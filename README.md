@@ -14,11 +14,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jul 10 2022 08:50:53 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jul 10 2022 11:05:34 GMT+0800 (China Standard Time) -->
 
-1. [我国 6 月 CPI 数据](https://www.zhihu.com/search?q=我国 6 月 CPI 数据)
-1. [中美外长会晤](https://www.zhihu.com/search?q=中美外长会晤)
-1. [马斯克终止收购推特](https://www.zhihu.com/search?q=马斯克终止收购推特)
 1. [2022 省考](https://www.zhihu.com/search?q=2022 省考)
 1. [上海一男子持刀伤人](https://www.zhihu.com/search?q=上海一男子持刀伤人)
 1. [晶体学家范海福逝](https://www.zhihu.com/search?q=晶体学家范海福逝)
@@ -26,6 +23,12 @@
 1. [海口 7 天临时管控](https://www.zhihu.com/search?q=海口 7 天临时管控)
 1. [日本 2021 年仅有 1 人死于枪击](https://www.zhihu.com/search?q=日本 2021 年仅有 1 人死于枪击)
 1. [29 岁男子长期久坐打游戏患血栓](https://www.zhihu.com/search?q=29 岁男子长期久坐打游戏患血栓)
+1. [山上徹也称最初目标不是安倍](https://www.zhihu.com/search?q=山上徹也称最初目标不是安倍)
+1. [王毅与布林肯会晤](https://www.zhihu.com/search?q=王毅与布林肯会晤)
+1. [民航上半年亏损 1089 亿](https://www.zhihu.com/search?q=民航上半年亏损 1089 亿)
+1. [我国 6 月 CPI 数据](https://www.zhihu.com/search?q=我国 6 月 CPI 数据)
+1. [中美外长会晤](https://www.zhihu.com/search?q=中美外长会晤)
+1. [马斯克终止收购推特](https://www.zhihu.com/search?q=马斯克终止收购推特)
 
 <!-- END -->
 
