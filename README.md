@@ -14,9 +14,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jul 10 2022 16:10:55 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jul 10 2022 17:07:29 GMT+0800 (China Standard Time) -->
 
-1. [斯里兰卡示威者冲入总统官邸](https://www.zhihu.com/search?q=斯里兰卡示威者冲入总统官邸)
 1. [海口 7 天临时管控](https://www.zhihu.com/search?q=海口 7 天临时管控)
 1. [日本 2021 年仅有 1 人死于枪击](https://www.zhihu.com/search?q=日本 2021 年仅有 1 人死于枪击)
 1. [29 岁男子长期久坐打游戏患血栓](https://www.zhihu.com/search?q=29 岁男子长期久坐打游戏患血栓)
@@ -26,6 +25,8 @@
 1. [华图回应疑似泄题](https://www.zhihu.com/search?q=华图回应疑似泄题)
 1. [500 余人日本购房踩雷](https://www.zhihu.com/search?q=500 余人日本购房踩雷)
 1. [湖南安乡一医院坐椅子需收费 10 元](https://www.zhihu.com/search?q=湖南安乡一医院坐椅子需收费 10 元)
+1. [2022 会陷入历史轮回吗](https://www.zhihu.com/search?q=2022 会陷入历史轮回吗)
+1. [斯里兰卡示威者冲入总统官邸](https://www.zhihu.com/search?q=斯里兰卡示威者冲入总统官邸)
 1. [晶体学家范海福逝](https://www.zhihu.com/search?q=晶体学家范海福逝)
 1. [上海一男子持刀伤人](https://www.zhihu.com/search?q=上海一男子持刀伤人)
 1. [2022 省考](https://www.zhihu.com/search?q=2022 省考)
