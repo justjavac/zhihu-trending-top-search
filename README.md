@@ -14,18 +14,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jul 10 2022 20:13:37 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jul 10 2022 21:17:56 GMT+0800 (China Standard Time) -->
 
-1. [华图回应疑似泄题](https://www.zhihu.com/search?q=华图回应疑似泄题)
-1. [500 余人日本购房踩雷](https://www.zhihu.com/search?q=500 余人日本购房踩雷)
-1. [湖南安乡一医院坐椅子需收费 10 元](https://www.zhihu.com/search?q=湖南安乡一医院坐椅子需收费 10 元)
-1. [2022 会陷入历史轮回吗](https://www.zhihu.com/search?q=2022 会陷入历史轮回吗)
 1. [国考计划补录 5182 人](https://www.zhihu.com/search?q=国考计划补录 5182 人)
 1. [中国男排 3:1 战胜保加利亚男排](https://www.zhihu.com/search?q=中国男排 3:1 战胜保加利亚男排)
 1. [枪击安倍嫌犯被移交检察](https://www.zhihu.com/search?q=枪击安倍嫌犯被移交检察)
 1. [声生不息 收官](https://www.zhihu.com/search?q=声生不息 收官)
 1. [《凡人修仙传》三十七集更新](https://www.zhihu.com/search?q=《凡人修仙传》三十七集更新)
 1. [《德凯奥特曼》开播](https://www.zhihu.com/search?q=《德凯奥特曼》开播)
+1. [河南省考近 20 万人弃考](https://www.zhihu.com/search?q=河南省考近 20 万人弃考)
+1. [来自深渊第二季](https://www.zhihu.com/search?q=来自深渊第二季)
+1. [学生违规使用数据库致学校 IP 被封](https://www.zhihu.com/search?q=学生违规使用数据库致学校 IP 被封)
+1. [谭乔回应「谭谈交通」被下线](https://www.zhihu.com/search?q=谭乔回应「谭谈交通」被下线)
+1. [华图回应疑似泄题](https://www.zhihu.com/search?q=华图回应疑似泄题)
+1. [500 余人日本购房踩雷](https://www.zhihu.com/search?q=500 余人日本购房踩雷)
+1. [湖南安乡一医院坐椅子需收费 10 元](https://www.zhihu.com/search?q=湖南安乡一医院坐椅子需收费 10 元)
+1. [2022 会陷入历史轮回吗](https://www.zhihu.com/search?q=2022 会陷入历史轮回吗)
 1. [王毅与布林肯会晤](https://www.zhihu.com/search?q=王毅与布林肯会晤)
 1. [民航上半年亏损 1089 亿](https://www.zhihu.com/search?q=民航上半年亏损 1089 亿)
 1. [山上徹也称最初目标不是安倍](https://www.zhihu.com/search?q=山上徹也称最初目标不是安倍)
