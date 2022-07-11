@@ -1,6 +1,4 @@
 [
-  { "query": "声生不息 收官", "display_query": "声生不息 收官" },
-  { "query": "《凡人修仙传》三十七集更新", "display_query": "《凡人修仙传》三十七集更新" },
   { "query": "《德凯奥特曼》开播", "display_query": "《德凯奥特曼》开播" },
   { "query": "河南省考近 20 万人弃考", "display_query": "河南省考近 20 万人弃考" },
   { "query": "来自深渊第二季", "display_query": "来自深渊第二季" },
@@ -9,5 +7,9 @@
   { "query": "斯里兰卡多位部长相继辞职", "display_query": "斯里兰卡多位部长相继辞职" },
   { "query": "上海首个核酸产业园即将开工", "display_query": "上海首个核酸产业园即将开工" },
   { "query": "乌总统解除多名驻外大使职务", "display_query": "乌总统解除多名驻外大使职务" },
+  { "query": "小天才儿童平板充斥黄暴内容", "display_query": "小天才儿童平板充斥黄暴内容" },
+  { "query": "学生对体罚不满自述喝消毒液", "display_query": "学生对体罚不满自述喝消毒液" },
+  { "query": "声生不息 收官", "display_query": "声生不息 收官" },
+  { "query": "《凡人修仙传》三十七集更新", "display_query": "《凡人修仙传》三十七集更新" },
   { "query": "枪击安倍嫌犯被移交检察", "display_query": "枪击安倍嫌犯被移交检察" }
 ]
