@@ -14,9 +14,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jul 11 2022 08:43:25 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jul 11 2022 11:02:46 GMT+0800 (China Standard Time) -->
 
-1. [枪击安倍嫌犯被移交检察](https://www.zhihu.com/search?q=枪击安倍嫌犯被移交检察)
 1. [声生不息 收官](https://www.zhihu.com/search?q=声生不息 收官)
 1. [《凡人修仙传》三十七集更新](https://www.zhihu.com/search?q=《凡人修仙传》三十七集更新)
 1. [《德凯奥特曼》开播](https://www.zhihu.com/search?q=《德凯奥特曼》开播)
@@ -26,6 +25,8 @@
 1. [谭乔回应「谭谈交通」被下线](https://www.zhihu.com/search?q=谭乔回应「谭谈交通」被下线)
 1. [斯里兰卡多位部长相继辞职](https://www.zhihu.com/search?q=斯里兰卡多位部长相继辞职)
 1. [上海首个核酸产业园即将开工](https://www.zhihu.com/search?q=上海首个核酸产业园即将开工)
+1. [乌总统解除多名驻外大使职务](https://www.zhihu.com/search?q=乌总统解除多名驻外大使职务)
+1. [枪击安倍嫌犯被移交检察](https://www.zhihu.com/search?q=枪击安倍嫌犯被移交检察)
 
 <!-- END -->
 
