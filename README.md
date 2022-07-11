@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jul 12 2022 00:16:37 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jul 12 2022 01:19:22 GMT+0800 (China Standard Time) -->
 
 1. [2022 年最大超级月亮](https://www.zhihu.com/search?q=2022 年最大超级月亮)
 1. [高温橙色预警](https://www.zhihu.com/search?q=高温橙色预警)
