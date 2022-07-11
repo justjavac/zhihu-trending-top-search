@@ -14,9 +14,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jul 11 2022 19:06:45 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jul 11 2022 20:16:38 GMT+0800 (China Standard Time) -->
 
-1. [斯里兰卡反对党要求成立新政府](https://www.zhihu.com/search?q=斯里兰卡反对党要求成立新政府)
 1. [官方回应网传武大出现霍乱](https://www.zhihu.com/search?q=官方回应网传武大出现霍乱)
 1. [中国三人女篮亚洲杯夺冠](https://www.zhihu.com/search?q=中国三人女篮亚洲杯夺冠)
 1. [河南村镇银行处置方案将公布](https://www.zhihu.com/search?q=河南村镇银行处置方案将公布)
@@ -26,6 +25,8 @@
 1. [张伯礼称 BA.5 新毒株传播力最强](https://www.zhihu.com/search?q=张伯礼称 BA.5 新毒株传播力最强)
 1. [斯里兰卡总统宣布辞职](https://www.zhihu.com/search?q=斯里兰卡总统宣布辞职)
 1. [安倍枪击案现场警官未按规定行动](https://www.zhihu.com/search?q=安倍枪击案现场警官未按规定行动)
+1. [武汉大学出现霍乱病例](https://www.zhihu.com/search?q=武汉大学出现霍乱病例)
+1. [斯里兰卡反对党要求成立新政府](https://www.zhihu.com/search?q=斯里兰卡反对党要求成立新政府)
 1. [小天才儿童平板充斥黄暴内容](https://www.zhihu.com/search?q=小天才儿童平板充斥黄暴内容)
 1. [学生对体罚不满自述喝消毒液](https://www.zhihu.com/search?q=学生对体罚不满自述喝消毒液)
 1. [上海奥密克戎 BA.5.2.1 感染者](https://www.zhihu.com/search?q=上海奥密克戎 BA.5.2.1 感染者)
