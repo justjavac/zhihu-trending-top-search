@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jul 12 2022 12:52:23 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jul 12 2022 13:31:58 GMT+0800 (China Standard Time) -->
 
 1. [游戏仙剑客栈 2](https://www.zhihu.com/search?q=游戏仙剑客栈 2)
 1. [阿富汗新增 120 例霍乱](https://www.zhihu.com/search?q=阿富汗新增 120 例霍乱)
