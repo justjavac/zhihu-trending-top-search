@@ -1,6 +1,4 @@
 [
-  { "query": "游戏仙剑客栈 2", "display_query": "游戏仙剑客栈 2" },
-  { "query": "阿富汗新增 120 例霍乱", "display_query": "阿富汗新增 120 例霍乱" },
   { "query": "WPS 回应删除用户本地文件", "display_query": "WPS 回应删除用户本地文件" },
   { "query": "盛京银行已停止支付宝存款产品销售", "display_query": "盛京银行已停止支付宝存款产品销售" },
   { "query": "印度首艘国产航母完成第四次海试", "display_query": "印度首艘国产航母完成第四次海试" },
@@ -9,6 +7,10 @@
   { "query": "所有乌居民可通过简化程序获取俄公民身份", "display_query": "所有乌居民可通过简化程序获取俄公民身份" },
   { "query": "江浙沪局地可达 40℃ 以上", "display_query": "江浙沪局地可达 40℃ 以上" },
   { "query": "江西一地竖牌曝光「失足妇女」照片", "display_query": "江西一地竖牌曝光「失足妇女」照片" },
+  { "query": "美国 F/A-18 飞机被吹走", "display_query": "美国 F/A-18 飞机被吹走" },
+  { "query": "安徽蚌埠对村镇银行客户垫付", "display_query": "安徽蚌埠对村镇银行客户垫付" },
+  { "query": "游戏仙剑客栈 2", "display_query": "游戏仙剑客栈 2" },
+  { "query": "阿富汗新增 120 例霍乱", "display_query": "阿富汗新增 120 例霍乱" },
   { "query": "\tWPS 回应删除用户本地文件", "display_query": "\tWPS 回应删除用户本地文件" },
   { "query": "安倍枪击案现场警官未按规定行动", "display_query": "安倍枪击案现场警官未按规定行动" },
   { "query": "武汉大学出现霍乱病例", "display_query": "武汉大学出现霍乱病例" },
