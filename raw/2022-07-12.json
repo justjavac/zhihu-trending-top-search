@@ -1,5 +1,4 @@
 [
-  { "query": "2022 年最大超级月亮", "display_query": "2022 年最大超级月亮" },
   { "query": "高温橙色预警", "display_query": "高温橙色预警" },
   { "query": "张伯礼称 BA.5 新毒株传播力最强", "display_query": "张伯礼称 BA.5 新毒株传播力最强" },
   { "query": "斯里兰卡总统宣布辞职", "display_query": "斯里兰卡总统宣布辞职" },
@@ -8,5 +7,7 @@
   { "query": "郭富城所住豪宅大楼失窃", "display_query": "郭富城所住豪宅大楼失窃" },
   { "query": "新番莉可丽丝更新", "display_query": "新番莉可丽丝更新" },
   { "query": "原神 PV 冬夜愚戏", "display_query": "原神 PV 冬夜愚戏" },
-  { "query": "游戏仙剑客栈 2", "display_query": "游戏仙剑客栈 2" }
+  { "query": "游戏仙剑客栈 2", "display_query": "游戏仙剑客栈 2" },
+  { "query": "阿富汗新增 120 例霍乱", "display_query": "阿富汗新增 120 例霍乱" },
+  { "query": "2022 年最大超级月亮", "display_query": "2022 年最大超级月亮" }
 ]
