@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jul 14 2022 03:06:50 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jul 14 2022 04:09:12 GMT+0800 (China Standard Time) -->
 
 1. [推特正式起诉马斯克](https://www.zhihu.com/search?q=推特正式起诉马斯克)
 1. [我国老年人口将突破 4 亿](https://www.zhihu.com/search?q=我国老年人口将突破 4 亿)
