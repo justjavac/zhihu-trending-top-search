@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jul 13 2022 16:11:37 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jul 13 2022 17:08:26 GMT+0800 (China Standard Time) -->
 
 1. [打假人王海：18 元钟薛高成本仅 1.32 元](https://www.zhihu.com/search?q=打假人王海：18 元钟薛高成本仅
    1.32 元)
