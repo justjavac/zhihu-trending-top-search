@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jul 13 2022 21:37:29 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jul 13 2022 22:20:23 GMT+0800 (China Standard Time) -->
 
 1. [中国男篮亚洲杯首战不敌韩国](https://www.zhihu.com/search?q=中国男篮亚洲杯首战不敌韩国)
 1. [推特正式起诉马斯克](https://www.zhihu.com/search?q=推特正式起诉马斯克)
