@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jul 13 2022 13:13:34 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jul 13 2022 14:11:27 GMT+0800 (China Standard Time) -->
 
 1. [四川平武遭遇暴雨突袭](https://www.zhihu.com/search?q=四川平武遭遇暴雨突袭)
 1. [打假人王海：18 元钟薛高成本仅 1.32 元](https://www.zhihu.com/search?q=打假人王海：18 元钟薛高成本仅
