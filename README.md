@@ -14,9 +14,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jul 14 2022 07:08:04 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jul 14 2022 08:50:10 GMT+0800 (China Standard Time) -->
 
-1. [推特正式起诉马斯克](https://www.zhihu.com/search?q=推特正式起诉马斯克)
 1. [我国老年人口将突破 4 亿](https://www.zhihu.com/search?q=我国老年人口将突破 4 亿)
 1. [辽宁葫芦岛区域异味扰民](https://www.zhihu.com/search?q=辽宁葫芦岛区域异味扰民)
 1. [谨防烂尾楼盘停供风险扩散](https://www.zhihu.com/search?q=谨防烂尾楼盘停供风险扩散)
@@ -26,6 +25,8 @@
 1. [斯里兰卡总理宣布实施国家紧急状态](https://www.zhihu.com/search?q=斯里兰卡总理宣布实施国家紧急状态)
 1. [央行谈河南村镇银行](https://www.zhihu.com/search?q=央行谈河南村镇银行)
 1. [深圳公司监控员工写代码](https://www.zhihu.com/search?q=深圳公司监控员工写代码)
+1. [天链二号 03 星发射成功](https://www.zhihu.com/search?q=天链二号 03 星发射成功)
+1. [推特正式起诉马斯克](https://www.zhihu.com/search?q=推特正式起诉马斯克)
 
 <!-- END -->
 
