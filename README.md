@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jul 14 2022 12:38:32 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jul 14 2022 13:22:48 GMT+0800 (China Standard Time) -->
 
 1. [为啥中国人更爱存钱了?](https://www.zhihu.com/search?q=为啥中国人更爱存钱了?)
 1. [美计划将俄罗斯「肢解」成 17 块](https://www.zhihu.com/search?q=美计划将俄罗斯「肢解」成 17 块)
