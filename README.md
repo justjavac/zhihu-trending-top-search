@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jul 16 2022 17:08:04 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jul 16 2022 18:07:51 GMT+0800 (China Standard Time) -->
 
 1. [微信朋友圈 共同回忆](https://www.zhihu.com/search?q=微信朋友圈 共同回忆)
 1. [喜羊羊与灰太狼之奇妙大营救](https://www.zhihu.com/search?q=喜羊羊与灰太狼之奇妙大营救)
@@ -25,6 +25,7 @@
 1. [英国极端高温红色预警](https://www.zhihu.com/search?q=英国极端高温红色预警)
 1. [NASA 恢复与俄罗斯国际空间站合作](https://www.zhihu.com/search?q=NASA 恢复与俄罗斯国际空间站合作)
 1. [小布丁雪糕抽检不合格](https://www.zhihu.com/search?q=小布丁雪糕抽检不合格)
+1. [苏炳添说对不起大家](https://www.zhihu.com/search?q=苏炳添说对不起大家)
 1. [四川一热射病患者死亡](https://www.zhihu.com/search?q=四川一热射病患者死亡)
 1. [阴阳师测试服真魂试炼](https://www.zhihu.com/search?q=阴阳师测试服真魂试炼)
 1. [老人为瘫痪儿子讨要剩羊肉汤](https://www.zhihu.com/search?q=老人为瘫痪儿子讨要剩羊肉汤)
