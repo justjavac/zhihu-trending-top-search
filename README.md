@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jul 16 2022 15:07:22 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jul 16 2022 16:09:57 GMT+0800 (China Standard Time) -->
 
 1. [四川一热射病患者死亡](https://www.zhihu.com/search?q=四川一热射病患者死亡)
 1. [微信朋友圈 共同回忆](https://www.zhihu.com/search?q=微信朋友圈 共同回忆)
