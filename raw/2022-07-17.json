@@ -1,5 +1,4 @@
 [
-  { "query": "芯片封装技术", "display_query": "芯片封装技术" },
   { "query": "孙颖莎/王曼昱晋级女双决赛", "display_query": "孙颖莎/王曼昱晋级女双决赛" },
   { "query": "权威人士回应最新版新冠防控方案", "display_query": "权威人士回应最新版新冠防控方案" },
   { "query": "工人收工路上因热射病去世", "display_query": "工人收工路上因热射病去世" },
@@ -9,6 +8,8 @@
   { "query": "易烊千玺放弃入职国家话剧院", "display_query": "易烊千玺放弃入职国家话剧院" },
   { "query": "北川突发山洪致 6 人死亡", "display_query": "北川突发山洪致 6 人死亡" },
   { "query": "王嘉男夺金", "display_query": "王嘉男夺金" },
+  { "query": "胡先煦发文", "display_query": "胡先煦发文" },
+  { "query": "芯片封装技术", "display_query": "芯片封装技术" },
   {
     "query": "专家称奥密克戎 BA.5 致病力无明显变化",
     "display_query": "专家称奥密克戎 BA.5 致病力无明显变化"
