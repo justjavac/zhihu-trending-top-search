@@ -1,5 +1,4 @@
 [
-  { "query": "甘肃陇南强降雨致 6 人遇难", "display_query": "甘肃陇南强降雨致 6 人遇难" },
   {
     "query": "专家称奥密克戎 BA.5 致病力无明显变化",
     "display_query": "专家称奥密克戎 BA.5 致病力无明显变化"
@@ -12,6 +11,8 @@
   { "query": "苏炳添无缘决赛", "display_query": "苏炳添无缘决赛" },
   { "query": "王曼昱退赛", "display_query": "王曼昱退赛" },
   { "query": "易烊千玺放弃入职国家话剧院", "display_query": "易烊千玺放弃入职国家话剧院" },
+  { "query": "北川突发山洪致 6 人死亡", "display_query": "北川突发山洪致 6 人死亡" },
+  { "query": "甘肃陇南强降雨致 6 人遇难", "display_query": "甘肃陇南强降雨致 6 人遇难" },
   { "query": "苏炳添说对不起大家", "display_query": "苏炳添说对不起大家" },
   { "query": "国际数学奥赛中国队满分摘金", "display_query": "国际数学奥赛中国队满分摘金" },
   { "query": "四川成都新增本土「4+1」", "display_query": "四川成都新增本土「4+1」" },
