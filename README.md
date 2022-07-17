@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jul 18 2022 02:09:08 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jul 18 2022 03:06:50 GMT+0800 (China Standard Time) -->
 
 1. [工人收工路上因热射病去世](https://www.zhihu.com/search?q=工人收工路上因热射病去世)
 1. [赵丽蓉去世 22 周年](https://www.zhihu.com/search?q=赵丽蓉去世 22 周年)
