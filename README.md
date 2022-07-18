@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jul 18 2022 13:23:04 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jul 18 2022 14:11:22 GMT+0800 (China Standard Time) -->
 
 1. [西班牙高温](https://www.zhihu.com/search?q=西班牙高温)
 1. [英媒称蓬佩奥要参选美国总统](https://www.zhihu.com/search?q=英媒称蓬佩奥要参选美国总统)
