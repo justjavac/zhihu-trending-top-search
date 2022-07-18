@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jul 18 2022 21:47:18 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jul 18 2022 22:12:11 GMT+0800 (China Standard Time) -->
 
 1. [王曼昱孙颖莎夺冠](https://www.zhihu.com/search?q=王曼昱孙颖莎夺冠)
 1. [南非发生中国公民遭绑架后罹难案件](https://www.zhihu.com/search?q=南非发生中国公民遭绑架后罹难案件)
