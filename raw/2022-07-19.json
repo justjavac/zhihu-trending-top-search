@@ -1,6 +1,4 @@
 [
-  { "query": "未成年人直播打赏", "display_query": "未成年人直播打赏" },
-  { "query": "羽生结弦记者会", "display_query": "羽生结弦记者会" },
   { "query": "中印双方举行军长级会谈", "display_query": "中印双方举行军长级会谈" },
   { "query": "不要回答 开播", "display_query": "不要回答 开播" },
   { "query": "人生若如初见撤档", "display_query": "人生若如初见撤档" },
@@ -9,6 +7,10 @@
   { "query": "校方回应花千万引进 23 名菲律宾博士", "display_query": "校方回应花千万引进 23 名菲律宾博士" },
   { "query": "伊朗拟禁止民众养宠物", "display_query": "伊朗拟禁止民众养宠物" },
   { "query": "小天才平板涉黄涉暴被京津冀消协约谈", "display_query": "小天才平板涉黄涉暴被京津冀消协约谈" },
+  { "query": "中国持仓美债 12 年来首次跌破万亿", "display_query": "中国持仓美债 12 年来首次跌破万亿" },
+  { "query": "房管局回应监管资金被挪用是听招呼干活", "display_query": "房管局回应监管资金被挪用是听招呼干活" },
+  { "query": "未成年人直播打赏", "display_query": "未成年人直播打赏" },
+  { "query": "羽生结弦记者会", "display_query": "羽生结弦记者会" },
   { "query": "北京 GDP", "display_query": "北京 GDP" },
   { "query": "斗破苍穹缘起动画开播", "display_query": "斗破苍穹缘起动画开播" },
   { "query": "海贼王更新情报", "display_query": "海贼王更新情报" },
