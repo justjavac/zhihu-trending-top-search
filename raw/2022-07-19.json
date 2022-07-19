@@ -1,5 +1,4 @@
 [
-  { "query": "北京 GDP", "display_query": "北京 GDP" },
   { "query": "未成年人直播打赏", "display_query": "未成年人直播打赏" },
   { "query": "羽生结弦记者会", "display_query": "羽生结弦记者会" },
   { "query": "中印双方举行军长级会谈", "display_query": "中印双方举行军长级会谈" },
@@ -9,6 +8,8 @@
   { "query": "天津北辰区发生爆炸事故", "display_query": "天津北辰区发生爆炸事故" },
   { "query": "校方回应花千万引进 23 名菲律宾博士", "display_query": "校方回应花千万引进 23 名菲律宾博士" },
   { "query": "伊朗拟禁止民众养宠物", "display_query": "伊朗拟禁止民众养宠物" },
+  { "query": "小天才平板涉黄涉暴被京津冀消协约谈", "display_query": "小天才平板涉黄涉暴被京津冀消协约谈" },
+  { "query": "北京 GDP", "display_query": "北京 GDP" },
   { "query": "斗破苍穹缘起动画开播", "display_query": "斗破苍穹缘起动画开播" },
   { "query": "海贼王更新情报", "display_query": "海贼王更新情报" },
   { "query": "费曼恭喜吴镇宇金像奖颗粒无收", "display_query": "费曼恭喜吴镇宇金像奖颗粒无收" },
