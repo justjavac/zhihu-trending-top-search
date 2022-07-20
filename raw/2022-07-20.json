@@ -1,6 +1,4 @@
 [
-  { "query": "羽生结弦宣布退役", "display_query": "羽生结弦宣布退役" },
-  { "query": "任天堂 3DS 服务将终止", "display_query": "任天堂 3DS 服务将终止" },
   { "query": "曹德旺称趁早卖房才明智", "display_query": "曹德旺称趁早卖房才明智" },
   { "query": "海南 50 名公考考生拟被取消成绩", "display_query": "海南 50 名公考考生拟被取消成绩" },
   { "query": "杭州亚运会确定新的举办日期", "display_query": "杭州亚运会确定新的举办日期" },
@@ -9,6 +7,10 @@
   { "query": "天文学家首次发现银河系外休眠黑洞", "display_query": "天文学家首次发现银河系外休眠黑洞" },
   { "query": "俄罗斯、伊朗强化合作", "display_query": "俄罗斯、伊朗强化合作" },
   { "query": "宁夏确诊一例腺鼠疫病例", "display_query": "宁夏确诊一例腺鼠疫病例" },
+  { "query": "莱万加盟巴塞罗那", "display_query": "莱万加盟巴塞罗那" },
+  { "query": "人类月球日", "display_query": "人类月球日" },
+  { "query": "羽生结弦宣布退役", "display_query": "羽生结弦宣布退役" },
+  { "query": "任天堂 3DS 服务将终止", "display_query": "任天堂 3DS 服务将终止" },
   { "query": "韩统一教前世界会会长对安倍之死鞠躬道歉", "display_query": "韩统一教前世界会会长对安倍之死鞠躬道歉" },
   { "query": "诛仙动画定档", "display_query": "诛仙动画定档" },
   { "query": "房管局回应监管资金被挪用是听招呼干活", "display_query": "房管局回应监管资金被挪用是听招呼干活" },
