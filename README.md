@@ -14,10 +14,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jul 20 2022 17:07:56 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jul 20 2022 18:13:25 GMT+0800 (China Standard Time) -->
 
-1. [曹德旺称趁早卖房才明智](https://www.zhihu.com/search?q=曹德旺称趁早卖房才明智)
-1. [海南 50 名公考考生拟被取消成绩](https://www.zhihu.com/search?q=海南 50 名公考考生拟被取消成绩)
 1. [杭州亚运会确定新的举办日期](https://www.zhihu.com/search?q=杭州亚运会确定新的举办日期)
 1. [北京规定全市酒店暂不承办婚宴](https://www.zhihu.com/search?q=北京规定全市酒店暂不承办婚宴)
 1. [KF-21 首飞](https://www.zhihu.com/search?q=KF-21 首飞)
@@ -26,6 +24,10 @@
 1. [宁夏确诊一例腺鼠疫病例](https://www.zhihu.com/search?q=宁夏确诊一例腺鼠疫病例)
 1. [莱万加盟巴塞罗那](https://www.zhihu.com/search?q=莱万加盟巴塞罗那)
 1. [人类月球日](https://www.zhihu.com/search?q=人类月球日)
+1. [东部战区回应美舰过台湾海峡](https://www.zhihu.com/search?q=东部战区回应美舰过台湾海峡)
+1. [电锯人第二部更新](https://www.zhihu.com/search?q=电锯人第二部更新)
+1. [曹德旺称趁早卖房才明智](https://www.zhihu.com/search?q=曹德旺称趁早卖房才明智)
+1. [海南 50 名公考考生拟被取消成绩](https://www.zhihu.com/search?q=海南 50 名公考考生拟被取消成绩)
 1. [羽生结弦宣布退役](https://www.zhihu.com/search?q=羽生结弦宣布退役)
 1. [任天堂 3DS 服务将终止](https://www.zhihu.com/search?q=任天堂 3DS 服务将终止)
 1. [韩统一教前世界会会长对安倍之死鞠躬道歉](https://www.zhihu.com/search?q=韩统一教前世界会会长对安倍之死鞠躬道歉)
