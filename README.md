@@ -14,9 +14,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jul 20 2022 20:15:03 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jul 20 2022 21:34:45 GMT+0800 (China Standard Time) -->
 
-1. [天文学家首次发现银河系外休眠黑洞](https://www.zhihu.com/search?q=天文学家首次发现银河系外休眠黑洞)
 1. [俄罗斯、伊朗强化合作](https://www.zhihu.com/search?q=俄罗斯、伊朗强化合作)
 1. [宁夏确诊一例腺鼠疫病例](https://www.zhihu.com/search?q=宁夏确诊一例腺鼠疫病例)
 1. [莱万加盟巴塞罗那](https://www.zhihu.com/search?q=莱万加盟巴塞罗那)
@@ -26,6 +25,8 @@
 1. [明日方舟未尽篇章](https://www.zhihu.com/search?q=明日方舟未尽篇章)
 1. [28 省份 2021 年平均工资出炉](https://www.zhihu.com/search?q=28 省份 2021 年平均工资出炉)
 1. [流浪猫冒险游戏上线](https://www.zhihu.com/search?q=流浪猫冒险游戏上线)
+1. [女子订婚宴照片被谣传为会所技师](https://www.zhihu.com/search?q=女子订婚宴照片被谣传为会所技师)
+1. [天文学家首次发现银河系外休眠黑洞](https://www.zhihu.com/search?q=天文学家首次发现银河系外休眠黑洞)
 1. [北京规定全市酒店暂不承办婚宴](https://www.zhihu.com/search?q=北京规定全市酒店暂不承办婚宴)
 1. [KF-21 首飞](https://www.zhihu.com/search?q=KF-21 首飞)
 1. [杭州亚运会确定新的举办日期](https://www.zhihu.com/search?q=杭州亚运会确定新的举办日期)
