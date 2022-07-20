@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jul 20 2022 15:07:44 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jul 20 2022 16:11:49 GMT+0800 (China Standard Time) -->
 
 1. [羽生结弦宣布退役](https://www.zhihu.com/search?q=羽生结弦宣布退役)
 1. [任天堂 3DS 服务将终止](https://www.zhihu.com/search?q=任天堂 3DS 服务将终止)
