@@ -14,9 +14,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jul 20 2022 07:08:26 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jul 20 2022 08:42:13 GMT+0800 (China Standard Time) -->
 
-1. [2022 第 200 天](https://www.zhihu.com/search?q=2022 第 200 天)
 1. [天津北辰区发生爆炸事故](https://www.zhihu.com/search?q=天津北辰区发生爆炸事故)
 1. [校方回应花千万引进 23 名菲律宾博士](https://www.zhihu.com/search?q=校方回应花千万引进 23 名菲律宾博士)
 1. [伊朗拟禁止民众养宠物](https://www.zhihu.com/search?q=伊朗拟禁止民众养宠物)
@@ -26,6 +25,8 @@
 1. [韩民众因炸鸡太贵在网上发起抵制](https://www.zhihu.com/search?q=韩民众因炸鸡太贵在网上发起抵制)
 1. [韩统一教前世界会会长对安倍之死鞠躬道歉](https://www.zhihu.com/search?q=韩统一教前世界会会长对安倍之死鞠躬道歉)
 1. [诛仙动画定档](https://www.zhihu.com/search?q=诛仙动画定档)
+1. [羽生结弦宣布退役](https://www.zhihu.com/search?q=羽生结弦宣布退役)
+1. [2022 第 200 天](https://www.zhihu.com/search?q=2022 第 200 天)
 
 <!-- END -->
 
