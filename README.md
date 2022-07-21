@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jul 21 2022 12:33:17 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jul 21 2022 13:22:16 GMT+0800 (China Standard Time) -->
 
 1. [未来中国 刘博洋](https://www.zhihu.com/search?q=未来中国 刘博洋)
 1. [数人打砸烧烤店放话不打折就砸](https://www.zhihu.com/search?q=数人打砸烧烤店放话不打折就砸)
