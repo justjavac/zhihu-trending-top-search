@@ -14,11 +14,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jul 22 2022 12:35:47 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jul 22 2022 13:19:20 GMT+0800 (China Standard Time) -->
 
-1. [北京市教育督导问责实施细则下月实施](https://www.zhihu.com/search?q=北京市教育督导问责实施细则下月实施)
-1. [北溪 1 号管道已重启](https://www.zhihu.com/search?q=北溪 1 号管道已重启)
-1. [滴滴被罚 80.26 亿](https://www.zhihu.com/search?q=滴滴被罚 80.26 亿)
 1. [拜登自称患癌症](https://www.zhihu.com/search?q=拜登自称患癌症)
 1. [连云港龙卷风已致 1 人死亡](https://www.zhihu.com/search?q=连云港龙卷风已致 1 人死亡)
 1. [银保监会谈村镇银行事件](https://www.zhihu.com/search?q=银保监会谈村镇银行事件)
@@ -26,6 +23,12 @@
 1. [期房预售该取消吗？](https://www.zhihu.com/search?q=期房预售该取消吗？)
 1. [莫尔穆当选印度新一任总统](https://www.zhihu.com/search?q=莫尔穆当选印度新一任总统)
 1. [欧洲央行决定加息](https://www.zhihu.com/search?q=欧洲央行决定加息)
+1. [拜登新冠检测呈阳性](https://www.zhihu.com/search?q=拜登新冠检测呈阳性)
+1. [南京玄武区民族宗教事务局回应](https://www.zhihu.com/search?q=南京玄武区民族宗教事务局回应)
+1. [佩洛西首度回应访台计划](https://www.zhihu.com/search?q=佩洛西首度回应访台计划)
+1. [北京市教育督导问责实施细则下月实施](https://www.zhihu.com/search?q=北京市教育督导问责实施细则下月实施)
+1. [北溪 1 号管道已重启](https://www.zhihu.com/search?q=北溪 1 号管道已重启)
+1. [滴滴被罚 80.26 亿](https://www.zhihu.com/search?q=滴滴被罚 80.26 亿)
 1. [9 月开学后北京 16 区开展教师轮岗](https://www.zhihu.com/search?q=9 月开学后北京 16 区开展教师轮岗)
 1. [冯彬夺世锦赛女子铁饼金牌](https://www.zhihu.com/search?q=冯彬夺世锦赛女子铁饼金牌)
 1. [巨魔芋一生只开三四次花](https://www.zhihu.com/search?q=巨魔芋一生只开三四次花)
