@@ -1,6 +1,4 @@
 [
-  { "query": "期房预售该取消吗？", "display_query": "期房预售该取消吗？" },
-  { "query": "莫尔穆当选印度新一任总统", "display_query": "莫尔穆当选印度新一任总统" },
   { "query": "欧洲央行决定加息", "display_query": "欧洲央行决定加息" },
   { "query": "拜登新冠检测呈阳性", "display_query": "拜登新冠检测呈阳性" },
   { "query": "南京玄武区民族宗教事务局回应", "display_query": "南京玄武区民族宗教事务局回应" },
@@ -9,6 +7,10 @@
   { "query": "优酷投屏收费", "display_query": "优酷投屏收费" },
   { "query": "海贼王 1054 话", "display_query": "海贼王 1054 话" },
   { "query": "一人之下 624 话", "display_query": "一人之下 624 话" },
+  { "query": "警方回应小敏来了事件", "display_query": "警方回应小敏来了事件" },
+  { "query": "「吴啊萍」是谁", "display_query": "「吴啊萍」是谁" },
+  { "query": "期房预售该取消吗？", "display_query": "期房预售该取消吗？" },
+  { "query": "莫尔穆当选印度新一任总统", "display_query": "莫尔穆当选印度新一任总统" },
   { "query": "董宇辉回应东方甄选拉黑罗敏", "display_query": "董宇辉回应东方甄选拉黑罗敏" },
   { "query": "银保监会谈村镇银行事件", "display_query": "银保监会谈村镇银行事件" },
   { "query": "拜登自称患癌症", "display_query": "拜登自称患癌症" },
