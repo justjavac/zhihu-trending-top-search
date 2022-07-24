@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jul 24 2022 12:24:22 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jul 24 2022 13:12:51 GMT+0800 (China Standard Time) -->
 
 1. [唐山疑再现打人事件](https://www.zhihu.com/search?q=唐山疑再现打人事件)
 1. [员工更衣室安 9 个摄像头](https://www.zhihu.com/search?q=员工更衣室安 9 个摄像头)
