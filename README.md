@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jul 24 2022 20:14:10 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jul 24 2022 21:21:55 GMT+0800 (China Standard Time) -->
 
 1. [国内首次报告疫苗接种不良事件发生率](https://www.zhihu.com/search?q=国内首次报告疫苗接种不良事件发生率)
 1. [猴痘 最高级别警报](https://www.zhihu.com/search?q=猴痘 最高级别警报)
@@ -24,6 +24,7 @@
 1. [新疆独库公路变垃圾公路](https://www.zhihu.com/search?q=新疆独库公路变垃圾公路)
 1. [男子多次带女友吃海鲜只付塑料袋钱](https://www.zhihu.com/search?q=男子多次带女友吃海鲜只付塑料袋钱)
 1. [华为再发天才少年招聘令](https://www.zhihu.com/search?q=华为再发天才少年招聘令)
+1. [中国男足战平日本队](https://www.zhihu.com/search?q=中国男足战平日本队)
 1. [东亚杯中国女足平韩国](https://www.zhihu.com/search?q=东亚杯中国女足平韩国)
 1. [全球首款「抗新冠喷雾」将上市](https://www.zhihu.com/search?q=全球首款「抗新冠喷雾」将上市)
 1. [天津一游客玩高空项目坠落身亡](https://www.zhihu.com/search?q=天津一游客玩高空项目坠落身亡)
