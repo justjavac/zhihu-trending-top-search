@@ -14,9 +14,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jul 24 2022 13:12:51 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jul 24 2022 14:10:15 GMT+0800 (China Standard Time) -->
 
-1. [唐山疑再现打人事件](https://www.zhihu.com/search?q=唐山疑再现打人事件)
 1. [员工更衣室安 9 个摄像头](https://www.zhihu.com/search?q=员工更衣室安 9 个摄像头)
 1. [安徽一烂尾楼停工 9 年复工](https://www.zhihu.com/search?q=安徽一烂尾楼停工 9 年复工)
 1. [全国十大「焖蒸」城市公布](https://www.zhihu.com/search?q=全国十大「焖蒸」城市公布)
@@ -26,6 +25,8 @@
 1. [新冠疫苗来源可追](https://www.zhihu.com/search?q=新冠疫苗来源可追)
 1. [奥密克戎疫苗研发](https://www.zhihu.com/search?q=奥密克戎疫苗研发)
 1. [全国首例单身女性冻卵案一审败诉](https://www.zhihu.com/search?q=全国首例单身女性冻卵案一审败诉)
+1. [甘肃景泰煤矿山体坍塌已致 9 死 1 失联](https://www.zhihu.com/search?q=甘肃景泰煤矿山体坍塌已致 9 死 1 失联)
+1. [唐山疑再现打人事件](https://www.zhihu.com/search?q=唐山疑再现打人事件)
 1. [乌克兰粮食安全运输倡议](https://www.zhihu.com/search?q=乌克兰粮食安全运输倡议)
 1. [枪杀安倍的嫌犯将接受精神鉴定](https://www.zhihu.com/search?q=枪杀安倍的嫌犯将接受精神鉴定)
 1. [中国男女接力队无缘 4X100 米决赛](https://www.zhihu.com/search?q=中国男女接力队无缘 4X100 米决赛)
