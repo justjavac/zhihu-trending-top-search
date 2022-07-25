@@ -14,18 +14,19 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jul 25 2022 22:09:44 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jul 25 2022 23:08:22 GMT+0800 (China Standard Time) -->
 
 1. [新番莉可丽丝更新](https://www.zhihu.com/search?q=新番莉可丽丝更新)
-1. [南京通报吴啊萍身份](https://www.zhihu.com/search?q=南京通报吴啊萍身份)
 1. [吴啊萍受审画面曝光](https://www.zhihu.com/search?q=吴啊萍受审画面曝光)
 1. [官方通报邵阳学院引进菲律宾博士](https://www.zhihu.com/search?q=官方通报邵阳学院引进菲律宾博士)
-1. [凡人修仙传更新](https://www.zhihu.com/search?q=凡人修仙传更新)
 1. [国航机长辞职被公司索赔 1066 万](https://www.zhihu.com/search?q=国航机长辞职被公司索赔 1066 万)
+1. [凡人修仙传更新](https://www.zhihu.com/search?q=凡人修仙传更新)
 1. [玄奘寺原住持道歉](https://www.zhihu.com/search?q=玄奘寺原住持道歉)
 1. [蓬佩奥宣称要和佩洛西一同窜访台湾](https://www.zhihu.com/search?q=蓬佩奥宣称要和佩洛西一同窜访台湾)
 1. [「南京女大学生遇害」案最新进展](https://www.zhihu.com/search?q=「南京女大学生遇害」案最新进展)
 1. [中国航天员首次在轨进入科学实验舱](https://www.zhihu.com/search?q=中国航天员首次在轨进入科学实验舱)
+1. [公安部回应唐山烧烤店打人事件](https://www.zhihu.com/search?q=公安部回应唐山烧烤店打人事件)
+1. [南京通报吴啊萍身份](https://www.zhihu.com/search?q=南京通报吴啊萍身份)
 1. [中国男足战平日本队](https://www.zhihu.com/search?q=中国男足战平日本队)
 1. [男子多次带女友吃海鲜只付塑料袋钱](https://www.zhihu.com/search?q=男子多次带女友吃海鲜只付塑料袋钱)
 1. [华为再发天才少年招聘令](https://www.zhihu.com/search?q=华为再发天才少年招聘令)
