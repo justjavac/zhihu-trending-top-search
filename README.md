@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jul 26 2022 22:07:53 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jul 26 2022 23:09:01 GMT+0800 (China Standard Time) -->
 
 1. [日本发现首例猴痘病例](https://www.zhihu.com/search?q=日本发现首例猴痘病例)
 1. [象棋机器人夹断男孩手指](https://www.zhihu.com/search?q=象棋机器人夹断男孩手指)
