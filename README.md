@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jul 27 2022 12:42:05 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jul 27 2022 13:25:44 GMT+0800 (China Standard Time) -->
 
 1. [电锯人第二部更新](https://www.zhihu.com/search?q=电锯人第二部更新)
 1. [傅首尔回应和趣店预制菜合作](https://www.zhihu.com/search?q=傅首尔回应和趣店预制菜合作)
