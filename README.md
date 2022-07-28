@@ -14,10 +14,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jul 28 2022 19:08:06 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jul 28 2022 20:19:37 GMT+0800 (China Standard Time) -->
 
-1. [日本多地政府收到威胁邮件](https://www.zhihu.com/search?q=日本多地政府收到威胁邮件)
-1. [星汉灿烂 连播](https://www.zhihu.com/search?q=星汉灿烂 连播)
 1. [江西省纪委介入调查周劼事件](https://www.zhihu.com/search?q=江西省纪委介入调查周劼事件)
 1. [拜登转阴后公开露面发声](https://www.zhihu.com/search?q=拜登转阴后公开露面发声)
 1. [唐山大地震 46 周年纪念日](https://www.zhihu.com/search?q=唐山大地震 46 周年纪念日)
@@ -26,6 +24,10 @@
 1. [苏菲卫生巾被曝有虫子尸体](https://www.zhihu.com/search?q=苏菲卫生巾被曝有虫子尸体)
 1. [河南舞阳发生交通事故致多人受伤](https://www.zhihu.com/search?q=河南舞阳发生交通事故致多人受伤)
 1. [为防黑热病禁养犬 3 年?石家庄回应](https://www.zhihu.com/search?q=为防黑热病禁养犬 3 年?石家庄回应)
+1. [澳大利亚宣布猴痘疫情为国家重大传染病事件](https://www.zhihu.com/search?q=澳大利亚宣布猴痘疫情为国家重大传染病事件)
+1. [雪碧将放弃绿瓶](https://www.zhihu.com/search?q=雪碧将放弃绿瓶)
+1. [日本多地政府收到威胁邮件](https://www.zhihu.com/search?q=日本多地政府收到威胁邮件)
+1. [星汉灿烂 连播](https://www.zhihu.com/search?q=星汉灿烂 连播)
 1. [古茗奶茶被曝喝出壁虎](https://www.zhihu.com/search?q=古茗奶茶被曝喝出壁虎)
 1. [月球真有「广寒宫」](https://www.zhihu.com/search?q=月球真有「广寒宫」)
 1. [韩国给拜登起韩国名](https://www.zhihu.com/search?q=韩国给拜登起韩国名)
