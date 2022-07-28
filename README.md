@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jul 29 2022 05:07:45 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jul 29 2022 06:10:26 GMT+0800 (China Standard Time) -->
 
 1. [江西省纪委介入调查周劼事件](https://www.zhihu.com/search?q=江西省纪委介入调查周劼事件)
 1. [拜登转阴后公开露面发声](https://www.zhihu.com/search?q=拜登转阴后公开露面发声)
