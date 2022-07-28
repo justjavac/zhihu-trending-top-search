@@ -1,6 +1,4 @@
 [
-  { "query": "车主眼睛小被自动驾驶误判", "display_query": "车主眼睛小被自动驾驶误判" },
-  { "query": "北京朝阳暴雨", "display_query": "北京朝阳暴雨" },
   { "query": "韩国给拜登起韩国名", "display_query": "韩国给拜登起韩国名" },
   { "query": "东亚杯国足小胜香港", "display_query": "东亚杯国足小胜香港" },
   { "query": "北京低保标准上调", "display_query": "北京低保标准上调" },
@@ -9,6 +7,10 @@
   { "query": "日本多地政府收到威胁邮件", "display_query": "日本多地政府收到威胁邮件" },
   { "query": "星汉灿烂 连播", "display_query": "星汉灿烂 连播" },
   { "query": "杭州 22 岁女孩连续熬夜加班猝死", "display_query": "杭州 22 岁女孩连续熬夜加班猝死" },
+  { "query": "江西省纪委介入调查周劼事件", "display_query": "江西省纪委介入调查周劼事件" },
+  { "query": "拜登转阴后公开露面发声", "display_query": "拜登转阴后公开露面发声" },
+  { "query": "车主眼睛小被自动驾驶误判", "display_query": "车主眼睛小被自动驾驶误判" },
+  { "query": "北京朝阳暴雨", "display_query": "北京朝阳暴雨" },
   { "query": "特朗普重回华盛顿", "display_query": "特朗普重回华盛顿" },
   { "query": "夏日祭在全国设置 21 场活动", "display_query": "夏日祭在全国设置 21 场活动" },
   { "query": "电锯人第二部更新", "display_query": "电锯人第二部更新" },
