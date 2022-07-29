@@ -14,10 +14,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jul 29 2022 07:09:53 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jul 29 2022 08:46:04 GMT+0800 (China Standard Time) -->
 
-1. [江西省纪委介入调查周劼事件](https://www.zhihu.com/search?q=江西省纪委介入调查周劼事件)
-1. [拜登转阴后公开露面发声](https://www.zhihu.com/search?q=拜登转阴后公开露面发声)
 1. [中秋节国庆节放假通知](https://www.zhihu.com/search?q=中秋节国庆节放假通知)
 1. [美国第三政党「前进」将宣布成立](https://www.zhihu.com/search?q=美国第三政党「前进」将宣布成立)
 1. [苏菲卫生巾被曝有虫子尸体](https://www.zhihu.com/search?q=苏菲卫生巾被曝有虫子尸体)
@@ -26,6 +24,10 @@
 1. [澳大利亚宣布猴痘疫情为国家重大传染病事件](https://www.zhihu.com/search?q=澳大利亚宣布猴痘疫情为国家重大传染病事件)
 1. [雪碧将放弃绿瓶](https://www.zhihu.com/search?q=雪碧将放弃绿瓶)
 1. [张杰谢娜与房产经纪名誉权纠纷案将开庭](https://www.zhihu.com/search?q=张杰谢娜与房产经纪名誉权纠纷案将开庭)
+1. [海贼王 1055 话](https://www.zhihu.com/search?q=海贼王 1055 话)
+1. [钟薛高申请「钟薛低」商标](https://www.zhihu.com/search?q=钟薛高申请「钟薛低」商标)
+1. [江西省纪委介入调查周劼事件](https://www.zhihu.com/search?q=江西省纪委介入调查周劼事件)
+1. [拜登转阴后公开露面发声](https://www.zhihu.com/search?q=拜登转阴后公开露面发声)
 
 <!-- END -->
 
