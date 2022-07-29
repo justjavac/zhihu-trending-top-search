@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jul 29 2022 21:30:54 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jul 29 2022 22:07:22 GMT+0800 (China Standard Time) -->
 
 1. [香港体育馆严重事故](https://www.zhihu.com/search?q=香港体育馆严重事故)
 1. [ 中美元首通话](https://www.zhihu.com/search?q= 中美元首通话)
