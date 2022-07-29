@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jul 29 2022 23:10:41 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jul 30 2022 00:11:00 GMT+0800 (China Standard Time) -->
 
 1. [香港体育馆严重事故](https://www.zhihu.com/search?q=香港体育馆严重事故)
 1. [ 中美元首通话](https://www.zhihu.com/search?q= 中美元首通话)
@@ -24,24 +24,8 @@
 1. [查处公务员考试违纪](https://www.zhihu.com/search?q=查处公务员考试违纪)
 1. [独行月球](https://www.zhihu.com/search?q=独行月球)
 1. [七人乐队](https://www.zhihu.com/search?q=七人乐队)
-1. [韦正直播](https://www.zhihu.com/search?q=韦正直播)
 1. [浪姐 3 五公](https://www.zhihu.com/search?q=浪姐 3 五公)
-1. [美国二季度 GDP 下滑 0.9%](https://www.zhihu.com/search?q=美国二季度 GDP 下滑 0.9%)
-1. [抖音崩了](https://www.zhihu.com/search?q=抖音崩了)
-1. [每日优鲜回应解散](https://www.zhihu.com/search?q=每日优鲜回应解散)
-1. [22 岁女孩连续熬夜加班猝死](https://www.zhihu.com/search?q=22 岁女孩连续熬夜加班猝死)
-1. [钟薛高申请「钟薛低」商标](https://www.zhihu.com/search?q=钟薛高申请「钟薛低」商标)
-1. [张杰谢娜与房产经纪名誉权纠纷案将开庭](https://www.zhihu.com/search?q=张杰谢娜与房产经纪名誉权纠纷案将开庭)
-1. [海贼王 1055 话](https://www.zhihu.com/search?q=海贼王 1055 话)
-1. [雪碧将放弃绿瓶](https://www.zhihu.com/search?q=雪碧将放弃绿瓶)
-1. [澳大利亚宣布猴痘疫情为国家重大传染病事件](https://www.zhihu.com/search?q=澳大利亚宣布猴痘疫情为国家重大传染病事件)
-1. [河南舞阳发生交通事故致多人受伤](https://www.zhihu.com/search?q=河南舞阳发生交通事故致多人受伤)
-1. [为防黑热病禁养犬 3 年?石家庄回应](https://www.zhihu.com/search?q=为防黑热病禁养犬 3 年?石家庄回应)
-1. [中秋节国庆节放假通知](https://www.zhihu.com/search?q=中秋节国庆节放假通知)
-1. [美国第三政党「前进」将宣布成立](https://www.zhihu.com/search?q=美国第三政党「前进」将宣布成立)
-1. [苏菲卫生巾被曝有虫子尸体](https://www.zhihu.com/search?q=苏菲卫生巾被曝有虫子尸体)
-1. [江西省纪委介入调查周劼事件](https://www.zhihu.com/search?q=江西省纪委介入调查周劼事件)
-1. [拜登转阴后公开露面发声](https://www.zhihu.com/search?q=拜登转阴后公开露面发声)
+1. [下半年经济工作](https://www.zhihu.com/search?q=下半年经济工作)
 
 <!-- END -->
 
