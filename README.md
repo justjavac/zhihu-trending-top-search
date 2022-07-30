@@ -14,18 +14,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jul 30 2022 20:13:12 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jul 30 2022 21:18:43 GMT+0800 (China Standard Time) -->
 
 1. [开播情景喜剧收官](https://www.zhihu.com/search?q=开播情景喜剧收官)
 1. [与父母的分享欲](https://www.zhihu.com/search?q=与父母的分享欲)
-1. [警方通报购买环球影城半年卡被骗事件](https://www.zhihu.com/search?q=警方通报购买环球影城半年卡被骗事件)
-1. [进一步推动核酸检测结果全国互认](https://www.zhihu.com/search?q=进一步推动核酸检测结果全国互认)
-1. [商务部回应芯片法案](https://www.zhihu.com/search?q=商务部回应芯片法案)
-1. [机票燃油附加费今年首次下调](https://www.zhihu.com/search?q=机票燃油附加费今年首次下调)
 1. [福建平潭局部海域实弹射击训练](https://www.zhihu.com/search?q=福建平潭局部海域实弹射击训练)
 1. [我国成功发射遥感三十五号 03 组卫星](https://www.zhihu.com/search?q=我国成功发射遥感三十五号 03 组卫星)
 1. [官方回应 22 岁女孩加班猝死](https://www.zhihu.com/search?q=官方回应 22 岁女孩加班猝死)
 1. [马斯克对推特公司发起反诉](https://www.zhihu.com/search?q=马斯克对推特公司发起反诉)
+1. [阿里被美国证监会列入「预摘牌」名单](https://www.zhihu.com/search?q=阿里被美国证监会列入「预摘牌」名单)
+1. [特朗普公开抨击佩洛西](https://www.zhihu.com/search?q=特朗普公开抨击佩洛西)
+1. [拜登支持率仅为 38%](https://www.zhihu.com/search?q=拜登支持率仅为 38%)
+1. [8 月新规](https://www.zhihu.com/search?q=8 月新规)
+1. [警方通报购买环球影城半年卡被骗事件](https://www.zhihu.com/search?q=警方通报购买环球影城半年卡被骗事件)
+1. [进一步推动核酸检测结果全国互认](https://www.zhihu.com/search?q=进一步推动核酸检测结果全国互认)
+1. [商务部回应芯片法案](https://www.zhihu.com/search?q=商务部回应芯片法案)
+1. [机票燃油附加费今年首次下调](https://www.zhihu.com/search?q=机票燃油附加费今年首次下调)
 1. [买四类药品 72 小时内核酸不弹窗](https://www.zhihu.com/search?q=买四类药品 72 小时内核酸不弹窗)
 1. [密室大逃脱纸嫁衣](https://www.zhihu.com/search?q=密室大逃脱纸嫁衣)
 1. [福景 001 轮搜寻到落水人员遗体 25 具](https://www.zhihu.com/search?q=福景 001 轮搜寻到落水人员遗体 25
