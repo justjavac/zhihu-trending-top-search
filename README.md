@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Aug 01 2022 00:09:45 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Aug 01 2022 01:09:02 GMT+0800 (China Standard Time) -->
 
 1. [拜登新冠检测再次阳性](https://www.zhihu.com/search?q=拜登新冠检测再次阳性)
 1. [佩洛西 推特](https://www.zhihu.com/search?q=佩洛西 推特)
