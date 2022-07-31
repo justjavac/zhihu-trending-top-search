@@ -14,9 +14,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jul 31 2022 17:07:47 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jul 31 2022 18:08:46 GMT+0800 (China Standard Time) -->
 
-1. [四川持枪伤人案嫌犯尸体被发现](https://www.zhihu.com/search?q=四川持枪伤人案嫌犯尸体被发现)
 1. [联合国副秘书长称结束俄乌冲突前景黯淡](https://www.zhihu.com/search?q=联合国副秘书长称结束俄乌冲突前景黯淡)
 1. [侯勇百花奖最佳男配角](https://www.zhihu.com/search?q=侯勇百花奖最佳男配角)
 1. [天津新增阳性 5 例均为地铁安检员](https://www.zhihu.com/search?q=天津新增阳性 5 例均为地铁安检员)
@@ -26,6 +25,8 @@
 1. [沈腾 0 票](https://www.zhihu.com/search?q=沈腾 0 票)
 1. [西班牙确认第二例猴痘死亡病例](https://www.zhihu.com/search?q=西班牙确认第二例猴痘死亡病例)
 1. [拜登新冠检测再次阳性](https://www.zhihu.com/search?q=拜登新冠检测再次阳性)
+1. [佩洛西 推特](https://www.zhihu.com/search?q=佩洛西 推特)
+1. [四川持枪伤人案嫌犯尸体被发现](https://www.zhihu.com/search?q=四川持枪伤人案嫌犯尸体被发现)
 1. [耿爽说有关国家不要玩火自焚](https://www.zhihu.com/search?q=耿爽说有关国家不要玩火自焚)
 1. [开播情景喜剧收官](https://www.zhihu.com/search?q=开播情景喜剧收官)
 1. [专家称未来买房跟买包一样容易](https://www.zhihu.com/search?q=专家称未来买房跟买包一样容易)
