@@ -1,6 +1,4 @@
 [
-  { "query": "二舅币崩盘", "display_query": "二舅币崩盘" },
-  { "query": "佩洛西亚洲行程公布", "display_query": "佩洛西亚洲行程公布" },
   { "query": "黑海舰队基地遭乌方无人机袭击", "display_query": "黑海舰队基地遭乌方无人机袭击" },
   { "query": "海淀新增 1 例核酸阳性", "display_query": "海淀新增 1 例核酸阳性" },
   { "query": "里根号航母离开南海", "display_query": "里根号航母离开南海" },
@@ -9,6 +7,10 @@
   { "query": "湖南省博物馆改名湖南博物院", "display_query": "湖南省博物馆改名湖南博物院" },
   { "query": "美空军宣布 F35 机队暂停飞行", "display_query": "美空军宣布 F35 机队暂停飞行" },
   { "query": "警方认定网红用濒危大白鲨做美食", "display_query": "警方认定网红用濒危大白鲨做美食" },
+  { "query": "比尔拉塞尔离世", "display_query": "比尔拉塞尔离世" },
+  { "query": "国产大飞机 C919", "display_query": "国产大飞机 C919" },
+  { "query": "二舅币崩盘", "display_query": "二舅币崩盘" },
+  { "query": "佩洛西亚洲行程公布", "display_query": "佩洛西亚洲行程公布" },
   { "query": "空军运油 20 练兵备战", "display_query": "空军运油 20 练兵备战" },
   { "query": "空军：多型战机绕飞台湾岛", "display_query": "空军：多型战机绕飞台湾岛" },
   { "query": "7 月我国制造业 PMI", "display_query": "7 月我国制造业 PMI" },
