@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Aug 02 2022 06:08:29 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Aug 02 2022 07:10:28 GMT+0800 (China Standard Time) -->
 
 1. [比尔拉塞尔离世](https://www.zhihu.com/search?q=比尔拉塞尔离世)
 1. [国产大飞机 C919](https://www.zhihu.com/search?q=国产大飞机 C919)
