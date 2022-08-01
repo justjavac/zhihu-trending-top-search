@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Aug 01 2022 19:07:58 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Aug 01 2022 20:17:30 GMT+0800 (China Standard Time) -->
 
 1. [警方认定网红用濒危大白鲨做美食](https://www.zhihu.com/search?q=警方认定网红用濒危大白鲨做美食)
 1. [比尔拉塞尔离世](https://www.zhihu.com/search?q=比尔拉塞尔离世)
