@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Aug 03 2022 01:18:36 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Aug 03 2022 02:10:14 GMT+0800 (China Standard Time) -->
 
 1. [美击毙「基地」组织头目](https://www.zhihu.com/search?q=美击毙「基地」组织头目)
 1. [日本美滨核电站泄漏](https://www.zhihu.com/search?q=日本美滨核电站泄漏)
