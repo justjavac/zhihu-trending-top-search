@@ -1,6 +1,4 @@
 [
-  { "query": "桂宝大电影上映", "display_query": "桂宝大电影上映" },
-  { "query": "外交部正告美方中方正严阵以待", "display_query": "外交部正告美方中方正严阵以待" },
   { "query": "两部门发文打击对新冠康复者就业歧视", "display_query": "两部门发文打击对新冠康复者就业歧视" },
   { "query": "扬州大学教师出国游学倒欠学校 7 万元", "display_query": "扬州大学教师出国游学倒欠学校 7 万元" },
   { "query": "中国人开始不爱吃辣了吗", "display_query": "中国人开始不爱吃辣了吗" },
@@ -9,6 +7,10 @@
   { "query": "网传周周在西非失联", "display_query": "网传周周在西非失联" },
   { "query": "八月游戏版号下发", "display_query": "八月游戏版号下发" },
   { "query": "美击毙「基地」组织头目", "display_query": "美击毙「基地」组织头目" },
+  { "query": "日本美滨核电站泄漏", "display_query": "日本美滨核电站泄漏" },
+  { "query": "南海渤海部分海域禁止驶入", "display_query": "南海渤海部分海域禁止驶入" },
+  { "query": "桂宝大电影上映", "display_query": "桂宝大电影上映" },
+  { "query": "外交部正告美方中方正严阵以待", "display_query": "外交部正告美方中方正严阵以待" },
   { "query": "iPhone14 或无 mini 版", "display_query": "iPhone14 或无 mini 版" },
   { "query": "周渝民夫妇被骗 775 万", "display_query": "周渝民夫妇被骗 775 万" },
   { "query": "阿里回应被美列入预摘牌名单", "display_query": "阿里回应被美列入预摘牌名单" },
