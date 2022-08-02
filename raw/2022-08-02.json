@@ -1,5 +1,4 @@
 [
-  { "query": "阿里回应被美列入预摘牌名单", "display_query": "阿里回应被美列入预摘牌名单" },
   { "query": "周渝民夫妇被骗 775 万", "display_query": "周渝民夫妇被骗 775 万" },
   { "query": "iPhone14 或无 mini 版", "display_query": "iPhone14 或无 mini 版" },
   { "query": "桂宝大电影上映", "display_query": "桂宝大电影上映" },
@@ -9,6 +8,8 @@
   { "query": "中国人开始不爱吃辣了吗", "display_query": "中国人开始不爱吃辣了吗" },
   { "query": "美官员放风称「佩洛西将访问台湾」", "display_query": "美官员放风称「佩洛西将访问台湾」" },
   { "query": "东部战区发文", "display_query": "东部战区发文" },
+  { "query": "网传周周在西非失联", "display_query": "网传周周在西非失联" },
+  { "query": "阿里回应被美列入预摘牌名单", "display_query": "阿里回应被美列入预摘牌名单" },
   { "query": "国产大飞机 C919", "display_query": "国产大飞机 C919" },
   { "query": "比尔拉塞尔离世", "display_query": "比尔拉塞尔离世" }
 ]
