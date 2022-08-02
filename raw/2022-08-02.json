@@ -1,5 +1,4 @@
 [
-  { "query": "八月游戏版号下发", "display_query": "八月游戏版号下发" },
   { "query": "美击毙「基地」组织头目", "display_query": "美击毙「基地」组织头目" },
   { "query": "日本美滨核电站泄漏", "display_query": "日本美滨核电站泄漏" },
   { "query": "南海渤海部分海域禁止驶入", "display_query": "南海渤海部分海域禁止驶入" },
@@ -11,6 +10,7 @@
     "query": "网传 B 站 HR 称核心用户都是 Loser",
     "display_query": "网传 B 站 HR 称核心用户都是 Loser"
   },
+  { "query": "八月游戏版号下发", "display_query": "八月游戏版号下发" },
   { "query": "美官员放风称「佩洛西将访问台湾」", "display_query": "美官员放风称「佩洛西将访问台湾」" },
   { "query": "东部战区发文", "display_query": "东部战区发文" },
   { "query": "网传周周在西非失联", "display_query": "网传周周在西非失联" },
