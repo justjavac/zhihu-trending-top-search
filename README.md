@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Aug 04 2022 03:07:04 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Aug 04 2022 04:09:30 GMT+0800 (China Standard Time) -->
 
 1. [米哈游起诉三七互娱](https://www.zhihu.com/search?q=米哈游起诉三七互娱)
 1. [毛头的深夜理发店](https://www.zhihu.com/search?q=毛头的深夜理发店)
