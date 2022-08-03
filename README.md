@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Aug 04 2022 00:10:52 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Aug 04 2022 01:12:29 GMT+0800 (China Standard Time) -->
 
 1. [米哈游起诉三七互娱](https://www.zhihu.com/search?q=米哈游起诉三七互娱)
 1. [毛头的深夜理发店](https://www.zhihu.com/search?q=毛头的深夜理发店)
@@ -25,6 +25,7 @@
 1. [余秀华向前男友发律师函](https://www.zhihu.com/search?q=余秀华向前男友发律师函)
 1. [某公司招聘助理要陪客户睡觉](https://www.zhihu.com/search?q=某公司招聘助理要陪客户睡觉)
 1. [宁德时代或暂停北美工厂项目](https://www.zhihu.com/search?q=宁德时代或暂停北美工厂项目)
+1. [三亚进入区域管控状态](https://www.zhihu.com/search?q=三亚进入区域管控状态)
 
 <!-- END -->
 
