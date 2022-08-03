@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Aug 03 2022 18:09:09 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Aug 03 2022 19:07:44 GMT+0800 (China Standard Time) -->
 
 1. [网传 B 站 HR 称核心用户都是 Loser](https://www.zhihu.com/search?q=网传 B 站 HR 称核心用户都是
    Loser)
@@ -26,6 +26,7 @@
 1. [百花奖总导演向李玟道歉](https://www.zhihu.com/search?q=百花奖总导演向李玟道歉)
 1. [南京一研究所招聘硕士任职安保](https://www.zhihu.com/search?q=南京一研究所招聘硕士任职安保)
 1. [余秀华向前男友发律师函](https://www.zhihu.com/search?q=余秀华向前男友发律师函)
+1. [某公司招聘助理要陪客户睡觉](https://www.zhihu.com/search?q=某公司招聘助理要陪客户睡觉)
 1. [独行月球直播](https://www.zhihu.com/search?q=独行月球直播)
 1. [海贼王 1056 话情报](https://www.zhihu.com/search?q=海贼王 1056 话情报)
 1. [解放军苏-35 战机穿越台湾海峡](https://www.zhihu.com/search?q=解放军苏-35 战机穿越台湾海峡)
