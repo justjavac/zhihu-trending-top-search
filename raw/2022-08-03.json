@@ -1,5 +1,4 @@
 [
-  { "query": "佩洛西行程", "display_query": "佩洛西行程" },
   { "query": "诛仙动画开播", "display_query": "诛仙动画开播" },
   { "query": "海贼王 1056 话情报", "display_query": "海贼王 1056 话情报" },
   { "query": "独行月球直播", "display_query": "独行月球直播" },
@@ -12,6 +11,7 @@
   { "query": "中华人民共和国外交部发表声明", "display_query": "中华人民共和国外交部发表声明" },
   { "query": "米哈游起诉三七互娱", "display_query": "米哈游起诉三七互娱" },
   { "query": "毛头的深夜理发店", "display_query": "毛头的深夜理发店" },
+  { "query": "佩洛西行程", "display_query": "佩洛西行程" },
   { "query": "南海渤海部分海域禁止驶入", "display_query": "南海渤海部分海域禁止驶入" },
   { "query": "美击毙「基地」组织头目", "display_query": "美击毙「基地」组织头目" },
   { "query": "日本美滨核电站泄漏", "display_query": "日本美滨核电站泄漏" }
