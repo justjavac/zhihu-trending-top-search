@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Aug 04 2022 13:23:56 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Aug 04 2022 14:11:36 GMT+0800 (China Standard Time) -->
 
 1. [江西一男子幼儿园行凶致 3 死 6 伤](https://www.zhihu.com/search?q=江西一男子幼儿园行凶致 3 死 6 伤)
 1. [北大终止陈春花聘用合同](https://www.zhihu.com/search?q=北大终止陈春花聘用合同)
