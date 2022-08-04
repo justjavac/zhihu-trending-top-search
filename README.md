@@ -14,10 +14,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Aug 04 2022 10:57:35 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Aug 04 2022 11:54:13 GMT+0800 (China Standard Time) -->
 
-1. [米哈游起诉三七互娱](https://www.zhihu.com/search?q=米哈游起诉三七互娱)
-1. [毛头的深夜理发店](https://www.zhihu.com/search?q=毛头的深夜理发店)
 1. [江西一男子幼儿园行凶致 3 死 6 伤](https://www.zhihu.com/search?q=江西一男子幼儿园行凶致 3 死 6 伤)
 1. [北大终止陈春花聘用合同](https://www.zhihu.com/search?q=北大终止陈春花聘用合同)
 1. [百花奖总导演向李玟道歉](https://www.zhihu.com/search?q=百花奖总导演向李玟道歉)
@@ -26,6 +24,10 @@
 1. [某公司招聘助理要陪客户睡觉](https://www.zhihu.com/search?q=某公司招聘助理要陪客户睡觉)
 1. [宁德时代或暂停北美工厂项目](https://www.zhihu.com/search?q=宁德时代或暂停北美工厂项目)
 1. [三亚进入区域管控状态](https://www.zhihu.com/search?q=三亚进入区域管控状态)
+1. [河南民权县全域人员赋码管理](https://www.zhihu.com/search?q=河南民权县全域人员赋码管理)
+1. [4 日零时起三亚进入区域管控状态](https://www.zhihu.com/search?q=4 日零时起三亚进入区域管控状态)
+1. [米哈游起诉三七互娱](https://www.zhihu.com/search?q=米哈游起诉三七互娱)
+1. [毛头的深夜理发店](https://www.zhihu.com/search?q=毛头的深夜理发店)
 
 <!-- END -->
 

@@ -1,6 +1,4 @@
 [
-  { "query": "米哈游起诉三七互娱", "display_query": "米哈游起诉三七互娱" },
-  { "query": "毛头的深夜理发店", "display_query": "毛头的深夜理发店" },
   { "query": "江西一男子幼儿园行凶致 3 死 6 伤", "display_query": "江西一男子幼儿园行凶致 3 死 6 伤" },
   { "query": "北大终止陈春花聘用合同", "display_query": "北大终止陈春花聘用合同" },
   { "query": "百花奖总导演向李玟道歉", "display_query": "百花奖总导演向李玟道歉" },
@@ -8,5 +6,9 @@
   { "query": "余秀华向前男友发律师函", "display_query": "余秀华向前男友发律师函" },
   { "query": "某公司招聘助理要陪客户睡觉", "display_query": "某公司招聘助理要陪客户睡觉" },
   { "query": "宁德时代或暂停北美工厂项目", "display_query": "宁德时代或暂停北美工厂项目" },
-  { "query": "三亚进入区域管控状态", "display_query": "三亚进入区域管控状态" }
+  { "query": "三亚进入区域管控状态", "display_query": "三亚进入区域管控状态" },
+  { "query": "河南民权县全域人员赋码管理", "display_query": "河南民权县全域人员赋码管理" },
+  { "query": "4 日零时起三亚进入区域管控状态", "display_query": "4 日零时起三亚进入区域管控状态" },
+  { "query": "米哈游起诉三七互娱", "display_query": "米哈游起诉三七互娱" },
+  { "query": "毛头的深夜理发店", "display_query": "毛头的深夜理发店" }
 ]
