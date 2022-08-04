@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Aug 05 2022 05:07:27 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Aug 05 2022 06:11:04 GMT+0800 (China Standard Time) -->
 
 1. [河南民权县全域人员赋码管理](https://www.zhihu.com/search?q=河南民权县全域人员赋码管理)
 1. [4 日零时起三亚进入区域管控状态](https://www.zhihu.com/search?q=4 日零时起三亚进入区域管控状态)
