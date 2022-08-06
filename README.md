@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Aug 06 2022 15:07:58 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Aug 06 2022 16:10:08 GMT+0800 (China Standard Time) -->
 
 1. [中方同美日外长就台湾问题激烈交锋](https://www.zhihu.com/search?q=中方同美日外长就台湾问题激烈交锋)
 1. [中方对佩洛西实施制裁](https://www.zhihu.com/search?q=中方对佩洛西实施制裁)
@@ -24,6 +24,7 @@
 1. [女子耳朵痛痒难耐拆开枕头全是虫](https://www.zhihu.com/search?q=女子耳朵痛痒难耐拆开枕头全是虫)
 1. [三亚 静态管理](https://www.zhihu.com/search?q=三亚 静态管理)
 1. [黄海南部海域实弹射击](https://www.zhihu.com/search?q=黄海南部海域实弹射击)
+1. [三亚 航班取消](https://www.zhihu.com/search?q=三亚 航班取消)
 1. [江玉燕亲自答](https://www.zhihu.com/search?q=江玉燕亲自答)
 1. [明日战记](https://www.zhihu.com/search?q=明日战记)
 1. [一拳超人 214 话](https://www.zhihu.com/search?q=一拳超人 214 话)
