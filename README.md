@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Aug 06 2022 23:07:46 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Aug 07 2022 00:10:08 GMT+0800 (China Standard Time) -->
 
 1. [三亚 静态管理](https://www.zhihu.com/search?q=三亚 静态管理)
 1. [黄海南部海域实弹射击](https://www.zhihu.com/search?q=黄海南部海域实弹射击)
@@ -24,19 +24,6 @@
 1. [台岛周边演训第 3 天](https://www.zhihu.com/search?q=台岛周边演训第 3 天)
 1. [外籍人员偷拍演训被制止](https://www.zhihu.com/search?q=外籍人员偷拍演训被制止)
 1. [台湾发生轻航机坠机事故 2 人死亡](https://www.zhihu.com/search?q=台湾发生轻航机坠机事故 2 人死亡)
-1. [女子耳朵痛痒难耐拆开枕头全是虫](https://www.zhihu.com/search?q=女子耳朵痛痒难耐拆开枕头全是虫)
-1. [浪姐 3 总决赛](https://www.zhihu.com/search?q=浪姐 3 总决赛)
-1. [美特斯邦威被曝大量拖欠工资](https://www.zhihu.com/search?q=美特斯邦威被曝大量拖欠工资)
-1. [佩洛西窜台 8 项反制措施](https://www.zhihu.com/search?q=佩洛西窜台 8 项反制措施)
-1. [中方同美日外长就台湾问题激烈交锋](https://www.zhihu.com/search?q=中方同美日外长就台湾问题激烈交锋)
-1. [中方对佩洛西实施制裁](https://www.zhihu.com/search?q=中方对佩洛西实施制裁)
-1. [江玉燕亲自答](https://www.zhihu.com/search?q=江玉燕亲自答)
-1. [明日战记](https://www.zhihu.com/search?q=明日战记)
-1. [一拳超人 214 话](https://www.zhihu.com/search?q=一拳超人 214 话)
-1. [一人之下 626 话](https://www.zhihu.com/search?q=一人之下 626 话)
-1. [我国成功发射可重复使用试验航天器](https://www.zhihu.com/search?q=我国成功发射可重复使用试验航天器)
-1. [解放军在台岛以东设靶逼退里根号](https://www.zhihu.com/search?q=解放军在台岛以东设靶逼退里根号)
-1. [沙特阿联酋等 10 国希望加入上合组织](https://www.zhihu.com/search?q=沙特阿联酋等 10 国希望加入上合组织)
 
 <!-- END -->
 
