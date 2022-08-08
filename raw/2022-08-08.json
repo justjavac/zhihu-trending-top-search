@@ -1,7 +1,5 @@
 [
   { "query": "新番莉可丽丝更新", "display_query": "新番莉可丽丝更新" },
-  { "query": "美印将举行联合军演", "display_query": "美印将举行联合军演" },
-  { "query": "LDL 15 人终身禁赛", "display_query": "LDL 15 人终身禁赛" },
   { "query": "一家 13 人滞留三亚酒店住一晚万元", "display_query": "一家 13 人滞留三亚酒店住一晚万元" },
   { "query": "\t全民健身日", "display_query": "\t全民健身日" },
   { "query": "海口实行临时性全域静态管理", "display_query": "海口实行临时性全域静态管理" },
@@ -15,6 +13,10 @@
     "query": "比亚迪执行副总裁拟捐赠 50 万股公司股份",
     "display_query": "比亚迪执行副总裁拟捐赠 50 万股公司股份"
   },
+  { "query": "我国发现新人畜共患病毒「琅琊」", "display_query": "我国发现新人畜共患病毒「琅琊」" },
+  { "query": "东部战区今天继续位台岛周边演训", "display_query": "东部战区今天继续位台岛周边演训" },
+  { "query": "美印将举行联合军演", "display_query": "美印将举行联合军演" },
+  { "query": "LDL 15 人终身禁赛", "display_query": "LDL 15 人终身禁赛" },
   { "query": "谭谈交通版权纠纷以和解结局", "display_query": "谭谈交通版权纠纷以和解结局" },
   { "query": "餐厅反复上别桌吃过的鱼", "display_query": "餐厅反复上别桌吃过的鱼" },
   { "query": "凡人修仙传更新", "display_query": "凡人修仙传更新" },
