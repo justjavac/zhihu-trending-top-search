@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Aug 09 2022 15:07:49 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Aug 09 2022 16:11:02 GMT+0800 (China Standard Time) -->
 
 1. [2022 年下半年征兵工作全面展开](https://www.zhihu.com/search?q=2022 年下半年征兵工作全面展开)
 1. [禁止收视率点击率等虚假宣传](https://www.zhihu.com/search?q=禁止收视率点击率等虚假宣传)
