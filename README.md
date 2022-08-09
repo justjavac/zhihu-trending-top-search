@@ -14,9 +14,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Aug 09 2022 16:11:02 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Aug 09 2022 17:08:45 GMT+0800 (China Standard Time) -->
 
-1. [2022 年下半年征兵工作全面展开](https://www.zhihu.com/search?q=2022 年下半年征兵工作全面展开)
 1. [禁止收视率点击率等虚假宣传](https://www.zhihu.com/search?q=禁止收视率点击率等虚假宣传)
 1. [塔利班最高指挥被杀](https://www.zhihu.com/search?q=塔利班最高指挥被杀)
 1. [中方回应「解放军是否有新的演习」](https://www.zhihu.com/search?q=中方回应「解放军是否有新的演习」)
@@ -26,6 +25,8 @@
 1. [周鸿祎辟谣 360 不能卸载](https://www.zhihu.com/search?q=周鸿祎辟谣 360 不能卸载)
 1. [外交部坚决反对美英澳核潜艇合作](https://www.zhihu.com/search?q=外交部坚决反对美英澳核潜艇合作)
 1. [莫斯科交易所暂停日元交易](https://www.zhihu.com/search?q=莫斯科交易所暂停日元交易)
+1. [幼儿园被曝使用生蛆淋巴肉](https://www.zhihu.com/search?q=幼儿园被曝使用生蛆淋巴肉)
+1. [2022 年下半年征兵工作全面展开](https://www.zhihu.com/search?q=2022 年下半年征兵工作全面展开)
 1. [失散多年的孩子终会回家](https://www.zhihu.com/search?q=失散多年的孩子终会回家)
 1. [杭州亚运会发布动态体育图标](https://www.zhihu.com/search?q=杭州亚运会发布动态体育图标)
 1. [新番莉可丽丝更新](https://www.zhihu.com/search?q=新番莉可丽丝更新)
