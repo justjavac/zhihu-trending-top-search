@@ -14,10 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Aug 09 2022 07:08:18 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Aug 09 2022 08:51:34 GMT+0800 (China Standard Time) -->
 
 1. [新番莉可丽丝更新](https://www.zhihu.com/search?q=新番莉可丽丝更新)
-1. [海口实行临时性全域静态管理](https://www.zhihu.com/search?q=海口实行临时性全域静态管理)
 1. [瑞士冰川融化惊现 54 年前坠毁飞机残骸](https://www.zhihu.com/search?q=瑞士冰川融化惊现 54 年前坠毁飞机残骸)
 1. [当事人回应一家 13 口滞留三亚将花 18 万](https://www.zhihu.com/search?q=当事人回应一家 13 口滞留三亚将花
    18 万)
@@ -27,6 +26,8 @@
 1. [失散多年的孩子终会回家](https://www.zhihu.com/search?q=失散多年的孩子终会回家)
 1. [杭州亚运会发布动态体育图标](https://www.zhihu.com/search?q=杭州亚运会发布动态体育图标)
 1. [2022 年下半年征兵工作全面展开](https://www.zhihu.com/search?q=2022 年下半年征兵工作全面展开)
+1. [禁止收视率点击率等虚假宣传](https://www.zhihu.com/search?q=禁止收视率点击率等虚假宣传)
+1. [海口实行临时性全域静态管理](https://www.zhihu.com/search?q=海口实行临时性全域静态管理)
 
 <!-- END -->
 
