@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Aug 11 2022 06:07:47 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Aug 11 2022 07:07:55 GMT+0800 (China Standard Time) -->
 
 1. [苏炳添是苏轼后代](https://www.zhihu.com/search?q=苏炳添是苏轼后代)
 1. [7 月 CPI 同比上涨 2.7%](https://www.zhihu.com/search?q=7 月 CPI 同比上涨 2.7%)
