@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Aug 10 2022 14:12:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Aug 10 2022 15:07:54 GMT+0800 (China Standard Time) -->
 
 1. [美海军证实航母舰载战机被大风吹入海里](https://www.zhihu.com/search?q=美海军证实航母舰载战机被大风吹入海里)
 1. [三宅一生癌症去世](https://www.zhihu.com/search?q=三宅一生癌症去世)
