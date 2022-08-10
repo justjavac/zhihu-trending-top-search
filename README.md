@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Aug 10 2022 20:15:11 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Aug 10 2022 21:26:23 GMT+0800 (China Standard Time) -->
 
 1. [TES 十三连胜中断](https://www.zhihu.com/search?q=TES 十三连胜中断)
 1. [拜登签署《2022 芯片与科技法案》](https://www.zhihu.com/search?q=拜登签署《2022 芯片与科技法案》)
