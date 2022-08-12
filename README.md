@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Aug 12 2022 21:34:34 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Aug 12 2022 22:08:27 GMT+0800 (China Standard Time) -->
 
 1. [世界大象日](https://www.zhihu.com/search?q=世界大象日)
 1. [中泰空军联合训练](https://www.zhihu.com/search?q=中泰空军联合训练)
