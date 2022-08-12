@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Aug 13 2022 04:08:56 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Aug 13 2022 05:07:48 GMT+0800 (China Standard Time) -->
 
 1. [中泰空军联合训练](https://www.zhihu.com/search?q=中泰空军联合训练)
 1. [首个国产新冠口服药可临时性纳入医保报销](https://www.zhihu.com/search?q=首个国产新冠口服药可临时性纳入医保报销)
