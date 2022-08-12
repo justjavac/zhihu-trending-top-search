@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Aug 12 2022 22:08:27 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Aug 12 2022 23:09:41 GMT+0800 (China Standard Time) -->
 
 1. [世界大象日](https://www.zhihu.com/search?q=世界大象日)
 1. [中泰空军联合训练](https://www.zhihu.com/search?q=中泰空军联合训练)
@@ -23,6 +23,7 @@
 1. [今年首个最高级别高温红色预警发布](https://www.zhihu.com/search?q=今年首个最高级别高温红色预警发布)
 1. [中方制裁立陶宛交通与通讯部副部长](https://www.zhihu.com/search?q=中方制裁立陶宛交通与通讯部副部长)
 1. [纸嫁衣 4 中元节上线](https://www.zhihu.com/search?q=纸嫁衣 4 中元节上线)
+1. [乌克兰总统提交延长战时状态草案](https://www.zhihu.com/search?q=乌克兰总统提交延长战时状态草案)
 1. [知网为 100% 国有控股企业](https://www.zhihu.com/search?q=知网为 100% 国有控股企业)
 1. [德国火葬场为节能实行 5 人混烧](https://www.zhihu.com/search?q=德国火葬场为节能实行 5 人混烧)
 1. [冰雨火王一博](https://www.zhihu.com/search?q=冰雨火王一博)
