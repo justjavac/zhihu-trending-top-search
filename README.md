@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Aug 13 2022 15:07:25 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Aug 13 2022 16:10:37 GMT+0800 (China Standard Time) -->
 
 1. [让你敬畏生命的时刻](https://www.zhihu.com/search?q=让你敬畏生命的时刻)
 1. [首个国产新冠口服药可临时性纳入医保报销](https://www.zhihu.com/search?q=首个国产新冠口服药可临时性纳入医保报销)
