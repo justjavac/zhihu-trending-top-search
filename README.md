@@ -14,9 +14,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Aug 13 2022 08:40:15 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Aug 13 2022 10:50:47 GMT+0800 (China Standard Time) -->
 
-1. [中泰空军联合训练](https://www.zhihu.com/search?q=中泰空军联合训练)
 1. [首个国产新冠口服药可临时性纳入医保报销](https://www.zhihu.com/search?q=首个国产新冠口服药可临时性纳入医保报销)
 1. [河南、安徽 5 家村镇银行涉嫌严重犯罪](https://www.zhihu.com/search?q=河南、安徽 5 家村镇银行涉嫌严重犯罪)
 1. [今年首个最高级别高温红色预警发布](https://www.zhihu.com/search?q=今年首个最高级别高温红色预警发布)
@@ -26,6 +25,8 @@
 1. [梅西无缘金球奖](https://www.zhihu.com/search?q=梅西无缘金球奖)
 1. [特朗普涉嫌违反间谍法](https://www.zhihu.com/search?q=特朗普涉嫌违反间谍法)
 1. [美国通过通胀削减法案](https://www.zhihu.com/search?q=美国通过通胀削减法案)
+1. [河南郸城县公交停运](https://www.zhihu.com/search?q=河南郸城县公交停运)
+1. [中泰空军联合训练](https://www.zhihu.com/search?q=中泰空军联合训练)
 
 <!-- END -->
 
