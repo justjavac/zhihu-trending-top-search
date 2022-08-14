@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Aug 15 2022 01:09:35 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Aug 15 2022 02:09:22 GMT+0800 (China Standard Time) -->
 
 1. [RNG 不敌 LGD](https://www.zhihu.com/search?q=RNG 不敌 LGD)
 1. [新番莉可丽丝更新](https://www.zhihu.com/search?q=新番莉可丽丝更新)
