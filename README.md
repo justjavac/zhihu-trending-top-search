@@ -14,8 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Aug 14 2022 21:22:04 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Aug 14 2022 22:08:05 GMT+0800 (China Standard Time) -->
 
+1. [RNG 不敌 LGD](https://www.zhihu.com/search?q=RNG 不敌 LGD)
 1. [世界慰安妇纪念日](https://www.zhihu.com/search?q=世界慰安妇纪念日)
 1. [新番莉可丽丝更新](https://www.zhihu.com/search?q=新番莉可丽丝更新)
 1. [凡人修仙传更新](https://www.zhihu.com/search?q=凡人修仙传更新)
