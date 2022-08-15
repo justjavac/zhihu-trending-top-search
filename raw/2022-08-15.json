@@ -1,7 +1,4 @@
 [
-  { "query": "RNG 不敌 LGD", "display_query": "RNG 不敌 LGD" },
-  { "query": "长沙所有初中新生停止军训", "display_query": "长沙所有初中新生停止军训" },
-  { "query": "又有美国议员乘军机窜访中国台湾", "display_query": "又有美国议员乘军机窜访中国台湾" },
   { "query": "日本宣布投降 77 周年", "display_query": "日本宣布投降 77 周年" },
   { "query": "七子花失踪 115 年后重现湖北", "display_query": "七子花失踪 115 年后重现湖北" },
   {
@@ -18,6 +15,12 @@
     "query": "特朗普如被定罪将无法参加 2024 年大选",
     "display_query": "特朗普如被定罪将无法参加 2024 年大选"
   },
+  { "query": "海底捞上半年最高亏损或达 2.97 亿", "display_query": "海底捞上半年最高亏损或达 2.97 亿" },
+  { "query": "研究称单身的人衰老速度更快", "display_query": "研究称单身的人衰老速度更快" },
+  { "query": "母女带 100 多万现金坐高铁", "display_query": "母女带 100 多万现金坐高铁" },
+  { "query": "RNG 不敌 LGD", "display_query": "RNG 不敌 LGD" },
+  { "query": "长沙所有初中新生停止军训", "display_query": "长沙所有初中新生停止军训" },
+  { "query": "又有美国议员乘军机窜访中国台湾", "display_query": "又有美国议员乘军机窜访中国台湾" },
   { "query": "中国男排时隔 10 年重夺亚洲杯冠军", "display_query": "中国男排时隔 10 年重夺亚洲杯冠军" },
   { "query": "自行车赛坠亡女骑手家属获 45 万补偿", "display_query": "自行车赛坠亡女骑手家属获 45 万补偿" },
   { "query": "外交部回应日本官员参拜靖国神社", "display_query": "外交部回应日本官员参拜靖国神社" },
