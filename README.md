@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Aug 15 2022 17:08:35 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Aug 15 2022 18:09:45 GMT+0800 (China Standard Time) -->
 
 1. [RNG 不敌 LGD](https://www.zhihu.com/search?q=RNG 不敌 LGD)
 1. [安徽热成全国第一](https://www.zhihu.com/search?q=安徽热成全国第一)
