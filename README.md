@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Aug 16 2022 15:07:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Aug 16 2022 16:09:09 GMT+0800 (China Standard Time) -->
 
 1. [辉瑞首席执行官新冠阳性](https://www.zhihu.com/search?q=辉瑞首席执行官新冠阳性)
 1. [北京交警通报马思纯逆行](https://www.zhihu.com/search?q=北京交警通报马思纯逆行)
