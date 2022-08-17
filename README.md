@@ -14,16 +14,17 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Aug 17 2022 13:40:01 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Aug 17 2022 14:11:25 GMT+0800 (China Standard Time) -->
 
 1. [宜家三个月关停两店](https://www.zhihu.com/search?q=宜家三个月关停两店)
 1. [龙漕沟山洪遇险游客追责旅行社](https://www.zhihu.com/search?q=龙漕沟山洪遇险游客追责旅行社)
 1. [王者荣耀月收入 2.25 亿美金](https://www.zhihu.com/search?q=王者荣耀月收入 2.25 亿美金)
+1. [动画电影《深海》](https://www.zhihu.com/search?q=动画电影《深海》)
 1. [国际足联对印度足协禁赛](https://www.zhihu.com/search?q=国际足联对印度足协禁赛)
 1. [重庆城口县城供水水源仅够支撑十天](https://www.zhihu.com/search?q=重庆城口县城供水水源仅够支撑十天)
 1. [辅助生殖技术将逐步纳入医保](https://www.zhihu.com/search?q=辅助生殖技术将逐步纳入医保)
-1. [林志颖顺利完成颜面手术](https://www.zhihu.com/search?q=林志颖顺利完成颜面手术)
 1. [电锯人第二部更新](https://www.zhihu.com/search?q=电锯人第二部更新)
+1. [林志颖顺利完成颜面手术](https://www.zhihu.com/search?q=林志颖顺利完成颜面手术)
 1. [三亚吉阳区委书记被免职](https://www.zhihu.com/search?q=三亚吉阳区委书记被免职)
 1. [长江流域严重旱情](https://www.zhihu.com/search?q=长江流域严重旱情)
 1. [官方回应「嘉陵江被晒干」](https://www.zhihu.com/search?q=官方回应「嘉陵江被晒干」)
