@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Aug 17 2022 19:07:08 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Aug 17 2022 20:17:22 GMT+0800 (China Standard Time) -->
 
 1. [FPX 3:2 OMG](https://www.zhihu.com/search?q=FPX 3:2 OMG)
 1. [美国第一夫人核酸阳性](https://www.zhihu.com/search?q=美国第一夫人核酸阳性)
