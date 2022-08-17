@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Aug 17 2022 12:59:32 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Aug 17 2022 13:40:01 GMT+0800 (China Standard Time) -->
 
 1. [宜家三个月关停两店](https://www.zhihu.com/search?q=宜家三个月关停两店)
 1. [龙漕沟山洪遇险游客追责旅行社](https://www.zhihu.com/search?q=龙漕沟山洪遇险游客追责旅行社)
