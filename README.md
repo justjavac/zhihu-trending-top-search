@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Aug 19 2022 22:08:50 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Aug 19 2022 23:09:41 GMT+0800 (China Standard Time) -->
 
 1. [重庆涪陵山火复燃](https://www.zhihu.com/search?q=重庆涪陵山火复燃)
 1. [警方通报四川成雅高速车祸](https://www.zhihu.com/search?q=警方通报四川成雅高速车祸)
