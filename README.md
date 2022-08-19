@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Aug 19 2022 13:20:16 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Aug 19 2022 14:13:06 GMT+0800 (China Standard Time) -->
 
 1. [长沙湘雅二院通报网传医生作风问题](https://www.zhihu.com/search?q=长沙湘雅二院通报网传医生作风问题)
 1. [官方回应四姑娘山万年冰川裸了](https://www.zhihu.com/search?q=官方回应四姑娘山万年冰川裸了)
