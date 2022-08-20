@@ -14,9 +14,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Aug 20 2022 20:14:03 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Aug 20 2022 21:20:29 GMT+0800 (China Standard Time) -->
 
-1. [如月千早被误传为成语](https://www.zhihu.com/search?q=如月千早被误传为成语)
 1. [苏州警方归还和服女孩的衣服鞋袜](https://www.zhihu.com/search?q=苏州警方归还和服女孩的衣服鞋袜)
 1. [黑神话悟空全新实机](https://www.zhihu.com/search?q=黑神话悟空全新实机)
 1. [高温红色预警](https://www.zhihu.com/search?q=高温红色预警)
@@ -26,6 +25,8 @@
 1. [纳粹德国舰队露出水面](https://www.zhihu.com/search?q=纳粹德国舰队露出水面)
 1. [专家称取消公摊面积不可行](https://www.zhihu.com/search?q=专家称取消公摊面积不可行)
 1. [干旱橙色预警](https://www.zhihu.com/search?q=干旱橙色预警)
+1. [湖北毒贩街头驾车冲撞警车](https://www.zhihu.com/search?q=湖北毒贩街头驾车冲撞警车)
+1. [如月千早被误传为成语](https://www.zhihu.com/search?q=如月千早被误传为成语)
 1. [里根号航母已返回日本横须贺母港](https://www.zhihu.com/search?q=里根号航母已返回日本横须贺母港)
 1. [立陶宛要求中方撤回制裁](https://www.zhihu.com/search?q=立陶宛要求中方撤回制裁)
 1. [北京预售房确需延期每次不超 6 个月](https://www.zhihu.com/search?q=北京预售房确需延期每次不超 6 个月)
