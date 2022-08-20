@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Aug 21 2022 05:07:44 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Aug 21 2022 06:08:07 GMT+0800 (China Standard Time) -->
 
 1. [黑神话悟空全新实机](https://www.zhihu.com/search?q=黑神话悟空全新实机)
 1. [高温红色预警](https://www.zhihu.com/search?q=高温红色预警)
