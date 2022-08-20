@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Aug 20 2022 14:10:02 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Aug 20 2022 15:07:30 GMT+0800 (China Standard Time) -->
 
 1. [国家卫计委计划生育兼职委员制度撤销](https://www.zhihu.com/search?q=国家卫计委计划生育兼职委员制度撤销)
 1. [美疾控中心承认疫情防控失误](https://www.zhihu.com/search?q=美疾控中心承认疫情防控失误)
