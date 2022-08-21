@@ -14,9 +14,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Aug 21 2022 08:43:39 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Aug 21 2022 11:09:10 GMT+0800 (China Standard Time) -->
 
-1. [黑神话悟空全新实机](https://www.zhihu.com/search?q=黑神话悟空全新实机)
 1. [高温红色预警](https://www.zhihu.com/search?q=高温红色预警)
 1. [鄱阳湖「缩水」](https://www.zhihu.com/search?q=鄱阳湖「缩水」)
 1. [阳光玫瑰葡萄价格跳水](https://www.zhihu.com/search?q=阳光玫瑰葡萄价格跳水)
@@ -26,6 +25,8 @@
 1. [干旱橙色预警](https://www.zhihu.com/search?q=干旱橙色预警)
 1. [湖北毒贩街头驾车冲撞警车](https://www.zhihu.com/search?q=湖北毒贩街头驾车冲撞警车)
 1. [劳荣枝案二审择期宣判](https://www.zhihu.com/search?q=劳荣枝案二审择期宣判)
+1. [特朗普或将面临刑事起诉](https://www.zhihu.com/search?q=特朗普或将面临刑事起诉)
+1. [黑神话悟空全新实机](https://www.zhihu.com/search?q=黑神话悟空全新实机)
 
 <!-- END -->
 
