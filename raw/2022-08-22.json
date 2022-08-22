@@ -1,8 +1,5 @@
 [
   { "query": "凡人修仙传更新", "display_query": "凡人修仙传更新" },
-  { "query": "全球棉花价格因高温上涨 30%", "display_query": "全球棉花价格因高温上涨 30%" },
-  { "query": "国家向重庆紧急调运抗旱物资", "display_query": "国家向重庆紧急调运抗旱物资" },
-  { "query": "日本东京发生随机砍人事件", "display_query": "日本东京发生随机砍人事件" },
   {
     "query": "四川最高用电需求负荷已至 6500 万千瓦",
     "display_query": "四川最高用电需求负荷已至 6500 万千瓦"
@@ -15,6 +12,12 @@
     "display_query": "台湾一高中生为赚 36 万把好友卖去柬埔寨"
   },
   { "query": "新疆下雪了", "display_query": "新疆下雪了" },
+  { "query": "新版红绿灯", "display_query": "新版红绿灯" },
+  { "query": "中秋节放假安排", "display_query": "中秋节放假安排" },
+  { "query": "LPR 非对称下调", "display_query": "LPR 非对称下调" },
+  { "query": "全球棉花价格因高温上涨 30%", "display_query": "全球棉花价格因高温上涨 30%" },
+  { "query": "国家向重庆紧急调运抗旱物资", "display_query": "国家向重庆紧急调运抗旱物资" },
+  { "query": "日本东京发生随机砍人事件", "display_query": "日本东京发生随机砍人事件" },
   { "query": "俄方称杜金之女身亡案系刺杀事件", "display_query": "俄方称杜金之女身亡案系刺杀事件" },
   { "query": "日本首相岸田文雄新冠检测呈阳性", "display_query": "日本首相岸田文雄新冠检测呈阳性" },
   { "query": "中国女排横扫韩国女排", "display_query": "中国女排横扫韩国女排" },
