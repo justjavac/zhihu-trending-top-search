@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Aug 23 2022 01:11:48 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Aug 23 2022 02:10:22 GMT+0800 (China Standard Time) -->
 
 1. [凡人修仙传更新](https://www.zhihu.com/search?q=凡人修仙传更新)
 1. [官方：不存在红绿灯新国标](https://www.zhihu.com/search?q=官方：不存在红绿灯新国标)
