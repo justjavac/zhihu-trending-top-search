@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Aug 23 2022 14:22:17 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Aug 23 2022 15:12:48 GMT+0800 (China Standard Time) -->
 
 1. [凡人修仙传更新](https://www.zhihu.com/search?q=凡人修仙传更新)
 1. [张朝阳建议大家少睡觉](https://www.zhihu.com/search?q=张朝阳建议大家少睡觉)
