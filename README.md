@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Aug 24 2022 21:28:41 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Aug 24 2022 22:07:30 GMT+0800 (China Standard Time) -->
 
 1. [湘雅二医院刘翔峰发声](https://www.zhihu.com/search?q=湘雅二医院刘翔峰发声)
 1. [美将 7 家中国相关实体列入出口管制清单](https://www.zhihu.com/search?q=美将 7 家中国相关实体列入出口管制清单)
