@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Aug 26 2022 01:13:04 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Aug 26 2022 02:09:48 GMT+0800 (China Standard Time) -->
 
 1. [四六级成绩](https://www.zhihu.com/search?q=四六级成绩)
 1. [EDG 晋级败者组决赛](https://www.zhihu.com/search?q=EDG 晋级败者组决赛)
