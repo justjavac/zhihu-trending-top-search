@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Aug 25 2022 18:09:23 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Aug 25 2022 19:07:37 GMT+0800 (China Standard Time) -->
 
 1. [四六级成绩](https://www.zhihu.com/search?q=四六级成绩)
 1. [微信一次发 99 张图](https://www.zhihu.com/search?q=微信一次发 99 张图)
