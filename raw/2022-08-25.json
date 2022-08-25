@@ -1,7 +1,5 @@
 [
   { "query": "四六级成绩", "display_query": "四六级成绩" },
-  { "query": "张庭转战马来西亚", "display_query": "张庭转战马来西亚" },
-  { "query": "四川 43.9 ℃高温", "display_query": "四川 43.9 ℃高温" },
   { "query": "微信一次发 99 张图", "display_query": "微信一次发 99 张图" },
   { "query": "媒体评贾浅浅争议", "display_query": "媒体评贾浅浅争议" },
   { "query": "今日出伏", "display_query": "今日出伏" },
@@ -9,6 +7,13 @@
   { "query": "科比坠机遗体照遭泄露案判决结果", "display_query": "科比坠机遗体照遭泄露案判决结果" },
   { "query": "重庆巴南区山火明火已扑灭", "display_query": "重庆巴南区山火明火已扑灭" },
   { "query": "郑州房东降价 40% 仍难租", "display_query": "郑州房东降价 40% 仍难租" },
+  { "query": "台风「马鞍」登陆", "display_query": "台风「马鞍」登陆" },
+  {
+    "query": "中央预备费拿出 100 亿元重点支持中稻抗旱",
+    "display_query": "中央预备费拿出 100 亿元重点支持中稻抗旱"
+  },
+  { "query": "张庭转战马来西亚", "display_query": "张庭转战马来西亚" },
+  { "query": "四川 43.9 ℃高温", "display_query": "四川 43.9 ℃高温" },
   { "query": "\t意大利男子同时感染猴痘新冠与艾滋", "display_query": "\t意大利男子同时感染猴痘新冠与艾滋" },
   { "query": "媒体：川渝的灾情不该拿来调侃", "display_query": "媒体：川渝的灾情不该拿来调侃" },
   { "query": "美国发现 1.13 亿年前恐龙足迹", "display_query": "美国发现 1.13 亿年前恐龙足迹" },
