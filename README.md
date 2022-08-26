@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Aug 26 2022 13:19:39 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Aug 26 2022 14:28:55 GMT+0800 (China Standard Time) -->
 
 1. [EDG 晋级败者组决赛](https://www.zhihu.com/search?q=EDG 晋级败者组决赛)
 1. [PS5 涨价](https://www.zhihu.com/search?q=PS5 涨价)
