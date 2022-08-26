@@ -14,9 +14,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Aug 26 2022 22:07:59 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Aug 26 2022 23:09:46 GMT+0800 (China Standard Time) -->
 
-1. [湘雅二院刘翔峰被查](https://www.zhihu.com/search?q=湘雅二院刘翔峰被查)
 1. [中国排协回应女排戴口罩比赛](https://www.zhihu.com/search?q=中国排协回应女排戴口罩比赛)
 1. [我国亚轨道运载器重复使用飞行试验取得圆满成功](https://www.zhihu.com/search?q=我国亚轨道运载器重复使用飞行试验取得圆满成功)
 1. [美人鱼原型在中国灭绝](https://www.zhihu.com/search?q=美人鱼原型在中国灭绝)
@@ -26,6 +25,8 @@
 1. [微软称 Xbox 不会涨价](https://www.zhihu.com/search?q=微软称 Xbox 不会涨价)
 1. [女鬼桥改编游戏](https://www.zhihu.com/search?q=女鬼桥改编游戏)
 1. [大旱之后必有大震吗？](https://www.zhihu.com/search?q=大旱之后必有大震吗？)
+1. [林志颖车祸后首发文](https://www.zhihu.com/search?q=林志颖车祸后首发文)
+1. [湘雅二院刘翔峰被查](https://www.zhihu.com/search?q=湘雅二院刘翔峰被查)
 1. [EDG 晋级败者组决赛](https://www.zhihu.com/search?q=EDG 晋级败者组决赛)
 1. [张天爱徐开骋录音](https://www.zhihu.com/search?q=张天爱徐开骋录音)
 1. [《曲中剑》制作人亲自答](https://www.zhihu.com/search?q=《曲中剑》制作人亲自答)
