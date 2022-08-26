@@ -1,8 +1,7 @@
 [
   { "query": "EDG 晋级败者组决赛", "display_query": "EDG 晋级败者组决赛" },
-  { "query": "FGO 国服从者再修改", "display_query": "FGO 国服从者再修改" },
-  { "query": "《曲中剑》制作人亲自答", "display_query": "《曲中剑》制作人亲自答" },
   { "query": "安倍遭暗杀调查结果公布", "display_query": "安倍遭暗杀调查结果公布" },
+  { "query": "《曲中剑》制作人亲自答", "display_query": "《曲中剑》制作人亲自答" },
   { "query": "外教杀害女学生案宣判", "display_query": "外教杀害女学生案宣判" },
   { "query": "张天爱徐开骋录音", "display_query": "张天爱徐开骋录音" },
   { "query": "中国女排亚洲杯 4 连胜", "display_query": "中国女排亚洲杯 4 连胜" },
@@ -12,6 +11,8 @@
     "query": "我国亚轨道运载器重复使用飞行试验取得圆满成功",
     "display_query": "我国亚轨道运载器重复使用飞行试验取得圆满成功"
   },
+  { "query": "美人鱼原型在中国灭绝", "display_query": "美人鱼原型在中国灭绝" },
+  { "query": "FGO 国服从者再修改", "display_query": "FGO 国服从者再修改" },
   { "query": "PS5 涨价", "display_query": "PS5 涨价" },
   { "query": "下半年征兵工作开始", "display_query": "下半年征兵工作开始" },
   { "query": "新郎拍结婚照遭雷击", "display_query": "新郎拍结婚照遭雷击" },
