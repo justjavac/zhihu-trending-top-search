@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Aug 28 2022 03:06:32 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Aug 28 2022 04:08:50 GMT+0800 (China Standard Time) -->
 
 1. [微软称 Xbox 不会涨价](https://www.zhihu.com/search?q=微软称 Xbox 不会涨价)
 1. [女鬼桥改编游戏](https://www.zhihu.com/search?q=女鬼桥改编游戏)
