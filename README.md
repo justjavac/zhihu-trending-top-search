@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Aug 29 2022 16:11:43 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Aug 29 2022 17:08:54 GMT+0800 (China Standard Time) -->
 
 1. [GEN.G 夺得 LCK 夏季赛冠军](https://www.zhihu.com/search?q=GEN.G 夺得 LCK 夏季赛冠军)
 1. [中国女排 3:2 泰国女排](https://www.zhihu.com/search?q=中国女排 3:2 泰国女排)
