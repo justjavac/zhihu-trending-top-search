@@ -1,5 +1,4 @@
 [
-  { "query": "TES 3:0 EDG 晋级总决赛", "display_query": "TES 3:0 EDG 晋级总决赛" },
   { "query": "川渝严防旱涝急转", "display_query": "川渝严防旱涝急转" },
   {
     "query": "BA.2.76 变异株不到 2 天传播 1 代",
@@ -12,6 +11,8 @@
   { "query": "唐山烧烤店打人案侦办经过还原", "display_query": "唐山烧烤店打人案侦办经过还原" },
   { "query": "警方讯问陈某志现场视频首次公开", "display_query": "警方讯问陈某志现场视频首次公开" },
   { "query": "唐山打人案被害人回应网络传言", "display_query": "唐山打人案被害人回应网络传言" },
+  { "query": "大连乘坐公共交通需佩戴 N95 口罩", "display_query": "大连乘坐公共交通需佩戴 N95 口罩" },
+  { "query": "TES 3:0 EDG 晋级总决赛", "display_query": "TES 3:0 EDG 晋级总决赛" },
   { "query": "中国女排 3:2 泰国女排", "display_query": "中国女排 3:2 泰国女排" },
   { "query": "大邑山洪", "display_query": "大邑山洪" },
   { "query": "GEN.G 夺得 LCK 夏季赛冠军", "display_query": "GEN.G 夺得 LCK 夏季赛冠军" },
