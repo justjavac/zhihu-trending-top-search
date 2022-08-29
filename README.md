@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Aug 29 2022 14:39:42 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Aug 29 2022 15:15:45 GMT+0800 (China Standard Time) -->
 
 1. [美驻基辅大使馆外交官遇车祸身亡](https://www.zhihu.com/search?q=美驻基辅大使馆外交官遇车祸身亡)
 1. [GEN.G 夺得 LCK 夏季赛冠军](https://www.zhihu.com/search?q=GEN.G 夺得 LCK 夏季赛冠军)
