@@ -14,10 +14,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Aug 29 2022 18:09:26 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Aug 29 2022 19:07:53 GMT+0800 (China Standard Time) -->
 
-1. [中国女排 3:2 泰国女排](https://www.zhihu.com/search?q=中国女排 3:2 泰国女排)
-1. [大邑山洪](https://www.zhihu.com/search?q=大邑山洪)
 1. [TES 3:0 EDG 晋级总决赛](https://www.zhihu.com/search?q=TES 3:0 EDG 晋级总决赛)
 1. [川渝严防旱涝急转](https://www.zhihu.com/search?q=川渝严防旱涝急转)
 1. [BA.2.76 变异株不到 2 天传播 1 代](https://www.zhihu.com/search?q=BA.2.76 变异株不到 2 天传播
@@ -27,6 +25,10 @@
 1. [一人之下锈铁更新](https://www.zhihu.com/search?q=一人之下锈铁更新)
 1. [7 国取消承认科索沃](https://www.zhihu.com/search?q=7 国取消承认科索沃)
 1. [唐山烧烤店打人案侦办经过还原](https://www.zhihu.com/search?q=唐山烧烤店打人案侦办经过还原)
+1. [警方讯问陈某志现场视频首次公开](https://www.zhihu.com/search?q=警方讯问陈某志现场视频首次公开)
+1. [唐山打人案被害人回应网络传言](https://www.zhihu.com/search?q=唐山打人案被害人回应网络传言)
+1. [中国女排 3:2 泰国女排](https://www.zhihu.com/search?q=中国女排 3:2 泰国女排)
+1. [大邑山洪](https://www.zhihu.com/search?q=大邑山洪)
 1. [GEN.G 夺得 LCK 夏季赛冠军](https://www.zhihu.com/search?q=GEN.G 夺得 LCK 夏季赛冠军)
 1. [海贼王 1058 话](https://www.zhihu.com/search?q=海贼王 1058 话)
 1. [美驻基辅大使馆外交官遇车祸身亡](https://www.zhihu.com/search?q=美驻基辅大使馆外交官遇车祸身亡)
