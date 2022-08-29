@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Aug 30 2022 06:08:43 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Aug 30 2022 07:08:39 GMT+0800 (China Standard Time) -->
 
 1. [川渝严防旱涝急转](https://www.zhihu.com/search?q=川渝严防旱涝急转)
 1. [BA.2.76 变异株不到 2 天传播 1 代](https://www.zhihu.com/search?q=BA.2.76 变异株不到 2 天传播
