@@ -7,5 +7,10 @@
   { "query": "大邑山洪", "display_query": "大邑山洪" },
   { "query": "TES 3:0 EDG 晋级总决赛", "display_query": "TES 3:0 EDG 晋级总决赛" },
   { "query": "川渝严防旱涝急转", "display_query": "川渝严防旱涝急转" },
+  {
+    "query": "BA.2.76 变异株不到 2 天传播 1 代",
+    "display_query": "BA.2.76 变异株不到 2 天传播 1 代"
+  },
+  { "query": "唐山打人案陈某志等 7 人被起诉", "display_query": "唐山打人案陈某志等 7 人被起诉" },
   { "query": "夫妻俩卖 5 斤芹菜被罚 6.6 万", "display_query": "夫妻俩卖 5 斤芹菜被罚 6.6 万" }
 ]

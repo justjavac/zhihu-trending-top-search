@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Aug 29 2022 08:51:58 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Aug 29 2022 11:31:04 GMT+0800 (China Standard Time) -->
 
 1. [东部战区回应美舰过航台湾海峡](https://www.zhihu.com/search?q=东部战区回应美舰过航台湾海峡)
 1. [	台媒称金门岗哨再次发现大陆无人机](https://www.zhihu.com/search?q=	台媒称金门岗哨再次发现大陆无人机)
@@ -24,6 +24,9 @@
 1. [大邑山洪](https://www.zhihu.com/search?q=大邑山洪)
 1. [TES 3:0 EDG 晋级总决赛](https://www.zhihu.com/search?q=TES 3:0 EDG 晋级总决赛)
 1. [川渝严防旱涝急转](https://www.zhihu.com/search?q=川渝严防旱涝急转)
+1. [BA.2.76 变异株不到 2 天传播 1 代](https://www.zhihu.com/search?q=BA.2.76 变异株不到 2 天传播
+   1 代)
+1. [唐山打人案陈某志等 7 人被起诉](https://www.zhihu.com/search?q=唐山打人案陈某志等 7 人被起诉)
 1. [夫妻俩卖 5 斤芹菜被罚 6.6 万](https://www.zhihu.com/search?q=夫妻俩卖 5 斤芹菜被罚 6.6 万)
 
 <!-- END -->
