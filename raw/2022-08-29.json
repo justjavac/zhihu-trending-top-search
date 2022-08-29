@@ -1,5 +1,4 @@
 [
-  { "query": "东部战区回应美舰过航台湾海峡", "display_query": "东部战区回应美舰过航台湾海峡" },
   { "query": "美驻基辅大使馆外交官遇车祸身亡", "display_query": "美驻基辅大使馆外交官遇车祸身亡" },
   { "query": "GEN.G 夺得 LCK 夏季赛冠军", "display_query": "GEN.G 夺得 LCK 夏季赛冠军" },
   { "query": "中国女排 3:2 泰国女排", "display_query": "中国女排 3:2 泰国女排" },
@@ -12,6 +11,8 @@
   },
   { "query": "唐山打人案陈某志等 7 人被起诉", "display_query": "唐山打人案陈某志等 7 人被起诉" },
   { "query": "轰-6K 巡航台岛常态化", "display_query": "轰-6K 巡航台岛常态化" },
+  { "query": "海贼王 1058 话", "display_query": "海贼王 1058 话" },
+  { "query": "东部战区回应美舰过航台湾海峡", "display_query": "东部战区回应美舰过航台湾海峡" },
   { "query": "\t台媒称金门岗哨再次发现大陆无人机", "display_query": "\t台媒称金门岗哨再次发现大陆无人机" },
   { "query": "夫妻俩卖 5 斤芹菜被罚 6.6 万", "display_query": "夫妻俩卖 5 斤芹菜被罚 6.6 万" }
 ]
