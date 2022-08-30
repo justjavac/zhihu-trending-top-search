@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Aug 30 2022 21:34:26 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Aug 30 2022 22:10:20 GMT+0800 (China Standard Time) -->
 
 1. [一人之下锈铁更新](https://www.zhihu.com/search?q=一人之下锈铁更新)
 1. [伊拉克宵禁](https://www.zhihu.com/search?q=伊拉克宵禁)
