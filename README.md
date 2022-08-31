@@ -14,11 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Aug 31 2022 07:09:20 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Aug 31 2022 08:58:01 GMT+0800 (China Standard Time) -->
 
 1. [一人之下锈铁更新](https://www.zhihu.com/search?q=一人之下锈铁更新)
-1. [伊拉克宵禁](https://www.zhihu.com/search?q=伊拉克宵禁)
-1. [台风轩岚诺](https://www.zhihu.com/search?q=台风轩岚诺)
 1. [全球罕见黄金血型](https://www.zhihu.com/search?q=全球罕见黄金血型)
 1. [美驻伊大使馆附近遭火箭袭击](https://www.zhihu.com/search?q=美驻伊大使馆附近遭火箭袭击)
 1. [医生穿刺失误后承诺赔偿又赖账](https://www.zhihu.com/search?q=医生穿刺失误后承诺赔偿又赖账)
@@ -28,6 +26,8 @@
 1. [美国一男子无暴力举动被警察 8 枪打死](https://www.zhihu.com/search?q=美国一男子无暴力举动被警察 8 枪打死)
 1. [稻盛和夫去世](https://www.zhihu.com/search?q=稻盛和夫去世)
 1. [男子坐公交没戴 N95 被乘客骂缺德](https://www.zhihu.com/search?q=男子坐公交没戴 N95 被乘客骂缺德)
+1. [伊拉克宵禁](https://www.zhihu.com/search?q=伊拉克宵禁)
+1. [台风轩岚诺](https://www.zhihu.com/search?q=台风轩岚诺)
 1. [川渝电力供应恢复正常](https://www.zhihu.com/search?q=川渝电力供应恢复正常)
 1. [原神联动必胜客](https://www.zhihu.com/search?q=原神联动必胜客)
 
