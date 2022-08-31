@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Sep 01 2022 03:07:04 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Sep 01 2022 04:09:41 GMT+0800 (China Standard Time) -->
 
 1. [电锯人第二部更新](https://www.zhihu.com/search?q=电锯人第二部更新)
 1. [阿尔忒弥斯 1 号火箭 9 月 3 日重新发射](https://www.zhihu.com/search?q=阿尔忒弥斯 1 号火箭 9 月 3
