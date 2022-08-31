@@ -14,12 +14,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Aug 31 2022 14:49:43 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Aug 31 2022 15:30:34 GMT+0800 (China Standard Time) -->
 
 1. [电锯人第二部更新](https://www.zhihu.com/search?q=电锯人第二部更新)
 1. [一人之下锈铁更新](https://www.zhihu.com/search?q=一人之下锈铁更新)
+1. [特朗普呼吁立即重新大选](https://www.zhihu.com/search?q=特朗普呼吁立即重新大选)
 1. [川渝电力供应恢复正常](https://www.zhihu.com/search?q=川渝电力供应恢复正常)
 1. [原神联动必胜客](https://www.zhihu.com/search?q=原神联动必胜客)
+1. [海底捞猪肚鸡汤底系粉料冲泡](https://www.zhihu.com/search?q=海底捞猪肚鸡汤底系粉料冲泡)
+1. [马斯克正式终止收购推特](https://www.zhihu.com/search?q=马斯克正式终止收购推特)
+1. [脱口秀大会 5 开播](https://www.zhihu.com/search?q=脱口秀大会 5 开播)
+1. [中俄将在日本海联合演习](https://www.zhihu.com/search?q=中俄将在日本海联合演习)
+1. [巴菲特首次减持比亚迪](https://www.zhihu.com/search?q=巴菲特首次减持比亚迪)
 1. [河南建立村镇银行名单制管理机制](https://www.zhihu.com/search?q=河南建立村镇银行名单制管理机制)
 1. [9 月新规](https://www.zhihu.com/search?q=9 月新规)
 1. [美国出现首例猴痘死亡病例](https://www.zhihu.com/search?q=美国出现首例猴痘死亡病例)
@@ -28,10 +34,6 @@
 1. [韩美日国安首长将于夏威夷会晤](https://www.zhihu.com/search?q=韩美日国安首长将于夏威夷会晤)
 1. [稻盛和夫去世](https://www.zhihu.com/search?q=稻盛和夫去世)
 1. [男子坐公交没戴 N95 被乘客骂缺德](https://www.zhihu.com/search?q=男子坐公交没戴 N95 被乘客骂缺德)
-1. [特朗普呼吁立即重新大选](https://www.zhihu.com/search?q=特朗普呼吁立即重新大选)
-1. [海底捞猪肚鸡汤底系粉料冲泡](https://www.zhihu.com/search?q=海底捞猪肚鸡汤底系粉料冲泡)
-1. [马斯克正式终止收购推特](https://www.zhihu.com/search?q=马斯克正式终止收购推特)
-1. [脱口秀大会 5 开播](https://www.zhihu.com/search?q=脱口秀大会 5 开播)
 1. [多地将现房销售写入土地出让文件](https://www.zhihu.com/search?q=多地将现房销售写入土地出让文件)
 1. [美国一男子无暴力举动被警察 8 枪打死](https://www.zhihu.com/search?q=美国一男子无暴力举动被警察 8 枪打死)
 1. [全球罕见黄金血型](https://www.zhihu.com/search?q=全球罕见黄金血型)
