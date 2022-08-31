@@ -14,11 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Aug 31 2022 18:09:25 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Aug 31 2022 19:07:25 GMT+0800 (China Standard Time) -->
 
 1. [电锯人第二部更新](https://www.zhihu.com/search?q=电锯人第二部更新)
-1. [海底捞猪肚鸡汤底系粉料冲泡](https://www.zhihu.com/search?q=海底捞猪肚鸡汤底系粉料冲泡)
-1. [马斯克正式终止收购推特](https://www.zhihu.com/search?q=马斯克正式终止收购推特)
 1. [脱口秀大会 5 开播](https://www.zhihu.com/search?q=脱口秀大会 5 开播)
 1. [中俄将在日本海联合演习](https://www.zhihu.com/search?q=中俄将在日本海联合演习)
 1. [巴菲特首次减持比亚迪](https://www.zhihu.com/search?q=巴菲特首次减持比亚迪)
@@ -27,12 +25,14 @@
 1. [陈春花辞任中国银行职务](https://www.zhihu.com/search?q=陈春花辞任中国银行职务)
 1. [阿尔忒弥斯 1 号火箭 9 月 3 日重新发射](https://www.zhihu.com/search?q=阿尔忒弥斯 1 号火箭 9 月 3
    日重新发射)
+1. [9 月新规](https://www.zhihu.com/search?q=9 月新规)
+1. [美国出现首例猴痘死亡病例](https://www.zhihu.com/search?q=美国出现首例猴痘死亡病例)
+1. [海底捞猪肚鸡汤底系粉料冲泡](https://www.zhihu.com/search?q=海底捞猪肚鸡汤底系粉料冲泡)
+1. [马斯克正式终止收购推特](https://www.zhihu.com/search?q=马斯克正式终止收购推特)
 1. [一人之下锈铁更新](https://www.zhihu.com/search?q=一人之下锈铁更新)
 1. [原神联动必胜客](https://www.zhihu.com/search?q=原神联动必胜客)
 1. [特朗普呼吁立即重新大选](https://www.zhihu.com/search?q=特朗普呼吁立即重新大选)
 1. [川渝电力供应恢复正常](https://www.zhihu.com/search?q=川渝电力供应恢复正常)
-1. [9 月新规](https://www.zhihu.com/search?q=9 月新规)
-1. [美国出现首例猴痘死亡病例](https://www.zhihu.com/search?q=美国出现首例猴痘死亡病例)
 1. [中国互联网络发展状况统计报告](https://www.zhihu.com/search?q=中国互联网络发展状况统计报告)
 1. [二舅视频作者近期将发布澄清视频](https://www.zhihu.com/search?q=二舅视频作者近期将发布澄清视频)
 1. [韩美日国安首长将于夏威夷会晤](https://www.zhihu.com/search?q=韩美日国安首长将于夏威夷会晤)
