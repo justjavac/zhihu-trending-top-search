@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Sep 01 2022 01:15:03 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Sep 01 2022 02:10:48 GMT+0800 (China Standard Time) -->
 
 1. [电锯人第二部更新](https://www.zhihu.com/search?q=电锯人第二部更新)
 1. [9 月新规](https://www.zhihu.com/search?q=9 月新规)
