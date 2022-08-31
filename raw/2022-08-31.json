@@ -1,7 +1,5 @@
 [
   { "query": "电锯人第二部更新", "display_query": "电锯人第二部更新" },
-  { "query": "一人之下锈铁更新", "display_query": "一人之下锈铁更新" },
-  { "query": "原神联动必胜客", "display_query": "原神联动必胜客" },
   { "query": "海底捞猪肚鸡汤底系粉料冲泡", "display_query": "海底捞猪肚鸡汤底系粉料冲泡" },
   { "query": "马斯克正式终止收购推特", "display_query": "马斯克正式终止收购推特" },
   { "query": "脱口秀大会 5 开播", "display_query": "脱口秀大会 5 开播" },
@@ -9,6 +7,13 @@
   { "query": "巴菲特首次减持比亚迪", "display_query": "巴菲特首次减持比亚迪" },
   { "query": "河南建立村镇银行名单制管理机制", "display_query": "河南建立村镇银行名单制管理机制" },
   { "query": "HPV 九价疫苗扩龄至 9-45 岁", "display_query": "HPV 九价疫苗扩龄至 9-45 岁" },
+  { "query": "陈春花辞任中国银行职务", "display_query": "陈春花辞任中国银行职务" },
+  {
+    "query": "阿尔忒弥斯 1 号火箭 9 月 3 日重新发射",
+    "display_query": "阿尔忒弥斯 1 号火箭 9 月 3 日重新发射"
+  },
+  { "query": "一人之下锈铁更新", "display_query": "一人之下锈铁更新" },
+  { "query": "原神联动必胜客", "display_query": "原神联动必胜客" },
   { "query": "特朗普呼吁立即重新大选", "display_query": "特朗普呼吁立即重新大选" },
   { "query": "川渝电力供应恢复正常", "display_query": "川渝电力供应恢复正常" },
   { "query": "9 月新规", "display_query": "9 月新规" },
