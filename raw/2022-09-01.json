@@ -1,16 +1,22 @@
 [
+  { "query": "台风轩岚诺", "display_query": "台风轩岚诺" },
+  { "query": "明日方舟音律联觉", "display_query": "明日方舟音律联觉" },
+  {
+    "query": "多抓鱼 75 元回收的衣服 629 元售卖",
+    "display_query": "多抓鱼 75 元回收的衣服 629 元售卖"
+  },
+  { "query": "多家九价 HPV 疫苗进入 3 期临床", "display_query": "多家九价 HPV 疫苗进入 3 期临床" },
+  { "query": "宝可梦起诉国内山寨游戏", "display_query": "宝可梦起诉国内山寨游戏" },
+  { "query": "刘畊宏就燕窝事件道歉", "display_query": "刘畊宏就燕窝事件道歉" },
+  { "query": "无人机拍摄的台军火炮车清晰可见", "display_query": "无人机拍摄的台军火炮车清晰可见" },
+  { "query": "奥密克戎 BF.15 变异株", "display_query": "奥密克戎 BF.15 变异株" },
+  { "query": "辽宁捕获 4 只金色蚊子", "display_query": "辽宁捕获 4 只金色蚊子" },
+  { "query": "呷哺呷哺上半年关店 37 家", "display_query": "呷哺呷哺上半年关店 37 家" },
   { "query": "电锯人第二部更新", "display_query": "电锯人第二部更新" },
   { "query": "9 月新规", "display_query": "9 月新规" },
   { "query": "美国出现首例猴痘死亡病例", "display_query": "美国出现首例猴痘死亡病例" },
   { "query": "中国互联网络发展状况统计报告", "display_query": "中国互联网络发展状况统计报告" },
   { "query": "二舅视频作者近期将发布澄清视频", "display_query": "二舅视频作者近期将发布澄清视频" },
-  {
-    "query": "多抓鱼 75 元回收的衣服 629 元售卖",
-    "display_query": "多抓鱼 75 元回收的衣服 629 元售卖"
-  },
-  { "query": "刘畊宏就燕窝事件道歉", "display_query": "刘畊宏就燕窝事件道歉" },
-  { "query": "辽宁捕获 4 只金色蚊子", "display_query": "辽宁捕获 4 只金色蚊子" },
-  { "query": "呷哺呷哺上半年关店 37 家", "display_query": "呷哺呷哺上半年关店 37 家" },
   { "query": "国常会公布新举措", "display_query": "国常会公布新举措" },
   {
     "query": "阿尔忒弥斯 1 号火箭 9 月 3 日重新发射",
