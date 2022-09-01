@@ -14,10 +14,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Sep 01 2022 21:29:56 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Sep 01 2022 22:11:05 GMT+0800 (China Standard Time) -->
 
 1. [台风轩岚诺](https://www.zhihu.com/search?q=台风轩岚诺)
 1. [杨红樱 下架](https://www.zhihu.com/search?q=杨红樱 下架)
+1. [日本医疗机构称新冠疫情已达灾害级别](https://www.zhihu.com/search?q=日本医疗机构称新冠疫情已达灾害级别)
 1. [青海山体滑坡](https://www.zhihu.com/search?q=青海山体滑坡)
 1. [宝可梦起诉国内山寨游戏](https://www.zhihu.com/search?q=宝可梦起诉国内山寨游戏)
 1. [开学首日](https://www.zhihu.com/search?q=开学首日)
@@ -27,7 +28,6 @@
 1. [成都全体居民原则居家](https://www.zhihu.com/search?q=成都全体居民原则居家)
 1. [辣目洋子恢复本名](https://www.zhihu.com/search?q=辣目洋子恢复本名)
 1. [国常会公布新举措](https://www.zhihu.com/search?q=国常会公布新举措)
-1. [日本医疗机构称新冠疫情已达灾害级别](https://www.zhihu.com/search?q=日本医疗机构称新冠疫情已达灾害级别)
 1. [呷哺呷哺上半年关店 37 家](https://www.zhihu.com/search?q=呷哺呷哺上半年关店 37 家)
 1. [辽宁捕获 4 只金色蚊子](https://www.zhihu.com/search?q=辽宁捕获 4 只金色蚊子)
 1. [刘畊宏就燕窝事件道歉](https://www.zhihu.com/search?q=刘畊宏就燕窝事件道歉)
