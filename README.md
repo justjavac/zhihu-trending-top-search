@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Sep 02 2022 17:08:46 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Sep 02 2022 18:09:59 GMT+0800 (China Standard Time) -->
 
 1. [反诈骗法通过](https://www.zhihu.com/search?q=反诈骗法通过)
 1. [神十四乘组第一次出舱](https://www.zhihu.com/search?q=神十四乘组第一次出舱)
