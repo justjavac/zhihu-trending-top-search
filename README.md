@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Sep 03 2022 02:12:25 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Sep 03 2022 03:06:56 GMT+0800 (China Standard Time) -->
 
 1. [反诈骗法通过](https://www.zhihu.com/search?q=反诈骗法通过)
 1. [成都累计报告病例逾 900 例](https://www.zhihu.com/search?q=成都累计报告病例逾 900 例)
