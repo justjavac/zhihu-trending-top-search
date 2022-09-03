@@ -1,10 +1,9 @@
 [
-  { "query": "深圳：暂停非必要人员流动与活动", "display_query": "深圳：暂停非必要人员流动与活动" },
   { "query": "北溪管道天然气运输停止", "display_query": "北溪管道天然气运输停止" },
   { "query": "长沙种出 2 米 2 巨型稻致敬袁老", "display_query": "长沙种出 2 米 2 巨型稻致敬袁老" },
   { "query": "崩坏三圣痕计划", "display_query": "崩坏三圣痕计划" },
-  { "query": "JOJO 石之海更新", "display_query": "JOJO 石之海更新" },
   { "query": "印度超越英国成为第五大经济体", "display_query": "印度超越英国成为第五大经济体" },
+  { "query": "JOJO 石之海更新", "display_query": "JOJO 石之海更新" },
   { "query": "东软集团回应成都核酸系统崩了", "display_query": "东软集团回应成都核酸系统崩了" },
   { "query": "《德凯奥特曼》第八集", "display_query": "《德凯奥特曼》第八集" },
   { "query": "女子酒驾撞人拖行 1 公里", "display_query": "女子酒驾撞人拖行 1 公里" },
@@ -12,6 +11,8 @@
     "query": "成都中小学校将于 5 日起全面开展线上教学",
     "display_query": "成都中小学校将于 5 日起全面开展线上教学"
   },
+  { "query": "日本决定停止使用软盘和光盘", "display_query": "日本决定停止使用软盘和光盘" },
+  { "query": "深圳：暂停非必要人员流动与活动", "display_query": "深圳：暂停非必要人员流动与活动" },
   { "query": "Steam 游戏落叶城发售", "display_query": "Steam 游戏落叶城发售" },
   { "query": "EDG 让二追三 RNG", "display_query": "EDG 让二追三 RNG" },
   { "query": "特朗普 最高机密文件", "display_query": "特朗普 最高机密文件" },
