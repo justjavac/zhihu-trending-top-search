@@ -14,14 +14,15 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Sep 03 2022 14:10:33 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Sep 03 2022 15:07:39 GMT+0800 (China Standard Time) -->
 
 1. [贾浅浅未入选作协新会员名单](https://www.zhihu.com/search?q=贾浅浅未入选作协新会员名单)
 1. [深圳：暂停非必要人员流动与活动](https://www.zhihu.com/search?q=深圳：暂停非必要人员流动与活动)
 1. [北溪管道天然气运输停止](https://www.zhihu.com/search?q=北溪管道天然气运输停止)
+1. [长沙种出 2 米 2 巨型稻致敬袁老](https://www.zhihu.com/search?q=长沙种出 2 米 2 巨型稻致敬袁老)
+1. [JOJO 石之海更新](https://www.zhihu.com/search?q=JOJO 石之海更新)
 1. [柳传志被选入小学教材引争议](https://www.zhihu.com/search?q=柳传志被选入小学教材引争议)
 1. [一人之下 629 话](https://www.zhihu.com/search?q=一人之下 629 话)
-1. [JOJO 石之海更新](https://www.zhihu.com/search?q=JOJO 石之海更新)
 1. [《刺客信条：王朝》完结](https://www.zhihu.com/search?q=《刺客信条：王朝》完结)
 1. [反诈骗法通过](https://www.zhihu.com/search?q=反诈骗法通过)
 1. [大连新增 112 例本土无症状](https://www.zhihu.com/search?q=大连新增 112 例本土无症状)
