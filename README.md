@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Sep 04 2022 04:09:04 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Sep 04 2022 05:07:55 GMT+0800 (China Standard Time) -->
 
 1. [北溪管道天然气运输停止](https://www.zhihu.com/search?q=北溪管道天然气运输停止)
 1. [长沙种出 2 米 2 巨型稻致敬袁老](https://www.zhihu.com/search?q=长沙种出 2 米 2 巨型稻致敬袁老)
