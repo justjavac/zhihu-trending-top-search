@@ -14,11 +14,13 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Sep 04 2022 22:07:12 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Sep 04 2022 23:08:08 GMT+0800 (China Standard Time) -->
 
 1. [国产太阳能无人机首飞成功](https://www.zhihu.com/search?q=国产太阳能无人机首飞成功)
 1. [「轩岚诺」增强为超强台风级](https://www.zhihu.com/search?q=「轩岚诺」增强为超强台风级)
 1. [中方陆空战术群在俄罗斯演习](https://www.zhihu.com/search?q=中方陆空战术群在俄罗斯演习)
+1. [今夏全国平均气温为 1961 年以来同期最高](https://www.zhihu.com/search?q=今夏全国平均气温为 1961
+   年以来同期最高)
 1. [JOJO 石之海更新](https://www.zhihu.com/search?q=JOJO 石之海更新)
 1. [LNG 淘汰 V5](https://www.zhihu.com/search?q=LNG 淘汰 V5)
 1. [刘德华线上演唱会](https://www.zhihu.com/search?q=刘德华线上演唱会)
