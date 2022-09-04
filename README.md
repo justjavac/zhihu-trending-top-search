@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Sep 05 2022 00:11:00 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Sep 05 2022 01:11:48 GMT+0800 (China Standard Time) -->
 
 1. [乌鲁木齐市委常委道歉](https://www.zhihu.com/search?q=乌鲁木齐市委常委道歉)
 1. [国产太阳能无人机首飞成功](https://www.zhihu.com/search?q=国产太阳能无人机首飞成功)
