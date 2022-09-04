@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Sep 04 2022 11:30:10 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Sep 04 2022 12:57:06 GMT+0800 (China Standard Time) -->
 
 1. [长沙种出 2 米 2 巨型稻致敬袁老](https://www.zhihu.com/search?q=长沙种出 2 米 2 巨型稻致敬袁老)
 1. [崩坏三圣痕计划](https://www.zhihu.com/search?q=崩坏三圣痕计划)
