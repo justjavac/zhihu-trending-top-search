@@ -1,15 +1,19 @@
 [
   { "query": "国产太阳能无人机首飞成功", "display_query": "国产太阳能无人机首飞成功" },
   { "query": "「轩岚诺」增强为超强台风级", "display_query": "「轩岚诺」增强为超强台风级" },
+  { "query": "官方辟谣南京银行「爆雷」", "display_query": "官方辟谣南京银行「爆雷」" },
   { "query": "中方陆空战术群在俄罗斯演习", "display_query": "中方陆空战术群在俄罗斯演习" },
   {
     "query": "今夏全国平均气温为 1961 年以来同期最高",
     "display_query": "今夏全国平均气温为 1961 年以来同期最高"
   },
+  { "query": "RNG 晋级世界赛", "display_query": "RNG 晋级世界赛" },
+  { "query": "国铁集团负债破 6 万亿元大关", "display_query": "国铁集团负债破 6 万亿元大关" },
   {
     "query": "部分 iPhone 14 机型或移除 SIM 卡槽",
     "display_query": "部分 iPhone 14 机型或移除 SIM 卡槽"
   },
+  { "query": "黄瓜等多首网传诗歌非贾浅浅创作", "display_query": "黄瓜等多首网传诗歌非贾浅浅创作" },
   { "query": "加拿大持刀伤人事件已致 10 人死亡", "display_query": "加拿大持刀伤人事件已致 10 人死亡" },
   {
     "query": "北京 11 家餐饮单位因使用假健康证被立案",
@@ -18,7 +22,5 @@
   { "query": "玩游戏花 17 万致父母卖房", "display_query": "玩游戏花 17 万致父母卖房" },
   { "query": "四川甘孜 6.8 级地震", "display_query": "四川甘孜 6.8 级地震" },
   { "query": "四川甘孜 6.6 级地震", "display_query": "四川甘孜 6.6 级地震" },
-  { "query": "乌鲁木齐市委常委道歉", "display_query": "乌鲁木齐市委常委道歉" },
-  { "query": "官方辟谣南京银行「爆雷」", "display_query": "官方辟谣南京银行「爆雷」" },
-  { "query": "RNG 晋级世界赛", "display_query": "RNG 晋级世界赛" }
+  { "query": "乌鲁木齐市委常委道歉", "display_query": "乌鲁木齐市委常委道歉" }
 ]
