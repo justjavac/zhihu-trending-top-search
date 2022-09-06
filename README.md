@@ -14,9 +14,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Sep 06 2022 17:09:19 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Sep 06 2022 18:09:34 GMT+0800 (China Standard Time) -->
 
-1. [湘雅二院 15 医护人员违规被罚](https://www.zhihu.com/search?q=湘雅二院 15 医护人员违规被罚)
 1. [扎波罗热核电站再遭袭击](https://www.zhihu.com/search?q=扎波罗热核电站再遭袭击)
 1. [大渡河一级支流湾东河断流](https://www.zhihu.com/search?q=大渡河一级支流湾东河断流)
 1. [网传韩剧鬼怪将翻拍中国版](https://www.zhihu.com/search?q=网传韩剧鬼怪将翻拍中国版)
@@ -26,6 +25,8 @@
 1. [四川海螺沟景区 200 余人被困](https://www.zhihu.com/search?q=四川海螺沟景区 200 余人被困)
 1. [海贼王 1059 话情报](https://www.zhihu.com/search?q=海贼王 1059 话情报)
 1. [AI 画作拿一等奖惹怒人类艺术家](https://www.zhihu.com/search?q=AI 画作拿一等奖惹怒人类艺术家)
+1. [成都回应防疫遇地震怎么办](https://www.zhihu.com/search?q=成都回应防疫遇地震怎么办)
+1. [湘雅二院 15 医护人员违规被罚](https://www.zhihu.com/search?q=湘雅二院 15 医护人员违规被罚)
 1. [美国长期无差别监听中国手机用户](https://www.zhihu.com/search?q=美国长期无差别监听中国手机用户)
 1. [原神联动高德地图](https://www.zhihu.com/search?q=原神联动高德地图)
 1. [四川绵竹疑现大量蝙蝠](https://www.zhihu.com/search?q=四川绵竹疑现大量蝙蝠)
