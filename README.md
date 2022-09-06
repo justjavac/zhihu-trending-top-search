@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Sep 06 2022 13:25:18 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Sep 06 2022 14:53:20 GMT+0800 (China Standard Time) -->
 
 1. [泸定强震已致超 46 人遇难](https://www.zhihu.com/search?q=泸定强震已致超 46 人遇难)
 1. [原神联动高德地图](https://www.zhihu.com/search?q=原神联动高德地图)
