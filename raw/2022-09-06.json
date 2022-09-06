@@ -1,5 +1,4 @@
 [
-  { "query": "四川甘孜 6.8 级地震", "display_query": "四川甘孜 6.8 级地震" },
   { "query": "泸定强震已致超 46 人遇难", "display_query": "泸定强震已致超 46 人遇难" },
   { "query": "原神联动高德地图", "display_query": "原神联动高德地图" },
   { "query": "四川绵竹疑现大量蝙蝠", "display_query": "四川绵竹疑现大量蝙蝠" },
@@ -9,6 +8,8 @@
   { "query": "大渡河一级支流湾东河断流", "display_query": "大渡河一级支流湾东河断流" },
   { "query": "网传韩剧鬼怪将翻拍中国版", "display_query": "网传韩剧鬼怪将翻拍中国版" },
   { "query": "苹果或发布儿童手表", "display_query": "苹果或发布儿童手表" },
+  { "query": "地震造成中科院观测站垮塌 1 人遇难", "display_query": "地震造成中科院观测站垮塌 1 人遇难" },
+  { "query": "四川甘孜 6.8 级地震", "display_query": "四川甘孜 6.8 级地震" },
   {
     "query": "部分 iPhone 14 机型或移除 SIM 卡槽",
     "display_query": "部分 iPhone 14 机型或移除 SIM 卡槽"
