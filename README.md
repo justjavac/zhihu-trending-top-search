@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Sep 08 2022 05:08:11 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Sep 08 2022 06:09:15 GMT+0800 (China Standard Time) -->
 
 1. [国庆放假安排](https://www.zhihu.com/search?q=国庆放假安排)
 1. [男子连玩 441 小时游戏被封号](https://www.zhihu.com/search?q=男子连玩 441 小时游戏被封号)
