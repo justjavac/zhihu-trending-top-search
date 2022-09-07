@@ -14,9 +14,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Sep 07 2022 13:26:16 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Sep 07 2022 14:51:01 GMT+0800 (China Standard Time) -->
 
-1. [成都回应防疫遇地震怎么办](https://www.zhihu.com/search?q=成都回应防疫遇地震怎么办)
 1. [瑞克和莫蒂第六季](https://www.zhihu.com/search?q=瑞克和莫蒂第六季)
 1. [2023 考研时间确定](https://www.zhihu.com/search?q=2023 考研时间确定)
 1. [香港发现首例输入性猴痘确诊个案](https://www.zhihu.com/search?q=香港发现首例输入性猴痘确诊个案)
@@ -27,6 +26,7 @@
 1. [学校安排 80 人一间宿舍](https://www.zhihu.com/search?q=学校安排 80 人一间宿舍)
 1. [特拉斯正式成为英国首相](https://www.zhihu.com/search?q=特拉斯正式成为英国首相)
 1. [驴友在鄱阳湖湖滩发现江豚尸体](https://www.zhihu.com/search?q=驴友在鄱阳湖湖滩发现江豚尸体)
+1. [成都回应防疫遇地震怎么办](https://www.zhihu.com/search?q=成都回应防疫遇地震怎么办)
 1. [国庆放假安排](https://www.zhihu.com/search?q=国庆放假安排)
 1. [男子连玩 441 小时游戏被封号](https://www.zhihu.com/search?q=男子连玩 441 小时游戏被封号)
 1. [扎波罗热核电站再遭袭击](https://www.zhihu.com/search?q=扎波罗热核电站再遭袭击)
