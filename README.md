@@ -14,9 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Sep 08 2022 07:10:27 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Sep 08 2022 08:51:20 GMT+0800 (China Standard Time) -->
 
-1. [国庆放假安排](https://www.zhihu.com/search?q=国庆放假安排)
+1. [苹果发布会](https://www.zhihu.com/search?q=苹果发布会)
 1. [男子连玩 441 小时游戏被封号](https://www.zhihu.com/search?q=男子连玩 441 小时游戏被封号)
 1. [美国滥用美元霸权输出通胀冲击全球经济](https://www.zhihu.com/search?q=美国滥用美元霸权输出通胀冲击全球经济)
 1. [家委会向家长收取 1.2 万翻新教室](https://www.zhihu.com/search?q=家委会向家长收取 1.2 万翻新教室)
@@ -26,6 +26,7 @@
 1. [中国两种长臂猿野外灭绝](https://www.zhihu.com/search?q=中国两种长臂猿野外灭绝)
 1. [国产新冠口服药通过医保目录初审](https://www.zhihu.com/search?q=国产新冠口服药通过医保目录初审)
 1. [我国总人口增速明显放缓](https://www.zhihu.com/search?q=我国总人口增速明显放缓)
+1. [国庆放假安排](https://www.zhihu.com/search?q=国庆放假安排)
 
 <!-- END -->
 
