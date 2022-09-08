@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Sep 09 2022 01:23:04 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Sep 09 2022 02:11:21 GMT+0800 (China Standard Time) -->
 
 1. [苹果发布会](https://www.zhihu.com/search?q=苹果发布会)
 1. [农民参缴公积金意义](https://www.zhihu.com/search?q=农民参缴公积金意义)
@@ -22,6 +22,8 @@
 1. [美国一少年直播持枪行凶](https://www.zhihu.com/search?q=美国一少年直播持枪行凶)
 1. [湘雅回应专家将莲子壳诊断为肿瘤](https://www.zhihu.com/search?q=湘雅回应专家将莲子壳诊断为肿瘤)
 1. [美国务卿布林肯突访基辅](https://www.zhihu.com/search?q=美国务卿布林肯突访基辅)
+1. [英国女王去世](https://www.zhihu.com/search?q=英国女王去世)
+1. [查尔斯成为英国国王](https://www.zhihu.com/search?q=查尔斯成为英国国王)
 1. [英女王处于医疗监护状态](https://www.zhihu.com/search?q=英女王处于医疗监护状态)
 
 <!-- END -->
