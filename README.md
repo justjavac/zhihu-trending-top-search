@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Sep 09 2022 08:54:38 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Sep 09 2022 11:28:02 GMT+0800 (China Standard Time) -->
 
 1. [农民参缴公积金意义](https://www.zhihu.com/search?q=农民参缴公积金意义)
 1. [济南一国企要买 3000 套房](https://www.zhihu.com/search?q=济南一国企要买 3000 套房)
@@ -23,6 +23,9 @@
 1. [美国务卿布林肯突访基辅](https://www.zhihu.com/search?q=美国务卿布林肯突访基辅)
 1. [英国女王去世](https://www.zhihu.com/search?q=英国女王去世)
 1. [查尔斯成为英国国王](https://www.zhihu.com/search?q=查尔斯成为英国国王)
+1. [我国发现月球新矿物「嫦娥石」](https://www.zhihu.com/search?q=我国发现月球新矿物「嫦娥石」)
+1. [我国 8 月 CPI 同比上涨 2.5%](https://www.zhihu.com/search?q=我国 8 月 CPI 同比上涨 2.5%)
+1. [《云边有个小卖部》影视化](https://www.zhihu.com/search?q=《云边有个小卖部》影视化)
 1. [苹果发布会](https://www.zhihu.com/search?q=苹果发布会)
 1. [英女王处于医疗监护状态](https://www.zhihu.com/search?q=英女王处于医疗监护状态)
 
