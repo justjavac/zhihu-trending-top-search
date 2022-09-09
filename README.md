@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Sep 09 2022 15:16:30 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Sep 09 2022 16:13:55 GMT+0800 (China Standard Time) -->
 
 1. [湘雅回应专家将莲子壳诊断为肿瘤](https://www.zhihu.com/search?q=湘雅回应专家将莲子壳诊断为肿瘤)
 1. [美国务卿布林肯突访基辅](https://www.zhihu.com/search?q=美国务卿布林肯突访基辅)
