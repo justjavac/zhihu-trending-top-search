@@ -14,13 +14,13 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Sep 09 2022 20:17:37 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Sep 09 2022 21:40:45 GMT+0800 (China Standard Time) -->
 
-1. [查尔斯成为英国国王](https://www.zhihu.com/search?q=查尔斯成为英国国王)
 1. [我国发现月球新矿物「嫦娥石」](https://www.zhihu.com/search?q=我国发现月球新矿物「嫦娥石」)
 1. [我国 8 月 CPI 同比上涨 2.5%](https://www.zhihu.com/search?q=我国 8 月 CPI 同比上涨 2.5%)
 1. [《云边有个小卖部》影视化](https://www.zhihu.com/search?q=《云边有个小卖部》影视化)
 1. [一人之下 630 话](https://www.zhihu.com/search?q=一人之下 630 话)
+1. [查尔斯成为英国国王](https://www.zhihu.com/search?q=查尔斯成为英国国王)
 1. [英国女王去世](https://www.zhihu.com/search?q=英国女王去世)
 1. [湘雅回应专家将莲子壳诊断为肿瘤](https://www.zhihu.com/search?q=湘雅回应专家将莲子壳诊断为肿瘤)
 1. [美国务卿布林肯突访基辅](https://www.zhihu.com/search?q=美国务卿布林肯突访基辅)
