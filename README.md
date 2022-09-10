@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Sep 11 2022 04:09:35 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Sep 11 2022 05:07:46 GMT+0800 (China Standard Time) -->
 
 1. [华盛顿进入紧急状态](https://www.zhihu.com/search?q=华盛顿进入紧急状态)
 1. [英国进入全国哀悼期](https://www.zhihu.com/search?q=英国进入全国哀悼期)
