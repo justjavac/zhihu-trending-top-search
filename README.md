@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Sep 10 2022 11:31:39 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Sep 10 2022 13:08:06 GMT+0800 (China Standard Time) -->
 
 1. [华盛顿进入紧急状态](https://www.zhihu.com/search?q=华盛顿进入紧急状态)
 1. [一人之下 630 话](https://www.zhihu.com/search?q=一人之下 630 话)
