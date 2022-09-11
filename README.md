@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Sep 11 2022 18:09:20 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Sep 11 2022 19:07:42 GMT+0800 (China Standard Time) -->
 
 1. [枪杀安倍嫌犯人生被拍成电影](https://www.zhihu.com/search?q=枪杀安倍嫌犯人生被拍成电影)
 1. [全球第二大影院运营商正式申请破产](https://www.zhihu.com/search?q=全球第二大影院运营商正式申请破产)
