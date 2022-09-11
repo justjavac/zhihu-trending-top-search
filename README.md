@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Sep 11 2022 12:58:48 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Sep 11 2022 13:37:43 GMT+0800 (China Standard Time) -->
 
 1. [原神派蒙推出导航语音](https://www.zhihu.com/search?q=原神派蒙推出导航语音)
 1. [枪杀安倍嫌犯人生被拍成电影](https://www.zhihu.com/search?q=枪杀安倍嫌犯人生被拍成电影)
