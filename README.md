@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Sep 13 2022 06:09:08 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Sep 13 2022 07:09:27 GMT+0800 (China Standard Time) -->
 
 1. [四川泸定地震造成 93 人遇难](https://www.zhihu.com/search?q=四川泸定地震造成 93 人遇难)
 1. [月壤中发现存在高含量水](https://www.zhihu.com/search?q=月壤中发现存在高含量水)
