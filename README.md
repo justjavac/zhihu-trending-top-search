@@ -14,8 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Sep 13 2022 11:40:11 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Sep 13 2022 13:23:34 GMT+0800 (China Standard Time) -->
 
+1. [新番莉可丽丝更新](https://www.zhihu.com/search?q=新番莉可丽丝更新)
+1. [四川发现国内未出现过的奥密克戎变异株](https://www.zhihu.com/search?q=四川发现国内未出现过的奥密克戎变异株)
 1. [蒙古国草原火蔓延至我国边境](https://www.zhihu.com/search?q=蒙古国草原火蔓延至我国边境)
 1. [超强台风「梅花」](https://www.zhihu.com/search?q=超强台风「梅花」)
 1. [歌手傅松因口腔癌去](https://www.zhihu.com/search?q=歌手傅松因口腔癌去)
