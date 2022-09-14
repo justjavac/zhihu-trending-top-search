@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Sep 14 2022 21:42:56 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Sep 14 2022 22:18:56 GMT+0800 (China Standard Time) -->
 
 1. [任天堂直面会](https://www.zhihu.com/search?q=任天堂直面会)
 1. [哥大承认数据造假](https://www.zhihu.com/search?q=哥大承认数据造假)
