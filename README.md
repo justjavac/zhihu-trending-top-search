@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Sep 15 2022 05:07:40 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Sep 15 2022 06:09:24 GMT+0800 (China Standard Time) -->
 
 1. [强台风梅花来袭](https://www.zhihu.com/search?q=强台风梅花来袭)
 1. [美国三大股指全线暴跌](https://www.zhihu.com/search?q=美国三大股指全线暴跌)
