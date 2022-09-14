@@ -1,7 +1,5 @@
 [
   { "query": "任天堂直面会", "display_query": "任天堂直面会" },
-  { "query": "9 月游戏版号下发", "display_query": "9 月游戏版号下发" },
-  { "query": "唐山打人案公开审理", "display_query": "唐山打人案公开审理" },
   { "query": "哥大承认数据造假", "display_query": "哥大承认数据造假" },
   { "query": "美国 8 月 CPI 同比上涨 8.3%", "display_query": "美国 8 月 CPI 同比上涨 8.3%" },
   { "query": "人民网评张翰新剧", "display_query": "人民网评张翰新剧" },
@@ -9,6 +7,10 @@
   { "query": "强台风梅花来袭", "display_query": "强台风梅花来袭" },
   { "query": "美国三大股指全线暴跌", "display_query": "美国三大股指全线暴跌" },
   { "query": "塞尔达传说：王国之泪", "display_query": "塞尔达传说：王国之泪" },
+  { "query": "网传一公司厕所隔间装监控", "display_query": "网传一公司厕所隔间装监控" },
+  { "query": "B 站诉争哔哩哔哩商标被驳回", "display_query": "B 站诉争哔哩哔哩商标被驳回" },
+  { "query": "9 月游戏版号下发", "display_query": "9 月游戏版号下发" },
+  { "query": "唐山打人案公开审理", "display_query": "唐山打人案公开审理" },
   { "query": "男子捐 2000 元图书被慈善机构转卖", "display_query": "男子捐 2000 元图书被慈善机构转卖" },
   { "query": "羊了个羊", "display_query": "羊了个羊" },
   { "query": "电影大师让-吕克·戈达尔逝世", "display_query": "电影大师让-吕克·戈达尔逝世" },
