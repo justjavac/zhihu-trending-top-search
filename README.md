@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Sep 14 2022 16:12:03 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Sep 14 2022 17:12:14 GMT+0800 (China Standard Time) -->
 
 1. [任天堂直面会](https://www.zhihu.com/search?q=任天堂直面会)
 1. [电影大师让-吕克·戈达尔逝世](https://www.zhihu.com/search?q=电影大师让-吕克·戈达尔逝世)
