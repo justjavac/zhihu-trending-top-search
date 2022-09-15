@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Sep 15 2022 16:12:55 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Sep 15 2022 17:12:48 GMT+0800 (China Standard Time) -->
 
 1. [广西一水库放生清道夫](https://www.zhihu.com/search?q=广西一水库放生清道夫)
 1. [敦煌考古编制岗位无人问津](https://www.zhihu.com/search?q=敦煌考古编制岗位无人问津)
@@ -23,6 +23,7 @@
 1. [多家国有大行下调个人存款利率](https://www.zhihu.com/search?q=多家国有大行下调个人存款利率)
 1. [如何与工作相处](https://www.zhihu.com/search?q=如何与工作相处)
 1. [严禁以信息化为名强制学生买平板](https://www.zhihu.com/search?q=严禁以信息化为名强制学生买平板)
+1. [网传教工剪破多名儿童上颚](https://www.zhihu.com/search?q=网传教工剪破多名儿童上颚)
 1. [雷军卸任小米电子软件董事长](https://www.zhihu.com/search?q=雷军卸任小米电子软件董事长)
 1. [泽连斯基发生交通事故](https://www.zhihu.com/search?q=泽连斯基发生交通事故)
 1. [安以轩老公涉 83 项罪](https://www.zhihu.com/search?q=安以轩老公涉 83 项罪)
