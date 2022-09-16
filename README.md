@@ -14,9 +14,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Sep 16 2022 21:39:07 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Sep 16 2022 22:20:40 GMT+0800 (China Standard Time) -->
 
-1. [4 岁孩子担心家中变故患抑郁症](https://www.zhihu.com/search?q=4 岁孩子担心家中变故患抑郁症)
 1. [iPhone 14 系列发售](https://www.zhihu.com/search?q=iPhone 14 系列发售)
 1. [一人之下 631 话](https://www.zhihu.com/search?q=一人之下 631 话)
 1. [8 月份 70 城最新房价出炉](https://www.zhihu.com/search?q=8 月份 70 城最新房价出炉)
@@ -26,6 +25,7 @@
 1. [2023 考研大纲](https://www.zhihu.com/search?q=2023 考研大纲)
 1. [原神动画化](https://www.zhihu.com/search?q=原神动画化)
 1. [重庆发现 1 例境外输入猴痘病例](https://www.zhihu.com/search?q=重庆发现 1 例境外输入猴痘病例)
+1. [4 岁孩子担心家中变故患抑郁症](https://www.zhihu.com/search?q=4 岁孩子担心家中变故患抑郁症)
 1. [欢瑞世纪股东被列为老赖](https://www.zhihu.com/search?q=欢瑞世纪股东被列为老赖)
 1. [网坛天王费德勒宣布退役](https://www.zhihu.com/search?q=网坛天王费德勒宣布退役)
 1. [网传教工剪破多名儿童上颚](https://www.zhihu.com/search?q=网传教工剪破多名儿童上颚)
