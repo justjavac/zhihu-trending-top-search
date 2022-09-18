@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Sep 18 2022 20:15:53 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Sep 18 2022 21:28:23 GMT+0800 (China Standard Time) -->
 
 1. [唐山铁矿透水事故致 14 人死亡](https://www.zhihu.com/search?q=唐山铁矿透水事故致 14 人死亡)
 1. [南非向英王室讨要非洲之星钻石](https://www.zhihu.com/search?q=南非向英王室讨要非洲之星钻石)
