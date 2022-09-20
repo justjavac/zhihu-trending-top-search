@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Sep 20 2022 07:09:50 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Sep 20 2022 08:53:15 GMT+0800 (China Standard Time) -->
 
 1. [日本教师给全班学生午餐下毒](https://www.zhihu.com/search?q=日本教师给全班学生午餐下毒)
 1. [河南一公司氯气泄露多人呕吐不止](https://www.zhihu.com/search?q=河南一公司氯气泄露多人呕吐不止)
