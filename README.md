@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Sep 20 2022 21:43:06 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Sep 20 2022 22:21:34 GMT+0800 (China Standard Time) -->
 
 1. [菲律宾警方一周救出 231 名中国人](https://www.zhihu.com/search?q=菲律宾警方一周救出 231 名中国人)
 1. [敷尔佳一盒面膜成本仅 10 元](https://www.zhihu.com/search?q=敷尔佳一盒面膜成本仅 10 元)
