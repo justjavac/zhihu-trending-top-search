@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Sep 20 2022 15:19:29 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Sep 20 2022 16:13:57 GMT+0800 (China Standard Time) -->
 
 1. [贵阳连续 3 天社会面感染者为零](https://www.zhihu.com/search?q=贵阳连续 3 天社会面感染者为零)
 1. [电锯人动画正式预告](https://www.zhihu.com/search?q=电锯人动画正式预告)
