@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Sep 21 2022 11:46:56 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Sep 21 2022 13:20:37 GMT+0800 (China Standard Time) -->
 
 1. [任泽平称灵动岛是伪创新](https://www.zhihu.com/search?q=任泽平称灵动岛是伪创新)
 1. [全职猎人漫画官宣更新](https://www.zhihu.com/search?q=全职猎人漫画官宣更新)
