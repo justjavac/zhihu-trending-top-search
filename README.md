@@ -14,17 +14,17 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Sep 22 2022 15:24:42 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Sep 22 2022 16:13:41 GMT+0800 (China Standard Time) -->
 
-1. [法大 32 名研究生放弃入学资格](https://www.zhihu.com/search?q=法大 32 名研究生放弃入学资格)
-1. [八部门整治高价彩礼](https://www.zhihu.com/search?q=八部门整治高价彩礼)
-1. [女孩网购剧毒银环蛇被咬致死](https://www.zhihu.com/search?q=女孩网购剧毒银环蛇被咬致死)
 1. [成品油价迎年内第七跌](https://www.zhihu.com/search?q=成品油价迎年内第七跌)
 1. [媒体称禁售槟榔因其并非食品](https://www.zhihu.com/search?q=媒体称禁售槟榔因其并非食品)
 1. [男子与他人同居生子被判重婚罪](https://www.zhihu.com/search?q=男子与他人同居生子被判重婚罪)
 1. [守望先锋将停服](https://www.zhihu.com/search?q=守望先锋将停服)
 1. [海贼王 1061 话情报](https://www.zhihu.com/search?q=海贼王 1061 话情报)
 1. [太吾绘卷正式版](https://www.zhihu.com/search?q=太吾绘卷正式版)
+1. [法大 32 名研究生放弃入学资格](https://www.zhihu.com/search?q=法大 32 名研究生放弃入学资格)
+1. [八部门整治高价彩礼](https://www.zhihu.com/search?q=八部门整治高价彩礼)
+1. [女孩网购剧毒银环蛇被咬致死](https://www.zhihu.com/search?q=女孩网购剧毒银环蛇被咬致死)
 1. [高校回应「多名学生学信码被盗用」](https://www.zhihu.com/search?q=高校回应「多名学生学信码被盗用」)
 1. [安徽一油罐车爆燃](https://www.zhihu.com/search?q=安徽一油罐车爆燃)
 1. [国庆节放假调休安排公布](https://www.zhihu.com/search?q=国庆节放假调休安排公布)
