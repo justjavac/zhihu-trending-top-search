@@ -1,5 +1,4 @@
 [
-  { "query": "世界阿尔茨海默病日", "display_query": "世界阿尔茨海默病日" },
   { "query": "国庆节放假调休安排公布", "display_query": "国庆节放假调休安排公布" },
   { "query": "男子骑马回国被多人举报虐待动物", "display_query": "男子骑马回国被多人举报虐待动物" },
   { "query": "昆仑神宫 开播", "display_query": "昆仑神宫 开播" },
@@ -8,5 +7,7 @@
   { "query": "法大 32 名研究生放弃入学资格", "display_query": "法大 32 名研究生放弃入学资格" },
   { "query": "八部门整治高价彩礼", "display_query": "八部门整治高价彩礼" },
   { "query": "女孩网购剧毒银环蛇被咬致死", "display_query": "女孩网购剧毒银环蛇被咬致死" },
-  { "query": "成品油价迎年内第七跌", "display_query": "成品油价迎年内第七跌" }
+  { "query": "成品油价迎年内第七跌", "display_query": "成品油价迎年内第七跌" },
+  { "query": "媒体称禁售槟榔因其并非食品", "display_query": "媒体称禁售槟榔因其并非食品" },
+  { "query": "世界阿尔茨海默病日", "display_query": "世界阿尔茨海默病日" }
 ]
