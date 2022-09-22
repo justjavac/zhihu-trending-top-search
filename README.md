@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Sep 22 2022 14:42:41 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Sep 22 2022 15:24:42 GMT+0800 (China Standard Time) -->
 
 1. [法大 32 名研究生放弃入学资格](https://www.zhihu.com/search?q=法大 32 名研究生放弃入学资格)
 1. [八部门整治高价彩礼](https://www.zhihu.com/search?q=八部门整治高价彩礼)
