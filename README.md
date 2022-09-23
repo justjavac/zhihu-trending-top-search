@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Sep 23 2022 21:41:32 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Sep 23 2022 22:23:16 GMT+0800 (China Standard Time) -->
 
 1. [喜剧大赛 2 开播](https://www.zhihu.com/search?q=喜剧大赛 2 开播)
 1. [两地发文集中隔离开始收费](https://www.zhihu.com/search?q=两地发文集中隔离开始收费)
