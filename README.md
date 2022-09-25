@@ -14,10 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Sep 25 2022 17:09:53 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Sep 25 2022 18:10:20 GMT+0800 (China Standard Time) -->
 
 1. [我们的歌三代同台](https://www.zhihu.com/search?q=我们的歌三代同台)
-1. [全国仅有 5 株 5000 岁古树](https://www.zhihu.com/search?q=全国仅有 5 株 5000 岁古树)
 1. [江西重度干旱已持续 74 天](https://www.zhihu.com/search?q=江西重度干旱已持续 74 天)
 1. [教育部回应降低英语教学比重建议](https://www.zhihu.com/search?q=教育部回应降低英语教学比重建议)
 1. [美国辉瑞公司 CEO 第二次感染新冠](https://www.zhihu.com/search?q=美国辉瑞公司 CEO 第二次感染新冠)
@@ -26,6 +25,8 @@
 1. [男子持刀杀人被逮捕](https://www.zhihu.com/search?q=男子持刀杀人被逮捕)
 1. [郑州租房也可全家落户](https://www.zhihu.com/search?q=郑州租房也可全家落户)
 1. [欧洲人买爆中国电热毯](https://www.zhihu.com/search?q=欧洲人买爆中国电热毯)
+1. [新番《莉可丽丝》大结局](https://www.zhihu.com/search?q=新番《莉可丽丝》大结局)
+1. [全国仅有 5 株 5000 岁古树](https://www.zhihu.com/search?q=全国仅有 5 株 5000 岁古树)
 1. [德凯奥特曼十一话](https://www.zhihu.com/search?q=德凯奥特曼十一话)
 1. [广东一在建高架垮塌钢箱梁垮塌](https://www.zhihu.com/search?q=广东一在建高架垮塌钢箱梁垮塌)
 1. [泄露《GTA6》黑客被逮捕](https://www.zhihu.com/search?q=泄露《GTA6》黑客被逮捕)

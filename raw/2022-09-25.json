@@ -1,6 +1,5 @@
 [
   { "query": "我们的歌三代同台", "display_query": "我们的歌三代同台" },
-  { "query": "全国仅有 5 株 5000 岁古树", "display_query": "全国仅有 5 株 5000 岁古树" },
   { "query": "江西重度干旱已持续 74 天", "display_query": "江西重度干旱已持续 74 天" },
   { "query": "教育部回应降低英语教学比重建议", "display_query": "教育部回应降低英语教学比重建议" },
   { "query": "美国辉瑞公司 CEO 第二次感染新冠", "display_query": "美国辉瑞公司 CEO 第二次感染新冠" },
@@ -9,6 +8,8 @@
   { "query": "男子持刀杀人被逮捕", "display_query": "男子持刀杀人被逮捕" },
   { "query": "郑州租房也可全家落户", "display_query": "郑州租房也可全家落户" },
   { "query": "欧洲人买爆中国电热毯", "display_query": "欧洲人买爆中国电热毯" },
+  { "query": "新番《莉可丽丝》大结局", "display_query": "新番《莉可丽丝》大结局" },
+  { "query": "全国仅有 5 株 5000 岁古树", "display_query": "全国仅有 5 株 5000 岁古树" },
   { "query": "德凯奥特曼十一话", "display_query": "德凯奥特曼十一话" },
   { "query": "广东一在建高架垮塌钢箱梁垮塌", "display_query": "广东一在建高架垮塌钢箱梁垮塌" },
   { "query": "泄露《GTA6》黑客被逮捕", "display_query": "泄露《GTA6》黑客被逮捕" },
