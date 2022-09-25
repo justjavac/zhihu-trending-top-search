@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Sep 25 2022 21:27:55 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Sep 25 2022 22:07:56 GMT+0800 (China Standard Time) -->
 
 1. [我们的歌三代同台](https://www.zhihu.com/search?q=我们的歌三代同台)
 1. [教育部回应降低英语教学比重建议](https://www.zhihu.com/search?q=教育部回应降低英语教学比重建议)
