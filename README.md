@@ -14,9 +14,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Sep 26 2022 13:23:40 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Sep 26 2022 14:42:32 GMT+0800 (China Standard Time) -->
 
-1. [欧洲人买爆中国电热毯](https://www.zhihu.com/search?q=欧洲人买爆中国电热毯)
 1. [新番《莉可丽丝》大结局](https://www.zhihu.com/search?q=新番《莉可丽丝》大结局)
 1. [威马年亏 82 亿创始人年薪 12 亿](https://www.zhihu.com/search?q=威马年亏 82 亿创始人年薪 12 亿)
 1. [中国女排 3 比 0 阿根廷女排](https://www.zhihu.com/search?q=中国女排 3 比 0 阿根廷女排)
@@ -25,6 +24,7 @@
 1. [人民币成全球第四位支付货币](https://www.zhihu.com/search?q=人民币成全球第四位支付货币)
 1. [韩国货轮爆炸致中国籍船长身亡](https://www.zhihu.com/search?q=韩国货轮爆炸致中国籍船长身亡)
 1. [英国外交大臣将开启亚洲行](https://www.zhihu.com/search?q=英国外交大臣将开启亚洲行)
+1. [欧洲人买爆中国电热毯](https://www.zhihu.com/search?q=欧洲人买爆中国电热毯)
 1. [台风「奥鹿」已加强为超强台风级](https://www.zhihu.com/search?q=台风「奥鹿」已加强为超强台风级)
 1. [男子持刀杀人被逮捕](https://www.zhihu.com/search?q=男子持刀杀人被逮捕)
 1. [郑州租房也可全家落户](https://www.zhihu.com/search?q=郑州租房也可全家落户)
