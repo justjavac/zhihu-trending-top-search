@@ -1,8 +1,5 @@
 [
   { "query": "动画诛仙更新", "display_query": "动画诛仙更新" },
-  { "query": "工人往黄豆酱里大小便系造谣", "display_query": "工人往黄豆酱里大小便系造谣" },
-  { "query": "华农兄弟承包全村土地", "display_query": "华农兄弟承包全村土地" },
-  { "query": "书法正式成为一级学科", "display_query": "书法正式成为一级学科" },
   { "query": "美宇宙飞船撞击小行星", "display_query": "美宇宙飞船撞击小行星" },
   { "query": "一箭三星", "display_query": "一箭三星" },
   { "query": "教育部支持河南省设立高等学校", "display_query": "教育部支持河南省设立高等学校" },
@@ -12,6 +9,15 @@
     "display_query": "1 只蟑螂 1 年可繁衍出 1000 万只蟑螂"
   },
   { "query": "原神新角色", "display_query": "原神新角色" },
+  {
+    "query": "西工大遭 NSA 网络攻击调查报告（之二）",
+    "display_query": "西工大遭 NSA 网络攻击调查报告（之二）"
+  },
+  { "query": "「北溪-2」在丹麦海域发生泄漏", "display_query": "「北溪-2」在丹麦海域发生泄漏" },
+  { "query": "美同意援助乌克兰近 120 亿美元", "display_query": "美同意援助乌克兰近 120 亿美元" },
+  { "query": "工人往黄豆酱里大小便系造谣", "display_query": "工人往黄豆酱里大小便系造谣" },
+  { "query": "华农兄弟承包全村土地", "display_query": "华农兄弟承包全村土地" },
+  { "query": "书法正式成为一级学科", "display_query": "书法正式成为一级学科" },
   {
     "query": "1800 万随迁老人中 43% 帮子女带娃",
     "display_query": "1800 万随迁老人中 43% 帮子女带娃"
