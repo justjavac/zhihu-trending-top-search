@@ -14,9 +14,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Sep 28 2022 14:44:45 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Sep 28 2022 15:25:52 GMT+0800 (China Standard Time) -->
 
-1. [昆明 7 万余人被赋黄码](https://www.zhihu.com/search?q=昆明 7 万余人被赋黄码)
 1. [俄罗斯：必要时有权使用核武器](https://www.zhihu.com/search?q=俄罗斯：必要时有权使用核武器)
 1. [李建平一审被判死刑](https://www.zhihu.com/search?q=李建平一审被判死刑)
 1. [北溪管道遭破坏发现 3 处泄露](https://www.zhihu.com/search?q=北溪管道遭破坏发现 3 处泄露)
@@ -26,6 +25,8 @@
 1. [北溪管道泄漏或为「蓄意破坏」](https://www.zhihu.com/search?q=北溪管道泄漏或为「蓄意破坏」)
 1. [第三批医用耗材集采平均降价 84%](https://www.zhihu.com/search?q=第三批医用耗材集采平均降价 84%)
 1. [男子嫌妻怀不上要求退还彩礼](https://www.zhihu.com/search?q=男子嫌妻怀不上要求退还彩礼)
+1. [头骨化石实证我国百万年人类史](https://www.zhihu.com/search?q=头骨化石实证我国百万年人类史)
+1. [昆明 7 万余人被赋黄码](https://www.zhihu.com/search?q=昆明 7 万余人被赋黄码)
 1. [成交就奖励中介 22 万和 iPhone 14](https://www.zhihu.com/search?q=成交就奖励中介 22 万和
    iPhone 14)
 1. [「北溪-2」在丹麦海域发生泄漏](https://www.zhihu.com/search?q=「北溪-2」在丹麦海域发生泄漏)
