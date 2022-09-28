@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Sep 28 2022 17:17:17 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Sep 28 2022 18:11:22 GMT+0800 (China Standard Time) -->
 
 1. [李建平一审被判死刑](https://www.zhihu.com/search?q=李建平一审被判死刑)
 1. [北溪管道遭破坏发现 3 处泄露](https://www.zhihu.com/search?q=北溪管道遭破坏发现 3 处泄露)
