@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Sep 29 2022 05:09:00 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Sep 29 2022 06:09:25 GMT+0800 (China Standard Time) -->
 
 1. [波罗的海天然气管道开通](https://www.zhihu.com/search?q=波罗的海天然气管道开通)
 1. [四地公投入俄结果公布](https://www.zhihu.com/search?q=四地公投入俄结果公布)
