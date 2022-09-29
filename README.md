@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Sep 29 2022 18:11:21 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Sep 29 2022 19:08:41 GMT+0800 (China Standard Time) -->
 
 1. [不要赌人民币汇率单边升值或贬值](https://www.zhihu.com/search?q=不要赌人民币汇率单边升值或贬值)
 1. [长春餐厅燃气爆炸事故原因初步查明](https://www.zhihu.com/search?q=长春餐厅燃气爆炸事故原因初步查明)
