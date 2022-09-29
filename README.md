@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Sep 30 2022 04:11:52 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Sep 30 2022 05:09:33 GMT+0800 (China Standard Time) -->
 
 1. [欧盟宣布第八轮对俄制裁措施](https://www.zhihu.com/search?q=欧盟宣布第八轮对俄制裁措施)
 1. [海南省槟榔协会发文](https://www.zhihu.com/search?q=海南省槟榔协会发文)
