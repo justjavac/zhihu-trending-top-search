@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Sep 29 2022 14:02:21 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Sep 29 2022 15:28:21 GMT+0800 (China Standard Time) -->
 
 1. [甘肃临夏大巴四人死亡为不实信息](https://www.zhihu.com/search?q=甘肃临夏大巴四人死亡为不实信息)
 1. [央行等部门印发三地普惠金融改革试验区总体方案](https://www.zhihu.com/search?q=央行等部门印发三地普惠金融改革试验区总体方案)
