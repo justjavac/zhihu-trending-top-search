@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Oct 01 2022 17:14:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Oct 01 2022 18:10:13 GMT+0800 (China Standard Time) -->
 
 1. [杨振宁百岁生日](https://www.zhihu.com/search?q=杨振宁百岁生日)
 1. [国庆节](https://www.zhihu.com/search?q=国庆节)
