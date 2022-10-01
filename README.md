@@ -14,11 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Oct 01 2022 22:12:23 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Oct 01 2022 23:09:42 GMT+0800 (China Standard Time) -->
 
 1. [杨振宁百岁生日](https://www.zhihu.com/search?q=杨振宁百岁生日)
 1. [国庆节](https://www.zhihu.com/search?q=国庆节)
-1. [乌克兰签署加入北约申请](https://www.zhihu.com/search?q=乌克兰签署加入北约申请)
 1. [美国对俄罗斯实体全面制裁](https://www.zhihu.com/search?q=美国对俄罗斯实体全面制裁)
 1. [iPhone 6 被苹果列入过时产品](https://www.zhihu.com/search?q=iPhone 6 被苹果列入过时产品)
 1. [中国女篮获世界杯亚军](https://www.zhihu.com/search?q=中国女篮获世界杯亚军)
@@ -26,6 +25,8 @@
 1. [韩旭入选女篮世界杯最佳阵容](https://www.zhihu.com/search?q=韩旭入选女篮世界杯最佳阵容)
 1. [乌克兰宣布对俄数千个人和实体实施制裁](https://www.zhihu.com/search?q=乌克兰宣布对俄数千个人和实体实施制裁)
 1. [美国猴痘确诊病例超 2.58 万](https://www.zhihu.com/search?q=美国猴痘确诊病例超 2.58 万)
+1. [中国女排 1-3 巴西女排](https://www.zhihu.com/search?q=中国女排 1-3 巴西女排)
+1. [乌克兰签署加入北约申请](https://www.zhihu.com/search?q=乌克兰签署加入北约申请)
 1. [首套个人住房公积金贷款利率下调](https://www.zhihu.com/search?q=首套个人住房公积金贷款利率下调)
 1. [中国女篮闯进世界杯决赛](https://www.zhihu.com/search?q=中国女篮闯进世界杯决赛)
 1. [居民换购住房可退个人所得税](https://www.zhihu.com/search?q=居民换购住房可退个人所得税)
