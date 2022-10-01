@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Oct 01 2022 13:54:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Oct 01 2022 14:28:16 GMT+0800 (China Standard Time) -->
 
 1. [杨振宁百岁生日](https://www.zhihu.com/search?q=杨振宁百岁生日)
 1. [国庆节](https://www.zhihu.com/search?q=国庆节)
@@ -25,6 +25,7 @@
 1. [乌克兰签署加入北约申请](https://www.zhihu.com/search?q=乌克兰签署加入北约申请)
 1. [美国对俄罗斯实体全面制裁](https://www.zhihu.com/search?q=美国对俄罗斯实体全面制裁)
 1. [iPhone 6 被苹果列入过时产品](https://www.zhihu.com/search?q=iPhone 6 被苹果列入过时产品)
+1. [中国女篮冲击世界杯冠军](https://www.zhihu.com/search?q=中国女篮冲击世界杯冠军)
 1. [我国成功实施问天实验舱转位](https://www.zhihu.com/search?q=我国成功实施问天实验舱转位)
 1. [PMI 重回扩张区间](https://www.zhihu.com/search?q=PMI 重回扩张区间)
 1. [一人之下 633 话](https://www.zhihu.com/search?q=一人之下 633 话)
