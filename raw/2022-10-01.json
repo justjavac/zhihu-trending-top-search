@@ -1,7 +1,6 @@
 [
   { "query": "杨振宁百岁生日", "display_query": "杨振宁百岁生日" },
   { "query": "国庆节", "display_query": "国庆节" },
-  { "query": "首套个人住房公积金贷款利率下调", "display_query": "首套个人住房公积金贷款利率下调" },
   { "query": "乌克兰签署加入北约申请", "display_query": "乌克兰签署加入北约申请" },
   { "query": "美国对俄罗斯实体全面制裁", "display_query": "美国对俄罗斯实体全面制裁" },
   { "query": "iPhone 6 被苹果列入过时产品", "display_query": "iPhone 6 被苹果列入过时产品" },
@@ -9,6 +8,8 @@
   { "query": "海天回应酱油含添加剂", "display_query": "海天回应酱油含添加剂" },
   { "query": "韩旭入选女篮世界杯最佳阵容", "display_query": "韩旭入选女篮世界杯最佳阵容" },
   { "query": "乌克兰宣布对俄数千个人和实体实施制裁", "display_query": "乌克兰宣布对俄数千个人和实体实施制裁" },
+  { "query": "美国猴痘确诊病例超 2.58 万", "display_query": "美国猴痘确诊病例超 2.58 万" },
+  { "query": "首套个人住房公积金贷款利率下调", "display_query": "首套个人住房公积金贷款利率下调" },
   { "query": "中国女篮闯进世界杯决赛", "display_query": "中国女篮闯进世界杯决赛" },
   { "query": "居民换购住房可退个人所得税", "display_query": "居民换购住房可退个人所得税" },
   { "query": "谷歌将关闭云游戏平台", "display_query": "谷歌将关闭云游戏平台" },
