@@ -1,5 +1,4 @@
 [
-  { "query": "中国女篮获世界杯亚军", "display_query": "中国女篮获世界杯亚军" },
   { "query": "海天回应酱油含添加剂", "display_query": "海天回应酱油含添加剂" },
   { "query": "韩旭入选女篮世界杯最佳阵容", "display_query": "韩旭入选女篮世界杯最佳阵容" },
   { "query": "乌克兰宣布对俄数千个人和实体实施制裁", "display_query": "乌克兰宣布对俄数千个人和实体实施制裁" },
@@ -12,6 +11,8 @@
   },
   { "query": "美国加州将中国农历新年定为法定假日", "display_query": "美国加州将中国农历新年定为法定假日" },
   { "query": "夏日重现动画完结", "display_query": "夏日重现动画完结" },
+  { "query": "间谍过家家第二季", "display_query": "间谍过家家第二季" },
+  { "query": "中国女篮获世界杯亚军", "display_query": "中国女篮获世界杯亚军" },
   { "query": "杨振宁百岁生日", "display_query": "杨振宁百岁生日" },
   { "query": "美国对俄罗斯实体全面制裁", "display_query": "美国对俄罗斯实体全面制裁" },
   { "query": "iPhone 6 被苹果列入过时产品", "display_query": "iPhone 6 被苹果列入过时产品" },
