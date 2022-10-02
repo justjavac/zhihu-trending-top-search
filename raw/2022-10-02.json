@@ -1,7 +1,4 @@
 [
-  { "query": "杨振宁百岁生日", "display_query": "杨振宁百岁生日" },
-  { "query": "美国对俄罗斯实体全面制裁", "display_query": "美国对俄罗斯实体全面制裁" },
-  { "query": "iPhone 6 被苹果列入过时产品", "display_query": "iPhone 6 被苹果列入过时产品" },
   { "query": "中国女篮获世界杯亚军", "display_query": "中国女篮获世界杯亚军" },
   { "query": "海天回应酱油含添加剂", "display_query": "海天回应酱油含添加剂" },
   { "query": "韩旭入选女篮世界杯最佳阵容", "display_query": "韩旭入选女篮世界杯最佳阵容" },
@@ -9,5 +6,14 @@
   { "query": "美国猴痘确诊病例超 2.58 万", "display_query": "美国猴痘确诊病例超 2.58 万" },
   { "query": "刘强东明州案陪审团选定", "display_query": "刘强东明州案陪审团选定" },
   { "query": "北溪 2 管道已不再泄漏气体", "display_query": "北溪 2 管道已不再泄漏气体" },
+  {
+    "query": "印尼体育场发生暴力事件已致 129 人死亡",
+    "display_query": "印尼体育场发生暴力事件已致 129 人死亡"
+  },
+  { "query": "美国加州将中国农历新年定为法定假日", "display_query": "美国加州将中国农历新年定为法定假日" },
+  { "query": "夏日重现动画完结", "display_query": "夏日重现动画完结" },
+  { "query": "杨振宁百岁生日", "display_query": "杨振宁百岁生日" },
+  { "query": "美国对俄罗斯实体全面制裁", "display_query": "美国对俄罗斯实体全面制裁" },
+  { "query": "iPhone 6 被苹果列入过时产品", "display_query": "iPhone 6 被苹果列入过时产品" },
   { "query": "国庆节", "display_query": "国庆节" }
 ]
