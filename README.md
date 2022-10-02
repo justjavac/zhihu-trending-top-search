@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Oct 03 2022 03:09:58 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Oct 03 2022 04:10:23 GMT+0800 (China Standard Time) -->
 
 1. [北溪 2 管道已不再泄漏气体](https://www.zhihu.com/search?q=北溪 2 管道已不再泄漏气体)
 1. [印尼体育场发生暴力事件已致 129 人死亡](https://www.zhihu.com/search?q=印尼体育场发生暴力事件已致 129 人死亡)
