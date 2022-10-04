@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Oct 04 2022 21:47:27 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Oct 04 2022 22:29:31 GMT+0800 (China Standard Time) -->
 
 1. [诺贝尔物理学奖公布](https://www.zhihu.com/search?q=诺贝尔物理学奖公布)
 1. [包贝尔朋友圈斥程青松](https://www.zhihu.com/search?q=包贝尔朋友圈斥程青松)
