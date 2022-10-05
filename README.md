@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Oct 06 2022 02:22:33 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Oct 06 2022 03:18:57 GMT+0800 (China Standard Time) -->
 
 1. [诺贝尔化学奖公布](https://www.zhihu.com/search?q=诺贝尔化学奖公布)
 1. [海天再否认双标称合规使用食品添加剂](https://www.zhihu.com/search?q=海天再否认双标称合规使用食品添加剂)
