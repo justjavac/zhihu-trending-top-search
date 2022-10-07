@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Oct 08 2022 03:14:07 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Oct 08 2022 04:11:11 GMT+0800 (China Standard Time) -->
 
 1. [梅西确认最后一次参加世界杯](https://www.zhihu.com/search?q=梅西确认最后一次参加世界杯)
 1. [泰国幼儿园枪击案](https://www.zhihu.com/search?q=泰国幼儿园枪击案)
