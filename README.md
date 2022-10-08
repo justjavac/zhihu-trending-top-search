@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Oct 08 2022 13:23:37 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Oct 08 2022 14:14:55 GMT+0800 (China Standard Time) -->
 
 1. [iPhone 14 Plus 上市破发](https://www.zhihu.com/search?q=iPhone 14 Plus 上市破发)
 1. [湖南凤凰全域静默](https://www.zhihu.com/search?q=湖南凤凰全域静默)
@@ -25,6 +25,7 @@
 1. [国庆旅游总结报告](https://www.zhihu.com/search?q=国庆旅游总结报告)
 1. [英国贸易大臣被停职](https://www.zhihu.com/search?q=英国贸易大臣被停职)
 1. [美国费城就不道德医学实验道歉](https://www.zhihu.com/search?q=美国费城就不道德医学实验道歉)
+1. [守望先锋动画短片](https://www.zhihu.com/search?q=守望先锋动画短片)
 1. [梅西确认最后一次参加世界杯](https://www.zhihu.com/search?q=梅西确认最后一次参加世界杯)
 1. [泰国幼儿园枪击案](https://www.zhihu.com/search?q=泰国幼儿园枪击案)
 
