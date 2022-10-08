@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Oct 08 2022 23:09:21 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Oct 09 2022 00:12:28 GMT+0800 (China Standard Time) -->
 
 1. [国庆旅游总结报告](https://www.zhihu.com/search?q=国庆旅游总结报告)
 1. [英国贸易大臣被停职](https://www.zhihu.com/search?q=英国贸易大臣被停职)
@@ -25,16 +25,6 @@
 1. [卢本伟赵梦玥分手](https://www.zhihu.com/search?q=卢本伟赵梦玥分手)
 1. [国乒男团晋级世乒赛决赛](https://www.zhihu.com/search?q=国乒男团晋级世乒赛决赛)
 1. [山西永济静默管理](https://www.zhihu.com/search?q=山西永济静默管理)
-1. [土卫二可能存在「生命之磷」](https://www.zhihu.com/search?q=土卫二可能存在「生命之磷」)
-1. [RNG 击败 LCK 一号种子 GEN](https://www.zhihu.com/search?q=RNG 击败 LCK 一号种子 GEN)
-1. [国庆全国出游 4.22 亿人次](https://www.zhihu.com/search?q=国庆全国出游 4.22 亿人次)
-1. [T1 击败 EDG 拿下开门红](https://www.zhihu.com/search?q=T1 击败 EDG 拿下开门红)
-1. [鄱阳湖水位下降致鱼搁浅](https://www.zhihu.com/search?q=鄱阳湖水位下降致鱼搁浅)
-1. [湖南凤凰全域静默](https://www.zhihu.com/search?q=湖南凤凰全域静默)
-1. [克里米亚刻赤大桥发生爆炸](https://www.zhihu.com/search?q=克里米亚刻赤大桥发生爆炸)
-1. [iPhone 14 Plus 上市破发](https://www.zhihu.com/search?q=iPhone 14 Plus 上市破发)
-1. [梅西确认最后一次参加世界杯](https://www.zhihu.com/search?q=梅西确认最后一次参加世界杯)
-1. [泰国幼儿园枪击案](https://www.zhihu.com/search?q=泰国幼儿园枪击案)
 
 <!-- END -->
 
