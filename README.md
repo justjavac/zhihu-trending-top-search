@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Oct 08 2022 21:34:08 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Oct 08 2022 22:13:12 GMT+0800 (China Standard Time) -->
 
 1. [土卫二可能存在「生命之磷」](https://www.zhihu.com/search?q=土卫二可能存在「生命之磷」)
 1. [RNG 击败 LCK 一号种子 GEN](https://www.zhihu.com/search?q=RNG 击败 LCK 一号种子 GEN)
