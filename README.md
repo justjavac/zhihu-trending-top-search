@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Oct 09 2022 18:10:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Oct 09 2022 19:08:08 GMT+0800 (China Standard Time) -->
 
 1. [山西永济静默管理](https://www.zhihu.com/search?q=山西永济静默管理)
 1. [美被曝购买大量「核辐射病」药物](https://www.zhihu.com/search?q=美被曝购买大量「核辐射病」药物)
