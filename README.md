@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Oct 11 2022 05:09:19 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Oct 11 2022 06:10:56 GMT+0800 (China Standard Time) -->
 
 1. [全球外汇储备减少约 1 万亿美元](https://www.zhihu.com/search?q=全球外汇储备减少约 1 万亿美元)
 1. [TES 不敌 DRX](https://www.zhihu.com/search?q=TES 不敌 DRX)
