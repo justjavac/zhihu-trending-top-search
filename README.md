@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Oct 10 2022 07:10:17 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Oct 10 2022 09:00:22 GMT+0800 (China Standard Time) -->
 
 1. [德国北部铁路交通被蓄意破坏](https://www.zhihu.com/search?q=德国北部铁路交通被蓄意破坏)
 1. [监管部门回应椰树擦边直播](https://www.zhihu.com/search?q=监管部门回应椰树擦边直播)
