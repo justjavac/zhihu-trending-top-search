@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Oct 11 2022 21:47:57 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Oct 11 2022 22:25:14 GMT+0800 (China Standard Time) -->
 
 1. [死神千年血战篇](https://www.zhihu.com/search?q=死神千年血战篇)
 1. [RGE 小组赛首轮全胜](https://www.zhihu.com/search?q=RGE 小组赛首轮全胜)
