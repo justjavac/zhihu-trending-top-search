@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Oct 13 2022 04:12:00 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Oct 13 2022 05:10:35 GMT+0800 (China Standard Time) -->
 
 1. [死神千年血战篇](https://www.zhihu.com/search?q=死神千年血战篇)
 1. [新西兰计划对牛羊打嗝征税](https://www.zhihu.com/search?q=新西兰计划对牛羊打嗝征税)
