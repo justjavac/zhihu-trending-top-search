@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Oct 13 2022 21:49:17 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Oct 13 2022 22:19:35 GMT+0800 (China Standard Time) -->
 
 1. [Scout 核酸阳性](https://www.zhihu.com/search?q=Scout 核酸阳性)
 1. [联大不承认四地入俄公投结果](https://www.zhihu.com/search?q=联大不承认四地入俄公投结果)
