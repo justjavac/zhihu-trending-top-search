@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Oct 13 2022 13:17:43 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Oct 13 2022 14:34:47 GMT+0800 (China Standard Time) -->
 
 1. [意大利天然气价格暴涨超 770%](https://www.zhihu.com/search?q=意大利天然气价格暴涨超 770%)
 1. [海贼王 1063 话情报](https://www.zhihu.com/search?q=海贼王 1063 话情报)
