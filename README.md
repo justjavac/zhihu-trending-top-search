@@ -14,13 +14,15 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Oct 13 2022 08:58:41 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Oct 13 2022 11:36:59 GMT+0800 (China Standard Time) -->
 
+1. [意大利天然气价格暴涨超 770%](https://www.zhihu.com/search?q=意大利天然气价格暴涨超 770%)
+1. [联大不承认四地入俄公投结果](https://www.zhihu.com/search?q=联大不承认四地入俄公投结果)
+1. [海贼王 1063 话情报](https://www.zhihu.com/search?q=海贼王 1063 话情报)
 1. [死神千年血战篇](https://www.zhihu.com/search?q=死神千年血战篇)
 1. [新西兰计划对牛羊打嗝征税](https://www.zhihu.com/search?q=新西兰计划对牛羊打嗝征税)
 1. [电锯人动画开播](https://www.zhihu.com/search?q=电锯人动画开播)
 1. [湖南 120 米深洞底发现大熊猫化石](https://www.zhihu.com/search?q=湖南 120 米深洞底发现大熊猫化石)
-1. [意大利天然气价格暴涨超 770%](https://www.zhihu.com/search?q=意大利天然气价格暴涨超 770%)
 
 <!-- END -->
 
