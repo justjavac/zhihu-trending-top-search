@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Oct 15 2022 02:14:11 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Oct 15 2022 03:13:30 GMT+0800 (China Standard Time) -->
 
 1. [Jackeylove 原采访公布](https://www.zhihu.com/search?q=Jackeylove 原采访公布)
 1. [美国新冠公共卫生紧急状态延长 90 天](https://www.zhihu.com/search?q=美国新冠公共卫生紧急状态延长 90 天)
