@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Oct 14 2022 19:09:56 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Oct 14 2022 20:20:52 GMT+0800 (China Standard Time) -->
 
 1. [哪些事你长大才知道](https://www.zhihu.com/search?q=哪些事你长大才知道)
 1. [鄱阳湖水位止跌回升](https://www.zhihu.com/search?q=鄱阳湖水位止跌回升)
@@ -22,10 +22,11 @@
 1. [美国众议院传唤特朗普](https://www.zhihu.com/search?q=美国众议院传唤特朗普)
 1. [RNG 多名选手核酸阳性](https://www.zhihu.com/search?q=RNG 多名选手核酸阳性)
 1. [Jackeylove 原采访公布](https://www.zhihu.com/search?q=Jackeylove 原采访公布)
-1. [EDG 小组第二出线](https://www.zhihu.com/search?q=EDG 小组第二出线)
 1. [马斯克因与推特交易接受调查](https://www.zhihu.com/search?q=马斯克因与推特交易接受调查)
 1. [韩国宣布对朝鲜实施单边制裁](https://www.zhihu.com/search?q=韩国宣布对朝鲜实施单边制裁)
+1. [韩称朝鲜向缓冲区发射炮弹](https://www.zhihu.com/search?q=韩称朝鲜向缓冲区发射炮弹)
 1. [美国新冠公共卫生紧急状态延长 90 天](https://www.zhihu.com/search?q=美国新冠公共卫生紧急状态延长 90 天)
+1. [EDG 小组第二出线](https://www.zhihu.com/search?q=EDG 小组第二出线)
 1. [一人之下 635 话](https://www.zhihu.com/search?q=一人之下 635 话)
 1. [成都将建立剧本杀红黑榜](https://www.zhihu.com/search?q=成都将建立剧本杀红黑榜)
 1. [人脑细胞在体外也有智力](https://www.zhihu.com/search?q=人脑细胞在体外也有智力)
