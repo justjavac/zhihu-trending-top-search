@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Oct 16 2022 02:11:29 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Oct 16 2022 03:10:11 GMT+0800 (China Standard Time) -->
 
 1. [俄美《新削减战略武器条约》](https://www.zhihu.com/search?q=俄美《新削减战略武器条约》)
 1. [美提供 7.25 亿美元对乌军事援助](https://www.zhihu.com/search?q=美提供 7.25 亿美元对乌军事援助)
