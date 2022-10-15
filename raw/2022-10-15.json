@@ -1,5 +1,4 @@
 [
-  { "query": "Jackeylove 原采访公布", "display_query": "Jackeylove 原采访公布" },
   { "query": "美国新冠公共卫生紧急状态延长 90 天", "display_query": "美国新冠公共卫生紧急状态延长 90 天" },
   { "query": "一人之下 635 话", "display_query": "一人之下 635 话" },
   { "query": "成都将建立剧本杀红黑榜", "display_query": "成都将建立剧本杀红黑榜" },
@@ -8,5 +7,7 @@
   { "query": "A 股三大股指高开高走", "display_query": "A 股三大股指高开高走" },
   { "query": "拉尼娜事件持续影响", "display_query": "拉尼娜事件持续影响" },
   { "query": "遗忘股票 15 年 1 万变 50 万", "display_query": "遗忘股票 15 年 1 万变 50 万" },
-  { "query": "克里米亚大桥重建", "display_query": "克里米亚大桥重建" }
+  { "query": "克里米亚大桥重建", "display_query": "克里米亚大桥重建" },
+  { "query": "俄土谈判", "display_query": "俄土谈判" },
+  { "query": "Jackeylove 原采访公布", "display_query": "Jackeylove 原采访公布" }
 ]
