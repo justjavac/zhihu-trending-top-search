@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Oct 15 2022 15:15:43 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Oct 15 2022 16:13:36 GMT+0800 (China Standard Time) -->
 
 1. [拉尼娜事件持续影响](https://www.zhihu.com/search?q=拉尼娜事件持续影响)
 1. [遗忘股票 15 年 1 万变 50 万](https://www.zhihu.com/search?q=遗忘股票 15 年 1 万变 50 万)
