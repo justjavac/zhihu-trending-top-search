@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Oct 17 2022 12:23:23 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Oct 17 2022 14:09:39 GMT+0800 (China Standard Time) -->
 
 1. [高达水星的魔女更新](https://www.zhihu.com/search?q=高达水星的魔女更新)
 1. [朔尔茨再次表态支持欧盟扩大](https://www.zhihu.com/search?q=朔尔茨再次表态支持欧盟扩大)
