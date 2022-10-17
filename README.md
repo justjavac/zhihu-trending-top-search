@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Oct 17 2022 17:23:40 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Oct 17 2022 18:16:33 GMT+0800 (China Standard Time) -->
 
 1. [高达水星的魔女更新](https://www.zhihu.com/search?q=高达水星的魔女更新)
 1. [欧洲对俄天然气价格设限将导致供应停止](https://www.zhihu.com/search?q=欧洲对俄天然气价格设限将导致供应停止)
