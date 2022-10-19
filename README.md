@@ -14,10 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Oct 19 2022 15:35:15 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Oct 19 2022 16:22:08 GMT+0800 (China Standard Time) -->
 
 1. [死神千年血战篇](https://www.zhihu.com/search?q=死神千年血战篇)
-1. [双十一淘宝支持全程价保](https://www.zhihu.com/search?q=双十一淘宝支持全程价保)
 1. [电锯人动画更新](https://www.zhihu.com/search?q=电锯人动画更新)
 1. [塔克拉玛干沙漠出现众多湖泊](https://www.zhihu.com/search?q=塔克拉玛干沙漠出现众多湖泊)
 1. [北溪管道遭破坏处水下实景首次曝光](https://www.zhihu.com/search?q=北溪管道遭破坏处水下实景首次曝光)
@@ -26,6 +25,7 @@
 1. [iPad 全线大涨价](https://www.zhihu.com/search?q=iPad 全线大涨价)
 1. [李宁回应冬装争议](https://www.zhihu.com/search?q=李宁回应冬装争议)
 1. [首尔有意申办 2036 年奥运会](https://www.zhihu.com/search?q=首尔有意申办 2036 年奥运会)
+1. [双十一淘宝支持全程价保](https://www.zhihu.com/search?q=双十一淘宝支持全程价保)
 1. [四川 18 岁女高中生射击世锦赛夺 4 金](https://www.zhihu.com/search?q=四川 18 岁女高中生射击世锦赛夺 4 金)
 1. [布洛芬真是万能止痛药吗](https://www.zhihu.com/search?q=布洛芬真是万能止痛药吗)
 1. [金球奖](https://www.zhihu.com/search?q=金球奖)
