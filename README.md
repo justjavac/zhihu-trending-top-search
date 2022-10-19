@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Oct 19 2022 18:17:22 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Oct 19 2022 19:12:14 GMT+0800 (China Standard Time) -->
 
 1. [死神千年血战篇](https://www.zhihu.com/search?q=死神千年血战篇)
 1. [电锯人动画更新](https://www.zhihu.com/search?q=电锯人动画更新)
