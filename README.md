@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Oct 20 2022 07:12:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Oct 20 2022 08:56:33 GMT+0800 (China Standard Time) -->
 
 1. [死神千年血战篇](https://www.zhihu.com/search?q=死神千年血战篇)
 1. [国内页岩气勘探获重大发现](https://www.zhihu.com/search?q=国内页岩气勘探获重大发现)
@@ -23,6 +23,8 @@
 1. [首尔有意申办 2036 年奥运会](https://www.zhihu.com/search?q=首尔有意申办 2036 年奥运会)
 1. [中国天眼 FAST 发现宇宙中最大原子气体结构](https://www.zhihu.com/search?q=中国天眼 FAST
    发现宇宙中最大原子气体结构)
+1. [美国宣布从战略储备中释放 1500 万桶石油](https://www.zhihu.com/search?q=美国宣布从战略储备中释放 1500
+   万桶石油)
 
 <!-- END -->
 
