@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Oct 20 2022 14:20:02 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Oct 20 2022 15:21:37 GMT+0800 (China Standard Time) -->
 
 1. [中国天眼 FAST 发现宇宙中最大原子气体结构](https://www.zhihu.com/search?q=中国天眼 FAST
    发现宇宙中最大原子气体结构)
@@ -24,6 +24,7 @@
 1. [寂静岭和风新作](https://www.zhihu.com/search?q=寂静岭和风新作)
 1. [瘟疫传说：安魂曲](https://www.zhihu.com/search?q=瘟疫传说：安魂曲)
 1. [大富翁 11](https://www.zhihu.com/search?q=大富翁 11)
+1. [国药集团成功分离猴痘病毒](https://www.zhihu.com/search?q=国药集团成功分离猴痘病毒)
 1. [首尔有意申办 2036 年奥运会](https://www.zhihu.com/search?q=首尔有意申办 2036 年奥运会)
 1. [死神千年血战篇](https://www.zhihu.com/search?q=死神千年血战篇)
 1. [国内页岩气勘探获重大发现](https://www.zhihu.com/search?q=国内页岩气勘探获重大发现)
