@@ -14,9 +14,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Oct 21 2022 14:24:37 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Oct 21 2022 15:21:35 GMT+0800 (China Standard Time) -->
 
-1. [国药集团成功分离猴痘病毒](https://www.zhihu.com/search?q=国药集团成功分离猴痘病毒)
 1. [日元兑美元汇率首次跌破 150](https://www.zhihu.com/search?q=日元兑美元汇率首次跌破 150)
 1. [中国成功运行世界首个电磁橇](https://www.zhihu.com/search?q=中国成功运行世界首个电磁橇)
 1. [世界骨质疏松日](https://www.zhihu.com/search?q=世界骨质疏松日)
@@ -26,6 +25,8 @@
 1. [JDG 晋级四强](https://www.zhihu.com/search?q=JDG 晋级四强)
 1. [赫尔松之战](https://www.zhihu.com/search?q=赫尔松之战)
 1. [全职猎人复刊更新](https://www.zhihu.com/search?q=全职猎人复刊更新)
+1. [一拳超人 217 话](https://www.zhihu.com/search?q=一拳超人 217 话)
+1. [国药集团成功分离猴痘病毒](https://www.zhihu.com/search?q=国药集团成功分离猴痘病毒)
 1. [寂静岭和风新作](https://www.zhihu.com/search?q=寂静岭和风新作)
 1. [瘟疫传说：安魂曲](https://www.zhihu.com/search?q=瘟疫传说：安魂曲)
 1. [大富翁 11](https://www.zhihu.com/search?q=大富翁 11)
