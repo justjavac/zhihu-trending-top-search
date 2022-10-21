@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Oct 21 2022 23:16:28 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Oct 22 2022 00:19:38 GMT+0800 (China Standard Time) -->
 
 1. [JDG 晋级四强](https://www.zhihu.com/search?q=JDG 晋级四强)
 1. [赫尔松之战](https://www.zhihu.com/search?q=赫尔松之战)
@@ -26,19 +26,6 @@
 1. [全红婵跳水世界杯首秀](https://www.zhihu.com/search?q=全红婵跳水世界杯首秀)
 1. [151 日元兑换 1 美元](https://www.zhihu.com/search?q=151 日元兑换 1 美元)
 1. [韩检方中止起诉拜登保镖](https://www.zhihu.com/search?q=韩检方中止起诉拜登保镖)
-1. [中东部未来一周持续偏暖](https://www.zhihu.com/search?q=中东部未来一周持续偏暖)
-1. [动车组将从百米海底驶过](https://www.zhihu.com/search?q=动车组将从百米海底驶过)
-1. [淘宝购物车容量扩至 300 ](https://www.zhihu.com/search?q=淘宝购物车容量扩至 300 )
-1. [世界骨质疏松日](https://www.zhihu.com/search?q=世界骨质疏松日)
-1. [日元兑美元汇率首次跌破 150](https://www.zhihu.com/search?q=日元兑美元汇率首次跌破 150)
-1. [中国成功运行世界首个电磁橇](https://www.zhihu.com/search?q=中国成功运行世界首个电磁橇)
-1. [国药集团成功分离猴痘病毒](https://www.zhihu.com/search?q=国药集团成功分离猴痘病毒)
-1. [寂静岭和风新作](https://www.zhihu.com/search?q=寂静岭和风新作)
-1. [瘟疫传说：安魂曲](https://www.zhihu.com/search?q=瘟疫传说：安魂曲)
-1. [大富翁 11](https://www.zhihu.com/search?q=大富翁 11)
-1. [女子鹤岗全款 1.5 万买房](https://www.zhihu.com/search?q=女子鹤岗全款 1.5 万买房)
-1. [美国宣布从战略储备中释放 1500 万桶石油](https://www.zhihu.com/search?q=美国宣布从战略储备中释放 1500
-   万桶石油)
 
 <!-- END -->
 
