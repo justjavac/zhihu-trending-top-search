@@ -14,9 +14,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Oct 21 2022 16:14:08 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Oct 21 2022 17:17:36 GMT+0800 (China Standard Time) -->
 
-1. [世界骨质疏松日](https://www.zhihu.com/search?q=世界骨质疏松日)
 1. [动车组将从百米海底驶过](https://www.zhihu.com/search?q=动车组将从百米海底驶过)
 1. [淘宝购物车容量扩至 300 ](https://www.zhihu.com/search?q=淘宝购物车容量扩至 300 )
 1. [中东部未来一周持续偏暖](https://www.zhihu.com/search?q=中东部未来一周持续偏暖)
@@ -26,6 +25,8 @@
 1. [一拳超人 217 话](https://www.zhihu.com/search?q=一拳超人 217 话)
 1. [一人之下 636 话](https://www.zhihu.com/search?q=一人之下 636 话)
 1. [67%罕见病用药已纳入医保](https://www.zhihu.com/search?q=67%罕见病用药已纳入医保)
+1. [霉霉新专](https://www.zhihu.com/search?q=霉霉新专)
+1. [世界骨质疏松日](https://www.zhihu.com/search?q=世界骨质疏松日)
 1. [日元兑美元汇率首次跌破 150](https://www.zhihu.com/search?q=日元兑美元汇率首次跌破 150)
 1. [中国成功运行世界首个电磁橇](https://www.zhihu.com/search?q=中国成功运行世界首个电磁橇)
 1. [国药集团成功分离猴痘病毒](https://www.zhihu.com/search?q=国药集团成功分离猴痘病毒)

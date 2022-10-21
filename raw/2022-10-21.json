@@ -1,5 +1,4 @@
 [
-  { "query": "世界骨质疏松日", "display_query": "世界骨质疏松日" },
   { "query": "动车组将从百米海底驶过", "display_query": "动车组将从百米海底驶过" },
   { "query": "淘宝购物车容量扩至 300 ", "display_query": "淘宝购物车容量扩至 300 " },
   { "query": "中东部未来一周持续偏暖", "display_query": "中东部未来一周持续偏暖" },
@@ -9,6 +8,8 @@
   { "query": "一拳超人 217 话", "display_query": "一拳超人 217 话" },
   { "query": "一人之下 636 话", "display_query": "一人之下 636 话" },
   { "query": "67%罕见病用药已纳入医保", "display_query": "67%罕见病用药已纳入医保" },
+  { "query": "霉霉新专", "display_query": "霉霉新专" },
+  { "query": "世界骨质疏松日", "display_query": "世界骨质疏松日" },
   { "query": "日元兑美元汇率首次跌破 150", "display_query": "日元兑美元汇率首次跌破 150" },
   { "query": "中国成功运行世界首个电磁橇", "display_query": "中国成功运行世界首个电磁橇" },
   { "query": "国药集团成功分离猴痘病毒", "display_query": "国药集团成功分离猴痘病毒" },
