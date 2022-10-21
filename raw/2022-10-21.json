@@ -1,7 +1,4 @@
 [
-  { "query": "寂静岭和风新作", "display_query": "寂静岭和风新作" },
-  { "query": "瘟疫传说：安魂曲", "display_query": "瘟疫传说：安魂曲" },
-  { "query": "大富翁 11", "display_query": "大富翁 11" },
   { "query": "国药集团成功分离猴痘病毒", "display_query": "国药集团成功分离猴痘病毒" },
   { "query": "日元兑美元汇率首次跌破 150", "display_query": "日元兑美元汇率首次跌破 150" },
   { "query": "中国成功运行世界首个电磁橇", "display_query": "中国成功运行世界首个电磁橇" },
@@ -9,6 +6,12 @@
   { "query": "动车组将从百米海底驶过", "display_query": "动车组将从百米海底驶过" },
   { "query": "淘宝购物车容量扩至 300 ", "display_query": "淘宝购物车容量扩至 300 " },
   { "query": "中东部未来一周持续偏暖", "display_query": "中东部未来一周持续偏暖" },
+  { "query": "JDG 晋级四强", "display_query": "JDG 晋级四强" },
+  { "query": "赫尔松之战", "display_query": "赫尔松之战" },
+  { "query": "全职猎人复刊更新", "display_query": "全职猎人复刊更新" },
+  { "query": "寂静岭和风新作", "display_query": "寂静岭和风新作" },
+  { "query": "瘟疫传说：安魂曲", "display_query": "瘟疫传说：安魂曲" },
+  { "query": "大富翁 11", "display_query": "大富翁 11" },
   { "query": "女子鹤岗全款 1.5 万买房", "display_query": "女子鹤岗全款 1.5 万买房" },
   {
     "query": "美国宣布从战略储备中释放 1500 万桶石油",
