@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Oct 22 2022 14:18:21 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Oct 22 2022 15:15:24 GMT+0800 (China Standard Time) -->
 
 1. [全红婵跳水世界杯首秀](https://www.zhihu.com/search?q=全红婵跳水世界杯首秀)
 1. [151 日元兑换 1 美元](https://www.zhihu.com/search?q=151 日元兑换 1 美元)
