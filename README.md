@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Oct 22 2022 21:33:57 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Oct 22 2022 22:12:22 GMT+0800 (China Standard Time) -->
 
 1. [美俄两国防长通电话](https://www.zhihu.com/search?q=美俄两国防长通电话)
 1. [中国将进行载人月球探测](https://www.zhihu.com/search?q=中国将进行载人月球探测)
