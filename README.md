@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Oct 24 2022 12:22:58 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Oct 24 2022 14:12:00 GMT+0800 (China Standard Time) -->
 
 1. [高达水星的魔女更新](https://www.zhihu.com/search?q=高达水星的魔女更新)
 1. [中国将进行载人月球探测](https://www.zhihu.com/search?q=中国将进行载人月球探测)
