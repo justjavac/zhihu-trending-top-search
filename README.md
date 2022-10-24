@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Oct 24 2022 07:11:02 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Oct 24 2022 09:06:25 GMT+0800 (China Standard Time) -->
 
 1. [中国将进行载人月球探测](https://www.zhihu.com/search?q=中国将进行载人月球探测)
 1. [国产氯巴占片正式上市](https://www.zhihu.com/search?q=国产氯巴占片正式上市)
@@ -22,6 +22,7 @@
 1. [职校「双师型」教师占比不低于 50%](https://www.zhihu.com/search?q=职校「双师型」教师占比不低于 50%)
 1. [河南小伙菜地里建微型高铁](https://www.zhihu.com/search?q=河南小伙菜地里建微型高铁)
 1. [类孟买血型](https://www.zhihu.com/search?q=类孟买血型)
+1. [苏纳克：将接替特拉斯成为英国新首相](https://www.zhihu.com/search?q=苏纳克：将接替特拉斯成为英国新首相)
 
 <!-- END -->
 
