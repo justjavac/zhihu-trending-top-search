@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Oct 24 2022 20:21:01 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Oct 24 2022 21:51:19 GMT+0800 (China Standard Time) -->
 
 1. [高达水星的魔女更新](https://www.zhihu.com/search?q=高达水星的魔女更新)
 1. [苏纳克：将接替特拉斯成为英国新首相](https://www.zhihu.com/search?q=苏纳克：将接替特拉斯成为英国新首相)
@@ -24,6 +24,7 @@
 1. [成品油价迎下半年第二涨](https://www.zhihu.com/search?q=成品油价迎下半年第二涨)
 1. [幼儿园男老师组织孩子对冲格斗](https://www.zhihu.com/search?q=幼儿园男老师组织孩子对冲格斗)
 1. [新能源车预计销量增长 73.5％](https://www.zhihu.com/search?q=新能源车预计销量增长 73.5％)
+1. [苏纳克将出任英国新任首相](https://www.zhihu.com/search?q=苏纳克将出任英国新任首相)
 1. [中国将进行载人月球探测](https://www.zhihu.com/search?q=中国将进行载人月球探测)
 1. [职校「双师型」教师占比不低于 50%](https://www.zhihu.com/search?q=职校「双师型」教师占比不低于 50%)
 1. [河南小伙菜地里建微型高铁](https://www.zhihu.com/search?q=河南小伙菜地里建微型高铁)
