@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Oct 25 2022 01:28:34 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Oct 25 2022 02:21:48 GMT+0800 (China Standard Time) -->
 
 1. [高达水星的魔女更新](https://www.zhihu.com/search?q=高达水星的魔女更新)
 1. [苏纳克：将接替特拉斯成为英国新首相](https://www.zhihu.com/search?q=苏纳克：将接替特拉斯成为英国新首相)
