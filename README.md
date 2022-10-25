@@ -14,9 +14,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Oct 25 2022 09:03:57 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Oct 25 2022 12:17:26 GMT+0800 (China Standard Time) -->
 
-1. [高达水星的魔女更新](https://www.zhihu.com/search?q=高达水星的魔女更新)
 1. [嫦娥五号月壤揭示月球年轻火山成因](https://www.zhihu.com/search?q=嫦娥五号月壤揭示月球年轻火山成因)
 1. [云南 plus 版牛油果上架](https://www.zhihu.com/search?q=云南 plus 版牛油果上架)
 1. [黑猩猩用吸管喝牛奶](https://www.zhihu.com/search?q=黑猩猩用吸管喝牛奶)
@@ -26,6 +25,8 @@
 1. [苏纳克将出任英国新任首相](https://www.zhihu.com/search?q=苏纳克将出任英国新任首相)
 1. [女排奥运冠军林莉宣布退役](https://www.zhihu.com/search?q=女排奥运冠军林莉宣布退役)
 1. [高校学生刮腻子刮成世界冠军](https://www.zhihu.com/search?q=高校学生刮腻子刮成世界冠军)
+1. [六部门：便利国际商务人员往来](https://www.zhihu.com/search?q=六部门：便利国际商务人员往来)
+1. [高达水星的魔女更新](https://www.zhihu.com/search?q=高达水星的魔女更新)
 1. [苏纳克：将接替特拉斯成为英国新首相](https://www.zhihu.com/search?q=苏纳克：将接替特拉斯成为英国新首相)
 
 <!-- END -->
