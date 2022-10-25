@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Oct 25 2022 14:07:23 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Oct 25 2022 15:35:35 GMT+0800 (China Standard Time) -->
 
 1. [嫦娥五号月壤揭示月球年轻火山成因](https://www.zhihu.com/search?q=嫦娥五号月壤揭示月球年轻火山成因)
 1. [云南 plus 版牛油果上架](https://www.zhihu.com/search?q=云南 plus 版牛油果上架)
