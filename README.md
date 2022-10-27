@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Oct 27 2022 14:12:44 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Oct 27 2022 15:09:15 GMT+0800 (China Standard Time) -->
 
 1. [三部门联合开展艺考培训专项治理](https://www.zhihu.com/search?q=三部门联合开展艺考培训专项治理)
 1. [维多利亚 3](https://www.zhihu.com/search?q=维多利亚 3)
