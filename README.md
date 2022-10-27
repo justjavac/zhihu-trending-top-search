@@ -14,17 +14,13 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Oct 27 2022 23:09:19 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Oct 28 2022 00:12:55 GMT+0800 (China Standard Time) -->
 
 1. [华为前三季度营收 4458 亿元](https://www.zhihu.com/search?q=华为前三季度营收 4458 亿元)
 1. [天将降大任于是人还是斯人](https://www.zhihu.com/search?q=天将降大任于是人还是斯人)
 1. [如何看待「招弟」们改名](https://www.zhihu.com/search?q=如何看待「招弟」们改名)
 1. [李冰洁打破世界纪录](https://www.zhihu.com/search?q=李冰洁打破世界纪录)
 1. [辛吉飞否认妖魔化食品添加剂](https://www.zhihu.com/search?q=辛吉飞否认妖魔化食品添加剂)
-1. [三部门联合开展艺考培训专项治理](https://www.zhihu.com/search?q=三部门联合开展艺考培训专项治理)
-1. [维多利亚 3](https://www.zhihu.com/search?q=维多利亚 3)
-1. [电锯人第三集](https://www.zhihu.com/search?q=电锯人第三集)
-1. [阿迪达斯终止与侃爷合作](https://www.zhihu.com/search?q=阿迪达斯终止与侃爷合作)
 
 <!-- END -->
 
