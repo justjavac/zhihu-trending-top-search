@@ -14,9 +14,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Oct 28 2022 17:11:44 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Oct 28 2022 18:10:07 GMT+0800 (China Standard Time) -->
 
-1. [天将降大任于是人还是斯人](https://www.zhihu.com/search?q=天将降大任于是人还是斯人)
 1. [如何看待「招弟」们改名](https://www.zhihu.com/search?q=如何看待「招弟」们改名)
 1. [李冰洁打破世界纪录](https://www.zhihu.com/search?q=李冰洁打破世界纪录)
 1. [辛吉飞否认妖魔化食品添加剂](https://www.zhihu.com/search?q=辛吉飞否认妖魔化食品添加剂)
@@ -26,6 +25,8 @@
 1. [贝优妮塔3](https://www.zhihu.com/search?q=贝优妮塔3)
 1. [一人之下 637 话](https://www.zhihu.com/search?q=一人之下 637 话)
 1. [维多利亚 3 褒贬不一](https://www.zhihu.com/search?q=维多利亚 3 褒贬不一)
+1. [现在抛本币买外汇将来一定会后悔](https://www.zhihu.com/search?q=现在抛本币买外汇将来一定会后悔)
+1. [天将降大任于是人还是斯人](https://www.zhihu.com/search?q=天将降大任于是人还是斯人)
 1. [华为前三季度营收 4458 亿元](https://www.zhihu.com/search?q=华为前三季度营收 4458 亿元)
 
 <!-- END -->
