@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Oct 28 2022 23:09:50 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Oct 29 2022 00:11:59 GMT+0800 (China Standard Time) -->
 
 1. [退休阿姨翻拍《甄嬛传》](https://www.zhihu.com/search?q=退休阿姨翻拍《甄嬛传》)
 1. [Meta 净利润连续下滑](https://www.zhihu.com/search?q=Meta 净利润连续下滑)
@@ -25,11 +25,6 @@
 1. [现在抛本币买外汇将来一定会后悔](https://www.zhihu.com/search?q=现在抛本币买外汇将来一定会后悔)
 1. [内蒙古工业大学回应](https://www.zhihu.com/search?q=内蒙古工业大学回应)
 1. [佩洛西丈夫在家中遇袭](https://www.zhihu.com/search?q=佩洛西丈夫在家中遇袭)
-1. [辛吉飞否认妖魔化食品添加剂](https://www.zhihu.com/search?q=辛吉飞否认妖魔化食品添加剂)
-1. [李冰洁打破世界纪录](https://www.zhihu.com/search?q=李冰洁打破世界纪录)
-1. [如何看待「招弟」们改名](https://www.zhihu.com/search?q=如何看待「招弟」们改名)
-1. [天将降大任于是人还是斯人](https://www.zhihu.com/search?q=天将降大任于是人还是斯人)
-1. [华为前三季度营收 4458 亿元](https://www.zhihu.com/search?q=华为前三季度营收 4458 亿元)
 
 <!-- END -->
 
