@@ -1,5 +1,4 @@
 [
-  { "query": "华为前三季度营收 4458 亿元", "display_query": "华为前三季度营收 4458 亿元" },
   { "query": "天将降大任于是人还是斯人", "display_query": "天将降大任于是人还是斯人" },
   { "query": "如何看待「招弟」们改名", "display_query": "如何看待「招弟」们改名" },
   { "query": "李冰洁打破世界纪录", "display_query": "李冰洁打破世界纪录" },
@@ -8,5 +7,7 @@
   { "query": "Meta 净利润连续下滑", "display_query": "Meta 净利润连续下滑" },
   { "query": "鹤岗被确定为中等城市", "display_query": "鹤岗被确定为中等城市" },
   { "query": "贝优妮塔3", "display_query": "贝优妮塔3" },
-  { "query": "一人之下 637 话", "display_query": "一人之下 637 话" }
+  { "query": "一人之下 637 话", "display_query": "一人之下 637 话" },
+  { "query": "维多利亚 3 褒贬不一", "display_query": "维多利亚 3 褒贬不一" },
+  { "query": "华为前三季度营收 4458 亿元", "display_query": "华为前三季度营收 4458 亿元" }
 ]
