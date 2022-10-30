@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Oct 30 2022 12:37:56 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Oct 30 2022 13:17:56 GMT+0800 (China Standard Time) -->
 
 1. [「专硕」将成未来考研主流](https://www.zhihu.com/search?q=「专硕」将成未来考研主流)
 1. [中方：不要以美国之心度中国之腹](https://www.zhihu.com/search?q=中方：不要以美国之心度中国之腹)
