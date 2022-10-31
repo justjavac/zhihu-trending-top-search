@@ -1,6 +1,5 @@
 [
   { "query": "原神新角色", "display_query": "原神新角色" },
-  { "query": "Tundra 夺得 TI11 冠军", "display_query": "Tundra 夺得 TI11 冠军" },
   { "query": "李智汉在梨泰院事故中遇难", "display_query": "李智汉在梨泰院事故中遇难" },
   { "query": "今冬或现三重拉尼娜事件", "display_query": "今冬或现三重拉尼娜事件" },
   { "query": "富士康苏东霞回应网传截图", "display_query": "富士康苏东霞回应网传截图" },
@@ -9,6 +8,8 @@
   { "query": "上海迪士尼暂时关闭", "display_query": "上海迪士尼暂时关闭" },
   { "query": "富士康负责人回应科技园目前情况", "display_query": "富士康负责人回应科技园目前情况" },
   { "query": "韩国政府发布踩踏伤亡人员补助方案", "display_query": "韩国政府发布踩踏伤亡人员补助方案" },
+  { "query": "「发疯文学」火了", "display_query": "「发疯文学」火了" },
+  { "query": "Tundra 夺得 TI11 冠军", "display_query": "Tundra 夺得 TI11 冠军" },
   { "query": "鸿海回应郑州富士康部分员工徒步返乡", "display_query": "鸿海回应郑州富士康部分员工徒步返乡" },
   { "query": "JDG 止步四强", "display_query": "JDG 止步四强" },
   { "query": "T1 晋级总决赛", "display_query": "T1 晋级总决赛" },
