@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Oct 31 2022 13:26:20 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Oct 31 2022 14:12:29 GMT+0800 (China Standard Time) -->
 
 1. [JDG 止步四强](https://www.zhihu.com/search?q=JDG 止步四强)
 1. [T1 晋级总决赛](https://www.zhihu.com/search?q=T1 晋级总决赛)
