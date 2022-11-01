@@ -14,9 +14,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Nov 01 2022 20:21:46 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Nov 01 2022 21:40:39 GMT+0800 (China Standard Time) -->
 
-1. [官方回应一副局长疑戴 3 万元耳钉](https://www.zhihu.com/search?q=官方回应一副局长疑戴 3 万元耳钉)
 1. [俄方获准参与「北溪」事件调查](https://www.zhihu.com/search?q=俄方获准参与「北溪」事件调查)
 1. [富士康员工自述](https://www.zhihu.com/search?q=富士康员工自述)
 1. [乌军将领称「最重磅战役」即将爆发](https://www.zhihu.com/search?q=乌军将领称「最重磅战役」即将爆发)
@@ -26,6 +25,8 @@
 1. [基层管理者亲述富士康 15 天到底发生了啥](https://www.zhihu.com/search?q=基层管理者亲述富士康 15 天到底发生了啥)
 1. [三国演义关羽扮演者陆树铭去世](https://www.zhihu.com/search?q=三国演义关羽扮演者陆树铭去世)
 1. [颜宁宣布离美归国](https://www.zhihu.com/search?q=颜宁宣布离美归国)
+1. [成都疑现加拿大一枝黄花](https://www.zhihu.com/search?q=成都疑现加拿大一枝黄花)
+1. [官方回应一副局长疑戴 3 万元耳钉](https://www.zhihu.com/search?q=官方回应一副局长疑戴 3 万元耳钉)
 1. [原神新角色](https://www.zhihu.com/search?q=原神新角色)
 1. [广汽菲克申请破产](https://www.zhihu.com/search?q=广汽菲克申请破产)
 1. [七部门出手规范明星广告代言活动](https://www.zhihu.com/search?q=七部门出手规范明星广告代言活动)
