@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Nov 01 2022 13:40:44 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Nov 01 2022 14:19:01 GMT+0800 (China Standard Time) -->
 
 1. [原神新角色](https://www.zhihu.com/search?q=原神新角色)
 1. [富士康负责人回应科技园目前情况](https://www.zhihu.com/search?q=富士康负责人回应科技园目前情况)
