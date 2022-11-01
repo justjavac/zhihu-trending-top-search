@@ -1,7 +1,5 @@
 [
   { "query": "原神新角色", "display_query": "原神新角色" },
-  { "query": "NASA 捕捉到「太阳的微笑」", "display_query": "NASA 捕捉到「太阳的微笑」" },
-  { "query": "台风「尼格」靠近", "display_query": "台风「尼格」靠近" },
   { "query": "上海迪士尼暂时关闭", "display_query": "上海迪士尼暂时关闭" },
   { "query": "富士康负责人回应科技园目前情况", "display_query": "富士康负责人回应科技园目前情况" },
   { "query": "韩国政府发布踩踏伤亡人员补助方案", "display_query": "韩国政府发布踩踏伤亡人员补助方案" },
@@ -9,6 +7,10 @@
   { "query": "七部门出手规范明星广告代言活动", "display_query": "七部门出手规范明星广告代言活动" },
   { "query": "广汽菲克申请破产", "display_query": "广汽菲克申请破产" },
   { "query": "官方回应一副局长疑戴 3 万元耳钉", "display_query": "官方回应一副局长疑戴 3 万元耳钉" },
+  { "query": "俄方获准参与「北溪」事件调查", "display_query": "俄方获准参与「北溪」事件调查" },
+  { "query": "富士康员工自述", "display_query": "富士康员工自述" },
+  { "query": "NASA 捕捉到「太阳的微笑」", "display_query": "NASA 捕捉到「太阳的微笑」" },
+  { "query": "台风「尼格」靠近", "display_query": "台风「尼格」靠近" },
   { "query": "今冬或现三重拉尼娜事件", "display_query": "今冬或现三重拉尼娜事件" },
   { "query": "富士康苏东霞回应网传截图", "display_query": "富士康苏东霞回应网传截图" }
 ]
