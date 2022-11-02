@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Nov 02 2022 13:38:23 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Nov 02 2022 14:16:01 GMT+0800 (China Standard Time) -->
 
 1. [心动的信号 5 收官](https://www.zhihu.com/search?q=心动的信号 5 收官)
 1. [颜宁宣布离美归国](https://www.zhihu.com/search?q=颜宁宣布离美归国)
