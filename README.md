@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Nov 02 2022 18:10:45 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Nov 02 2022 19:08:44 GMT+0800 (China Standard Time) -->
 
 1. [心动的信号 5 收官](https://www.zhihu.com/search?q=心动的信号 5 收官)
 1. [郑州一专家表示新冠病毒感染是自限性疾病](https://www.zhihu.com/search?q=郑州一专家表示新冠病毒感染是自限性疾病)
