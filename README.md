@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Nov 03 2022 07:08:52 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Nov 03 2022 08:51:26 GMT+0800 (China Standard Time) -->
 
 1. [顾客漏扫一块猪肉被超市罚 2 万](https://www.zhihu.com/search?q=顾客漏扫一块猪肉被超市罚 2 万)
 1. [试点小区将配建食堂和家政服务网点](https://www.zhihu.com/search?q=试点小区将配建食堂和家政服务网点)
