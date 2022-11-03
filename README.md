@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Nov 03 2022 11:52:52 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Nov 03 2022 12:30:42 GMT+0800 (China Standard Time) -->
 
 1. [中国联通与腾讯设立混改新公司获批](https://www.zhihu.com/search?q=中国联通与腾讯设立混改新公司获批)
 1. [郑州航空港区 7 天静态管理](https://www.zhihu.com/search?q=郑州航空港区 7 天静态管理)
@@ -23,6 +23,7 @@
 1. [南开一本科生直博北大被曝论文抄袭](https://www.zhihu.com/search?q=南开一本科生直博北大被曝论文抄袭)
 1. [多地回应乘火车飞机不再查核酸](https://www.zhihu.com/search?q=多地回应乘火车飞机不再查核酸)
 1. [河南平顶山市区发生巨响](https://www.zhihu.com/search?q=河南平顶山市区发生巨响)
+1. [如何理解新冠肺炎是自限性疾病](https://www.zhihu.com/search?q=如何理解新冠肺炎是自限性疾病)
 1. [教育局确认河南女教师上网课后去世](https://www.zhihu.com/search?q=教育局确认河南女教师上网课后去世)
 1. [多地 11 月起核酸检测需自费](https://www.zhihu.com/search?q=多地 11 月起核酸检测需自费)
 1. [顾客漏扫一块猪肉被超市罚 2 万](https://www.zhihu.com/search?q=顾客漏扫一块猪肉被超市罚 2 万)
