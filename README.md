@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Nov 04 2022 17:08:41 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Nov 04 2022 18:10:20 GMT+0800 (China Standard Time) -->
 
 1. [135 款 app 侵犯个人信息合法权益](https://www.zhihu.com/search?q=135 款 app 侵犯个人信息合法权益)
 1. [人教社回应日语教材插画争议](https://www.zhihu.com/search?q=人教社回应日语教材插画争议)
@@ -25,6 +25,7 @@
 1. [无期迷途瑰异奇妙夜](https://www.zhihu.com/search?q=无期迷途瑰异奇妙夜)
 1. [全职猎人 393 话](https://www.zhihu.com/search?q=全职猎人 393 话)
 1. [女子吃自热火锅疑食物中毒去世](https://www.zhihu.com/search?q=女子吃自热火锅疑食物中毒去世)
+1. [日本加入北约网络防御中心](https://www.zhihu.com/search?q=日本加入北约网络防御中心)
 1. [核酸采样管单价仅 1.95 元/支](https://www.zhihu.com/search?q=核酸采样管单价仅 1.95 元/支)
 1. [兰州七里河通报儿童死亡事件](https://www.zhihu.com/search?q=兰州七里河通报儿童死亡事件)
 1. [如何理解新冠肺炎是自限性疾病](https://www.zhihu.com/search?q=如何理解新冠肺炎是自限性疾病)
