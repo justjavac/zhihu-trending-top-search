@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Nov 04 2022 13:17:15 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Nov 04 2022 14:11:18 GMT+0800 (China Standard Time) -->
 
 1. [兰州七里河通报儿童死亡事件](https://www.zhihu.com/search?q=兰州七里河通报儿童死亡事件)
 1. [核酸采样管单价仅 1.95 元/支](https://www.zhihu.com/search?q=核酸采样管单价仅 1.95 元/支)
