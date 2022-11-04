@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Nov 04 2022 12:34:05 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Nov 04 2022 13:17:15 GMT+0800 (China Standard Time) -->
 
 1. [兰州七里河通报儿童死亡事件](https://www.zhihu.com/search?q=兰州七里河通报儿童死亡事件)
 1. [核酸采样管单价仅 1.95 元/支](https://www.zhihu.com/search?q=核酸采样管单价仅 1.95 元/支)
@@ -23,6 +23,8 @@
 1. [疑女教师网课入侵者发声：骂人有钱](https://www.zhihu.com/search?q=疑女教师网课入侵者发声：骂人有钱)
 1. [鄂尔多斯通告称无论何时生命至上](https://www.zhihu.com/search?q=鄂尔多斯通告称无论何时生命至上)
 1. [官方回应杭州地铁女乘客爬行](https://www.zhihu.com/search?q=官方回应杭州地铁女乘客爬行)
+1. [无期迷途瑰异奇妙夜](https://www.zhihu.com/search?q=无期迷途瑰异奇妙夜)
+1. [全职猎人 393 话](https://www.zhihu.com/search?q=全职猎人 393 话)
 1. [如何理解新冠肺炎是自限性疾病](https://www.zhihu.com/search?q=如何理解新冠肺炎是自限性疾病)
 1. [河南平顶山市区发生巨响](https://www.zhihu.com/search?q=河南平顶山市区发生巨响)
 1. [南开一本科生直博北大被曝论文抄袭](https://www.zhihu.com/search?q=南开一本科生直博北大被曝论文抄袭)
