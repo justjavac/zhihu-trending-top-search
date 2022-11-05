@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Nov 06 2022 05:07:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Nov 06 2022 06:07:55 GMT+0800 (China Standard Time) -->
 
 1. [华中科技大学原校长杨叔子逝世](https://www.zhihu.com/search?q=华中科技大学原校长杨叔子逝世)
 1. [张益唐 零点猜想](https://www.zhihu.com/search?q=张益唐 零点猜想)
