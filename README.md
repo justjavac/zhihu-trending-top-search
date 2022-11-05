@@ -14,10 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Nov 05 2022 17:08:58 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Nov 05 2022 18:09:56 GMT+0800 (China Standard Time) -->
 
 1. [一人之下锈铁更新](https://www.zhihu.com/search?q=一人之下锈铁更新)
-1. [日本加入北约网络防御中心](https://www.zhihu.com/search?q=日本加入北约网络防御中心)
 1. [建立健全网暴预警预防机制](https://www.zhihu.com/search?q=建立健全网暴预警预防机制)
 1. [披荆斩棘总决赛](https://www.zhihu.com/search?q=披荆斩棘总决赛)
 1. [多地：急诊患者直接拨打 120 急救](https://www.zhihu.com/search?q=多地：急诊患者直接拨打 120 急救)
@@ -25,6 +24,8 @@
 1. [华中科技大学原校长杨叔子逝世](https://www.zhihu.com/search?q=华中科技大学原校长杨叔子逝世)
 1. [张益唐 零点猜想](https://www.zhihu.com/search?q=张益唐 零点猜想)
 1. [官方：提高科学精准防控 防止一刀切](https://www.zhihu.com/search?q=官方：提高科学精准防控 防止一刀切)
+1. [郑州被通报随意静默封城代替管控](https://www.zhihu.com/search?q=郑州被通报随意静默封城代替管控)
+1. [日本加入北约网络防御中心](https://www.zhihu.com/search?q=日本加入北约网络防御中心)
 1. [女子吃自热火锅疑食物中毒去世](https://www.zhihu.com/search?q=女子吃自热火锅疑食物中毒去世)
 1. [无期迷途瑰异奇妙夜](https://www.zhihu.com/search?q=无期迷途瑰异奇妙夜)
 1. [全职猎人 393 话](https://www.zhihu.com/search?q=全职猎人 393 话)
