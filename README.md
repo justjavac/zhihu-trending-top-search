@@ -14,12 +14,13 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Nov 06 2022 07:08:48 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Nov 06 2022 08:50:51 GMT+0800 (China Standard Time) -->
 
 1. [华中科技大学原校长杨叔子逝世](https://www.zhihu.com/search?q=华中科技大学原校长杨叔子逝世)
 1. [张益唐 零点猜想](https://www.zhihu.com/search?q=张益唐 零点猜想)
 1. [官方：提高科学精准防控 防止一刀切](https://www.zhihu.com/search?q=官方：提高科学精准防控 防止一刀切)
 1. [郑州被通报随意静默封城代替管控](https://www.zhihu.com/search?q=郑州被通报随意静默封城代替管控)
+1. [S12 总决赛](https://www.zhihu.com/search?q=S12 总决赛)
 
 <!-- END -->
 
