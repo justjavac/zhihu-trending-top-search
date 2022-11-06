@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Nov 06 2022 11:44:29 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Nov 06 2022 12:18:05 GMT+0800 (China Standard Time) -->
 
 1. [张益唐 零点猜想](https://www.zhihu.com/search?q=张益唐 零点猜想)
 1. [官方：提高科学精准防控 防止一刀切](https://www.zhihu.com/search?q=官方：提高科学精准防控 防止一刀切)
