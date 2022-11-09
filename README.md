@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Nov 09 2022 20:20:56 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Nov 09 2022 21:37:34 GMT+0800 (China Standard Time) -->
 
 1. [全国核酸检测再降价](https://www.zhihu.com/search?q=全国核酸检测再降价)
 1. [电锯人第五集](https://www.zhihu.com/search?q=电锯人第五集)
