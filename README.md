@@ -14,10 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Nov 11 2022 17:09:17 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Nov 11 2022 18:10:03 GMT+0800 (China Standard Time) -->
 
 1. [孩子被同学打伤家长上门掌掴 5 岁幼儿](https://www.zhihu.com/search?q=孩子被同学打伤家长上门掌掴 5 岁幼儿)
-1. [韩国学生流行踩踏游戏](https://www.zhihu.com/search?q=韩国学生流行踩踏游戏)
 1. [全球人口将达 80 亿](https://www.zhihu.com/search?q=全球人口将达 80 亿)
 1. [人民空军创建 73 周年](https://www.zhihu.com/search?q=人民空军创建 73 周年)
 1. [北大团队发表癌症治疗重大发现](https://www.zhihu.com/search?q=北大团队发表癌症治疗重大发现)
@@ -25,6 +24,7 @@
 1. [一人之下 639 话](https://www.zhihu.com/search?q=一人之下 639 话)
 1. [入境人员阳性判定标准为核酸检测 Ct 值](https://www.zhihu.com/search?q=入境人员阳性判定标准为核酸检测 Ct 值)
 1. [密接者管理调为「5+3」](https://www.zhihu.com/search?q=密接者管理调为「5+3」)
+1. [韩国学生流行踩踏游戏](https://www.zhihu.com/search?q=韩国学生流行踩踏游戏)
 1. [扎克伯格就万人被裁视频致歉](https://www.zhihu.com/search?q=扎克伯格就万人被裁视频致歉)
 1. [男子多次闯入母婴室接水](https://www.zhihu.com/search?q=男子多次闯入母婴室接水)
 1. [一流星被证实来自另一个恒星系统](https://www.zhihu.com/search?q=一流星被证实来自另一个恒星系统)
