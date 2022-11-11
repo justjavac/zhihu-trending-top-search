@@ -14,9 +14,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Nov 11 2022 22:10:43 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Nov 11 2022 23:10:00 GMT+0800 (China Standard Time) -->
 
-1. [孩子被同学打伤家长上门掌掴 5 岁幼儿](https://www.zhihu.com/search?q=孩子被同学打伤家长上门掌掴 5 岁幼儿)
 1. [全球人口将达 80 亿](https://www.zhihu.com/search?q=全球人口将达 80 亿)
 1. [人民空军创建 73 周年](https://www.zhihu.com/search?q=人民空军创建 73 周年)
 1. [北大团队发表癌症治疗重大发现](https://www.zhihu.com/search?q=北大团队发表癌症治疗重大发现)
@@ -26,6 +25,8 @@
 1. [密接者管理调为「5+3」](https://www.zhihu.com/search?q=密接者管理调为「5+3」)
 1. [宝可梦旅途小智夺冠](https://www.zhihu.com/search?q=宝可梦旅途小智夺冠)
 1. [乌军已进入赫尔松市](https://www.zhihu.com/search?q=乌军已进入赫尔松市)
+1. [今年天猫「双11」整体稳中向好](https://www.zhihu.com/search?q=今年天猫「双11」整体稳中向好)
+1. [孩子被同学打伤家长上门掌掴 5 岁幼儿](https://www.zhihu.com/search?q=孩子被同学打伤家长上门掌掴 5 岁幼儿)
 1. [韩国学生流行踩踏游戏](https://www.zhihu.com/search?q=韩国学生流行踩踏游戏)
 1. [扎克伯格就万人被裁视频致歉](https://www.zhihu.com/search?q=扎克伯格就万人被裁视频致歉)
 1. [男子多次闯入母婴室接水](https://www.zhihu.com/search?q=男子多次闯入母婴室接水)
