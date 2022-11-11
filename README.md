@@ -14,10 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Nov 11 2022 07:09:36 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Nov 11 2022 08:52:28 GMT+0800 (China Standard Time) -->
 
 1. [孩子被同学打伤家长上门掌掴 5 岁幼儿](https://www.zhihu.com/search?q=孩子被同学打伤家长上门掌掴 5 岁幼儿)
-1. [俄宣布从赫尔松部分地区撤军](https://www.zhihu.com/search?q=俄宣布从赫尔松部分地区撤军)
 1. [叠纸新游百面千相](https://www.zhihu.com/search?q=叠纸新游百面千相)
 1. [广州三区静默八区停课](https://www.zhihu.com/search?q=广州三区静默八区停课)
 1. [生稻种植一次可连续免耕收获 3-4 年](https://www.zhihu.com/search?q=生稻种植一次可连续免耕收获 3-4 年)
@@ -26,6 +25,8 @@
 1. [一流星被证实来自另一个恒星系统](https://www.zhihu.com/search?q=一流星被证实来自另一个恒星系统)
 1. [拜登称无法保证摆脱通货膨胀](https://www.zhihu.com/search?q=拜登称无法保证摆脱通货膨胀)
 1. [扎克伯格就万人被裁视频致歉](https://www.zhihu.com/search?q=扎克伯格就万人被裁视频致歉)
+1. [韩国学生流行踩踏游戏](https://www.zhihu.com/search?q=韩国学生流行踩踏游戏)
+1. [俄宣布从赫尔松部分地区撤军](https://www.zhihu.com/search?q=俄宣布从赫尔松部分地区撤军)
 
 <!-- END -->
 
