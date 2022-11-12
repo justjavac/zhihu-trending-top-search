@@ -14,13 +14,13 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Nov 12 2022 13:09:59 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Nov 12 2022 14:10:49 GMT+0800 (China Standard Time) -->
 
-1. [密接者管理调为「5+3」](https://www.zhihu.com/search?q=密接者管理调为「5+3」)
 1. [宝可梦旅途小智夺冠](https://www.zhihu.com/search?q=宝可梦旅途小智夺冠)
 1. [乌军已进入赫尔松市](https://www.zhihu.com/search?q=乌军已进入赫尔松市)
 1. [今年天猫「双11」整体稳中向好](https://www.zhihu.com/search?q=今年天猫「双11」整体稳中向好)
 1. [奶茶店被封一事三名工作人员被处分](https://www.zhihu.com/search?q=奶茶店被封一事三名工作人员被处分)
+1. [密接者管理调为「5+3」](https://www.zhihu.com/search?q=密接者管理调为「5+3」)
 1. [入境人员阳性判定标准为核酸检测 Ct 值](https://www.zhihu.com/search?q=入境人员阳性判定标准为核酸检测 Ct 值)
 1. [一人之下 639 话](https://www.zhihu.com/search?q=一人之下 639 话)
 1. [全球人口将达 80 亿](https://www.zhihu.com/search?q=全球人口将达 80 亿)
