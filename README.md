@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Nov 12 2022 16:11:18 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Nov 12 2022 17:09:01 GMT+0800 (China Standard Time) -->
 
 1. [宝可梦旅途小智夺冠](https://www.zhihu.com/search?q=宝可梦旅途小智夺冠)
 1. [乌军已进入赫尔松市](https://www.zhihu.com/search?q=乌军已进入赫尔松市)
@@ -22,6 +22,7 @@
 1. [南京男子打人事件完整视频](https://www.zhihu.com/search?q=南京男子打人事件完整视频)
 1. [郑州在重点文物单位建方舱被叫停](https://www.zhihu.com/search?q=郑州在重点文物单位建方舱被叫停)
 1. [深圳大学回应员工坠亡](https://www.zhihu.com/search?q=深圳大学回应员工坠亡)
+1. [集中隔离必要性并未降低](https://www.zhihu.com/search?q=集中隔离必要性并未降低)
 1. [奶茶店被封一事三名工作人员被处分](https://www.zhihu.com/search?q=奶茶店被封一事三名工作人员被处分)
 1. [密接者管理调为「5+3」](https://www.zhihu.com/search?q=密接者管理调为「5+3」)
 1. [入境人员阳性判定标准为核酸检测 Ct 值](https://www.zhihu.com/search?q=入境人员阳性判定标准为核酸检测 Ct 值)
