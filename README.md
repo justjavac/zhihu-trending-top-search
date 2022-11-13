@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Nov 13 2022 07:08:24 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Nov 13 2022 08:45:17 GMT+0800 (China Standard Time) -->
 
 1. [南京男子打人事件完整视频](https://www.zhihu.com/search?q=南京男子打人事件完整视频)
 1. [郑州在重点文物单位建方舱被叫停](https://www.zhihu.com/search?q=郑州在重点文物单位建方舱被叫停)
@@ -24,6 +24,7 @@
 1. [前国足主帅李铁被带走](https://www.zhihu.com/search?q=前国足主帅李铁被带走)
 1. [第 35 届金鸡奖](https://www.zhihu.com/search?q=第 35 届金鸡奖)
 1. [朱一龙金鸡影帝](https://www.zhihu.com/search?q=朱一龙金鸡影帝)
+1. [半脑患者识字认人准确率达 80%](https://www.zhihu.com/search?q=半脑患者识字认人准确率达 80%)
 
 <!-- END -->
 
