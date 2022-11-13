@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Nov 13 2022 17:08:35 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Nov 13 2022 18:08:52 GMT+0800 (China Standard Time) -->
 
 1. [第 35 届金鸡奖](https://www.zhihu.com/search?q=第 35 届金鸡奖)
 1. [朱一龙金鸡影帝](https://www.zhihu.com/search?q=朱一龙金鸡影帝)
