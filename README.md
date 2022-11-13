@@ -14,20 +14,12 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Nov 13 2022 23:08:32 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Nov 14 2022 00:10:45 GMT+0800 (China Standard Time) -->
 
 1. [半脑患者识字认人准确率达 80%](https://www.zhihu.com/search?q=半脑患者识字认人准确率达 80%)
 1. [网店卖催吐用的「仙女管」合理吗](https://www.zhihu.com/search?q=网店卖催吐用的「仙女管」合理吗)
 1. [张伟丽夺 UFC 金腰带](https://www.zhihu.com/search?q=张伟丽夺 UFC 金腰带)
 1. [上海进一步优化防控措施](https://www.zhihu.com/search?q=上海进一步优化防控措施)
-1. [朱一龙金鸡影帝](https://www.zhihu.com/search?q=朱一龙金鸡影帝)
-1. [第 35 届金鸡奖](https://www.zhihu.com/search?q=第 35 届金鸡奖)
-1. [郑州在重点文物单位建方舱被叫停](https://www.zhihu.com/search?q=郑州在重点文物单位建方舱被叫停)
-1. [深圳大学回应员工坠亡](https://www.zhihu.com/search?q=深圳大学回应员工坠亡)
-1. [服装店因老板睡觉没戴口罩被黄牌警告](https://www.zhihu.com/search?q=服装店因老板睡觉没戴口罩被黄牌警告)
-1. [前国足主帅李铁被带走](https://www.zhihu.com/search?q=前国足主帅李铁被带走)
-1. [南京男子打人事件完整视频](https://www.zhihu.com/search?q=南京男子打人事件完整视频)
-1. [集中隔离必要性并未降低](https://www.zhihu.com/search?q=集中隔离必要性并未降低)
 
 <!-- END -->
 
