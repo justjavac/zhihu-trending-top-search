@@ -14,13 +14,13 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Nov 15 2022 15:08:16 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Nov 15 2022 16:11:51 GMT+0800 (China Standard Time) -->
 
 1. [死神千年血战篇更新](https://www.zhihu.com/search?q=死神千年血战篇更新)
 1. [少年被 15 人霸凌刺伤 3 人终获无罪](https://www.zhihu.com/search?q=少年被 15 人霸凌刺伤 3 人终获无罪)
 1. [王海再次打假疯狂小杨哥](https://www.zhihu.com/search?q=王海再次打假疯狂小杨哥)
-1. [石家庄市增设免费核酸检测网点](https://www.zhihu.com/search?q=石家庄市增设免费核酸检测网点)
 1. [著名声乐教育家金铁霖去世](https://www.zhihu.com/search?q=著名声乐教育家金铁霖去世)
+1. [石家庄市增设免费核酸检测网点](https://www.zhihu.com/search?q=石家庄市增设免费核酸检测网点)
 1. [官方回应石家庄取消全员核酸检测](https://www.zhihu.com/search?q=官方回应石家庄取消全员核酸检测)
 1. [石家庄地区连花清瘟胶囊「卖爆」](https://www.zhihu.com/search?q=石家庄地区连花清瘟胶囊「卖爆」)
 1. [一人之下锈铁更新](https://www.zhihu.com/search?q=一人之下锈铁更新)
