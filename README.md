@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Nov 15 2022 11:40:43 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Nov 15 2022 12:13:50 GMT+0800 (China Standard Time) -->
 
 1. [死神千年血战篇更新](https://www.zhihu.com/search?q=死神千年血战篇更新)
 1. [官方回应石家庄取消全员核酸检测](https://www.zhihu.com/search?q=官方回应石家庄取消全员核酸检测)
