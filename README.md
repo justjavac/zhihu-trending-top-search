@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Nov 15 2022 13:08:06 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Nov 15 2022 14:10:53 GMT+0800 (China Standard Time) -->
 
 1. [死神千年血战篇更新](https://www.zhihu.com/search?q=死神千年血战篇更新)
 1. [少年被 15 人霸凌刺伤 3 人终获无罪](https://www.zhihu.com/search?q=少年被 15 人霸凌刺伤 3 人终获无罪)
