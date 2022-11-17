@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Nov 18 2022 06:07:57 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Nov 18 2022 07:09:00 GMT+0800 (China Standard Time) -->
 
 1. [官方：大力推进方舱医院建设](https://www.zhihu.com/search?q=官方：大力推进方舱医院建设)
 1. [	官方：「落地检」与核酸全国互认不相悖](https://www.zhihu.com/search?q=	官方：「落地检」与核酸全国互认不相悖)
