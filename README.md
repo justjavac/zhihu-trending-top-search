@@ -14,11 +14,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Nov 18 2022 16:11:07 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Nov 18 2022 17:08:32 GMT+0800 (China Standard Time) -->
 
-1. [官方：大力推进方舱医院建设](https://www.zhihu.com/search?q=官方：大力推进方舱医院建设)
-1. [	官方：「落地检」与核酸全国互认不相悖](https://www.zhihu.com/search?q=	官方：「落地检」与核酸全国互认不相悖)
-1. [20 条措施颁布后投诉量明显下降](https://www.zhihu.com/search?q=20 条措施颁布后投诉量明显下降)
 1. [官方：只有密接人员才会集中隔离](https://www.zhihu.com/search?q=官方：只有密接人员才会集中隔离)
 1. [11 月游戏版号公布](https://www.zhihu.com/search?q=11 月游戏版号公布)
 1. [13 省人口自然负增长](https://www.zhihu.com/search?q=13 省人口自然负增长)
@@ -26,6 +23,11 @@
 1. [女子请假 3 天被开除](https://www.zhihu.com/search?q=女子请假 3 天被开除)
 1. [地球可自我调节温度](https://www.zhihu.com/search?q=地球可自我调节温度)
 1. [C 罗宣布退役时间表](https://www.zhihu.com/search?q=C 罗宣布退役时间表)
+1. [世界杯](https://www.zhihu.com/search?q=世界杯)
+1. [名侦探柯南剧场版上映](https://www.zhihu.com/search?q=名侦探柯南剧场版上映)
+1. [官方：大力推进方舱医院建设](https://www.zhihu.com/search?q=官方：大力推进方舱医院建设)
+1. [	官方：「落地检」与核酸全国互认不相悖](https://www.zhihu.com/search?q=	官方：「落地检」与核酸全国互认不相悖)
+1. [20 条措施颁布后投诉量明显下降](https://www.zhihu.com/search?q=20 条措施颁布后投诉量明显下降)
 
 <!-- END -->
 
