@@ -5,5 +5,7 @@
   { "query": "官方：只有密接人员才会集中隔离", "display_query": "官方：只有密接人员才会集中隔离" },
   { "query": "11 月游戏版号公布", "display_query": "11 月游戏版号公布" },
   { "query": "13 省人口自然负增长", "display_query": "13 省人口自然负增长" },
-  { "query": "MH17 航班由乌东部发射的俄制导弹击落", "display_query": "MH17 航班由乌东部发射的俄制导弹击落" }
+  { "query": "MH17 航班由乌东部发射的俄制导弹击落", "display_query": "MH17 航班由乌东部发射的俄制导弹击落" },
+  { "query": "女子请假 3 天被开除", "display_query": "女子请假 3 天被开除" },
+  { "query": "地球可自我调节温度", "display_query": "地球可自我调节温度" }
 ]
