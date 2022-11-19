@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Nov 19 2022 15:07:25 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Nov 19 2022 16:10:38 GMT+0800 (China Standard Time) -->
 
 1. [张文宏「新冠病毒逐渐进入稳定期」](https://www.zhihu.com/search?q=张文宏「新冠病毒逐渐进入稳定期」)
 1. [国产新冠口服药阿兹夫定片](https://www.zhihu.com/search?q=国产新冠口服药阿兹夫定片)
