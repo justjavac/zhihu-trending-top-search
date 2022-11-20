@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Nov 20 2022 14:10:17 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Nov 20 2022 15:07:31 GMT+0800 (China Standard Time) -->
 
 1. [津秦高铁油气管线起火](https://www.zhihu.com/search?q=津秦高铁油气管线起火)
 1. [王艺迪夺乒乓球亚洲杯女单冠军](https://www.zhihu.com/search?q=王艺迪夺乒乓球亚洲杯女单冠军)
