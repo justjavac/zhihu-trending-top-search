@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Nov 20 2022 12:13:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Nov 20 2022 13:07:33 GMT+0800 (China Standard Time) -->
 
 1. [世界厕所日](https://www.zhihu.com/search?q=世界厕所日)
 1. [津秦高铁油气管线起火](https://www.zhihu.com/search?q=津秦高铁油气管线起火)
