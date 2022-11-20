@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Nov 20 2022 17:07:58 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Nov 20 2022 18:08:42 GMT+0800 (China Standard Time) -->
 
 1. [津秦高铁油气管线起火](https://www.zhihu.com/search?q=津秦高铁油气管线起火)
 1. [王艺迪夺乒乓球亚洲杯女单冠军](https://www.zhihu.com/search?q=王艺迪夺乒乓球亚洲杯女单冠军)
@@ -24,6 +24,7 @@
 1. [男子出车祸 600 私了 6 天后大出血死亡](https://www.zhihu.com/search?q=男子出车祸 600 私了 6
    天后大出血死亡)
 1. [多人未做核酸却出结果？山西回应](https://www.zhihu.com/search?q=多人未做核酸却出结果？山西回应)
+1. [郑州通报「4个月大女婴夭折」调查情况](https://www.zhihu.com/search?q=郑州通报「4个月大女婴夭折」调查情况)
 1. [世界厕所日](https://www.zhihu.com/search?q=世界厕所日)
 1. [国产新冠口服药阿兹夫定片](https://www.zhihu.com/search?q=国产新冠口服药阿兹夫定片)
 1. [张文宏「新冠病毒变异逐渐进入稳定期」](https://www.zhihu.com/search?q=张文宏「新冠病毒变异逐渐进入稳定期」)
