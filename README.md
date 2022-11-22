@@ -14,8 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Nov 22 2022 10:43:38 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Nov 22 2022 11:34:00 GMT+0800 (China Standard Time) -->
 
+1. [死神千年血战篇更新](https://www.zhihu.com/search?q=死神千年血战篇更新)
 1. [荷兰队 2:0 击败塞内加尔队](https://www.zhihu.com/search?q=荷兰队 2:0 击败塞内加尔队)
 1. [贝尔救主威尔士队战平美国队](https://www.zhihu.com/search?q=贝尔救主威尔士队战平美国队)
 1. [A 股上市公司数量正式突破 5000 家](https://www.zhihu.com/search?q=A 股上市公司数量正式突破 5000 家)
