@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Nov 23 2022 00:11:37 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Nov 23 2022 01:10:23 GMT+0800 (China Standard Time) -->
 
 1. [死神千年血战篇更新](https://www.zhihu.com/search?q=死神千年血战篇更新)
 1. [贝尔救主威尔士队战平美国队](https://www.zhihu.com/search?q=贝尔救主威尔士队战平美国队)
