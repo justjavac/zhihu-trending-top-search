@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Nov 23 2022 11:27:23 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Nov 23 2022 12:09:53 GMT+0800 (China Standard Time) -->
 
 1. [电锯人动画更新](https://www.zhihu.com/search?q=电锯人动画更新)
 1. [阿根廷爆冷不敌沙特](https://www.zhihu.com/search?q=阿根廷爆冷不敌沙特)
