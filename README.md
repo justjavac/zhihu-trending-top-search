@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Nov 23 2022 14:10:28 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Nov 23 2022 15:07:34 GMT+0800 (China Standard Time) -->
 
 1. [电锯人动画更新](https://www.zhihu.com/search?q=电锯人动画更新)
 1. [阿根廷爆冷不敌沙特](https://www.zhihu.com/search?q=阿根廷爆冷不敌沙特)
@@ -24,6 +24,8 @@
 1. [曼联官宣 C 罗离队](https://www.zhihu.com/search?q=曼联官宣 C 罗离队)
 1. [阿凡达 2 国内上映](https://www.zhihu.com/search?q=阿凡达 2 国内上映)
 1. [媒体评农民毁菜称「勿让加码伤农」](https://www.zhihu.com/search?q=媒体评农民毁菜称「勿让加码伤农」)
+1. [英国首次向乌克兰派遣直升机](https://www.zhihu.com/search?q=英国首次向乌克兰派遣直升机)
+1. [15 个工作组赴各地督促落实二十条措施](https://www.zhihu.com/search?q=15 个工作组赴各地督促落实二十条措施)
 1. [死神千年血战篇更新](https://www.zhihu.com/search?q=死神千年血战篇更新)
 1. [Meta 辟谣扎克伯格将于明年辞职](https://www.zhihu.com/search?q=Meta 辟谣扎克伯格将于明年辞职)
 1. [A 股上市公司数量正式突破 5000 家](https://www.zhihu.com/search?q=A 股上市公司数量正式突破 5000 家)
