@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Nov 24 2022 22:07:23 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Nov 24 2022 23:08:01 GMT+0800 (China Standard Time) -->
 
 1. [风味人间 4 碳水狂欢](https://www.zhihu.com/search?q=风味人间 4 碳水狂欢)
 1. [日本爆冷 2:1 击败德国](https://www.zhihu.com/search?q=日本爆冷 2:1 击败德国)
@@ -22,6 +22,7 @@
 1. [比利时 1:0 小胜加拿大](https://www.zhihu.com/search?q=比利时 1:0 小胜加拿大)
 1. [上海立法禁止群租](https://www.zhihu.com/search?q=上海立法禁止群租)
 1. [长三角预制菜团体标准发布](https://www.zhihu.com/search?q=长三角预制菜团体标准发布)
+1. [乌拉圭 0:0 战平韩国](https://www.zhihu.com/search?q=乌拉圭 0:0 战平韩国)
 1. [「小馄饨皮」王子感谢网友的表情包](https://www.zhihu.com/search?q=「小馄饨皮」王子感谢网友的表情包)
 1. [乌拉圭 vs 韩国](https://www.zhihu.com/search?q=乌拉圭 vs 韩国)
 1. [连花清瘟断货后涨价](https://www.zhihu.com/search?q=连花清瘟断货后涨价)
