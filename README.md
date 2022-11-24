@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Nov 24 2022 08:45:19 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Nov 24 2022 10:23:16 GMT+0800 (China Standard Time) -->
 
 1. [电锯人动画更新](https://www.zhihu.com/search?q=电锯人动画更新)
 1. [阿凡达 2 国内上映](https://www.zhihu.com/search?q=阿凡达 2 国内上映)
