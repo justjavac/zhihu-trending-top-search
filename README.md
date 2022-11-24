@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Nov 24 2022 11:19:01 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Nov 24 2022 12:09:46 GMT+0800 (China Standard Time) -->
 
 1. [英国首次向乌克兰派遣直升机](https://www.zhihu.com/search?q=英国首次向乌克兰派遣直升机)
 1. [15 个工作组赴各地督促落实二十条措施](https://www.zhihu.com/search?q=15 个工作组赴各地督促落实二十条措施)
