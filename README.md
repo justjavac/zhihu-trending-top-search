@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Nov 24 2022 20:16:21 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Nov 24 2022 21:20:50 GMT+0800 (China Standard Time) -->
 
 1. [风味人间 4 碳水狂欢](https://www.zhihu.com/search?q=风味人间 4 碳水狂欢)
 1. [日本爆冷 2:1 击败德国](https://www.zhihu.com/search?q=日本爆冷 2:1 击败德国)
