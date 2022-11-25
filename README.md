@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Nov 25 2022 17:08:06 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Nov 25 2022 18:08:38 GMT+0800 (China Standard Time) -->
 
 1. [乌拉圭 0:0 战平韩国](https://www.zhihu.com/search?q=乌拉圭 0:0 战平韩国)
 1. [「小馄饨皮」王子感谢网友的表情包](https://www.zhihu.com/search?q=「小馄饨皮」王子感谢网友的表情包)
