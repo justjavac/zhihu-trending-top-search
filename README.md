@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Nov 25 2022 11:29:40 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Nov 25 2022 12:09:58 GMT+0800 (China Standard Time) -->
 
 1. [风味人间 4 碳水狂欢](https://www.zhihu.com/search?q=风味人间 4 碳水狂欢)
 1. [上海立法禁止群租](https://www.zhihu.com/search?q=上海立法禁止群租)
@@ -24,6 +24,8 @@
 1. [C 罗破门葡萄牙 3:2 险胜加纳](https://www.zhihu.com/search?q=C 罗破门葡萄牙 3:2 险胜加纳)
 1. [湖南上线健康码「蓝码」](https://www.zhihu.com/search?q=湖南上线健康码「蓝码」)
 1. [未成年人剧本杀管理](https://www.zhihu.com/search?q=未成年人剧本杀管理)
+1. [湖北荆门支持在校生购房](https://www.zhihu.com/search?q=湖北荆门支持在校生购房)
+1. [贵州「杀妻灭子案」重审](https://www.zhihu.com/search?q=贵州「杀妻灭子案」重审)
 1. [西班牙队 7 球狂胜哥斯达黎加](https://www.zhihu.com/search?q=西班牙队 7 球狂胜哥斯达黎加)
 1. [比利时 1:0 小胜加拿大](https://www.zhihu.com/search?q=比利时 1:0 小胜加拿大)
 
