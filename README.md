@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Nov 27 2022 01:06:27 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Nov 27 2022 02:08:56 GMT+0800 (China Standard Time) -->
 
 1. [英格兰 0:0 闷平美国](https://www.zhihu.com/search?q=英格兰 0:0 闷平美国)
 1. [国足原主教练李铁被查](https://www.zhihu.com/search?q=国足原主教练李铁被查)
