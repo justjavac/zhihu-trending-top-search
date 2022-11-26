@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Nov 26 2022 18:07:32 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Nov 26 2022 19:06:03 GMT+0800 (China Standard Time) -->
 
 1. [汤唯青龙奖影后](https://www.zhihu.com/search?q=汤唯青龙奖影后)
 1. [卡塔尔两连败小组提前出局](https://www.zhihu.com/search?q=卡塔尔两连败小组提前出局)
@@ -24,6 +24,8 @@
 1. [厄瓜多尔允许学生停课看比赛](https://www.zhihu.com/search?q=厄瓜多尔允许学生停课看比赛)
 1. [美国 FCC 禁止华为等中企在美销售设备](https://www.zhihu.com/search?q=美国 FCC 禁止华为等中企在美销售设备)
 1. [突尼斯 vs 澳大利亚](https://www.zhihu.com/search?q=突尼斯 vs 澳大利亚)
+1. [全国首列齿轨列车来了](https://www.zhihu.com/search?q=全国首列齿轨列车来了)
+1. [冷冻 48500 年古老病毒被复活](https://www.zhihu.com/search?q=冷冻 48500 年古老病毒被复活)
 1. [补时连进两球伊朗 2:0 击败威尔士](https://www.zhihu.com/search?q=补时连进两球伊朗 2:0 击败威尔士)
 1. [广州通报称没有「静默」的安排](https://www.zhihu.com/search?q=广州通报称没有「静默」的安排)
 1. [央行决定全面降准 0.25 个百分点](https://www.zhihu.com/search?q=央行决定全面降准 0.25 个百分点)
