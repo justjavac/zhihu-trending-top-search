@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Nov 27 2022 05:06:42 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Nov 27 2022 06:07:07 GMT+0800 (China Standard Time) -->
 
 1. [国足原主教练李铁被查](https://www.zhihu.com/search?q=国足原主教练李铁被查)
 1. [厄瓜多尔允许学生停课看比赛](https://www.zhihu.com/search?q=厄瓜多尔允许学生停课看比赛)
