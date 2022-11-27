@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Nov 27 2022 10:29:33 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Nov 27 2022 11:33:48 GMT+0800 (China Standard Time) -->
 
 1. [美国 FCC 禁止华为等中企在美销售设备](https://www.zhihu.com/search?q=美国 FCC 禁止华为等中企在美销售设备)
 1. [澳大利亚 1:0 战胜突尼斯](https://www.zhihu.com/search?q=澳大利亚 1:0 战胜突尼斯)
