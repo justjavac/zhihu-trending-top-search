@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Nov 28 2022 14:10:58 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Nov 28 2022 15:07:51 GMT+0800 (China Standard Time) -->
 
 1. [高达水星的魔女更新](https://www.zhihu.com/search?q=高达水星的魔女更新)
 1. [李铁被曝仅一家银行的存款就超 1 亿](https://www.zhihu.com/search?q=李铁被曝仅一家银行的存款就超 1 亿)
