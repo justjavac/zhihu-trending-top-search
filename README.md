@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Nov 29 2022 04:08:25 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Nov 29 2022 05:07:21 GMT+0800 (China Standard Time) -->
 
 1. [高达水星的魔女更新](https://www.zhihu.com/search?q=高达水星的魔女更新)
 1. [百面千相实机演示](https://www.zhihu.com/search?q=百面千相实机演示)
@@ -24,6 +24,7 @@
 1. [韩国 2:3 惜败加纳](https://www.zhihu.com/search?q=韩国 2:3 惜败加纳)
 1. [证监会：恢复上市房企再融资](https://www.zhihu.com/search?q=证监会：恢复上市房企再融资)
 1. [核子华曦实验室多次违规](https://www.zhihu.com/search?q=核子华曦实验室多次违规)
+1. [葡萄牙 2:0 乌拉圭提前出线](https://www.zhihu.com/search?q=葡萄牙 2:0 乌拉圭提前出线)
 
 <!-- END -->
 
