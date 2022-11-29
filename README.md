@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Nov 30 2022 00:10:41 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Nov 30 2022 01:07:16 GMT+0800 (China Standard Time) -->
 
 1. [神舟十五号载人飞船发射成功](https://www.zhihu.com/search?q=神舟十五号载人飞船发射成功)
 1. [死神千年血战篇更新](https://www.zhihu.com/search?q=死神千年血战篇更新)
@@ -22,6 +22,8 @@
 1. [媒体称各平台剧集热度缺乏公信力](https://www.zhihu.com/search?q=媒体称各平台剧集热度缺乏公信力)
 1. [魔兽世界负责人留言中国玩家](https://www.zhihu.com/search?q=魔兽世界负责人留言中国玩家)
 1. [劳荣枝哥哥称改判可能性极大](https://www.zhihu.com/search?q=劳荣枝哥哥称改判可能性极大)
+1. [塞内加尔力压厄瓜多尔出线](https://www.zhihu.com/search?q=塞内加尔力压厄瓜多尔出线)
+1. [荷兰队小组第一出线](https://www.zhihu.com/search?q=荷兰队小组第一出线)
 
 <!-- END -->
 
