@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Nov 30 2022 04:08:17 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Nov 30 2022 05:07:55 GMT+0800 (China Standard Time) -->
 
 1. [神舟十五号载人飞船发射成功](https://www.zhihu.com/search?q=神舟十五号载人飞船发射成功)
 1. [死神千年血战篇更新](https://www.zhihu.com/search?q=死神千年血战篇更新)
@@ -23,6 +23,8 @@
 1. [劳荣枝哥哥称改判可能性极大](https://www.zhihu.com/search?q=劳荣枝哥哥称改判可能性极大)
 1. [塞内加尔力压厄瓜多尔出线](https://www.zhihu.com/search?q=塞内加尔力压厄瓜多尔出线)
 1. [荷兰队小组第一出线](https://www.zhihu.com/search?q=荷兰队小组第一出线)
+1. [英格兰 3:0 轻取威尔士](https://www.zhihu.com/search?q=英格兰 3:0 轻取威尔士)
+1. [美国 1:0 小胜伊朗惊险晋级](https://www.zhihu.com/search?q=美国 1:0 小胜伊朗惊险晋级)
 1. [葡萄牙 2:0 乌拉圭提前出线](https://www.zhihu.com/search?q=葡萄牙 2:0 乌拉圭提前出线)
 
 <!-- END -->
