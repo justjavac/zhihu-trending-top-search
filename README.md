@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Dec 01 2022 05:07:16 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Dec 01 2022 06:07:43 GMT+0800 (China Standard Time) -->
 
 1. [offer 建筑师季开播](https://www.zhihu.com/search?q=offer 建筑师季开播)
 1. [16 强荷兰对阵美国、英格兰战塞内加尔](https://www.zhihu.com/search?q=16 强荷兰对阵美国、英格兰战塞内加尔)
@@ -25,6 +25,7 @@
 1. [8000 元羽绒服直播间仅卖 800 元](https://www.zhihu.com/search?q=8000 元羽绒服直播间仅卖 800 元)
 1. [法国 0:1 不敌突尼斯](https://www.zhihu.com/search?q=法国 0:1 不敌突尼斯)
 1. [澳大利亚 1:0 丹麦小组出线](https://www.zhihu.com/search?q=澳大利亚 1:0 丹麦小组出线)
+1. [阿根廷击败波兰两队携手出线](https://www.zhihu.com/search?q=阿根廷击败波兰两队携手出线)
 1. [英格兰 3:0 轻取威尔士](https://www.zhihu.com/search?q=英格兰 3:0 轻取威尔士)
 1. [美国 1:0 小胜伊朗惊险晋级](https://www.zhihu.com/search?q=美国 1:0 小胜伊朗惊险晋级)
 1. [阿根廷能出线吗](https://www.zhihu.com/search?q=阿根廷能出线吗)
