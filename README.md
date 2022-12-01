@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Dec 01 2022 23:08:29 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Dec 02 2022 00:10:53 GMT+0800 (China Standard Time) -->
 
 1. [阿根廷击败波兰两队携手出线](https://www.zhihu.com/search?q=阿根廷击败波兰两队携手出线)
 1. [墨西哥沙特双双出局](https://www.zhihu.com/search?q=墨西哥沙特双双出局)
@@ -23,18 +23,6 @@
 1. [克罗地亚 vs 比利时](https://www.zhihu.com/search?q=克罗地亚 vs 比利时)
 1. [日本 vs 西班牙](https://www.zhihu.com/search?q=日本 vs 西班牙)
 1. [哥斯达黎加 vs 德国](https://www.zhihu.com/search?q=哥斯达黎加 vs 德国)
-1. [法国 0:1 不敌突尼斯](https://www.zhihu.com/search?q=法国 0:1 不敌突尼斯)
-1. [澳大利亚 1:0 丹麦小组出线](https://www.zhihu.com/search?q=澳大利亚 1:0 丹麦小组出线)
-1. [8000 元羽绒服直播间仅卖 800 元](https://www.zhihu.com/search?q=8000 元羽绒服直播间仅卖 800 元)
-1. [offer 建筑师季开播](https://www.zhihu.com/search?q=offer 建筑师季开播)
-1. [无限暖暖公布实机PV](https://www.zhihu.com/search?q=无限暖暖公布实机PV)
-1. [快递新国标公开征求意见](https://www.zhihu.com/search?q=快递新国标公开征求意见)
-1. [全国快递网点大面积停摆消息不实](https://www.zhihu.com/search?q=全国快递网点大面积停摆消息不实)
-1. [16 强荷兰对阵美国、英格兰战塞内加尔](https://www.zhihu.com/search?q=16 强荷兰对阵美国、英格兰战塞内加尔)
-1. [中国 6 名航天员首次实现太空会师](https://www.zhihu.com/search?q=中国 6 名航天员首次实现太空会师)
-1. [英格兰 3:0 轻取威尔士](https://www.zhihu.com/search?q=英格兰 3:0 轻取威尔士)
-1. [美国 1:0 小胜伊朗惊险晋级](https://www.zhihu.com/search?q=美国 1:0 小胜伊朗惊险晋级)
-1. [阿根廷能出线吗](https://www.zhihu.com/search?q=阿根廷能出线吗)
 
 <!-- END -->
 
