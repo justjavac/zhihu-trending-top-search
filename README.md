@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Dec 01 2022 16:11:06 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Dec 01 2022 17:08:36 GMT+0800 (China Standard Time) -->
 
 1. [offer 建筑师季开播](https://www.zhihu.com/search?q=offer 建筑师季开播)
 1. [8000 元羽绒服直播间仅卖 800 元](https://www.zhihu.com/search?q=8000 元羽绒服直播间仅卖 800 元)
