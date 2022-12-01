@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Dec 01 2022 18:09:14 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Dec 01 2022 19:06:59 GMT+0800 (China Standard Time) -->
 
 1. [offer 建筑师季开播](https://www.zhihu.com/search?q=offer 建筑师季开播)
 1. [8000 元羽绒服直播间仅卖 800 元](https://www.zhihu.com/search?q=8000 元羽绒服直播间仅卖 800 元)
@@ -23,6 +23,7 @@
 1. [阿根廷击败波兰两队携手出线](https://www.zhihu.com/search?q=阿根廷击败波兰两队携手出线)
 1. [墨西哥沙特双双出局](https://www.zhihu.com/search?q=墨西哥沙特双双出局)
 1. [明年开展第五次全国经济普查](https://www.zhihu.com/search?q=明年开展第五次全国经济普查)
+1. [美专家称美元走强给全球经济体造成压力](https://www.zhihu.com/search?q=美专家称美元走强给全球经济体造成压力)
 1. [无限暖暖公布实机PV](https://www.zhihu.com/search?q=无限暖暖公布实机PV)
 1. [快递新国标公开征求意见](https://www.zhihu.com/search?q=快递新国标公开征求意见)
 1. [全国快递网点大面积停摆消息不实](https://www.zhihu.com/search?q=全国快递网点大面积停摆消息不实)
