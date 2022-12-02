@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Dec 02 2022 07:08:00 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Dec 02 2022 08:38:46 GMT+0800 (China Standard Time) -->
 
 1. [明年开展第五次全国经济普查](https://www.zhihu.com/search?q=明年开展第五次全国经济普查)
 1. [美专家称美元走强给全球经济体造成压力](https://www.zhihu.com/search?q=美专家称美元走强给全球经济体造成压力)
