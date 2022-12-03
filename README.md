@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Dec 04 2022 05:06:23 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Dec 04 2022 06:06:40 GMT+0800 (China Standard Time) -->
 
 1. [中国航天员乘组完成首次在轨交接](https://www.zhihu.com/search?q=中国航天员乘组完成首次在轨交接)
 1. [徐州一工地发生火灾致 5 死 2 伤](https://www.zhihu.com/search?q=徐州一工地发生火灾致 5 死 2 伤)
