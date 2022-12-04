@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Dec 04 2022 12:08:58 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Dec 04 2022 13:06:55 GMT+0800 (China Standard Time) -->
 
 1. [多地「四类药品」不再登记上传顾客信息](https://www.zhihu.com/search?q=多地「四类药品」不再登记上传顾客信息)
 1. [5 位新冠康复者讲述感染经历](https://www.zhihu.com/search?q=5 位新冠康复者讲述感染经历)
