@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Dec 04 2022 17:06:56 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Dec 04 2022 18:07:40 GMT+0800 (China Standard Time) -->
 
 1. [珠海核酸检测将自费](https://www.zhihu.com/search?q=珠海核酸检测将自费)
 1. [姚洋、管清友、任泽平等六名学者联名发声](https://www.zhihu.com/search?q=姚洋、管清友、任泽平等六名学者联名发声)
