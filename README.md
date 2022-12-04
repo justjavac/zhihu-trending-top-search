@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Dec 04 2022 10:13:03 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Dec 04 2022 11:09:21 GMT+0800 (China Standard Time) -->
 
 1. [徐州一工地发生火灾致 5 死 2 伤](https://www.zhihu.com/search?q=徐州一工地发生火灾致 5 死 2 伤)
 1. [多地「四类药品」不再登记上传顾客信息](https://www.zhihu.com/search?q=多地「四类药品」不再登记上传顾客信息)
