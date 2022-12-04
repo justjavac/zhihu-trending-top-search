@@ -14,9 +14,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Dec 04 2022 11:09:21 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Dec 04 2022 12:08:58 GMT+0800 (China Standard Time) -->
 
-1. [徐州一工地发生火灾致 5 死 2 伤](https://www.zhihu.com/search?q=徐州一工地发生火灾致 5 死 2 伤)
 1. [多地「四类药品」不再登记上传顾客信息](https://www.zhihu.com/search?q=多地「四类药品」不再登记上传顾客信息)
 1. [5 位新冠康复者讲述感染经历](https://www.zhihu.com/search?q=5 位新冠康复者讲述感染经历)
 1. [珠海核酸检测将自费](https://www.zhihu.com/search?q=珠海核酸检测将自费)
@@ -26,6 +25,8 @@
 1. [内蒙古通报核酸同时出现「阴阳」结果](https://www.zhihu.com/search?q=内蒙古通报核酸同时出现「阴阳」结果)
 1. [球王贝利放弃化疗转入临终病房](https://www.zhihu.com/search?q=球王贝利放弃化疗转入临终病房)
 1. [荷兰淘汰美国晋级 8 强](https://www.zhihu.com/search?q=荷兰淘汰美国晋级 8 强)
+1. [梅西千场破门阿根廷晋级](https://www.zhihu.com/search?q=梅西千场破门阿根廷晋级)
+1. [徐州一工地发生火灾致 5 死 2 伤](https://www.zhihu.com/search?q=徐州一工地发生火灾致 5 死 2 伤)
 1. [中国航天员乘组完成首次在轨交接](https://www.zhihu.com/search?q=中国航天员乘组完成首次在轨交接)
 
 <!-- END -->
