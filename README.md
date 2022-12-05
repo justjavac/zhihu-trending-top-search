@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Dec 05 2022 10:11:16 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Dec 05 2022 11:08:36 GMT+0800 (China Standard Time) -->
 
 1. [《柳叶刀》对曹彬张定宇论文发声明](https://www.zhihu.com/search?q=《柳叶刀》对曹彬张定宇论文发声明)
 1. [三位币圈大佬先后意外去世](https://www.zhihu.com/search?q=三位币圈大佬先后意外去世)
