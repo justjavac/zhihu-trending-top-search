@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Dec 05 2022 23:08:14 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Dec 06 2022 00:10:01 GMT+0800 (China Standard Time) -->
 
 1. [美侦察船在南海活动频繁](https://www.zhihu.com/search?q=美侦察船在南海活动频繁)
 1. [专家称盲目囤药不科学没必要](https://www.zhihu.com/search?q=专家称盲目囤药不科学没必要)
@@ -24,14 +24,6 @@
 1. [原神新角色 PV](https://www.zhihu.com/search?q=原神新角色 PV)
 1. [巴西 vs 韩国](https://www.zhihu.com/search?q=巴西 vs 韩国)
 1. [日本 vs 克罗地亚](https://www.zhihu.com/search?q=日本 vs 克罗地亚)
-1. [英格兰 3:0 淘汰塞内加尔](https://www.zhihu.com/search?q=英格兰 3:0 淘汰塞内加尔)
-1. [专家：新冠回归乙类管理条件渐趋成熟](https://www.zhihu.com/search?q=专家：新冠回归乙类管理条件渐趋成熟)
-1. [三位币圈大佬先后意外去世](https://www.zhihu.com/search?q=三位币圈大佬先后意外去世)
-1. [广州多家银行可暂缓还房贷](https://www.zhihu.com/search?q=广州多家银行可暂缓还房贷)
-1. [神十四返回舱搜救任务或为史上最难](https://www.zhihu.com/search?q=神十四返回舱搜救任务或为史上最难)
-1. [《柳叶刀》对曹彬张定宇论文发声明](https://www.zhihu.com/search?q=《柳叶刀》对曹彬张定宇论文发声明)
-1. [英格兰 vs 塞内加尔](https://www.zhihu.com/search?q=英格兰 vs 塞内加尔)
-1. [法国 vs 波兰](https://www.zhihu.com/search?q=法国 vs 波兰)
 
 <!-- END -->
 
