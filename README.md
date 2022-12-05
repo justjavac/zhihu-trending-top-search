@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Dec 05 2022 18:08:58 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Dec 05 2022 19:06:37 GMT+0800 (China Standard Time) -->
 
 1. [专家：新冠回归乙类管理条件渐趋成熟](https://www.zhihu.com/search?q=专家：新冠回归乙类管理条件渐趋成熟)
 1. [英格兰 3:0 淘汰塞内加尔](https://www.zhihu.com/search?q=英格兰 3:0 淘汰塞内加尔)
@@ -22,6 +22,7 @@
 1. [专家称盲目囤药不科学没必要](https://www.zhihu.com/search?q=专家称盲目囤药不科学没必要)
 1. [与阳性人员擦肩而过感染几率有多大](https://www.zhihu.com/search?q=与阳性人员擦肩而过感染几率有多大)
 1. [原神新角色 PV](https://www.zhihu.com/search?q=原神新角色 PV)
+1. [加满一箱油少花 17.5 元](https://www.zhihu.com/search?q=加满一箱油少花 17.5 元)
 1. [三位币圈大佬先后意外去世](https://www.zhihu.com/search?q=三位币圈大佬先后意外去世)
 1. [广州多家银行可暂缓还房贷](https://www.zhihu.com/search?q=广州多家银行可暂缓还房贷)
 1. [神十四返回舱搜救任务或为史上最难](https://www.zhihu.com/search?q=神十四返回舱搜救任务或为史上最难)
