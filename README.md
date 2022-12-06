@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Dec 07 2022 00:10:11 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Dec 07 2022 01:06:34 GMT+0800 (China Standard Time) -->
 
 1. [三亚对省外人员不再实施分类管理](https://www.zhihu.com/search?q=三亚对省外人员不再实施分类管理)
 1. [有药店连花清瘟单盒卖百元](https://www.zhihu.com/search?q=有药店连花清瘟单盒卖百元)
