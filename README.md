@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Dec 07 2022 02:09:40 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Dec 07 2022 03:06:20 GMT+0800 (China Standard Time) -->
 
 1. [三亚对省外人员不再实施分类管理](https://www.zhihu.com/search?q=三亚对省外人员不再实施分类管理)
 1. [有药店连花清瘟单盒卖百元](https://www.zhihu.com/search?q=有药店连花清瘟单盒卖百元)
@@ -24,6 +24,7 @@
 1. [专家建议新冠一般患者可在家观察治疗](https://www.zhihu.com/search?q=专家建议新冠一般患者可在家观察治疗)
 1. [专家解读新冠感染全过程](https://www.zhihu.com/search?q=专家解读新冠感染全过程)
 1. [官方回应居民自建房红砖一捏就碎](https://www.zhihu.com/search?q=官方回应居民自建房红砖一捏就碎)
+1. [西班牙点球大战遭摩洛哥淘汰](https://www.zhihu.com/search?q=西班牙点球大战遭摩洛哥淘汰)
 1. [摩洛哥点球大战淘汰西班牙](https://www.zhihu.com/search?q=摩洛哥点球大战淘汰西班牙)
 1. [西班牙 vs 摩洛哥](https://www.zhihu.com/search?q=西班牙 vs 摩洛哥)
 
