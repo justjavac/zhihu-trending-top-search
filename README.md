@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Dec 08 2022 03:05:51 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Dec 08 2022 04:08:13 GMT+0800 (China Standard Time) -->
 
 1. [大雪](https://www.zhihu.com/search?q=大雪)
 1. [官方：无症状和轻症可居家隔离](https://www.zhihu.com/search?q=官方：无症状和轻症可居家隔离)
