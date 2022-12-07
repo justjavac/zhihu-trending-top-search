@@ -14,9 +14,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Dec 07 2022 17:07:46 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Dec 07 2022 18:08:20 GMT+0800 (China Standard Time) -->
 
-1. [潘懋元逝世](https://www.zhihu.com/search?q=潘懋元逝世)
 1. [驻马店卫计监督刊文](https://www.zhihu.com/search?q=驻马店卫计监督刊文)
 1. [核子基因已开发上千种基因检测项目](https://www.zhihu.com/search?q=核子基因已开发上千种基因检测项目)
 1. [专家建议新冠一般患者可在家观察治疗](https://www.zhihu.com/search?q=专家建议新冠一般患者可在家观察治疗)
@@ -26,6 +25,8 @@
 1. [大雪](https://www.zhihu.com/search?q=大雪)
 1. [官方：无症状和轻症可居家隔离](https://www.zhihu.com/search?q=官方：无症状和轻症可居家隔离)
 1. [不再对跨地区流动人员查验核酸和健康码](https://www.zhihu.com/search?q=不再对跨地区流动人员查验核酸和健康码)
+1. [铁路 12306：购票乘车停止查验核酸](https://www.zhihu.com/search?q=铁路 12306：购票乘车停止查验核酸)
+1. [潘懋元逝世](https://www.zhihu.com/search?q=潘懋元逝世)
 1. [有药店连花清瘟单盒卖百元](https://www.zhihu.com/search?q=有药店连花清瘟单盒卖百元)
 1. [三亚对省外人员不再实施分类管理](https://www.zhihu.com/search?q=三亚对省外人员不再实施分类管理)
 1. [摩洛哥点球大战淘汰西班牙](https://www.zhihu.com/search?q=摩洛哥点球大战淘汰西班牙)
