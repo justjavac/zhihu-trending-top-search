@@ -14,9 +14,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Dec 07 2022 07:07:59 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Dec 07 2022 08:40:03 GMT+0800 (China Standard Time) -->
 
-1. [三亚对省外人员不再实施分类管理](https://www.zhihu.com/search?q=三亚对省外人员不再实施分类管理)
 1. [有药店连花清瘟单盒卖百元](https://www.zhihu.com/search?q=有药店连花清瘟单盒卖百元)
 1. [潘懋元逝世](https://www.zhihu.com/search?q=潘懋元逝世)
 1. [驻马店卫计监督刊文](https://www.zhihu.com/search?q=驻马店卫计监督刊文)
@@ -25,6 +24,8 @@
 1. [专家解读新冠感染全过程](https://www.zhihu.com/search?q=专家解读新冠感染全过程)
 1. [官方回应居民自建房红砖一捏就碎](https://www.zhihu.com/search?q=官方回应居民自建房红砖一捏就碎)
 1. [西班牙点球大战遭摩洛哥淘汰](https://www.zhihu.com/search?q=西班牙点球大战遭摩洛哥淘汰)
+1. [大雪](https://www.zhihu.com/search?q=大雪)
+1. [三亚对省外人员不再实施分类管理](https://www.zhihu.com/search?q=三亚对省外人员不再实施分类管理)
 1. [摩洛哥点球大战淘汰西班牙](https://www.zhihu.com/search?q=摩洛哥点球大战淘汰西班牙)
 1. [西班牙 vs 摩洛哥](https://www.zhihu.com/search?q=西班牙 vs 摩洛哥)
 
