@@ -14,8 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Dec 08 2022 07:07:45 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Dec 08 2022 08:37:49 GMT+0800 (China Standard Time) -->
 
+1. [死神千年血战篇更新](https://www.zhihu.com/search?q=死神千年血战篇更新)
 1. [大雪](https://www.zhihu.com/search?q=大雪)
 1. [官方：无症状和轻症可居家隔离](https://www.zhihu.com/search?q=官方：无症状和轻症可居家隔离)
 1. [不再对跨地区流动人员查验核酸和健康码](https://www.zhihu.com/search?q=不再对跨地区流动人员查验核酸和健康码)
