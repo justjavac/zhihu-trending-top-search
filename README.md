@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Dec 09 2022 05:07:27 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Dec 09 2022 06:07:23 GMT+0800 (China Standard Time) -->
 
 1. [死神千年血战篇更新](https://www.zhihu.com/search?q=死神千年血战篇更新)
 1. [多地核酸检测采购项目宣告终止](https://www.zhihu.com/search?q=多地核酸检测采购项目宣告终止)
