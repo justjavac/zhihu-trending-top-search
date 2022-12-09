@@ -14,11 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Dec 09 2022 17:07:46 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Dec 09 2022 18:08:05 GMT+0800 (China Standard Time) -->
 
 1. [死神千年血战篇更新](https://www.zhihu.com/search?q=死神千年血战篇更新)
-1. [抗原阳性需报备](https://www.zhihu.com/search?q=抗原阳性需报备)
-1. [专家：感染新冠这五种情况需就医](https://www.zhihu.com/search?q=专家：感染新冠这五种情况需就医)
 1. [多国与新冠的共存之路](https://www.zhihu.com/search?q=多国与新冠的共存之路)
 1. [杞县官方通报女孩举报失联事件](https://www.zhihu.com/search?q=杞县官方通报女孩举报失联事件)
 1. [2023 全年放假安排公布](https://www.zhihu.com/search?q=2023 全年放假安排公布)
@@ -27,6 +25,10 @@
    或重回「1时代」)
 1. [年度游戏艾尔登法环](https://www.zhihu.com/search?q=年度游戏艾尔登法环)
 1. [市场监管总局对哄抬连花清瘟药品价格核查处理](https://www.zhihu.com/search?q=市场监管总局对哄抬连花清瘟药品价格核查处理)
+1. [席琳·迪翁确诊「僵人综合征」](https://www.zhihu.com/search?q=席琳·迪翁确诊「僵人综合征」)
+1. [钟南山回应新冠后遗症](https://www.zhihu.com/search?q=钟南山回应新冠后遗症)
+1. [抗原阳性需报备](https://www.zhihu.com/search?q=抗原阳性需报备)
+1. [专家：感染新冠这五种情况需就医](https://www.zhihu.com/search?q=专家：感染新冠这五种情况需就医)
 1. [默克尔接受德媒采访谈俄乌危机](https://www.zhihu.com/search?q=默克尔接受德媒采访谈俄乌危机)
 1. [教育部称今年考研要实现「如期考试」](https://www.zhihu.com/search?q=教育部称今年考研要实现「如期考试」)
 1. [多地核酸检测采购项目宣告终止](https://www.zhihu.com/search?q=多地核酸检测采购项目宣告终止)
