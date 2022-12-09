@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Dec 09 2022 11:10:52 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Dec 09 2022 12:09:26 GMT+0800 (China Standard Time) -->
 
 1. [死神千年血战篇更新](https://www.zhihu.com/search?q=死神千年血战篇更新)
 1. [默克尔接受德媒采访谈俄乌危机](https://www.zhihu.com/search?q=默克尔接受德媒采访谈俄乌危机)
