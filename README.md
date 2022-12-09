@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Dec 10 2022 02:09:18 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Dec 10 2022 03:06:47 GMT+0800 (China Standard Time) -->
 
 1. [死神千年血战篇更新](https://www.zhihu.com/search?q=死神千年血战篇更新)
 1. [多家机构预计11 月 CPI 或重回「1时代」](https://www.zhihu.com/search?q=多家机构预计11 月 CPI
