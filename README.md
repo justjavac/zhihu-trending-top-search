@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Dec 10 2022 20:12:40 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Dec 10 2022 21:12:53 GMT+0800 (China Standard Time) -->
 
 1. [英语四六级考试](https://www.zhihu.com/search?q=英语四六级考试)
 1. [克罗地亚点球大战淘汰巴西](https://www.zhihu.com/search?q=克罗地亚点球大战淘汰巴西)
@@ -25,6 +25,7 @@
 1. [黎智英被判监禁 5 年 9 个月](https://www.zhihu.com/search?q=黎智英被判监禁 5 年 9 个月)
 1. [N95 口罩搜索热度增长 715%](https://www.zhihu.com/search?q=N95 口罩搜索热度增长 715%)
 1. [一人之下第五季开播](https://www.zhihu.com/search?q=一人之下第五季开播)
+1. [国产动画三体开播](https://www.zhihu.com/search?q=国产动画三体开播)
 1. [年轻人阳性了可以不吃药吗？](https://www.zhihu.com/search?q=年轻人阳性了可以不吃药吗？)
 1. [黄桃罐头能缓解新冠症状吗？](https://www.zhihu.com/search?q=黄桃罐头能缓解新冠症状吗？)
 1. [感染后不同风险人群用红黄绿标记](https://www.zhihu.com/search?q=感染后不同风险人群用红黄绿标记)
