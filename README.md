@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Dec 11 2022 03:05:35 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Dec 11 2022 04:07:20 GMT+0800 (China Standard Time) -->
 
 1. [英语四六级考试](https://www.zhihu.com/search?q=英语四六级考试)
 1. [阿根廷点球大战淘汰荷兰](https://www.zhihu.com/search?q=阿根廷点球大战淘汰荷兰)
