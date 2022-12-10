@@ -1,7 +1,6 @@
 [
   { "query": "克罗地亚点球大战淘汰巴西", "display_query": "克罗地亚点球大战淘汰巴西" },
   { "query": "阿根廷点球大战淘汰荷兰", "display_query": "阿根廷点球大战淘汰荷兰" },
-  { "query": "感染后不同风险人群用红黄绿标记", "display_query": "感染后不同风险人群用红黄绿标记" },
   { "query": "利瓦科维奇 2 场扑出 4 点球", "display_query": "利瓦科维奇 2 场扑出 4 点球" },
   { "query": "摩洛哥 vs 葡萄牙", "display_query": "摩洛哥 vs 葡萄牙" },
   { "query": "英格兰 vs 法国", "display_query": "英格兰 vs 法国" },
@@ -9,6 +8,8 @@
   { "query": "N95 口罩搜索热度增长 715%", "display_query": "N95 口罩搜索热度增长 715%" },
   { "query": "一人之下第五季开播", "display_query": "一人之下第五季开播" },
   { "query": "年轻人阳性了可以不吃药吗？", "display_query": "年轻人阳性了可以不吃药吗？" },
+  { "query": "黄桃罐头能缓解新冠症状吗？", "display_query": "黄桃罐头能缓解新冠症状吗？" },
+  { "query": "感染后不同风险人群用红黄绿标记", "display_query": "感染后不同风险人群用红黄绿标记" },
   { "query": "今后所有医疗机构都要接诊新冠阳性患者", "display_query": "今后所有医疗机构都要接诊新冠阳性患者" },
   { "query": "官方：把方舱医院改造成亚定点医院", "display_query": "官方：把方舱医院改造成亚定点医院" },
   { "query": "钟南山回应新冠后遗症", "display_query": "钟南山回应新冠后遗症" },
