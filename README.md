@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Dec 10 2022 13:06:46 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Dec 10 2022 14:09:34 GMT+0800 (China Standard Time) -->
 
 1. [钟南山回应新冠后遗症](https://www.zhihu.com/search?q=钟南山回应新冠后遗症)
 1. [克罗地亚点球大战淘汰巴西](https://www.zhihu.com/search?q=克罗地亚点球大战淘汰巴西)
