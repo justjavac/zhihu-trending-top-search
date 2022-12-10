@@ -14,8 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Dec 10 2022 18:07:30 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Dec 10 2022 19:06:18 GMT+0800 (China Standard Time) -->
 
+1. [英语四六级考试](https://www.zhihu.com/search?q=英语四六级考试)
 1. [克罗地亚点球大战淘汰巴西](https://www.zhihu.com/search?q=克罗地亚点球大战淘汰巴西)
 1. [阿根廷点球大战淘汰荷兰](https://www.zhihu.com/search?q=阿根廷点球大战淘汰荷兰)
 1. [利瓦科维奇 2 场扑出 4 点球](https://www.zhihu.com/search?q=利瓦科维奇 2 场扑出 4 点球)
