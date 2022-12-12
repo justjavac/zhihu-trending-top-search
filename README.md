@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Dec 13 2022 01:06:51 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Dec 13 2022 02:09:35 GMT+0800 (China Standard Time) -->
 
 1. [高达水星的魔女更新](https://www.zhihu.com/search?q=高达水星的魔女更新)
 1. [「通信行程卡」13 日正式下线](https://www.zhihu.com/search?q=「通信行程卡」13 日正式下线)
