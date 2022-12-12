@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Dec 12 2022 08:41:16 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Dec 12 2022 10:14:55 GMT+0800 (China Standard Time) -->
 
 1. [国产动画三体开播](https://www.zhihu.com/search?q=国产动画三体开播)
 1. [著名水稻专家杨振玉去世](https://www.zhihu.com/search?q=著名水稻专家杨振玉去世)
