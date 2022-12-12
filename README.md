@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Dec 12 2022 15:07:28 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Dec 12 2022 16:10:42 GMT+0800 (China Standard Time) -->
 
 1. [高达水星的魔女更新](https://www.zhihu.com/search?q=高达水星的魔女更新)
 1. [国产动画三体开播](https://www.zhihu.com/search?q=国产动画三体开播)
@@ -25,6 +25,7 @@
 1. [「通信行程卡」13 日正式下线](https://www.zhihu.com/search?q=「通信行程卡」13 日正式下线)
 1. [专家称新冠肺炎最终会降为丙类丙管](https://www.zhihu.com/search?q=专家称新冠肺炎最终会降为丙类丙管)
 1. [张文宏建议老人这一个月不跳广场舞](https://www.zhihu.com/search?q=张文宏建议老人这一个月不跳广场舞)
+1. [上班阳了算工伤吗](https://www.zhihu.com/search?q=上班阳了算工伤吗)
 1. [著名水稻专家杨振玉去世](https://www.zhihu.com/search?q=著名水稻专家杨振玉去世)
 1. [钟南山：今年倡导就地过年的可能性很小](https://www.zhihu.com/search?q=钟南山：今年倡导就地过年的可能性很小)
 1. [法国淘汰英格兰晋级 4 强](https://www.zhihu.com/search?q=法国淘汰英格兰晋级 4 强)
