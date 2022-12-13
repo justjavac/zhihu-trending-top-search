@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Dec 13 2022 14:10:15 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Dec 13 2022 15:07:14 GMT+0800 (China Standard Time) -->
 
 1. [上班阳了算工伤吗](https://www.zhihu.com/search?q=上班阳了算工伤吗)
 1. [连花清瘟有上百种替代药](https://www.zhihu.com/search?q=连花清瘟有上百种替代药)
