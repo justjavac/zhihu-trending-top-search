@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Dec 13 2022 08:42:32 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Dec 13 2022 10:19:27 GMT+0800 (China Standard Time) -->
 
 1. [高达水星的魔女更新](https://www.zhihu.com/search?q=高达水星的魔女更新)
 1. [专家称新冠肺炎最终会降为丙类丙管](https://www.zhihu.com/search?q=专家称新冠肺炎最终会降为丙类丙管)
