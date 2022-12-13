@@ -14,12 +14,12 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Dec 13 2022 15:07:14 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Dec 13 2022 16:10:47 GMT+0800 (China Standard Time) -->
 
-1. [上班阳了算工伤吗](https://www.zhihu.com/search?q=上班阳了算工伤吗)
 1. [连花清瘟有上百种替代药](https://www.zhihu.com/search?q=连花清瘟有上百种替代药)
 1. [阿根廷 vs 克罗地亚](https://www.zhihu.com/search?q=阿根廷 vs 克罗地亚)
 1. [媒体： 财经大 V 侯宁离世](https://www.zhihu.com/search?q=媒体： 财经大 V 侯宁离世)
+1. [上班阳了算工伤吗](https://www.zhihu.com/search?q=上班阳了算工伤吗)
 1. [高达水星的魔女更新](https://www.zhihu.com/search?q=高达水星的魔女更新)
 1. [专家称新冠肺炎最终会降为丙类丙管](https://www.zhihu.com/search?q=专家称新冠肺炎最终会降为丙类丙管)
 1. [张文宏建议老人这一个月不跳广场舞](https://www.zhihu.com/search?q=张文宏建议老人这一个月不跳广场舞)
