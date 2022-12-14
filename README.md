@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Dec 14 2022 23:07:51 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Dec 15 2022 00:10:01 GMT+0800 (China Standard Time) -->
 
 1. [官方：开展第二剂次加强免疫接种](https://www.zhihu.com/search?q=官方：开展第二剂次加强免疫接种)
 1. [流浪地球 2 预告](https://www.zhihu.com/search?q=流浪地球 2 预告)
@@ -24,12 +24,6 @@
 1. [宫崎骏新作公开](https://www.zhihu.com/search?q=宫崎骏新作公开)
 1. [移动智能终端中预置软件需可卸载](https://www.zhihu.com/search?q=移动智能终端中预置软件需可卸载)
 1. [风吹半夏大结局](https://www.zhihu.com/search?q=风吹半夏大结局)
-1. [谷歌拒将正确中国国歌置顶](https://www.zhihu.com/search?q=谷歌拒将正确中国国歌置顶)
-1. [网传伊朗球员因支持女性将面临处决](https://www.zhihu.com/search?q=网传伊朗球员因支持女性将面临处决)
-1. [媒体越洋对话美国新冠「超级免疫者」](https://www.zhihu.com/search?q=媒体越洋对话美国新冠「超级免疫者」)
-1. [多家抗原试剂生产企业发文抵制药店涨价](https://www.zhihu.com/search?q=多家抗原试剂生产企业发文抵制药店涨价)
-1. [媒体： 财经大 V 侯宁离世](https://www.zhihu.com/search?q=媒体： 财经大 V 侯宁离世)
-1. [阿根廷 vs 克罗地亚](https://www.zhihu.com/search?q=阿根廷 vs 克罗地亚)
 
 <!-- END -->
 
