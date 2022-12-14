@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Dec 14 2022 13:07:25 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Dec 14 2022 14:10:24 GMT+0800 (China Standard Time) -->
 
 1. [网传伊朗球员因支持女性将面临处决](https://www.zhihu.com/search?q=网传伊朗球员因支持女性将面临处决)
 1. [媒体越洋对话美国新冠「超级免疫者」](https://www.zhihu.com/search?q=媒体越洋对话美国新冠「超级免疫者」)
