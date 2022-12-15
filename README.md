@@ -15,10 +15,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Dec 15 2022 18:08:32 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Dec 15 2022 19:06:24 GMT+0800 (China Standard Time) -->
 
-1. [宫崎骏新作公开](https://www.zhihu.com/search?q=宫崎骏新作公开)
-1. [移动智能终端中预置软件需可卸载](https://www.zhihu.com/search?q=移动智能终端中预置软件需可卸载)
 1. [风吹半夏大结局](https://www.zhihu.com/search?q=风吹半夏大结局)
 1. [11 月商品住宅销售价格环比总体延续降势](https://www.zhihu.com/search?q=11
    月商品住宅销售价格环比总体延续降势)
@@ -29,6 +27,9 @@
 1. [至今还未感染的你是怎么做到的](https://www.zhihu.com/search?q=至今还未感染的你是怎么做到的)
 1. [贵州火灾致 4人遇难19 栋房屋被烧毁](https://www.zhihu.com/search?q=贵州火灾致
    4人遇难19 栋房屋被烧毁)
+1. [钟南山：不主张「大家一起阳」](https://www.zhihu.com/search?q=钟南山：不主张「大家一起阳」)
+1. [宫崎骏新作公开](https://www.zhihu.com/search?q=宫崎骏新作公开)
+1. [移动智能终端中预置软件需可卸载](https://www.zhihu.com/search?q=移动智能终端中预置软件需可卸载)
 1. [考研可设置核酸阳性考场](https://www.zhihu.com/search?q=考研可设置核酸阳性考场)
 1. [太原一楼体外大屏现上门按摩广告](https://www.zhihu.com/search?q=太原一楼体外大屏现上门按摩广告)
 1. [流浪地球 2 预告](https://www.zhihu.com/search?q=流浪地球 2 预告)
