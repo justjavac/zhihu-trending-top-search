@@ -17,13 +17,19 @@
   { "query": "韩国购买开端版权", "display_query": "韩国购买《开端》版权" },
   { "query": "最心酸流调", "display_query": "一病例流调辗转 28 地打零工" },
   { "query": "富士山", "display_query": "富士山岩浆正在活动" },
-  { "query": "西安交大学生驾车离校", "display_query": "西安一学生私自驾车离校" },
+  {
+    "query": "西安交大学生驾车离校",
+    "display_query": "西安一学生私自驾车离校"
+  },
   { "query": "代号破晓", "display_query": "代号破晓疑抄任天堂大乱斗" },
   { "query": "汤加", "display_query": "汤加一岛屿房屋均被摧毁" },
   { "query": "湖人", "display_query": "詹姆斯 25 分湖人胜爵士" },
   { "query": "朝阳疫情", "display_query": "北京朝阳新增 1 例阳性" },
   { "query": "臭氧污染", "display_query": "臭氧污染已威胁粮食安全" },
-  { "query": "阿里文娱转让优酷股份", "display_query": "阿里文娱转让优酷信息技术股份" },
+  {
+    "query": "阿里文娱转让优酷股份",
+    "display_query": "阿里文娱转让优酷信息技术股份"
+  },
   { "query": "聊城大学教授夫妇", "display_query": "聊城大学教授夫妇汤加失联" },
   { "query": "研究生帮抢九价", "display_query": "研究生编代码帮抢九价" },
   { "query": "我们的天才儿子", "display_query": "「我们的天才儿子」" },

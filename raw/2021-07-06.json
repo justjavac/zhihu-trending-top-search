@@ -6,9 +6,18 @@
   { "query": "云南疫情", "display_query": "云南新增 3 例本土确诊" },
   { "query": "青岛 浒苔", "display_query": "青岛遭最大规模浒苔侵袭" },
   { "query": "情感挽回", "display_query": "上海警方抓 69 名情感挽回大师" },
-  { "query": "大数据杀熟", "display_query": "深圳禁止 APP「不全面授权就不让用」" },
-  { "query": "中国邮政储蓄银行", "display_query": "中国邮政储蓄银行被罚 449 万" },
-  { "query": "强制学生购买平板电脑", "display_query": "四川严禁强制学生购买平板电脑" },
+  {
+    "query": "大数据杀熟",
+    "display_query": "深圳禁止 APP「不全面授权就不让用」"
+  },
+  {
+    "query": "中国邮政储蓄银行",
+    "display_query": "中国邮政储蓄银行被罚 449 万"
+  },
+  {
+    "query": "强制学生购买平板电脑",
+    "display_query": "四川严禁强制学生购买平板电脑"
+  },
   { "query": "网恋被骗", "display_query": "女子网恋被骗八百多万" },
   { "query": "滴滴下架", "display_query": "滴滴出行 APP 下架" },
   { "query": "小米收购紫米", "display_query": "小米将以 2.05 亿美元收购紫米 " },

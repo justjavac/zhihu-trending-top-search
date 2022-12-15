@@ -6,7 +6,10 @@
   { "query": "ios15", "display_query": "苹果 iOS 15正式版发布" },
   { "query": "中秋晚会", "display_query": "中秋晚会" },
   { "query": "福建疫情", "display_query": "福建疫情" },
-  { "query": "法国召回驻美国和驻澳大利亚大使", "display_query": "法国召回驻美驻澳大使" },
+  {
+    "query": "法国召回驻美国和驻澳大利亚大使",
+    "display_query": "法国召回驻美驻澳大使"
+  },
   { "query": "苏炳添", "display_query": "苏炳添夺全运会百米冠军" },
   { "query": "北京环球影城", "display_query": "北京环球影城正式开园" },
   { "query": "港股暴跌", "display_query": "港股全线大跌" },

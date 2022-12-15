@@ -17,7 +17,10 @@
   { "query": "杭州杀妻碎尸案", "display_query": "杭州杀妻碎尸案二审" },
   { "query": "河北新增", "display_query": "河北新增 2 例本土确诊病例" },
   { "query": "北京买药需做核检", "display_query": "北京要求购药品做核检" },
-  { "query": "冬奥人员复检阳性", "display_query": "冬奥人员海关复检阳性 39 人" },
+  {
+    "query": "冬奥人员复检阳性",
+    "display_query": "冬奥人员海关复检阳性 39 人"
+  },
   { "query": "山东新增", "display_query": "山东新增 2 例本土确诊" },
   { "query": "西安解封", "display_query": "西安整区解封前进行全员核酸" },
   { "query": "山西新增", "display_query": "山西新增 1 例本土确诊" },

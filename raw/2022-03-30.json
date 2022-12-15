@@ -8,7 +8,10 @@
   { "query": "哔哩哔哩", "display_query": "哔哩哔哩将裁员称为「毕业日」" },
   { "query": "南京火灾夫妻", "display_query": "火灾离世夫妻留下 3 个孩子" },
   { "query": "海贼王", "display_query": "海贼王 1045 话情报" },
-  { "query": "俄军抵达乌克兰作战前线", "display_query": "俄军抵达乌克兰作战前线" },
+  {
+    "query": "俄军抵达乌克兰作战前线",
+    "display_query": "俄军抵达乌克兰作战前线"
+  },
   { "query": "裸背拍照道歉", "display_query": "杭州小区裸背拍照网红道歉" },
   { "query": "华为研发投入", "display_query": "华为去年研发投入 1427 亿" },
   { "query": "上海疫情谣言", "display_query": "上海本轮疫情中谣言频现" },

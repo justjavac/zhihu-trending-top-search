@@ -19,7 +19,10 @@
   { "query": "火星车命名", "display_query": "中国首辆火星车命名祝融号" },
   { "query": "米哈游", "display_query": "男子持刀欲杀米哈游创始人" },
   { "query": "海军舰艇", "display_query": "海军三型主战舰艇交接入列" },
-  { "query": "小米11烧主板", "display_query": "小米 11 疑似出现 Wi-Fi 模块损坏" },
+  {
+    "query": "小米11烧主板",
+    "display_query": "小米 11 疑似出现 Wi-Fi 模块损坏"
+  },
   { "query": "ufc", "display_query": "UFC261：张伟丽 vs 罗斯" },
   { "query": "一人之下", "display_query": "《一人之下》555 话更新" },
   { "query": "福原爱江宏杰离婚", "display_query": "江宏杰向法院提出离婚诉请" },

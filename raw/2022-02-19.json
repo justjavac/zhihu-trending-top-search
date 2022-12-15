@@ -14,7 +14,10 @@
   { "query": "珠海疫情", "display_query": "珠海暂停飞往北京的航班" },
   { "query": "广东新增", "display_query": "广东新增 4 例本土确诊" },
   { "query": "地平线西之绝境", "display_query": "《地平线：西之绝境》上线" },
-  { "query": "序贯加强免疫", "display_query": "我国已在重点地区先行启动序贯加强免疫" },
+  {
+    "query": "序贯加强免疫",
+    "display_query": "我国已在重点地区先行启动序贯加强免疫"
+  },
   { "query": "eStar", "display_query": "eStar 十五连胜中断" },
   { "query": "内蒙古新增", "display_query": "内蒙古新增 22 例本土确诊" },
   { "query": "花样滑冰", "display_query": "花滑女单谢娃夺金" },
@@ -29,7 +32,10 @@
   { "query": "战锤3", "display_query": "《全面战争：战锤 3》解锁" },
   { "query": "冬奥会冠军", "display_query": "北京冬奥会诞生的冠军" },
   { "query": "丰县八孩调查组", "display_query": "丰县生育八孩事件调查组成立" },
-  { "query": "乌克兰武装部队开火", "display_query": "乌克兰武装部队向居民点开火" },
+  {
+    "query": "乌克兰武装部队开火",
+    "display_query": "乌克兰武装部队向居民点开火"
+  },
   { "query": "离婚登记减少", "display_query": "多地离婚登记减少三成以上" },
   { "query": "不良人", "display_query": "画江湖之不良人 5 更新" },
   { "query": "冬奥会观后感", "display_query": "冬奥会观后感" },

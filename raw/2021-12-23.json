@@ -2,7 +2,10 @@
   { "query": "英特尔", "display_query": "英特尔「禁用新疆产品」" },
   { "query": "英特尔", "display_query": "英特尔发布澄清公函" },
   { "query": "林俊杰", "display_query": "林俊杰工作室发文回应" },
-  { "query": "陈耀明", "display_query": "中国印钞造币总公司董事陈耀明主动投案" },
+  {
+    "query": "陈耀明",
+    "display_query": "中国印钞造币总公司董事陈耀明主动投案"
+  },
   { "query": "大三女生服毒身亡", "display_query": "女生因房东不退押金服毒" },
   { "query": "原神", "display_query": "幻塔官方将原神改成乱码" },
   { "query": "三国杀", "display_query": "三国杀 steam 差评榜首" },

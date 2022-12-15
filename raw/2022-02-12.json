@@ -21,7 +21,10 @@
   { "query": "美方否认", "display_query": "美方否认危及中国空间站" },
   { "query": "自由式滑雪", "display_query": "徐梦桃齐广璞贾宗洋摘银" },
   { "query": "大理地震", "display_query": "大理市 4.1 级地震" },
-  { "query": "国际滑联不接受韩方申诉", "display_query": "国际滑联不接受韩方申诉" },
+  {
+    "query": "国际滑联不接受韩方申诉",
+    "display_query": "国际滑联不接受韩方申诉"
+  },
   { "query": "肯德基母公司", "display_query": "肯德基母公司第四季营收" },
   { "query": "剧本杀", "display_query": "网传剧本杀 app 需版号" },
   { "query": "索尼赛车游戏", "display_query": "索尼赛车游戏 AI 打败人类" },
@@ -29,10 +32,16 @@
   { "query": "羽生结弦 4A", "display_query": "羽生结弦 4A 被国际滑联认定" },
   { "query": "花样滑冰", "display_query": "花滑男单陈巍夺金" },
   { "query": "画江湖", "display_query": "画江湖之不良人 5 更新" },
-  { "query": "水门桥七连连长之子", "display_query": "电影是对已离去父亲的告慰" },
+  {
+    "query": "水门桥七连连长之子",
+    "display_query": "电影是对已离去父亲的告慰"
+  },
   { "query": "任天堂", "display_query": "任天堂直面会" },
   { "query": "苏翊鸣裁判长", "display_query": "苏翊鸣裁判长给冠军分打高了" },
   { "query": "单板滑雪", "display_query": "蔡雪桐刘佳宇无缘奖牌" },
-  { "query": "广西开放社会捐赠渠道", "display_query": "广西多地开放社会捐赠渠道" },
+  {
+    "query": "广西开放社会捐赠渠道",
+    "display_query": "广西多地开放社会捐赠渠道"
+  },
   { "query": "b站猝死员工", "display_query": "b站猝死者加班记录被篡改" }
 ]

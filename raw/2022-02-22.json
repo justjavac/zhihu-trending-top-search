@@ -1,5 +1,8 @@
 [
-  { "query": "俄罗斯乌克兰", "display_query": "普京宣布承认乌东两区为独立国家" },
+  {
+    "query": "俄罗斯乌克兰",
+    "display_query": "普京宣布承认乌东两区为独立国家"
+  },
   { "query": "20220222", "display_query": "20220222 超级有爱日" },
   { "query": "香港疫情", "display_query": "香港新增约 7000 确诊病例" },
   { "query": "考研成绩", "display_query": "2022 考研初试成绩公布" },
@@ -7,13 +10,19 @@
   { "query": "rng", "display_query": "RNG 爆冷不敌 RA" },
   { "query": "法国总统提议", "display_query": "法国总统提议俄美举行峰会" },
   { "query": "美国制裁俄罗斯", "display_query": "美国宣布对俄制裁" },
-  { "query": "衡水桃城中学", "display_query": "衡水桃城中学教师未发现猥亵行为" },
+  {
+    "query": "衡水桃城中学",
+    "display_query": "衡水桃城中学教师未发现猥亵行为"
+  },
   { "query": "武汉新增", "display_query": "武汉新增 10 例新冠病毒阳性感染者" },
   { "query": "原神", "display_query": "字节开发类似原神游戏" },
   { "query": "冬奥会赛场", "display_query": "冬奥会赛场比金牌更重要的事" },
   { "query": "北京海淀", "display_query": "北京海淀现一核酸阳性人员" },
   { "query": "rng", "display_query": "RNG 让一追二 LNG" },
-  { "query": "雅培", "display_query": "海关总署提醒暂停食用雅培相关婴幼儿产品" },
+  {
+    "query": "雅培",
+    "display_query": "海关总署提醒暂停食用雅培相关婴幼儿产品"
+  },
   { "query": "意大利八分钟", "display_query": "意大利 8 分钟" },
   { "query": "北京开学", "display_query": "北京开学首日四环道路飘红" },
   { "query": "内蒙古新增", "display_query": "内蒙古新增 32 例本土确诊" },
@@ -22,8 +31,14 @@
   { "query": "折柳寄情", "display_query": "冬奥闭幕式「折柳寄情」" },
   { "query": "进击的巨人", "display_query": "进击的巨人最终季 Part.2" },
   { "query": "冬奥会闭幕式", "display_query": "冬奥会闭幕式" },
-  { "query": "董明珠建议提高税收起征点", "display_query": "董明珠建议提高税收起征点" },
-  { "query": "俄罗斯乌克兰", "display_query": "\t普京宣布承认乌东两区为独立国家" },
+  {
+    "query": "董明珠建议提高税收起征点",
+    "display_query": "董明珠建议提高税收起征点"
+  },
+  {
+    "query": "俄罗斯乌克兰",
+    "display_query": "\t普京宣布承认乌东两区为独立国家"
+  },
   { "query": "冰墩墩补货", "display_query": "冰墩墩补货 100 万只" },
   { "query": "山西阳性", "display_query": "山西晋中发现 5 名阳性人员" },
   { "query": "闭幕式旗手", "display_query": "高亭宇徐梦桃当选闭幕式旗手" },

@@ -9,7 +9,10 @@
   { "query": "Facebook", "display_query": "Facebook 首席技术官致歉" },
   { "query": "无职转生", "display_query": "无职转生 Part.2 开播" },
   { "query": "Windows11", "display_query": "Windows 11 推送" },
-  { "query": "诺贝尔生理学或医学奖", "display_query": "诺贝尔生理学或医学奖公布" },
+  {
+    "query": "诺贝尔生理学或医学奖",
+    "display_query": "诺贝尔生理学或医学奖公布"
+  },
   { "query": "苏迪曼杯", "display_query": "国羽夺苏迪曼杯冠军" },
   { "query": "世界动物日", "display_query": "世界动物日" },
   { "query": "珠海 深圳", "display_query": "珠海有望再添对接深圳通道" },

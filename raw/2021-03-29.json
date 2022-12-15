@@ -3,7 +3,10 @@
   { "query": "刘不言", "display_query": "刘不言去世" },
   { "query": "进击的巨人", "display_query": "进击的巨人 part1 完结" },
   { "query": "苏伊士运河", "display_query": "苏伊士运河「长赐号」脱浅" },
-  { "query": "小米11ultra", "display_query": "小米 11 Ultra 将首发全相变散热技术" },
+  {
+    "query": "小米11ultra",
+    "display_query": "小米 11 Ultra 将首发全相变散热技术"
+  },
   { "query": "艾比", "display_query": "网红艾比被曝转性造假" },
   { "query": "乌合麒麟", "display_query": "乌合麒麟讽刺 BCI 新作" },
   { "query": "中传", "display_query": "中传回应男女招生不平等" },

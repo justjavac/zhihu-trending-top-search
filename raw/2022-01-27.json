@@ -1,7 +1,10 @@
 [
   { "query": "国足", "display_query": "国足基本无缘世界杯" },
   { "query": "杭州疫情", "display_query": "杭州市新增 7 例确诊病例" },
-  { "query": "康华医院", "display_query": "东莞一医院挂横幅「手术室里全是钱」" },
+  {
+    "query": "康华医院",
+    "display_query": "东莞一医院挂横幅「手术室里全是钱」"
+  },
   { "query": "原神", "display_query": "原神飞彩镌流年" },
   { "query": "新秦时明月", "display_query": "新秦时明月更新" },
   { "query": "魔兽世界", "display_query": "魔兽世界 1688 元幽灵虎" },
@@ -27,7 +30,10 @@
   { "query": "明日方舟", "display_query": "明日方舟春节限定干员" },
   { "query": "杭州杀妻碎尸案", "display_query": "杭州杀妻碎尸案二审" },
   { "query": "画江湖", "display_query": "画江湖之不良人 5 更新" },
-  { "query": "警方通报 360 事件", "display_query": "警方通报 360 事件有借款纠纷" },
+  {
+    "query": "警方通报 360 事件",
+    "display_query": "警方通报 360 事件有借款纠纷"
+  },
   { "query": "新疆疫情", "display_query": "新疆新增 2 例确诊病例" },
   { "query": "lng", "display_query": "LNG 2:1 FPX" },
   { "query": "广东新增", "display_query": "广东新增 1 例无症状感染者" },

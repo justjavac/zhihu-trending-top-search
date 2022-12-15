@@ -2,7 +2,10 @@
   { "query": "羽生结弦", "display_query": "国际滑联回应羽生结弦 4A 未获认定" },
   { "query": "凡人修仙传", "display_query": "凡人修仙传年番更新" },
   { "query": "武大靖", "display_query": "武大靖无缘卫冕" },
-  { "query": "俄罗斯乌克兰", "display_query": "俄罗斯开始撤离驻乌克兰外交人员" },
+  {
+    "query": "俄罗斯乌克兰",
+    "display_query": "俄罗斯开始撤离驻乌克兰外交人员"
+  },
   { "query": "谷爱凌", "display_query": "谷爱凌比赛延期" },
   { "query": "宁德时代", "display_query": "宁德时代否认与特斯拉谈崩" },
   { "query": "尊严死", "display_query": "卫健委答复「尊严死」立法" },
@@ -13,8 +16,14 @@
   { "query": "钢架雪车", "display_query": "钢架雪车闫文港摘铜" },
   { "query": "失德艺人", "display_query": "禁止违法失德艺人通过电视剧出镜" },
   { "query": "冰壶", "display_query": "冰壶循环赛中国 2 连胜" },
-  { "query": "进击的巨人", "display_query": "进击的巨人最终季 Part.2 进击的巨人" },
-  { "query": "易烊千玺", "display_query": "易烊千玺领衔主演电影票房全部超 10 亿" },
+  {
+    "query": "进击的巨人",
+    "display_query": "进击的巨人最终季 Part.2 进击的巨人"
+  },
+  {
+    "query": "易烊千玺",
+    "display_query": "易烊千玺领衔主演电影票房全部超 10 亿"
+  },
   { "query": "短道速滑", "display_query": "男子短道接力中国惊险晋级" },
   { "query": "加拿大鹅", "display_query": "加拿大鹅中国大陆市场业务大增" },
   { "query": "湖人", "display_query": "詹姆斯破纪录湖人负勇士" },
@@ -24,7 +33,10 @@
   { "query": "三星S22", "display_query": "三星 Galaxy S22 发布" },
   { "query": "山东联通宽带", "display_query": "山东联通宽带限接入终端数" },
   { "query": "海贼王", "display_query": "海贼王 1040 话" },
-  { "query": "俄罗斯运动员违禁药物检验", "display_query": "俄罗斯运动员违禁药物检验阳性" },
+  {
+    "query": "俄罗斯运动员违禁药物检验",
+    "display_query": "俄罗斯运动员违禁药物检验阳性"
+  },
   { "query": "广西新增", "display_query": "广西新增 33 例本土确诊" },
   { "query": "贵州新增", "display_query": "贵州新增 1 例确诊病例" },
   { "query": "哈登西蒙斯", "display_query": "哈登西蒙斯互换" },

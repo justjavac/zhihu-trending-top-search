@@ -2,7 +2,10 @@
   { "query": "旺达幻视", "display_query": "《旺达幻视》大结局" },
   { "query": "北大电竞", "display_query": "北大开设电竞人才研修班" },
   { "query": "媒体评论货拉拉", "display_query": "媒体评货拉拉坠亡案" },
-  { "query": "应届生身份", "display_query": "建议应届生身份保留年限延长至 5 年" },
+  {
+    "query": "应届生身份",
+    "display_query": "建议应届生身份保留年限延长至 5 年"
+  },
   { "query": "玻利维亚", "display_query": "玻利维亚一大学多名学生坠亡" },
   { "query": "惊蛰文案", "display_query": "惊蛰节气文案" },
   { "query": "奇葩说", "display_query": "《奇葩说》第七季总决赛" },

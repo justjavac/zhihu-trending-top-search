@@ -25,7 +25,10 @@
   { "query": "冯磊", "display_query": "25 岁博导冯磊" },
   { "query": "河北无症状", "display_query": "河北无症状在京轨迹曝光" },
   { "query": "小红书", "display_query": "小红书种草笔记 4 元一篇" },
-  { "query": "哈利波特魔法觉醒", "display_query": "哈利波特手游「乌姆里奇」服装" },
+  {
+    "query": "哈利波特魔法觉醒",
+    "display_query": "哈利波特手游「乌姆里奇」服装"
+  },
   { "query": "pixel6", "display_query": "谷歌发布 Pixel 6" },
   { "query": "猪肾脏", "display_query": "猪肾脏移植人体手术成功" },
   { "query": "李佳琦销售额", "display_query": "李佳琦销售额破百亿" },

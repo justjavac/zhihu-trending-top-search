@@ -1,6 +1,9 @@
 [
   { "query": "2020最后一天", "display_query": "2020 最后一天" },
-  { "query": "送你一朵小红花", "display_query": "易烊千玺新片《送你一朵小红花》" },
+  {
+    "query": "送你一朵小红花",
+    "display_query": "易烊千玺新片《送你一朵小红花》"
+  },
   { "query": "辛巴电信诈骗", "display_query": "辛巴直播间网购后数人被骗" },
   { "query": "郭敬明道歉", "display_query": "郭敬明向庄羽道歉" },
   { "query": "快手大小周", "display_query": "快手将全员开启大小周" },

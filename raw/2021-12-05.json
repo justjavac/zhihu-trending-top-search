@@ -24,7 +24,10 @@
   { "query": "灰熊", "display_query": "灰熊净胜雷霆 73 分创纪录" },
   { "query": "台积电N3芯片", "display_query": "台积电试生产 3nm 芯片" },
   { "query": "滴滴", "display_query": "滴滴退市" },
-  { "query": "图书馆停电30秒原文", "display_query": "「图书馆停电许愿 30 秒」" },
+  {
+    "query": "图书馆停电30秒原文",
+    "display_query": "「图书馆停电许愿 30 秒」"
+  },
   { "query": "国王排名", "display_query": "国王排名第八集" },
   { "query": "一人之下4", "display_query": "一人之下 4 大结局" },
   { "query": "詹姆斯", "display_query": "詹姆斯新冠检测呈阴性" },

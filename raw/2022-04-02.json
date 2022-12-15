@@ -1,7 +1,10 @@
 [
   { "query": "中国生物制药", "display_query": "中国生物制药盈利 146 亿元" },
   { "query": "拜登之子", "display_query": "在乌造生物武器与拜登之子相关" },
-  { "query": "取消计划生育证明等材料", "display_query": "取消计划生育证明等材料" },
+  {
+    "query": "取消计划生育证明等材料",
+    "display_query": "取消计划生育证明等材料"
+  },
   { "query": "房企停牌", "display_query": "10 家房企停牌延迟发年报" },
   { "query": "韩国空军飞机相撞", "display_query": "韩国空军飞机相撞" },
   { "query": "吉诺比利", "display_query": "吉诺比利入选名人堂" },
@@ -9,25 +12,43 @@
   { "query": "孟晚舟", "display_query": "孟晚舟担任华为轮值董事长" },
   { "query": "t1", "display_query": "T1 春季总决赛夺冠" },
   { "query": "齐司礼", "display_query": "光夜齐司礼新卡引争议" },
-  { "query": "字母 44 分雄鹿加时胜篮网", "display_query": "字母 44 分雄鹿加时胜篮网" },
+  {
+    "query": "字母 44 分雄鹿加时胜篮网",
+    "display_query": "字母 44 分雄鹿加时胜篮网"
+  },
   { "query": "张国荣", "display_query": "张国荣这么多年依然被铭记" },
   { "query": "湖人", "display_query": "湖人负爵士跌至第 11" },
   { "query": "崩坏3", "display_query": "崩坏 3 全新 S 级角色公布" },
   { "query": "5 岁男童幼儿园猝死", "display_query": "男童幼儿园午睡时猝死" },
-  { "query": "灵璧渔沟中学事件", "display_query": "灵璧县警方通报 14 岁男生因冲突死亡" },
-  { "query": "所罗门群岛 中国", "display_query": "所罗门群岛对中国签署警务协议" },
+  {
+    "query": "灵璧渔沟中学事件",
+    "display_query": "灵璧县警方通报 14 岁男生因冲突死亡"
+  },
+  {
+    "query": "所罗门群岛 中国",
+    "display_query": "所罗门群岛对中国签署警务协议"
+  },
   { "query": "华为仓颉", "display_query": "华为研发出编程语言" },
-  { "query": "规范网络直播盈利", "display_query": "三部门发文规范网络直播营利行为" },
+  {
+    "query": "规范网络直播盈利",
+    "display_query": "三部门发文规范网络直播营利行为"
+  },
   { "query": "世界杯抽签", "display_query": "世界杯抽签结果出炉" },
   { "query": "中方宣布对美对等反制", "display_query": "中方宣布对美对等反制" },
   { "query": "韩国空军飞机", "display_query": "韩国两架空军飞机相撞坠毁" },
   { "query": "换机", "display_query": "消费者的换机周期已延长" },
   { "query": "超时加班", "display_query": "北京两家公司因超时加班被罚" },
   { "query": "光与夜之恋", "display_query": "光与夜之恋新主线 PV" },
-  { "query": "画江湖之不良人", "display_query": "《画江湖之不良人》第五季更新" },
+  {
+    "query": "画江湖之不良人",
+    "display_query": "《画江湖之不良人》第五季更新"
+  },
   { "query": "莆田鞋", "display_query": "莆田鞋集体商标注册成功" },
   { "query": "菲尼克斯太阳", "display_query": "太阳克勇士取 8 连胜" },
-  { "query": "致全市人民的一封信", "display_query": "上海《致全市人民的一封信》" },
+  {
+    "query": "致全市人民的一封信",
+    "display_query": "上海《致全市人民的一封信》"
+  },
   { "query": "正大包子", "display_query": "酸菜馅正大包子吃出抹布" },
   { "query": "玄彬结婚", "display_query": "孙艺珍玄彬婚礼" },
   { "query": "济宁确诊", "display_query": "济宁市发现 1 例确诊病例" },

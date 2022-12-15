@@ -14,7 +14,10 @@
   { "query": "中国接力队", "display_query": "中国接力队奥运铜牌被认证" },
   { "query": "三伏", "display_query": "国产悬疑解谜游戏《三伏》" },
   { "query": "新冠抗原试剂", "display_query": "新冠抗原试剂临时纳入医保" },
-  { "query": "容县梁二夫妇", "display_query": "广西通报「容县梁二夫妇生育 15 孩」" },
+  {
+    "query": "容县梁二夫妇",
+    "display_query": "广西通报「容县梁二夫妇生育 15 孩」"
+  },
   { "query": "盒马活鳄鱼", "display_query": "盒马回应网友买到活鳄鱼" },
   { "query": "中国接力队铜牌", "display_query": "国际田联认证中国接力队铜牌" },
   { "query": "勇士", "display_query": "勇士遭马刺准绝杀" },
@@ -32,6 +35,9 @@
   { "query": "白象销售额", "display_query": "白象 7 天销售额破千万" },
   { "query": "大连鲸鱼搁浅", "display_query": "9 米长鲸鱼搁浅海滩" },
   { "query": "WTT", "display_query": "WTT 新加坡大满贯赛" },
-  { "query": "百色零号病人", "display_query": "广西百色「零号病人」被采取刑事强制措施" },
+  {
+    "query": "百色零号病人",
+    "display_query": "广西百色「零号病人」被采取刑事强制措施"
+  },
   { "query": "詹姆斯总得分", "display_query": "詹姆斯升至历史得分榜第 2" }
 ]

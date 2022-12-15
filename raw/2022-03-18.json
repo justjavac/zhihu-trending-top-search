@@ -10,14 +10,23 @@
   { "query": "巩汉林", "display_query": "巩汉林因收藏假签名足球致歉" },
   { "query": "白象", "display_query": "白象方便面员工很多是残疾人" },
   { "query": "95 号汽油", "display_query": "95 号汽油步入 9 元时代" },
-  { "query": "画江湖之不良人", "display_query": "《画江湖之不良人》第五季更新" },
+  {
+    "query": "画江湖之不良人",
+    "display_query": "《画江湖之不良人》第五季更新"
+  },
   { "query": "美股大涨", "display_query": "美国三大股指集体高开" },
   { "query": "勇士", "display_query": "库里伤退勇士止 4 连胜" },
-  { "query": "国家电影局发文", "display_query": "中高风险地区电影院一律暂不开放" },
+  {
+    "query": "国家电影局发文",
+    "display_query": "中高风险地区电影院一律暂不开放"
+  },
   { "query": "日本地震", "display_query": "日本发生 7.4 级地震" },
   { "query": "篮网", "display_query": "丁威迪压哨三分绝杀篮网" },
   { "query": "一人之下", "display_query": "一人之下 605 话" },
-  { "query": "上海发布回应癌症患者求助", "display_query": "上海发布回应肿瘤医院附近癌症患者求助" },
+  {
+    "query": "上海发布回应癌症患者求助",
+    "display_query": "上海发布回应肿瘤医院附近癌症患者求助"
+  },
   { "query": "张文宏", "display_query": "张文宏称抗疫要有三个武器" },
   { "query": "哔哩哔哩", "display_query": "b 站创作者激励暴跌最高达 90% " },
   { "query": "柯南", "display_query": "柯南漫画疑似人设崩塌 " },

@@ -20,7 +20,10 @@
   { "query": "河南金矿", "display_query": "河南发现特大金矿" },
   { "query": "红米note11", "display_query": "Redmi Note 11 系列" },
   { "query": "荣耀X30i", "display_query": "荣耀 X30 系列手机" },
-  { "query": "爱情公寓", "display_query": "上海某导演拍摄不雅视频获利百万被抓" },
+  {
+    "query": "爱情公寓",
+    "display_query": "上海某导演拍摄不雅视频获利百万被抓"
+  },
   { "query": "北京疫情", "display_query": "北京新增 5 例本地确诊" },
   { "query": "沙丘", "display_query": "沙丘导演官宣第二部" },
   { "query": "北京疫情", "display_query": "北京新增 2 例本土确诊" },

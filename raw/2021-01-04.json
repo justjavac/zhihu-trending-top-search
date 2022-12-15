@@ -21,6 +21,9 @@
   { "query": "北京入职核酸", "display_query": "北京新入职须核酸阴性证明" },
   { "query": "流金岁月", "display_query": "《流金岁月》开播" },
   { "query": "幽门螺杆菌", "display_query": "幽门螺杆菌感染有什么影响？" },
-  { "query": "爱尔眼科", "display_query": "爱尔眼科回应艾芬治疗后右眼近乎失明" },
+  {
+    "query": "爱尔眼科",
+    "display_query": "爱尔眼科回应艾芬治疗后右眼近乎失明"
+  },
   { "query": "大连理工大学", "display_query": "网爆大连理工大学发生车祸" }
 ]

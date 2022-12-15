@@ -3,16 +3,34 @@
   { "query": "曲婉婷", "display_query": "曲婉婷母亲二审维持原判" },
   { "query": "坠机现场山体滑坡", "display_query": "坠机现场出现滑坡" },
   { "query": "吉林疫情", "display_query": "吉林省本土新增「2320+528」" },
-  { "query": "确定坠机事故主要撞击点", "display_query": "东航飞行事故确定主要撞击点" },
-  { "query": "东航飞行事故进展", "display_query": "目前发现飞机残骸及人体组织碎片" },
+  {
+    "query": "确定坠机事故主要撞击点",
+    "display_query": "东航飞行事故确定主要撞击点"
+  },
+  {
+    "query": "东航飞行事故进展",
+    "display_query": "目前发现飞机残骸及人体组织碎片"
+  },
   { "query": "中兴通讯", "display_query": "中兴通讯在美胜诉" },
   { "query": "腾讯游戏", "display_query": "腾讯游戏未成年占比骤降" },
   { "query": "MU5735 黑匣子", "display_query": "黑匣子的分析工作正在进行" },
-  { "query": "美方涉乌生物实验室", "display_query": "外交部敦促美方尽快作出交代" },
+  {
+    "query": "美方涉乌生物实验室",
+    "display_query": "外交部敦促美方尽快作出交代"
+  },
   { "query": "咒术回战", "display_query": "《咒术回战》宣称台湾是国家" },
-  { "query": "画江湖之不良人", "display_query": "画江湖之不良人第 5 季第 11 集" },
-  { "query": "MU5735 黑匣子", "display_query": "MU5735 航班其中一部黑匣子已找到" },
-  { "query": "暂未发现幸存人员", "display_query": "东航坠机事件尚未发现幸存人员" },
+  {
+    "query": "画江湖之不良人",
+    "display_query": "画江湖之不良人第 5 季第 11 集"
+  },
+  {
+    "query": "MU5735 黑匣子",
+    "display_query": "MU5735 航班其中一部黑匣子已找到"
+  },
+  {
+    "query": "暂未发现幸存人员",
+    "display_query": "东航坠机事件尚未发现幸存人员"
+  },
   { "query": "海贼王1044", "display_query": "《海贼王》 1044 话情报" },
   { "query": "湖人", "display_query": "詹姆斯缺阵湖人负 76 人" },
   { "query": "天宫课堂", "display_query": "「天宫课堂」第二课" },
@@ -25,7 +43,10 @@
   { "query": "老人被骗", "display_query": "老人欲转账以继承富翁遗产" },
   { "query": "篮网", "display_query": "欧文 43 分篮网遭逆转" },
   { "query": "勇士", "display_query": "普尔 30+9 勇士胜热火" },
-  { "query": "离婚冷静期遗嘱", "display_query": "离婚冷静期内离婚不成先立遗嘱" },
+  {
+    "query": "离婚冷静期遗嘱",
+    "display_query": "离婚冷静期内离婚不成先立遗嘱"
+  },
   { "query": "男子偷车上网", "display_query": "男子偷车欲骑去安徽上网" },
   { "query": "湖人", "display_query": "詹姆斯大号三双湖人胜骑士" },
   { "query": "研究生学历", "display_query": "研究生学历成为入职门槛" },

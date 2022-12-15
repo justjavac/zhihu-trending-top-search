@@ -7,7 +7,10 @@
   { "query": "英雄联盟", "display_query": "英雄联盟季中赛半决赛 DK 险胜 MAD" },
   { "query": "深圳疫情", "display_query": "深圳新增 2 名无症状感染者" },
   { "query": "乌合麒麟新作", "display_query": "乌合麒麟新作缅怀袁隆平" },
-  { "query": "金融委打击比特币", "display_query": "金融委打击比特币挖矿和交易行为" },
+  {
+    "query": "金融委打击比特币",
+    "display_query": "金融委打击比特币挖矿和交易行为"
+  },
   { "query": "河北中学砍人", "display_query": "河北一中学发生砍人事件" },
   { "query": "独行侠", "display_query": "独行侠113:103力克快船" },
   { "query": "吴孟超", "display_query": "吴孟超逝世" },

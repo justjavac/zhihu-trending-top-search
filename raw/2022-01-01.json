@@ -13,7 +13,10 @@
   { "query": "篮网", "display_query": "杜兰特复出篮网负 76 人" },
   { "query": "五月天", "display_query": "五月天跨年演唱会" },
   { "query": "湖人", "display_query": "詹姆斯 43 分湖人胜开拓者" },
-  { "query": "中国人造太阳", "display_query": "中国「人造太阳」运行时间破千秒" },
+  {
+    "query": "中国人造太阳",
+    "display_query": "中国「人造太阳」运行时间破千秒"
+  },
   { "query": "RCEP", "display_query": "RCEP 正式生效" },
   { "query": "2021 追问体坛", "display_query": "2021 追问体坛" },
   { "query": "2021最后一天", "display_query": "2021 年最后一天" },

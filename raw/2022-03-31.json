@@ -1,5 +1,8 @@
 [
-  { "query": "画江湖之不良人", "display_query": "《画江湖之不良人》第五季更新" },
+  {
+    "query": "画江湖之不良人",
+    "display_query": "《画江湖之不良人》第五季更新"
+  },
   { "query": "赵丽颖", "display_query": "网曝疑赵丽颖涉嫌偷漏税" },
   { "query": "南京火灾夫妻", "display_query": "火灾离世夫妻留下 3 个孩子" },
   { "query": "葡萄牙晋级世界杯", "display_query": "C 罗献助攻葡萄牙进世界杯" },
@@ -13,13 +16,22 @@
   { "query": "世预欧附加赛决赛", "display_query": "2022 世预欧附加赛决赛" },
   { "query": "裸背拍照道歉", "display_query": "杭州小区裸背拍照网红道歉" },
   { "query": "乌克兰", "display_query": "乌克兰放弃加入任何军事联盟" },
-  { "query": "东航飞行事故遇难家属", "display_query": "东航事故遇难家属获得赔偿" },
+  {
+    "query": "东航飞行事故遇难家属",
+    "display_query": "东航事故遇难家属获得赔偿"
+  },
   { "query": "新疆疫情", "display_query": "新疆和硕县新增 20 例无症状" },
-  { "query": "为儿子看病卖亲生女儿", "display_query": "山东夫妻为给儿子看病卖亲生女儿" },
+  {
+    "query": "为儿子看病卖亲生女儿",
+    "display_query": "山东夫妻为给儿子看病卖亲生女儿"
+  },
   { "query": "正大包子", "display_query": "酸菜馅正大包子吃出抹布" },
   { "query": "高铁列车长确诊", "display_query": "一高铁列车长确诊" },
   { "query": "中移金科", "display_query": "中国移动成立新公司" },
-  { "query": "2040 年将人类送上火星", "display_query": "美国计划 2040 年将人类送上火星" },
+  {
+    "query": "2040 年将人类送上火星",
+    "display_query": "美国计划 2040 年将人类送上火星"
+  },
   { "query": "国足", "display_query": "12 强赛收官国足 0:2 阿曼" },
   { "query": "上海全域静态管理", "display_query": "上海全域静态管理" },
   { "query": "豆瓣私密小组", "display_query": "豆瓣私密小组将停用" },
@@ -29,7 +41,10 @@
   { "query": "第五轮谈判", "display_query": "俄乌第五轮谈判" },
   { "query": "妻子实名举报丈夫", "display_query": "妻子举报丈夫收回扣养小三" },
   { "query": "樊振东", "display_query": "樊振东连续排名世界第一" },
-  { "query": "俄军抵达乌克兰作战前线", "display_query": "俄军抵达乌克兰作战前线" },
+  {
+    "query": "俄军抵达乌克兰作战前线",
+    "display_query": "俄军抵达乌克兰作战前线"
+  },
   { "query": "南派三叔", "display_query": "南派三叔 1547 万股权被冻结" },
   { "query": "太空出差", "display_query": "太空出差三人组开始收拾" },
   { "query": "哔哩哔哩", "display_query": "哔哩哔哩将裁员称为「毕业日」" },

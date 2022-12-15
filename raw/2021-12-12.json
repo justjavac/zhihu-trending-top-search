@@ -4,14 +4,20 @@
   { "query": "就地过年", "display_query": "多地通知倡导就地过年" },
   { "query": "雪梨", "display_query": "雪梨淘宝店铺被封" },
   { "query": "新秦时明月", "display_query": "新秦时明月第 4 集" },
-  { "query": "男子翻前女友眼皮刷脸支付", "display_query": "男子趁前女友熟睡翻开眼皮刷脸转走 15 万" },
+  {
+    "query": "男子翻前女友眼皮刷脸支付",
+    "display_query": "男子趁前女友熟睡翻开眼皮刷脸转走 15 万"
+  },
   { "query": "印度总理莫迪", "display_query": "印度总理莫迪被盗号" },
   { "query": "谷爱凌", "display_query": "谷爱凌夺世界杯铜山站冠军" },
   { "query": "杭州电瓶车爆燃", "display_query": "杭州电瓶车爆燃事件女孩去世" },
   { "query": "阿里女员工", "display_query": "自称遭性侵阿里女员工被解雇" },
   { "query": "西安疫情", "display_query": "西安增 1 例本土确诊病例" },
   { "query": "周琦", "display_query": "周琦 NBL 砍 22+10+7帽" },
-  { "query": "毒杀麻雀为自食", "display_query": "男子毒杀 200 多只麻雀称要自己吃" },
+  {
+    "query": "毒杀麻雀为自食",
+    "display_query": "男子毒杀 200 多只麻雀称要自己吃"
+  },
   { "query": "地理标志维权", "display_query": "最高法不支持地理标志维权" },
   { "query": "冰火魔厨", "display_query": "冰火魔厨动画开播" },
   { "query": "凡人修仙传", "display_query": "凡人修仙传年番更新" },

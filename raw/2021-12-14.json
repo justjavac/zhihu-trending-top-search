@@ -24,16 +24,25 @@
   { "query": "鬼灭之刃", "display_query": "鬼灭之刃第二季更新" },
   { "query": "管饱水饺", "display_query": "男子吃 12 元管饱水饺竟只吃馅" },
   { "query": "耐克起诉阿迪达斯", "display_query": "耐克起诉阿迪达斯抄袭" },
-  { "query": "毒杀麻雀为自食", "display_query": "男子毒杀 200 多只麻雀称要自己吃" },
+  {
+    "query": "毒杀麻雀为自食",
+    "display_query": "男子毒杀 200 多只麻雀称要自己吃"
+  },
   { "query": "周琦", "display_query": "周琦 NBL 砍 22+10+7 帽" },
   { "query": "勇士", "display_query": "库里 3 三分勇士负 76 人" },
-  { "query": "山东烟台货船沉没", "display_query": "山东烟台货船沉没致 14 人遇险" },
+  {
+    "query": "山东烟台货船沉没",
+    "display_query": "山东烟台货船沉没致 14 人遇险"
+  },
   { "query": "微博", "display_query": "网信办约谈微博" },
   { "query": "双十二退款", "display_query": "淘宝双十二退款开启" },
   { "query": "涂们", "display_query": "演员涂们因病去世" },
   { "query": "国家公祭日", "display_query": "国家公祭日" },
   { "query": "爱优腾", "display_query": "爱优腾连年亏损千亿" },
-  { "query": "男子翻前女友眼皮刷脸支付", "display_query": "男子趁前女友熟睡翻开眼皮刷脸转走 15 万" },
+  {
+    "query": "男子翻前女友眼皮刷脸支付",
+    "display_query": "男子趁前女友熟睡翻开眼皮刷脸转走 15 万"
+  },
   { "query": "就地过年", "display_query": "多地通知倡导就地过年" },
   { "query": "地理标志维权", "display_query": "最高法不支持地理标志维权" },
   { "query": "年度十大热歌", "display_query": "2021 TMEA 年度十大热歌" },

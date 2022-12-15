@@ -1,23 +1,35 @@
 [
   { "query": "广州疫情", "display_query": "广州确诊病例密接者" },
   { "query": "雄安", "display_query": "雄安被确认为婚俗改革实验区" },
-  { "query": "令人心动的offer第三季", "display_query": "「令人心动的 offer」第三季是医学专场" },
+  {
+    "query": "令人心动的offer第三季",
+    "display_query": "「令人心动的 offer」第三季是医学专场"
+  },
   { "query": "老友记重聚", "display_query": "「老友记」重聚特辑" },
   { "query": "中国女排", "display_query": "中国女排不敌日本" },
   { "query": "姚非拉", "display_query": "姚非拉 夏达" },
-  { "query": "画江湖之不良人第四季", "display_query": "「画江湖之不良人」第四季第 6 集" },
+  {
+    "query": "画江湖之不良人第四季",
+    "display_query": "「画江湖之不良人」第四季第 6 集"
+  },
   { "query": "海贼王", "display_query": "海贼王 1014 话情报" },
   { "query": "翟天临回复", "display_query": "翟天临回复近期被骂事件" },
   { "query": "虚幻引擎5", "display_query": "虚幻引擎 5 抢先体验" },
   { "query": "河南男子", "display_query": "河南一男子报复社会持棍行凶" },
   { "query": "美国枪击", "display_query": "美国加州发生枪击事件" },
   { "query": "夏达", "display_query": "姚非拉手撕夏达" },
-  { "query": "令人心动的offer第三季", "display_query": "「令人心动的 offe」第三季是医学专场" },
+  {
+    "query": "令人心动的offer第三季",
+    "display_query": "「令人心动的 offe」第三季是医学专场"
+  },
   { "query": "小米美国和解", "display_query": "小米被移出美国制裁清单" },
   { "query": "武汉公交车", "display_query": "武汉公交车" },
   { "query": "高考招生", "display_query": "2021 高考招生变化" },
   { "query": "员工拒绝打卡", "display_query": "员工拒绝钉钉打卡遭开除" },
-  { "query": "四川食品厂", "display_query": "四川一食品厂疑似发生有害气体中毒致 7 死" },
+  {
+    "query": "四川食品厂",
+    "display_query": "四川一食品厂疑似发生有害气体中毒致 7 死"
+  },
   { "query": "ios14.6", "display_query": "iOS14.6" },
   { "query": "华为鸿蒙", "display_query": "鸿蒙手机要来了" },
   { "query": "超级红月亮", "display_query": "超级红月亮与月全食今晚上演" }

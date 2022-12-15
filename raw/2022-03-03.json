@@ -4,18 +4,36 @@
   { "query": "上海疫情", "display_query": "上海新增 3 例本土确诊" },
   { "query": "武汉大学辅导员", "display_query": "武汉大学辅导员性骚扰女生" },
   { "query": "香港疫情", "display_query": "香港新增病例单日确诊数字创新高" },
-  { "query": "冬残奥会开幕式旗手", "display_query": "冬残奥中国代表团旗手公布" },
+  {
+    "query": "冬残奥会开幕式旗手",
+    "display_query": "冬残奥中国代表团旗手公布"
+  },
   { "query": "感动中国年度人物", "display_query": "2021 感动中国年度人物名单" },
   { "query": "画江湖之不良人", "display_query": "画江湖之不良人第 8 集" },
-  { "query": "吉林疫情", "display_query": "吉林新增 4 例确诊及 4 例无症状感染" },
+  {
+    "query": "吉林疫情",
+    "display_query": "吉林新增 4 例确诊及 4 例无症状感染"
+  },
   { "query": "剧本杀", "display_query": "天津拟规定「剧本杀」备案" },
   { "query": "俄罗斯政府", "display_query": "俄罗斯政府拨 1 万亿卢布购买股票" },
   { "query": "游戏账号", "display_query": "乌副总理要求封禁俄玩家账号" },
-  { "query": "美国对俄罗斯关闭领空", "display_query": "美国正式宣布对俄罗斯关闭领空" },
-  { "query": "直播打赏设冷静期", "display_query": "全国人大代表建议直播打赏设冷静期" },
+  {
+    "query": "美国对俄罗斯关闭领空",
+    "display_query": "美国正式宣布对俄罗斯关闭领空"
+  },
+  {
+    "query": "直播打赏设冷静期",
+    "display_query": "全国人大代表建议直播打赏设冷静期"
+  },
   { "query": "羽生结弦", "display_query": "羽生结弦因伤退出花滑世锦赛" },
-  { "query": "人大代表建议加大网暴处罚力度", "display_query": "人大代表建议加大网暴处罚力度" },
-  { "query": "俄罗斯乌克兰", "display_query": "乌克兰关闭驻俄罗斯圣彼得堡的总领馆" },
+  {
+    "query": "人大代表建议加大网暴处罚力度",
+    "display_query": "人大代表建议加大网暴处罚力度"
+  },
+  {
+    "query": "俄罗斯乌克兰",
+    "display_query": "乌克兰关闭驻俄罗斯圣彼得堡的总领馆"
+  },
   { "query": "铁笼女", "display_query": "警方通报陕西佳县「铁笼女」" },
   { "query": "北溪-2", "display_query": "北溪 - 2 将停止向俄方付款" },
   { "query": "切尔西", "display_query": "阿布决定出售切尔西" },
@@ -25,7 +43,10 @@
   { "query": "台湾多县市停电", "display_query": "台湾处无预警大范围停电" },
   { "query": "喜羊羊", "display_query": "喜羊羊联动剑网 3" },
   { "query": "俄乌谈判", "display_query": "第二轮俄乌会谈在白波边境举行" },
-  { "query": "俄远东地区部队", "display_query": "俄远东部队将靠近欧洲军事演习" },
+  {
+    "query": "俄远东地区部队",
+    "display_query": "俄远东部队将靠近欧洲军事演习"
+  },
   { "query": "浙江外卖封签", "display_query": "浙江规定所有外卖使用封签" },
   { "query": "安-225", "display_query": "中国卫星显示安-225 情况不妙" },
   { "query": "广州飞宜昌航班", "display_query": "广州飞宜昌航班急降长沙机场" },
@@ -33,15 +54,24 @@
   { "query": "苹果春季发布会", "display_query": "苹果将开春季发布会" },
   { "query": "个人所得税", "display_query": "个人所得税退税" },
   { "query": "郭文思", "display_query": "郭文思被执行死刑" },
-  { "query": "泽连斯基愿和普京直接对话", "display_query": "泽连斯基愿和普京直接对话" },
-  { "query": "打击拐卖妇女儿童", "display_query": "公安部部署全国开展打拐专项行动" },
+  {
+    "query": "泽连斯基愿和普京直接对话",
+    "display_query": "泽连斯基愿和普京直接对话"
+  },
+  {
+    "query": "打击拐卖妇女儿童",
+    "display_query": "公安部部署全国开展打拐专项行动"
+  },
   { "query": "撤侨", "display_query": "中国开始从乌克兰撤出首批公民" },
   { "query": "尼泊尔", "display_query": "尼泊尔众议院批准 MCC 协议" },
   { "query": "广东疫情", "display_query": "广东新增本土确诊 31例" },
   { "query": "俄罗斯足球", "display_query": "俄罗斯被禁止参加足球赛事" },
   { "query": "rng", "display_query": "RNG 2:0 击败 WBG" },
   { "query": "乌俄局势", "display_query": "俄军已完全控制乌南部城市赫尔松" },
-  { "query": "临床营养学", "display_query": "人大代表建议临床营养学设为必修课" },
+  {
+    "query": "临床营养学",
+    "display_query": "人大代表建议临床营养学设为必修课"
+  },
   { "query": "海贼王", "display_query": "海贼王 1042 话情报" },
   { "query": "青岛疫情", "display_query": "青岛发现 1 例新冠阳性感染者" }
 ]

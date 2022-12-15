@@ -26,7 +26,10 @@
   { "query": "熊猫翻墙", "display_query": "动物园熊猫翻墙「越狱」" },
   { "query": "胡锡进", "display_query": "胡锡进卸任" },
   { "query": "赛博朋克2077", "display_query": "基努里维斯未玩过 2077" },
-  { "query": "青岛大学教职工", "display_query": "青岛大学教职工发表涉靖国神社不当言论" },
+  {
+    "query": "青岛大学教职工",
+    "display_query": "青岛大学教职工发表涉靖国神社不当言论"
+  },
   { "query": "淘宝 约谈", "display_query": "淘宝京东等被监管约谈" },
   { "query": "原神", "display_query": "《原神》荒泷一斗" },
   { "query": "篮网", "display_query": "杜兰特三双篮网加时胜猛龙" },

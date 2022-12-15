@@ -8,7 +8,10 @@
   { "query": "云南疫情", "display_query": "云南新增 3 例本土确诊" },
   { "query": "青岛 浒苔", "display_query": "青岛遭最大规模浒苔侵袭" },
   { "query": "网恋被骗", "display_query": "女子网恋被骗八百多万" },
-  { "query": "中国邮政储蓄银行", "display_query": "中国邮政储蓄银行被罚 449 万" },
+  {
+    "query": "中国邮政储蓄银行",
+    "display_query": "中国邮政储蓄银行被罚 449 万"
+  },
   { "query": "金山股票", "display_query": "雷军赠金山员工每人 600 股" },
   { "query": "2021毕业礼", "display_query": "湖南卫视毕业礼" },
   { "query": "首次出舱", "display_query": "中国空间站航天员首次出舱活动" },

@@ -12,21 +12,33 @@
   { "query": "冬奥会闭幕", "display_query": "中国共获 9 金 4 银 2 铜" },
   { "query": "冰墩墩补货", "display_query": "冰墩墩补货 100 万只" },
   { "query": "意大利八分钟", "display_query": "意大利 8 分钟" },
-  { "query": "雅培", "display_query": "海关总署提醒暂停食用雅培相关婴幼儿产品" },
+  {
+    "query": "雅培",
+    "display_query": "海关总署提醒暂停食用雅培相关婴幼儿产品"
+  },
   { "query": "tes", "display_query": "369 拉扯失败" },
   { "query": "内蒙古新增", "display_query": "内蒙古新增 32 例本土确诊" },
-  { "query": "男子将妻弟媳妇卖给工友", "display_query": "男子以 5 千元将妻弟媳妇卖工友" },
+  {
+    "query": "男子将妻弟媳妇卖给工友",
+    "display_query": "男子以 5 千元将妻弟媳妇卖工友"
+  },
   { "query": "全明星", "display_query": "全明星赛库里 50 分" },
   { "query": "rng", "display_query": "RNG 让一追二 LNG" },
   { "query": "闭幕式旗手", "display_query": "高亭宇徐梦桃当选闭幕式旗手" },
   { "query": "隋文静/韩聪", "display_query": "隋文静/韩聪夺第 9 金" },
   { "query": "拳皇", "display_query": "拳皇系列最新作" },
   { "query": "原神", "display_query": "字节开发类原神游戏" },
-  { "query": "序贯加强免疫", "display_query": "我国已在重点地区先行启动序贯加强免疫" },
+  {
+    "query": "序贯加强免疫",
+    "display_query": "我国已在重点地区先行启动序贯加强免疫"
+  },
   { "query": "国王排名", "display_query": "国王排名更新" },
   { "query": "游戏王", "display_query": "游戏王大师决斗 Xyz Festival" },
   { "query": "表演滑", "display_query": "花样滑冰表演滑" },
-  { "query": "非婚妈妈争取生育保险", "display_query": "深圳首例非婚妈妈起诉卫健委争取生育保险" },
+  {
+    "query": "非婚妈妈争取生育保险",
+    "display_query": "深圳首例非婚妈妈起诉卫健委争取生育保险"
+  },
   { "query": "我们的冬奥", "display_query": "《我们的冬奥》上映" },
   { "query": "折柳寄情", "display_query": "冬奥闭幕式「折柳寄情」" },
   { "query": "苏炳添", "display_query": "苏炳添或递补夺奥运铜牌" },

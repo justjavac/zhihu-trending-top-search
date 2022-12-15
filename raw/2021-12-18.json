@@ -16,7 +16,10 @@
   { "query": "周琦", "display_query": "周琦第 4 战 17+13+5 帽" },
   { "query": "国王排名", "display_query": "国王排名第十集" },
   { "query": "海贼王", "display_query": "海贼王 1035 话" },
-  { "query": "南京失联女大学生被害案", "display_query": "南京失联女大学生被害案庭审推迟" },
+  {
+    "query": "南京失联女大学生被害案",
+    "display_query": "南京失联女大学生被害案庭审推迟"
+  },
   { "query": "上海疫情", "display_query": "上海新增本土确诊 1 例" },
   { "query": "西城男孩演唱会", "display_query": "Westlife 线上演唱会" },
   { "query": "QQ堂", "display_query": "腾讯《QQ 堂》停运" },

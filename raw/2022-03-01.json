@@ -1,6 +1,12 @@
 [
-  { "query": "俄罗斯乌克兰", "display_query": "俄军将继续在乌开展特别军事行动" },
-  { "query": "俄罗斯乌克兰", "display_query": "俄罗斯战略威慑力量转入特殊战备状态" },
+  {
+    "query": "俄罗斯乌克兰",
+    "display_query": "俄军将继续在乌开展特别军事行动"
+  },
+  {
+    "query": "俄罗斯乌克兰",
+    "display_query": "俄罗斯战略威慑力量转入特殊战备状态"
+  },
   { "query": "亚速营", "display_query": "如何看待乌克兰新纳粹武装亚速营" },
   { "query": "个人所得税", "display_query": "个人所得税退税" },
   { "query": "铁笼女", "display_query": "警方通报陕西佳县「铁笼女」" },
@@ -23,11 +29,20 @@
   { "query": "天津疫情", "display_query": "天津新增 10 例阳性感染者" },
   { "query": "俄罗斯乌克兰", "display_query": "俄乌会谈即将开始" },
   { "query": "篮网", "display_query": "欧文 38 分篮网胜雄鹿" },
-  { "query": "陆地探测一号", "display_query": "我国成功发射陆地探测一号 01 组 B 星" },
-  { "query": "乌克兰欧盟", "display_query": "欧盟委员会主席称「希望乌克兰加入欧盟」" },
+  {
+    "query": "陆地探测一号",
+    "display_query": "我国成功发射陆地探测一号 01 组 B 星"
+  },
+  {
+    "query": "乌克兰欧盟",
+    "display_query": "欧盟委员会主席称「希望乌克兰加入欧盟」"
+  },
   { "query": "香港疫情", "display_query": "香港新增确诊病例约 34466 例" },
   { "query": "勇士", "display_query": "库里 27+10 勇士负独行侠" },
   { "query": "宝可梦", "display_query": "宝可梦新作《朱 / 紫》" },
-  { "query": "美国向乌克兰运送导弹", "display_query": "美国向乌克兰运送防空导弹" },
+  {
+    "query": "美国向乌克兰运送导弹",
+    "display_query": "美国向乌克兰运送防空导弹"
+  },
   { "query": "湖人", "display_query": "湖人惨败鹈鹕 28 分" }
 ]

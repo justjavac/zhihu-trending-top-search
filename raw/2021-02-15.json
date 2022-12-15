@@ -3,7 +3,10 @@
   { "query": "唐宫夜宴", "display_query": "唐宫夜宴" },
   { "query": "发财日记", "display_query": "电影《发财日记》" },
   { "query": "小小梦魇2", "display_query": "游戏《小小梦魇2》" },
-  { "query": "茅野爱衣疑似参拜靖国神社", "display_query": "茅野爱衣疑似参拜靖国神社" },
+  {
+    "query": "茅野爱衣疑似参拜靖国神社",
+    "display_query": "茅野爱衣疑似参拜靖国神社"
+  },
   { "query": "石家庄新增", "display_query": "石家庄新增 1 例本地确诊" },
   { "query": "大年初四", "display_query": "大年初四迎灶王" },
   { "query": "人潮汹涌排片", "display_query": "人潮汹涌排片" },

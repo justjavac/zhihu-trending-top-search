@@ -1,6 +1,9 @@
 [
   { "query": "朱贤健", "display_query": "吉林越狱逃犯朱贤健被抓" },
-  { "query": "新型变异毒株", "display_query": "世卫将新型变异毒株命名为 Omicron" },
+  {
+    "query": "新型变异毒株",
+    "display_query": "世卫将新型变异毒株命名为 Omicron"
+  },
   { "query": "满洲里疫情", "display_query": "满洲里新增确诊 17 例" },
   { "query": "郑州八胞胎", "display_query": "郑州怀八胞胎女子仅 18 岁" },
   { "query": "国考", "display_query": "2022 国考" },
@@ -26,7 +29,10 @@
   { "query": "休斯敦世乒赛", "display_query": "樊振东王楚钦遭瑞典组合逆转" },
   { "query": "新东方", "display_query": "新东方在美国开设中文课程" },
   { "query": "潼关肉夹馍", "display_query": "潼关肉夹馍协会道歉" },
-  { "query": "北京公共场所标识", "display_query": "北京公共场所标识不能只用外语" },
+  {
+    "query": "北京公共场所标识",
+    "display_query": "北京公共场所标识不能只用外语"
+  },
   { "query": "元宇宙", "display_query": "元宇宙炒房热" },
   { "query": "花亦山心之月", "display_query": "手游《花亦山心之月》" },
   { "query": "王者荣耀", "display_query": "王者荣耀 QQ 服登陆异常" },

@@ -3,11 +3,17 @@
   { "query": "篮网", "display_query": "哈登 4 分篮网 6 连败" },
   { "query": "马丽", "display_query": "马丽成中国首位百亿票房女影人" },
   { "query": "易烊千玺成", "display_query": "易烊千玺成破百亿影人" },
-  { "query": "春晚收视率", "display_query": "春晚电视端直播平均收视率达 21.93%" },
+  {
+    "query": "春晚收视率",
+    "display_query": "春晚电视端直播平均收视率达 21.93%"
+  },
   { "query": "冬奥冰壶", "display_query": "中国冰壶混双惜败瑞典" },
   { "query": "篮网", "display_query": "篮网负太阳遭遇 5 连败" },
   { "query": "叙利亚世界杯", "display_query": "叙利亚解散国家队相关人员" },
-  { "query": "男子靠退货假苹果机骗取636万", "display_query": "男子持续退货假苹果机骗取 636 万" },
+  {
+    "query": "男子靠退货假苹果机骗取636万",
+    "display_query": "男子持续退货假苹果机骗取 636 万"
+  },
   { "query": "勇士", "display_query": "勇士逆转马刺取 7 连胜" },
   { "query": "浙江疫情", "display_query": "浙江新增确诊病例 1 例" },
   { "query": "蔡斌", "display_query": "蔡斌任国家女排主教练" },

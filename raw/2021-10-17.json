@@ -16,7 +16,10 @@
   { "query": "张艺兴新专辑", "display_query": "张艺兴新专辑《东》" },
   { "query": "og", "display_query": "卫冕冠军 OG 出局" },
   { "query": "李代沫", "display_query": "李代沫商演被紧急叫停" },
-  { "query": "整形机构女老板", "display_query": "整形机构殴打顾客女老板被批捕" },
+  {
+    "query": "整形机构女老板",
+    "display_query": "整形机构殴打顾客女老板被批捕"
+  },
   { "query": "破门而入", "display_query": "女子房间遭邻居破门而入" },
   { "query": "兰心大剧院", "display_query": "《兰心大剧院》" },
   { "query": "湖人", "display_query": "湖人季前赛六连败" },

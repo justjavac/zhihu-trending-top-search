@@ -1,7 +1,13 @@
 [
   { "query": "周焯华", "display_query": "周焯华涉嫌开设赌场被批捕" },
-  { "query": "新型变异毒株", "display_query": "世卫将新型变异毒株命名为 Omicron" },
-  { "query": "北京公共场所标识", "display_query": "北京公共场所标识不能只用外语" },
+  {
+    "query": "新型变异毒株",
+    "display_query": "世卫将新型变异毒株命名为 Omicron"
+  },
+  {
+    "query": "北京公共场所标识",
+    "display_query": "北京公共场所标识不能只用外语"
+  },
   { "query": "一人之下4", "display_query": "一人之下 4 更新" },
   { "query": "新东方", "display_query": "新东方在美国开设中文课程" },
   { "query": "王者荣耀", "display_query": "王者荣耀 QQ 服登陆异常" },

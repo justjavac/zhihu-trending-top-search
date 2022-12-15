@@ -8,7 +8,10 @@
   { "query": "中国动画", "display_query": "百部动画将出 4K 版" },
   { "query": "台湾地震", "display_query": "台湾宜兰县 6.3 级地震" },
   { "query": "北京疫情", "display_query": "北京疫情" },
-  { "query": "南京航空航天大学爆燃", "display_query": "南航实验室爆燃 2 死 9 伤" },
+  {
+    "query": "南京航空航天大学爆燃",
+    "display_query": "南航实验室爆燃 2 死 9 伤"
+  },
   { "query": "国考", "display_query": "国考超 202 万人报名" },
   { "query": "北京野生动物园", "display_query": "北京野生动物园游客冲向虎群" },
   { "query": "大隅海峡", "display_query": "中俄海军通过大隅海峡" },
@@ -20,7 +23,10 @@
   { "query": "头孢配酒", "display_query": "头孢配酒危害有多大" },
   { "query": "洪成成", "display_query": "洪成成博士退学" },
   { "query": "大连爆炸", "display_query": "大连一居民楼发生爆炸" },
-  { "query": "家长反映食堂问题被刑拘", "display_query": "家长反映食堂问题被刑拘" },
+  {
+    "query": "家长反映食堂问题被刑拘",
+    "display_query": "家长反映食堂问题被刑拘"
+  },
   { "query": "养老金", "display_query": "养老金个人账户制" },
   { "query": "edg", "display_query": "EDG 队史首次晋级四强" },
   { "query": "湖人", "display_query": "湖人取新赛季首胜" },

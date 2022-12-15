@@ -9,19 +9,40 @@
   { "query": "心理咨询医保", "display_query": "建议心理咨询费纳入医保" },
   { "query": "提高普高录取率", "display_query": "人大代表建议提高普高录取率" },
   { "query": "性教育", "display_query": "建议明确中学性教育课时安排" },
-  { "query": "乡村教师", "display_query": "政协委员建议乡村教师工资大幅高于城市" },
-  { "query": "留守儿童", "display_query": "建议「加强农村留守儿童心理健康教育」" },
+  {
+    "query": "乡村教师",
+    "display_query": "政协委员建议乡村教师工资大幅高于城市"
+  },
+  {
+    "query": "留守儿童",
+    "display_query": "建议「加强农村留守儿童心理健康教育」"
+  },
   { "query": "父母退休落户", "display_query": "代表：退休父母随独生子女落户" },
   { "query": "物种入侵", "display_query": "加强入侵物种生态防控" },
-  { "query": "离婚分财产", "display_query": "建议「离婚分财产对家暴者少分或不分」" },
+  {
+    "query": "离婚分财产",
+    "display_query": "建议「离婚分财产对家暴者少分或不分」"
+  },
   { "query": "虐待动物", "display_query": "建议将虐待动物纳入治安管理处罚法" },
-  { "query": "提高普高录取率", "display_query": "建议提高普高录取率至 80% 以上" },
+  {
+    "query": "提高普高录取率",
+    "display_query": "建议提高普高录取率至 80% 以上"
+  },
   { "query": "娱乐栏目比重", "display_query": "媒体娱乐栏目比重是否过大？" },
   { "query": "父母育儿假", "display_query": "中国将探索实施父母育儿假" },
   { "query": "教师工资免税", "display_query": "代表建议对教师工资免税" },
-  { "query": "提高普高录取率", "display_query": "建议「提高普高录取率至 80% 以上」" },
-  { "query": "禁止宣传高考状元", "display_query": "建议「严禁宣传中高考状元」" },
-  { "query": "老师要求家长改作业", "display_query": "代表建议「禁止在微信群要求家长改作业」" },
+  {
+    "query": "提高普高录取率",
+    "display_query": "建议「提高普高录取率至 80% 以上」"
+  },
+  {
+    "query": "禁止宣传高考状元",
+    "display_query": "建议「严禁宣传中高考状元」"
+  },
+  {
+    "query": "老师要求家长改作业",
+    "display_query": "代表建议「禁止在微信群要求家长改作业」"
+  },
   { "query": "数理化四六级", "display_query": "委员建议设数理化四六级" },
   { "query": "更年期", "display_query": "更年期带薪关爱假" }
 ]

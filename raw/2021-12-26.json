@@ -17,13 +17,19 @@
   { "query": "韦伯望远镜", "display_query": "詹姆斯·韦伯望远镜发射升空" },
   { "query": "残疾应届生", "display_query": "媒体评邮政拒绝残疾应届生入职" },
   { "query": "特斯拉坠河", "display_query": "夫妻驾特斯拉 Y 坠河" },
-  { "query": "美国官员申请签证", "display_query": "美国 18 名官员申请中国签证" },
+  {
+    "query": "美国官员申请签证",
+    "display_query": "美国 18 名官员申请中国签证"
+  },
   { "query": "咒术回战0", "display_query": "咒术回战 0 剧场版" },
   { "query": "紫罗兰永恒花园", "display_query": "紫罗兰永恒花园剧场版" },
   { "query": "昆明疫情", "display_query": "昆明报告 2 例核酸阳性" },
   { "query": "北京疫情防控措施", "display_query": "北京疫情防控措施最新调整" },
   { "query": "羽生结弦", "display_query": "羽生结弦复出赛季首秀" },
-  { "query": "未成年人游戏限玩", "display_query": "元旦假期未成年人游戏限玩 1 小时/日" },
+  {
+    "query": "未成年人游戏限玩",
+    "display_query": "元旦假期未成年人游戏限玩 1 小时/日"
+  },
   { "query": "湖人", "display_query": "哈登三双篮网胜湖人" },
   { "query": "女子被当野猪射击", "display_query": "女子被误当野猪射击埋尸" },
   { "query": "湖人", "display_query": "詹威合砍 66 分湖人 4 连败" },

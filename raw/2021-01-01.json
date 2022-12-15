@@ -1,5 +1,8 @@
 [
-  { "query": "送你一朵小红花", "display_query": "易烊千玺新片《送你一朵小红花》" },
+  {
+    "query": "送你一朵小红花",
+    "display_query": "易烊千玺新片《送你一朵小红花》"
+  },
   { "query": "华为下架腾讯", "display_query": "华为全面下架腾讯游戏" },
   { "query": "玄彬孙艺珍", "display_query": "玄彬孙艺珍被曝已恋爱" },
   { "query": "谢娜怀孕", "display_query": "谢娜怀二胎" },
@@ -12,7 +15,10 @@
   { "query": "美国疫情", "display_query": "美国确诊人数突破 2000 万" },
   { "query": "郭敬明道歉", "display_query": "郭敬明向庄羽道歉" },
   { "query": "于正道歉", "display_query": "于正向琼瑶道歉" },
-  { "query": "2020最后一天文案 ", "display_query": "2020 跨年文案准备好了吗？" },
+  {
+    "query": "2020最后一天文案 ",
+    "display_query": "2020 跨年文案准备好了吗？"
+  },
   { "query": "快手大小周", "display_query": "快手将全员开启大小周" },
   { "query": "辛巴电信诈骗", "display_query": "辛巴直播间网购后数人被骗" },
   { "query": "美团", "display_query": "美团遭遇反垄断诉讼" },

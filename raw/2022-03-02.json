@@ -1,5 +1,8 @@
 [
-  { "query": "俄罗斯乌克兰", "display_query": "乌克兰关闭驻俄罗斯圣彼得堡的总领馆" },
+  {
+    "query": "俄罗斯乌克兰",
+    "display_query": "乌克兰关闭驻俄罗斯圣彼得堡的总领馆"
+  },
   { "query": "个人所得税", "display_query": "个人所得税退税" },
   { "query": "亚速营", "display_query": "如何看待乌克兰新纳粹武装亚速营" },
   { "query": "撤侨", "display_query": "中国开始从乌克兰撤出首批公民" },
@@ -7,22 +10,40 @@
   { "query": "尼泊尔", "display_query": "尼泊尔众议院批准 MCC 协议" },
   { "query": "安-225", "display_query": "中国卫星显示安-225 情况不妙" },
   { "query": "郭文思", "display_query": "郭文思被执行死刑" },
-  { "query": "泽连斯基愿和普京直接对话", "display_query": "泽连斯基愿和普京直接对话" },
+  {
+    "query": "泽连斯基愿和普京直接对话",
+    "display_query": "泽连斯基愿和普京直接对话"
+  },
   { "query": "rng", "display_query": "RNG 2:0 击败 WBG" },
   { "query": "广东疫情", "display_query": "广东新增本土确诊 31例" },
-  { "query": "临床营养学", "display_query": "人大代表建议临床营养学设为必修课" },
+  {
+    "query": "临床营养学",
+    "display_query": "人大代表建议临床营养学设为必修课"
+  },
   { "query": "春招开始", "display_query": "2022 年春招已开始" },
   { "query": "铁笼女", "display_query": "警方通报陕西佳县「铁笼女」" },
-  { "query": "美国对俄罗斯关闭领空", "display_query": "美国正式宣布对俄罗斯关闭领空" },
+  {
+    "query": "美国对俄罗斯关闭领空",
+    "display_query": "美国正式宣布对俄罗斯关闭领空"
+  },
   { "query": "羽生结弦", "display_query": "羽生结弦因伤退出花滑世锦赛" },
   { "query": "柬埔寨血奴", "display_query": "柬埔寨认定「血奴」案纯属编造" },
   { "query": "俄乌谈判", "display_query": "第二轮俄乌会谈在白波边境举行" },
   { "query": "认知战", "display_query": "认知战已在中国网络空间打响" },
-  { "query": "俄罗斯乌克兰", "display_query": "俄军将继续在乌开展特别军事行动" },
+  {
+    "query": "俄罗斯乌克兰",
+    "display_query": "俄军将继续在乌开展特别军事行动"
+  },
   { "query": "俄罗斯足球", "display_query": "俄罗斯被禁止参加足球赛事" },
-  { "query": "西南大学美术学院教师", "display_query": "西南大学美术学院一教师涉嫌猥亵" },
+  {
+    "query": "西南大学美术学院教师",
+    "display_query": "西南大学美术学院一教师涉嫌猥亵"
+  },
   { "query": "武汉大学辅导员", "display_query": "武汉大学辅导员性骚扰女生" },
-  { "query": "俄罗斯乌克兰", "display_query": "俄罗斯战略威慑力量转入特殊战备状态" },
+  {
+    "query": "俄罗斯乌克兰",
+    "display_query": "俄罗斯战略威慑力量转入特殊战备状态"
+  },
   { "query": "中国移动没信号", "display_query": "中国移动出现短暂的无信号" },
   { "query": "安225", "display_query": "最大运输机安 225 被战火摧毁" },
   { "query": "我国 GDP", "display_query": "2021 年我国 GDP 比上年增长 8.1%" },

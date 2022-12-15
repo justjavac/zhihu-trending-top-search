@@ -25,7 +25,10 @@
   { "query": "马斯克", "display_query": "马斯克面临百亿天价税单" },
   { "query": "剧本杀", "display_query": "剧本杀抄袭《火凤燎原》" },
   { "query": "英雄联盟双城之战", "display_query": "英雄联盟动画水平" },
-  { "query": "郑州疫情", "display_query": "郑州通报 12 例感染者轨迹 9 名为儿童" },
+  {
+    "query": "郑州疫情",
+    "display_query": "郑州通报 12 例感染者轨迹 9 名为儿童"
+  },
   { "query": "微信 追星投诉", "display_query": "微信新增「无底线追星」投诉" },
   { "query": "马斯克", "display_query": "马斯克发投票是否出售特斯拉股票" },
   { "query": "英雄联盟双城之战", "display_query": "英雄联盟动画开播" },

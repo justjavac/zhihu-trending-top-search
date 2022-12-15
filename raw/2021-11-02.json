@@ -25,12 +25,18 @@
   { "query": "间谍过家家", "display_query": "《间谍过家家》动画化" },
   { "query": "无职转生", "display_query": "无职转生 Part.2 更新 " },
   { "query": "北京疫情", "display_query": "北京新增 1 人核酸阳性" },
-  { "query": "新冠病毒溯源报告", "display_query": "外交部批美国让情报部门搞溯源" },
+  {
+    "query": "新冠病毒溯源报告",
+    "display_query": "外交部批美国让情报部门搞溯源"
+  },
   { "query": "上海迪士尼", "display_query": "上海迪士尼暂停开放" },
   { "query": "高铁霸座", "display_query": "高铁霸座将属违法行为" },
   { "query": "游戏点卡", "display_query": "游戏点卡卖 250 亿" },
   { "query": "新病毒", "display_query": "或出现无法控制的新病毒" },
-  { "query": "年薪60万招教师", "display_query": "鄂尔多斯回应年薪 60 万招教师" },
+  {
+    "query": "年薪60万招教师",
+    "display_query": "鄂尔多斯回应年薪 60 万招教师"
+  },
   { "query": "王者荣耀世界", "display_query": "王者荣耀开放世界新游" },
   { "query": "马斯克", "display_query": "马斯克回应联合国呼吁捐款" },
   { "query": "斗破苍穹特别篇3", "display_query": "斗破苍穹三年之约" },

@@ -16,7 +16,10 @@
   { "query": "贝壳创始人去世", "display_query": "贝壳创始人左晖去世" },
   { "query": "袁隆平", "display_query": "袁隆平去世" },
   { "query": "袁隆平", "display_query": "袁隆平去世假消息" },
-  { "query": "画江湖之不良人第四季", "display_query": "《画江湖之不良人》第四季第 5 集" },
+  {
+    "query": "画江湖之不良人第四季",
+    "display_query": "《画江湖之不良人》第四季第 5 集"
+  },
   { "query": "币圈崩盘", "display_query": "虚拟货币全线暴跌" },
   { "query": "窥探", "display_query": "窥探大结局" },
   { "query": "剑风传奇", "display_query": "剑风传奇作者三浦逝世" },

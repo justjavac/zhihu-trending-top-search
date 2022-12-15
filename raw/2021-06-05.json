@@ -2,7 +2,10 @@
   { "query": "韦东奕", "display_query": "韦东奕" },
   { "query": "摩尔庄园", "display_query": "《摩尔庄园》新活动" },
   { "query": "科学松鼠会", "display_query": "科学松鼠会致歉" },
-  { "query": "科兴疫苗", "display_query": "科兴疫苗紧急使用年龄扩大到 3 岁以上" },
+  {
+    "query": "科兴疫苗",
+    "display_query": "科兴疫苗紧急使用年龄扩大到 3 岁以上"
+  },
   { "query": "兰新铁路", "display_query": "兰新铁路一列车撞上工人致 9 死" },
   { "query": "海贼王", "display_query": "《海贼王》1015 话" },
   { "query": "芒种", "display_query": "今日「芒种」" },

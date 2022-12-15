@@ -13,7 +13,10 @@
   { "query": "芝加哥枪击", "display_query": "芝加哥枪击案致 3 死 4 伤" },
   { "query": "东京奥运会", "display_query": "东京奥运会可能再度推迟" },
   { "query": "国考面试", "display_query": "2021 国考面试" },
-  { "query": "华盛顿紧急状态", "display_query": "特朗普批准华盛顿进入紧急状态" },
+  {
+    "query": "华盛顿紧急状态",
+    "display_query": "特朗普批准华盛顿进入紧急状态"
+  },
   { "query": "百度造车", "display_query": "百度与吉利合作造车" },
   { "query": "进击的巨人漫画", "display_query": "进击的巨人更新" },
   { "query": "百大up主", "display_query": "B 站百大 UP 主名单公布" },

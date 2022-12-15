@@ -2,8 +2,14 @@
   { "query": "张国荣", "display_query": "张国荣这么多年依然被铭记" },
   { "query": "正大包子", "display_query": "酸菜馅正大包子吃出抹布" },
   { "query": "上海全域静态管理", "display_query": "上海全域静态管理" },
-  { "query": "画江湖之不良人", "display_query": "《画江湖之不良人》第五季更新" },
-  { "query": "致全市人民的一封信", "display_query": "上海《致全市人民的一封信》" },
+  {
+    "query": "画江湖之不良人",
+    "display_query": "《画江湖之不良人》第五季更新"
+  },
+  {
+    "query": "致全市人民的一封信",
+    "display_query": "上海《致全市人民的一封信》"
+  },
   { "query": "房企停牌", "display_query": "10 家房企停牌延迟发年报" },
   { "query": "高铁列车长确诊", "display_query": "一高铁列车长确诊" },
   { "query": "超时加班", "display_query": "北京两家公司因超时加班被罚" },
@@ -18,15 +24,27 @@
   { "query": "豆瓣微博", "display_query": "豆瓣起诉微博不正当竞争" },
   { "query": "四月新规", "display_query": "4 月起规定共享单车须实名认证" },
   { "query": "亚速营指挥官", "display_query": "亚速营指挥官称战斗到最后" },
-  { "query": "东航飞行事故遇难家属", "display_query": "东航事故遇难家属获得赔偿" },
+  {
+    "query": "东航飞行事故遇难家属",
+    "display_query": "东航事故遇难家属获得赔偿"
+  },
   { "query": "北京通州一市场", "display_query": "北京通州一市场摊位检出阳性" },
   { "query": "新疆疫情", "display_query": "新疆和硕县新增 20 例无症状" },
   { "query": "中方宣布对美对等反制", "display_query": "中方宣布对美对等反制" },
   { "query": "换机", "display_query": "消费者的换机周期已延长" },
   { "query": "互联网收入", "display_query": "互联网收入增速下跌" },
-  { "query": "扑杀新冠患者户内动物", "display_query": "廊坊一区将扑杀新冠患者的动物" },
-  { "query": "高中生摘口罩遭公交司机辱骂", "display_query": "高中生摘口罩遭公交司机辱骂" },
-  { "query": "肯德基不满盗图商家", "display_query": "肯德基为盗图商家提供免费素材" },
+  {
+    "query": "扑杀新冠患者户内动物",
+    "display_query": "廊坊一区将扑杀新冠患者的动物"
+  },
+  {
+    "query": "高中生摘口罩遭公交司机辱骂",
+    "display_query": "高中生摘口罩遭公交司机辱骂"
+  },
+  {
+    "query": "肯德基不满盗图商家",
+    "display_query": "肯德基为盗图商家提供免费素材"
+  },
   { "query": "裸背拍照道歉", "display_query": "杭州小区裸背拍照网红道歉" },
   { "query": "太空出差", "display_query": "太空出差三人组开始收拾" },
   { "query": "上海疫情谣言", "display_query": "上海本轮疫情中谣言频现" },

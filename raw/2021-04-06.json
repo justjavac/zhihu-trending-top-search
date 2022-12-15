@@ -19,7 +19,10 @@
   { "query": "西游记之再世妖王", "display_query": "西游记之再世妖王" },
   { "query": "学术造假", "display_query": "南京艺术学院毕业生学术造假" },
   { "query": "人体经络", "display_query": "研究发现人体经络存在的证据" },
-  { "query": "朋友去世微信要删除吗", "display_query": "朋友去世了，微信要删除吗？" },
+  {
+    "query": "朋友去世微信要删除吗",
+    "display_query": "朋友去世了，微信要删除吗？"
+  },
   { "query": "殴打同事致死", "display_query": "男子殴打同事致死后转移财产" },
   { "query": "LG", "display_query": "LG 宣布退出智能手机业务" },
   { "query": "快船", "display_query": "快船轻取湖人" },

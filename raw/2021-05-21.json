@@ -9,7 +9,10 @@
   { "query": "云南地震", "display_query": "云南大理漾濞 6.4 级地震" },
   { "query": "以色列哈马斯", "display_query": "哈马斯与以色列宣布停火" },
   { "query": "白玉兰奖", "display_query": "第 27 届白玉兰奖入围名单" },
-  { "query": "画江湖之不良人第四季", "display_query": "《画江湖之不良人》第四季第 5 集" },
+  {
+    "query": "画江湖之不良人第四季",
+    "display_query": "《画江湖之不良人》第四季第 5 集"
+  },
   { "query": "石原里美", "display_query": "日媒曝石原里美或退圈从政" },
   { "query": "新垣结衣结婚", "display_query": "新垣结衣和星野源结婚" },
   { "query": "王彦霖", "display_query": "王彦霖结婚" },

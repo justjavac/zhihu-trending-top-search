@@ -1,6 +1,9 @@
 [
   { "query": "996", "display_query": "建议对 996 工作制进行监管" },
-  { "query": "香港选举制度", "display_query": "完善香港选举制度的决定高票通过" },
+  {
+    "query": "香港选举制度",
+    "display_query": "完善香港选举制度的决定高票通过"
+  },
   { "query": "义务教育", "display_query": "人大代表：9 年义务教育延至 12 年" },
   { "query": "小鲜肉", "display_query": "建议警惕影视作品追捧小鲜肉" },
   { "query": "校园欺凌", "display_query": "政协委员：严惩欺凌他人的青少年" },
@@ -12,8 +15,14 @@
   { "query": "流量明星", "display_query": "建议整顿无底线追星" },
   { "query": "婚前体检", "display_query": "人大代表建议推行「免费婚检」" },
   { "query": "小鲜肉", "display_query": "政协委员：警惕影视作品追捧小鲜肉" },
-  { "query": "校园欺凌", "display_query": "政协委员：严惩恶意欺凌他人的青少年" },
-  { "query": "外卖小哥", "display_query": "建议强制平台为「外卖小哥买意外险」" },
+  {
+    "query": "校园欺凌",
+    "display_query": "政协委员：严惩恶意欺凌他人的青少年"
+  },
+  {
+    "query": "外卖小哥",
+    "display_query": "建议强制平台为「外卖小哥买意外险」"
+  },
   { "query": "网络诽谤", "display_query": "建议「网络诽谤」要立法明确责任" },
   { "query": "乡村教师", "display_query": "建议乡村教师工资大幅高于城市" },
   { "query": "留守儿童", "display_query": "建议加强留守儿童心理健康教育" },

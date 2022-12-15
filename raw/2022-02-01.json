@@ -27,11 +27,17 @@
   { "query": "春晚8k直播", "display_query": "虎年春晚首次采用 8K 直播" },
   { "query": "火龙果弱阳性", "display_query": "天津发现一批火龙果弱阳性" },
   { "query": "三星堆", "display_query": "c上春晚" },
-  { "query": "上海地铁二维码", "display_query": "上海地铁回应乘车二维码「变红」" },
+  {
+    "query": "上海地铁二维码",
+    "display_query": "上海地铁回应乘车二维码「变红」"
+  },
   { "query": "勇士", "display_query": "库里 19 分勇士胜篮网" },
   { "query": "春晚40年", "display_query": "春晚 40 年" },
   { "query": "安以轩老公", "display_query": "安以轩老公被捕" },
-  { "query": "碳酸饮料", "display_query": "20 岁女生爱磨牙喝碳酸饮料致门牙磨平" },
+  {
+    "query": "碳酸饮料",
+    "display_query": "20 岁女生爱磨牙喝碳酸饮料致门牙磨平"
+  },
   { "query": "Epic", "display_query": "Epic 春节特卖推荐" },
   { "query": "北京冬奥村", "display_query": "北京冬奥村按摩床获美国选手狂赞" },
   { "query": "冬奥会旗手", "display_query": "冬奥中国代表团旗手确定" },

@@ -12,7 +12,10 @@
   { "query": "俄乌冲突原因", "display_query": "俄乌冲突原因" },
   { "query": "海底捞", "display_query": "海底捞给顾客体貌特征打标签" },
   { "query": "xbox", "display_query": "Xbox 向国内建新团队" },
-  { "query": "上海中医药大学", "display_query": "上海中医药大学教授被曝与学生存在不正当关系" },
+  {
+    "query": "上海中医药大学",
+    "display_query": "上海中医药大学教授被曝与学生存在不正当关系"
+  },
   { "query": "美俄", "display_query": "拜登称「美俄关系已经完全破裂」" },
   { "query": "乌克兰总统", "display_query": "乌克兰总统敦促建立反普京联盟" },
   { "query": "wbg", "display_query": "WBG 2:1 LNG" },

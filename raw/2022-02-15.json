@@ -19,7 +19,10 @@
   { "query": "武大靖", "display_query": "武大靖无缘卫冕" },
   { "query": "江苏疫情", "display_query": "江苏新增 8 例本土确诊" },
   { "query": "宁德时代", "display_query": "宁德时代否认与特斯拉谈崩" },
-  { "query": "易烊千玺", "display_query": "易烊千玺领衔主演电影票房全部超 10 亿" },
+  {
+    "query": "易烊千玺",
+    "display_query": "易烊千玺领衔主演电影票房全部超 10 亿"
+  },
   { "query": "世茂集团", "display_query": "世茂集团挂牌 22.5 亿出售深坑酒店" },
   { "query": "加拿大鹅", "display_query": "加拿大鹅中国大陆市场业务大增" },
   { "query": "三国杀", "display_query": "三国杀 Steam 下架" },

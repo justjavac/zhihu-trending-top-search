@@ -15,7 +15,10 @@
   { "query": "小小梦魇2", "display_query": "游戏《小小梦魇2》" },
   { "query": "发财日记", "display_query": "电影《发财日记》" },
   { "query": "人潮汹涌排片", "display_query": "人潮汹涌排片" },
-  { "query": "茅野爱衣疑似参拜靖国神社", "display_query": "茅野爱衣疑似参拜靖国神社" },
+  {
+    "query": "茅野爱衣疑似参拜靖国神社",
+    "display_query": "茅野爱衣疑似参拜靖国神社"
+  },
   { "query": "唐宫夜宴", "display_query": "唐宫夜宴" },
   { "query": "《你好，李焕英》", "display_query": "《你好，李焕英》票房大卖" }
 ]

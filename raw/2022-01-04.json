@@ -8,13 +8,22 @@
   { "query": "鬼灭之刃", "display_query": "鬼灭之刃第二季更新" },
   { "query": "2020年出生率", "display_query": "多省 2020 年出生率出炉" },
   { "query": "明日方舟", "display_query": "明日方舟运营发声明" },
-  { "query": "五核武器国家发表联合声明", "display_query": "中法俄英美联合声明「核战争打不得」" },
+  {
+    "query": "五核武器国家发表联合声明",
+    "display_query": "中法俄英美联合声明「核战争打不得」"
+  },
   { "query": "孤泳者", "display_query": "孤泳者" },
   { "query": "西安一码通", "display_query": "「西安一码通」疑再次崩溃" },
-  { "query": "云佛山滑雪场", "display_query": "男子教女友滑雪被要求证明情侣关系" },
+  {
+    "query": "云佛山滑雪场",
+    "display_query": "男子教女友滑雪被要求证明情侣关系"
+  },
   { "query": "原神", "display_query": "原神申鹤新角色演示" },
   { "query": "快手裁员", "display_query": "快手再传裁员" },
-  { "query": "西安男子求隔离", "display_query": "西安男子求隔离未果致全家确诊" },
+  {
+    "query": "西安男子求隔离",
+    "display_query": "西安男子求隔离未果致全家确诊"
+  },
   { "query": "中日双边自贸关系", "display_query": "中日首次建立双边自贸关系" },
   { "query": "梅西 新冠", "display_query": "梅西等 4 名球员感染新冠" },
   { "query": "四川江油车祸", "display_query": "四川江油严重车祸致 8 死 19 伤" },

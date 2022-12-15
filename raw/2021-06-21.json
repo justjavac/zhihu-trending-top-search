@@ -6,7 +6,10 @@
   { "query": "白夜极光", "display_query": "腾讯新游白夜极光" },
   { "query": "苹果", "display_query": "iPhone 将采用可回收材料生产" },
   { "query": "德国队", "display_query": "德国 4:2 击败葡萄牙" },
-  { "query": "最强大脑导演王运庆", "display_query": "《最强大脑》导演王运庆离世" },
+  {
+    "query": "最强大脑导演王运庆",
+    "display_query": "《最强大脑》导演王运庆离世"
+  },
   { "query": "薇薇 -萤石眼之歌-", "display_query": "动画萤石眼之歌完结" },
   { "query": "百度员工被劝退", "display_query": "百度试用期员工被劝退" },
   { "query": "上海电影节", "display_query": "上海电影节" },

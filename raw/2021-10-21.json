@@ -17,7 +17,10 @@
   { "query": "邢台疫情", "display_query": "邢台新增 2 例无症状感染者" },
   { "query": "逆水寒", "display_query": "逆水寒上架 Mac" },
   { "query": "冯磊", "display_query": "25 岁博导冯磊" },
-  { "query": "哈利波特魔法觉醒", "display_query": "哈利波特手游「乌姆里奇」服装" },
+  {
+    "query": "哈利波特魔法觉醒",
+    "display_query": "哈利波特手游「乌姆里奇」服装"
+  },
   { "query": "双十一 预售", "display_query": "双十一 20 点开始预售" },
   { "query": "小红书", "display_query": "小红书种草笔记 4 元一篇" },
   { "query": "库里", "display_query": "库里三双送湖人 7 连败" },

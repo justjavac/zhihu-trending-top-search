@@ -15,6 +15,9 @@
   { "query": "昆明劫持", "display_query": "昆明发生劫持人质案件" },
   { "query": "浪姐2", "display_query": "《乘风破浪的姐姐》第二季" },
   { "query": "制裁蓬佩奥", "display_query": "中方对蓬佩奥等人实施制裁" },
-  { "query": "华晨宇张碧晨", "display_query": "华晨宇「是的，我们有一个孩子」" },
+  {
+    "query": "华晨宇张碧晨",
+    "display_query": "华晨宇「是的，我们有一个孩子」"
+  },
   { "query": "广电封杀郑爽", "display_query": "《广电时评》发文" }
 ]

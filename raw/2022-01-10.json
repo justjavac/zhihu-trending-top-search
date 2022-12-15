@@ -15,7 +15,10 @@
   { "query": "爱尔眼科", "display_query": "爆料称爱尔眼科存在行贿现象" },
   { "query": "西安盒马", "display_query": "西安盒马被监管局立案查处" },
   { "query": "虎年生肖邮票", "display_query": "网友吐槽虎年生肖邮票没有虎威" },
-  { "query": "湖南衡阳医养中心火灾", "display_query": "湖南衡阳一医养中心发生火灾" },
+  {
+    "query": "湖南衡阳医养中心火灾",
+    "display_query": "湖南衡阳一医养中心发生火灾"
+  },
   { "query": "河南疫情", "display_query": "河南新增 60 例本土确诊" },
   { "query": "鬼灭之刃", "display_query": "鬼灭之刃第二季更新" },
   { "query": "天津疫情", "display_query": "天津新增 21 例本土确诊" },
@@ -24,7 +27,10 @@
   { "query": "篮网", "display_query": "篮网加时胜马刺" },
   { "query": "汤普森复出", "display_query": "汤普森复出" },
   { "query": "凡人修仙传", "display_query": "凡人修仙传年番更新  " },
-  { "query": "全球新冠肺炎累计确诊病例", "display_query": "全球新冠肺炎累计确诊病例已突破 3 亿例" },
+  {
+    "query": "全球新冠肺炎累计确诊病例",
+    "display_query": "全球新冠肺炎累计确诊病例已突破 3 亿例"
+  },
   { "query": "教师资格证面试", "display_query": "教师资格证面试" },
   { "query": "天津疫情", "display_query": "天津 2 例本土确诊系奥密克戎" },
   { "query": "篮网", "display_query": "杜兰特 29 分篮网负雄鹿" },

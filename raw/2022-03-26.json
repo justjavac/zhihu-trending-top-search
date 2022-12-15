@@ -7,14 +7,26 @@
   { "query": "长沙新冠", "display_query": "长沙发现 2 例新冠肺炎确诊病例#" },
   { "query": "不能封城原因", "display_query": "专家详解上海不能封城原因" },
   { "query": "四川航空", "display_query": "川航 3U3839 出现机械故障返航" },
-  { "query": "特朗普对希拉里提起诉讼", "display_query": "特朗普对希拉里提起诉讼" },
-  { "query": "外交部敦促美方", "display_query": "外交部敦促美方作出令人信服的交代" },
+  {
+    "query": "特朗普对希拉里提起诉讼",
+    "display_query": "特朗普对希拉里提起诉讼"
+  },
+  {
+    "query": "外交部敦促美方",
+    "display_query": "外交部敦促美方作出令人信服的交代"
+  },
   { "query": "MU5735 黑匣子", "display_query": "黑匣子的分析工作正在进行" },
   { "query": "王毅访问阿富汗", "display_query": "王毅访问阿富汗" },
   { "query": "医院回应", "display_query": "医院回应护士哮喘离世事件" },
-  { "query": "美方涉乌生物实验室", "display_query": "外交部敦促美方尽快作出交代" },
+  {
+    "query": "美方涉乌生物实验室",
+    "display_query": "外交部敦促美方尽快作出交代"
+  },
   { "query": "新加坡航班", "display_query": "新加坡一航班因引擎震动折返伦敦" },
-  { "query": "英国对俄罗斯进一步制裁", "display_query": "英国对俄罗斯进一步制裁" },
+  {
+    "query": "英国对俄罗斯进一步制裁",
+    "display_query": "英国对俄罗斯进一步制裁"
+  },
   { "query": "国王排名", "display_query": "《国王排名》最终话" },
   { "query": "黑匣子", "display_query": "新发现的橙色碎片不是黑匣子" },
   { "query": "苹果硬件订阅", "display_query": "苹果计划推出硬件订阅服务" },
@@ -24,17 +36,26 @@
   { "query": "暂停发售车票", "display_query": "中国铁路暂停发售列车车票" },
   { "query": "护士举报老公出轨", "display_query": "护士举报老公出轨医药代表" },
   { "query": "董路", "display_query": "董路对国足于大宝散步的看法" },
-  { "query": "确定坠机事故主要撞击点", "display_query": "东航飞行事故确定主要撞击点" },
+  {
+    "query": "确定坠机事故主要撞击点",
+    "display_query": "东航飞行事故确定主要撞击点"
+  },
   { "query": "青海地震", "display_query": "青海发生 6.0 级地震" },
   { "query": "uzi", "display_query": "Uzi 转入休养状态" },
   { "query": "发现飞机残骸", "display_query": "搜救现场发现飞机引擎重要残骸" },
   { "query": "逆水寒", "display_query": "公司出纳挪用公款玩逆水寒" },
   { "query": "曲婉婷", "display_query": "曲婉婷母亲二审维持原判" },
-  { "query": "泸州食物中毒事件", "display_query": "四川泸州食物中毒事件已致 4 死" },
+  {
+    "query": "泸州食物中毒事件",
+    "display_query": "四川泸州食物中毒事件已致 4 死"
+  },
   { "query": "腾讯游戏", "display_query": "腾讯游戏未成年占比骤降" },
   { "query": "一人之下", "display_query": "一人之下 606 话" },
   { "query": "勇士", "display_query": "克莱 37 分勇士负老鹰" },
   { "query": "显卡降价", "display_query": "高端显卡降价血崩" },
   { "query": "湖人", "display_query": "詹姆斯缺阵湖人负 76 人" },
-  { "query": "画江湖之不良人", "display_query": "画江湖之不良人第 5 季第 11 集" }
+  {
+    "query": "画江湖之不良人",
+    "display_query": "画江湖之不良人第 5 季第 11 集"
+  }
 ]

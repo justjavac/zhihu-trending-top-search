@@ -9,7 +9,10 @@
   { "query": "科兴疫苗", "display_query": "科兴疫苗总保护效力 50.4％" },
   { "query": "比亚迪", "display_query": "比亚迪超级混动 DM-i" },
   { "query": "李宁院士", "display_query": "中国工程院撤销李宁院士称号" },
-  { "query": "我在拼多多的三年", "display_query": "网友发文「我在拼多多的三年」" },
+  {
+    "query": "我在拼多多的三年",
+    "display_query": "网友发文「我在拼多多的三年」"
+  },
   { "query": "丁真抽烟", "display_query": "丁真被曝抽烟人设崩塌" },
   { "query": "李子柒泡菜", "display_query": "李子柒做泡菜遭韩网友围攻" },
   { "query": "iqoo7", "display_query": "iQOO 7 系列手机发布" },

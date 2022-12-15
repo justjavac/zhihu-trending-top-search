@@ -3,7 +3,10 @@
   { "query": "汉服", "display_query": "建议拟定中国汉服日" },
   { "query": "新冠疫苗", "display_query": "60 岁以上老人接种新冠疫苗" },
   { "query": "红米", "display_query": "红米 K40 开售秒没" },
-  { "query": "应届生身份", "display_query": "建议应届生身份保留年限延长至 5 年" },
+  {
+    "query": "应届生身份",
+    "display_query": "建议应届生身份保留年限延长至 5 年"
+  },
   { "query": "留学生", "display_query": "建议提高来华留学生招生标准" },
   { "query": "奇葩说", "display_query": "《奇葩说》第七季总决赛" },
   { "query": "致阿里", "display_query": "阿里员工发文《致阿里》" },

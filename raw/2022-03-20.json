@@ -3,17 +3,32 @@
   { "query": "凡人修仙传", "display_query": "《凡人修仙传》动画更新" },
   { "query": "樊振东", "display_query": "樊振东马龙会师男单决赛" },
   { "query": "白晓卉", "display_query": "山东抗疫女医生白晓卉去世" },
-  { "query": "百色零号病人", "display_query": "广西百色「零号病人」被采取刑事强制措施" },
-  { "query": "阿兰德龙安乐死", "display_query": "阿兰·德龙决定在瑞士实施安乐死" },
+  {
+    "query": "百色零号病人",
+    "display_query": "广西百色「零号病人」被采取刑事强制措施"
+  },
+  {
+    "query": "阿兰德龙安乐死",
+    "display_query": "阿兰·德龙决定在瑞士实施安乐死"
+  },
   { "query": "唐山进入应急状态", "display_query": "唐山全市全面进入应急状态" },
   { "query": "dota2", "display_query": "高校杯 dota2 比赛" },
-  { "query": "2021年结婚登记人数", "display_query": "2021 年结婚登记人数创 36 年新低" },
+  {
+    "query": "2021年结婚登记人数",
+    "display_query": "2021 年结婚登记人数创 36 年新低"
+  },
   { "query": "白象销售额", "display_query": "白象 7 天销售额破千万" },
   { "query": "中美元首会晤", "display_query": "中美元首视频会晤" },
   { "query": "国王排名", "display_query": "《国王排名》更新" },
-  { "query": "不得以核酸为由拒诊", "display_query": "焦雅辉「不得以核酸为由拒诊」" },
+  {
+    "query": "不得以核酸为由拒诊",
+    "display_query": "焦雅辉「不得以核酸为由拒诊」"
+  },
   { "query": "新加坡大满贯赛", "display_query": "新加坡 WTT 大满贯赛" },
-  { "query": "主播拼多多砍价", "display_query": "主播回应「拼多多六万人砍价」" },
+  {
+    "query": "主播拼多多砍价",
+    "display_query": "主播回应「拼多多六万人砍价」"
+  },
   { "query": "泉州疫情", "display_query": "泉州急需物资捐赠" },
   { "query": "疫情文学", "display_query": "文学大师们会如何描述疫情" },
   { "query": "俄外派特种专机", "display_query": "俄罗斯进行末日航班演练" },
@@ -21,7 +36,10 @@
   { "query": "原神", "display_query": "原神 2.6 版本前瞻直播 " },
   { "query": "爱乐之都", "display_query": "爱乐之都为什么好看" },
   { "query": "北京下雪", "display_query": "北京 3 月飞雪" },
-  { "query": "国家电影局发文", "display_query": "中高风险地区电影院一律暂不开放" },
+  {
+    "query": "国家电影局发文",
+    "display_query": "中高风险地区电影院一律暂不开放"
+  },
   { "query": "苹果手机 板砖", "display_query": "俄罗斯苹果手机一夜变板砖" },
   { "query": "霍格沃兹遗产", "display_query": "霍格沃兹遗产实机演示" },
   { "query": "华为P50E", "display_query": "华为 P50 E 手机发布" },
@@ -30,7 +48,10 @@
   { "query": "一人之下", "display_query": "一人之下 605 话" },
   { "query": "詹姆斯总得分", "display_query": "詹姆斯升至历史得分榜第 2" },
   { "query": "新蝙蝠侠", "display_query": "《新蝙蝠侠》上映" },
-  { "query": "上海发布回应癌症患者求助", "display_query": "上海发布回应肿瘤医院附近癌症患者求助" },
+  {
+    "query": "上海发布回应癌症患者求助",
+    "display_query": "上海发布回应肿瘤医院附近癌症患者求助"
+  },
   { "query": "红米K40S", "display_query": "Redmi K40S 发布" },
   { "query": "白象", "display_query": "白象方便面员工很多是残疾人" },
   { "query": "95 号汽油", "display_query": "95 号汽油步入 9 元时代" },

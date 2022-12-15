@@ -3,7 +3,10 @@
   { "query": "微信 云储存", "display_query": "微信聊天记录付费云存储" },
   { "query": "lng", "display_query": "LNG 最终晋级世界赛" },
   { "query": "人生重开模拟器", "display_query": "人生重开模拟器" },
-  { "query": "博士捐出全部存款", "display_query": "25 岁博士设遗嘱捐出全部存款" },
+  {
+    "query": "博士捐出全部存款",
+    "display_query": "25 岁博士设遗嘱捐出全部存款"
+  },
   { "query": "五一劳动勋章", "display_query": "苏炳添等获五一劳动勋章" },
   { "query": "东京残奥会", "display_query": "残奥会 96 金收官" },
   { "query": "余生请多指教", "display_query": "余生请多指教撤档" },

@@ -1,5 +1,8 @@
 [
-  { "query": "华晨宇张碧晨", "display_query": "华晨宇「是的，我们有一个孩子」" },
+  {
+    "query": "华晨宇张碧晨",
+    "display_query": "华晨宇「是的，我们有一个孩子」"
+  },
   { "query": "墨茶", "display_query": "会理县回应墨茶去世 " },
   { "query": "西藏冒险王", "display_query": "西藏冒险王视频声音曝光" },
   { "query": "墨茶", "display_query": "主播墨茶 Official 因病去世" },

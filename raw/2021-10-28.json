@@ -31,7 +31,10 @@
   { "query": "蔡英文", "display_query": "蔡英文称有美军在台湾" },
   { "query": "河南金矿", "display_query": "河南发现特大金矿" },
   { "query": "拜登", "display_query": "拜登支持率大幅下降" },
-  { "query": "MacBook Pro 刘海屏", "display_query": "苹果回应新 MacBookPro 刘海屏" },
+  {
+    "query": "MacBook Pro 刘海屏",
+    "display_query": "苹果回应新 MacBookPro 刘海屏"
+  },
   { "query": "AirPods 3", "display_query": "AirPods 3 上手体验" },
   { "query": "喵糖", "display_query": "「喵糖总动员」玩法攻略" },
   { "query": "菜价", "display_query": "多地菜价呈上涨趋势" },

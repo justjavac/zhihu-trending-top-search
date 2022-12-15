@@ -14,7 +14,10 @@
   { "query": "科兴疫苗", "display_query": "澳大利亚承认科兴疫苗" },
   { "query": "BBC", "display_query": "BBC 前高层自称入职华为" },
   { "query": "中国女篮", "display_query": "中国女篮进亚洲杯决赛" },
-  { "query": "皮皮鲁与鲁西西之罐头小人", "display_query": "皮皮鲁与鲁西西大电影" },
+  {
+    "query": "皮皮鲁与鲁西西之罐头小人",
+    "display_query": "皮皮鲁与鲁西西大电影"
+  },
   { "query": "一人之下", "display_query": "《一人之下》更新" },
   { "query": "长津湖票房", "display_query": "《长津湖》票房破 10 亿" },
   { "query": "雷军", "display_query": "浙江卫视错把雷军当成周鸿祎" },

@@ -14,23 +14,35 @@
   { "query": "奥巴马", "display_query": "奥巴马新冠检测呈阳性" },
   { "query": "A股", "display_query": "A 股盘中跌破 3100 点" },
   { "query": "湖人", "display_query": "詹姆斯 30+9 湖人负猛龙" },
-  { "query": "武汉疫情", "display_query": "武汉疫情疑似与美国进口冰鲜龙虾相关" },
+  {
+    "query": "武汉疫情",
+    "display_query": "武汉疫情疑似与美国进口冰鲜龙虾相关"
+  },
   { "query": "热饮超期换标签", "display_query": "7-11 被曝热饮超期换标签" },
   { "query": "深圳全市公交地铁停运", "display_query": "深圳全市公交地铁停运" },
   { "query": "上海火灾", "display_query": "上海火灾" },
   { "query": "布雷迪", "display_query": "布雷迪宣布复出" },
   { "query": "德尔塔克戎", "display_query": "德尔塔克戎变体已开始传播" },
-  { "query": "上海六院", "display_query": "上海六院因疫情暂停临港院区相关医疗服务" },
+  {
+    "query": "上海六院",
+    "display_query": "上海六院因疫情暂停临港院区相关医疗服务"
+  },
   { "query": "吉林全省管控", "display_query": "吉林禁止本省人员跨地流动" },
   { "query": "武汉疫情", "display_query": "武汉疫情疑似与美国进口物相关" },
   { "query": "北京医保", "display_query": "北京调整医保个人账户计入办法" },
-  { "query": "广东省公安厅副厅长被免职", "display_query": "广东省公安厅副厅长被免职" },
+  {
+    "query": "广东省公安厅副厅长被免职",
+    "display_query": "广东省公安厅副厅长被免职"
+  },
   { "query": "俄罗斯的狗", "display_query": "俄罗斯的狗将被制裁" },
   { "query": "勇士", "display_query": "库里 47 分勇士 4 连胜" },
   { "query": "新冠抗原试剂", "display_query": "新冠抗原试剂开始预售" },
   { "query": "吉林疫情", "display_query": "吉林新增 895 例本土确诊" },
   { "query": "uzi", "display_query": "Uzi 首胜" },
-  { "query": "奥密克戎 BA.2 变异株", "display_query": "多地疫情涉奥密克戎 BA.2 变异株" },
+  {
+    "query": "奥密克戎 BA.2 变异株",
+    "display_query": "多地疫情涉奥密克戎 BA.2 变异株"
+  },
   { "query": "詹姆斯", "display_query": "詹姆斯「311 里程悲」" },
   { "query": "青春变形记", "display_query": "《青春变形记》上映" },
   { "query": "北京冬残奥会奖牌", "display_query": "北京冬残奥会中国 18 金" },

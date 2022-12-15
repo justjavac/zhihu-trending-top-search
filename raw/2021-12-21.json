@@ -19,7 +19,10 @@
   { "query": "国内疫情", "display_query": "31 省市新增确诊 57 例" },
   { "query": "北京疫情", "display_query": "北京通州某画室一学生核酸检测阳性" },
   { "query": "申通", "display_query": "申通站点回应抛扔快递" },
-  { "query": "中国电竞市场总收入", "display_query": "2021 年中国电竞市场总收入 1401.81 亿元" },
+  {
+    "query": "中国电竞市场总收入",
+    "display_query": "2021 年中国电竞市场总收入 1401.81 亿元"
+  },
   { "query": "李磊", "display_query": "李磊加盟瑞士草蜢俱乐部" },
   { "query": "紫川", "display_query": "《紫川》动画开播" },
   { "query": "煤气灯效应", "display_query": "煤气灯效应" },

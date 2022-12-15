@@ -16,7 +16,10 @@
   { "query": "fpx假赛", "display_query": "FPX 打野 Bo 涉假赛" },
   { "query": "港股印花税", "display_query": "香港计划提高股票印花税" },
   { "query": "独居老人六件套", "display_query": "上海小区「独居老人六件套」" },
-  { "query": "爱奇艺员工落户北京", "display_query": "爱奇艺员工落户北京后离职" },
+  {
+    "query": "爱奇艺员工落户北京",
+    "display_query": "爱奇艺员工落户北京后离职"
+  },
   { "query": "PDD", "display_query": "PDD 长文回应假赛传闻" },
   { "query": "篮网", "display_query": "篮网 112:108 险胜快船" },
   { "query": "印度新冠病毒", "display_query": "印度发现 240 种变异新冠病毒" },

@@ -9,13 +9,19 @@
   { "query": "英雄联盟双城之战", "display_query": "英雄联盟动画更新" },
   { "query": "斗破苍穹三年之约", "display_query": "斗破苍穹三年之约更新" },
   { "query": "布兰妮", "display_query": "布兰妮正式恢复自由" },
-  { "query": "女孩晨跑遇害", "display_query": "女孩晨跑遇害案嫌犯父亲涉嫌包庇" },
+  {
+    "query": "女孩晨跑遇害",
+    "display_query": "女孩晨跑遇害案嫌犯父亲涉嫌包庇"
+  },
   { "query": "芝大枪杀案", "display_query": "芝大枪杀案嫌犯落网" },
   { "query": "颜妮", "display_query": "中国女排颜妮退役" },
   { "query": "湖人", "display_query": "湖人惨败森林狼 24 分" },
   { "query": "原神", "display_query": "原神 2.3 版本前瞻" },
   { "query": "休斯敦音乐节", "display_query": "休斯敦音乐节发生踩踏事故" },
-  { "query": "司机吃面尿检阳性", "display_query": "面条加罂粟致尿检阳性案宣判" },
+  {
+    "query": "司机吃面尿检阳性",
+    "display_query": "面条加罂粟致尿检阳性案宣判"
+  },
   { "query": "好未来", "display_query": "好未来学科服务于年底停止" },
   { "query": "遗产联系人", "display_query": "苹果内测「遗产联系人」" },
   { "query": "小米双十一", "display_query": "小米双十一战绩" },

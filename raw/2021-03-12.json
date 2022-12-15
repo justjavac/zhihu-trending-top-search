@@ -10,7 +10,10 @@
   { "query": "共享充电宝", "display_query": "共享充电宝每小时涨至 4 元" },
   { "query": "长征七号", "display_query": "长征七号改遥二运载火箭成功发射" },
   { "query": "校园欺凌", "display_query": "政协委员：严惩欺凌他人的青少年" },
-  { "query": "香港选举制度", "display_query": "完善香港选举制度的决定高票通过" },
+  {
+    "query": "香港选举制度",
+    "display_query": "完善香港选举制度的决定高票通过"
+  },
   { "query": "小鲜肉", "display_query": "建议警惕影视作品追捧小鲜肉" },
   { "query": "义务教育", "display_query": "人大代表：9 年义务教育延至 12 年" },
   { "query": "遗产税", "display_query": "100万房子20万的遗产税" },

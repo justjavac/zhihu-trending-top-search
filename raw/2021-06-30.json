@@ -13,6 +13,9 @@
   { "query": "MINIEV", "display_query": "五菱宏光 MINIEV 安全吗" },
   { "query": "高校录取通知书", "display_query": "高校录取通知书" },
   { "query": "荣耀50", "display_query": "荣耀 50 首销 1 分钟破 5 亿" },
-  { "query": "Apple Watch", "display_query": "Apple Watch 获药管局医疗器械批准" },
+  {
+    "query": "Apple Watch",
+    "display_query": "Apple Watch 获药管局医疗器械批准"
+  },
   { "query": "西班牙队", "display_query": "西班牙加时 5:3 淘汰克罗地亚" }
 ]

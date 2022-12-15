@@ -33,6 +33,9 @@
   { "query": "海贼王", "display_query": "海贼王 1035 话" },
   { "query": "国王排名", "display_query": "国王排名第十集" },
   { "query": "申通", "display_query": "申通站点回应抛扔快递" },
-  { "query": "中国电竞市场总收入", "display_query": "2021 年中国电竞市场总收入 1401.81 亿元" },
+  {
+    "query": "中国电竞市场总收入",
+    "display_query": "2021 年中国电竞市场总收入 1401.81 亿元"
+  },
   { "query": "篮网", "display_query": "魔术胜篮网终结 7 连败" }
 ]

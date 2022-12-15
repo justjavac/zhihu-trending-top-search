@@ -14,7 +14,10 @@
   { "query": "美团年度报告", "display_query": "2021 美团饿了么年度报告" },
   { "query": "令人心动的 offer", "display_query": "危急情况的急救知识" },
   { "query": "幻塔", "display_query": "B 站 UP 主将被幻塔起诉" },
-  { "query": "个人所得税优惠政策", "display_query": "个税优惠政策将延续至 2023 年底" },
+  {
+    "query": "个人所得税优惠政策",
+    "display_query": "个税优惠政策将延续至 2023 年底"
+  },
   { "query": "你好星期六", "display_query": "《你好星期六》定档" },
   { "query": "安徽医院辟谣", "display_query": "安徽医院辟谣 60 岁老人产女" },
   { "query": "魔法满屋", "display_query": "迪士尼动画《魔法满屋》定档" },

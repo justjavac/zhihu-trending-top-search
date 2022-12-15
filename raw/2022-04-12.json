@@ -1,5 +1,8 @@
 [
-  { "query": "四川航空回应", "display_query": "四川航空回应飞行员发布仇恨言论" },
+  {
+    "query": "四川航空回应",
+    "display_query": "四川航空回应飞行员发布仇恨言论"
+  },
   { "query": "上海新增", "display_query": "上海新增本土确诊 914 例" },
   { "query": "羽生结弦确认亮相冰演", "display_query": "羽生结弦确认亮相冰演" },
   { "query": "广州疫情", "display_query": "广州新增 13 例新冠阳性感染者" },
@@ -8,16 +11,34 @@
   { "query": "夜刀神新皮肤残幕戏尽", "display_query": "阴阳师夜刀神新皮肤" },
   { "query": "民航局回应传言", "display_query": "民航局回应东航坠机传言" },
   { "query": "微信农场", "display_query": "微信农场" },
-  { "query": "小米停更 MIUI 开发版", "display_query": "小米多款机型停更 MIUI 开发版" },
+  {
+    "query": "小米停更 MIUI 开发版",
+    "display_query": "小米多款机型停更 MIUI 开发版"
+  },
   { "query": "家用氧气瓶", "display_query": "上海最大家用氧企业停产" },
   { "query": "国务院安委会", "display_query": "国务院安全生产十五条措施" },
-  { "query": "香港新冠死亡病例数据", "display_query": "中美疾控中心专家发布香港死亡病例数据" },
-  { "query": "韩国发现首例 XL 毒株病例", "display_query": "韩国发现首例新冠毒株 XL 病例" },
+  {
+    "query": "香港新冠死亡病例数据",
+    "display_query": "中美疾控中心专家发布香港死亡病例数据"
+  },
+  {
+    "query": "韩国发现首例 XL 毒株病例",
+    "display_query": "韩国发现首例新冠毒株 XL 病例"
+  },
   { "query": "藤本树新作", "display_query": "电锯人作者藤本树新作" },
-  { "query": "面包车撞上兰博基尼被起诉", "display_query": "面包车撞兰博基尼被起诉" },
+  {
+    "query": "面包车撞上兰博基尼被起诉",
+    "display_query": "面包车撞兰博基尼被起诉"
+  },
   { "query": "苏州新增", "display_query": "苏州新增阳性感染者 31 例" },
-  { "query": "北京市积分落户申报", "display_query": "北京市积分落户申报将启动" },
-  { "query": "中共中央", "display_query": "《关于加快建设全国统一大市场的意见》发布" },
+  {
+    "query": "北京市积分落户申报",
+    "display_query": "北京市积分落户申报将启动"
+  },
+  {
+    "query": "中共中央",
+    "display_query": "《关于加快建设全国统一大市场的意见》发布"
+  },
   { "query": "杭州新增", "display_query": "杭州新增 1 例确诊病例" },
   { "query": "广州疫情", "display_query": "11 日起广州中小学停课停考" },
   { "query": "游戏版号重新下发 ", "display_query": "游戏版号重新下发" },
@@ -28,9 +49,15 @@
   { "query": "俄乌局势", "display_query": "俄军重整在乌作战指挥系统" },
   { "query": "奥密克戎", "display_query": "面对奥密克戎坚持清零" },
   { "query": "艾滋病转阴", "display_query": "确诊艾滋病 5 年后检测为阴" },
-  { "query": "凡人修仙传之魔道争锋二十四集", "display_query": "《凡人修仙传》24 集" },
+  {
+    "query": "凡人修仙传之魔道争锋二十四集",
+    "display_query": "《凡人修仙传》24 集"
+  },
   { "query": "台湾庙前打群架", "display_query": "台湾数百人庙前打群架" },
-  { "query": "微信状态可以设置成农场形式", "display_query": "微信状态可以设置成农场形式" },
+  {
+    "query": "微信状态可以设置成农场形式",
+    "display_query": "微信状态可以设置成农场形式"
+  },
   { "query": "帝国时代2新文明", "display_query": "帝国时代 2 决定版新文明" },
   { "query": "上海新增确诊", "display_query": "上海新增本土确诊病例" },
   { "query": "蔚来停产", "display_query": "蔚来整车生产暂停" },

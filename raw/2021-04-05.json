@@ -18,5 +18,8 @@
   { "query": "学术造假", "display_query": "南京艺术学院毕业生学术造假" },
   { "query": "烈士寻亲", "display_query": "烈士寻亲公共服务平台开通" },
   { "query": "人体经络", "display_query": "研究发现人体经络存在的证据" },
-  { "query": "朋友去世微信要删除吗", "display_query": "朋友去世了，微信要删除吗？" }
+  {
+    "query": "朋友去世微信要删除吗",
+    "display_query": "朋友去世了，微信要删除吗？"
+  }
 ]

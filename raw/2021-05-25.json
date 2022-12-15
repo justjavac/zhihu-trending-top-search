@@ -6,8 +6,14 @@
   { "query": "武汉公交车", "display_query": "武汉公交车" },
   { "query": "华为鸿蒙", "display_query": "鸿蒙手机要来了" },
   { "query": "乌合麒麟新作", "display_query": "乌合麒麟新作缅怀袁隆平" },
-  { "query": "金融委打击比特币", "display_query": "金融委打击比特币挖矿和交易行为" },
-  { "query": "四川食品厂", "display_query": "四川一食品厂疑似发生有害气体中毒致 7 死" },
+  {
+    "query": "金融委打击比特币",
+    "display_query": "金融委打击比特币挖矿和交易行为"
+  },
+  {
+    "query": "四川食品厂",
+    "display_query": "四川一食品厂疑似发生有害气体中毒致 7 死"
+  },
   { "query": "河北中学砍人", "display_query": "河北一中学发生砍人事件" },
   { "query": "京东罚款", "display_query": "京东因不正当竞争被罚 30 万" },
   { "query": "英雄联盟", "display_query": "英雄联盟季中赛半决赛 DK 险胜 MAD" },

@@ -21,7 +21,10 @@
   { "query": "西安疫情", "display_query": "西安疫情源头锁定境外输入" },
   { "query": "幻塔", "display_query": "幻塔免费送五星" },
   { "query": "湖人", "display_query": "詹威均三双湖人胜火箭" },
-  { "query": "微信网页版文件传输", "display_query": "微信「网页版文件传输助手」" },
+  {
+    "query": "微信网页版文件传输",
+    "display_query": "微信「网页版文件传输助手」"
+  },
   { "query": "光遇", "display_query": "光遇联动 Soul 是否合适" },
   { "query": "网易云音乐", "display_query": "2021 网易云音乐听歌报告" },
   { "query": "GimGoon", "display_query": "S9 世界冠军选手退役" },

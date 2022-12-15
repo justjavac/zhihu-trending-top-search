@@ -13,7 +13,10 @@
   { "query": "湖人", "display_query": "哈登三双篮网胜湖人" },
   { "query": "美军 日本", "display_query": "美军赴日本前不筛查新冠" },
   { "query": "特利迦奥特曼", "display_query": "特利迦奥特曼更新" },
-  { "query": "新冠疫苗接种", "display_query": "我国新冠疫苗全程接种人数超 12 亿" },
+  {
+    "query": "新冠疫苗接种",
+    "display_query": "我国新冠疫苗全程接种人数超 12 亿"
+  },
   { "query": "魔法使之夜", "display_query": "魔法使之夜动画化" },
   { "query": "凡人修仙传", "display_query": "凡人修仙传年番更新" },
   { "query": "韦伯望远镜", "display_query": "詹姆斯·韦伯望远镜发射升空" },
@@ -21,11 +24,17 @@
   { "query": "吉林师大考研", "display_query": "吉林师大考研中途换卷" },
   { "query": "德杯", "display_query": "FPX 晋级德杯决赛" },
   { "query": "林书豪", "display_query": "林书豪回归首秀 23 分" },
-  { "query": "未成年人游戏限玩", "display_query": "元旦假期未成年人游戏限玩 1 小时/日" },
+  {
+    "query": "未成年人游戏限玩",
+    "display_query": "元旦假期未成年人游戏限玩 1 小时/日"
+  },
   { "query": "残疾应届生", "display_query": "媒体评邮政拒绝残疾应届生入职" },
   { "query": "吴宗宪儿子", "display_query": "吴宗宪儿子夜店吸毒被捕" },
   { "query": "三只松鼠模特", "display_query": "三只松鼠模特回应争议" },
-  { "query": "美国官员申请签证", "display_query": "美国 18 名官员申请中国签证" },
+  {
+    "query": "美国官员申请签证",
+    "display_query": "美国 18 名官员申请中国签证"
+  },
   { "query": "考研政治", "display_query": "考研政治" },
   { "query": "海底捞庆生吵架", "display_query": "海底捞回应庆生吵架事件" },
   { "query": "西安考生确诊", "display_query": "西安研考生隔离治疗" },

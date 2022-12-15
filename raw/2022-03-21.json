@@ -4,15 +4,27 @@
   { "query": "邯郸车祸", "display_query": "邯郸车祸犯罪嫌疑人被刑事拘留" },
   { "query": "凡人修仙传", "display_query": "《凡人修仙传》动画更新" },
   { "query": "世界睡眠日", "display_query": "3 月 21 日是世界睡眠日" },
-  { "query": "百色零号病人", "display_query": "广西百色「零号病人」被采取刑事强制措施" },
+  {
+    "query": "百色零号病人",
+    "display_query": "广西百色「零号病人」被采取刑事强制措施"
+  },
   { "query": "唐山进入应急状态", "display_query": "唐山全市全面进入应急状态" },
   { "query": "人道主义援助", "display_query": "中方新增 1000 万人道主义援助" },
   { "query": "进击的巨人", "display_query": "《进击的巨人》最终季更新" },
   { "query": "周冠宇", "display_query": "周冠宇拿下 F1 生涯首分" },
-  { "query": "2021年结婚登记人数", "display_query": "2021 年结婚登记人数创 36 年新低" },
-  { "query": "阿兰德龙安乐死", "display_query": "阿兰·德龙决定在瑞士实施安乐死" },
+  {
+    "query": "2021年结婚登记人数",
+    "display_query": "2021 年结婚登记人数创 36 年新低"
+  },
+  {
+    "query": "阿兰德龙安乐死",
+    "display_query": "阿兰·德龙决定在瑞士实施安乐死"
+  },
   { "query": "泉州疫情", "display_query": "泉州急需物资捐赠" },
-  { "query": "不得以核酸为由拒诊", "display_query": "焦雅辉「不得以核酸为由拒诊」" },
+  {
+    "query": "不得以核酸为由拒诊",
+    "display_query": "焦雅辉「不得以核酸为由拒诊」"
+  },
   { "query": "樊振东", "display_query": "樊振东马龙会师男单决赛" },
   { "query": "东航客机", "display_query": "东航一客机突发事故" },
   { "query": "白象销售额", "display_query": "白象 7 天销售额破千万" },

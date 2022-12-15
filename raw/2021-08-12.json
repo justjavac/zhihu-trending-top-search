@@ -10,7 +10,10 @@
   { "query": "操场埋尸案", "display_query": "操场埋尸案改编未获家属授权" },
   { "query": "乌合麒麟", "display_query": "乌合麒麟新作" },
   { "query": "德尔塔", "display_query": "李兰娟揭秘德尔塔毒株" },
-  { "query": "秦皇岛落水女孩哥哥", "display_query": "男子冒充秦皇岛落水女孩哥哥" },
+  {
+    "query": "秦皇岛落水女孩哥哥",
+    "display_query": "男子冒充秦皇岛落水女孩哥哥"
+  },
   { "query": "神舞幻想·妄之生", "display_query": "国产3A 游戏实机演示" },
   { "query": "雷军", "display_query": "雷军年度演讲" },
   { "query": "小米mix4", "display_query": "小米 MIX4 新品" },

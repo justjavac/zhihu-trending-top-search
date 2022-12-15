@@ -9,7 +9,10 @@
   { "query": "孤泳者", "display_query": "孤泳者" },
   { "query": "网络安全审查办法", "display_query": "《网络安全审查办法》" },
   { "query": "幽门螺旋杆菌", "display_query": "幽门螺旋杆菌被列为明确致癌物" },
-  { "query": "五核武器国家发表联合声明", "display_query": "中法俄英美联合声明「核战争打不得」" },
+  {
+    "query": "五核武器国家发表联合声明",
+    "display_query": "中法俄英美联合声明「核战争打不得」"
+  },
   { "query": "成龙批评年轻演员", "display_query": "成龙批评年轻演员耍大牌" },
   { "query": "IHU", "display_query": "新型新冠变异毒株「IHU」" },
   { "query": "罗永浩", "display_query": "罗永浩被执行信息清零" },
@@ -22,7 +25,10 @@
   { "query": "王老吉", "display_query": "王老吉新年推出姓氏罐" },
   { "query": "原神", "display_query": "原神申鹤新角色演示" },
   { "query": "湖人", "display_query": "詹姆斯 26 分湖人胜狼" },
-  { "query": "云佛山滑雪场", "display_query": "男子教女友滑雪被要求证明情侣关系" },
+  {
+    "query": "云佛山滑雪场",
+    "display_query": "男子教女友滑雪被要求证明情侣关系"
+  },
   { "query": "明日方舟", "display_query": "明日方舟运营发声明" },
   { "query": "中日双边自贸关系", "display_query": "中日首次建立双边自贸关系" },
   { "query": "恒大", "display_query": "恒大在香港交易所暂时停牌" },

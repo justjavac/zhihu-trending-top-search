@@ -11,21 +11,36 @@
   { "query": "小米辞退员工", "display_query": "小米辞退不能胜任工作员工败诉" },
   { "query": "黑匣子", "display_query": "新发现的橙色碎片不是黑匣子" },
   { "query": "一人之下", "display_query": "一人之下 606 话" },
-  { "query": "美方涉乌生物实验室", "display_query": "外交部敦促美方尽快作出交代" },
+  {
+    "query": "美方涉乌生物实验室",
+    "display_query": "外交部敦促美方尽快作出交代"
+  },
   { "query": "研究生学历", "display_query": "研究生学历成为入职门槛" },
   { "query": "拉姆被烧伤致死案", "display_query": "拉姆被烧伤致死案二审结果" },
-  { "query": "画江湖之不良人", "display_query": "画江湖之不良人第 5 季第 11 集" },
+  {
+    "query": "画江湖之不良人",
+    "display_query": "画江湖之不良人第 5 季第 11 集"
+  },
   { "query": "意大利无缘世界杯", "display_query": "意大利无缘世界杯" },
   { "query": "坠机现场山体滑坡", "display_query": "坠机现场出现滑坡" },
-  { "query": "东航飞行事故进展", "display_query": "目前发现飞机残骸及人体组织碎片" },
+  {
+    "query": "东航飞行事故进展",
+    "display_query": "目前发现飞机残骸及人体组织碎片"
+  },
   { "query": "逆水寒", "display_query": "公司出纳挪用公款玩逆水寒" },
   { "query": "美国供应", "display_query": "美国确保对欧洲资源的供应" },
   { "query": "普京参加 G20 峰会", "display_query": "普京计划参加 G20 峰会" },
   { "query": "取消演出", "display_query": "全国取消或延期 9000 场演出" },
-  { "query": "确定坠机事故主要撞击点", "display_query": "东航飞行事故确定主要撞击点" },
+  {
+    "query": "确定坠机事故主要撞击点",
+    "display_query": "东航飞行事故确定主要撞击点"
+  },
   { "query": "篮网", "display_query": "欧文 43 分篮网遭逆转" },
   { "query": "中兴通讯", "display_query": "中兴通讯在美胜诉" },
-  { "query": "外交部敦促美方", "display_query": "外交部敦促美方作出令人信服的交代" },
+  {
+    "query": "外交部敦促美方",
+    "display_query": "外交部敦促美方作出令人信服的交代"
+  },
   { "query": "勇士", "display_query": "普尔 30+9 勇士胜热火" },
   { "query": "吕小军递补金牌", "display_query": "吕小军将递补里约奥运会金牌" },
   { "query": "国足", "display_query": "12 强赛国足战平沙特" },

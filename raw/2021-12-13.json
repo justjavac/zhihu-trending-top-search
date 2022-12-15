@@ -17,7 +17,10 @@
   { "query": "斗破苍穹三年之约", "display_query": "斗破苍穹三年之约更新" },
   { "query": "勇士", "display_query": "库里 3 三分勇士负 76 人" },
   { "query": "特利迦奥特曼", "display_query": "特利迦奥特曼 21 话" },
-  { "query": "男子翻前女友眼皮刷脸支付", "display_query": "男子趁前女友熟睡翻开眼皮刷脸转走 15 万" },
+  {
+    "query": "男子翻前女友眼皮刷脸支付",
+    "display_query": "男子趁前女友熟睡翻开眼皮刷脸转走 15 万"
+  },
   { "query": "加班猝死", "display_query": "网红孵化公司员工加班时猝死" },
   { "query": "阿里女员工", "display_query": "自称遭性侵阿里女员工被解雇" },
   { "query": "湖人", "display_query": "詹姆斯三双湖人胜魔术" },

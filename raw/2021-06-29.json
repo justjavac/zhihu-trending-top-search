@@ -8,7 +8,10 @@
   { "query": "西班牙队", "display_query": "西班牙加时 5:3 淘汰克罗地亚" },
   { "query": "玻尿酸宠物粮", "display_query": "你会给宠物吃玻尿酸粮吗？" },
   { "query": "MINIEV", "display_query": "五菱宏光 MINIEV 安全吗" },
-  { "query": "Apple Watch", "display_query": "Apple Watch 获药管局医疗器械批准" },
+  {
+    "query": "Apple Watch",
+    "display_query": "Apple Watch 获药管局医疗器械批准"
+  },
   { "query": "电锯人", "display_query": "《电锯人》发布动画 PV  " },
   { "query": "原神", "display_query": "原神新角色演示 PV" },
   { "query": "小米电视", "display_query": "小米电视 6 系列发布" },

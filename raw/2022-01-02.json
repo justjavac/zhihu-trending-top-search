@@ -20,7 +20,10 @@
   { "query": "勇士", "display_query": "库里破纪录勇士胜爵士" },
   { "query": "京沪高铁晚点", "display_query": "液化气车泄漏致京沪高铁晚点" },
   { "query": "云南地震", "display_query": "云南 5.5 级地震" },
-  { "query": "中国人造太阳", "display_query": "中国「人造太阳」运行时间破千秒" },
+  {
+    "query": "中国人造太阳",
+    "display_query": "中国「人造太阳」运行时间破千秒"
+  },
   { "query": "湖人", "display_query": "詹姆斯 43 分湖人胜开拓者" },
   { "query": "TST成本", "display_query": "TST 百元化妆品成本仅 4 元" },
   { "query": "2021 追问体坛", "display_query": "2021 追问体坛" },

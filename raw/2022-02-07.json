@@ -8,7 +8,10 @@
   { "query": "苏翊鸣", "display_query": "17 岁中国小将苏翊鸣获银牌" },
   { "query": "张洁", "display_query": "著名作家张洁逝世" },
   { "query": "中国女足", "display_query": "中国女足绝杀韩国夺冠" },
-  { "query": "虎年最大规模雨雪将上线", "display_query": "近日虎年来最大规模雨雪将上线" },
+  {
+    "query": "虎年最大规模雨雪将上线",
+    "display_query": "近日虎年来最大规模雨雪将上线"
+  },
   { "query": "短道速滑男子", "display_query": "短道速滑 1000 米中国包揽金银" },
   { "query": "香港疫情", "display_query": "香港新增 351 例新冠肺炎确诊病例" },
   { "query": "花样滑冰", "display_query": "中国花滑团体赛创最佳战绩" },

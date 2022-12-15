@@ -14,7 +14,10 @@
   { "query": "短道速滑男子", "display_query": "短道速滑 1000 米中国包揽金银" },
   { "query": "长江中下游地区暴雪", "display_query": "长江中下游地区暴雪" },
   { "query": "中国女足", "display_query": "中国女足绝杀韩国夺冠" },
-  { "query": "虎年最大规模雨雪将上线", "display_query": "近日虎年来最大规模雨雪将上线" },
+  {
+    "query": "虎年最大规模雨雪将上线",
+    "display_query": "近日虎年来最大规模雨雪将上线"
+  },
   { "query": "虎年开工", "display_query": "虎年开工第一天" },
   { "query": "羽生结弦", "display_query": "羽生结弦冬奥首秀" },
   { "query": "广西疫情", "display_query": "广西新增本土确诊病例 64 例" },
@@ -29,5 +32,8 @@
   { "query": "土耳其总统", "display_query": "土耳其总统新冠检测阳性" },
   { "query": "河北疫情", "display_query": "河北新增本土确诊病例 2 例" },
   { "query": "西藏转山遇难", "display_query": "5 人自驾西藏转山遇难" },
-  { "query": "B站员工过年加班猝死", "display_query": "网传 B 站员工过年加班猝死" }
+  {
+    "query": "B站员工过年加班猝死",
+    "display_query": "网传 B 站员工过年加班猝死"
+  }
 ]

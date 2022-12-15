@@ -2,29 +2,59 @@
   { "query": "tes", "display_query": "TES「北伐」六连胜" },
   { "query": "俄罗斯乌克兰", "display_query": "在乌俄军即将进入静默状态" },
   { "query": "政府工作报告", "display_query": "政府工作报告" },
-  { "query": "人大代表建议加大网暴处罚力度", "display_query": "人大代表建议加大网暴处罚力度" },
+  {
+    "query": "人大代表建议加大网暴处罚力度",
+    "display_query": "人大代表建议加大网暴处罚力度"
+  },
   { "query": "两会开幕", "display_query": "全国两会" },
-  { "query": "人大代表建议 3 + 2 混合办公模式", "display_query": "代表建议每周 1-2 天远程办公" },
-  { "query": "高考纸版电子版准考证并行", "display_query": "政协委员建议高考两版准考证并行" },
+  {
+    "query": "人大代表建议 3 + 2 混合办公模式",
+    "display_query": "代表建议每周 1-2 天远程办公"
+  },
+  {
+    "query": "高考纸版电子版准考证并行",
+    "display_query": "政协委员建议高考两版准考证并行"
+  },
   { "query": "孙杨", "display_query": "孙杨最终上诉被驳回" },
-  { "query": "人大代表建议加大精神障碍患者管理", "display_query": "代表建议加大精神障碍患者管理" },
-  { "query": "保障单身女性生育权", "display_query": "人大代表建议保障单身女性生育权" },
+  {
+    "query": "人大代表建议加大精神障碍患者管理",
+    "display_query": "代表建议加大精神障碍患者管理"
+  },
+  {
+    "query": "保障单身女性生育权",
+    "display_query": "人大代表建议保障单身女性生育权"
+  },
   { "query": "湖人", "display_query": "詹姆斯 56 分湖人胜勇士" },
   { "query": "任天堂", "display_query": "任天堂暂停俄区直接付款" },
   { "query": "王亚平在太空出差", "display_query": "人大代表王亚平在太空履职" },
   { "query": "成龙", "display_query": "成龙建议在乡村设立公益电影院" },
   { "query": "男性产假", "display_query": "建议强制男性陪妇女休产假一个月" },
-  { "query": "强制人脸识别登录网游", "display_query": "政协委员建议人脸识别登录网游" },
-  { "query": "直播打赏设冷静期", "display_query": "全国人大代表建议直播打赏设冷静期" },
-  { "query": "人大代表贾樟柯", "display_query": "人大代表贾樟柯建议体验式学历史" },
+  {
+    "query": "强制人脸识别登录网游",
+    "display_query": "政协委员建议人脸识别登录网游"
+  },
+  {
+    "query": "直播打赏设冷静期",
+    "display_query": "全国人大代表建议直播打赏设冷静期"
+  },
+  {
+    "query": "人大代表贾樟柯",
+    "display_query": "人大代表贾樟柯建议体验式学历史"
+  },
   { "query": "假期延长", "display_query": "人大代表建议春节放假延长至 10 天" },
-  { "query": "拐入地基层领导五年内不被提拔", "display_query": "代表建议拐入地基层领导五年内不被提拔" },
+  {
+    "query": "拐入地基层领导五年内不被提拔",
+    "display_query": "代表建议拐入地基层领导五年内不被提拔"
+  },
   { "query": "gdp", "display_query": "GDP 目标增长 5.5% 左右" },
   { "query": "rng", "display_query": "RNG 拿下「宿敌」EDG" },
   { "query": "塞尔达", "display_query": "塞尔达传说发售 5 周年" },
   { "query": "wbg", "display_query": "WBG 锁定季后赛名额" },
   { "query": "v5", "display_query": "V5 0:2 不敌 JDG" },
-  { "query": "支持年轻人争当产业工人", "display_query": "支持年轻人争当产业工人" },
+  {
+    "query": "支持年轻人争当产业工人",
+    "display_query": "支持年轻人争当产业工人"
+  },
   { "query": "湖人", "display_query": "詹姆斯 26+8 湖人 4 连败" },
   { "query": "上海疫情", "display_query": "上海新增 2 例确诊 14 例无症状感染" },
   { "query": "龙抬头", "display_query": "农历二月二龙抬头的习俗" },

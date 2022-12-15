@@ -9,8 +9,14 @@
   { "query": "广西疫情", "display_query": "广西新增确诊病例 5 例" },
   { "query": "朴槿惠", "display_query": "文在寅将赦免朴槿惠" },
   { "query": "车顶维权案", "display_query": "「车顶维权案」将开庭" },
-  { "query": "知网 垄断", "display_query": "市监总局将核实研究知网是否涉嫌垄断" },
-  { "query": "越南大桥倒塌", "display_query": "越南造价 1500 万的大桥轰然倒塌" },
+  {
+    "query": "知网 垄断",
+    "display_query": "市监总局将核实研究知网是否涉嫌垄断"
+  },
+  {
+    "query": "越南大桥倒塌",
+    "display_query": "越南造价 1500 万的大桥轰然倒塌"
+  },
   { "query": "kpl", "display_query": "eStarPro 夺冠" },
   { "query": "海贼王", "display_query": "海贼王 1036 话" },
   { "query": "广西疫情", "display_query": "广西东兴新增 8 例本土病例" },

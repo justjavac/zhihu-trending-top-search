@@ -1,15 +1,27 @@
 [
-  { "query": "上海六院", "display_query": "上海六院因疫情暂停临港院区相关医疗服务" },
+  {
+    "query": "上海六院",
+    "display_query": "上海六院因疫情暂停临港院区相关医疗服务"
+  },
   { "query": "吉林疫情", "display_query": "吉林新增 895 例本土确诊" },
   { "query": "德尔塔克戎", "display_query": "德尔塔克戎变体已开始传播" },
   { "query": "张文宏", "display_query": "张文宏称这波疫情是倒春寒" },
   { "query": "进击的巨人", "display_query": "进击的巨人 最终季更新" },
   { "query": "江歌妈妈", "display_query": "江歌妈妈百万善款被质疑" },
-  { "query": "广东省公安厅副厅长被免职", "display_query": "广东省公安厅副厅长被免职" },
+  {
+    "query": "广东省公安厅副厅长被免职",
+    "display_query": "广东省公安厅副厅长被免职"
+  },
   { "query": "俄罗斯的狗", "display_query": "俄罗斯的狗将被制裁" },
   { "query": "uzi", "display_query": "Uzi 首胜" },
-  { "query": "台湾 俄罗斯", "display_query": "赵立坚称台湾如被俄制裁是咎由自取" },
-  { "query": "奥密克戎 BA.2 变异株", "display_query": "多地疫情涉奥密克戎 BA.2 变异株" },
+  {
+    "query": "台湾 俄罗斯",
+    "display_query": "赵立坚称台湾如被俄制裁是咎由自取"
+  },
+  {
+    "query": "奥密克戎 BA.2 变异株",
+    "display_query": "多地疫情涉奥密克戎 BA.2 变异株"
+  },
   { "query": "青春变形记", "display_query": "《青春变形记》上映" },
   { "query": "深圳全市公交地铁停运", "display_query": "深圳全市公交地铁停运" },
   { "query": "杨洁篪", "display_query": "杨洁篪将同沙利文举行会晤" },

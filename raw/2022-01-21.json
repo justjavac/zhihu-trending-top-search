@@ -21,7 +21,10 @@
   { "query": "张煜", "display_query": "张煜医生谈医疗乱象" },
   { "query": "姐夫投毒女孩", "display_query": "遭姐夫投毒女孩已出院" },
   { "query": "大连居民楼起火", "display_query": "大连一居民楼起火" },
-  { "query": "重庆姐弟坠亡案已上诉", "display_query": "重庆姐弟坠亡案被告已上诉" },
+  {
+    "query": "重庆姐弟坠亡案已上诉",
+    "display_query": "重庆姐弟坠亡案被告已上诉"
+  },
   { "query": "勇士", "display_query": "库里 39 分勇士加时告负" },
   { "query": "游戏王", "display_query": "游戏王：大师决斗" },
   { "query": "高管家暴", "display_query": "高管因家暴妻子被停职" },
@@ -40,7 +43,10 @@
   { "query": "美国资助人体实验", "display_query": "美国资助儿童人体实验" },
   { "query": "帕森斯", "display_query": "帕森斯退役" },
   { "query": " 原神", "display_query": "美国玩家玩原神氪四亿美元" },
-  { "query": "阿里文娱转让优酷股份", "display_query": "阿里文娱转让优酷信息技术股份" },
+  {
+    "query": "阿里文娱转让优酷股份",
+    "display_query": "阿里文娱转让优酷信息技术股份"
+  },
   { "query": "养老服务时间银行", "display_query": "养老服务「时间银行」" },
   { "query": "湖人", "display_query": "詹姆斯 30 分湖人负步行者" }
 ]

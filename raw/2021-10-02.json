@@ -8,7 +8,10 @@
   { "query": "儿童骑车", "display_query": "勿让不满 12 岁儿童骑车上路" },
   { "query": "ios15", "display_query": "iOS 15.0.1" },
   { "query": "第一学历", "display_query": "国家政策没有第一学历概念" },
-  { "query": "皮皮鲁与鲁西西之罐头小人", "display_query": "皮皮鲁与鲁西西大电影" },
+  {
+    "query": "皮皮鲁与鲁西西之罐头小人",
+    "display_query": "皮皮鲁与鲁西西大电影"
+  },
   { "query": "长津湖票房", "display_query": "《长津湖》首日票房破 3 亿" },
   { "query": "长津湖", "display_query": "长津湖" },
   { "query": "中国女篮", "display_query": "中国女篮进亚洲杯决赛" },

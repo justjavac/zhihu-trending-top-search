@@ -20,7 +20,10 @@
   { "query": "凡人修仙传", "display_query": "凡人修仙传年番更新 " },
   { "query": "微信", "display_query": "微信新增语音播放暂停功能" },
   { "query": "汤加火山喷发", "display_query": "汤加火山大喷发" },
-  { "query": "男生实习期间出走失联", "display_query": "16 岁男生上海实习期间出走失联" },
+  {
+    "query": "男生实习期间出走失联",
+    "display_query": "16 岁男生上海实习期间出走失联"
+  },
   { "query": "周琦", "display_query": "周琦刘传兴中国德比" },
   { "query": "湖人", "display_query": "湖人惨败掘金 37 分" },
   { "query": "河南疫情", "display_query": "河南新增 68 例本土确诊" },

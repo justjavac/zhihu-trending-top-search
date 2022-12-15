@@ -1,6 +1,9 @@
 [
   { "query": "程序员节", "display_query": "1024 程序员节" },
-  { "query": "南京航空航天大学爆燃", "display_query": "南航实验室爆燃 2 死 9 伤" },
+  {
+    "query": "南京航空航天大学爆燃",
+    "display_query": "南航实验室爆燃 2 死 9 伤"
+  },
   { "query": "edg", "display_query": "EDG 队史首次晋级四强" },
   { "query": "湖人", "display_query": "浓眉霍华德冲突湖人负太阳" },
   { "query": "北京疫情", "display_query": "北京疫情" },
@@ -8,7 +11,10 @@
   { "query": "养老金", "display_query": "养老金个人账户制" },
   { "query": "于月仙", "display_query": "于月仙车祸处理结果" },
   { "query": "大连爆炸", "display_query": "大连一居民楼发生爆炸" },
-  { "query": "家长反映食堂问题被刑拘", "display_query": "家长反映食堂问题被刑拘" },
+  {
+    "query": "家长反映食堂问题被刑拘",
+    "display_query": "家长反映食堂问题被刑拘"
+  },
   { "query": "明日方舟", "display_query": "明日方舟感谢直播" },
   { "query": "海贼王", "display_query": "海贼王 1029 话更新" },
   { "query": "T1", "display_query": "T1 零封 HLE 晋级四强" },
@@ -26,7 +32,10 @@
   { "query": "动画片", "display_query": "小孩看动画因反派砸电视" },
   { "query": "9岁女孩抑郁症", "display_query": "女孩因老师漂亮患抑郁症" },
   { "query": "zara", "display_query": "ZARA 因服装劣质被罚 24 万" },
-  { "query": "好莱坞新片片场重大事故", "display_query": "好莱坞新片片场道具枪打死摄影师" },
+  {
+    "query": "好莱坞新片片场重大事故",
+    "display_query": "好莱坞新片片场道具枪打死摄影师"
+  },
   { "query": "redmi", "display_query": "Redmi Note 11 AMOLED 屏幕" },
   { "query": "女子出轨生子", "display_query": "女子出轨生子并卖掉" },
   { "query": "神秘海域", "display_query": "游戏《神秘海域》电影版" },

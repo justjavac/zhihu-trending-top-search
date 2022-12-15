@@ -4,7 +4,10 @@
   { "query": "腾讯实习生", "display_query": "腾讯实习生向高管建议陪酒禁令" },
   { "query": "梅西", "display_query": "梅西将穿巴黎 30 号球衣" },
   { "query": "小米mix4", "display_query": "小米 MIX4 新品" },
-  { "query": "秦皇岛落水女孩哥哥", "display_query": "男子冒充秦皇岛落水女孩哥哥" },
+  {
+    "query": "秦皇岛落水女孩哥哥",
+    "display_query": "男子冒充秦皇岛落水女孩哥哥"
+  },
   { "query": "雷军", "display_query": "雷军年度演讲" },
   { "query": "李在镕", "display_query": "三星李在镕将获假释" },
   { "query": "游戏行业", "display_query": "游戏行业会全面双休吗" },

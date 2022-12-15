@@ -3,7 +3,8 @@
 [![Build Status](https://github.com/justjavac/zhihu-trending-top-search/workflows/ci/badge.svg?branch=main)](https://github.com/justjavac/zhihu-trending-top-search/actions)
 [![license](https://img.shields.io/github/license/justjavac/zhihu-trending-top-search)](https://github.com/justjavac/zhihu-trending-top-search/blob/main/LICENSE)
 
-知乎热搜榜，记录从 2020-11-24 日开始的知乎热搜榜单。每小时抓取一次数据，按天[归档](./archives)。
+知乎热搜榜，记录从 2020-11-24
+日开始的知乎热搜榜单。每小时抓取一次数据，按天[归档](./archives)。
 
 ## 相关项目
 
@@ -14,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Dec 15 2022 08:41:17 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Dec 15 2022 10:16:57 GMT+0800 (China Standard Time) -->
 
 1. [官方：开展第二剂次加强免疫接种](https://www.zhihu.com/search?q=官方：开展第二剂次加强免疫接种)
 1. [流浪地球 2 预告](https://www.zhihu.com/search?q=流浪地球 2 预告)
@@ -23,6 +24,9 @@
 1. [宫崎骏新作公开](https://www.zhihu.com/search?q=宫崎骏新作公开)
 1. [移动智能终端中预置软件需可卸载](https://www.zhihu.com/search?q=移动智能终端中预置软件需可卸载)
 1. [风吹半夏大结局](https://www.zhihu.com/search?q=风吹半夏大结局)
+1. [11 月商品住宅销售价格环比总体延续降势](https://www.zhihu.com/search?q=11
+   月商品住宅销售价格环比总体延续降势)
+1. [中国驻英使馆声明](https://www.zhihu.com/search?q=中国驻英使馆声明)
 1. [法国 vs 摩洛哥](https://www.zhihu.com/search?q=法国 vs 摩洛哥)
 
 <!-- END -->

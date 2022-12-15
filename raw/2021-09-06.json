@@ -21,5 +21,8 @@
   { "query": "京东", "display_query": "徐雷升任京东总裁" },
   { "query": "雷军 小米股票", "display_query": "雷军转出 3 亿股小米股票" },
   { "query": "微信 云储存", "display_query": "微信聊天记录付费云存储" },
-  { "query": "博士捐出全部存款", "display_query": "25 岁博士设遗嘱捐出全部存款" }
+  {
+    "query": "博士捐出全部存款",
+    "display_query": "25 岁博士设遗嘱捐出全部存款"
+  }
 ]

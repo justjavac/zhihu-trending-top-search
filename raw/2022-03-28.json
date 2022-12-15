@@ -13,11 +13,17 @@
   { "query": "篮网", "display_query": "杜兰特 27+8+7 篮网负黄蜂" },
   { "query": "勇士", "display_query": "克莱 25 分勇士负奇才" },
   { "query": "星之卡比探索发现", "display_query": "星之卡比 2022 新作" },
-  { "query": "普京批日本", "display_query": "普京批日本不敢点名是谁扔下原子弹" },
+  {
+    "query": "普京批日本",
+    "display_query": "普京批日本不敢点名是谁扔下原子弹"
+  },
   { "query": "湖人", "display_query": "湖人负鹈鹕跌至西部第 10" },
   { "query": "微塑料", "display_query": "人类血液中首次发现微塑料颗粒" },
   { "query": "长沙新冠", "display_query": "长沙发现 2 例新冠肺炎确诊病例#" },
-  { "query": "东航飞行事故确定坠机撞击点", "display_query": "东航飞行事故第六次发布会" },
+  {
+    "query": "东航飞行事故确定坠机撞击点",
+    "display_query": "东航飞行事故第六次发布会"
+  },
   { "query": "新加坡航班", "display_query": "新加坡一航班因引擎震动折返伦敦" },
   { "query": "交通违法", "display_query": "4 月 1 日起交通违法记分将调整" },
   { "query": "暂停发售车票", "display_query": "中国铁路暂停发售列车车票" },

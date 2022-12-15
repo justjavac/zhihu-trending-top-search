@@ -3,10 +3,16 @@
   { "query": "阿凡达", "display_query": "电影《阿凡达》重映" },
   { "query": "白色情人节", "display_query": "2021314 白色情人节" },
   { "query": "比特币", "display_query": "比特币触及 6 万美元大关" },
-  { "query": "大连理工大学支教", "display_query": "支教辱骂学生者被取消研究生资格" },
+  {
+    "query": "大连理工大学支教",
+    "display_query": "支教辱骂学生者被取消研究生资格"
+  },
   { "query": "rng", "display_query": " LPL 春季赛 RNG 0:2 JDG" },
   { "query": "成都供暖", "display_query": "成都试行集中供暖" },
-  { "query": "济南大学学生自杀", "display_query": "济南一大学生自杀并留下遗书" },
+  {
+    "query": "济南大学学生自杀",
+    "display_query": "济南一大学生自杀并留下遗书"
+  },
   { "query": "棒球", "display_query": "棒球为何在中国大陆火不起来？" },
   { "query": "二月二龙抬头 ", "display_query": "二月二龙抬头" },
   { "query": "长征七号", "display_query": "长征七号改遥二运载火箭成功发射" },

@@ -4,14 +4,20 @@
   { "query": "特斯拉", "display_query": "特斯拉回应 Model 3 失控" },
   { "query": "流金岁月", "display_query": "《流金岁月》开播" },
   { "query": "华为下架腾讯", "display_query": "华为全面下架腾讯游戏" },
-  { "query": "爱尔眼科", "display_query": "爱尔眼科回应艾芬治疗后右眼近乎失明" },
+  {
+    "query": "爱尔眼科",
+    "display_query": "爱尔眼科回应艾芬治疗后右眼近乎失明"
+  },
   { "query": "硬糖少女", "display_query": "硬糖少女 303 跨年翻车" },
   { "query": "北京新增", "display_query": "北京新增 5 例本土确诊病例" },
   { "query": "疫情新增", "display_query": "31 省新增确诊 19 例" },
   { "query": "上海变种新冠", "display_query": "上海发现首例英国变种新冠" },
   { "query": "爱尔眼科", "display_query": "爱尔眼科治眼致右眼近乎失明" },
   { "query": "谢娜怀孕", "display_query": "谢娜怀二胎" },
-  { "query": "送你一朵小红花", "display_query": "易烊千玺新片《送你一朵小红花》" },
+  {
+    "query": "送你一朵小红花",
+    "display_query": "易烊千玺新片《送你一朵小红花》"
+  },
   { "query": "美国疫情", "display_query": "美国确诊人数突破 2000 万" },
   { "query": "大连理工大学", "display_query": "网爆大连理工大学发生车祸" },
   { "query": "幽门螺杆菌", "display_query": "幽门螺杆菌感染有什么影响？" },

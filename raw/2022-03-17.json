@@ -5,7 +5,10 @@
   { "query": "清朗行动", "display_query": "清朗行动发布会" },
   { "query": "柯南", "display_query": "柯南漫画疑似人设崩塌 " },
   { "query": "俄黑客 原神", "display_query": "网传俄黑客破解原神" },
-  { "query": "画江湖之不良人", "display_query": "《画江湖之不良人》第五季更新" },
+  {
+    "query": "画江湖之不良人",
+    "display_query": "《画江湖之不良人》第五季更新"
+  },
   { "query": "十大不推荐产品", "display_query": "315 十大不推荐产品" },
   { "query": "毛戈平", "display_query": "毛戈平重金属含量超标" },
   { "query": "中美监管机构", "display_query": "中美监管机构对中概股保持沟通" },
@@ -14,15 +17,24 @@
   { "query": "甘肃地震", "display_query": "甘肃发生 5.1 级地震" },
   { "query": "张文宏", "display_query": "张文宏称抗疫要有三个武器" },
   { "query": "直播乱象", "display_query": "315 曝光直播乱象" },
-  { "query": "智能儿童手表", "display_query": "315 晚会点名低配的儿童智能手表" },
+  {
+    "query": "智能儿童手表",
+    "display_query": "315 晚会点名低配的儿童智能手表"
+  },
   { "query": "艾尔登法环更新", "display_query": " 艾尔登法环 1.03 大更新" },
-  { "query": "免费 WiFi 手机连不上", "display_query": " 315 曝光免费 WiFi 暗藏陷阱" },
+  {
+    "query": "免费 WiFi 手机连不上",
+    "display_query": " 315 曝光免费 WiFi 暗藏陷阱"
+  },
   { "query": "翡翠直播虚假宣传", "display_query": "翡翠直播卖货层层设套" },
   { "query": "粉条行业", "display_query": "粉条行业真假难辨" },
   { "query": "校园门口抽奖游戏", "display_query": "315 曝光校门口抽奖游戏" },
   { "query": "「土坑」酸菜", "display_query": "315 晚会曝光的「土坑」酸菜" },
   { "query": "港股下跌", "display_query": "港股下跌" },
-  { "query": "动保组织 艾尔登法环", "display_query": "动保组织对艾尔登法环提议 " },
+  {
+    "query": "动保组织 艾尔登法环",
+    "display_query": "动保组织对艾尔登法环提议 "
+  },
   { "query": "邓伦偷逃税被查", "display_query": "邓伦偷逃税被罚款 1.06 亿元" },
   { "query": "A股", "display_query": "A 股盘中跌破 3100 点" },
   { "query": "湖人", "display_query": "湖人负狼遭遇 3 连败" },
@@ -34,12 +46,21 @@
   { "query": "中美关系", "display_query": "为中美关系重回正轨积累条件" },
   { "query": "勇士", "display_query": "库里 47 分勇士 4 连胜" },
   { "query": "游戏防沉迷", "display_query": "网信办证求未成年人网络保护条例" },
-  { "query": "武汉疫情", "display_query": "武汉疫情疑似与美国进口冰鲜龙虾相关" },
+  {
+    "query": "武汉疫情",
+    "display_query": "武汉疫情疑似与美国进口冰鲜龙虾相关"
+  },
   { "query": "河北廊坊", "display_query": "河北廊坊全域封控管理" },
-  { "query": "俄乌冲突造成平民死亡", "display_query": "俄乌冲突已造成至少 636 名平民死亡" },
+  {
+    "query": "俄乌冲突造成平民死亡",
+    "display_query": "俄乌冲突已造成至少 636 名平民死亡"
+  },
   { "query": "假星巴克", "display_query": "出租屋产假星巴克外卖达 729 单" },
   { "query": "热饮超期换标签", "display_query": "7-11 被曝热饮超期换标签" },
   { "query": "富士康 深圳", "display_query": "富士康深圳工厂暂停生产 iPhone" },
   { "query": "iPhone", "display_query": "可戴着口罩解锁 iPhone" },
-  { "query": "新版新冠诊疗方案", "display_query": "国家卫健委发布新版新冠诊疗方案" }
+  {
+    "query": "新版新冠诊疗方案",
+    "display_query": "国家卫健委发布新版新冠诊疗方案"
+  }
 ]

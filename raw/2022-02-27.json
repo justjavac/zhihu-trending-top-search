@@ -6,9 +6,15 @@
   { "query": "俄乌冲突", "display_query": "俄乌冲突有哪些最新进展需要关注" },
   { "query": "乌克兰总统", "display_query": "乌克兰总统泽连斯基已经离开基辅" },
   { "query": "哈登", "display_query": "哈登首秀 27+8+12" },
-  { "query": "香港疫情", "display_query": "香港今日新增新冠肺炎确诊病例 26026 例" },
+  {
+    "query": "香港疫情",
+    "display_query": "香港今日新增新冠肺炎确诊病例 26026 例"
+  },
   { "query": "台湾海峡", "display_query": "东部战区回应美舰过航台湾海峡" },
-  { "query": "陆地探测一号", "display_query": "我国成功发射陆地探测一号 01 组 B 星" },
+  {
+    "query": "陆地探测一号",
+    "display_query": "我国成功发射陆地探测一号 01 组 B 星"
+  },
   { "query": "乌克兰难民", "display_query": "2.9 万乌克兰难民涌入波兰" },
   { "query": "篮网", "display_query": "欧文 38 分篮网胜雄鹿" },
   { "query": "香港疫情", "display_query": "香港新增约 1 万例确诊病例" },
@@ -16,7 +22,10 @@
   { "query": "北约是什么组织", "display_query": "北约是什么组织" },
   { "query": "普京讲话", "display_query": "普京「行动旨在抵御眼下威胁」" },
   { "query": "美国部署核弹", "display_query": "美国在北约部署核弹" },
-  { "query": "乌克兰求助北约", "display_query": "乌总统称西方完全放弃了乌克兰" },
+  {
+    "query": "乌克兰求助北约",
+    "display_query": "乌总统称西方完全放弃了乌克兰"
+  },
   { "query": "乌克兰华人", "display_query": "在乌中国公民不要随意亮明身份" },
   { "query": "我心飞扬", "display_query": "《我心飞扬》导演亲自答" },
   { "query": "俄乌冲突原因", "display_query": "俄乌冲突原因" },
@@ -31,5 +40,8 @@
   { "query": "美国俄罗斯", "display_query": "拜登冻结俄罗斯在美所有资产" },
   { "query": "美国总统拜登", "display_query": "拜登批准向德国增派部队 " },
   { "query": "美俄", "display_query": "拜登称「美俄关系已经完全破裂」" },
-  { "query": "乌克兰全国总动员令", "display_query": "乌克兰总统发布全国总动员令" }
+  {
+    "query": "乌克兰全国总动员令",
+    "display_query": "乌克兰总统发布全国总动员令"
+  }
 ]

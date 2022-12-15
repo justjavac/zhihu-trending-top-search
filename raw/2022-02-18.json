@@ -21,7 +21,10 @@
   { "query": "阿宽红油面皮", "display_query": "阿宽红油面皮吃出老鼠" },
   { "query": "冬奥会观后感", "display_query": "冬奥会观后感" },
   { "query": "广州队", "display_query": "广州队与归化球员终止合约" },
-  { "query": "浙江省创业贷款", "display_query": "浙江省将为大学生提供创业贷款" },
+  {
+    "query": "浙江省创业贷款",
+    "display_query": "浙江省将为大学生提供创业贷款"
+  },
   { "query": "齐广璞", "display_query": "齐广璞夺中国第 7 金" },
   { "query": "任天堂", "display_query": "任天堂不加入元宇宙" },
   { "query": "伊甸启示录", "display_query": "莉莉丝《伊甸启示录》被砍" },

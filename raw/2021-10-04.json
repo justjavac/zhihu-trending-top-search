@@ -9,7 +9,10 @@
   { "query": "高自光", "display_query": "小米副总裁高自光离职" },
   { "query": "苏迪曼杯", "display_query": "国羽夺苏迪曼杯冠军" },
   { "query": "NBA季前赛", "display_query": "新赛季 NBA 季前赛开战" },
-  { "query": "诺贝尔生理学或医学奖", "display_query": "诺贝尔生理学或医学奖公布" },
+  {
+    "query": "诺贝尔生理学或医学奖",
+    "display_query": "诺贝尔生理学或医学奖公布"
+  },
   { "query": "雷军", "display_query": "浙江卫视错把雷军当成周鸿祎" },
   { "query": "office2021", "display_query": "微软公布 Office 2021 定价" },
   { "query": "菲律宾总统", "display_query": "菲律宾总统杜特尔特宣布退出政坛" },

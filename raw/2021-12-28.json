@@ -10,7 +10,10 @@
   { "query": "南京疫情", "display_query": "南京一引航员核酸阳性" },
   { "query": "星巴克", "display_query": "星巴克被强制执行 1087 万" },
   { "query": "魔法使之夜", "display_query": "魔法使之夜动画化" },
-  { "query": "微信网页版文件传输", "display_query": "微信「网页版文件传输助手」" },
+  {
+    "query": "微信网页版文件传输",
+    "display_query": "微信「网页版文件传输助手」"
+  },
   { "query": "史景迁去世", "display_query": "历史学家史景迁去世" },
   { "query": "羽生结弦", "display_query": "羽生结弦晋级北京冬奥会" },
   { "query": "朱婷", "display_query": "女排队长朱婷起诉网友诽谤" },
@@ -19,8 +22,14 @@
   { "query": "德杯", "display_query": "TES 德杯夺冠" },
   { "query": "吴宗宪儿子", "display_query": "吴宗宪儿子夜店吸毒被捕" },
   { "query": "吉林师大考研", "display_query": "吉林师大考研中途换卷" },
-  { "query": "湖南雨雪低温天气", "display_query": "湖南多地因雨雪低温天气停课" },
-  { "query": "新冠疫苗接种", "display_query": "我国新冠疫苗全程接种人数超 12 亿" },
+  {
+    "query": "湖南雨雪低温天气",
+    "display_query": "湖南多地因雨雪低温天气停课"
+  },
+  {
+    "query": "新冠疫苗接种",
+    "display_query": "我国新冠疫苗全程接种人数超 12 亿"
+  },
   { "query": "篮网", "display_query": "哈登 39+8+15 胜快船" },
   { "query": "陕西疫情", "display_query": "陕西疫情" },
   { "query": "三只松鼠", "display_query": "三只松鼠广告被质疑丑化国人" },

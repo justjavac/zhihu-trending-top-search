@@ -20,7 +20,10 @@
   { "query": "战地2042", "display_query": "战地 2042 正式版体验" },
   { "query": "假戴森吹风机", "display_query": "假戴森吹风机盗用真二维码" },
   { "query": "勇士", "display_query": "勇士终结 7 连胜" },
-  { "query": "老师剽窃学生科研成果", "display_query": "学生举报老师剽窃其科研成果申专利" },
+  {
+    "query": "老师剽窃学生科研成果",
+    "display_query": "学生举报老师剽窃其科研成果申专利"
+  },
   { "query": "台湾宜兰县地震", "display_query": "台湾宜兰县海域地震" },
   { "query": "中美会晤", "display_query": "中美元首视频会晤举行" },
   { "query": "会发光的 3090", "display_query": "「会发光的 3090」" },
@@ -32,8 +35,14 @@
   { "query": "法国进军世界杯", "display_query": "法国 8:0 胜哈萨克斯坦" },
   { "query": "跨海高铁", "display_query": "中国首条跨海高铁成功合龙" },
   { "query": "中南屋", "display_query": "赛雷再发视频起底中南屋" },
-  { "query": "隔离宠物狗遭扑杀", "display_query": "官方通报上饶隔离宠物狗遭扑杀" },
-  { "query": "公务员省考报名", "display_query": "多地启动 2022 公务员省考报名" },
+  {
+    "query": "隔离宠物狗遭扑杀",
+    "display_query": "官方通报上饶隔离宠物狗遭扑杀"
+  },
+  {
+    "query": "公务员省考报名",
+    "display_query": "多地启动 2022 公务员省考报名"
+  },
   { "query": "斗破苍穹三年之约", "display_query": "斗破苍穹三年之约更新" },
   { "query": "红猩猩画画出书", "display_query": "南京红山动物园红猩猩画画出书" }
 ]

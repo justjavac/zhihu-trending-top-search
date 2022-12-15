@@ -19,7 +19,10 @@
   { "query": "成龙批评年轻演员", "display_query": "成龙批评年轻演员耍大牌" },
   { "query": "浙江疫情", "display_query": "浙江金华新增 1 例确诊" },
   { "query": "快手裁员", "display_query": "快手再传裁员" },
-  { "query": "西安男子求隔离", "display_query": "西安男子求隔离未果致全家确诊" },
+  {
+    "query": "西安男子求隔离",
+    "display_query": "西安男子求隔离未果致全家确诊"
+  },
   { "query": "南极疫情", "display_query": "南极出现聚集性疫情" },
   { "query": "无人驾驶自行车", "display_query": "高三学生造无人驾驶自行车" },
   { "query": "袁惟仁", "display_query": "知名音乐人袁惟仁成植物人" },
@@ -29,7 +32,10 @@
   { "query": "王老吉", "display_query": "王老吉新年推出姓氏罐" },
   { "query": "小米", "display_query": "印度财政部要求小米追缴税款" },
   { "query": "篮网", "display_query": "杜兰特 39 分篮网止连败" },
-  { "query": "云佛山滑雪场", "display_query": "男子教女友滑雪被要求证明情侣关系" },
+  {
+    "query": "云佛山滑雪场",
+    "display_query": "男子教女友滑雪被要求证明情侣关系"
+  },
   { "query": "孤泳者", "display_query": "孤泳者" },
   { "query": "明日方舟", "display_query": "明日方舟运营发声明" },
   { "query": "操场埋尸案", "display_query": "「操场埋尸案」24 人判刑" },

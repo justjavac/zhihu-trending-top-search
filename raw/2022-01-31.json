@@ -7,7 +7,10 @@
   { "query": "只此青绿", "display_query": "只此青绿" },
   { "query": "支付宝集五福", "display_query": "支付宝集五福活动开奖" },
   { "query": "深圳疫情", "display_query": "深圳新增 1 例确诊" },
-  { "query": "碳酸饮料", "display_query": "20 岁女生爱磨牙喝碳酸饮料致门牙磨平" },
+  {
+    "query": "碳酸饮料",
+    "display_query": "20 岁女生爱磨牙喝碳酸饮料致门牙磨平"
+  },
   { "query": "纳达尔", "display_query": "纳达尔夺澳网冠军" },
   { "query": "林志玲", "display_query": "林志玲宣布生子" },
   { "query": "春晚8k直播", "display_query": "虎年春晚首次采用 8K 直播" },
@@ -22,19 +25,31 @@
   { "query": "北京冬奥村", "display_query": "北京冬奥村按摩床获美国选手狂赞" },
   { "query": "周杰伦新歌", "display_query": "周杰伦说新歌 MV 已拍" },
   { "query": "勇士", "display_query": "库里 19 分勇士胜篮网" },
-  { "query": "上海地铁二维码", "display_query": "上海地铁回应乘车二维码「变红」" },
+  {
+    "query": "上海地铁二维码",
+    "display_query": "上海地铁回应乘车二维码「变红」"
+  },
   { "query": "火龙果弱阳性", "display_query": "天津发现一批火龙果弱阳性" },
   { "query": "航天员太空过年", "display_query": "航天员太空中喜迎春节" },
   { "query": "湖人", "display_query": "威少 20+12 湖人遭逆转" },
   { "query": "Steam", "display_query": "Steam 春节特卖推荐" },
   { "query": "iOS 男妈妈", "display_query": "iOS 新增「男妈妈」emoji" },
   { "query": "中国联通 美国", "display_query": "中国联通被迫在美停止运营" },
-  { "query": "不得随意禁止外地群众返乡", "display_query": "不得随意禁止外地群众返乡" },
+  {
+    "query": "不得随意禁止外地群众返乡",
+    "display_query": "不得随意禁止外地群众返乡"
+  },
   { "query": "高洁丝回应", "display_query": "高洁丝回应被曝卫生巾有虫卵" },
   { "query": "枕刀歌", "display_query": "枕刀歌之尘世行" },
-  { "query": "内蒙古国产香蕉复检呈阳性", "display_query": "内蒙古国产香蕉复检呈阳性" },
+  {
+    "query": "内蒙古国产香蕉复检呈阳性",
+    "display_query": "内蒙古国产香蕉复检呈阳性"
+  },
   { "query": "湖人", "display_query": "威少失绝杀湖人负黄蜂" },
-  { "query": "台湾每天缺120万颗鸡蛋", "display_query": "台湾每天缺 120 万颗鸡蛋" },
+  {
+    "query": "台湾每天缺120万颗鸡蛋",
+    "display_query": "台湾每天缺 120 万颗鸡蛋"
+  },
   { "query": "僵尸校园", "display_query": "韩剧《僵尸校园》" },
   { "query": "美国海军证实", "display_query": "美国海军证实 F-35C 落入南海" },
   { "query": "天津疫情", "display_query": "天津新增 11 例新冠病毒感染者" },

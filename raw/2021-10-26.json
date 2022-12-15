@@ -36,6 +36,9 @@
   { "query": "动画片", "display_query": "小孩看动画因反派砸电视" },
   { "query": "程序员节", "display_query": "1024 程序员节" },
   { "query": "于月仙", "display_query": "于月仙车祸处理结果" },
-  { "query": "家长反映食堂问题被刑拘", "display_query": "家长反映食堂问题被刑拘" },
+  {
+    "query": "家长反映食堂问题被刑拘",
+    "display_query": "家长反映食堂问题被刑拘"
+  },
   { "query": "北京野生动物园", "display_query": "北京野生动物园游客冲向虎群" }
 ]

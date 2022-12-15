@@ -8,12 +8,18 @@
   { "query": "武汉公交车", "display_query": "武汉公交车" },
   { "query": "翟天临回复", "display_query": "翟天临回复近期被骂事件" },
   { "query": "虚幻引擎5", "display_query": "虚幻引擎 5 抢先体验" },
-  { "query": "四川食品厂", "display_query": "四川一食品厂疑似发生有害气体中毒致 7 死" },
+  {
+    "query": "四川食品厂",
+    "display_query": "四川一食品厂疑似发生有害气体中毒致 7 死"
+  },
   { "query": "高考招生", "display_query": "2021 高考招生变化" },
   { "query": "小米美国和解", "display_query": "小米被移出美国制裁清单" },
   { "query": "翟天临", "display_query": "翟天临发文回复网友" },
   { "query": "河南男子", "display_query": "河南一男子报复社会" },
-  { "query": "金融委打击比特币", "display_query": "金融委打击比特币挖矿和交易行为" },
+  {
+    "query": "金融委打击比特币",
+    "display_query": "金融委打击比特币挖矿和交易行为"
+  },
   { "query": "河北中学砍人", "display_query": "河北一中学发生砍人事件" },
   { "query": "吴孟超", "display_query": "吴孟超灵堂放的是国际歌" },
   { "query": "rng", "display_query": "RNG 夺冠" },

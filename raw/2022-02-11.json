@@ -1,14 +1,23 @@
 [
   { "query": "钢架雪车", "display_query": "钢架雪车闫文港摘铜" },
   { "query": "任天堂", "display_query": "任天堂直面会" },
-  { "query": "b站猝死者加班记录被篡改", "display_query": "b站猝死者加班记录被篡改" },
+  {
+    "query": "b站猝死者加班记录被篡改",
+    "display_query": "b站猝死者加班记录被篡改"
+  },
   { "query": "图书馆30秒", "display_query": "图书馆 30 秒" },
   { "query": "海贼王", "display_query": "海贼王 1040 话" },
   { "query": "画江湖", "display_query": "画江湖之不良人 5 更新" },
   { "query": "新秦时明月", "display_query": "新秦时明月更新" },
   { "query": "苏翊鸣裁判长", "display_query": "苏翊鸣裁判长给冠军分打高了" },
-  { "query": "俄罗斯运动员违禁药物检验", "display_query": "俄罗斯运动员违禁药物检验阳性" },
-  { "query": "广西开放社会捐赠渠道", "display_query": "广西多地开放社会捐赠渠道" },
+  {
+    "query": "俄罗斯运动员违禁药物检验",
+    "display_query": "俄罗斯运动员违禁药物检验阳性"
+  },
+  {
+    "query": "广西开放社会捐赠渠道",
+    "display_query": "广西多地开放社会捐赠渠道"
+  },
   { "query": "一人之下", "display_query": "一人之下 600 话更新" },
   { "query": "短道速滑", "display_query": "男子短道接力中国惊险晋级" },
   { "query": "美国起诉特斯拉", "display_query": "美国起诉特斯拉" },
@@ -20,7 +29,10 @@
   { "query": "短道速滑", "display_query": "短道任子威无缘 1500 米决赛" },
   { "query": "单板滑雪", "display_query": "蔡雪桐刘佳宇无缘奖牌" },
   { "query": "美方否认", "display_query": "美方否认危及中国空间站" },
-  { "query": "水门桥七连连长之子", "display_query": "电影是对已离去父亲的告慰" },
+  {
+    "query": "水门桥七连连长之子",
+    "display_query": "电影是对已离去父亲的告慰"
+  },
   { "query": "estar", "display_query": "eStar 揭幕战取开门红" },
   { "query": "b 站猝死", "display_query": "B 站猝死博主收到律师函" },
   { "query": "四川中考", "display_query": "四川要求将艺术类纳入中考" },
@@ -36,10 +48,16 @@
   { "query": "海贼王", "display_query": "海贼王 1040 话情报" },
   { "query": "篮网", "display_query": "篮网 9 连败" },
   { "query": "原神", "display_query": "原神八重神子角色 PV" },
-  { "query": "大连宝马撞人案", "display_query": "大连宝马撞人案司机二审获死刑" },
+  {
+    "query": "大连宝马撞人案",
+    "display_query": "大连宝马撞人案司机二审获死刑"
+  },
   { "query": "谷爱凌回应", "display_query": "谷爱凌回应美国网友批评" },
   { "query": "喜茶员工爆料", "display_query": "喜茶员工爆料公司苛待员工" },
   { "query": "个人存取", "display_query": "个人存取现金超 5 万要登记" },
   { "query": "湖人", "display_query": "字母 44 分雄鹿胜湖人" },
-  { "query": "确保教师工资不低于公务员", "display_query": "确保教师工资不低于公务员" }
+  {
+    "query": "确保教师工资不低于公务员",
+    "display_query": "确保教师工资不低于公务员"
+  }
 ]

@@ -18,7 +18,10 @@
   { "query": "iPhone 13", "display_query": "iPhone 13 新外观曝光" },
   { "query": "高考", "display_query": "高考加油" },
   { "query": "人人视频", "display_query": "网传苹果 App Store 下架人人视频" },
-  { "query": "科兴疫苗", "display_query": "科兴疫苗紧急使用年龄扩大到 3 岁以上" },
+  {
+    "query": "科兴疫苗",
+    "display_query": "科兴疫苗紧急使用年龄扩大到 3 岁以上"
+  },
   { "query": "上海电影节", "display_query": "第 24 届上海电影节" },
   { "query": "世界环境日", "display_query": "世界环境日" }
 ]

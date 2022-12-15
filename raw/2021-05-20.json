@@ -7,7 +7,10 @@
   { "query": "币圈崩盘", "display_query": "虚拟货币全线暴跌" },
   { "query": "新垣结衣结婚", "display_query": "新垣结衣和星野源结婚" },
   { "query": "王彦霖", "display_query": "王彦霖结婚" },
-  { "query": "画江湖之不良人第四季", "display_query": "《画江湖之不良人》第四季第 5 集" },
+  {
+    "query": "画江湖之不良人第四季",
+    "display_query": "《画江湖之不良人》第四季第 5 集"
+  },
   { "query": "特朗普", "display_query": "特朗普集团被刑事调查" },
   { "query": "进击的巨人", "display_query": "进击的巨人加页全出炉" },
   { "query": "林书豪", "display_query": "林书豪谈无法重返 NBA" },

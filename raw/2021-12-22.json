@@ -1,5 +1,8 @@
 [
-  { "query": "陈耀明", "display_query": "中国印钞造币总公司董事陈耀明主动投案" },
+  {
+    "query": "陈耀明",
+    "display_query": "中国印钞造币总公司董事陈耀明主动投案"
+  },
   { "query": "英特尔", "display_query": "英特尔「禁用新疆产品」" },
   { "query": "主播补税", "display_query": "千名网络主播已主动补税" },
   { "query": "小米12", "display_query": "小米 12 系列官宣" },

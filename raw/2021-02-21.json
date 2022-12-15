@@ -10,7 +10,10 @@
   { "query": "kpl", "display_query": "KPL 转会期汇总" },
   { "query": "暴雪嘉年华", "display_query": "暴雪嘉年华" },
   { "query": "刺死女儿同桌", "display_query": "刺死女儿同桌男子被执行死刑" },
-  { "query": "加勒万河谷冲突事件", "display_query": "中方公布中印边境冲突消息" },
+  {
+    "query": "加勒万河谷冲突事件",
+    "display_query": "中方公布中印边境冲突消息"
+  },
   { "query": "小米造车", "display_query": "小米回应造车" },
   { "query": "比特币", "display_query": "比特币突破 52000 美元关口" },
   { "query": "吴秀波", "display_query": "吴秀波被女友敲诈案宣判" },

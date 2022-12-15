@@ -13,7 +13,10 @@
   { "query": "三国杀", "display_query": "三国杀 Steam 下架" },
   { "query": "宁德时代", "display_query": "宁德时代否认与特斯拉谈崩" },
   { "query": "北京健康宝", "display_query": "北京「健康宝」再升级" },
-  { "query": "易烊千玺", "display_query": "易烊千玺领衔主演电影票房全部超 10 亿" },
+  {
+    "query": "易烊千玺",
+    "display_query": "易烊千玺领衔主演电影票房全部超 10 亿"
+  },
   { "query": "速度滑冰颁奖仪式", "display_query": "速度滑冰 500 米颁奖仪式 " },
   { "query": "厦门蓝眼泪", "display_query": "厦门二月出现「蓝眼泪」" },
   { "query": "徐梦桃", "display_query": "徐梦桃晋级空中技巧决赛" },
@@ -21,7 +24,10 @@
   { "query": "武大靖", "display_query": "武大靖无缘卫冕" },
   { "query": "北京暴雪蓝色预警", "display_query": "北京发布暴雪蓝色预警" },
   { "query": "张艺谋工作强度", "display_query": "张艺谋工作强度近乎疯狂" },
-  { "query": "俄罗斯乌克兰", "display_query": "俄罗斯开始撤离驻乌克兰外交人员" },
+  {
+    "query": "俄罗斯乌克兰",
+    "display_query": "俄罗斯开始撤离驻乌克兰外交人员"
+  },
   { "query": "苏翊鸣", "display_query": "苏翊鸣晋级大跳台决赛" },
   { "query": "湖人", "display_query": "詹姆斯破纪录湖人负勇士" },
   { "query": "冰壶", "display_query": "冰壶循环赛中国 2 连胜" },
@@ -31,7 +37,10 @@
   { "query": "羽生结弦", "display_query": "国际滑联回应羽生结弦 4A 未获认定" },
   { "query": "高亭宇", "display_query": "高亭宇夺中国第四金" },
   { "query": "尊严死", "display_query": "卫健委答复「尊严死」立法" },
-  { "query": "进击的巨人", "display_query": "进击的巨人最终季 Part.2 进击的巨人" },
+  {
+    "query": "进击的巨人",
+    "display_query": "进击的巨人最终季 Part.2 进击的巨人"
+  },
   { "query": "国王排名", "display_query": "国王排名更新" },
   { "query": "一拳超人", "display_query": "一拳超人重制版 203 话" },
   { "query": "失德艺人", "display_query": "禁止违法失德艺人通过电视剧出镜" },

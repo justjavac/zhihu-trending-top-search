@@ -17,7 +17,10 @@
   { "query": "岸田文雄", "display_query": "岸田文雄当选日本首相" },
   { "query": "爱奇艺", "display_query": "爱奇艺正式取消剧集超前点播" },
   { "query": "鳌太线", "display_query": "驴友非法穿越鳌太线失联" },
-  { "query": "诺贝尔生理学或医学奖", "display_query": "诺贝尔生理学或医学奖公布" },
+  {
+    "query": "诺贝尔生理学或医学奖",
+    "display_query": "诺贝尔生理学或医学奖公布"
+  },
   { "query": "四川地震", "display_query": "四川地震局致歉" },
   { "query": "世界动物日", "display_query": "世界动物日" },
   { "query": "珠海 深圳", "display_query": "珠海有望再添对接深圳通道" },

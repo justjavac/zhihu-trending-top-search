@@ -17,7 +17,10 @@
   { "query": "美国撤军", "display_query": "美国将开始从阿富汗撤军" },
   { "query": "何炅父亲", "display_query": "何炅父亲被强制执行" },
   { "query": "美团败诉", "display_query": "美团因不正当竞争败诉" },
-  { "query": "美国支持核污水入海", "display_query": "美国支持日核污水入海决定" },
+  {
+    "query": "美国支持核污水入海",
+    "display_query": "美国支持日核污水入海决定"
+  },
   { "query": "玉树地震", "display_query": "玉树地震 11 周年" },
   { "query": "菏泽汉墓", "display_query": "山东发现 156 座连片汉墓" }
 ]

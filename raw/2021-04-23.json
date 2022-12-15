@@ -10,7 +10,10 @@
   { "query": "华为自动驾驶", "display_query": "百度回应华为自动驾驶" },
   { "query": "香奈儿起诉华为", "display_query": "香奈儿诉华为商标侵权败诉" },
   { "query": "美赛", "display_query": "2021 美赛成绩" },
-  { "query": "小米11烧主板", "display_query": "小米 11 疑似出现 Wi-Fi 模块损坏" },
+  {
+    "query": "小米11烧主板",
+    "display_query": "小米 11 疑似出现 Wi-Fi 模块损坏"
+  },
   { "query": "中南大学研究生", "display_query": "中南大学一硕士生坠楼身亡" },
   { "query": "人民海军", "display_query": "人民海军成立 72 周年" },
   { "query": "赵丽颖冯绍峰离婚", "display_query": "赵丽颖冯绍峰离婚" },

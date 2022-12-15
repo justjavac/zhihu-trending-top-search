@@ -25,7 +25,10 @@
   { "query": "北京海外考试", "display_query": "北京海外考试因疫情取消" },
   { "query": "淘宝购物车", "display_query": "微信屏蔽淘宝购物车链接" },
   { "query": "电信运营牌照", "display_query": "美国取消中国电信运营牌照" },
-  { "query": "爱情公寓", "display_query": "上海某导演拍摄不雅视频获利百万被抓" },
+  {
+    "query": "爱情公寓",
+    "display_query": "上海某导演拍摄不雅视频获利百万被抓"
+  },
   { "query": "猫之茗", "display_query": "国漫《猫之茗》开播" },
   { "query": "瑞丽", "display_query": "云南瑞丽否认长期封城" },
   { "query": "12代酷睿", "display_query": "英特尔 12 代酷睿处理器" },

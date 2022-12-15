@@ -5,7 +5,10 @@
   { "query": "篮网", "display_query": "杜兰特 30 分篮网胜狼" },
   { "query": "中概股", "display_query": "中概股暴跌" },
   { "query": "特利迦奥特曼", "display_query": "特利迦奥特曼 20 话" },
-  { "query": "图书馆停电30秒原文", "display_query": "「图书馆停电许愿 30 秒」" },
+  {
+    "query": "图书馆停电30秒原文",
+    "display_query": "「图书馆停电许愿 30 秒」"
+  },
   { "query": "詹姆斯", "display_query": "詹姆斯新冠检测呈阴性" },
   { "query": "滴滴", "display_query": "滴滴退市" },
   { "query": "冬奥会开幕", "display_query": "冬奥会计划 2 月 4 日开幕 " },

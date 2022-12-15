@@ -34,6 +34,9 @@
   { "query": "一人之下4", "display_query": "一人之下 4 更新" },
   { "query": "国王排名", "display_query": "国王排名更新" },
   { "query": "世乒赛混双", "display_query": "世乒赛王曼昱跨国混双出局" },
-  { "query": "新型变异毒株", "display_query": "世卫将新型变异毒株命名为 Omicron" },
+  {
+    "query": "新型变异毒株",
+    "display_query": "世卫将新型变异毒株命名为 Omicron"
+  },
   { "query": "内蒙疫情", "display_query": "内蒙疫情" }
 ]

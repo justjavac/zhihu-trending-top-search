@@ -1,6 +1,9 @@
 [
   { "query": "鬼灭之刃", "display_query": "鬼灭之刃第二季更新" },
-  { "query": "冬奥人员复检阳性", "display_query": "冬奥人员海关复检阳性 39 人" },
+  {
+    "query": "冬奥人员复检阳性",
+    "display_query": "冬奥人员海关复检阳性 39 人"
+  },
   { "query": "原神", "display_query": "《原神》新春会" },
   { "query": "小红书", "display_query": "小红书被罚 30 万" },
   { "query": "上海临时展开核酸检测", "display_query": "上海临时展开核酸检测" },
@@ -14,7 +17,10 @@
   { "query": "wtt", "display_query": "WTT 女单半决赛" },
   { "query": "山西疫情", "display_query": "山西发现 1 例核酸阳性人员" },
   { "query": "勇士", "display_query": "库里 13 分勇士胜爵士" },
-  { "query": "哈尔滨全员核酸检测", "display_query": "哈尔滨要求全市全员核酸检测" },
+  {
+    "query": "哈尔滨全员核酸检测",
+    "display_query": "哈尔滨要求全市全员核酸检测"
+  },
   { "query": "山西新增", "display_query": "山西新增 1 例本土确诊" },
   { "query": "去你的岛", "display_query": "番大王《去你的岛》" },
   { "query": "fpx", "display_query": "FPX 新赛季首败" },
@@ -24,9 +30,18 @@
   { "query": "库里", "display_query": "库里绝杀火箭" },
   { "query": "北京疫情", "display_query": "北京新增 6 例本土确诊" },
   { "query": "北京疫情", "display_query": "北京新增 9 例本土确诊" },
-  { "query": "美国暂停4家中国航班公司", "display_query": "美国暂停 4 家中国航班公司 44 趟航班" },
-  { "query": "斯洛文尼亚", "display_query": "斯洛文尼亚总统回应该国总理涉台不当言论" },
-  { "query": "破产董事长拾荒", "display_query": "破产董事长流浪深圳街头靠拾荒为生" },
+  {
+    "query": "美国暂停4家中国航班公司",
+    "display_query": "美国暂停 4 家中国航班公司 44 趟航班"
+  },
+  {
+    "query": "斯洛文尼亚",
+    "display_query": "斯洛文尼亚总统回应该国总理涉台不当言论"
+  },
+  {
+    "query": "破产董事长拾荒",
+    "display_query": "破产董事长流浪深圳街头靠拾荒为生"
+  },
   { "query": "星辰变", "display_query": "星辰变第四季" },
   { "query": "篮网", "display_query": "哈登大号三双篮网胜马刺" },
   { "query": "樊振东", "display_query": "徐瑛彬 3-1 樊振东" },

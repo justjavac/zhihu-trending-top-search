@@ -16,18 +16,33 @@
   { "query": "未来中国", "display_query": "如何造出太空巨眼" },
   { "query": "小米辞退员工", "display_query": "小米辞退不能胜任工作员工败诉" },
   { "query": "长沙新冠", "display_query": "长沙发现 2 例新冠肺炎确诊病例#" },
-  { "query": "东航飞行事故确定坠机撞击点", "display_query": "东航飞行事故第六次发布会" },
+  {
+    "query": "东航飞行事故确定坠机撞击点",
+    "display_query": "东航飞行事故第六次发布会"
+  },
   { "query": "四川航空", "display_query": "川航 3U3839 出现机械故障返航" },
   { "query": "显卡降价", "display_query": "高端显卡降价血崩" },
   { "query": "苹果硬件订阅", "display_query": "苹果计划推出硬件订阅服务" },
-  { "query": "泸州食物中毒事件", "display_query": "四川泸州食物中毒事件已致 4 死" },
+  {
+    "query": "泸州食物中毒事件",
+    "display_query": "四川泸州食物中毒事件已致 4 死"
+  },
   { "query": "办酒席食物中毒", "display_query": "农户办酒席发生食物中毒" },
   { "query": "原神", "display_query": "《原神》神里绫人 PV 原神" },
   { "query": "回南天", "display_query": "「回南天」有多夸张" },
-  { "query": "外交部敦促美方", "display_query": "外交部敦促美方作出令人信服的交代" },
-  { "query": "特朗普对希拉里提起诉讼", "display_query": "特朗普对希拉里提起诉讼" },
+  {
+    "query": "外交部敦促美方",
+    "display_query": "外交部敦促美方作出令人信服的交代"
+  },
+  {
+    "query": "特朗普对希拉里提起诉讼",
+    "display_query": "特朗普对希拉里提起诉讼"
+  },
   { "query": "一拳超人", "display_query": "一拳超人重制 206 话" },
-  { "query": "英国对俄罗斯进一步制裁", "display_query": "英国对俄罗斯进一步制裁" },
+  {
+    "query": "英国对俄罗斯进一步制裁",
+    "display_query": "英国对俄罗斯进一步制裁"
+  },
   { "query": "美国供应", "display_query": "美国确保对欧洲资源的供应" },
   { "query": "意大利无缘世界杯", "display_query": "意大利无缘世界杯" },
   { "query": "太阳", "display_query": "太阳锁定常规赛冠军" },

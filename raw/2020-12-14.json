@@ -16,7 +16,10 @@
   { "query": "甲骨文", "display_query": "甲骨文宣布迁往得克萨斯" },
   { "query": "拉姆前夫", "display_query": "网红拉姆前夫被批捕" },
   { "query": "清华学生告小黄车", "display_query": "清华学生状告小黄车败诉" },
-  { "query": "居民网购冷冻猪肉被罚", "display_query": "黄冈网购冷冻猪肉居民被罚" },
+  {
+    "query": "居民网购冷冻猪肉被罚",
+    "display_query": "黄冈网购冷冻猪肉居民被罚"
+  },
   { "query": "素媛案罪犯", "display_query": "素媛案罪犯赵斗顺出狱" },
   { "query": "四六级考试", "display_query": "英语四六级考试" },
   { "query": "孕妇应聘教师", "display_query": "孕妇未做胸透被拒录用" }

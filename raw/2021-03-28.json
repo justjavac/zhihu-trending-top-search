@@ -4,7 +4,10 @@
   { "query": "乌合麒麟", "display_query": "乌合麒麟讽刺 BCI 新作" },
   { "query": "鬼谷八荒", "display_query": "《鬼谷八荒》新版本" },
   { "query": "安踏净利润", "display_query": "安踏净利润超越 Adidas" },
-  { "query": "小米11ultra", "display_query": "小米 11 Ultra 将首发全相变散热技术" },
+  {
+    "query": "小米11ultra",
+    "display_query": "小米 11 Ultra 将首发全相变散热技术"
+  },
   { "query": "水滴关停", "display_query": "水滴互助停止服务" },
   { "query": "廖启智", "display_query": "廖启智因胃癌去世" },
   { "query": "足协", "display_query": "中国足协谴责耐克" },

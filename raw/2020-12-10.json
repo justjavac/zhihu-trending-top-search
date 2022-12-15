@@ -9,7 +9,10 @@
   { "query": "双十二", "display_query": "2020 年双十二购物节" },
   { "query": "丁真小马", "display_query": "丁真小马珍珠回应质疑" },
   { "query": "电锯人", "display_query": "《电锯人》动画化" },
-  { "query": "airpods max", "display_query": "苹果发布 AirPods Max 头戴式耳机" },
+  {
+    "query": "airpods max",
+    "display_query": "苹果发布 AirPods Max 头戴式耳机"
+  },
   { "query": "教资成绩", "display_query": "2020 下半年教资成绩公布" },
   { "query": "素媛案", "display_query": "素媛案主犯希望和受害者见面" },
   { "query": "天官赐福", "display_query": "《天官赐福》即将影视化" },

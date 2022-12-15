@@ -1,7 +1,10 @@
 [
   { "query": "无职转生", "display_query": "无职转生 part.2 更新" },
   { "query": "通辽雪灾", "display_query": "内蒙古通辽雪灾" },
-  { "query": "郑州疫情", "display_query": "郑州通报 12 例感染者轨迹 9 名为儿童" },
+  {
+    "query": "郑州疫情",
+    "display_query": "郑州通报 12 例感染者轨迹 9 名为儿童"
+  },
   { "query": "马斯克", "display_query": "马斯克发投票是否出售特斯拉股票" },
   { "query": "疫情", "display_query": "国内疫情最新动态" },
   { "query": "马斯克", "display_query": "马斯克面临百亿天价税单" },

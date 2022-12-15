@@ -11,7 +11,10 @@
   { "query": "山河令", "display_query": "山河令演唱会" },
   { "query": "南大碎尸案", "display_query": "南大碎尸案家属撤诉" },
   { "query": "西游记之再世妖王", "display_query": "西游记之再世妖王" },
-  { "query": "侮辱南京大屠杀死难者", "display_query": "侮辱南京大屠杀死难者被刑拘" },
+  {
+    "query": "侮辱南京大屠杀死难者",
+    "display_query": "侮辱南京大屠杀死难者被刑拘"
+  },
   { "query": "滴滴", "display_query": "滴滴启动造车项目" },
   { "query": "未成年人学校保护规定", "display_query": "未成年人学校保护规定" },
   { "query": "吐槽大会", "display_query": "《吐槽大会》第五季总决赛" },

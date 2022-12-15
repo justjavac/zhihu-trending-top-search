@@ -14,11 +14,23 @@
   { "query": "江歌妈妈陈岚", "display_query": "陈岚回应江歌妈妈投诉" },
   { "query": "乌克兰志愿者", "display_query": "普京同意向乌克兰派遣志愿者" },
   { "query": "管理漏洞导致上海疫情", "display_query": "管理漏洞导致上海疫情" },
-  { "query": "波司登羽绒服", "display_query": "波司登羽绒服背部未充绒只有两层布" },
+  {
+    "query": "波司登羽绒服",
+    "display_query": "波司登羽绒服背部未充绒只有两层布"
+  },
   { "query": "梅方退役", "display_query": "前国脚梅方正式宣布退役" },
-  { "query": "吉林农业科技学院疫情", "display_query": "吉林农业科技学院聚集性疫情" },
-  { "query": "蝙蝠新冠病毒样本试验", "display_query": "俄称美实验室做过病毒试验" },
-  { "query": "印度误射导弹", "display_query": "印度承认误射导弹落入巴基斯坦境内" },
+  {
+    "query": "吉林农业科技学院疫情",
+    "display_query": "吉林农业科技学院聚集性疫情"
+  },
+  {
+    "query": "蝙蝠新冠病毒样本试验",
+    "display_query": "俄称美实验室做过病毒试验"
+  },
+  {
+    "query": "印度误射导弹",
+    "display_query": "印度承认误射导弹落入巴基斯坦境内"
+  },
   { "query": "医保停用诈骗短信", "display_query": "国家医保局发特别提醒" },
   { "query": "欧洲委员会", "display_query": "俄罗斯不再参加欧洲委员会" },
   { "query": "上海疫情", "display_query": "上海新增 11 例本土确诊" },
@@ -29,6 +41,9 @@
   { "query": "山东疫情", "display_query": "山东新增本土 121 例" },
   { "query": "天津疫情", "display_query": "天津新增 17 例本土确诊" },
   { "query": "韩国总统", "display_query": "尹锡悦当选韩国总统" },
-  { "query": "猪心脏移植", "display_query": "全球首位猪心脏移植病人在术后两个月死亡" },
+  {
+    "query": "猪心脏移植",
+    "display_query": "全球首位猪心脏移植病人在术后两个月死亡"
+  },
   { "query": "皇马", "display_query": "皇马淘汰巴黎晋级欧冠 8 强" }
 ]
