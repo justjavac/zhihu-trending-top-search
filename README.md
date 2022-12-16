@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Dec 16 2022 15:06:45 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Dec 16 2022 16:09:48 GMT+0800 (China Standard Time) -->
 
 1. [钟南山：不主张「大家一起阳」](https://www.zhihu.com/search?q=钟南山：不主张「大家一起阳」)
 1. [杭州天空有疑似陨石掉落](https://www.zhihu.com/search?q=杭州天空有疑似陨石掉落)
