@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Dec 16 2022 12:08:25 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Dec 16 2022 13:07:02 GMT+0800 (China Standard Time) -->
 
 1. [杨迪已被注册成商标](https://www.zhihu.com/search?q=杨迪已被注册成商标)
 1. [至今还未感染的你是怎么做到的](https://www.zhihu.com/search?q=至今还未感染的你是怎么做到的)
