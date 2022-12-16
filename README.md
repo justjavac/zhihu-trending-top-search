@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Dec 16 2022 23:09:06 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Dec 17 2022 00:09:22 GMT+0800 (China Standard Time) -->
 
 1. [养老院院长自述「抢不到抗原药品」](https://www.zhihu.com/search?q=养老院院长自述「抢不到抗原药品」)
 1. [周大福2万元钻戒当掉卖不了3千](https://www.zhihu.com/search?q=周大福2万元钻戒当掉卖不了3千)
@@ -25,17 +25,6 @@
 1. [麦田「长出」十层高楼当地避而不谈](https://www.zhihu.com/search?q=麦田「长出」十层高楼当地避而不谈)
 1. [东北制药回应退烧药 1 板 2
    元](https://www.zhihu.com/search?q=东北制药回应退烧药 1 板 2 元)
-1. [杭州天空有疑似陨石掉落](https://www.zhihu.com/search?q=杭州天空有疑似陨石掉落)
-1. [钟南山：不主张「大家一起阳」](https://www.zhihu.com/search?q=钟南山：不主张「大家一起阳」)
-1. [贵州火灾致 4人遇难19 栋房屋被烧毁](https://www.zhihu.com/search?q=贵州火灾致
-   4人遇难19 栋房屋被烧毁)
-1. [杨迪已被注册成商标](https://www.zhihu.com/search?q=杨迪已被注册成商标)
-1. [至今还未感染的你是怎么做到的](https://www.zhihu.com/search?q=至今还未感染的你是怎么做到的)
-1. [男子开钻机疯狂破坏致1死](https://www.zhihu.com/search?q=男子开钻机疯狂破坏致1死)
-1. [新冠印度仿制药被卖到一盒上千元](https://www.zhihu.com/search?q=新冠印度仿制药被卖到一盒上千元)
-1. [中国驻英使馆声明](https://www.zhihu.com/search?q=中国驻英使馆声明)
-1. [11 月商品住宅销售价格环比总体延续降势](https://www.zhihu.com/search?q=11
-   月商品住宅销售价格环比总体延续降势)
 
 <!-- END -->
 
