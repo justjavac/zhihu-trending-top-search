@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Dec 17 2022 03:05:50 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Dec 17 2022 04:07:27 GMT+0800 (China Standard Time) -->
 
 1. [养老院院长自述「抢不到抗原药品」](https://www.zhihu.com/search?q=养老院院长自述「抢不到抗原药品」)
 1. [周大福2万元钻戒当掉卖不了3千](https://www.zhihu.com/search?q=周大福2万元钻戒当掉卖不了3千)
