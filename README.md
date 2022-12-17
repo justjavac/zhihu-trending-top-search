@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Dec 18 2022 05:06:00 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Dec 18 2022 06:06:11 GMT+0800 (China Standard Time) -->
 
 1. [全国多地将现同期少见低温](https://www.zhihu.com/search?q=全国多地将现同期少见低温)
 1. [辉瑞新冠治疗药物有特定适应症](https://www.zhihu.com/search?q=辉瑞新冠治疗药物有特定适应症)
