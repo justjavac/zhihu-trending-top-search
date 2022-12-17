@@ -15,10 +15,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Dec 17 2022 10:02:20 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Dec 17 2022 11:07:40 GMT+0800 (China Standard Time) -->
 
-1. [周大福2万元钻戒当掉卖不了3千](https://www.zhihu.com/search?q=周大福2万元钻戒当掉卖不了3千)
-1. [阿凡达 2 上映](https://www.zhihu.com/search?q=阿凡达 2 上映)
 1. [国考定于 1 月 8 日开考](https://www.zhihu.com/search?q=国考定于 1 月 8
    日开考)
 1. [麦田「长出」十层高楼当地避而不谈](https://www.zhihu.com/search?q=麦田「长出」十层高楼当地避而不谈)
@@ -26,6 +24,8 @@
    元](https://www.zhihu.com/search?q=东北制药回应退烧药 1 板 2 元)
 1. [克罗地亚 vs 摩洛哥](https://www.zhihu.com/search?q=克罗地亚 vs 摩洛哥)
 1. [全国多地将现同期少见低温](https://www.zhihu.com/search?q=全国多地将现同期少见低温)
+1. [周大福2万元钻戒当掉卖不了3千](https://www.zhihu.com/search?q=周大福2万元钻戒当掉卖不了3千)
+1. [阿凡达 2 上映](https://www.zhihu.com/search?q=阿凡达 2 上映)
 1. [养老院院长自述「抢不到抗原药品」](https://www.zhihu.com/search?q=养老院院长自述「抢不到抗原药品」)
 
 <!-- END -->
