@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Dec 17 2022 07:07:03 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Dec 17 2022 08:36:00 GMT+0800 (China Standard Time) -->
 
 1. [养老院院长自述「抢不到抗原药品」](https://www.zhihu.com/search?q=养老院院长自述「抢不到抗原药品」)
 1. [周大福2万元钻戒当掉卖不了3千](https://www.zhihu.com/search?q=周大福2万元钻戒当掉卖不了3千)
@@ -25,6 +25,7 @@
 1. [麦田「长出」十层高楼当地避而不谈](https://www.zhihu.com/search?q=麦田「长出」十层高楼当地避而不谈)
 1. [东北制药回应退烧药 1 板 2
    元](https://www.zhihu.com/search?q=东北制药回应退烧药 1 板 2 元)
+1. [克罗地亚 vs 摩洛哥](https://www.zhihu.com/search?q=克罗地亚 vs 摩洛哥)
 
 <!-- END -->
 
