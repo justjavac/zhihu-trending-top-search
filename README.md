@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Dec 17 2022 13:06:16 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Dec 17 2022 14:08:30 GMT+0800 (China Standard Time) -->
 
 1. [麦田「长出」十层高楼当地避而不谈](https://www.zhihu.com/search?q=麦田「长出」十层高楼当地避而不谈)
 1. [东北制药回应退烧药 1 板 2
