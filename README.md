@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Dec 18 2022 19:05:56 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Dec 18 2022 20:11:56 GMT+0800 (China Standard Time) -->
 
 1. [国药集团：未代理辉瑞新冠治疗药物](https://www.zhihu.com/search?q=国药集团：未代理辉瑞新冠治疗药物)
 1. [基辛格表示「各方应就结束俄乌冲突展开谈判」](https://www.zhihu.com/search?q=基辛格表示「各方应就结束俄乌冲突展开谈判」)
@@ -24,6 +24,8 @@
 1. [四川启动居民新冠病毒感染问卷调查](https://www.zhihu.com/search?q=四川启动居民新冠病毒感染问卷调查)
 1. [作家西西去世](https://www.zhihu.com/search?q=作家西西去世)
 1. [台积电总裁首度回应赴日设厂](https://www.zhihu.com/search?q=台积电总裁首度回应赴日设厂)
+1. [男子自称感染「哭株」全国罕见](https://www.zhihu.com/search?q=男子自称感染「哭株」全国罕见)
+1. [大理寺日志第二季第五集](https://www.zhihu.com/search?q=大理寺日志第二季第五集)
 1. [辉瑞新冠治疗药物有特定适应症](https://www.zhihu.com/search?q=辉瑞新冠治疗药物有特定适应症)
 1. [全国多地将现同期少见低温](https://www.zhihu.com/search?q=全国多地将现同期少见低温)
 1. [克罗地亚 vs 摩洛哥](https://www.zhihu.com/search?q=克罗地亚 vs 摩洛哥)
