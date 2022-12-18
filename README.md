@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Dec 18 2022 18:06:55 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Dec 18 2022 19:05:56 GMT+0800 (China Standard Time) -->
 
 1. [国药集团：未代理辉瑞新冠治疗药物](https://www.zhihu.com/search?q=国药集团：未代理辉瑞新冠治疗药物)
 1. [基辛格表示「各方应就结束俄乌冲突展开谈判」](https://www.zhihu.com/search?q=基辛格表示「各方应就结束俄乌冲突展开谈判」)
