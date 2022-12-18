@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Dec 18 2022 12:08:24 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Dec 18 2022 13:06:29 GMT+0800 (China Standard Time) -->
 
 1. [辉瑞新冠治疗药物有特定适应症](https://www.zhihu.com/search?q=辉瑞新冠治疗药物有特定适应症)
 1. [国药集团：未代理辉瑞新冠治疗药物](https://www.zhihu.com/search?q=国药集团：未代理辉瑞新冠治疗药物)
