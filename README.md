@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Dec 19 2022 18:09:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Dec 19 2022 19:06:12 GMT+0800 (China Standard Time) -->
 
 1. [男子自称感染「哭株」全国罕见](https://www.zhihu.com/search?q=男子自称感染「哭株」全国罕见)
 1. [大理寺日志第二季第五集](https://www.zhihu.com/search?q=大理寺日志第二季第五集)
