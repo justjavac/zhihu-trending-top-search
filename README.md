@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Dec 21 2022 02:08:52 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Dec 21 2022 03:06:09 GMT+0800 (China Standard Time) -->
 
 1. [「复阳」跟「二次感染」有什么区别？](https://www.zhihu.com/search?q=「复阳」跟「二次感染」有什么区别？)
 1. [多地宣布无症状或轻症可上班](https://www.zhihu.com/search?q=多地宣布无症状或轻症可上班)
