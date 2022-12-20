@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Dec 20 2022 22:07:07 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Dec 20 2022 23:07:58 GMT+0800 (China Standard Time) -->
 
 1. [「复阳」跟「二次感染」有什么区别？](https://www.zhihu.com/search?q=「复阳」跟「二次感染」有什么区别？)
 1. [多地宣布无症状或轻症可上班](https://www.zhihu.com/search?q=多地宣布无症状或轻症可上班)
@@ -28,6 +28,7 @@
    不适合中国观众)
 1. [官方：多地已发现 BQ.1 和 XBB
    分支](https://www.zhihu.com/search?q=官方：多地已发现 BQ.1 和 XBB 分支)
+1. [餐饮店写拒绝阴性进店就餐引热议](https://www.zhihu.com/search?q=餐饮店写拒绝阴性进店就餐引热议)
 1. [女子阳性后头发一夜变白脱发](https://www.zhihu.com/search?q=女子阳性后头发一夜变白脱发)
 1. [专家称阳性期间「身上痒」可能是过敏](https://www.zhihu.com/search?q=专家称阳性期间「身上痒」可能是过敏)
 1. [阳过后的生活用品不用更换](https://www.zhihu.com/search?q=阳过后的生活用品不用更换)
