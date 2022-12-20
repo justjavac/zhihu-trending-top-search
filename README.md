@@ -15,9 +15,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Dec 20 2022 08:38:50 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Dec 20 2022 10:07:50 GMT+0800 (China Standard Time) -->
 
-1. [多地医院报告医护「减员严重」](https://www.zhihu.com/search?q=多地医院报告医护「减员严重」)
 1. [河南虞城回应「麦田长出十层高楼」](https://www.zhihu.com/search?q=河南虞城回应「麦田长出十层高楼」)
 1. [三体动画第三集](https://www.zhihu.com/search?q=三体动画第三集)
 1. [以岭药业一度逼近跌停](https://www.zhihu.com/search?q=以岭药业一度逼近跌停)
@@ -27,6 +26,8 @@
 1. [专家称阳性期间「身上痒」可能是过敏](https://www.zhihu.com/search?q=专家称阳性期间「身上痒」可能是过敏)
 1. [女子阳性后头发一夜变白脱发](https://www.zhihu.com/search?q=女子阳性后头发一夜变白脱发)
 1. [「复阳」跟「二次感染」有什么区别？](https://www.zhihu.com/search?q=「复阳」跟「二次感染」有什么区别？)
+1. [多地宣布无症状或轻症可上班](https://www.zhihu.com/search?q=多地宣布无症状或轻症可上班)
+1. [多地医院报告医护「减员严重」](https://www.zhihu.com/search?q=多地医院报告医护「减员严重」)
 
 <!-- END -->
 
