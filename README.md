@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Dec 21 2022 13:07:11 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Dec 21 2022 14:09:48 GMT+0800 (China Standard Time) -->
 
 1. [于冬说阿凡达 2 不适合中国观众](https://www.zhihu.com/search?q=于冬说阿凡达 2
    不适合中国观众)
