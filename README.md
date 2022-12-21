@@ -15,11 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Dec 21 2022 16:09:57 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Dec 21 2022 17:07:30 GMT+0800 (China Standard Time) -->
 
 1. [死神千年血战篇更新](https://www.zhihu.com/search?q=死神千年血战篇更新)
-1. [于冬说阿凡达 2 不适合中国观众](https://www.zhihu.com/search?q=于冬说阿凡达 2
-   不适合中国观众)
 1. [官方：多地已发现 BQ.1 和 XBB
    分支](https://www.zhihu.com/search?q=官方：多地已发现 BQ.1 和 XBB 分支)
 1. [餐饮店写拒绝阴性进店就餐引热议](https://www.zhihu.com/search?q=餐饮店写拒绝阴性进店就餐引热议)
@@ -31,6 +29,8 @@
    城首套房商贷首付可低至两成)
 1. [阿富汗临时政府暂停女性大学教育](https://www.zhihu.com/search?q=阿富汗临时政府暂停女性大学教育)
 1. [当前新冠死亡的判断标准是什么？](https://www.zhihu.com/search?q=当前新冠死亡的判断标准是什么？)
+1. [于冬说阿凡达 2 不适合中国观众](https://www.zhihu.com/search?q=于冬说阿凡达 2
+   不适合中国观众)
 1. [MH370 关键碎片被发现](https://www.zhihu.com/search?q=MH370 关键碎片被发现)
 1. [布洛芬为何一药难求](https://www.zhihu.com/search?q=布洛芬为何一药难求)
 1. [新冠研究：抗体水平较高的人更会失去嗅觉或味觉](https://www.zhihu.com/search?q=新冠研究：抗体水平较高的人更会失去嗅觉或味觉)
