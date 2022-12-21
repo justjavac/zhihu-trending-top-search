@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Dec 22 2022 00:10:46 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Dec 22 2022 01:06:39 GMT+0800 (China Standard Time) -->
 
 1. [死神千年血战篇更新](https://www.zhihu.com/search?q=死神千年血战篇更新)
 1. [	专家称重复感染新冠死亡风险翻倍](https://www.zhihu.com/search?q=	专家称重复感染新冠死亡风险翻倍)
