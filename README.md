@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Dec 21 2022 19:06:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Dec 21 2022 20:13:23 GMT+0800 (China Standard Time) -->
 
 1. [死神千年血战篇更新](https://www.zhihu.com/search?q=死神千年血战篇更新)
 1. [餐饮店写拒绝阴性进店就餐引热议](https://www.zhihu.com/search?q=餐饮店写拒绝阴性进店就餐引热议)
