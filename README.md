@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Dec 22 2022 18:07:34 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Dec 22 2022 19:06:24 GMT+0800 (China Standard Time) -->
 
 1. [杭州无症状轻症可申请集中隔离](https://www.zhihu.com/search?q=杭州无症状轻症可申请集中隔离)
 1. [冬至有哪些习俗？](https://www.zhihu.com/search?q=冬至有哪些习俗？)
