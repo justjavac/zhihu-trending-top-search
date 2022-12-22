@@ -15,10 +15,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Dec 22 2022 14:09:44 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Dec 22 2022 15:06:59 GMT+0800 (China Standard Time) -->
 
-1. [死神千年血战篇更新](https://www.zhihu.com/search?q=死神千年血战篇更新)
-1. [电锯人第十一集](https://www.zhihu.com/search?q=电锯人第十一集)
 1. [白宫表示「美国不会向乌克兰派兵」](https://www.zhihu.com/search?q=白宫表示「美国不会向乌克兰派兵」)
 1. [宝武钢铁集团与中钢集团实施重组](https://www.zhihu.com/search?q=宝武钢铁集团与中钢集团实施重组)
 1. [杭州无症状轻症可申请集中隔离](https://www.zhihu.com/search?q=杭州无症状轻症可申请集中隔离)
@@ -27,6 +25,9 @@
 1. [新冠痊愈标准](https://www.zhihu.com/search?q=新冠痊愈标准)
 1. [全职猎人再度休刊](https://www.zhihu.com/search?q=全职猎人再度休刊)
 1. [转阴后为啥还会一直咳嗽？](https://www.zhihu.com/search?q=转阴后为啥还会一直咳嗽？)
+1. [研究称新冠病毒会影响视力和深度知觉](https://www.zhihu.com/search?q=研究称新冠病毒会影响视力和深度知觉)
+1. [死神千年血战篇更新](https://www.zhihu.com/search?q=死神千年血战篇更新)
+1. [电锯人第十一集](https://www.zhihu.com/search?q=电锯人第十一集)
 1. [重庆 2021 年无感染新冠死亡病例](https://www.zhihu.com/search?q=重庆 2021
    年无感染新冠死亡病例)
 1. [阿富汗临时政府暂停女性大学教育](https://www.zhihu.com/search?q=阿富汗临时政府暂停女性大学教育)
