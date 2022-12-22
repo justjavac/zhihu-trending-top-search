@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Dec 22 2022 11:08:06 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Dec 22 2022 12:09:00 GMT+0800 (China Standard Time) -->
 
 1. [死神千年血战篇更新](https://www.zhihu.com/search?q=死神千年血战篇更新)
 1. [重庆 2021 年无感染新冠死亡病例](https://www.zhihu.com/search?q=重庆 2021
