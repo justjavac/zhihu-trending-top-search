@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Dec 22 2022 10:06:23 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Dec 22 2022 11:08:06 GMT+0800 (China Standard Time) -->
 
 1. [死神千年血战篇更新](https://www.zhihu.com/search?q=死神千年血战篇更新)
 1. [重庆 2021 年无感染新冠死亡病例](https://www.zhihu.com/search?q=重庆 2021
@@ -26,6 +26,8 @@
 1. [杭州无症状轻症可申请集中隔离](https://www.zhihu.com/search?q=杭州无症状轻症可申请集中隔离)
 1. [冬至有哪些习俗？](https://www.zhihu.com/search?q=冬至有哪些习俗？)
 1. [张文宏称应警惕高龄老人的「沉默性缺氧」](https://www.zhihu.com/search?q=张文宏称应警惕高龄老人的「沉默性缺氧」)
+1. [新冠痊愈标准](https://www.zhihu.com/search?q=新冠痊愈标准)
+1. [全职猎人再度休刊](https://www.zhihu.com/search?q=全职猎人再度休刊)
 1. [阿富汗临时政府暂停女性大学教育](https://www.zhihu.com/search?q=阿富汗临时政府暂停女性大学教育)
 1. [当前新冠死亡的判断标准是什么？](https://www.zhihu.com/search?q=当前新冠死亡的判断标准是什么？)
 1. [泽连斯基或将访问美国白宫及国会大厦](https://www.zhihu.com/search?q=泽连斯基或将访问美国白宫及国会大厦)
