@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Dec 24 2022 04:07:30 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Dec 24 2022 05:06:25 GMT+0800 (China Standard Time) -->
 
 1. [专家称一个人完全可能感染不同的变异毒株](https://www.zhihu.com/search?q=专家称一个人完全可能感染不同的变异毒株)
 1. [印度称「将增加对华退烧药出口」](https://www.zhihu.com/search?q=印度称「将增加对华退烧药出口」)
