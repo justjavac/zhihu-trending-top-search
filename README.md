@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Dec 23 2022 08:37:54 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Dec 23 2022 10:06:11 GMT+0800 (China Standard Time) -->
 
 1. [新冠痊愈标准](https://www.zhihu.com/search?q=新冠痊愈标准)
 1. [全职猎人再度休刊](https://www.zhihu.com/search?q=全职猎人再度休刊)
