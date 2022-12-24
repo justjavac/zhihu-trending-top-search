@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Dec 24 2022 09:59:24 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Dec 24 2022 10:30:22 GMT+0800 (China Standard Time) -->
 
 1. [学生干部因使用手机「遭体罚后坠楼」](https://www.zhihu.com/search?q=学生干部因使用手机「遭体罚后坠楼」)
 1. [塔利班回应女性上大学禁令](https://www.zhihu.com/search?q=塔利班回应女性上大学禁令)
