@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Dec 26 2022 04:07:08 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Dec 26 2022 05:06:12 GMT+0800 (China Standard Time) -->
 
 1. [极寒「炸弹气旋」影响全美超 2
    亿人](https://www.zhihu.com/search?q=极寒「炸弹气旋」影响全美超 2 亿人)
