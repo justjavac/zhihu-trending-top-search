@@ -1,5 +1,4 @@
 [
-  { "query": "考研英语", "display_query": "考研英语" },
   {
     "query": "极寒「炸弹气旋」影响全美超 2 亿人",
     "display_query": "极寒「炸弹气旋」影响全美超 2 亿人"
@@ -29,6 +28,8 @@
     "display_query": "河南农村发热病人涌进卫生室 医生「四处借药」"
   },
   { "query": "阳康后多久才能运动", "display_query": "阳康后多久才能运动" },
+  { "query": "阳了为什么会瘦", "display_query": "阳了为什么会瘦" },
+  { "query": "考研英语", "display_query": "考研英语" },
   {
     "query": "《西游记》太上老君扮演者郑榕逝世",
     "display_query": "《西游记》太上老君扮演者郑榕逝世"
