@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Dec 25 2022 07:06:53 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Dec 25 2022 08:40:19 GMT+0800 (China Standard Time) -->
 
 1. [俄罗斯称乌方「和平方案」未考虑现实情况](https://www.zhihu.com/search?q=俄罗斯称乌方「和平方案」未考虑现实情况)
 1. [2023 考研开考](https://www.zhihu.com/search?q=2023 考研开考)
@@ -29,6 +29,8 @@
 1. [《三体》动画第四集](https://www.zhihu.com/search?q=《三体》动画第四集)
 1. [《西游记》太上老君扮演者郑榕逝世](https://www.zhihu.com/search?q=《西游记》太上老君扮演者郑榕逝世)
 1. [考研英语](https://www.zhihu.com/search?q=考研英语)
+1. [极寒「炸弹气旋」影响全美超 2
+   亿人](https://www.zhihu.com/search?q=极寒「炸弹气旋」影响全美超 2 亿人)
 
 <!-- END -->
 
