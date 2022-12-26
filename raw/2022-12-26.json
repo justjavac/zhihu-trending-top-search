@@ -1,10 +1,6 @@
 [
   { "query": "高达水星的魔女更新", "display_query": "高达水星的魔女更新" },
   {
-    "query": "塔利班禁止 NGO 女性雇员上班",
-    "display_query": "塔利班禁止 NGO 女性雇员上班"
-  },
-  {
     "query": "国产新冠口服药阿兹夫定片科普十问",
     "display_query": "国产新冠口服药阿兹夫定片科普十问"
   },
@@ -13,6 +9,10 @@
   {
     "query": "专家呼吁各地披露重症数据",
     "display_query": "专家呼吁各地披露重症数据"
+  },
+  {
+    "query": "塔利班禁止 NGO 女性雇员上班",
+    "display_query": "塔利班禁止 NGO 女性雇员上班"
   },
   { "query": "阳了为什么会瘦", "display_query": "阳了为什么会瘦" },
   { "query": "阳康后多久才能运动", "display_query": "阳康后多久才能运动" },
