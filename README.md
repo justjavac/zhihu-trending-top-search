@@ -15,11 +15,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Dec 26 2022 07:06:49 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Dec 26 2022 08:38:37 GMT+0800 (China Standard Time) -->
 
-1. [极寒「炸弹气旋」影响全美超 2
-   亿人](https://www.zhihu.com/search?q=极寒「炸弹气旋」影响全美超 2 亿人)
-1. [血氧饱和度是判断重症的重要依据](https://www.zhihu.com/search?q=血氧饱和度是判断重症的重要依据)
 1. [专家称高蛋白食物不利于降低体温](https://www.zhihu.com/search?q=专家称高蛋白食物不利于降低体温)
 1. [腾讯发布元旦假期未成年游戏限玩通知](https://www.zhihu.com/search?q=腾讯发布元旦假期未成年游戏限玩通知)
 1. [春节前后全国或达感染高峰](https://www.zhihu.com/search?q=春节前后全国或达感染高峰)
@@ -31,6 +28,10 @@
 1. [阳了为什么会瘦](https://www.zhihu.com/search?q=阳了为什么会瘦)
 1. [塔利班禁止 NGO 女性雇员上班](https://www.zhihu.com/search?q=塔利班禁止 NGO
    女性雇员上班)
+1. [国产新冠口服药阿兹夫定片科普十问](https://www.zhihu.com/search?q=国产新冠口服药阿兹夫定片科普十问)
+1. [极寒「炸弹气旋」影响全美超 2
+   亿人](https://www.zhihu.com/search?q=极寒「炸弹气旋」影响全美超 2 亿人)
+1. [血氧饱和度是判断重症的重要依据](https://www.zhihu.com/search?q=血氧饱和度是判断重症的重要依据)
 
 <!-- END -->
 
