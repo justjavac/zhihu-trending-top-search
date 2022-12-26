@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Dec 27 2022 01:06:18 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Dec 27 2022 02:08:53 GMT+0800 (China Standard Time) -->
 
 1. [高达水星的魔女更新](https://www.zhihu.com/search?q=高达水星的魔女更新)
 1. [Epic 假日特卖](https://www.zhihu.com/search?q=Epic 假日特卖)
