@@ -1,6 +1,5 @@
 [
   { "query": "死神千年血战篇更新", "display_query": "死神千年血战篇更新" },
-  { "query": "知网被罚 8760 万元", "display_query": "知网被罚 8760 万元" },
   {
     "query": "专家呼吁各地披露重症数据",
     "display_query": "专家呼吁各地披露重症数据"
@@ -30,6 +29,11 @@
     "display_query": "官方发布「乙类乙管」5 个配套文件"
   },
   { "query": "微念与李子柒达成和解", "display_query": "微念与李子柒达成和解" },
+  {
+    "query": "重症白肺死亡率 40% 以上",
+    "display_query": "重症白肺死亡率 40% 以上"
+  },
+  { "query": "知网被罚 8760 万元", "display_query": "知网被罚 8760 万元" },
   { "query": "Epic 假日特卖", "display_query": "Epic 假日特卖" },
   { "query": "高达水星的魔女更新", "display_query": "高达水星的魔女更新" }
 ]
