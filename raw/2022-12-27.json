@@ -1,5 +1,5 @@
 [
-  { "query": "高达水星的魔女更新", "display_query": "高达水星的魔女更新" },
+  { "query": "死神千年血战篇更新", "display_query": "死神千年血战篇更新" },
   { "query": "Epic 假日特卖", "display_query": "Epic 假日特卖" },
   { "query": "知网被罚 8760 万元", "display_query": "知网被罚 8760 万元" },
   {
@@ -21,5 +21,10 @@
   {
     "query": "韩国报告首例「食脑虫」病例",
     "display_query": "韩国报告首例「食脑虫」病例"
-  }
+  },
+  {
+    "query": "媒体：多国对来自中国旅客查核酸",
+    "display_query": "媒体：多国对来自中国旅客查核酸"
+  },
+  { "query": "高达水星的魔女更新", "display_query": "高达水星的魔女更新" }
 ]
