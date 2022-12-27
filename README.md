@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Dec 27 2022 17:07:17 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Dec 27 2022 18:07:43 GMT+0800 (China Standard Time) -->
 
 1. [死神千年血战篇更新](https://www.zhihu.com/search?q=死神千年血战篇更新)
 1. [专家呼吁各地披露重症数据](https://www.zhihu.com/search?q=专家呼吁各地披露重症数据)
