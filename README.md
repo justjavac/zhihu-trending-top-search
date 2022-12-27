@@ -15,10 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Dec 27 2022 12:09:04 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Dec 27 2022 13:06:55 GMT+0800 (China Standard Time) -->
 
 1. [死神千年血战篇更新](https://www.zhihu.com/search?q=死神千年血战篇更新)
-1. [Epic 假日特卖](https://www.zhihu.com/search?q=Epic 假日特卖)
 1. [知网被罚 8760 万元](https://www.zhihu.com/search?q=知网被罚 8760 万元)
 1. [专家呼吁各地披露重症数据](https://www.zhihu.com/search?q=专家呼吁各地披露重症数据)
 1. [刘强东痛批京东中高层拿 PPT
@@ -27,6 +26,10 @@
 1. [官方发布中外人员往来暂行措施](https://www.zhihu.com/search?q=官方发布中外人员往来暂行措施)
 1. [韩国报告首例「食脑虫」病例](https://www.zhihu.com/search?q=韩国报告首例「食脑虫」病例)
 1. [媒体：多国对来自中国旅客查核酸](https://www.zhihu.com/search?q=媒体：多国对来自中国旅客查核酸)
+1. [官方发布「乙类乙管」5
+   个配套文件](https://www.zhihu.com/search?q=官方发布「乙类乙管」5 个配套文件)
+1. [微念与李子柒达成和解](https://www.zhihu.com/search?q=微念与李子柒达成和解)
+1. [Epic 假日特卖](https://www.zhihu.com/search?q=Epic 假日特卖)
 1. [高达水星的魔女更新](https://www.zhihu.com/search?q=高达水星的魔女更新)
 
 <!-- END -->
