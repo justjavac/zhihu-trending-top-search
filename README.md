@@ -15,11 +15,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Dec 28 2022 12:08:47 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Dec 28 2022 13:07:06 GMT+0800 (China Standard Time) -->
 
-1. [官方发布「乙类乙管」5
-   个配套文件](https://www.zhihu.com/search?q=官方发布「乙类乙管」5 个配套文件)
-1. [微念与李子柒达成和解](https://www.zhihu.com/search?q=微念与李子柒达成和解)
 1. [重症白肺死亡率 40% 以上](https://www.zhihu.com/search?q=重症白肺死亡率 40%
    以上)
 1. [Epic 赠送暗影火炬城](https://www.zhihu.com/search?q=Epic 赠送暗影火炬城)
@@ -31,6 +28,9 @@
 1. [足协回应武汉三镇「黑暗势力」声明](https://www.zhihu.com/search?q=足协回应武汉三镇「黑暗势力」声明)
 1. [31 省份新增死亡病例 3 例](https://www.zhihu.com/search?q=31 省份新增死亡病例
    3 例)
+1. [官方发布「乙类乙管」5
+   个配套文件](https://www.zhihu.com/search?q=官方发布「乙类乙管」5 个配套文件)
+1. [微念与李子柒达成和解](https://www.zhihu.com/search?q=微念与李子柒达成和解)
 1. [死神千年血战篇更新](https://www.zhihu.com/search?q=死神千年血战篇更新)
 1. [媒体：多国对来自中国旅客查核酸](https://www.zhihu.com/search?q=媒体：多国对来自中国旅客查核酸)
 1. [武汉三镇：与中国足协黑暗势力斗争](https://www.zhihu.com/search?q=武汉三镇：与中国足协黑暗势力斗争)
