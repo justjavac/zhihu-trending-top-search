@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Dec 28 2022 11:08:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Dec 28 2022 12:08:47 GMT+0800 (China Standard Time) -->
 
 1. [官方发布「乙类乙管」5
    个配套文件](https://www.zhihu.com/search?q=官方发布「乙类乙管」5 个配套文件)
@@ -29,6 +29,8 @@
    16%的居民打算购房)
 1. [华为天才少年「稚晖君」确认离职](https://www.zhihu.com/search?q=华为天才少年「稚晖君」确认离职)
 1. [足协回应武汉三镇「黑暗势力」声明](https://www.zhihu.com/search?q=足协回应武汉三镇「黑暗势力」声明)
+1. [31 省份新增死亡病例 3 例](https://www.zhihu.com/search?q=31 省份新增死亡病例
+   3 例)
 1. [死神千年血战篇更新](https://www.zhihu.com/search?q=死神千年血战篇更新)
 1. [媒体：多国对来自中国旅客查核酸](https://www.zhihu.com/search?q=媒体：多国对来自中国旅客查核酸)
 1. [武汉三镇：与中国足协黑暗势力斗争](https://www.zhihu.com/search?q=武汉三镇：与中国足协黑暗势力斗争)
