@@ -15,10 +15,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Dec 28 2022 15:06:55 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Dec 28 2022 16:09:27 GMT+0800 (China Standard Time) -->
 
-1. [重症白肺死亡率 40% 以上](https://www.zhihu.com/search?q=重症白肺死亡率 40%
-   以上)
 1. [Epic 赠送暗影火炬城](https://www.zhihu.com/search?q=Epic 赠送暗影火炬城)
 1. [中超广州队提前一轮降级](https://www.zhihu.com/search?q=中超广州队提前一轮降级)
 1. [央行：未来三月
@@ -29,6 +27,9 @@
 1. [31 省份新增死亡病例 3 例](https://www.zhihu.com/search?q=31 省份新增死亡病例
    3 例)
 1. [死神千年血战篇完结](https://www.zhihu.com/search?q=死神千年血战篇完结)
+1. [12 月游戏版号下发](https://www.zhihu.com/search?q=12 月游戏版号下发)
+1. [重症白肺死亡率 40% 以上](https://www.zhihu.com/search?q=重症白肺死亡率 40%
+   以上)
 1. [官方发布「乙类乙管」5
    个配套文件](https://www.zhihu.com/search?q=官方发布「乙类乙管」5 个配套文件)
 1. [微念与李子柒达成和解](https://www.zhihu.com/search?q=微念与李子柒达成和解)

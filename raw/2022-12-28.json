@@ -1,8 +1,4 @@
 [
-  {
-    "query": "重症白肺死亡率 40% 以上",
-    "display_query": "重症白肺死亡率 40% 以上"
-  },
   { "query": "Epic 赠送暗影火炬城", "display_query": "Epic 赠送暗影火炬城" },
   {
     "query": "中超广州队提前一轮降级",
@@ -25,6 +21,11 @@
     "display_query": "31 省份新增死亡病例 3 例"
   },
   { "query": "死神千年血战篇完结", "display_query": "死神千年血战篇完结" },
+  { "query": "12 月游戏版号下发", "display_query": "12 月游戏版号下发" },
+  {
+    "query": "重症白肺死亡率 40% 以上",
+    "display_query": "重症白肺死亡率 40% 以上"
+  },
   {
     "query": "官方发布「乙类乙管」5 个配套文件",
     "display_query": "官方发布「乙类乙管」5 个配套文件"
