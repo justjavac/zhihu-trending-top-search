@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Dec 28 2022 16:09:27 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Dec 28 2022 17:07:08 GMT+0800 (China Standard Time) -->
 
 1. [Epic 赠送暗影火炬城](https://www.zhihu.com/search?q=Epic 赠送暗影火炬城)
 1. [中超广州队提前一轮降级](https://www.zhihu.com/search?q=中超广州队提前一轮降级)
