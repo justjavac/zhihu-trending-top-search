@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Dec 30 2022 05:06:48 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Dec 30 2022 06:06:35 GMT+0800 (China Standard Time) -->
 
 1. [侃爷前经理人称侃爷已失联数周](https://www.zhihu.com/search?q=侃爷前经理人称侃爷已失联数周)
 1. [专家：新冠不是感冒
