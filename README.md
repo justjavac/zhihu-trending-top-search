@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Dec 29 2022 08:38:46 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Dec 29 2022 10:07:18 GMT+0800 (China Standard Time) -->
 
 1. [足协回应武汉三镇「黑暗势力」声明](https://www.zhihu.com/search?q=足协回应武汉三镇「黑暗势力」声明)
 1. [31 省份新增死亡病例 3 例](https://www.zhihu.com/search?q=31 省份新增死亡病例
