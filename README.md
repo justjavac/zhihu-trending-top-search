@@ -15,10 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Dec 30 2022 14:09:49 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Dec 30 2022 15:06:55 GMT+0800 (China Standard Time) -->
 
 1. [球王贝利去世](https://www.zhihu.com/search?q=球王贝利去世)
-1. [「新冠感染」降级的法理依据是什么](https://www.zhihu.com/search?q=「新冠感染」降级的法理依据是什么)
 1. [潘粤明为发烧父母熬鸡汤被吐槽](https://www.zhihu.com/search?q=潘粤明为发烧父母熬鸡汤被吐槽)
 1. [老人有基础疾病阳了怎么办](https://www.zhihu.com/search?q=老人有基础疾病阳了怎么办)
 1. [智能手表测血氧靠谱吗](https://www.zhihu.com/search?q=智能手表测血氧靠谱吗)
@@ -29,6 +28,7 @@
    99%可排除心肌炎](https://www.zhihu.com/search?q=专家：新冠患者
    99%可排除心肌炎)
 1. [专家称在一些地方可以不戴口罩了](https://www.zhihu.com/search?q=专家称在一些地方可以不戴口罩了)
+1. [「新冠感染」降级的法理依据是什么](https://www.zhihu.com/search?q=「新冠感染」降级的法理依据是什么)
 1. [电锯人第一季完结](https://www.zhihu.com/search?q=电锯人第一季完结)
 1. [专家：新冠不是感冒
    不能掉以轻心](https://www.zhihu.com/search?q=专家：新冠不是感冒 不能掉以轻心)
