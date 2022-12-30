@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Dec 30 2022 13:07:05 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Dec 30 2022 14:09:49 GMT+0800 (China Standard Time) -->
 
 1. [球王贝利去世](https://www.zhihu.com/search?q=球王贝利去世)
 1. [「新冠感染」降级的法理依据是什么](https://www.zhihu.com/search?q=「新冠感染」降级的法理依据是什么)
