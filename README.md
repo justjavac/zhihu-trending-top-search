@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Dec 30 2022 08:38:41 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Dec 30 2022 10:07:24 GMT+0800 (China Standard Time) -->
 
 1. [球王贝利去世](https://www.zhihu.com/search?q=球王贝利去世)
 1. [专家：新冠不是感冒
@@ -27,6 +27,7 @@
 1. [老人有基础疾病阳了怎么办](https://www.zhihu.com/search?q=老人有基础疾病阳了怎么办)
 1. [智能手表测血氧靠谱吗](https://www.zhihu.com/search?q=智能手表测血氧靠谱吗)
 1. [李隼出任国乒总教练](https://www.zhihu.com/search?q=李隼出任国乒总教练)
+1. [是否低估新冠死亡人数？官方回应](https://www.zhihu.com/search?q=是否低估新冠死亡人数？官方回应)
 1. [侃爷前经理人称侃爷已失联数周](https://www.zhihu.com/search?q=侃爷前经理人称侃爷已失联数周)
 
 <!-- END -->
