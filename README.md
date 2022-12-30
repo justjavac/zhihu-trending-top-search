@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Dec 30 2022 15:06:55 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Dec 30 2022 16:09:21 GMT+0800 (China Standard Time) -->
 
 1. [球王贝利去世](https://www.zhihu.com/search?q=球王贝利去世)
 1. [潘粤明为发烧父母熬鸡汤被吐槽](https://www.zhihu.com/search?q=潘粤明为发烧父母熬鸡汤被吐槽)
