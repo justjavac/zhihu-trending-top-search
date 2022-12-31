@@ -1,5 +1,4 @@
 [
-  { "query": "球王贝利去世", "display_query": "球王贝利去世" },
   {
     "query": "是否低估新冠死亡人数？官方回应",
     "display_query": "是否低估新冠死亡人数？官方回应"
@@ -16,5 +15,6 @@
     "query": "专家称在一些地方可以不戴口罩了",
     "display_query": "专家称在一些地方可以不戴口罩了"
   },
-  { "query": "回来的女儿大结局", "display_query": "回来的女儿大结局" }
+  { "query": "回来的女儿大结局", "display_query": "回来的女儿大结局" },
+  { "query": "球王贝利去世", "display_query": "球王贝利去世" }
 ]
