@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jan 01 2023 04:07:08 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jan 01 2023 05:06:10 GMT+0800 (China Standard Time) -->
 
 1. [肺部 CT 检查需求暴增](https://www.zhihu.com/search?q=肺部 CT 检查需求暴增)
 1. [水银温度计 2026 年起全面禁产](https://www.zhihu.com/search?q=水银温度计 2026
