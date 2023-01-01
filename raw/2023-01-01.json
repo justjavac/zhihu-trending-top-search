@@ -4,10 +4,12 @@
     "query": "水银温度计 2026 年起全面禁产",
     "display_query": "水银温度计 2026 年起全面禁产"
   },
-  { "query": "今年跨年看东方", "display_query": "今年跨年看东方" },
   {
     "query": "辽宁吉林多地现不明飞行物",
     "display_query": "辽宁吉林多地现不明飞行物"
   },
-  { "query": "血氧仪涨价、断货", "display_query": "血氧仪涨价、断货" }
+  { "query": "今年跨年看东方", "display_query": "今年跨年看东方" },
+  { "query": "血氧仪涨价、断货", "display_query": "血氧仪涨价、断货" },
+  { "query": "新年第一缕阳光", "display_query": "新年第一缕阳光" },
+  { "query": "无名定档大年初一", "display_query": "无名定档大年初一" }
 ]
