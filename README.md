@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jan 01 2023 17:07:05 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jan 01 2023 18:07:02 GMT+0800 (China Standard Time) -->
 
 1. [新年第一缕阳光](https://www.zhihu.com/search?q=新年第一缕阳光)
 1. [无名定档大年初一](https://www.zhihu.com/search?q=无名定档大年初一)
@@ -25,6 +25,7 @@
 1. [2023 跨年晚会你最喜欢哪个舞台](https://www.zhihu.com/search?q=2023
    跨年晚会你最喜欢哪个舞台)
 1. [新冠病毒找到动物宿主](https://www.zhihu.com/search?q=新冠病毒找到动物宿主)
+1. [大理寺日志第二季更新](https://www.zhihu.com/search?q=大理寺日志第二季更新)
 1. [肺部 CT 检查需求暴增](https://www.zhihu.com/search?q=肺部 CT 检查需求暴增)
 1. [水银温度计 2026 年起全面禁产](https://www.zhihu.com/search?q=水银温度计 2026
    年起全面禁产)
