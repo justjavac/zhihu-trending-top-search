@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jan 02 2023 20:13:41 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jan 02 2023 21:14:18 GMT+0800 (China Standard Time) -->
 
 1. [老人去世比往年多很多？专家释疑](https://www.zhihu.com/search?q=老人去世比往年多很多？专家释疑)
 1. [春节会形成群体免疫吗？曾光回应](https://www.zhihu.com/search?q=春节会形成群体免疫吗？曾光回应)
