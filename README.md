@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jan 03 2023 23:08:11 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jan 04 2023 00:09:59 GMT+0800 (China Standard Time) -->
 
 1. [囤药不如囤「好身体」](https://www.zhihu.com/search?q=囤药不如囤「好身体」)
 1. [深海定档大年初一](https://www.zhihu.com/search?q=深海定档大年初一)
@@ -24,12 +24,6 @@
 1. [乐视实行四天半工作制](https://www.zhihu.com/search?q=乐视实行四天半工作制)
 1. [刘亦菲新剧开播](https://www.zhihu.com/search?q=刘亦菲新剧开播)
 1. [华夏航空一飞机外层风挡破裂](https://www.zhihu.com/search?q=华夏航空一飞机外层风挡破裂)
-1. [全国各地区最低工资标准公布](https://www.zhihu.com/search?q=全国各地区最低工资标准公布)
-1. [胡福明去世](https://www.zhihu.com/search?q=胡福明去世)
-1. [官方：新冠确实不是大号感冒](https://www.zhihu.com/search?q=官方：新冠确实不是大号感冒)
-1. [专家：此轮高峰后病毒会逐渐传不动](https://www.zhihu.com/search?q=专家：此轮高峰后病毒会逐渐传不动)
-1. [老人去世比往年多很多？专家释疑](https://www.zhihu.com/search?q=老人去世比往年多很多？专家释疑)
-1. [春节会形成群体免疫吗？曾光回应](https://www.zhihu.com/search?q=春节会形成群体免疫吗？曾光回应)
 
 <!-- END -->
 
