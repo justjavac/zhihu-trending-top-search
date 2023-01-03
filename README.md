@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jan 03 2023 14:08:19 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jan 03 2023 15:06:47 GMT+0800 (China Standard Time) -->
 
 1. [全国各地区最低工资标准公布](https://www.zhihu.com/search?q=全国各地区最低工资标准公布)
 1. [囤药不如囤「好身体」](https://www.zhihu.com/search?q=囤药不如囤「好身体」)
