@@ -1,5 +1,4 @@
 [
-  { "query": "胡福明去世", "display_query": "胡福明去世" },
   {
     "query": "全国各地区最低工资标准公布",
     "display_query": "全国各地区最低工资标准公布"
@@ -11,6 +10,7 @@
     "display_query": "新冠重症概率高不高？数据披露"
   },
   { "query": "米切尔 71 分", "display_query": "米切尔 71 分" },
+  { "query": "胡福明去世", "display_query": "胡福明去世" },
   {
     "query": "官方：新冠确实不是大号感冒",
     "display_query": "官方：新冠确实不是大号感冒"
