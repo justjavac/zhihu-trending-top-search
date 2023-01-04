@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jan 04 2023 13:07:04 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jan 04 2023 14:09:57 GMT+0800 (China Standard Time) -->
 
 1. [乐视实行四天半工作制](https://www.zhihu.com/search?q=乐视实行四天半工作制)
 1. [刘亦菲新剧开播](https://www.zhihu.com/search?q=刘亦菲新剧开播)
@@ -24,9 +24,11 @@
 1. [英国称中国旅客可拒绝强制核酸](https://www.zhihu.com/search?q=英国称中国旅客可拒绝强制核酸)
 1. [音乐人顾嘉辉去世](https://www.zhihu.com/search?q=音乐人顾嘉辉去世)
 1. [中国航母编队首次抵近关岛](https://www.zhihu.com/search?q=中国航母编队首次抵近关岛)
-1. [国产饮料巨头宣布破产](https://www.zhihu.com/search?q=国产饮料巨头宣布破产)
 1. [安徽发现蛙类新种](https://www.zhihu.com/search?q=安徽发现蛙类新种)
 1. [全国多地将暖到破纪录](https://www.zhihu.com/search?q=全国多地将暖到破纪录)
+1. [XBB 毒株会引发第二轮感染吗？](https://www.zhihu.com/search?q=XBB
+   毒株会引发第二轮感染吗？)
+1. [国产饮料巨头宣布破产](https://www.zhihu.com/search?q=国产饮料巨头宣布破产)
 1. [米切尔 71 分](https://www.zhihu.com/search?q=米切尔 71 分)
 1. [深海定档大年初一](https://www.zhihu.com/search?q=深海定档大年初一)
 1. [新冠重症概率高不高？数据披露](https://www.zhihu.com/search?q=新冠重症概率高不高？数据披露)

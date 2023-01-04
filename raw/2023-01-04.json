@@ -15,9 +15,13 @@
     "query": "中国航母编队首次抵近关岛",
     "display_query": "中国航母编队首次抵近关岛"
   },
-  { "query": "国产饮料巨头宣布破产", "display_query": "国产饮料巨头宣布破产" },
   { "query": "安徽发现蛙类新种", "display_query": "安徽发现蛙类新种" },
   { "query": "全国多地将暖到破纪录", "display_query": "全国多地将暖到破纪录" },
+  {
+    "query": "XBB 毒株会引发第二轮感染吗？",
+    "display_query": "XBB 毒株会引发第二轮感染吗？"
+  },
+  { "query": "国产饮料巨头宣布破产", "display_query": "国产饮料巨头宣布破产" },
   { "query": "米切尔 71 分", "display_query": "米切尔 71 分" },
   { "query": "深海定档大年初一", "display_query": "深海定档大年初一" },
   {
