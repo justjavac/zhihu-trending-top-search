@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jan 04 2023 07:07:27 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jan 04 2023 08:38:11 GMT+0800 (China Standard Time) -->
 
 1. [囤药不如囤「好身体」](https://www.zhihu.com/search?q=囤药不如囤「好身体」)
 1. [深海定档大年初一](https://www.zhihu.com/search?q=深海定档大年初一)
