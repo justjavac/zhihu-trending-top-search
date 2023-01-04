@@ -15,9 +15,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jan 04 2023 16:09:58 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jan 04 2023 17:07:35 GMT+0800 (China Standard Time) -->
 
-1. [乐视实行四天半工作制](https://www.zhihu.com/search?q=乐视实行四天半工作制)
 1. [刘亦菲新剧开播](https://www.zhihu.com/search?q=刘亦菲新剧开播)
 1. [华夏航空一飞机外层风挡破裂](https://www.zhihu.com/search?q=华夏航空一飞机外层风挡破裂)
 1. [今年春节放七天上七天](https://www.zhihu.com/search?q=今年春节放七天上七天)
@@ -28,6 +27,7 @@
 1. [全国多地将暖到破纪录](https://www.zhihu.com/search?q=全国多地将暖到破纪录)
 1. [XBB 毒株会引发第二轮感染吗？](https://www.zhihu.com/search?q=XBB
    毒株会引发第二轮感染吗？)
+1. [乐视实行四天半工作制](https://www.zhihu.com/search?q=乐视实行四天半工作制)
 1. [国产饮料巨头宣布破产](https://www.zhihu.com/search?q=国产饮料巨头宣布破产)
 1. [米切尔 71 分](https://www.zhihu.com/search?q=米切尔 71 分)
 1. [深海定档大年初一](https://www.zhihu.com/search?q=深海定档大年初一)

@@ -1,5 +1,4 @@
 [
-  { "query": "乐视实行四天半工作制", "display_query": "乐视实行四天半工作制" },
   { "query": "刘亦菲新剧开播", "display_query": "刘亦菲新剧开播" },
   {
     "query": "华夏航空一飞机外层风挡破裂",
@@ -21,6 +20,7 @@
     "query": "XBB 毒株会引发第二轮感染吗？",
     "display_query": "XBB 毒株会引发第二轮感染吗？"
   },
+  { "query": "乐视实行四天半工作制", "display_query": "乐视实行四天半工作制" },
   { "query": "国产饮料巨头宣布破产", "display_query": "国产饮料巨头宣布破产" },
   { "query": "米切尔 71 分", "display_query": "米切尔 71 分" },
   { "query": "深海定档大年初一", "display_query": "深海定档大年初一" },
