@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jan 05 2023 01:09:37 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jan 05 2023 02:09:34 GMT+0800 (China Standard Time) -->
 
 1. [今年春节放七天上七天](https://www.zhihu.com/search?q=今年春节放七天上七天)
 1. [英国称中国旅客可拒绝强制核酸](https://www.zhihu.com/search?q=英国称中国旅客可拒绝强制核酸)
