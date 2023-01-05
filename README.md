@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jan 05 2023 17:07:42 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jan 05 2023 18:08:12 GMT+0800 (China Standard Time) -->
 
 1. [新冠「乙类乙管」后医保报销新政将出](https://www.zhihu.com/search?q=新冠「乙类乙管」后医保报销新政将出)
 1. [欧盟建议各国要求自中国入境者提供核酸](https://www.zhihu.com/search?q=欧盟建议各国要求自中国入境者提供核酸)
