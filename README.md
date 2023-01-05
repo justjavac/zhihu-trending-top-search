@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jan 05 2023 10:10:56 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jan 05 2023 11:08:03 GMT+0800 (China Standard Time) -->
 
 1. [音乐人顾嘉辉去世](https://www.zhihu.com/search?q=音乐人顾嘉辉去世)
 1. [中国航母编队首次抵近关岛](https://www.zhihu.com/search?q=中国航母编队首次抵近关岛)
