@@ -15,10 +15,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jan 05 2023 08:39:52 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jan 05 2023 10:10:56 GMT+0800 (China Standard Time) -->
 
-1. [今年春节放七天上七天](https://www.zhihu.com/search?q=今年春节放七天上七天)
-1. [英国称中国旅客可拒绝强制核酸](https://www.zhihu.com/search?q=英国称中国旅客可拒绝强制核酸)
 1. [音乐人顾嘉辉去世](https://www.zhihu.com/search?q=音乐人顾嘉辉去世)
 1. [中国航母编队首次抵近关岛](https://www.zhihu.com/search?q=中国航母编队首次抵近关岛)
 1. [安徽发现蛙类新种](https://www.zhihu.com/search?q=安徽发现蛙类新种)
@@ -26,6 +24,9 @@
 1. [XBB 毒株会引发第二轮感染吗？](https://www.zhihu.com/search?q=XBB
    毒株会引发第二轮感染吗？)
 1. [新冠「乙类乙管」后医保报销新政将出](https://www.zhihu.com/search?q=新冠「乙类乙管」后医保报销新政将出)
+1. [欧盟建议各国要求自中国入境者提供核酸](https://www.zhihu.com/search?q=欧盟建议各国要求自中国入境者提供核酸)
+1. [今年春节放七天上七天](https://www.zhihu.com/search?q=今年春节放七天上七天)
+1. [英国称中国旅客可拒绝强制核酸](https://www.zhihu.com/search?q=英国称中国旅客可拒绝强制核酸)
 
 <!-- END -->
 
