@@ -1,9 +1,5 @@
 [
   {
-    "query": "XBB 毒株会引发第二轮感染吗？",
-    "display_query": "XBB 毒株会引发第二轮感染吗？"
-  },
-  {
     "query": "新冠「乙类乙管」后医保报销新政将出",
     "display_query": "新冠「乙类乙管」后医保报销新政将出"
   },
@@ -14,6 +10,14 @@
   {
     "query": "国产 ECMO 产品获批上市",
     "display_query": "国产 ECMO 产品获批上市"
+  },
+  {
+    "query": "韩国会副议长等窜台 中方回应",
+    "display_query": "韩国会副议长等窜台 中方回应"
+  },
+  {
+    "query": "XBB 毒株会引发第二轮感染吗？",
+    "display_query": "XBB 毒株会引发第二轮感染吗？"
   },
   { "query": "全国多地将暖到破纪录", "display_query": "全国多地将暖到破纪录" },
   { "query": "音乐人顾嘉辉去世", "display_query": "音乐人顾嘉辉去世" },
