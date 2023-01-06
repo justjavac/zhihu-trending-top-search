@@ -15,13 +15,13 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jan 06 2023 11:08:58 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jan 06 2023 12:09:06 GMT+0800 (China Standard Time) -->
 
-1. [国产 ECMO 产品获批上市](https://www.zhihu.com/search?q=国产 ECMO
-   产品获批上市)
 1. [韩国会副议长等窜台
    中方回应](https://www.zhihu.com/search?q=韩国会副议长等窜台 中方回应)
 1. [我国 ECMO 产品获批上市](https://www.zhihu.com/search?q=我国 ECMO
+   产品获批上市)
+1. [国产 ECMO 产品获批上市](https://www.zhihu.com/search?q=国产 ECMO
    产品获批上市)
 1. [欧盟建议各国要求自中国入境者提供核酸](https://www.zhihu.com/search?q=欧盟建议各国要求自中国入境者提供核酸)
 
