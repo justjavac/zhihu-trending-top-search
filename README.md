@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jan 06 2023 18:07:58 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jan 06 2023 19:06:40 GMT+0800 (China Standard Time) -->
 
 1. [第十版新冠诊疗方案](https://www.zhihu.com/search?q=第十版新冠诊疗方案)
 1. [我国 ECMO 产品获批上市](https://www.zhihu.com/search?q=我国 ECMO
