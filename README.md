@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jan 08 2023 14:08:50 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jan 08 2023 15:06:18 GMT+0800 (China Standard Time) -->
 
 1. [一人之下锈铁更新](https://www.zhihu.com/search?q=一人之下锈铁更新)
 1. [全国 98.8% 乡镇已设置发热诊室](https://www.zhihu.com/search?q=全国 98.8%
