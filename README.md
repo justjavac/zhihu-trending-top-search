@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jan 08 2023 07:06:39 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jan 08 2023 08:40:57 GMT+0800 (China Standard Time) -->
 
 1. [一人之下锈铁更新](https://www.zhihu.com/search?q=一人之下锈铁更新)
 1. [涉疫刑案办理调整：这些人解除羁押](https://www.zhihu.com/search?q=涉疫刑案办理调整：这些人解除羁押)
@@ -29,6 +29,9 @@
 1. [恒大地产原总裁被调查
    多名亲信失联](https://www.zhihu.com/search?q=恒大地产原总裁被调查
    多名亲信失联)
+1. [「乙类乙管」开始
+   这些变化与你相关](https://www.zhihu.com/search?q=「乙类乙管」开始
+   这些变化与你相关)
 
 <!-- END -->
 
