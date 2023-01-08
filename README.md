@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jan 09 2023 02:08:23 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jan 09 2023 03:05:24 GMT+0800 (China Standard Time) -->
 
 1. [「乙类乙管」开始
    这些变化与你相关](https://www.zhihu.com/search?q=「乙类乙管」开始
