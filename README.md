@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jan 10 2023 05:07:14 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jan 10 2023 06:07:24 GMT+0800 (China Standard Time) -->
 
 1. [任泽平炮轰 天下苦「宁王」久矣](https://www.zhihu.com/search?q=任泽平炮轰
    天下苦「宁王」久矣)
