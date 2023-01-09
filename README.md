@@ -15,18 +15,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jan 09 2023 23:11:38 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jan 10 2023 00:14:36 GMT+0800 (China Standard Time) -->
 
 1. [任泽平炮轰 天下苦「宁王」久矣](https://www.zhihu.com/search?q=任泽平炮轰
    天下苦「宁王」久矣)
 1. [人民币升破 6.8](https://www.zhihu.com/search?q=人民币升破 6.8)
-1. [辉瑞新冠药未能纳入医保目录](https://www.zhihu.com/search?q=辉瑞新冠药未能纳入医保目录)
-1. [我国阳后出现肺炎人群约为
-   8％](https://www.zhihu.com/search?q=我国阳后出现肺炎人群约为 8％)
-1. [俄议员建议从中国购回辽宁舰](https://www.zhihu.com/search?q=俄议员建议从中国购回辽宁舰)
-1. [「乙类乙管」开始
-   这些变化与你相关](https://www.zhihu.com/search?q=「乙类乙管」开始
-   这些变化与你相关)
 
 <!-- END -->
 
