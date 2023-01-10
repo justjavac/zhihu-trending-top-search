@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jan 11 2023 05:06:47 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jan 11 2023 06:07:46 GMT+0800 (China Standard Time) -->
 
 1. [著名导演何平去世](https://www.zhihu.com/search?q=著名导演何平去世)
 1. [家长质疑《中国奇谭》](https://www.zhihu.com/search?q=家长质疑《中国奇谭》)
