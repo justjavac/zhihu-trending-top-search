@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jan 11 2023 23:16:31 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jan 12 2023 00:16:20 GMT+0800 (China Standard Time) -->
 
 1. [杨紫琼金球奖影后](https://www.zhihu.com/search?q=杨紫琼金球奖影后)
 1. [广州一男子驾车冲撞行人致 5 死 13
@@ -23,10 +23,7 @@
 1. [种植 1 颗牙的费用有望降低约 50%](https://www.zhihu.com/search?q=种植 1
    颗牙的费用有望降低约 50%)
 1. [中方回应日本抗议中国停发赴华签证](https://www.zhihu.com/search?q=中方回应日本抗议中国停发赴华签证)
-1. [莫诺拉韦胶囊首发报价 1500
-   元/瓶](https://www.zhihu.com/search?q=莫诺拉韦胶囊首发报价 1500 元/瓶)
-1. [家长质疑《中国奇谭》](https://www.zhihu.com/search?q=家长质疑《中国奇谭》)
-1. [著名导演何平去世](https://www.zhihu.com/search?q=著名导演何平去世)
+1. [美国国内航班停飞令已取消](https://www.zhihu.com/search?q=美国国内航班停飞令已取消)
 
 <!-- END -->
 
