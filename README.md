@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jan 13 2023 01:20:47 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jan 13 2023 02:10:21 GMT+0800 (China Standard Time) -->
 
 1. [太阳 4 天内发出两次 X 级耀斑](https://www.zhihu.com/search?q=太阳 4
    天内发出两次 X 级耀斑)
