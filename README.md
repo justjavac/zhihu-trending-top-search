@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jan 13 2023 19:06:28 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jan 13 2023 20:13:55 GMT+0800 (China Standard Time) -->
 
 1. [美国去年 12 月 CPI 同比上涨 6.5%](https://www.zhihu.com/search?q=美国去年 12
    月 CPI 同比上涨 6.5%)
@@ -30,6 +30,9 @@
 1. [梨泰院踩踏事故调查结果公布](https://www.zhihu.com/search?q=梨泰院踩踏事故调查结果公布)
 1. [蚂蚁集团等14家大型平台企业整改已基本完成](https://www.zhihu.com/search?q=蚂蚁集团等14家大型平台企业整改已基本完成)
 1. [东航南航将从纽交所退市](https://www.zhihu.com/search?q=东航南航将从纽交所退市)
+1. [某国产手游疑似照抄任天堂](https://www.zhihu.com/search?q=某国产手游疑似照抄任天堂)
+1. [4 万年前 8 岁男孩容貌再现](https://www.zhihu.com/search?q=4 万年前 8
+   岁男孩容貌再现)
 1. [「傻子瓜子」创始人年广九逝世](https://www.zhihu.com/search?q=「傻子瓜子」创始人年广九逝世)
 1. [胡鑫宇搜寻方向](https://www.zhihu.com/search?q=胡鑫宇搜寻方向)
 1. [剧版三体定档 0115](https://www.zhihu.com/search?q=剧版三体定档 0115)
