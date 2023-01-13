@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jan 13 2023 17:09:06 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jan 13 2023 18:08:59 GMT+0800 (China Standard Time) -->
 
 1. [美国去年 12 月 CPI 同比上涨 6.5%](https://www.zhihu.com/search?q=美国去年 12
    月 CPI 同比上涨 6.5%)
@@ -27,6 +27,7 @@
    小时须核酸检测)
 1. [载 53 人客车在重庆侧翻 3 死 23 人送医](https://www.zhihu.com/search?q=载 53
    人客车在重庆侧翻 3 死 23 人送医)
+1. [梨泰院踩踏事故调查结果公布](https://www.zhihu.com/search?q=梨泰院踩踏事故调查结果公布)
 1. [「傻子瓜子」创始人年广九逝世](https://www.zhihu.com/search?q=「傻子瓜子」创始人年广九逝世)
 1. [胡鑫宇搜寻方向](https://www.zhihu.com/search?q=胡鑫宇搜寻方向)
 1. [剧版三体定档 0115](https://www.zhihu.com/search?q=剧版三体定档 0115)
