@@ -15,9 +15,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jan 14 2023 17:06:35 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jan 14 2023 18:07:06 GMT+0800 (China Standard Time) -->
 
-1. [梨泰院踩踏事故调查结果公布](https://www.zhihu.com/search?q=梨泰院踩踏事故调查结果公布)
 1. [蚂蚁集团等14家大型平台企业整改已基本完成](https://www.zhihu.com/search?q=蚂蚁集团等14家大型平台企业整改已基本完成)
 1. [东航南航将从纽交所退市](https://www.zhihu.com/search?q=东航南航将从纽交所退市)
 1. [某国产手游疑似照抄任天堂](https://www.zhihu.com/search?q=某国产手游疑似照抄任天堂)
@@ -29,6 +28,8 @@
    环比转负)
 1. [腊月二十三小年](https://www.zhihu.com/search?q=腊月二十三小年)
 1. [俄黑海舰队突然「倾巢而出」](https://www.zhihu.com/search?q=俄黑海舰队突然「倾巢而出」)
+1. [全国发热门诊急诊高峰已过](https://www.zhihu.com/search?q=全国发热门诊急诊高峰已过)
+1. [梨泰院踩踏事故调查结果公布](https://www.zhihu.com/search?q=梨泰院踩踏事故调查结果公布)
 1. [载 53 人客车在重庆侧翻 3 死 23 人送医](https://www.zhihu.com/search?q=载 53
    人客车在重庆侧翻 3 死 23 人送医)
 1. [美军 3 艘驱逐舰同时现身南海](https://www.zhihu.com/search?q=美军 3
