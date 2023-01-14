@@ -1,5 +1,4 @@
 [
-  { "query": "原神魈新 PV", "display_query": "原神魈新 PV" },
   {
     "query": "美军 3 艘驱逐舰同时现身南海",
     "display_query": "美军 3 艘驱逐舰同时现身南海"
@@ -32,5 +31,10 @@
     "query": "4 万年前 8 岁男孩容貌再现",
     "display_query": "4 万年前 8 岁男孩容貌再现"
   },
-  { "query": "2023 答案奇遇夜", "display_query": "2023 答案奇遇夜" }
+  { "query": "2023 答案奇遇夜", "display_query": "2023 答案奇遇夜" },
+  {
+    "query": "国铁西安局开设秦岭冰雪游列车",
+    "display_query": "国铁西安局开设秦岭冰雪游列车"
+  },
+  { "query": "原神魈新 PV", "display_query": "原神魈新 PV" }
 ]
