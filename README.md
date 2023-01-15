@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jan 15 2023 22:06:08 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jan 15 2023 23:06:40 GMT+0800 (China Standard Time) -->
 
 1. [2023 答案奇遇夜](https://www.zhihu.com/search?q=2023 答案奇遇夜)
 1. [加利福尼亚州进入灾难状态](https://www.zhihu.com/search?q=加利福尼亚州进入灾难状态)
