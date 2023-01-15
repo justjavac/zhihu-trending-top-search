@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jan 15 2023 23:06:40 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jan 16 2023 00:08:36 GMT+0800 (China Standard Time) -->
 
 1. [2023 答案奇遇夜](https://www.zhihu.com/search?q=2023 答案奇遇夜)
 1. [加利福尼亚州进入灾难状态](https://www.zhihu.com/search?q=加利福尼亚州进入灾难状态)
@@ -26,14 +26,6 @@
 1. [iG 冠军野辅复出首战告负](https://www.zhihu.com/search?q=iG
    冠军野辅复出首战告负)
 1. [剧版三体开播](https://www.zhihu.com/search?q=剧版三体开播)
-1. [4 万年前 8 岁男孩容貌再现](https://www.zhihu.com/search?q=4 万年前 8
-   岁男孩容貌再现)
-1. [全国发热门诊急诊高峰已过](https://www.zhihu.com/search?q=全国发热门诊急诊高峰已过)
-1. [俄黑海舰队突然「倾巢而出」](https://www.zhihu.com/search?q=俄黑海舰队突然「倾巢而出」)
-1. [国铁西安局开设秦岭冰雪游列车](https://www.zhihu.com/search?q=国铁西安局开设秦岭冰雪游列车)
-1. [美国 12 月 CPI 环比转负](https://www.zhihu.com/search?q=美国 12 月 CPI
-   环比转负)
-1. [腊月二十三小年](https://www.zhihu.com/search?q=腊月二十三小年)
 
 <!-- END -->
 
