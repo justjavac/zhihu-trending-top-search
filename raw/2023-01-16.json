@@ -18,5 +18,12 @@
     "display_query": "iG 冠军野辅复出首战告负"
   },
   { "query": "剧版三体开播", "display_query": "剧版三体开播" },
-  { "query": "辽宁化工厂爆炸致 2 死", "display_query": "辽宁化工厂爆炸致 2 死" }
+  {
+    "query": "辽宁化工厂爆炸致 2 死",
+    "display_query": "辽宁化工厂爆炸致 2 死"
+  },
+  {
+    "query": "《黑神话：悟空》贺岁视频",
+    "display_query": "《黑神话：悟空》贺岁视频"
+  }
 ]
