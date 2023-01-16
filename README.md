@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jan 16 2023 23:07:55 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jan 17 2023 00:10:00 GMT+0800 (China Standard Time) -->
 
 1. [2023 答案奇遇夜](https://www.zhihu.com/search?q=2023 答案奇遇夜)
 1. [辽宁化工厂爆炸致 2 死](https://www.zhihu.com/search?q=辽宁化工厂爆炸致 2 死)
@@ -24,14 +24,6 @@
 1. [「围炉煮茶」已致多地多人中毒](https://www.zhihu.com/search?q=「围炉煮茶」已致多地多人中毒)
 1. [宗庆后说「年轻人应早点结婚生子」](https://www.zhihu.com/search?q=宗庆后说「年轻人应早点结婚生子」)
 1. [剧版三体第五集](https://www.zhihu.com/search?q=剧版三体第五集)
-1. [剧版三体开播](https://www.zhihu.com/search?q=剧版三体开播)
-1. [iG 冠军野辅复出首战告负](https://www.zhihu.com/search?q=iG
-   冠军野辅复出首战告负)
-1. [中国奇谭第四集](https://www.zhihu.com/search?q=中国奇谭第四集)
-1. [电影频道评三体动画失利](https://www.zhihu.com/search?q=电影频道评三体动画失利)
-1. [尼泊尔一架载有 72
-   人的飞机坠毁](https://www.zhihu.com/search?q=尼泊尔一架载有 72 人的飞机坠毁)
-1. [加利福尼亚州进入灾难状态](https://www.zhihu.com/search?q=加利福尼亚州进入灾难状态)
 
 <!-- END -->
 
