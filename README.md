@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jan 17 2023 04:07:41 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jan 17 2023 05:06:51 GMT+0800 (China Standard Time) -->
 
 1. [2023 答案奇遇夜](https://www.zhihu.com/search?q=2023 答案奇遇夜)
 1. [辽宁化工厂爆炸致 2 死](https://www.zhihu.com/search?q=辽宁化工厂爆炸致 2 死)
