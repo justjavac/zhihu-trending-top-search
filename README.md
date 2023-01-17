@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jan 18 2023 02:09:03 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jan 18 2023 03:06:02 GMT+0800 (China Standard Time) -->
 
 1. [2023 答案奇遇夜](https://www.zhihu.com/search?q=2023 答案奇遇夜)
 1. [韦布太空望远镜首次发现系外行星](https://www.zhihu.com/search?q=韦布太空望远镜首次发现系外行星)
