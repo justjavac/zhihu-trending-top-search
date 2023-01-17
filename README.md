@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jan 17 2023 23:07:35 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jan 18 2023 00:09:39 GMT+0800 (China Standard Time) -->
 
 1. [2023 答案奇遇夜](https://www.zhihu.com/search?q=2023 答案奇遇夜)
 1. [韦布太空望远镜首次发现系外行星](https://www.zhihu.com/search?q=韦布太空望远镜首次发现系外行星)
@@ -23,12 +23,6 @@
 1. [刘暖曦被采取限制消费](https://www.zhihu.com/search?q=刘暖曦被采取限制消费)
 1. [剧版三体第六集](https://www.zhihu.com/search?q=剧版三体第六集)
 1. [1 月游戏版号下发](https://www.zhihu.com/search?q=1 月游戏版号下发)
-1. [剧版三体第五集](https://www.zhihu.com/search?q=剧版三体第五集)
-1. [宗庆后说「年轻人应早点结婚生子」](https://www.zhihu.com/search?q=宗庆后说「年轻人应早点结婚生子」)
-1. [「围炉煮茶」已致多地多人中毒](https://www.zhihu.com/search?q=「围炉煮茶」已致多地多人中毒)
-1. [阳康后多久能备孕](https://www.zhihu.com/search?q=阳康后多久能备孕)
-1. [《黑神话：悟空》贺岁视频](https://www.zhihu.com/search?q=《黑神话：悟空》贺岁视频)
-1. [辽宁化工厂爆炸致 2 死](https://www.zhihu.com/search?q=辽宁化工厂爆炸致 2 死)
 
 <!-- END -->
 
