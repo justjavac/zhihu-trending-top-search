@@ -1,7 +1,6 @@
 [
   { "query": "2023 答案奇遇夜", "display_query": "2023 答案奇遇夜" },
   { "query": "剧版三体第六集", "display_query": "剧版三体第六集" },
-  { "query": "1 月游戏版号下发", "display_query": "1 月游戏版号下发" },
   {
     "query": "广州感染新冠比例超 85 %",
     "display_query": "广州感染新冠比例超 85 %"
@@ -14,6 +13,7 @@
     "query": "一中国籍女子在韩国接受整容手术中途身亡",
     "display_query": "一中国籍女子在韩国接受整容手术中途身亡"
   },
+  { "query": "1 月游戏版号下发", "display_query": "1 月游戏版号下发" },
   {
     "query": "刘暖曦被采取限制消费 ",
     "display_query": "刘暖曦被采取限制消费 "
