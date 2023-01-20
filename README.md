@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jan 20 2023 14:09:59 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jan 20 2023 15:07:09 GMT+0800 (China Standard Time) -->
 
 1. [2023 答案奇遇夜](https://www.zhihu.com/search?q=2023 答案奇遇夜)
 1. [中国足协原秘书长刘奕被查](https://www.zhihu.com/search?q=中国足协原秘书长刘奕被查)
@@ -24,6 +24,7 @@
 1. [大寒 寒尽春将生](https://www.zhihu.com/search?q=大寒 寒尽春将生)
 1. [深圳一医院接收数十个脑炎患者](https://www.zhihu.com/search?q=深圳一医院接收数十个脑炎患者)
 1. [国产游戏销售年榜发布](https://www.zhihu.com/search?q=国产游戏销售年榜发布)
+1. [AI 为你画出兔年祝福](https://www.zhihu.com/search?q=AI 为你画出兔年祝福)
 1. [男子办结婚证连跑三次没办成](https://www.zhihu.com/search?q=男子办结婚证连跑三次没办成)
 
 <!-- END -->
