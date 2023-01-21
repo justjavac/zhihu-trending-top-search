@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jan 21 2023 11:08:01 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jan 21 2023 12:08:51 GMT+0800 (China Standard Time) -->
 
 1. [国产游戏销售年榜发布](https://www.zhihu.com/search?q=国产游戏销售年榜发布)
 1. [AI 为你画出兔年祝福](https://www.zhihu.com/search?q=AI 为你画出兔年祝福)
