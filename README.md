@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jan 23 2023 14:09:36 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jan 23 2023 15:07:21 GMT+0800 (China Standard Time) -->
 
 1. [AI 为你画出兔年祝福](https://www.zhihu.com/search?q=AI 为你画出兔年祝福)
 1. [美枪击案致多人伤亡](https://www.zhihu.com/search?q=美枪击案致多人伤亡)
