@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jan 24 2023 17:07:37 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jan 24 2023 18:07:46 GMT+0800 (China Standard Time) -->
 
 1. [AI 为你画出兔年祝福](https://www.zhihu.com/search?q=AI 为你画出兔年祝福)
 1. [《守望先锋》国服关闭](https://www.zhihu.com/search?q=《守望先锋》国服关闭)
@@ -27,6 +27,7 @@
    死](https://www.zhihu.com/search?q=加州再现大规模枪击案已致 7 死)
 1. [印度收到90亿光年外星系无线电信号](https://www.zhihu.com/search?q=印度收到90亿光年外星系无线电信号)
 1. [女子带仙女棒进站被罚300](https://www.zhihu.com/search?q=女子带仙女棒进站被罚300)
+1. [泰山山顶温度达零下22摄氏度](https://www.zhihu.com/search?q=泰山山顶温度达零下22摄氏度)
 1. [222 个账号涉炫耀服刑被处置](https://www.zhihu.com/search?q=222
    个账号涉炫耀服刑被处置)
 
