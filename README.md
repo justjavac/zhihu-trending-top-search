@@ -15,11 +15,12 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jan 24 2023 10:09:26 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jan 24 2023 11:08:09 GMT+0800 (China Standard Time) -->
 
 1. [AI 为你画出兔年祝福](https://www.zhihu.com/search?q=AI 为你画出兔年祝福)
 1. [《守望先锋》国服关闭](https://www.zhihu.com/search?q=《守望先锋》国服关闭)
 1. [《炉石传说》国服关闭](https://www.zhihu.com/search?q=《炉石传说》国服关闭)
+1. [星穹铁道群像 PV](https://www.zhihu.com/search?q=星穹铁道群像 PV)
 1. [222 个账号涉炫耀服刑被处置](https://www.zhihu.com/search?q=222
    个账号涉炫耀服刑被处置)
 
