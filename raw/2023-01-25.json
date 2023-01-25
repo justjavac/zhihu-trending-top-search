@@ -1,10 +1,11 @@
 [
   { "query": "AI 为你画出兔年祝福", "display_query": "AI 为你画出兔年祝福" },
-  { "query": "剧版三体第十二集", "display_query": "剧版三体第十二集" },
   {
     "query": "杨紫琼提名奥斯卡最佳女主角",
     "display_query": "杨紫琼提名奥斯卡最佳女主角"
   },
+  { "query": "剧版三体第十三集", "display_query": "剧版三体第十三集" },
+  { "query": "剧版三体第十二集", "display_query": "剧版三体第十二集" },
   {
     "query": "泰山山顶温度达零下22摄氏度",
     "display_query": "泰山山顶温度达零下22摄氏度"
