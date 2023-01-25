@@ -1,6 +1,5 @@
 [
   { "query": "AI 为你画出兔年祝福", "display_query": "AI 为你画出兔年祝福" },
-  { "query": "星穹铁道群像 PV", "display_query": "星穹铁道群像 PV" },
   {
     "query": "飞抵哈尔滨的飞机行李舱门被冻住",
     "display_query": "飞抵哈尔滨的飞机行李舱门被冻住"
@@ -27,6 +26,7 @@
     "query": "杨紫琼提名奥斯卡最佳女主角",
     "display_query": "杨紫琼提名奥斯卡最佳女主角"
   },
+  { "query": "星穹铁道群像 PV", "display_query": "星穹铁道群像 PV" },
   { "query": "《守望先锋》国服关闭", "display_query": "《守望先锋》国服关闭" },
   { "query": "《炉石传说》国服关闭", "display_query": "《炉石传说》国服关闭" }
 ]
