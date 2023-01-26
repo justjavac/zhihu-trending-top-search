@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jan 26 2023 15:07:07 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jan 26 2023 16:09:43 GMT+0800 (China Standard Time) -->
 
 1. [四川泸定 5.6 级地震](https://www.zhihu.com/search?q=四川泸定 5.6 级地震)
 1. [AI 为你画出兔年祝福](https://www.zhihu.com/search?q=AI 为你画出兔年祝福)
@@ -23,6 +23,7 @@
 1. [《中国乒乓》撤档](https://www.zhihu.com/search?q=《中国乒乓》撤档)
 1. [正月初五为什么叫破五](https://www.zhihu.com/search?q=正月初五为什么叫破五)
 1. [官方回应游客打架致三星堆文物翻倒](https://www.zhihu.com/search?q=官方回应游客打架致三星堆文物翻倒)
+1. [日本前首相称无法想象俄会输](https://www.zhihu.com/search?q=日本前首相称无法想象俄会输)
 
 <!-- END -->
 
