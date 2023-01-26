@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jan 27 2023 01:06:47 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jan 27 2023 02:09:16 GMT+0800 (China Standard Time) -->
 
 1. [四川泸定 5.6 级地震](https://www.zhihu.com/search?q=四川泸定 5.6 级地震)
 1. [AI 为你画出兔年祝福](https://www.zhihu.com/search?q=AI 为你画出兔年祝福)
