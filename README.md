@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jan 27 2023 13:07:15 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jan 27 2023 14:09:58 GMT+0800 (China Standard Time) -->
 
 1. [AI 为你画出兔年祝福](https://www.zhihu.com/search?q=AI 为你画出兔年祝福)
 1. [日本前首相称无法想象俄会输](https://www.zhihu.com/search?q=日本前首相称无法想象俄会输)
