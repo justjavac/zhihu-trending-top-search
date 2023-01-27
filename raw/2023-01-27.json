@@ -1,5 +1,4 @@
 [
-  { "query": "四川泸定 5.6 级地震", "display_query": "四川泸定 5.6 级地震" },
   { "query": "AI 为你画出兔年祝福", "display_query": "AI 为你画出兔年祝福" },
   { "query": "《中国乒乓》撤档", "display_query": "《中国乒乓》撤档" },
   {
@@ -18,5 +17,6 @@
     "query": "俄媒：乌克兰遭俄「巨大规模」空袭",
     "display_query": "俄媒：乌克兰遭俄「巨大规模」空袭"
   },
-  { "query": "剧版三体第十四集", "display_query": "剧版三体第十四集" }
+  { "query": "剧版三体第十四集", "display_query": "剧版三体第十四集" },
+  { "query": "四川泸定 5.6 级地震", "display_query": "四川泸定 5.6 级地震" }
 ]
