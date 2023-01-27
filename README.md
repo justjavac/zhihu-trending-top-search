@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jan 27 2023 10:13:09 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jan 27 2023 11:08:27 GMT+0800 (China Standard Time) -->
 
 1. [AI 为你画出兔年祝福](https://www.zhihu.com/search?q=AI 为你画出兔年祝福)
 1. [官方回应游客打架致三星堆文物翻倒](https://www.zhihu.com/search?q=官方回应游客打架致三星堆文物翻倒)
