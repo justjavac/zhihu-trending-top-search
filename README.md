@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jan 29 2023 03:05:16 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jan 29 2023 04:06:59 GMT+0800 (China Standard Time) -->
 
 1. [AI 为你画出兔年祝福](https://www.zhihu.com/search?q=AI 为你画出兔年祝福)
 1. [女子回老家忘关燃气从年前烧到初五](https://www.zhihu.com/search?q=女子回老家忘关燃气从年前烧到初五)
