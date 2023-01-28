@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jan 28 2023 11:08:06 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jan 28 2023 12:08:40 GMT+0800 (China Standard Time) -->
 
 1. [AI 为你画出兔年祝福](https://www.zhihu.com/search?q=AI 为你画出兔年祝福)
 1. [春节假期全国国内旅游出游 3.08
