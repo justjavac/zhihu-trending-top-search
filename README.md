@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jan 30 2023 06:06:27 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jan 30 2023 07:07:26 GMT+0800 (China Standard Time) -->
 
 1. [AI 为你画出兔年祝福](https://www.zhihu.com/search?q=AI 为你画出兔年祝福)
 1. [辉瑞考虑自行研发 COVID
