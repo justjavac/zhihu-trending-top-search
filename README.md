@@ -15,11 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jan 29 2023 16:08:54 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jan 29 2023 17:06:52 GMT+0800 (China Standard Time) -->
 
 1. [AI 为你画出兔年祝福](https://www.zhihu.com/search?q=AI 为你画出兔年祝福)
-1. [女子回老家忘关燃气从年前烧到初五](https://www.zhihu.com/search?q=女子回老家忘关燃气从年前烧到初五)
-1. [专家称新冠病毒有点传不动了](https://www.zhihu.com/search?q=专家称新冠病毒有点传不动了)
 1. [高铁超员报警无法行驶
    无票乘客下车](https://www.zhihu.com/search?q=高铁超员报警无法行驶
    无票乘客下车)
@@ -27,6 +25,10 @@
 1. [辉瑞考虑自行研发 COVID
    病毒变种](https://www.zhihu.com/search?q=辉瑞考虑自行研发 COVID 病毒变种)
 1. [又有两款新冠治疗药物上市](https://www.zhihu.com/search?q=又有两款新冠治疗药物上市)
+1. [郑州首套房贷款利率降至
+   3.8％](https://www.zhihu.com/search?q=郑州首套房贷款利率降至 3.8％)
+1. [女子回老家忘关燃气从年前烧到初五](https://www.zhihu.com/search?q=女子回老家忘关燃气从年前烧到初五)
+1. [专家称新冠病毒有点传不动了](https://www.zhihu.com/search?q=专家称新冠病毒有点传不动了)
 
 <!-- END -->
 
