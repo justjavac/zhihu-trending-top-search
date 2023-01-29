@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jan 29 2023 15:06:22 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jan 29 2023 16:08:54 GMT+0800 (China Standard Time) -->
 
 1. [AI 为你画出兔年祝福](https://www.zhihu.com/search?q=AI 为你画出兔年祝福)
 1. [女子回老家忘关燃气从年前烧到初五](https://www.zhihu.com/search?q=女子回老家忘关燃气从年前烧到初五)
@@ -26,6 +26,7 @@
 1. [四川旅游接待人数全国第一](https://www.zhihu.com/search?q=四川旅游接待人数全国第一)
 1. [辉瑞考虑自行研发 COVID
    病毒变种](https://www.zhihu.com/search?q=辉瑞考虑自行研发 COVID 病毒变种)
+1. [又有两款新冠治疗药物上市](https://www.zhihu.com/search?q=又有两款新冠治疗药物上市)
 
 <!-- END -->
 
