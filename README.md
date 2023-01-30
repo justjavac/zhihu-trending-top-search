@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jan 31 2023 00:09:57 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jan 31 2023 01:06:58 GMT+0800 (China Standard Time) -->
 
 1. [AI 为你画出兔年祝福](https://www.zhihu.com/search?q=AI 为你画出兔年祝福)
 1. [四川生育登记取消结婚限制](https://www.zhihu.com/search?q=四川生育登记取消结婚限制)
