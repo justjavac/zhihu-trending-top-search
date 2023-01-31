@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Feb 01 2023 03:06:00 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Feb 01 2023 04:08:16 GMT+0800 (China Standard Time) -->
 
 1. [二月新规](https://www.zhihu.com/search?q=二月新规)
 1. [专家称年轻时不应为钱去选择工作](https://www.zhihu.com/search?q=专家称年轻时不应为钱去选择工作)
