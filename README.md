@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Feb 01 2023 23:07:50 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Feb 02 2023 00:09:27 GMT+0800 (China Standard Time) -->
 
 1. [剧版三体第十八集](https://www.zhihu.com/search?q=剧版三体第十八集)
 1. [手游 Lovelive 宣布停运](https://www.zhihu.com/search?q=手游 Lovelive
@@ -24,11 +24,6 @@
 1. [股票发行注册制改革正式启动](https://www.zhihu.com/search?q=股票发行注册制改革正式启动)
 1. [狂飙大结局](https://www.zhihu.com/search?q=狂飙大结局)
 1. [剧版三体第十九集](https://www.zhihu.com/search?q=剧版三体第十九集)
-1. [杭州中考取消外籍华人的子女加分](https://www.zhihu.com/search?q=杭州中考取消外籍华人的子女加分)
-1. [演员胡歌官宣已婚得女](https://www.zhihu.com/search?q=演员胡歌官宣已婚得女)
-1. [光与夜之恋X娇兰联动](https://www.zhihu.com/search?q=光与夜之恋X娇兰联动)
-1. [专家称年轻时不应为钱去选择工作](https://www.zhihu.com/search?q=专家称年轻时不应为钱去选择工作)
-1. [二月新规](https://www.zhihu.com/search?q=二月新规)
 
 <!-- END -->
 
