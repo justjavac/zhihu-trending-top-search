@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Feb 02 2023 01:07:05 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Feb 02 2023 02:09:31 GMT+0800 (China Standard Time) -->
 
 1. [剧版三体第十八集](https://www.zhihu.com/search?q=剧版三体第十八集)
 1. [手游 Lovelive 宣布停运](https://www.zhihu.com/search?q=手游 Lovelive
