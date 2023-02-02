@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Feb 02 2023 13:07:07 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Feb 02 2023 14:10:04 GMT+0800 (China Standard Time) -->
 
 1. [剧版三体第十八集](https://www.zhihu.com/search?q=剧版三体第十八集)
 1. [鱼跃医疗被罚 270 万元](https://www.zhihu.com/search?q=鱼跃医疗被罚 270 万元)
