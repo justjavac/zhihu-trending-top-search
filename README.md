@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Feb 03 2023 00:10:00 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Feb 03 2023 01:06:52 GMT+0800 (China Standard Time) -->
 
 1. [美联储宣布加息 25 个基点](https://www.zhihu.com/search?q=美联储宣布加息 25
    个基点)
