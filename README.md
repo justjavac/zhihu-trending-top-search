@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Feb 03 2023 17:07:56 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Feb 03 2023 18:08:08 GMT+0800 (China Standard Time) -->
 
 1. [剧版三体第二十集](https://www.zhihu.com/search?q=剧版三体第二十集)
 1. [辽宁沈阳一医生出诊时遇袭](https://www.zhihu.com/search?q=辽宁沈阳一医生出诊时遇袭)
@@ -24,6 +24,9 @@
 1. [月收入一万真是常态吗](https://www.zhihu.com/search?q=月收入一万真是常态吗)
 1. [第二轮感染高峰或在 3-5
    月到来](https://www.zhihu.com/search?q=第二轮感染高峰或在 3-5 月到来)
+1. [国内成品油价迎年内第二涨](https://www.zhihu.com/search?q=国内成品油价迎年内第二涨)
+1. [有人还完 90 万房贷剩一块月供抵个税](https://www.zhihu.com/search?q=有人还完
+   90 万房贷剩一块月供抵个税)
 1. [美联储宣布加息 25 个基点](https://www.zhihu.com/search?q=美联储宣布加息 25
    个基点)
 
