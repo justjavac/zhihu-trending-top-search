@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Feb 05 2023 02:08:18 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Feb 05 2023 03:05:34 GMT+0800 (China Standard Time) -->
 
 1. [世界癌症日](https://www.zhihu.com/search?q=世界癌症日)
 1. [中国宏观税负降至 13.8％
