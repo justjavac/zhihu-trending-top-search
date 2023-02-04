@@ -15,9 +15,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Feb 04 2023 19:06:24 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Feb 04 2023 20:12:26 GMT+0800 (China Standard Time) -->
 
-1. [华裔女孩被美国养父母锁地牢十余年](https://www.zhihu.com/search?q=华裔女孩被美国养父母锁地牢十余年)
 1. [剧版三体第二十一集](https://www.zhihu.com/search?q=剧版三体第二十一集)
 1. [世界癌症日](https://www.zhihu.com/search?q=世界癌症日)
 1. [中国宏观税负降至 13.8％
@@ -27,6 +26,8 @@
 1. [美国两架客机在机场相撞](https://www.zhihu.com/search?q=美国两架客机在机场相撞)
 1. [19 岁患者疑似患阿尔茨海默病](https://www.zhihu.com/search?q=19
    岁患者疑似患阿尔茨海默病)
+1. [iG 赛季首败](https://www.zhihu.com/search?q=iG 赛季首败)
+1. [华裔女孩被美国养父母锁地牢十余年](https://www.zhihu.com/search?q=华裔女孩被美国养父母锁地牢十余年)
 1. [国内成品油价迎年内第二涨](https://www.zhihu.com/search?q=国内成品油价迎年内第二涨)
 1. [有人还完 90 万房贷剩一块月供抵个税](https://www.zhihu.com/search?q=有人还完
    90 万房贷剩一块月供抵个税)
