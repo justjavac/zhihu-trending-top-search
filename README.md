@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Feb 04 2023 08:37:56 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Feb 04 2023 10:07:02 GMT+0800 (China Standard Time) -->
 
 1. [一人之下漫画更新 651](https://www.zhihu.com/search?q=一人之下漫画更新 651)
 1. [专家称年轻人工资低可能是能力不够](https://www.zhihu.com/search?q=专家称年轻人工资低可能是能力不够)
@@ -27,6 +27,9 @@
    90 万房贷剩一块月供抵个税)
 1. [华裔女孩被美国养父母锁地牢十余年](https://www.zhihu.com/search?q=华裔女孩被美国养父母锁地牢十余年)
 1. [剧版三体第二十一集](https://www.zhihu.com/search?q=剧版三体第二十一集)
+1. [世界癌症日](https://www.zhihu.com/search?q=世界癌症日)
+1. [中国宏观税负降至 13.8％
+   创新低](https://www.zhihu.com/search?q=中国宏观税负降至 13.8％ 创新低)
 
 <!-- END -->
 
