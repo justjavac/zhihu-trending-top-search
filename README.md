@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Feb 04 2023 14:09:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Feb 04 2023 15:06:25 GMT+0800 (China Standard Time) -->
 
 1. [专家称年轻人工资低可能是能力不够](https://www.zhihu.com/search?q=专家称年轻人工资低可能是能力不够)
 1. [月收入一万真是常态吗](https://www.zhihu.com/search?q=月收入一万真是常态吗)
