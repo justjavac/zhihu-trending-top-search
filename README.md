@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Feb 04 2023 23:06:47 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Feb 05 2023 00:09:17 GMT+0800 (China Standard Time) -->
 
 1. [世界癌症日](https://www.zhihu.com/search?q=世界癌症日)
 1. [中国宏观税负降至 13.8％
@@ -27,16 +27,6 @@
    岁患者疑似患阿尔茨海默病)
 1. [iG 赛季首败](https://www.zhihu.com/search?q=iG 赛季首败)
 1. [许广高速长湘段多车相撞起火](https://www.zhihu.com/search?q=许广高速长湘段多车相撞起火)
-1. [剧版三体第二十一集](https://www.zhihu.com/search?q=剧版三体第二十一集)
-1. [华裔女孩被美国养父母锁地牢十余年](https://www.zhihu.com/search?q=华裔女孩被美国养父母锁地牢十余年)
-1. [国内成品油价迎年内第二涨](https://www.zhihu.com/search?q=国内成品油价迎年内第二涨)
-1. [有人还完 90 万房贷剩一块月供抵个税](https://www.zhihu.com/search?q=有人还完
-   90 万房贷剩一块月供抵个税)
-1. [第二轮感染高峰或在 3-5
-   月到来](https://www.zhihu.com/search?q=第二轮感染高峰或在 3-5 月到来)
-1. [专家称年轻人工资低可能是能力不够](https://www.zhihu.com/search?q=专家称年轻人工资低可能是能力不够)
-1. [月收入一万真是常态吗](https://www.zhihu.com/search?q=月收入一万真是常态吗)
-1. [一人之下漫画更新 651](https://www.zhihu.com/search?q=一人之下漫画更新 651)
 
 <!-- END -->
 
