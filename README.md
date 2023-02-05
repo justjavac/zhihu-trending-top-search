@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Feb 05 2023 13:06:48 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Feb 05 2023 14:09:02 GMT+0800 (China Standard Time) -->
 
 1. [美国两架客机在机场相撞](https://www.zhihu.com/search?q=美国两架客机在机场相撞)
 1. [19 岁患者疑似患阿尔茨海默病](https://www.zhihu.com/search?q=19
