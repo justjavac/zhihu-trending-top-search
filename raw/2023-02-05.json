@@ -1,5 +1,4 @@
 [
-  { "query": "欧文申请交易", "display_query": "欧文申请交易" },
   {
     "query": "乳腺癌成为全球第一大癌症",
     "display_query": "乳腺癌成为全球第一大癌症"
@@ -17,6 +16,7 @@
     "query": "许广高速长湘段多车相撞起火",
     "display_query": "许广高速长湘段多车相撞起火"
   },
+  { "query": "欧文申请交易", "display_query": "欧文申请交易" },
   { "query": "世界癌症日", "display_query": "世界癌症日" },
   {
     "query": "中国宏观税负降至 13.8％ 创新低",
