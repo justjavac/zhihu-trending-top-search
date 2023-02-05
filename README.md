@@ -15,13 +15,14 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Feb 05 2023 18:07:01 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Feb 05 2023 19:05:38 GMT+0800 (China Standard Time) -->
 
 1. [iG 赛季首败](https://www.zhihu.com/search?q=iG 赛季首败)
 1. [广东佛山发生 3.2 级地震](https://www.zhihu.com/search?q=广东佛山发生 3.2
    级地震)
 1. [三体动画第十集](https://www.zhihu.com/search?q=三体动画第十集)
 1. [中国奇谭第七集](https://www.zhihu.com/search?q=中国奇谭第七集)
+1. [正月十五闹元宵](https://www.zhihu.com/search?q=正月十五闹元宵)
 1. [19 岁患者疑似患阿尔茨海默病](https://www.zhihu.com/search?q=19
    岁患者疑似患阿尔茨海默病)
 1. [许广高速长湘段多车相撞起火](https://www.zhihu.com/search?q=许广高速长湘段多车相撞起火)
