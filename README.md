@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Feb 06 2023 07:07:32 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Feb 06 2023 08:38:05 GMT+0800 (China Standard Time) -->
 
 1. [广东佛山发生 3.2 级地震](https://www.zhihu.com/search?q=广东佛山发生 3.2
    级地震)
