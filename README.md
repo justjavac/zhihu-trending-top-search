@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Feb 06 2023 18:08:23 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Feb 06 2023 19:06:33 GMT+0800 (China Standard Time) -->
 
 1. [剧版三体第二十二集](https://www.zhihu.com/search?q=剧版三体第二十二集)
 1. [第 65 届格莱美奖](https://www.zhihu.com/search?q=第 65 届格莱美奖)
