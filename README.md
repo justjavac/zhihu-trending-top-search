@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Feb 07 2023 00:09:53 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Feb 07 2023 01:06:01 GMT+0800 (China Standard Time) -->
 
 1. [第 65 届格莱美奖](https://www.zhihu.com/search?q=第 65 届格莱美奖)
 1. [土耳其发生 7.8 级地震](https://www.zhihu.com/search?q=土耳其发生 7.8 级地震)
