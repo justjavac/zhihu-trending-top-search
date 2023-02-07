@@ -9,6 +9,10 @@
     "display_query": "土耳其一天内两次 7.8 级强震"
   },
   { "query": "河北闹气荒", "display_query": "河北闹气荒" },
+  {
+    "query": "中方回应美方拒还飞艇碎片和设备",
+    "display_query": "中方回应美方拒还飞艇碎片和设备"
+  },
   { "query": "第 65 届格莱美奖", "display_query": "第 65 届格莱美奖" },
   { "query": "土耳其发生 7.8 级地震", "display_query": "土耳其发生 7.8 级地震" }
 ]
