@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Feb 07 2023 13:07:21 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Feb 07 2023 14:10:01 GMT+0800 (China Standard Time) -->
 
 1. [泽连斯基提议将战时状态再延长 90
    天](https://www.zhihu.com/search?q=泽连斯基提议将战时状态再延长 90 天)
