@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Feb 08 2023 20:14:09 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Feb 08 2023 21:16:37 GMT+0800 (China Standard Time) -->
 
 1. [任天堂 Switch 销量超 1.21 亿台](https://www.zhihu.com/search?q=任天堂 Switch
    销量超 1.21 亿台)
