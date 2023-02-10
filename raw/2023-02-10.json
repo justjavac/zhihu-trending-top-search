@@ -1,4 +1,5 @@
 [
+  { "query": "NBA 交易截止日", "display_query": "NBA 交易截止日" },
   {
     "query": "建行、工行等多个网点终止营业",
     "display_query": "建行、工行等多个网点终止营业"
@@ -17,5 +18,6 @@
     "query": "我国 1 月 CPI 同比上涨 2.1%",
     "display_query": "我国 1 月 CPI 同比上涨 2.1%"
   },
+  { "query": "游戏霍格沃茨之遗上线", "display_query": "游戏霍格沃茨之遗上线" },
   { "query": "任天堂发布直面会", "display_query": "任天堂发布直面会" }
 ]
