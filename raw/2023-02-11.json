@@ -1,6 +1,4 @@
 [
-  { "query": "NBA 交易截止日", "display_query": "NBA 交易截止日" },
-  { "query": "游戏霍格沃茨之遗上线", "display_query": "游戏霍格沃茨之遗上线" },
   { "query": "崩坏星穹铁道三测开启", "display_query": "崩坏星穹铁道三测开启" },
   {
     "query": "美多州或禁中国人在美买房？中方回应",
@@ -15,6 +13,8 @@
     "query": "TES 赢下「仁川人对决」",
     "display_query": "TES 赢下「仁川人对决」"
   },
+  { "query": "NBA 交易截止日", "display_query": "NBA 交易截止日" },
+  { "query": "游戏霍格沃茨之遗上线", "display_query": "游戏霍格沃茨之遗上线" },
   {
     "query": "我国 1 月 CPI 同比上涨 2.1%",
     "display_query": "我国 1 月 CPI 同比上涨 2.1%"
