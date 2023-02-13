@@ -23,11 +23,7 @@ export async function createReadme(words: SearchWord[]): Promise<string> {
 export function createList(words: SearchWord[]): string {
   return `<!-- BEGIN -->
 <!-- 最后更新时间 ${Date()} -->
-${
-    words.map((x) =>
-      `1. [${x.display_query}](https://www.zhihu.com/search?q=${x.query})`
-    ).join("\n")
-  }
+${words.map((x) => `1. [${x.display_query}](https://www.zhihu.com/search?q=${encodeURIComponent(x.query)})`).join("\n")}
 <!-- END -->`;
 }
 
