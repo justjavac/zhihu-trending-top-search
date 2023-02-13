@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Feb 13 2023 22:07:38 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Feb 13 2023 23:08:16 GMT+0800 (China Standard Time) -->
 
 1. [黄海北部海域进行实弹射击](https://www.zhihu.com/search?q=%E9%BB%84%E6%B5%B7%E5%8C%97%E9%83%A8%E6%B5%B7%E5%9F%9F%E8%BF%9B%E8%A1%8C%E5%AE%9E%E5%BC%B9%E5%B0%84%E5%87%BB)
 1. [刘学州被网暴致死案网上开庭](https://www.zhihu.com/search?q=%E5%88%98%E5%AD%A6%E5%B7%9E%E8%A2%AB%E7%BD%91%E6%9A%B4%E8%87%B4%E6%AD%BB%E6%A1%88%E7%BD%91%E4%B8%8A%E5%BC%80%E5%BA%AD)
