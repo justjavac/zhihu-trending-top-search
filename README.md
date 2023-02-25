@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Feb 25 2023 16:09:32 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Feb 25 2023 17:07:20 GMT+0800 (China Standard Time) -->
 
 1. [扬科维奇执掌国足](https://www.zhihu.com/search?q=%E6%89%AC%E7%A7%91%E7%BB%B4%E5%A5%87%E6%89%A7%E6%8E%8C%E5%9B%BD%E8%B6%B3)
 1. [原神公布新角色「白术」](https://www.zhihu.com/search?q=%E5%8E%9F%E7%A5%9E%E5%85%AC%E5%B8%83%E6%96%B0%E8%A7%92%E8%89%B2%E3%80%8C%E7%99%BD%E6%9C%AF%E3%80%8D)
