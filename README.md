@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Feb 27 2023 18:09:15 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Feb 27 2023 19:07:05 GMT+0800 (China Standard Time) -->
 
 1. [仅 6.1% 应届本科生起薪过万](https://www.zhihu.com/search?q=%E4%BB%85%206.1%25%20%E5%BA%94%E5%B1%8A%E6%9C%AC%E7%A7%91%E7%94%9F%E8%B5%B7%E8%96%AA%E8%BF%87%E4%B8%87)
 1. [WBG 不敌 LNG](https://www.zhihu.com/search?q=WBG%20%E4%B8%8D%E6%95%8C%20LNG)
