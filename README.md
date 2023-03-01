@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Mar 02 2023 05:07:34 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Mar 02 2023 06:07:16 GMT+0800 (China Standard Time) -->
 
 1. [四川甘孜 4.8 级地震](https://www.zhihu.com/search?q=%E5%9B%9B%E5%B7%9D%E7%94%98%E5%AD%9C%204.8%20%E7%BA%A7%E5%9C%B0%E9%9C%87)
 1. [建议延长春节假期至 9 天](https://www.zhihu.com/search?q=%E5%BB%BA%E8%AE%AE%E5%BB%B6%E9%95%BF%E6%98%A5%E8%8A%82%E5%81%87%E6%9C%9F%E8%87%B3%209%20%E5%A4%A9)
