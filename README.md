@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Mar 06 2023 04:07:40 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Mar 06 2023 05:06:41 GMT+0800 (China Standard Time) -->
 
 1. [财政支出 7 成以上用于民生](https://www.zhihu.com/search?q=%E8%B4%A2%E6%94%BF%E6%94%AF%E5%87%BA%207%20%E6%88%90%E4%BB%A5%E4%B8%8A%E7%94%A8%E4%BA%8E%E6%B0%91%E7%94%9F)
 1. [今年国防费预算增长 7.2%](https://www.zhihu.com/search?q=%E4%BB%8A%E5%B9%B4%E5%9B%BD%E9%98%B2%E8%B4%B9%E9%A2%84%E7%AE%97%E5%A2%9E%E9%95%BF%207.2%25)
