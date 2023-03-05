@@ -14,9 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Mar 05 2023 08:46:57 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Mar 05 2023 10:29:13 GMT+0800 (China Standard Time) -->
 
 1. [进击的巨人最终季更新](https://www.zhihu.com/search?q=%E8%BF%9B%E5%87%BB%E7%9A%84%E5%B7%A8%E4%BA%BA%E6%9C%80%E7%BB%88%E5%AD%A3%E6%9B%B4%E6%96%B0)
+1. [财政支出 7 成以上用于民生](https://www.zhihu.com/search?q=%E8%B4%A2%E6%94%BF%E6%94%AF%E5%87%BA%207%20%E6%88%90%E4%BB%A5%E4%B8%8A%E7%94%A8%E4%BA%8E%E6%B0%91%E7%94%9F)
 
 <!-- END -->
 
