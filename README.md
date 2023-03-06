@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Mar 06 2023 14:11:16 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Mar 06 2023 15:07:55 GMT+0800 (China Standard Time) -->
 
 1. [三体动画第十二集](https://www.zhihu.com/search?q=%E4%B8%89%E4%BD%93%E5%8A%A8%E7%94%BB%E7%AC%AC%E5%8D%81%E4%BA%8C%E9%9B%86)
 1. [建议「六三三」学制改为「五二三」](https://www.zhihu.com/search?q=%E5%BB%BA%E8%AE%AE%E3%80%8C%E5%85%AD%E4%B8%89%E4%B8%89%E3%80%8D%E5%AD%A6%E5%88%B6%E6%94%B9%E4%B8%BA%E3%80%8C%E4%BA%94%E4%BA%8C%E4%B8%89%E3%80%8D)
