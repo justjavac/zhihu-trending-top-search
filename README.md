@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Mar 06 2023 10:19:44 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Mar 06 2023 11:15:15 GMT+0800 (China Standard Time) -->
 
 1. [今年国防费预算增长 7.2%](https://www.zhihu.com/search?q=%E4%BB%8A%E5%B9%B4%E5%9B%BD%E9%98%B2%E8%B4%B9%E9%A2%84%E7%AE%97%E5%A2%9E%E9%95%BF%207.2%25)
 1. [三体动画第十二集](https://www.zhihu.com/search?q=%E4%B8%89%E4%BD%93%E5%8A%A8%E7%94%BB%E7%AC%AC%E5%8D%81%E4%BA%8C%E9%9B%86)
