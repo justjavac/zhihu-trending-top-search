@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Mar 09 2023 05:07:37 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Mar 09 2023 06:07:49 GMT+0800 (China Standard Time) -->
 
 1. [「三八」国际妇女节](https://www.zhihu.com/search?q=%E3%80%8C%E4%B8%89%E5%85%AB%E3%80%8D%E5%9B%BD%E9%99%85%E5%A6%87%E5%A5%B3%E8%8A%82)
 1. [游戏天际线 2 正式公开](https://www.zhihu.com/search?q=%E6%B8%B8%E6%88%8F%E5%A4%A9%E9%99%85%E7%BA%BF%202%20%E6%AD%A3%E5%BC%8F%E5%85%AC%E5%BC%80)
