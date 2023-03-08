@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Mar 08 2023 10:21:03 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Mar 08 2023 11:17:15 GMT+0800 (China Standard Time) -->
 
 1. [Lofter 推出 AI 绘图遭用户抵制](https://www.zhihu.com/search?q=Lofter%20%E6%8E%A8%E5%87%BA%20AI%20%E7%BB%98%E5%9B%BE%E9%81%AD%E7%94%A8%E6%88%B7%E6%8A%B5%E5%88%B6)
 1. [人民网评鸡你太美是恶俗烂梗](https://www.zhihu.com/search?q=%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%84%E9%B8%A1%E4%BD%A0%E5%A4%AA%E7%BE%8E%E6%98%AF%E6%81%B6%E4%BF%97%E7%83%82%E6%A2%97)
