@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Mar 12 2023 10:16:52 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Mar 12 2023 11:09:54 GMT+0800 (China Standard Time) -->
 
 1. [东风汽车「骨折」降价](https://www.zhihu.com/search?q=%E4%B8%9C%E9%A3%8E%E6%B1%BD%E8%BD%A6%E3%80%8C%E9%AA%A8%E6%8A%98%E3%80%8D%E9%99%8D%E4%BB%B7)
 1. [美国取消中赴美旅客新冠检测](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E5%8F%96%E6%B6%88%E4%B8%AD%E8%B5%B4%E7%BE%8E%E6%97%85%E5%AE%A2%E6%96%B0%E5%86%A0%E6%A3%80%E6%B5%8B)
