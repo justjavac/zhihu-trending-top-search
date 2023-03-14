@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Mar 15 2023 06:07:06 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Mar 15 2023 07:07:25 GMT+0800 (China Standard Time) -->
 
 1. [官方：恢复审发外国人各类赴华签证](https://www.zhihu.com/search?q=%E5%AE%98%E6%96%B9%EF%BC%9A%E6%81%A2%E5%A4%8D%E5%AE%A1%E5%8F%91%E5%A4%96%E5%9B%BD%E4%BA%BA%E5%90%84%E7%B1%BB%E8%B5%B4%E5%8D%8E%E7%AD%BE%E8%AF%81)
 1. [旅游书用靖国神社作封面](https://www.zhihu.com/search?q=%E6%97%85%E6%B8%B8%E4%B9%A6%E7%94%A8%E9%9D%96%E5%9B%BD%E7%A5%9E%E7%A4%BE%E4%BD%9C%E5%B0%81%E9%9D%A2)
