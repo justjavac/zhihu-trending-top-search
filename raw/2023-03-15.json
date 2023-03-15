@@ -1,12 +1,12 @@
 [
   { "query": "315", "display_query": "315" },
-  { "query": "官方：恢复审发外国人各类赴华签证", "display_query": "官方：恢复审发外国人各类赴华签证" },
-  { "query": "旅游书用靖国神社作封面", "display_query": "旅游书用靖国神社作封面" },
   { "query": "三部门：开学后师生在校期间不强制佩戴口罩", "display_query": "三部门：开学后师生在校期间不强制佩戴口罩" },
   { "query": "俄导弹疑摧毁北约在乌影子参谋部", "display_query": "俄导弹疑摧毁北约在乌影子参谋部" },
   { "query": "硅谷银行破产", "display_query": "硅谷银行破产" },
   { "query": "\t瑞信自曝财报程序「重大缺陷」", "display_query": "\t瑞信自曝财报程序「重大缺陷」" },
   { "query": "OpenAI 发布 GPT-4", "display_query": "OpenAI 发布 GPT-4" },
   { "query": "国考成绩公布", "display_query": "国考成绩公布" },
-  { "query": "哈兰德五球曼城晋级", "display_query": "哈兰德五球曼城晋级" }
+  { "query": "哈兰德五球曼城晋级", "display_query": "哈兰德五球曼城晋级" },
+  { "query": "官方：恢复审发外国人各类赴华签证", "display_query": "官方：恢复审发外国人各类赴华签证" },
+  { "query": "旅游书用靖国神社作封面", "display_query": "旅游书用靖国神社作封面" }
 ]
