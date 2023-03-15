@@ -1,5 +1,6 @@
 [
   { "query": "315", "display_query": "315" },
+  { "query": "315 晚会", "display_query": "315 晚会" },
   { "query": "OpenAI 发布 GPT-4", "display_query": "OpenAI 发布 GPT-4" },
   { "query": "国考成绩公布", "display_query": "国考成绩公布" },
   { "query": "哈兰德五球曼城晋级", "display_query": "哈兰德五球曼城晋级" },
