@@ -1,7 +1,5 @@
 [
   { "query": "315", "display_query": "315" },
-  { "query": "俄导弹疑摧毁北约在乌影子参谋部", "display_query": "俄导弹疑摧毁北约在乌影子参谋部" },
-  { "query": "硅谷银行破产", "display_query": "硅谷银行破产" },
   { "query": "\t瑞信自曝财报程序「重大缺陷」", "display_query": "\t瑞信自曝财报程序「重大缺陷」" },
   { "query": "OpenAI 发布 GPT-4", "display_query": "OpenAI 发布 GPT-4" },
   { "query": "国考成绩公布", "display_query": "国考成绩公布" },
@@ -9,6 +7,9 @@
   { "query": "美国 2 月 CPI 同比涨 6% ", "display_query": "美国 2 月 CPI 同比涨 6% " },
   { "query": "洪都拉斯寻求与中国正式建立外交关系", "display_query": "洪都拉斯寻求与中国正式建立外交关系" },
   { "query": "伍六七第四季大结局", "display_query": "伍六七第四季大结局" },
+  { "query": "吉野家吃出蟑螂后检查又发现 43 只", "display_query": "吉野家吃出蟑螂后检查又发现 43 只" },
+  { "query": "俄导弹疑摧毁北约在乌影子参谋部", "display_query": "俄导弹疑摧毁北约在乌影子参谋部" },
+  { "query": "硅谷银行破产", "display_query": "硅谷银行破产" },
   { "query": "三部门：开学后师生在校期间不强制佩戴口罩", "display_query": "三部门：开学后师生在校期间不强制佩戴口罩" },
   { "query": "官方：恢复审发外国人各类赴华签证", "display_query": "官方：恢复审发外国人各类赴华签证" },
   { "query": "旅游书用靖国神社作封面", "display_query": "旅游书用靖国神社作封面" }
