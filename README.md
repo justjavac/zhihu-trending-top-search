@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Mar 17 2023 12:09:18 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Mar 17 2023 13:07:24 GMT+0800 (China Standard Time) -->
 
 1. [《炉石传说》被取消亚运项目资格](https://www.zhihu.com/search?q=%E3%80%8A%E7%82%89%E7%9F%B3%E4%BC%A0%E8%AF%B4%E3%80%8B%E8%A2%AB%E5%8F%96%E6%B6%88%E4%BA%9A%E8%BF%90%E9%A1%B9%E7%9B%AE%E8%B5%84%E6%A0%BC)
 1. [GPT-4 是如何理解人类意图和动机的](https://www.zhihu.com/search?q=GPT-4%20%E6%98%AF%E5%A6%82%E4%BD%95%E7%90%86%E8%A7%A3%E4%BA%BA%E7%B1%BB%E6%84%8F%E5%9B%BE%E5%92%8C%E5%8A%A8%E6%9C%BA%E7%9A%84)
