@@ -14,9 +14,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Mar 17 2023 07:07:47 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Mar 17 2023 08:40:21 GMT+0800 (China Standard Time) -->
 
-1. [OpenAI 发布 GPT-4](https://www.zhihu.com/search?q=OpenAI%20%E5%8F%91%E5%B8%83%20GPT-4)
 1. [城管劝离工地卖饭被怼](https://www.zhihu.com/search?q=%E5%9F%8E%E7%AE%A1%E5%8A%9D%E7%A6%BB%E5%B7%A5%E5%9C%B0%E5%8D%96%E9%A5%AD%E8%A2%AB%E6%80%BC)
 1. [《炉石传说》被取消亚运项目资格](https://www.zhihu.com/search?q=%E3%80%8A%E7%82%89%E7%9F%B3%E4%BC%A0%E8%AF%B4%E3%80%8B%E8%A2%AB%E5%8F%96%E6%B6%88%E4%BA%9A%E8%BF%90%E9%A1%B9%E7%9B%AE%E8%B5%84%E6%A0%BC)
 1. [GPT-4 是如何理解人类意图和动机的](https://www.zhihu.com/search?q=GPT-4%20%E6%98%AF%E5%A6%82%E4%BD%95%E7%90%86%E8%A7%A3%E4%BA%BA%E7%B1%BB%E6%84%8F%E5%9B%BE%E5%92%8C%E5%8A%A8%E6%9C%BA%E7%9A%84)
@@ -25,6 +24,7 @@
 1. [蜜雪冰城食材频改标签过期继续用](https://www.zhihu.com/search?q=%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E9%A3%9F%E6%9D%90%E9%A2%91%E6%94%B9%E6%A0%87%E7%AD%BE%E8%BF%87%E6%9C%9F%E7%BB%A7%E7%BB%AD%E7%94%A8)
 1. [多国鸡蛋供应紧张](https://www.zhihu.com/search?q=%E5%A4%9A%E5%9B%BD%E9%B8%A1%E8%9B%8B%E4%BE%9B%E5%BA%94%E7%B4%A7%E5%BC%A0)
 1. [利比亚数吨铀失踪](https://www.zhihu.com/search?q=%E5%88%A9%E6%AF%94%E4%BA%9A%E6%95%B0%E5%90%A8%E9%93%80%E5%A4%B1%E8%B8%AA)
+1. [OpenAI 发布 GPT-4](https://www.zhihu.com/search?q=OpenAI%20%E5%8F%91%E5%B8%83%20GPT-4)
 
 <!-- END -->
 
