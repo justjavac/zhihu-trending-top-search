@@ -1,6 +1,4 @@
 [
-  { "query": "GPT-4 是如何理解人类意图和动机的", "display_query": "GPT-4 是如何理解人类意图和动机的" },
-  { "query": "百度股价跳水", "display_query": "百度股价跳水" },
   { "query": "韩国、日本同意取消出口限制", "display_query": "韩国、日本同意取消出口限制" },
   { "query": "蜜雪冰城食材频改标签过期继续用", "display_query": "蜜雪冰城食材频改标签过期继续用" },
   { "query": "多国鸡蛋供应紧张", "display_query": "多国鸡蛋供应紧张" },
@@ -9,6 +7,10 @@
   { "query": "中国低龄老人 1.5 亿", "display_query": "中国低龄老人 1.5 亿" },
   { "query": "女神异闻录首款手游公布", "display_query": "女神异闻录首款手游公布" },
   { "query": "一人之下漫画第 615 话", "display_query": "一人之下漫画第 615 话" },
+  { "query": "博人传漫画第 79 话", "display_query": "博人传漫画第 79 话" },
+  { "query": "美联储紧急贷款升至新纪录", "display_query": "美联储紧急贷款升至新纪录" },
+  { "query": "GPT-4 是如何理解人类意图和动机的", "display_query": "GPT-4 是如何理解人类意图和动机的" },
+  { "query": "百度股价跳水", "display_query": "百度股价跳水" },
   { "query": "《炉石传说》被取消亚运项目资格", "display_query": "《炉石传说》被取消亚运项目资格" },
   { "query": "城管劝离工地卖饭被怼", "display_query": "城管劝离工地卖饭被怼" },
   { "query": "OpenAI 发布 GPT-4", "display_query": "OpenAI 发布 GPT-4" }
