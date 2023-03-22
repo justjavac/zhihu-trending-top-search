@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Mar 22 2023 15:07:01 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Mar 22 2023 16:09:34 GMT+0800 (China Standard Time) -->
 
 1. [我国商品房待售面积突破 6.5 亿](https://www.zhihu.com/search?q=%E6%88%91%E5%9B%BD%E5%95%86%E5%93%81%E6%88%BF%E5%BE%85%E5%94%AE%E9%9D%A2%E7%A7%AF%E7%AA%81%E7%A0%B4%206.5%20%E4%BA%BF)
 1. [谷歌 Bard 开放内测](https://www.zhihu.com/search?q=%E8%B0%B7%E6%AD%8C%20Bard%20%E5%BC%80%E6%94%BE%E5%86%85%E6%B5%8B)
