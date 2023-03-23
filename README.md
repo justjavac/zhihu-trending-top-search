@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Mar 23 2023 18:08:07 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Mar 23 2023 19:06:23 GMT+0800 (China Standard Time) -->
 
 1. [近两成未婚者指定朋友等继承遗产](https://www.zhihu.com/search?q=%E8%BF%91%E4%B8%A4%E6%88%90%E6%9C%AA%E5%A9%9A%E8%80%85%E6%8C%87%E5%AE%9A%E6%9C%8B%E5%8F%8B%E7%AD%89%E7%BB%A7%E6%89%BF%E9%81%97%E4%BA%A7)
 1. [21 省份去年人口数据](https://www.zhihu.com/search?q=21%20%E7%9C%81%E4%BB%BD%E5%8E%BB%E5%B9%B4%E4%BA%BA%E5%8F%A3%E6%95%B0%E6%8D%AE)
