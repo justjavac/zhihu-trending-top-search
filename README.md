@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Mar 27 2023 06:06:29 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Mar 27 2023 07:06:46 GMT+0800 (China Standard Time) -->
 
 1. [新海诚《铃芽之旅》上映](https://www.zhihu.com/search?q=%E6%96%B0%E6%B5%B7%E8%AF%9A%E3%80%8A%E9%93%83%E8%8A%BD%E4%B9%8B%E6%97%85%E3%80%8B%E4%B8%8A%E6%98%A0)
 1. [各地古镇相似度高达 99%](https://www.zhihu.com/search?q=%E5%90%84%E5%9C%B0%E5%8F%A4%E9%95%87%E7%9B%B8%E4%BC%BC%E5%BA%A6%E9%AB%98%E8%BE%BE%2099%25)
