@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Mar 28 2023 03:06:18 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Mar 28 2023 04:09:05 GMT+0800 (China Standard Time) -->
 
 1. [新海诚《铃芽之旅》上映](https://www.zhihu.com/search?q=%E6%96%B0%E6%B5%B7%E8%AF%9A%E3%80%8A%E9%93%83%E8%8A%BD%E4%B9%8B%E6%97%85%E3%80%8B%E4%B8%8A%E6%98%A0)
 1. [何同学打字机](https://www.zhihu.com/search?q=%E4%BD%95%E5%90%8C%E5%AD%A6%E6%89%93%E5%AD%97%E6%9C%BA)
