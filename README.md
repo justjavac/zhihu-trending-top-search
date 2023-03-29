@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Mar 30 2023 02:17:04 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Mar 30 2023 03:06:21 GMT+0800 (China Standard Time) -->
 
 1. [塞尔达传说：王国之泪](https://www.zhihu.com/search?q=%E5%A1%9E%E5%B0%94%E8%BE%BE%E4%BC%A0%E8%AF%B4%EF%BC%9A%E7%8E%8B%E5%9B%BD%E4%B9%8B%E6%B3%AA)
 1. [河北冷库火灾致 11 死](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8C%97%E5%86%B7%E5%BA%93%E7%81%AB%E7%81%BE%E8%87%B4%2011%20%E6%AD%BB)
