@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Mar 29 2023 15:07:21 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Mar 29 2023 16:10:09 GMT+0800 (China Standard Time) -->
 
 1. [塞尔达传说：王国之泪](https://www.zhihu.com/search?q=%E5%A1%9E%E5%B0%94%E8%BE%BE%E4%BC%A0%E8%AF%B4%EF%BC%9A%E7%8E%8B%E5%9B%BD%E4%B9%8B%E6%B3%AA)
 1. [医学生培养八年还不会看病](https://www.zhihu.com/search?q=%E5%8C%BB%E5%AD%A6%E7%94%9F%E5%9F%B9%E5%85%BB%E5%85%AB%E5%B9%B4%E8%BF%98%E4%B8%8D%E4%BC%9A%E7%9C%8B%E7%97%85)
