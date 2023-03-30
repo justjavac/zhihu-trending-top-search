@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Mar 30 2023 17:08:39 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Mar 30 2023 18:07:57 GMT+0800 (China Standard Time) -->
 
 1. [佛山地震](https://www.zhihu.com/search?q=%E4%BD%9B%E5%B1%B1%E5%9C%B0%E9%9C%87)
 1. [钟薛高推出 3.5 元雪糕](https://www.zhihu.com/search?q=%E9%92%9F%E8%96%9B%E9%AB%98%E6%8E%A8%E5%87%BA%203.5%20%E5%85%83%E9%9B%AA%E7%B3%95)
