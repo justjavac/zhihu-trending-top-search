@@ -14,10 +14,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Mar 30 2023 22:06:59 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Mar 30 2023 23:07:52 GMT+0800 (China Standard Time) -->
 
-1. [佛山地震](https://www.zhihu.com/search?q=%E4%BD%9B%E5%B1%B1%E5%9C%B0%E9%9C%87)
-1. [钟薛高推出 3.5 元雪糕](https://www.zhihu.com/search?q=%E9%92%9F%E8%96%9B%E9%AB%98%E6%8E%A8%E5%87%BA%203.5%20%E5%85%83%E9%9B%AA%E7%B3%95)
 1. [多城人口增量放缓](https://www.zhihu.com/search?q=%E5%A4%9A%E5%9F%8E%E4%BA%BA%E5%8F%A3%E5%A2%9E%E9%87%8F%E6%94%BE%E7%BC%93)
 1. [科技从业者呼吁暂停AI训练](https://www.zhihu.com/search?q=%E7%A7%91%E6%8A%80%E4%BB%8E%E4%B8%9A%E8%80%85%E5%91%BC%E5%90%81%E6%9A%82%E5%81%9CAI%E8%AE%AD%E7%BB%83)
 1. [「猛犸象肉丸」制成](https://www.zhihu.com/search?q=%E3%80%8C%E7%8C%9B%E7%8A%B8%E8%B1%A1%E8%82%89%E4%B8%B8%E3%80%8D%E5%88%B6%E6%88%90)
@@ -26,6 +24,10 @@
 1. [张小泉斩骨刀断了](https://www.zhihu.com/search?q=%E5%BC%A0%E5%B0%8F%E6%B3%89%E6%96%A9%E9%AA%A8%E5%88%80%E6%96%AD%E4%BA%86)
 1. [海南全岛封关运作](https://www.zhihu.com/search?q=%E6%B5%B7%E5%8D%97%E5%85%A8%E5%B2%9B%E5%B0%81%E5%85%B3%E8%BF%90%E4%BD%9C)
 1. [美 CIA 副局长罕见访巴拉圭](https://www.zhihu.com/search?q=%E7%BE%8E%20CIA%20%E5%89%AF%E5%B1%80%E9%95%BF%E7%BD%95%E8%A7%81%E8%AE%BF%E5%B7%B4%E6%8B%89%E5%9C%AD)
+1. [美军两架「黑鹰」直升机坠毁](https://www.zhihu.com/search?q=%E7%BE%8E%E5%86%9B%E4%B8%A4%E6%9E%B6%E3%80%8C%E9%BB%91%E9%B9%B0%E3%80%8D%E7%9B%B4%E5%8D%87%E6%9C%BA%E5%9D%A0%E6%AF%81)
+1. [中东资本加仓 A 股](https://www.zhihu.com/search?q=%E4%B8%AD%E4%B8%9C%E8%B5%84%E6%9C%AC%E5%8A%A0%E4%BB%93%20A%20%E8%82%A1)
+1. [佛山地震](https://www.zhihu.com/search?q=%E4%BD%9B%E5%B1%B1%E5%9C%B0%E9%9C%87)
+1. [钟薛高推出 3.5 元雪糕](https://www.zhihu.com/search?q=%E9%92%9F%E8%96%9B%E9%AB%98%E6%8E%A8%E5%87%BA%203.5%20%E5%85%83%E9%9B%AA%E7%B3%95)
 1. [年轻人为什么提前立遗嘱](https://www.zhihu.com/search?q=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E6%8F%90%E5%89%8D%E7%AB%8B%E9%81%97%E5%98%B1)
 1. [河北冷库火灾致 11 死](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8C%97%E5%86%B7%E5%BA%93%E7%81%AB%E7%81%BE%E8%87%B4%2011%20%E6%AD%BB)
 1. [成年子女不能与父母同住标间](https://www.zhihu.com/search?q=%E6%88%90%E5%B9%B4%E5%AD%90%E5%A5%B3%E4%B8%8D%E8%83%BD%E4%B8%8E%E7%88%B6%E6%AF%8D%E5%90%8C%E4%BD%8F%E6%A0%87%E9%97%B4)
