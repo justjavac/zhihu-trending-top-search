@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Apr 03 2023 01:05:11 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Apr 03 2023 02:07:44 GMT+0800 (China Standard Time) -->
 
 1. [RNG 止步八强](https://www.zhihu.com/search?q=RNG%20%E6%AD%A2%E6%AD%A5%E5%85%AB%E5%BC%BA)
 1. [T1 击败 GEN 锁定季中赛](https://www.zhihu.com/search?q=T1%20%E5%87%BB%E8%B4%A5%20GEN%20%E9%94%81%E5%AE%9A%E5%AD%A3%E4%B8%AD%E8%B5%9B)
