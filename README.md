@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Apr 02 2023 20:11:45 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Apr 02 2023 21:07:52 GMT+0800 (China Standard Time) -->
 
 1. [RNG 止步八强](https://www.zhihu.com/search?q=RNG%20%E6%AD%A2%E6%AD%A5%E5%85%AB%E5%BC%BA)
 1. [T1 击败 GEN 锁定季中赛](https://www.zhihu.com/search?q=T1%20%E5%87%BB%E8%B4%A5%20GEN%20%E9%94%81%E5%AE%9A%E5%AD%A3%E4%B8%AD%E8%B5%9B)
@@ -23,6 +23,7 @@
 1. [B 站 UP 主发起停更潮](https://www.zhihu.com/search?q=B%20%E7%AB%99%20UP%20%E4%B8%BB%E5%8F%91%E8%B5%B7%E5%81%9C%E6%9B%B4%E6%BD%AE%20)
 1. [「要像造汽车一样去造房子」](https://www.zhihu.com/search?q=%E3%80%8C%E8%A6%81%E5%83%8F%E9%80%A0%E6%B1%BD%E8%BD%A6%E4%B8%80%E6%A0%B7%E5%8E%BB%E9%80%A0%E6%88%BF%E5%AD%90%E3%80%8D)
 1. [「天龙二号」成功首飞](https://www.zhihu.com/search?q=%E3%80%8C%E5%A4%A9%E9%BE%99%E4%BA%8C%E5%8F%B7%E3%80%8D%E6%88%90%E5%8A%9F%E9%A6%96%E9%A3%9E)
+1. [媒体称坂本龙一去世](https://www.zhihu.com/search?q=%E5%AA%92%E4%BD%93%E7%A7%B0%E5%9D%82%E6%9C%AC%E9%BE%99%E4%B8%80%E5%8E%BB%E4%B8%96)
 1. [张继科回应因欠债传播女演员隐私视频](https://www.zhihu.com/search?q=%E5%BC%A0%E7%BB%A7%E7%A7%91%E5%9B%9E%E5%BA%94%E5%9B%A0%E6%AC%A0%E5%80%BA%E4%BC%A0%E6%92%AD%E5%A5%B3%E6%BC%94%E5%91%98%E9%9A%90%E7%A7%81%E8%A7%86%E9%A2%91)
 1. [今年最大范围雨雪](https://www.zhihu.com/search?q=%E4%BB%8A%E5%B9%B4%E6%9C%80%E5%A4%A7%E8%8C%83%E5%9B%B4%E9%9B%A8%E9%9B%AA)
 
