@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Apr 03 2023 10:23:40 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Apr 03 2023 11:07:26 GMT+0800 (China Standard Time) -->
 
 1. [林场主跪地求水新进展](https://www.zhihu.com/search?q=%E6%9E%97%E5%9C%BA%E4%B8%BB%E8%B7%AA%E5%9C%B0%E6%B1%82%E6%B0%B4%E6%96%B0%E8%BF%9B%E5%B1%95)
 1. [B 站 UP 主发起停更潮](https://www.zhihu.com/search?q=B%20%E7%AB%99%20UP%20%E4%B8%BB%E5%8F%91%E8%B5%B7%E5%81%9C%E6%9B%B4%E6%BD%AE%20)
