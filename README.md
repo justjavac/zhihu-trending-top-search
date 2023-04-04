@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Apr 04 2023 15:06:44 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Apr 04 2023 16:09:47 GMT+0800 (China Standard Time) -->
 
 1. [多国自愿石油减产](https://www.zhihu.com/search?q=%E5%A4%9A%E5%9B%BD%E8%87%AA%E6%84%BF%E7%9F%B3%E6%B2%B9%E5%87%8F%E4%BA%A7)
 1. [今年考研录取率或不到两成](https://www.zhihu.com/search?q=%E4%BB%8A%E5%B9%B4%E8%80%83%E7%A0%94%E5%BD%95%E5%8F%96%E7%8E%87%E6%88%96%E4%B8%8D%E5%88%B0%E4%B8%A4%E6%88%90)
