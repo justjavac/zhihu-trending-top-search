@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Apr 06 2023 03:06:19 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Apr 06 2023 04:08:04 GMT+0800 (China Standard Time) -->
 
 1. [中电科回应](https://www.zhihu.com/search?q=%E4%B8%AD%E7%94%B5%E7%A7%91%E5%9B%9E%E5%BA%94)
 1. [翟欣欣案一审宣判](https://www.zhihu.com/search?q=%E7%BF%9F%E6%AC%A3%E6%AC%A3%E6%A1%88%E4%B8%80%E5%AE%A1%E5%AE%A3%E5%88%A4)
