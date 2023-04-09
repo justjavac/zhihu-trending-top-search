@@ -14,14 +14,14 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Apr 09 2023 11:07:08 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Apr 09 2023 12:08:11 GMT+0800 (China Standard Time) -->
 
-1. [31 省份最低工资表公布](https://www.zhihu.com/search?q=31%20%E7%9C%81%E4%BB%BD%E6%9C%80%E4%BD%8E%E5%B7%A5%E8%B5%84%E8%A1%A8%E5%85%AC%E5%B8%83)
 1. [新冠最有可能的起源是什么](https://www.zhihu.com/search?q=%E6%96%B0%E5%86%A0%E6%9C%80%E6%9C%89%E5%8F%AF%E8%83%BD%E7%9A%84%E8%B5%B7%E6%BA%90%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [苏科大凌晨 4 点考研通知](https://www.zhihu.com/search?q=%E8%8B%8F%E7%A7%91%E5%A4%A7%E5%87%8C%E6%99%A8%204%20%E7%82%B9%E8%80%83%E7%A0%94%E9%80%9A%E7%9F%A5)
 1. [中石油子公司员工索要 3000 小时加班费](https://www.zhihu.com/search?q=%E4%B8%AD%E7%9F%B3%E6%B2%B9%E5%AD%90%E5%85%AC%E5%8F%B8%E5%91%98%E5%B7%A5%E7%B4%A2%E8%A6%81%203000%20%E5%B0%8F%E6%97%B6%E5%8A%A0%E7%8F%AD%E8%B4%B9)
 1. [「做四休三」能实现吗？](https://www.zhihu.com/search?q=%E3%80%8C%E5%81%9A%E5%9B%9B%E4%BC%91%E4%B8%89%E3%80%8D%E8%83%BD%E5%AE%9E%E7%8E%B0%E5%90%97%EF%BC%9F)
 1. [白糖减产 17 万吨](https://www.zhihu.com/search?q=%E7%99%BD%E7%B3%96%E5%87%8F%E4%BA%A7%2017%20%E4%B8%87%E5%90%A8)
+1. [31 省份最低工资表公布](https://www.zhihu.com/search?q=31%20%E7%9C%81%E4%BB%BD%E6%9C%80%E4%BD%8E%E5%B7%A5%E8%B5%84%E8%A1%A8%E5%85%AC%E5%B8%83)
 
 <!-- END -->
 
