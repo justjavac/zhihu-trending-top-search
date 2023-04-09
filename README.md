@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Apr 09 2023 20:11:38 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Apr 09 2023 21:07:46 GMT+0800 (China Standard Time) -->
 
 1. [苏科大凌晨 4 点考研通知](https://www.zhihu.com/search?q=%E8%8B%8F%E7%A7%91%E5%A4%A7%E5%87%8C%E6%99%A8%204%20%E7%82%B9%E8%80%83%E7%A0%94%E9%80%9A%E7%9F%A5)
 1. [中石油子公司员工索要 3000 小时加班费](https://www.zhihu.com/search?q=%E4%B8%AD%E7%9F%B3%E6%B2%B9%E5%AD%90%E5%85%AC%E5%8F%B8%E5%91%98%E5%B7%A5%E7%B4%A2%E8%A6%81%203000%20%E5%B0%8F%E6%97%B6%E5%8A%A0%E7%8F%AD%E8%B4%B9)
@@ -22,6 +22,7 @@
 1. [白糖减产 17 万吨](https://www.zhihu.com/search?q=%E7%99%BD%E7%B3%96%E5%87%8F%E4%BA%A7%2017%20%E4%B8%87%E5%90%A8)
 1. [年轻人为啥会被胃癌盯上](https://www.zhihu.com/search?q=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%BA%E5%95%A5%E4%BC%9A%E8%A2%AB%E8%83%83%E7%99%8C%E7%9B%AF%E4%B8%8A)
 1. [GEN 夺得春季赛冠军](https://www.zhihu.com/search?q=GEN%20%E5%A4%BA%E5%BE%97%E6%98%A5%E5%AD%A3%E8%B5%9B%E5%86%A0%E5%86%9B)
+1. [男子因感情纠纷撞人致3死](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%90%E5%9B%A0%E6%84%9F%E6%83%85%E7%BA%A0%E7%BA%B7%E6%92%9E%E4%BA%BA%E8%87%B43%E6%AD%BB)
 1. [新冠最有可能的起源是什么](https://www.zhihu.com/search?q=%E6%96%B0%E5%86%A0%E6%9C%80%E6%9C%89%E5%8F%AF%E8%83%BD%E7%9A%84%E8%B5%B7%E6%BA%90%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [31 省份最低工资表公布](https://www.zhihu.com/search?q=31%20%E7%9C%81%E4%BB%BD%E6%9C%80%E4%BD%8E%E5%B7%A5%E8%B5%84%E8%A1%A8%E5%85%AC%E5%B8%83)
 
