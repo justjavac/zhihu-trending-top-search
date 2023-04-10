@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Apr 11 2023 04:07:34 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Apr 11 2023 05:06:39 GMT+0800 (China Standard Time) -->
 
 1. [多地医保单位缴费率下调 1%](https://www.zhihu.com/search?q=%E5%A4%9A%E5%9C%B0%E5%8C%BB%E4%BF%9D%E5%8D%95%E4%BD%8D%E7%BC%B4%E8%B4%B9%E7%8E%87%E4%B8%8B%E8%B0%83%201%25)
 1. [成都街头爬满黑色虫子](https://www.zhihu.com/search?q=%E6%88%90%E9%83%BD%E8%A1%97%E5%A4%B4%E7%88%AC%E6%BB%A1%E9%BB%91%E8%89%B2%E8%99%AB%E5%AD%90)
