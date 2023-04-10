@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Apr 10 2023 10:23:58 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Apr 10 2023 11:07:25 GMT+0800 (China Standard Time) -->
 
 1. [年轻人为啥会被胃癌盯上](https://www.zhihu.com/search?q=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%BA%E5%95%A5%E4%BC%9A%E8%A2%AB%E8%83%83%E7%99%8C%E7%9B%AF%E4%B8%8A)
 1. [GEN 夺得春季赛冠军](https://www.zhihu.com/search?q=GEN%20%E5%A4%BA%E5%BE%97%E6%98%A5%E5%AD%A3%E8%B5%9B%E5%86%A0%E5%86%9B)
