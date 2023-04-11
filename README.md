@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Apr 11 2023 15:07:12 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Apr 11 2023 16:09:48 GMT+0800 (China Standard Time) -->
 
 1. [马力欧大电影首周票房破纪录](https://www.zhihu.com/search?q=%E9%A9%AC%E5%8A%9B%E6%AC%A7%E5%A4%A7%E7%94%B5%E5%BD%B1%E9%A6%96%E5%91%A8%E7%A5%A8%E6%88%BF%E7%A0%B4%E7%BA%AA%E5%BD%95)
 1. [「搭子文化」为何在年轻人中盛行？](https://www.zhihu.com/search?q=%E3%80%8C%E6%90%AD%E5%AD%90%E6%96%87%E5%8C%96%E3%80%8D%E4%B8%BA%E4%BD%95%E5%9C%A8%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%AD%E7%9B%9B%E8%A1%8C%EF%BC%9F)
