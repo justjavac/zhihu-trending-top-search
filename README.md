@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Apr 13 2023 15:07:03 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Apr 13 2023 16:09:38 GMT+0800 (China Standard Time) -->
 
 1. [专家称「子女是长周期的耐用消费品」](https://www.zhihu.com/search?q=%E4%B8%93%E5%AE%B6%E7%A7%B0%E3%80%8C%E5%AD%90%E5%A5%B3%E6%98%AF%E9%95%BF%E5%91%A8%E6%9C%9F%E7%9A%84%E8%80%90%E7%94%A8%E6%B6%88%E8%B4%B9%E5%93%81%E3%80%8D)
 1. [马斯克被曝买 1 万个 GPU 筹备 AI 项目](https://www.zhihu.com/search?q=%E9%A9%AC%E6%96%AF%E5%85%8B%E8%A2%AB%E6%9B%9D%E4%B9%B0%201%20%E4%B8%87%E4%B8%AA%20GPU%20%E7%AD%B9%E5%A4%87%20AI%20%E9%A1%B9%E7%9B%AE)
