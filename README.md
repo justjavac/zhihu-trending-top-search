@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Apr 15 2023 12:08:09 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Apr 15 2023 13:06:25 GMT+0800 (China Standard Time) -->
 
 1. [太空射击游戏边境上线](https://www.zhihu.com/search?q=%E5%A4%AA%E7%A9%BA%E5%B0%84%E5%87%BB%E6%B8%B8%E6%88%8F%E8%BE%B9%E5%A2%83%E4%B8%8A%E7%BA%BF)
 1. [专家表示沙尘天气「来源于东北亚」](https://www.zhihu.com/search?q=%E4%B8%93%E5%AE%B6%E8%A1%A8%E7%A4%BA%E6%B2%99%E5%B0%98%E5%A4%A9%E6%B0%94%E3%80%8C%E6%9D%A5%E6%BA%90%E4%BA%8E%E4%B8%9C%E5%8C%97%E4%BA%9A%E3%80%8D)
@@ -24,6 +24,7 @@
 1. [三月份 70 城房价出炉](https://www.zhihu.com/search?q=%E4%B8%89%E6%9C%88%E4%BB%BD%2070%20%E5%9F%8E%E6%88%BF%E4%BB%B7%E5%87%BA%E7%82%89)
 1. [美国最新研究发现潜在「身高基因」](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E6%9C%80%E6%96%B0%E7%A0%94%E7%A9%B6%E5%8F%91%E7%8E%B0%E6%BD%9C%E5%9C%A8%E3%80%8C%E8%BA%AB%E9%AB%98%E5%9F%BA%E5%9B%A0%E3%80%8D)
 1. [欧洲探测器飞向木星](https://www.zhihu.com/search?q=%E6%AC%A7%E6%B4%B2%E6%8E%A2%E6%B5%8B%E5%99%A8%E9%A3%9E%E5%90%91%E6%9C%A8%E6%98%9F)
+1. [岸田文雄演讲场地传出爆炸声](https://www.zhihu.com/search?q=%E5%B2%B8%E7%94%B0%E6%96%87%E9%9B%84%E6%BC%94%E8%AE%B2%E5%9C%BA%E5%9C%B0%E4%BC%A0%E5%87%BA%E7%88%86%E7%82%B8%E5%A3%B0)
 1. [一人之下漫画 619 话](https://www.zhihu.com/search?q=%E4%B8%80%E4%BA%BA%E4%B9%8B%E4%B8%8B%E6%BC%AB%E7%94%BB%20619%20%E8%AF%9D)
 1. [塞尔达新作最终预告解读](https://www.zhihu.com/search?q=%E5%A1%9E%E5%B0%94%E8%BE%BE%E6%96%B0%E4%BD%9C%E6%9C%80%E7%BB%88%E9%A2%84%E5%91%8A%E8%A7%A3%E8%AF%BB)
 1. [FF16 公布 25 分钟实机](https://www.zhihu.com/search?q=FF16%20%E5%85%AC%E5%B8%83%2025%20%E5%88%86%E9%92%9F%E5%AE%9E%E6%9C%BA)
