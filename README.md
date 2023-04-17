@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Apr 17 2023 12:09:01 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Apr 17 2023 13:07:14 GMT+0800 (China Standard Time) -->
 
 1. [官方回应公务接待喝 20 元酒被处分](https://www.zhihu.com/search?q=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%85%AC%E5%8A%A1%E6%8E%A5%E5%BE%85%E5%96%9D%2020%20%E5%85%83%E9%85%92%E8%A2%AB%E5%A4%84%E5%88%86)
 1. [国内油价大幅上涨](https://www.zhihu.com/search?q=%E5%9B%BD%E5%86%85%E6%B2%B9%E4%BB%B7%E5%A4%A7%E5%B9%85%E4%B8%8A%E6%B6%A8)
