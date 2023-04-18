@@ -14,13 +14,15 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Apr 18 2023 19:06:01 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Apr 18 2023 20:13:22 GMT+0800 (China Standard Time) -->
 
 1. [SpaceX「星舰」发射计划推迟](https://www.zhihu.com/search?q=SpaceX%E3%80%8C%E6%98%9F%E8%88%B0%E3%80%8D%E5%8F%91%E5%B0%84%E8%AE%A1%E5%88%92%E6%8E%A8%E8%BF%9F)
 1. [网友质疑云南泼水节「流氓节」](https://www.zhihu.com/search?q=%E7%BD%91%E5%8F%8B%E8%B4%A8%E7%96%91%E4%BA%91%E5%8D%97%E6%B3%BC%E6%B0%B4%E8%8A%82%E3%80%8C%E6%B5%81%E6%B0%93%E8%8A%82%E3%80%8D)
 1. [金山宣布推出 WPS AI](https://www.zhihu.com/search?q=%E9%87%91%E5%B1%B1%E5%AE%A3%E5%B8%83%E6%8E%A8%E5%87%BA%20WPS%20AI)
 1. [中国连续第 7 个月减持美国债](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E8%BF%9E%E7%BB%AD%E7%AC%AC%207%20%E4%B8%AA%E6%9C%88%E5%87%8F%E6%8C%81%E7%BE%8E%E5%9B%BD%E5%80%BA)
 1. [全球最贵纯电动车来了](https://www.zhihu.com/search?q=%E5%85%A8%E7%90%83%E6%9C%80%E8%B4%B5%E7%BA%AF%E7%94%B5%E5%8A%A8%E8%BD%A6%E6%9D%A5%E4%BA%86)
+1. [新冠新变种 Arcturus 传入国内](https://www.zhihu.com/search?q=%E6%96%B0%E5%86%A0%E6%96%B0%E5%8F%98%E7%A7%8D%20Arcturus%20%E4%BC%A0%E5%85%A5%E5%9B%BD%E5%86%85)
+1. [游戏实体碟遭恶意退款](https://www.zhihu.com/search?q=%E6%B8%B8%E6%88%8F%E5%AE%9E%E4%BD%93%E7%A2%9F%E9%81%AD%E6%81%B6%E6%84%8F%E9%80%80%E6%AC%BE)
 1. [中移动市值超贵州茅台](https://www.zhihu.com/search?q=%E4%B8%AD%E7%A7%BB%E5%8A%A8%E5%B8%82%E5%80%BC%E8%B6%85%E8%B4%B5%E5%B7%9E%E8%8C%85%E5%8F%B0)
 1. [国内油价大幅上涨](https://www.zhihu.com/search?q=%E5%9B%BD%E5%86%85%E6%B2%B9%E4%BB%B7%E5%A4%A7%E5%B9%85%E4%B8%8A%E6%B6%A8)
 1. [刘青云郑秀文获影帝影后](https://www.zhihu.com/search?q=%E5%88%98%E9%9D%92%E4%BA%91%E9%83%91%E7%A7%80%E6%96%87%E8%8E%B7%E5%BD%B1%E5%B8%9D%E5%BD%B1%E5%90%8E)
