@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Apr 19 2023 11:07:47 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Apr 19 2023 12:08:33 GMT+0800 (China Standard Time) -->
 
 1. [全球最贵纯电动车来了](https://www.zhihu.com/search?q=%E5%85%A8%E7%90%83%E6%9C%80%E8%B4%B5%E7%BA%AF%E7%94%B5%E5%8A%A8%E8%BD%A6%E6%9D%A5%E4%BA%86)
 1. [新冠新变种 Arcturus 传入国内](https://www.zhihu.com/search?q=%E6%96%B0%E5%86%A0%E6%96%B0%E5%8F%98%E7%A7%8D%20Arcturus%20%E4%BC%A0%E5%85%A5%E5%9B%BD%E5%86%85)
