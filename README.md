@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Apr 19 2023 18:07:38 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Apr 19 2023 19:06:12 GMT+0800 (China Standard Time) -->
 
 1. [新冠新变种 Arcturus 传入国内](https://www.zhihu.com/search?q=%E6%96%B0%E5%86%A0%E6%96%B0%E5%8F%98%E7%A7%8D%20Arcturus%20%E4%BC%A0%E5%85%A5%E5%9B%BD%E5%86%85)
 1. [游戏实体碟遭恶意退款](https://www.zhihu.com/search?q=%E6%B8%B8%E6%88%8F%E5%AE%9E%E4%BD%93%E7%A2%9F%E9%81%AD%E6%81%B6%E6%84%8F%E9%80%80%E6%AC%BE)
