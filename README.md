@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Apr 20 2023 07:07:00 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Apr 20 2023 08:36:01 GMT+0800 (China Standard Time) -->
 
 1. [郑渊洁称不再发表作品](https://www.zhihu.com/search?q=%E9%83%91%E6%B8%8A%E6%B4%81%E7%A7%B0%E4%B8%8D%E5%86%8D%E5%8F%91%E8%A1%A8%E4%BD%9C%E5%93%81)
 1. [降糖药司美格鲁肽断货](https://www.zhihu.com/search?q=%E9%99%8D%E7%B3%96%E8%8D%AF%E5%8F%B8%E7%BE%8E%E6%A0%BC%E9%B2%81%E8%82%BD%E6%96%AD%E8%B4%A7)
