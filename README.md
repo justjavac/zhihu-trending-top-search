@@ -14,12 +14,13 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Apr 20 2023 08:36:01 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Apr 20 2023 09:57:15 GMT+0800 (China Standard Time) -->
 
 1. [郑渊洁称不再发表作品](https://www.zhihu.com/search?q=%E9%83%91%E6%B8%8A%E6%B4%81%E7%A7%B0%E4%B8%8D%E5%86%8D%E5%8F%91%E8%A1%A8%E4%BD%9C%E5%93%81)
 1. [降糖药司美格鲁肽断货](https://www.zhihu.com/search?q=%E9%99%8D%E7%B3%96%E8%8D%AF%E5%8F%B8%E7%BE%8E%E6%A0%BC%E9%B2%81%E8%82%BD%E6%96%AD%E8%B4%A7)
 1. [西氢东送](https://www.zhihu.com/search?q=%E8%A5%BF%E6%B0%A2%E4%B8%9C%E9%80%81)
 1. [咒术回战五条悟回归](https://www.zhihu.com/search?q=%E5%92%92%E6%9C%AF%E5%9B%9E%E6%88%98%E4%BA%94%E6%9D%A1%E6%82%9F%E5%9B%9E%E5%BD%92)
+1. [ASTRO 成员文彬去世](https://www.zhihu.com/search?q=ASTRO%20%E6%88%90%E5%91%98%E6%96%87%E5%BD%AC%E5%8E%BB%E4%B8%96)
 
 <!-- END -->
 
