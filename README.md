@@ -14,10 +14,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Apr 21 2023 16:09:12 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Apr 21 2023 17:07:14 GMT+0800 (China Standard Time) -->
 
 1. [SpaceX 星舰发射失败](https://www.zhihu.com/search?q=SpaceX%20%E6%98%9F%E8%88%B0%E5%8F%91%E5%B0%84%E5%A4%B1%E8%B4%A5)
 1. [史诗级灾难公关](https://www.zhihu.com/search?q=%E5%8F%B2%E8%AF%97%E7%BA%A7%E7%81%BE%E9%9A%BE%E5%85%AC%E5%85%B3)
+1. [光与夜之恋公布主线 PV](https://www.zhihu.com/search?q=%E5%85%89%E4%B8%8E%E5%A4%9C%E4%B9%8B%E6%81%8B%E5%85%AC%E5%B8%83%E4%B8%BB%E7%BA%BF%20PV)
 1. [山科大伤人案](https://www.zhihu.com/search?q=%E5%B1%B1%E7%A7%91%E5%A4%A7%E4%BC%A4%E4%BA%BA%E6%A1%88)
 1. [宝马 mini 展区被指区别对待](https://www.zhihu.com/search?q=%E5%AE%9D%E9%A9%AC%20mini%20%E5%B1%95%E5%8C%BA%E8%A2%AB%E6%8C%87%E5%8C%BA%E5%88%AB%E5%AF%B9%E5%BE%85)
 1. [宝马 MINI 再道歉:「老外」是同事](https://www.zhihu.com/search?q=%E5%AE%9D%E9%A9%AC%20MINI%20%E5%86%8D%E9%81%93%E6%AD%89%3A%E3%80%8C%E8%80%81%E5%A4%96%E3%80%8D%E6%98%AF%E5%90%8C%E4%BA%8B)
