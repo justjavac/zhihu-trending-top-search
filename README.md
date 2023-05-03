@@ -14,10 +14,12 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed May 03 2023 07:06:31 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed May 03 2023 08:36:55 GMT+0800 (China Standard Time) -->
 
 1. [租户砸承重墙致墙体开裂至 21 层](https://www.zhihu.com/search?q=%E7%A7%9F%E6%88%B7%E7%A0%B8%E6%89%BF%E9%87%8D%E5%A2%99%E8%87%B4%E5%A2%99%E4%BD%93%E5%BC%80%E8%A3%82%E8%87%B3%2021%20%E5%B1%82)
 1. [特斯拉涨价](https://www.zhihu.com/search?q=%E7%89%B9%E6%96%AF%E6%8B%89%E6%B6%A8%E4%BB%B7)
+1. [云南保山 5.2 级地震](https://www.zhihu.com/search?q=%E4%BA%91%E5%8D%97%E4%BF%9D%E5%B1%B1%205.2%20%E7%BA%A7%E5%9C%B0%E9%9C%87)
+1. [梅西被巴黎停赛两周](https://www.zhihu.com/search?q=%E6%A2%85%E8%A5%BF%E8%A2%AB%E5%B7%B4%E9%BB%8E%E5%81%9C%E8%B5%9B%E4%B8%A4%E5%91%A8)
 
 <!-- END -->
 
