@@ -1,8 +1,8 @@
 [
-  { "query": "云南保山 5.2 级地震", "display_query": "云南保山 5.2 级地震" },
-  { "query": "梅西被巴黎停赛两周", "display_query": "梅西被巴黎停赛两周" },
   { "query": "西安观光直升机坠落", "display_query": "西安观光直升机坠落" },
   { "query": "哈尔滨天空现不明飞行物", "display_query": "哈尔滨天空现不明飞行物" },
   { "query": "四川宜宾发生 4.5 级地震", "display_query": "四川宜宾发生 4.5 级地震" },
-  { "query": "苏丹冲突波及可乐供应", "display_query": "苏丹冲突波及可乐供应" }
+  { "query": "苏丹冲突波及可乐供应", "display_query": "苏丹冲突波及可乐供应" },
+  { "query": "云南保山 5.2 级地震", "display_query": "云南保山 5.2 级地震" },
+  { "query": "梅西被巴黎停赛两周", "display_query": "梅西被巴黎停赛两周" }
 ]
