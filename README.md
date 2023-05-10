@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed May 10 2023 18:07:27 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed May 10 2023 19:05:52 GMT+0800 (China Standard Time) -->
 
 1. [「领英职场」将于 8 月 9 日停止服务](https://www.zhihu.com/search?q=%E3%80%8C%E9%A2%86%E8%8B%B1%E8%81%8C%E5%9C%BA%E3%80%8D%E5%B0%86%E4%BA%8E%208%20%E6%9C%88%209%20%E6%97%A5%E5%81%9C%E6%AD%A2%E6%9C%8D%E5%8A%A1)
 1. [2022 年平均工资出炉](https://www.zhihu.com/search?q=2022%20%E5%B9%B4%E5%B9%B3%E5%9D%87%E5%B7%A5%E8%B5%84%E5%87%BA%E7%82%89)
