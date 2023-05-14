@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon May 15 2023 03:04:54 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon May 15 2023 04:06:40 GMT+0800 (China Standard Time) -->
 
 1. [山西兴县发生重大刑案致 7 死 11 伤](https://www.zhihu.com/search?q=%E5%B1%B1%E8%A5%BF%E5%85%B4%E5%8E%BF%E5%8F%91%E7%94%9F%E9%87%8D%E5%A4%A7%E5%88%91%E6%A1%88%E8%87%B4%207%20%E6%AD%BB%2011%20%E4%BC%A4)
 1. [中国科学家在月壤中发现天然玻璃纤维](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6%E5%9C%A8%E6%9C%88%E5%A3%A4%E4%B8%AD%E5%8F%91%E7%8E%B0%E5%A4%A9%E7%84%B6%E7%8E%BB%E7%92%83%E7%BA%A4%E7%BB%B4)
