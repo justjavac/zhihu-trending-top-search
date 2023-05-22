@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon May 22 2023 11:07:36 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon May 22 2023 12:08:30 GMT+0800 (China Standard Time) -->
 
 1. [工作生活都在乎](https://www.zhihu.com/search?q=%E5%B7%A5%E4%BD%9C%E7%94%9F%E6%B4%BB%E9%83%BD%E5%9C%A8%E4%B9%8E%20)
 1. [这届职人](https://www.zhihu.com/search?q=%E8%BF%99%E5%B1%8A%E8%81%8C%E4%BA%BA%20)
@@ -23,6 +23,7 @@
 1. [520 领证人数较去年大幅降低](https://www.zhihu.com/search?q=520%20%E9%A2%86%E8%AF%81%E4%BA%BA%E6%95%B0%E8%BE%83%E5%8E%BB%E5%B9%B4%E5%A4%A7%E5%B9%85%E9%99%8D%E4%BD%8E)
 1. [袁隆平院士逝世两周年](https://www.zhihu.com/search?q=%E8%A2%81%E9%9A%86%E5%B9%B3%E9%99%A2%E5%A3%AB%E9%80%9D%E4%B8%96%E4%B8%A4%E5%91%A8%E5%B9%B4)
 1. [全红婵 207C 又拿满分](https://www.zhihu.com/search?q=%E5%85%A8%E7%BA%A2%E5%A9%B5%20207C%20%E5%8F%88%E6%8B%BF%E6%BB%A1%E5%88%86)
+1. [奥特曼新作雷古洛思开播](https://www.zhihu.com/search?q=%E5%A5%A5%E7%89%B9%E6%9B%BC%E6%96%B0%E4%BD%9C%E9%9B%B7%E5%8F%A4%E6%B4%9B%E6%80%9D%E5%BC%80%E6%92%AD)
 
 <!-- END -->
 
