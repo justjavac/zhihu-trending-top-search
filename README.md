@@ -14,10 +14,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue May 30 2023 16:09:26 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue May 30 2023 17:07:06 GMT+0800 (China Standard Time) -->
 
 1. [吴谢宇案二审维持原判](https://www.zhihu.com/search?q=%E5%90%B4%E8%B0%A2%E5%AE%87%E6%A1%88%E4%BA%8C%E5%AE%A1%E7%BB%B4%E6%8C%81%E5%8E%9F%E5%88%A4)
 1. [继承之战最终季大结局](https://www.zhihu.com/search?q=%E7%BB%A7%E6%89%BF%E4%B9%8B%E6%88%98%E6%9C%80%E7%BB%88%E5%AD%A3%E5%A4%A7%E7%BB%93%E5%B1%80)
+1. [新一线城市](https://www.zhihu.com/search?q=%E6%96%B0%E4%B8%80%E7%BA%BF%E5%9F%8E%E5%B8%82)
 1. [鬼谷八荒正式版上线](https://www.zhihu.com/search?q=%E9%AC%BC%E8%B0%B7%E5%85%AB%E8%8D%92%E6%AD%A3%E5%BC%8F%E7%89%88%E4%B8%8A%E7%BA%BF)
 1. [俄对乌开出停火「四要求」](https://www.zhihu.com/search?q=%E4%BF%84%E5%AF%B9%E4%B9%8C%E5%BC%80%E5%87%BA%E5%81%9C%E7%81%AB%E3%80%8C%E5%9B%9B%E8%A6%81%E6%B1%82%E3%80%8D)
 1. [载荷专家将首登天宫](https://www.zhihu.com/search?q=%E8%BD%BD%E8%8D%B7%E4%B8%93%E5%AE%B6%E5%B0%86%E9%A6%96%E7%99%BB%E5%A4%A9%E5%AE%AB)
