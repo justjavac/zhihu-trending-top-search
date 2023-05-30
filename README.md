@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue May 30 2023 12:08:40 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue May 30 2023 13:06:49 GMT+0800 (China Standard Time) -->
 
 1. [鬼谷八荒正式版上线](https://www.zhihu.com/search?q=%E9%AC%BC%E8%B0%B7%E5%85%AB%E8%8D%92%E6%AD%A3%E5%BC%8F%E7%89%88%E4%B8%8A%E7%BA%BF)
 1. [吴谢宇案二审维持原判](https://www.zhihu.com/search?q=%E5%90%B4%E8%B0%A2%E5%AE%87%E6%A1%88%E4%BA%8C%E5%AE%A1%E7%BB%B4%E6%8C%81%E5%8E%9F%E5%88%A4)
