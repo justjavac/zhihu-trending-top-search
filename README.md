@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jun 01 2023 14:09:35 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jun 01 2023 15:07:20 GMT+0800 (China Standard Time) -->
 
 1. [毕节通报记者被打事件](https://www.zhihu.com/search?q=%E6%AF%95%E8%8A%82%E9%80%9A%E6%8A%A5%E8%AE%B0%E8%80%85%E8%A2%AB%E6%89%93%E4%BA%8B%E4%BB%B6)
 1. [国产武侠动画镖人开播](https://www.zhihu.com/search?q=%E5%9B%BD%E4%BA%A7%E6%AD%A6%E4%BE%A0%E5%8A%A8%E7%94%BB%E9%95%96%E4%BA%BA%E5%BC%80%E6%92%AD)
