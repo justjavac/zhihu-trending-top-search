@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jun 02 2023 11:08:25 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jun 02 2023 12:08:16 GMT+0800 (China Standard Time) -->
 
 1. [宫崎骏电影天空之城上映](https://www.zhihu.com/search?q=%E5%AE%AB%E5%B4%8E%E9%AA%8F%E7%94%B5%E5%BD%B1%E5%A4%A9%E7%A9%BA%E4%B9%8B%E5%9F%8E%E4%B8%8A%E6%98%A0)
 1. [剑网三联动虹猫蓝兔七侠传](https://www.zhihu.com/search?q=%E5%89%91%E7%BD%91%E4%B8%89%E8%81%94%E5%8A%A8%E8%99%B9%E7%8C%AB%E8%93%9D%E5%85%94%E4%B8%83%E4%BE%A0%E4%BC%A0)
