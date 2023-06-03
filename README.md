@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jun 04 2023 02:07:53 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jun 04 2023 03:05:19 GMT+0800 (China Standard Time) -->
 
 1. [印度列车相撞已致超过 300 人死亡](https://www.zhihu.com/search?q=%E5%8D%B0%E5%BA%A6%E5%88%97%E8%BD%A6%E7%9B%B8%E6%92%9E%E5%B7%B2%E8%87%B4%E8%B6%85%E8%BF%87%20300%20%E4%BA%BA%E6%AD%BB%E4%BA%A1)
 1. [《明日方舟》空想花庭活动](https://www.zhihu.com/search?q=%E3%80%8A%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F%E3%80%8B%E7%A9%BA%E6%83%B3%E8%8A%B1%E5%BA%AD%E6%B4%BB%E5%8A%A8)
