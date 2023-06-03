@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jun 03 2023 12:07:52 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jun 03 2023 13:05:56 GMT+0800 (China Standard Time) -->
 
 1. [印度列车相撞已致 233 人死亡](https://www.zhihu.com/search?q=%E5%8D%B0%E5%BA%A6%E5%88%97%E8%BD%A6%E7%9B%B8%E6%92%9E%E5%B7%B2%E8%87%B4%20233%20%E4%BA%BA%E6%AD%BB%E4%BA%A1)
 1. [蜘蛛侠纵横宇宙上映](https://www.zhihu.com/search?q=%E8%9C%98%E8%9B%9B%E4%BE%A0%E7%BA%B5%E6%A8%AA%E5%AE%87%E5%AE%99%E4%B8%8A%E6%98%A0)
