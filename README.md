@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jun 06 2023 13:07:00 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jun 06 2023 14:09:25 GMT+0800 (China Standard Time) -->
 
 1. [答主楚云卿原创诗句「入选」诗经](https://www.zhihu.com/search?q=%E7%AD%94%E4%B8%BB%E6%A5%9A%E4%BA%91%E5%8D%BF%E5%8E%9F%E5%88%9B%E8%AF%97%E5%8F%A5%E3%80%8C%E5%85%A5%E9%80%89%E3%80%8D%E8%AF%97%E7%BB%8F)
 1. [华为已申请 GPT 相关商标](https://www.zhihu.com/search?q=%E5%8D%8E%E4%B8%BA%E5%B7%B2%E7%94%B3%E8%AF%B7%20GPT%20%E7%9B%B8%E5%85%B3%E5%95%86%E6%A0%87)
