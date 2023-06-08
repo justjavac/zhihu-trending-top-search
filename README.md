@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jun 08 2023 18:07:43 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jun 08 2023 19:06:20 GMT+0800 (China Standard Time) -->
 
 1. [高考进行中](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E8%BF%9B%E8%A1%8C%E4%B8%AD)
 1. [我国科研人员发现宇宙中最古老恒星遗迹](https://www.zhihu.com/search?q=%E6%88%91%E5%9B%BD%E7%A7%91%E7%A0%94%E4%BA%BA%E5%91%98%E5%8F%91%E7%8E%B0%E5%AE%87%E5%AE%99%E4%B8%AD%E6%9C%80%E5%8F%A4%E8%80%81%E6%81%92%E6%98%9F%E9%81%97%E8%BF%B9)
