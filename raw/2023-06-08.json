@@ -4,5 +4,6 @@
   { "query": "高考进行中", "display_query": "高考进行中" },
   { "query": "高考全国卷作文", "display_query": "高考全国卷作文" },
   { "query": "我国科研人员发现宇宙中最古老恒星遗迹", "display_query": "我国科研人员发现宇宙中最古老恒星遗迹" },
-  { "query": "苹果发布 tvOS 17", "display_query": "苹果发布 tvOS 17" }
+  { "query": "苹果发布 tvOS 17", "display_query": "苹果发布 tvOS 17" },
+  { "query": "全国将举办村 BA 比赛", "display_query": "全国将举办村 BA 比赛" }
 ]
