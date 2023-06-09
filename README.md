@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jun 09 2023 16:08:44 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jun 09 2023 17:07:20 GMT+0800 (China Standard Time) -->
 
 1. [高考进行中](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E8%BF%9B%E8%A1%8C%E4%B8%AD)
 1. [中国电信广东地区崩了](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E7%94%B5%E4%BF%A1%E5%B9%BF%E4%B8%9C%E5%9C%B0%E5%8C%BA%E5%B4%A9%E4%BA%86)
