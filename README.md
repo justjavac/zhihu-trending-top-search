@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jun 10 2023 05:06:15 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jun 10 2023 06:06:42 GMT+0800 (China Standard Time) -->
 
 1. [5 月 CPI 同比上升 0.2%](https://www.zhihu.com/search?q=5%20%E6%9C%88%20CPI%20%E5%90%8C%E6%AF%94%E4%B8%8A%E5%8D%87%200.2%25)
 1. [新冠重症可能是未确诊癌症的标志](https://www.zhihu.com/search?q=%E6%96%B0%E5%86%A0%E9%87%8D%E7%97%87%E5%8F%AF%E8%83%BD%E6%98%AF%E6%9C%AA%E7%A1%AE%E8%AF%8A%E7%99%8C%E7%97%87%E7%9A%84%E6%A0%87%E5%BF%97)
