@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jun 10 2023 07:06:52 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jun 10 2023 08:40:04 GMT+0800 (China Standard Time) -->
 
 1. [5 月 CPI 同比上升 0.2%](https://www.zhihu.com/search?q=5%20%E6%9C%88%20CPI%20%E5%90%8C%E6%AF%94%E4%B8%8A%E5%8D%87%200.2%25)
 1. [新冠重症可能是未确诊癌症的标志](https://www.zhihu.com/search?q=%E6%96%B0%E5%86%A0%E9%87%8D%E7%97%87%E5%8F%AF%E8%83%BD%E6%98%AF%E6%9C%AA%E7%A1%AE%E8%AF%8A%E7%99%8C%E7%97%87%E7%9A%84%E6%A0%87%E5%BF%97)
@@ -22,6 +22,7 @@
 1. [高考生反映英语听力听不清](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E7%94%9F%E5%8F%8D%E6%98%A0%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B%E5%90%AC%E4%B8%8D%E6%B8%85)
 1. [2023 夏日游戏节](https://www.zhihu.com/search?q=2023%20%E5%A4%8F%E6%97%A5%E6%B8%B8%E6%88%8F%E8%8A%82)
 1. [翟欣欣被逮捕](https://www.zhihu.com/search?q=%E7%BF%9F%E6%AC%A3%E6%AC%A3%E8%A2%AB%E9%80%AE%E6%8D%95)
+1. [12306 试行在线选铺服务](https://www.zhihu.com/search?q=12306%20%E8%AF%95%E8%A1%8C%E5%9C%A8%E7%BA%BF%E9%80%89%E9%93%BA%E6%9C%8D%E5%8A%A1)
 
 <!-- END -->
 
