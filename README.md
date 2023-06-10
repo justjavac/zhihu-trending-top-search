@@ -14,11 +14,12 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jun 10 2023 21:07:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jun 10 2023 22:05:47 GMT+0800 (China Standard Time) -->
 
 1. [12306 试行在线选铺服务](https://www.zhihu.com/search?q=12306%20%E8%AF%95%E8%A1%8C%E5%9C%A8%E7%BA%BF%E9%80%89%E9%93%BA%E6%9C%8D%E5%8A%A1)
 1. [江西成立鼠头鸭脖事件联合调查组](https://www.zhihu.com/search?q=%E6%B1%9F%E8%A5%BF%E6%88%90%E7%AB%8B%E9%BC%A0%E5%A4%B4%E9%B8%AD%E8%84%96%E4%BA%8B%E4%BB%B6%E8%81%94%E5%90%88%E8%B0%83%E6%9F%A5%E7%BB%84)
 1. [广州拟分路段分时段限行电动自行车](https://www.zhihu.com/search?q=%E5%B9%BF%E5%B7%9E%E6%8B%9F%E5%88%86%E8%B7%AF%E6%AE%B5%E5%88%86%E6%97%B6%E6%AE%B5%E9%99%90%E8%A1%8C%E7%94%B5%E5%8A%A8%E8%87%AA%E8%A1%8C%E8%BD%A6)
+1. [杨立昆表示类 GPT 主流路线存在局限](https://www.zhihu.com/search?q=%E6%9D%A8%E7%AB%8B%E6%98%86%E8%A1%A8%E7%A4%BA%E7%B1%BB%20GPT%20%E4%B8%BB%E6%B5%81%E8%B7%AF%E7%BA%BF%E5%AD%98%E5%9C%A8%E5%B1%80%E9%99%90)
 1. [翟欣欣被逮捕](https://www.zhihu.com/search?q=%E7%BF%9F%E6%AC%A3%E6%AC%A3%E8%A2%AB%E9%80%AE%E6%8D%95)
 1. [2023 夏日游戏节](https://www.zhihu.com/search?q=2023%20%E5%A4%8F%E6%97%A5%E6%B8%B8%E6%88%8F%E8%8A%82)
 1. [镖人动画第 3-4 集播出](https://www.zhihu.com/search?q=%E9%95%96%E4%BA%BA%E5%8A%A8%E7%94%BB%E7%AC%AC%203-4%20%E9%9B%86%E6%92%AD%E5%87%BA)
