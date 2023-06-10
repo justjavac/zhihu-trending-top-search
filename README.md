@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jun 10 2023 16:07:59 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jun 10 2023 17:07:01 GMT+0800 (China Standard Time) -->
 
 1. [翟欣欣被逮捕](https://www.zhihu.com/search?q=%E7%BF%9F%E6%AC%A3%E6%AC%A3%E8%A2%AB%E9%80%AE%E6%8D%95)
 1. [12306 试行在线选铺服务](https://www.zhihu.com/search?q=12306%20%E8%AF%95%E8%A1%8C%E5%9C%A8%E7%BA%BF%E9%80%89%E9%93%BA%E6%9C%8D%E5%8A%A1)
