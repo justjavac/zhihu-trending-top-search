@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jun 11 2023 05:04:56 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jun 11 2023 06:05:58 GMT+0800 (China Standard Time) -->
 
 1. [12306 试行在线选铺服务](https://www.zhihu.com/search?q=12306%20%E8%AF%95%E8%A1%8C%E5%9C%A8%E7%BA%BF%E9%80%89%E9%93%BA%E6%9C%8D%E5%8A%A1)
 1. [江西成立鼠头鸭脖事件联合调查组](https://www.zhihu.com/search?q=%E6%B1%9F%E8%A5%BF%E6%88%90%E7%AB%8B%E9%BC%A0%E5%A4%B4%E9%B8%AD%E8%84%96%E4%BA%8B%E4%BB%B6%E8%81%94%E5%90%88%E8%B0%83%E6%9F%A5%E7%BB%84)
