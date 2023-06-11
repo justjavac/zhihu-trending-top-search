@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jun 12 2023 05:06:12 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jun 12 2023 06:06:28 GMT+0800 (China Standard Time) -->
 
 1. [曼城首夺欧冠](https://www.zhihu.com/search?q=%E6%9B%BC%E5%9F%8E%E9%A6%96%E5%A4%BA%E6%AC%A7%E5%86%A0)
 1. [广州发现两例猴痘病例](https://www.zhihu.com/search?q=%E5%B9%BF%E5%B7%9E%E5%8F%91%E7%8E%B0%E4%B8%A4%E4%BE%8B%E7%8C%B4%E7%97%98%E7%97%85%E4%BE%8B)
