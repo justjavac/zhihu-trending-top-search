@@ -14,11 +14,13 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jun 14 2023 07:06:42 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jun 14 2023 08:40:17 GMT+0800 (China Standard Time) -->
 
 1. [热火 vs 掘金](https://www.zhihu.com/search?q=%E7%83%AD%E7%81%AB%20vs%20%E6%8E%98%E9%87%91)
 1. [法医秦明动画无声的证词](https://www.zhihu.com/search?q=%E6%B3%95%E5%8C%BB%E7%A7%A6%E6%98%8E%E5%8A%A8%E7%94%BB%E6%97%A0%E5%A3%B0%E7%9A%84%E8%AF%81%E8%AF%8D)
 1. [FF16 上线试玩 Demo](https://www.zhihu.com/search?q=FF16%20%E4%B8%8A%E7%BA%BF%E8%AF%95%E7%8E%A9%20Demo)
+1. [天津居民楼爆炸致 3 死](https://www.zhihu.com/search?q=%E5%A4%A9%E6%B4%A5%E5%B1%85%E6%B0%91%E6%A5%BC%E7%88%86%E7%82%B8%E8%87%B4%203%20%E6%AD%BB)
+1. [金价上涨](https://www.zhihu.com/search?q=%E9%87%91%E4%BB%B7%E4%B8%8A%E6%B6%A8)
 
 <!-- END -->
 
