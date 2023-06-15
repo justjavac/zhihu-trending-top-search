@@ -1,5 +1,4 @@
 [
-  { "query": "比尔·盖茨抵达北京", "display_query": "比尔·盖茨抵达北京" },
   { "query": "美联储连续加息 10 次后暂停", "display_query": "美联储连续加息 10 次后暂停" },
   { "query": "上海地震", "display_query": "上海地震" },
   { "query": "五月 70 城房价", "display_query": "五月 70 城房价" },
@@ -7,6 +6,7 @@
   { "query": "杨丽萍回应孔雀舞惹不雅争议", "display_query": "杨丽萍回应孔雀舞惹不雅争议" },
   { "query": "梅西开场 81 秒进球", "display_query": "梅西开场 81 秒进球" },
   { "query": "阿根廷 2:0 澳大利亚", "display_query": "阿根廷 2:0 澳大利亚" },
+  { "query": "比尔·盖茨抵达北京", "display_query": "比尔·盖茨抵达北京" },
   { "query": "阿根廷 vs 澳大利亚", "display_query": "阿根廷 vs 澳大利亚" },
   { "query": "梅西首发", "display_query": "梅西首发" },
   { "query": "艺术家黄永玉先生逝世", "display_query": "艺术家黄永玉先生逝世" },
