@@ -14,11 +14,14 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jun 21 2023 08:42:25 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jun 21 2023 10:05:26 GMT+0800 (China Standard Time) -->
 
 1. [高考用 0.7 的笔可以吗](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E7%94%A8%200.7%20%E7%9A%84%E7%AC%94%E5%8F%AF%E4%BB%A5%E5%90%97)
 1. [房贷降息](https://www.zhihu.com/search?q=%E6%88%BF%E8%B4%B7%E9%99%8D%E6%81%AF)
 1. [国足 2:0 战胜巴勒斯坦](https://www.zhihu.com/search?q=%E5%9B%BD%E8%B6%B3%202%3A0%20%E6%88%98%E8%83%9C%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6)
+1. [燃气灶增加患白血病风险](https://www.zhihu.com/search?q=%E7%87%83%E6%B0%94%E7%81%B6%E5%A2%9E%E5%8A%A0%E6%82%A3%E7%99%BD%E8%A1%80%E7%97%85%E9%A3%8E%E9%99%A9)
+1. [二手房交易已转变为买方市场](https://www.zhihu.com/search?q=%E4%BA%8C%E6%89%8B%E6%88%BF%E4%BA%A4%E6%98%93%E5%B7%B2%E8%BD%AC%E5%8F%98%E4%B8%BA%E4%B9%B0%E6%96%B9%E5%B8%82%E5%9C%BA)
+1. [特斯拉充电桩有望「一统北美」](https://www.zhihu.com/search?q=%E7%89%B9%E6%96%AF%E6%8B%89%E5%85%85%E7%94%B5%E6%A1%A9%E6%9C%89%E6%9C%9B%E3%80%8C%E4%B8%80%E7%BB%9F%E5%8C%97%E7%BE%8E%E3%80%8D)
 
 <!-- END -->
 
