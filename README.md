@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jun 21 2023 21:10:24 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jun 21 2023 22:06:34 GMT+0800 (China Standard Time) -->
 
 1. [燃气灶增加患白血病风险](https://www.zhihu.com/search?q=%E7%87%83%E6%B0%94%E7%81%B6%E5%A2%9E%E5%8A%A0%E6%82%A3%E7%99%BD%E8%A1%80%E7%97%85%E9%A3%8E%E9%99%A9)
 1. [二手房交易已转变为买方市场](https://www.zhihu.com/search?q=%E4%BA%8C%E6%89%8B%E6%88%BF%E4%BA%A4%E6%98%93%E5%B7%B2%E8%BD%AC%E5%8F%98%E4%B8%BA%E4%B9%B0%E6%96%B9%E5%B8%82%E5%9C%BA)
