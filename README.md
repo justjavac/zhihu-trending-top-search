@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jun 23 2023 04:08:16 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jun 23 2023 05:07:13 GMT+0800 (China Standard Time) -->
 
 1. [高考志愿填报攻略](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%BF%97%E6%84%BF%E5%A1%AB%E6%8A%A5%E6%94%BB%E7%95%A5)
 1. [六月份游戏版号下发](https://www.zhihu.com/search?q=%E5%85%AD%E6%9C%88%E4%BB%BD%E6%B8%B8%E6%88%8F%E7%89%88%E5%8F%B7%E4%B8%8B%E5%8F%91)
