@@ -14,8 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jun 23 2023 20:14:39 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jun 23 2023 21:17:33 GMT+0800 (China Standard Time) -->
 
+1. [白玉兰获奖名单](https://www.zhihu.com/search?q=%E7%99%BD%E7%8E%89%E5%85%B0%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95)
 1. [高考志愿填报攻略](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%BF%97%E6%84%BF%E5%A1%AB%E6%8A%A5%E6%94%BB%E7%95%A5)
 1. [泰坦号观光艇 5 名乘员死亡](https://www.zhihu.com/search?q=%E6%B3%B0%E5%9D%A6%E5%8F%B7%E8%A7%82%E5%85%89%E8%89%87%205%20%E5%90%8D%E4%B9%98%E5%91%98%E6%AD%BB%E4%BA%A1)
 1. [保罗被交易至勇士](https://www.zhihu.com/search?q=%E4%BF%9D%E7%BD%97%E8%A2%AB%E4%BA%A4%E6%98%93%E8%87%B3%E5%8B%87%E5%A3%AB%09)
