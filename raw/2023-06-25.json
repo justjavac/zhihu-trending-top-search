@@ -1,10 +1,11 @@
 [
-  { "query": "辽宁高考分数线", "display_query": "辽宁高考分数线" },
-  { "query": "福建高考分数线", "display_query": "福建高考分数线" },
   { "query": "河南高考分数线", "display_query": "河南高考分数线" },
   { "query": "北京高考分数线", "display_query": "北京高考分数线" },
   { "query": "河北高考分数线", "display_query": "河北高考分数线" },
   { "query": "山东公布分数线", "display_query": "山东公布分数线" },
+  { "query": "广东高考分数线公布", "display_query": "广东高考分数线公布" },
+  { "query": "辽宁高考分数线", "display_query": "辽宁高考分数线" },
+  { "query": "福建高考分数线", "display_query": "福建高考分数线" },
   { "query": "江西理科状元数学、理综满分", "display_query": "江西理科状元数学、理综满分" },
   { "query": "天津高考分数线", "display_query": "天津高考分数线" },
   { "query": "山西高考分数线", "display_query": "山西高考分数线" },
