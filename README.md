@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jun 25 2023 11:29:33 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jun 25 2023 12:09:39 GMT+0800 (China Standard Time) -->
 
 1. [天津高考分数线](https://www.zhihu.com/search?q=%E5%A4%A9%E6%B4%A5%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF)
 1. [山西高考分数线](https://www.zhihu.com/search?q=%E5%B1%B1%E8%A5%BF%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF)
