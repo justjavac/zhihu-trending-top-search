@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jun 26 2023 23:08:06 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jun 27 2023 00:09:47 GMT+0800 (China Standard Time) -->
 
 1. [高考志愿](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%BF%97%E6%84%BF)
 1. [城市过夏天](https://www.zhihu.com/search?q=%E5%9F%8E%E5%B8%82%E8%BF%87%E5%A4%8F%E5%A4%A9)
@@ -22,10 +22,6 @@
 1. [《三国演义》通篇使用多少计？](https://www.zhihu.com/search?q=%E3%80%8A%E4%B8%89%E5%9B%BD%E6%BC%94%E4%B9%89%E3%80%8B%E9%80%9A%E7%AF%87%E4%BD%BF%E7%94%A8%E5%A4%9A%E5%B0%91%E8%AE%A1%EF%BC%9F)
 1. [AI 作画神器 Midjourney 更新](https://www.zhihu.com/search?q=AI%20%E4%BD%9C%E7%94%BB%E7%A5%9E%E5%99%A8%20Midjourney%20%E6%9B%B4%E6%96%B0)
 1. [周杰伦海口演唱会](https://www.zhihu.com/search?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%B5%B7%E5%8F%A3%E6%BC%94%E5%94%B1%E4%BC%9A)
-1. [广东高考分数线公布](https://www.zhihu.com/search?q=%E5%B9%BF%E4%B8%9C%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E5%85%AC%E5%B8%83)
-1. [山东公布分数线](https://www.zhihu.com/search?q=%E5%B1%B1%E4%B8%9C%E5%85%AC%E5%B8%83%E5%88%86%E6%95%B0%E7%BA%BF)
-1. [北京高考分数线](https://www.zhihu.com/search?q=%E5%8C%97%E4%BA%AC%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF)
-1. [河北高考分数线](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8C%97%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF)
 
 <!-- END -->
 
