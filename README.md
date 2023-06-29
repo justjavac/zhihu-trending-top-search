@@ -14,12 +14,16 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jun 29 2023 14:10:55 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jun 29 2023 15:08:02 GMT+0800 (China Standard Time) -->
 
 1. [城市过夏天](https://www.zhihu.com/search?q=%E5%9F%8E%E5%B8%82%E8%BF%87%E5%A4%8F%E5%A4%A9)
 1. [油价迎年内第五涨](https://www.zhihu.com/search?q=%20%E6%B2%B9%E4%BB%B7%E8%BF%8E%E5%B9%B4%E5%86%85%E7%AC%AC%E4%BA%94%E6%B6%A8)
 1. [多抓鱼将关闭北京线下门店](https://www.zhihu.com/search?q=%E5%A4%9A%E6%8A%93%E9%B1%BC%E5%B0%86%E5%85%B3%E9%97%AD%E5%8C%97%E4%BA%AC%E7%BA%BF%E4%B8%8B%E9%97%A8%E5%BA%97)
 1. [泰坦号残骸中发现疑似人类遗骸](https://www.zhihu.com/search?q=%E6%B3%B0%E5%9D%A6%E5%8F%B7%E6%AE%8B%E9%AA%B8%E4%B8%AD%E5%8F%91%E7%8E%B0%E7%96%91%E4%BC%BC%E4%BA%BA%E7%B1%BB%E9%81%97%E9%AA%B8)
+1. [多家高校下月起停用微信支付](https://www.zhihu.com/search?q=%E5%A4%9A%E5%AE%B6%E9%AB%98%E6%A0%A1%E4%B8%8B%E6%9C%88%E8%B5%B7%E5%81%9C%E7%94%A8%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98)
+1. [甘肃350亿氢能项目招标方竟是假国企](https://www.zhihu.com/search?q=%E7%94%98%E8%82%83350%E4%BA%BF%E6%B0%A2%E8%83%BD%E9%A1%B9%E7%9B%AE%E6%8B%9B%E6%A0%87%E6%96%B9%E7%AB%9F%E6%98%AF%E5%81%87%E5%9B%BD%E4%BC%81)
+1. [「中国天眼」取得重大突破](https://www.zhihu.com/search?q=%E3%80%8C%E4%B8%AD%E5%9B%BD%E5%A4%A9%E7%9C%BC%E3%80%8D%E5%8F%96%E5%BE%97%E9%87%8D%E5%A4%A7%E7%AA%81%E7%A0%B4)
+1. [无畏契约国服定档](https://www.zhihu.com/search?q=%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6%E5%9B%BD%E6%9C%8D%E5%AE%9A%E6%A1%A3)
 1. [1-5 月全国规模以上企业利润同比降 18.8%](https://www.zhihu.com/search?q=1-5%20%E6%9C%88%E5%85%A8%E5%9B%BD%E8%A7%84%E6%A8%A1%E4%BB%A5%E4%B8%8A%E4%BC%81%E4%B8%9A%E5%88%A9%E6%B6%A6%E5%90%8C%E6%AF%94%E9%99%8D%2018.8%25)
 1. [2024QS 世界大学排名](https://www.zhihu.com/search?q=2024QS%20%E4%B8%96%E7%95%8C%E5%A4%A7%E5%AD%A6%E6%8E%92%E5%90%8D)
 1. [近 20 城放松住房限购](https://www.zhihu.com/search?q=%E8%BF%91%2020%20%E5%9F%8E%E6%94%BE%E6%9D%BE%E4%BD%8F%E6%88%BF%E9%99%90%E8%B4%AD)
