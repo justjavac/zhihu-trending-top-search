@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jun 30 2023 12:09:23 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jun 30 2023 13:07:25 GMT+0800 (China Standard Time) -->
 
 1. [多家高校下月起停用微信支付](https://www.zhihu.com/search?q=%E5%A4%9A%E5%AE%B6%E9%AB%98%E6%A0%A1%E4%B8%8B%E6%9C%88%E8%B5%B7%E5%81%9C%E7%94%A8%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98)
 1. [甘肃350亿氢能项目招标方竟是假国企](https://www.zhihu.com/search?q=%E7%94%98%E8%82%83350%E4%BA%BF%E6%B0%A2%E8%83%BD%E9%A1%B9%E7%9B%AE%E6%8B%9B%E6%A0%87%E6%96%B9%E7%AB%9F%E6%98%AF%E5%81%87%E5%9B%BD%E4%BC%81)
