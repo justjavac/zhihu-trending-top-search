@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jul 01 2023 12:09:12 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jul 01 2023 13:07:04 GMT+0800 (China Standard Time) -->
 
 1. [山河大学是什么梗](https://www.zhihu.com/search?q=%E5%B1%B1%E6%B2%B3%E5%A4%A7%E5%AD%A6%E6%98%AF%E4%BB%80%E4%B9%88%E6%A2%97)
 1. [7 月起大批新规将施行](https://www.zhihu.com/search?q=7%20%E6%9C%88%E8%B5%B7%E5%A4%A7%E6%89%B9%E6%96%B0%E8%A7%84%E5%B0%86%E6%96%BD%E8%A1%8C)
