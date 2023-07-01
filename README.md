@@ -14,11 +14,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jul 01 2023 20:13:51 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jul 01 2023 21:12:22 GMT+0800 (China Standard Time) -->
 
 1. [山河大学是什么梗](https://www.zhihu.com/search?q=%E5%B1%B1%E6%B2%B3%E5%A4%A7%E5%AD%A6%E6%98%AF%E4%BB%80%E4%B9%88%E6%A2%97)
-1. [湖南湘西现特大暴雨](https://www.zhihu.com/search?q=%E6%B9%96%E5%8D%97%E6%B9%98%E8%A5%BF%E7%8E%B0%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%A8)
 1. [中国女篮晋级决赛](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E6%99%8B%E7%BA%A7%E5%86%B3%E8%B5%9B)
+1. [湖南湘西现特大暴雨](https://www.zhihu.com/search?q=%E6%B9%96%E5%8D%97%E6%B9%98%E8%A5%BF%E7%8E%B0%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%A8)
 1. [上半年最后一天](https://www.zhihu.com/search?q=%E4%B8%8A%E5%8D%8A%E5%B9%B4%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9)
 1. [7 月起大批新规将施行](https://www.zhihu.com/search?q=7%20%E6%9C%88%E8%B5%B7%E5%A4%A7%E6%89%B9%E6%96%B0%E8%A7%84%E5%B0%86%E6%96%BD%E8%A1%8C)
 1. [A 股半年收官](https://www.zhihu.com/search?q=A%20%E8%82%A1%E5%8D%8A%E5%B9%B4%E6%94%B6%E5%AE%98)
