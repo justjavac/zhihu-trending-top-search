@@ -14,9 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jul 02 2023 15:06:59 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jul 02 2023 16:09:59 GMT+0800 (China Standard Time) -->
 
 1. [山河大学是什么梗](https://www.zhihu.com/search?q=%E5%B1%B1%E6%B2%B3%E5%A4%A7%E5%AD%A6%E6%98%AF%E4%BB%80%E4%B9%88%E6%A2%97)
+1. [中国女篮夺亚洲杯冠军](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E5%A4%BA%E4%BA%9A%E6%B4%B2%E6%9D%AF%E5%86%A0%E5%86%9B)
 1. [中国女篮晋级决赛](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E6%99%8B%E7%BA%A7%E5%86%B3%E8%B5%9B)
 
 <!-- END -->
