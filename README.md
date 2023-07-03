@@ -14,9 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jul 03 2023 11:18:56 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jul 03 2023 12:09:24 GMT+0800 (China Standard Time) -->
 
 1. [中国女篮夺亚洲杯冠军](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E5%A4%BA%E4%BA%9A%E6%B4%B2%E6%9D%AF%E5%86%A0%E5%86%9B)
+1. [蔡徐坤回应](https://www.zhihu.com/search?q=%E8%94%A1%E5%BE%90%E5%9D%A4%E5%9B%9E%E5%BA%94)
 
 <!-- END -->
 
