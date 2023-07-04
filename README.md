@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jul 04 2023 12:09:48 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jul 04 2023 13:08:00 GMT+0800 (China Standard Time) -->
 
 1. [原神枫丹序曲 PV](https://www.zhihu.com/search?q=%E5%8E%9F%E7%A5%9E%E6%9E%AB%E4%B8%B9%E5%BA%8F%E6%9B%B2%20PV)
 1. [Jackeylove 退出亚运会名单](https://www.zhihu.com/search?q=Jackeylove%20%E9%80%80%E5%87%BA%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%90%8D%E5%8D%95)
