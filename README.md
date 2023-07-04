@@ -14,10 +14,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jul 04 2023 15:08:05 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jul 04 2023 16:11:01 GMT+0800 (China Standard Time) -->
 
 1. [Jackeylove 退出亚运会名单](https://www.zhihu.com/search?q=Jackeylove%20%E9%80%80%E5%87%BA%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%90%8D%E5%8D%95)
 1. [一个人能无聊到什么程度？](https://www.zhihu.com/search?q=%E4%B8%80%E4%B8%AA%E4%BA%BA%E8%83%BD%E6%97%A0%E8%81%8A%E5%88%B0%E4%BB%80%E4%B9%88%E7%A8%8B%E5%BA%A6%EF%BC%9F)
+1. [沈阳发现一例猴痘病例](https://www.zhihu.com/search?q=%E6%B2%88%E9%98%B3%E5%8F%91%E7%8E%B0%E4%B8%80%E4%BE%8B%E7%8C%B4%E7%97%98%E7%97%85%E4%BE%8B)
 1. [原神枫丹序曲 PV](https://www.zhihu.com/search?q=%E5%8E%9F%E7%A5%9E%E6%9E%AB%E4%B8%B9%E5%BA%8F%E6%9B%B2%20PV)
 1. [蔡徐坤回应](https://www.zhihu.com/search?q=%E8%94%A1%E5%BE%90%E5%9D%A4%E5%9B%9E%E5%BA%94)
 
