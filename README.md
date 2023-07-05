@@ -14,8 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jul 05 2023 21:20:55 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jul 05 2023 22:08:03 GMT+0800 (China Standard Time) -->
 
+1. [歌手李玟轻生去世](https://www.zhihu.com/search?q=%E6%AD%8C%E6%89%8B%E6%9D%8E%E7%8E%9F%E8%BD%BB%E7%94%9F%E5%8E%BB%E4%B8%96)
 1. [一个人能无聊到什么程度？](https://www.zhihu.com/search?q=%E4%B8%80%E4%B8%AA%E4%BA%BA%E8%83%BD%E6%97%A0%E8%81%8A%E5%88%B0%E4%BB%80%E4%B9%88%E7%A8%8B%E5%BA%A6%EF%BC%9F)
 1. [让你「心上开出一朵花」的瞬间](https://www.zhihu.com/search?q=%E8%AE%A9%E4%BD%A0%E3%80%8C%E5%BF%83%E4%B8%8A%E5%BC%80%E5%87%BA%E4%B8%80%E6%9C%B5%E8%8A%B1%E3%80%8D%E7%9A%84%E7%9E%AC%E9%97%B4)
 1. [河北工业大学芬兰校区](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8C%97%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6%E8%8A%AC%E5%85%B0%E6%A0%A1%E5%8C%BA)
