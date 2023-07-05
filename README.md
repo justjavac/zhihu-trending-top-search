@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jul 05 2023 12:10:02 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jul 05 2023 13:08:16 GMT+0800 (China Standard Time) -->
 
 1. [一个人能无聊到什么程度？](https://www.zhihu.com/search?q=%E4%B8%80%E4%B8%AA%E4%BA%BA%E8%83%BD%E6%97%A0%E8%81%8A%E5%88%B0%E4%BB%80%E4%B9%88%E7%A8%8B%E5%BA%A6%EF%BC%9F)
 1. [沈阳发现一例猴痘病例](https://www.zhihu.com/search?q=%E6%B2%88%E9%98%B3%E5%8F%91%E7%8E%B0%E4%B8%80%E4%BE%8B%E7%8C%B4%E7%97%98%E7%97%85%E4%BE%8B)
