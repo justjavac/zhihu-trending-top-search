@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jul 06 2023 06:08:21 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jul 06 2023 07:08:09 GMT+0800 (China Standard Time) -->
 
 1. [歌手李玟轻生去世](https://www.zhihu.com/search?q=%E6%AD%8C%E6%89%8B%E6%9D%8E%E7%8E%9F%E8%BD%BB%E7%94%9F%E5%8E%BB%E4%B8%96)
 1. [一个人能无聊到什么程度？](https://www.zhihu.com/search?q=%E4%B8%80%E4%B8%AA%E4%BA%BA%E8%83%BD%E6%97%A0%E8%81%8A%E5%88%B0%E4%BB%80%E4%B9%88%E7%A8%8B%E5%BA%A6%EF%BC%9F)
