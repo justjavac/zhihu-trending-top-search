@@ -7,5 +7,6 @@
   { "query": "长沙过夏天", "display_query": "长沙过夏天" },
   { "query": "西安过夏天", "display_query": "西安过夏天" },
   { "query": "成都过夏天", "display_query": "成都过夏天" },
-  { "query": "杭州过夏天", "display_query": "杭州过夏天" }
+  { "query": "杭州过夏天", "display_query": "杭州过夏天" },
+  { "query": "小暑", "display_query": "小暑" }
 ]
