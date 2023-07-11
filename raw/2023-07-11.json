@@ -1,10 +1,10 @@
 [
   { "query": "年轻人只有 city work", "display_query": "年轻人只有 city work" },
-  { "query": "6 月 CPI 环比下降 0.2%", "display_query": "6 月 CPI 环比下降 0.2%" },
   { "query": "为什么要实行薪酬保密", "display_query": "为什么要实行薪酬保密" },
   { "query": "如何避免一个人去健身房尴尬的局面？", "display_query": "如何避免一个人去健身房尴尬的局面？" },
   { "query": "你在体制内受过哪些委屈？", "display_query": "你在体制内受过哪些委屈？" },
   { "query": "陕西发现一例猴痘病例", "display_query": "陕西发现一例猴痘病例" },
   { "query": "今日入伏", "display_query": "今日入伏" },
-  { "query": "航班遇严重颠簸", "display_query": "航班遇严重颠簸" }
+  { "query": "航班遇严重颠簸", "display_query": "航班遇严重颠簸" },
+  { "query": "6 月 CPI 环比下降 0.2%", "display_query": "6 月 CPI 环比下降 0.2%" }
 ]
