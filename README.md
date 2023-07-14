@@ -14,12 +14,14 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jul 14 2023 07:08:03 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jul 14 2023 08:48:42 GMT+0800 (China Standard Time) -->
 
 1. [乘风 2023 复活赛](https://www.zhihu.com/search?q=%E4%B9%98%E9%A3%8E%202023%20%E5%A4%8D%E6%B4%BB%E8%B5%9B)
 1. [液氮温区镍氧化物超导体](https://www.zhihu.com/search?q=%E6%B6%B2%E6%B0%AE%E6%B8%A9%E5%8C%BA%E9%95%8D%E6%B0%A7%E5%8C%96%E7%89%A9%E8%B6%85%E5%AF%BC%E4%BD%93)
 1. [中国首创颠覆技术](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E9%A6%96%E5%88%9B%E9%A2%A0%E8%A6%86%E6%8A%80%E6%9C%AF)
 1. [一个人可以节俭到什么程度](https://www.zhihu.com/search?q=%E4%B8%80%E4%B8%AA%E4%BA%BA%E5%8F%AF%E4%BB%A5%E8%8A%82%E4%BF%AD%E5%88%B0%E4%BB%80%E4%B9%88%E7%A8%8B%E5%BA%A6)
+1. [ChatGPT 对手 Claude2 发布新版本](https://www.zhihu.com/search?q=ChatGPT%20%E5%AF%B9%E6%89%8B%20Claude2%20%E5%8F%91%E5%B8%83%E6%96%B0%E7%89%88%E6%9C%AC)
+1. [世卫报告「阿斯巴甜可能致癌」](https://www.zhihu.com/search?q=%E4%B8%96%E5%8D%AB%E6%8A%A5%E5%91%8A%E3%80%8C%E9%98%BF%E6%96%AF%E5%B7%B4%E7%94%9C%E5%8F%AF%E8%83%BD%E8%87%B4%E7%99%8C%E3%80%8D)
 
 <!-- END -->
 
