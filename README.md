@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jul 14 2023 21:16:29 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jul 14 2023 22:07:10 GMT+0800 (China Standard Time) -->
 
 1. [乘风 2023 复活赛](https://www.zhihu.com/search?q=%E4%B9%98%E9%A3%8E%202023%20%E5%A4%8D%E6%B4%BB%E8%B5%9B)
 1. [ChatGPT 对手 Claude2 发布新版本](https://www.zhihu.com/search?q=ChatGPT%20%E5%AF%B9%E6%89%8B%20Claude2%20%E5%8F%91%E5%B8%83%E6%96%B0%E7%89%88%E6%9C%AC)
