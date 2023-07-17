@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jul 17 2023 19:06:59 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jul 17 2023 20:16:17 GMT+0800 (China Standard Time) -->
 
 1. [马斯克揭秘 xAI](https://www.zhihu.com/search?q=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%8F%AD%E7%A7%98%20xAI)
 1. [中国女排世联赛亚军](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E4%B8%96%E8%81%94%E8%B5%9B%E4%BA%9A%E5%86%9B)
@@ -22,6 +22,7 @@
 1. [人可以节俭到什么程度](https://www.zhihu.com/search?q=%E4%BA%BA%E5%8F%AF%E4%BB%A5%E8%8A%82%E4%BF%AD%E5%88%B0%E4%BB%80%E4%B9%88%E7%A8%8B%E5%BA%A6)
 1. [结账时发现东西很贵咋办](https://www.zhihu.com/search?q=%E7%BB%93%E8%B4%A6%E6%97%B6%E5%8F%91%E7%8E%B0%E4%B8%9C%E8%A5%BF%E5%BE%88%E8%B4%B5%E5%92%8B%E5%8A%9E)
 1. [上半年全国商品房销售面积同比下降 5.3%](https://www.zhihu.com/search?q=%E4%B8%8A%E5%8D%8A%E5%B9%B4%E5%85%A8%E5%9B%BD%E5%95%86%E5%93%81%E6%88%BF%E9%94%80%E5%94%AE%E9%9D%A2%E7%A7%AF%E5%90%8C%E6%AF%94%E4%B8%8B%E9%99%8D%205.3%25)
+1. [今年首个红色预警发布](https://www.zhihu.com/search?q=%E4%BB%8A%E5%B9%B4%E9%A6%96%E4%B8%AA%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6%E5%8F%91%E5%B8%83)
 1. [米酵菌酸中毒病死率超 50%](https://www.zhihu.com/search?q=%E7%B1%B3%E9%85%B5%E8%8F%8C%E9%85%B8%E4%B8%AD%E6%AF%92%E7%97%85%E6%AD%BB%E7%8E%87%E8%B6%85%2050%25)
 
 <!-- END -->
