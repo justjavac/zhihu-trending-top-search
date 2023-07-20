@@ -14,13 +14,13 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jul 20 2023 17:07:06 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jul 20 2023 18:07:25 GMT+0800 (China Standard Time) -->
 
 1. [人可以节俭到什么程度](https://www.zhihu.com/search?q=%E4%BA%BA%E5%8F%AF%E4%BB%A5%E8%8A%82%E4%BF%AD%E5%88%B0%E4%BB%80%E4%B9%88%E7%A8%8B%E5%BA%A6)
 1. [结账时发现东西很贵咋办](https://www.zhihu.com/search?q=%E7%BB%93%E8%B4%A6%E6%97%B6%E5%8F%91%E7%8E%B0%E4%B8%9C%E8%A5%BF%E5%BE%88%E8%B4%B5%E5%92%8B%E5%8A%9E)
-1. [唐尚珺被华中师大退档](https://www.zhihu.com/search?q=%E5%94%90%E5%B0%9A%E7%8F%BA%E8%A2%AB%E5%8D%8E%E4%B8%AD%E5%B8%88%E5%A4%A7%E9%80%80%E6%A1%A3)
 1. [苹果正研发 AI 大语言模型](https://www.zhihu.com/search?q=%E8%8B%B9%E6%9E%9C%E6%AD%A3%E7%A0%94%E5%8F%91%20AI%20%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B)
 1. [山东莱荣高铁被举报偷工减料](https://www.zhihu.com/search?q=%E5%B1%B1%E4%B8%9C%E8%8E%B1%E8%8D%A3%E9%AB%98%E9%93%81%E8%A2%AB%E4%B8%BE%E6%8A%A5%E5%81%B7%E5%B7%A5%E5%87%8F%E6%96%99)
+1. [唐尚珺被华中师大退档](https://www.zhihu.com/search?q=%E5%94%90%E5%B0%9A%E7%8F%BA%E8%A2%AB%E5%8D%8E%E4%B8%AD%E5%B8%88%E5%A4%A7%E9%80%80%E6%A1%A3)
 
 <!-- END -->
 
