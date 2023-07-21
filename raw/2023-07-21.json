@@ -1,8 +1,8 @@
 [
   { "query": "人可以节俭到什么程度", "display_query": "人可以节俭到什么程度" },
   { "query": "结账时发现东西很贵咋办", "display_query": "结账时发现东西很贵咋办" },
-  { "query": "苹果正研发 AI 大语言模型", "display_query": "苹果正研发 AI 大语言模型" },
   { "query": "山东莱荣高铁被举报偷工减料", "display_query": "山东莱荣高铁被举报偷工减料" },
   { "query": "苹果被曝内部测试「苹果 GPT」", "display_query": "苹果被曝内部测试「苹果 GPT」" },
-  { "query": "神十六乘组圆满完成出舱活动既定任务", "display_query": "神十六乘组圆满完成出舱活动既定任务" }
+  { "query": "神十六乘组圆满完成出舱活动既定任务", "display_query": "神十六乘组圆满完成出舱活动既定任务" },
+  { "query": "苹果正研发 AI 大语言模型", "display_query": "苹果正研发 AI 大语言模型" }
 ]
