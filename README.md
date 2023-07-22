@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jul 22 2023 14:08:28 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jul 22 2023 15:05:58 GMT+0800 (China Standard Time) -->
 
 1. [结账时发现东西很贵咋办](https://www.zhihu.com/search?q=%E7%BB%93%E8%B4%A6%E6%97%B6%E5%8F%91%E7%8E%B0%E4%B8%9C%E8%A5%BF%E5%BE%88%E8%B4%B5%E5%92%8B%E5%8A%9E)
 1. [穿洞洞鞋开车被罚](https://www.zhihu.com/search?q=%E7%A9%BF%E6%B4%9E%E6%B4%9E%E9%9E%8B%E5%BC%80%E8%BD%A6%E8%A2%AB%E7%BD%9A)
