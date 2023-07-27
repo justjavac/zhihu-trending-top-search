@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jul 27 2023 13:06:51 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jul 27 2023 14:09:23 GMT+0800 (China Standard Time) -->
 
 1. [2023 空军航空开放活动](https://www.zhihu.com/search?q=2023%20%E7%A9%BA%E5%86%9B%E8%88%AA%E7%A9%BA%E5%BC%80%E6%94%BE%E6%B4%BB%E5%8A%A8)
 1. [集中供冷](https://www.zhihu.com/search?q=%E9%9B%86%E4%B8%AD%E4%BE%9B%E5%86%B7)
