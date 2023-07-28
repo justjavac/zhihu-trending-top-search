@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jul 28 2023 14:09:28 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jul 28 2023 15:06:20 GMT+0800 (China Standard Time) -->
 
 1. [向往的生活收官](https://www.zhihu.com/search?q=%E5%90%91%E5%BE%80%E7%9A%84%E7%94%9F%E6%B4%BB%E6%94%B6%E5%AE%98)
 1. [北上广深 GDP](https://www.zhihu.com/search?q=%E5%8C%97%E4%B8%8A%E5%B9%BF%E6%B7%B1%20GDP)
