@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Aug 03 2023 03:05:41 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Aug 03 2023 04:07:24 GMT+0800 (China Standard Time) -->
 
 1. [消息称微信正灰度测试「小绿书」](https://www.zhihu.com/search?q=%E6%B6%88%E6%81%AF%E7%A7%B0%E5%BE%AE%E4%BF%A1%E6%AD%A3%E7%81%B0%E5%BA%A6%E6%B5%8B%E8%AF%95%E3%80%8C%E5%B0%8F%E7%BB%BF%E4%B9%A6%E3%80%8D)
 
