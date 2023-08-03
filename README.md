@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Aug 03 2023 13:06:36 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Aug 03 2023 14:09:09 GMT+0800 (China Standard Time) -->
 
 1. [消息称微信正灰度测试「小绿书」](https://www.zhihu.com/search?q=%E6%B6%88%E6%81%AF%E7%A7%B0%E5%BE%AE%E4%BF%A1%E6%AD%A3%E7%81%B0%E5%BA%A6%E6%B5%8B%E8%AF%95%E3%80%8C%E5%B0%8F%E7%BB%BF%E4%B9%A6%E3%80%8D)
 1. [博德之门 3 正式版上线](https://www.zhihu.com/search?q=%E5%8D%9A%E5%BE%B7%E4%B9%8B%E9%97%A8%203%20%E6%AD%A3%E5%BC%8F%E7%89%88%E4%B8%8A%E7%BA%BF)
