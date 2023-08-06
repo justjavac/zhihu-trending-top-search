@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Aug 06 2023 18:06:27 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Aug 06 2023 19:04:59 GMT+0800 (China Standard Time) -->
 
 1. [山东平原县发生 5.5 级地震](https://www.zhihu.com/search?q=%E5%B1%B1%E4%B8%9C%E5%B9%B3%E5%8E%9F%E5%8E%BF%E5%8F%91%E7%94%9F%205.5%20%E7%BA%A7%E5%9C%B0%E9%9C%87%20)
 1. [手机地震预警功能怎么开](https://www.zhihu.com/search?q=%E6%89%8B%E6%9C%BA%E5%9C%B0%E9%9C%87%E9%A2%84%E8%AD%A6%E5%8A%9F%E8%83%BD%E6%80%8E%E4%B9%88%E5%BC%80)
