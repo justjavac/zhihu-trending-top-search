@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Aug 18 2023 01:06:04 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Aug 18 2023 02:08:33 GMT+0800 (China Standard Time) -->
 
 1. [荒野会谈第二季](https://www.zhihu.com/search?q=%E8%8D%92%E9%87%8E%E4%BC%9A%E8%B0%88%E7%AC%AC%E4%BA%8C%E5%AD%A3)
 1. [荒野 2:恋爱脑](https://www.zhihu.com/search?q=%E8%8D%92%E9%87%8E%202%3A%E6%81%8B%E7%88%B1%E8%84%91)
