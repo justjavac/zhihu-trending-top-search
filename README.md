@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Aug 17 2023 12:07:45 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Aug 17 2023 13:06:44 GMT+0800 (China Standard Time) -->
 
 1. [荒野会谈第二季](https://www.zhihu.com/search?q=%E8%8D%92%E9%87%8E%E4%BC%9A%E8%B0%88%E7%AC%AC%E4%BA%8C%E5%AD%A3)
 1. [原神 4.0 版本上线](https://www.zhihu.com/search?q=%E5%8E%9F%E7%A5%9E%204.0%20%E7%89%88%E6%9C%AC%E4%B8%8A%E7%BA%BF)
