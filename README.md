@@ -14,10 +14,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Aug 18 2023 09:37:38 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Aug 18 2023 10:11:47 GMT+0800 (China Standard Time) -->
 
-1. [恒大集团在美申请破产保护](https://www.zhihu.com/search?q=%E6%81%92%E5%A4%A7%E9%9B%86%E5%9B%A2%E5%9C%A8%E7%BE%8E%E7%94%B3%E8%AF%B7%E7%A0%B4%E4%BA%A7%E4%BF%9D%E6%8A%A4%20)
 1. [荒野会谈第二季](https://www.zhihu.com/search?q=%E8%8D%92%E9%87%8E%E4%BC%9A%E8%B0%88%E7%AC%AC%E4%BA%8C%E5%AD%A3)
+1. [恒大集团在美申请破产保护](https://www.zhihu.com/search?q=%E6%81%92%E5%A4%A7%E9%9B%86%E5%9B%A2%E5%9C%A8%E7%BE%8E%E7%94%B3%E8%AF%B7%E7%A0%B4%E4%BA%A7%E4%BF%9D%E6%8A%A4%20)
+1. [荒野2:情绪价值](https://www.zhihu.com/search?q=%E8%8D%92%E9%87%8E2%3A%E6%83%85%E7%BB%AA%E4%BB%B7%E5%80%BC)
 1. [荒野 2:恋爱脑](https://www.zhihu.com/search?q=%E8%8D%92%E9%87%8E%202%3A%E6%81%8B%E7%88%B1%E8%84%91)
 
 <!-- END -->
