@@ -14,13 +14,13 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Aug 21 2023 08:32:05 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Aug 21 2023 09:38:16 GMT+0800 (China Standard Time) -->
 
-1. [荒野会谈第二季](https://www.zhihu.com/search?q=%E8%8D%92%E9%87%8E%E4%BC%9A%E8%B0%88%E7%AC%AC%E4%BA%8C%E5%AD%A3)
 1. [黑神话悟空线下试玩会](https://www.zhihu.com/search?q=%E9%BB%91%E7%A5%9E%E8%AF%9D%E6%82%9F%E7%A9%BA%E7%BA%BF%E4%B8%8B%E8%AF%95%E7%8E%A9%E4%BC%9A)
 1. [梅西征战美职联](https://www.zhihu.com/search?q=%E6%A2%85%E8%A5%BF%E5%BE%81%E6%88%98%E7%BE%8E%E8%81%8C%E8%81%94)
 1. [张伟丽卫冕金腰带](https://www.zhihu.com/search?q=%E5%BC%A0%E4%BC%9F%E4%B8%BD%E5%8D%AB%E5%86%95%E9%87%91%E8%85%B0%E5%B8%A6)
 1. [多所高校提供自选床位功能](https://www.zhihu.com/search?q=%E5%A4%9A%E6%89%80%E9%AB%98%E6%A0%A1%E6%8F%90%E4%BE%9B%E8%87%AA%E9%80%89%E5%BA%8A%E4%BD%8D%E5%8A%9F%E8%83%BD)
+1. [荒野会谈第二季](https://www.zhihu.com/search?q=%E8%8D%92%E9%87%8E%E4%BC%9A%E8%B0%88%E7%AC%AC%E4%BA%8C%E5%AD%A3)
 1. [恒大就破产传闻发布澄清公告](https://www.zhihu.com/search?q=%E6%81%92%E5%A4%A7%E5%B0%B1%E7%A0%B4%E4%BA%A7%E4%BC%A0%E9%97%BB%E5%8F%91%E5%B8%83%E6%BE%84%E6%B8%85%E5%85%AC%E5%91%8A)
 
 <!-- END -->
