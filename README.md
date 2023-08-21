@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Aug 21 2023 14:09:22 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Aug 21 2023 15:06:46 GMT+0800 (China Standard Time) -->
 
 1. [张伟丽卫冕金腰带](https://www.zhihu.com/search?q=%E5%BC%A0%E4%BC%9F%E4%B8%BD%E5%8D%AB%E5%86%95%E9%87%91%E8%85%B0%E5%B8%A6)
 1. [多所高校提供自选床位功能](https://www.zhihu.com/search?q=%E5%A4%9A%E6%89%80%E9%AB%98%E6%A0%A1%E6%8F%90%E4%BE%9B%E8%87%AA%E9%80%89%E5%BA%8A%E4%BD%8D%E5%8A%9F%E8%83%BD)
