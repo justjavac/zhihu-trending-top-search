@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Aug 22 2023 14:09:06 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Aug 22 2023 16:08:55 GMT+0800 (China Standard Time) -->
 
 1. [同学聚会尴尬](https://www.zhihu.com/search?q=%E5%90%8C%E5%AD%A6%E8%81%9A%E4%BC%9A%E5%B0%B4%E5%B0%AC)
 1. [日本 24 日开始排核污水](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%2024%20%E6%97%A5%E5%BC%80%E5%A7%8B%E6%8E%92%E6%A0%B8%E6%B1%A1%E6%B0%B4)
