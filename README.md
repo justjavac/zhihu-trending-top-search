@@ -14,13 +14,16 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Aug 25 2023 11:07:20 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Aug 25 2023 12:08:21 GMT+0800 (China Standard Time) -->
 
 1. [医生暗示你的话你听懂了吗](https://www.zhihu.com/search?q=%E5%8C%BB%E7%94%9F%E6%9A%97%E7%A4%BA%E4%BD%A0%E7%9A%84%E8%AF%9D%E4%BD%A0%E5%90%AC%E6%87%82%E4%BA%86%E5%90%97)
 1. [日本核污染水已进入大海](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E5%B7%B2%E8%BF%9B%E5%85%A5%E5%A4%A7%E6%B5%B7)
 1. [海关总署宣布全面暂停进口日本水产品](https://www.zhihu.com/search?q=%E6%B5%B7%E5%85%B3%E6%80%BB%E7%BD%B2%E5%AE%A3%E5%B8%83%E5%85%A8%E9%9D%A2%E6%9A%82%E5%81%9C%E8%BF%9B%E5%8F%A3%E6%97%A5%E6%9C%AC%E6%B0%B4%E4%BA%A7%E5%93%81)
 1. [金砖国家宣布扩员](https://www.zhihu.com/search?q=%E9%87%91%E7%A0%96%E5%9B%BD%E5%AE%B6%E5%AE%A3%E5%B8%83%E6%89%A9%E5%91%98)
 1. [有必要囤盐吗](https://www.zhihu.com/search?q=%E6%9C%89%E5%BF%85%E8%A6%81%E5%9B%A4%E7%9B%90%E5%90%97)
+1. [《中国好声音》停播](https://www.zhihu.com/search?q=%E3%80%8A%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3%E3%80%8B%E5%81%9C%E6%92%AD)
+1. [荒野 2 生存法则](https://www.zhihu.com/search?q=%E8%8D%92%E9%87%8E%202%20%E7%94%9F%E5%AD%98%E6%B3%95%E5%88%99)
+1. [你被社会催熟了吗](https://www.zhihu.com/search?q=%E4%BD%A0%E8%A2%AB%E7%A4%BE%E4%BC%9A%E5%82%AC%E7%86%9F%E4%BA%86%E5%90%97)
 1. [荒野会谈第二季](https://www.zhihu.com/search?q=%E8%8D%92%E9%87%8E%E4%BC%9A%E8%B0%88%E7%AC%AC%E4%BA%8C%E5%AD%A3)
 1. [人一定要成熟吗](https://www.zhihu.com/search?q=%E4%BA%BA%E4%B8%80%E5%AE%9A%E8%A6%81%E6%88%90%E7%86%9F%E5%90%97)
 1. [荒野2：反成熟规训](https://www.zhihu.com/search?q=%E8%8D%92%E9%87%8E2%EF%BC%9A%E5%8F%8D%E6%88%90%E7%86%9F%E8%A7%84%E8%AE%AD)
