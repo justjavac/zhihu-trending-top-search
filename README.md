@@ -14,9 +14,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Aug 26 2023 15:05:39 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Aug 26 2023 16:08:37 GMT+0800 (China Standard Time) -->
 
-1. [医生暗示你的话你听懂了吗](https://www.zhihu.com/search?q=%E5%8C%BB%E7%94%9F%E6%9A%97%E7%A4%BA%E4%BD%A0%E7%9A%84%E8%AF%9D%E4%BD%A0%E5%90%AC%E6%87%82%E4%BA%86%E5%90%97)
 1. [《中国好声音》停播](https://www.zhihu.com/search?q=%E3%80%8A%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3%E3%80%8B%E5%81%9C%E6%92%AD)
 1. [不敢辞职的人在怕什么](https://www.zhihu.com/search?q=%E4%B8%8D%E6%95%A2%E8%BE%9E%E8%81%8C%E7%9A%84%E4%BA%BA%E5%9C%A8%E6%80%95%E4%BB%80%E4%B9%88)
 1. [日式餐厅何去何从](https://www.zhihu.com/search?q=%E6%97%A5%E5%BC%8F%E9%A4%90%E5%8E%85%E4%BD%95%E5%8E%BB%E4%BD%95%E4%BB%8E)
@@ -26,6 +25,8 @@
 1. [美方称「寻求延长《中美科技合作协定》」](https://www.zhihu.com/search?q=%09%E7%BE%8E%E6%96%B9%E7%A7%B0%E3%80%8C%E5%AF%BB%E6%B1%82%E5%BB%B6%E9%95%BF%E3%80%8A%E4%B8%AD%E7%BE%8E%E7%A7%91%E6%8A%80%E5%90%88%E4%BD%9C%E5%8D%8F%E5%AE%9A%E3%80%8B%E3%80%8D)
 1. [《中国好声音》母公司回应好声音停播](https://www.zhihu.com/search?q=%E3%80%8A%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3%E3%80%8B%E6%AF%8D%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94%E5%A5%BD%E5%A3%B0%E9%9F%B3%E5%81%9C%E6%92%AD)
 1. [阿里云开源通义千问「多模态大模型」](https://www.zhihu.com/search?q=%E9%98%BF%E9%87%8C%E4%BA%91%E5%BC%80%E6%BA%90%E9%80%9A%E4%B9%89%E5%8D%83%E9%97%AE%E3%80%8C%E5%A4%9A%E6%A8%A1%E6%80%81%E5%A4%A7%E6%A8%A1%E5%9E%8B%E3%80%8D)
+1. [多地紧急通告规范食盐价格](https://www.zhihu.com/search?q=%E5%A4%9A%E5%9C%B0%E7%B4%A7%E6%80%A5%E9%80%9A%E5%91%8A%E8%A7%84%E8%8C%83%E9%A3%9F%E7%9B%90%E4%BB%B7%E6%A0%BC)
+1. [医生暗示你的话你听懂了吗](https://www.zhihu.com/search?q=%E5%8C%BB%E7%94%9F%E6%9A%97%E7%A4%BA%E4%BD%A0%E7%9A%84%E8%AF%9D%E4%BD%A0%E5%90%AC%E6%87%82%E4%BA%86%E5%90%97)
 1. [荒野 2 生存法则](https://www.zhihu.com/search?q=%E8%8D%92%E9%87%8E%202%20%E7%94%9F%E5%AD%98%E6%B3%95%E5%88%99)
 1. [你被社会催熟了吗](https://www.zhihu.com/search?q=%E4%BD%A0%E8%A2%AB%E7%A4%BE%E4%BC%9A%E5%82%AC%E7%86%9F%E4%BA%86%E5%90%97)
 1. [有必要囤盐吗](https://www.zhihu.com/search?q=%E6%9C%89%E5%BF%85%E8%A6%81%E5%9B%A4%E7%9B%90%E5%90%97)
