@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Aug 26 2023 09:36:30 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Aug 26 2023 10:10:12 GMT+0800 (China Standard Time) -->
 
 1. [医生暗示你的话你听懂了吗](https://www.zhihu.com/search?q=%E5%8C%BB%E7%94%9F%E6%9A%97%E7%A4%BA%E4%BD%A0%E7%9A%84%E8%AF%9D%E4%BD%A0%E5%90%AC%E6%87%82%E4%BA%86%E5%90%97)
 1. [《中国好声音》停播](https://www.zhihu.com/search?q=%E3%80%8A%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3%E3%80%8B%E5%81%9C%E6%92%AD)
