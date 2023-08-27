@@ -1,7 +1,5 @@
 [
-  { "query": "《中国好声音》停播", "display_query": "《中国好声音》停播" },
   { "query": "不敢辞职的人在怕什么", "display_query": "不敢辞职的人在怕什么" },
-  { "query": "太阳表面出现巨大黑子", "display_query": "太阳表面出现巨大黑子" },
   { "query": "日本金枪鱼价一夜暴跌 24%", "display_query": "日本金枪鱼价一夜暴跌 24%" },
   { "query": "「云监工」提供骂醒服务", "display_query": "「云监工」提供骂醒服务" },
   { "query": "建议将买烟年龄升至 22 岁", "display_query": "建议将买烟年龄升至 22 岁" },
@@ -9,5 +7,9 @@
   { "query": "未来会出现回农村潮吗", "display_query": "未来会出现回农村潮吗" },
   { "query": "为什么很多猫到农村就变胖了", "display_query": "为什么很多猫到农村就变胖了" },
   { "query": "职场中最隐晦的「话中话」", "display_query": "职场中最隐晦的「话中话」" },
+  { "query": "过量运动会让人衰老加快吗", "display_query": "过量运动会让人衰老加快吗" },
+  { "query": "多地或现极端降雨", "display_query": "多地或现极端降雨" },
+  { "query": "《中国好声音》停播", "display_query": "《中国好声音》停播" },
+  { "query": "太阳表面出现巨大黑子", "display_query": "太阳表面出现巨大黑子" },
   { "query": "日本水产行业「哀鸿遍野」", "display_query": "日本水产行业「哀鸿遍野」" }
 ]
