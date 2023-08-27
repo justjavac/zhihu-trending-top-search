@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Aug 28 2023 01:05:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Aug 28 2023 02:07:24 GMT+0800 (China Standard Time) -->
 
 1. [不敢辞职的人在怕什么](https://www.zhihu.com/search?q=%E4%B8%8D%E6%95%A2%E8%BE%9E%E8%81%8C%E7%9A%84%E4%BA%BA%E5%9C%A8%E6%80%95%E4%BB%80%E4%B9%88)
 1. [坐 16 个小时的经济舱是什么体验](https://www.zhihu.com/search?q=%E5%9D%90%2016%20%E4%B8%AA%E5%B0%8F%E6%97%B6%E7%9A%84%E7%BB%8F%E6%B5%8E%E8%88%B1%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C)
