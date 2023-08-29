@@ -1,5 +1,6 @@
 [
   { "query": "假如福尔摩斯来到霍格沃茨", "display_query": "假如福尔摩斯来到霍格沃茨" },
+  { "query": "医生暗示你的话你听懂了吗", "display_query": "医生暗示你的话你听懂了吗" },
   { "query": "日式餐厅何去何从", "display_query": "日式餐厅何去何从" },
   { "query": "典型的东北家庭氛围", "display_query": "典型的东北家庭氛围" },
   { "query": "老板暗示你下班走的太早了", "display_query": "老板暗示你下班走的太早了" },
