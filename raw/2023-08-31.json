@@ -1,7 +1,6 @@
 [
   { "query": "多家银行下调存款利率", "display_query": "多家银行下调存款利率" },
   { "query": "荒野会谈第二季", "display_query": "荒野会谈第二季" },
-  { "query": "医生暗示你的话你听懂了吗", "display_query": "医生暗示你的话你听懂了吗" },
   { "query": "典型的东北家庭氛围", "display_query": "典型的东北家庭氛围" },
   { "query": "不扫兴型人格", "display_query": "不扫兴型人格" },
   { "query": "我的扫兴父母", "display_query": "我的扫兴父母" },
@@ -9,6 +8,8 @@
   { "query": "旅行中最难忘的文化冲突", "display_query": "旅行中最难忘的文化冲突" },
   { "query": "荒野 2 科技焦虑", "display_query": "荒野 2 科技焦虑" },
   { "query": "荒野 2 算法围城", "display_query": "荒野 2 算法围城" },
+  { "query": "算法围城里的人", "display_query": "算法围城里的人" },
+  { "query": "医生暗示你的话你听懂了吗", "display_query": "医生暗示你的话你听懂了吗" },
   { "query": "浙江查获日本核辐射地区进口食品", "display_query": "浙江查获日本核辐射地区进口食品" },
   { "query": "中元节最大禁忌", "display_query": "中元节最大禁忌" },
   { "query": "中元节的由来", "display_query": "中元节的由来" },
