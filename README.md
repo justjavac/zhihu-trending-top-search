@@ -14,8 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Aug 31 2023 07:06:45 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Aug 31 2023 08:32:43 GMT+0800 (China Standard Time) -->
 
+1. [旅行中最难忘的文化冲突](https://www.zhihu.com/search?q=%E6%97%85%E8%A1%8C%E4%B8%AD%E6%9C%80%E9%9A%BE%E5%BF%98%E7%9A%84%E6%96%87%E5%8C%96%E5%86%B2%E7%AA%81)
 1. [医生暗示你的话你听懂了吗](https://www.zhihu.com/search?q=%E5%8C%BB%E7%94%9F%E6%9A%97%E7%A4%BA%E4%BD%A0%E7%9A%84%E8%AF%9D%E4%BD%A0%E5%90%AC%E6%87%82%E4%BA%86%E5%90%97)
 1. [典型的东北家庭氛围](https://www.zhihu.com/search?q=%E5%85%B8%E5%9E%8B%E7%9A%84%E4%B8%9C%E5%8C%97%E5%AE%B6%E5%BA%AD%E6%B0%9B%E5%9B%B4)
 1. [不扫兴型人格](https://www.zhihu.com/search?q=%E4%B8%8D%E6%89%AB%E5%85%B4%E5%9E%8B%E4%BA%BA%E6%A0%BC)
