@@ -1,5 +1,4 @@
 [
-  { "query": "逃出大英博物馆", "display_query": "逃出大英博物馆" },
   { "query": "在作文里撒过哪些谎", "display_query": "在作文里撒过哪些谎" },
   { "query": "贾宝玉会觉得炸鸡汉堡好吃吗", "display_query": "贾宝玉会觉得炸鸡汉堡好吃吗" },
   { "query": "奥本海默", "display_query": "奥本海默" },
@@ -7,6 +6,10 @@
   { "query": "咖啡高端局", "display_query": "咖啡高端局" },
   { "query": "为什么年轻人不去菜市场买菜了", "display_query": "为什么年轻人不去菜市场买菜了" },
   { "query": "多少酱香拿铁能提出一瓶茅台", "display_query": "多少酱香拿铁能提出一瓶茅台" },
+  { "query": "哪些免费东西突然开始收费了", "display_query": "哪些免费东西突然开始收费了" },
+  { "query": "深圳开发商撤掉两成首付海报", "display_query": "深圳开发商撤掉两成首付海报" },
+  { "query": "双屏显示器能提高工作效率吗？", "display_query": "双屏显示器能提高工作效率吗？" },
+  { "query": "逃出大英博物馆", "display_query": "逃出大英博物馆" },
   { "query": "互联网人均工资连降三年", "display_query": "互联网人均工资连降三年" },
   { "query": "文心大模型 4.0 版本将推出", "display_query": "文心大模型 4.0 版本将推出" },
   { "query": "新车选号摇到 X99999", "display_query": "新车选号摇到 X99999" },
