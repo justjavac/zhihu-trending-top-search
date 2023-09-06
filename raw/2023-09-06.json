@@ -5,8 +5,10 @@
   { "query": "贾宝玉会觉得炸鸡汉堡好吃吗", "display_query": "贾宝玉会觉得炸鸡汉堡好吃吗" },
   { "query": "奥本海默", "display_query": "奥本海默" },
   { "query": "老师怎么看出来作文是抄的", "display_query": "老师怎么看出来作文是抄的" },
-  { "query": "被推向工厂的 95 后", "display_query": "被推向工厂的 95 后" },
-  { "query": "急诊夜班见过最离谱的事", "display_query": "急诊夜班见过最离谱的事" },
   { "query": "如何看待品牌跨界联名", "display_query": "如何看待品牌跨界联名" },
-  { "query": "\t日本核污染水排海量已超 4200 吨", "display_query": "\t日本核污染水排海量已超 4200 吨" }
+  { "query": "\t日本核污染水排海量已超 4200 吨", "display_query": "\t日本核污染水排海量已超 4200 吨" },
+  { "query": "酱香拿铁首日销量超 542 万杯", "display_query": "酱香拿铁首日销量超 542 万杯" },
+  { "query": "咖啡高端局", "display_query": "咖啡高端局" },
+  { "query": "被推向工厂的 95 后", "display_query": "被推向工厂的 95 后" },
+  { "query": "急诊夜班见过最离谱的事", "display_query": "急诊夜班见过最离谱的事" }
 ]
