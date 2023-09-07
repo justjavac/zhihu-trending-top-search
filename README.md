@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Sep 07 2023 12:08:30 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Sep 07 2023 13:06:40 GMT+0800 (China Standard Time) -->
 
 1. [荒野会谈第二季](https://www.zhihu.com/search?q=%E8%8D%92%E9%87%8E%E4%BC%9A%E8%B0%88%E7%AC%AC%E4%BA%8C%E5%AD%A3)
 1. [在作文里撒过哪些谎](https://www.zhihu.com/search?q=%E5%9C%A8%E4%BD%9C%E6%96%87%E9%87%8C%E6%92%92%E8%BF%87%E5%93%AA%E4%BA%9B%E8%B0%8E)
