@@ -14,18 +14,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Sep 07 2023 17:07:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Sep 07 2023 18:07:13 GMT+0800 (China Standard Time) -->
 
 1. [荒野会谈第二季](https://www.zhihu.com/search?q=%E8%8D%92%E9%87%8E%E4%BC%9A%E8%B0%88%E7%AC%AC%E4%BA%8C%E5%AD%A3)
-1. [在作文里撒过哪些谎](https://www.zhihu.com/search?q=%E5%9C%A8%E4%BD%9C%E6%96%87%E9%87%8C%E6%92%92%E8%BF%87%E5%93%AA%E4%BA%9B%E8%B0%8E)
 1. [奥本海默](https://www.zhihu.com/search?q=%E5%A5%A5%E6%9C%AC%E6%B5%B7%E9%BB%98)
-1. [老师怎么看出来作文是抄的](https://www.zhihu.com/search?q=%E8%80%81%E5%B8%88%E6%80%8E%E4%B9%88%E7%9C%8B%E5%87%BA%E6%9D%A5%E4%BD%9C%E6%96%87%E6%98%AF%E6%8A%84%E7%9A%84)
 1. [咖啡高端局](https://www.zhihu.com/search?q=%E5%92%96%E5%95%A1%E9%AB%98%E7%AB%AF%E5%B1%80)
-1. [知网被罚 5000 万元](https://www.zhihu.com/search?q=%E7%9F%A5%E7%BD%91%E8%A2%AB%E7%BD%9A%205000%20%E4%B8%87%E5%85%83)
 1. [跳水掰掰](https://www.zhihu.com/search?q=%E8%B7%B3%E6%B0%B4%E6%8E%B0%E6%8E%B0)
 1. [华为Mate 60 Pro出货量](https://www.zhihu.com/search?q=%E5%8D%8E%E4%B8%BAMate%2060%20Pro%E5%87%BA%E8%B4%A7%E9%87%8F)
 1. [墨子巡天望远镜](https://www.zhihu.com/search?q=%E5%A2%A8%E5%AD%90%E5%B7%A1%E5%A4%A9%E6%9C%9B%E8%BF%9C%E9%95%9C)
 1. [国乒男团夺亚锦赛冠军](https://www.zhihu.com/search?q=%E5%9B%BD%E4%B9%92%E7%94%B7%E5%9B%A2%E5%A4%BA%E4%BA%9A%E9%94%A6%E8%B5%9B%E5%86%A0%E5%86%9B)
+1. [ChatGPT 课堂使用指南](https://www.zhihu.com/search?q=ChatGPT%20%E8%AF%BE%E5%A0%82%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97)
+1. [地铁判官](https://www.zhihu.com/search?q=%E5%9C%B0%E9%93%81%E5%88%A4%E5%AE%98)
+1. [日本「京都动画」纵火案首次开庭](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E3%80%8C%E4%BA%AC%E9%83%BD%E5%8A%A8%E7%94%BB%E3%80%8D%E7%BA%B5%E7%81%AB%E6%A1%88%E9%A6%96%E6%AC%A1%E5%BC%80%E5%BA%AD)
+1. [在作文里撒过哪些谎](https://www.zhihu.com/search?q=%E5%9C%A8%E4%BD%9C%E6%96%87%E9%87%8C%E6%92%92%E8%BF%87%E5%93%AA%E4%BA%9B%E8%B0%8E)
+1. [老师怎么看出来作文是抄的](https://www.zhihu.com/search?q=%E8%80%81%E5%B8%88%E6%80%8E%E4%B9%88%E7%9C%8B%E5%87%BA%E6%9D%A5%E4%BD%9C%E6%96%87%E6%98%AF%E6%8A%84%E7%9A%84)
+1. [知网被罚 5000 万元](https://www.zhihu.com/search?q=%E7%9F%A5%E7%BD%91%E8%A2%AB%E7%BD%9A%205000%20%E4%B8%87%E5%85%83)
 1. [华为mate60pro供应链](https://www.zhihu.com/search?q=%E5%8D%8E%E4%B8%BAmate60pro%E4%BE%9B%E5%BA%94%E9%93%BE)
 1. [中科院：禁止院士参加应酬](https://www.zhihu.com/search?q=%E4%B8%AD%E7%A7%91%E9%99%A2%EF%BC%9A%E7%A6%81%E6%AD%A2%E9%99%A2%E5%A3%AB%E5%8F%82%E5%8A%A0%E5%BA%94%E9%85%AC)
 1. [伍佰老师演唱会麦克风都不要](https://www.zhihu.com/search?q=%E4%BC%8D%E4%BD%B0%E8%80%81%E5%B8%88%E6%BC%94%E5%94%B1%E4%BC%9A%E9%BA%A6%E5%85%8B%E9%A3%8E%E9%83%BD%E4%B8%8D%E8%A6%81)
