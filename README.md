@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Sep 10 2023 14:08:04 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Sep 10 2023 15:05:46 GMT+0800 (China Standard Time) -->
 
 1. [教师节祝福语](https://www.zhihu.com/search?q=%E6%95%99%E5%B8%88%E8%8A%82%E7%A5%9D%E7%A6%8F%E8%AF%AD)
 1. [负罪感健身](https://www.zhihu.com/search?q=%E8%B4%9F%E7%BD%AA%E6%84%9F%E5%81%A5%E8%BA%AB)
@@ -24,6 +24,8 @@
 1. [疯马秀是什么](https://www.zhihu.com/search?q=%E7%96%AF%E9%A9%AC%E7%A7%80%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [华为MateX5](https://www.zhihu.com/search?q=%E5%8D%8E%E4%B8%BAMateX5)
 1. [考古丞磊](https://www.zhihu.com/search?q=%E8%80%83%E5%8F%A4%E4%B8%9E%E7%A3%8A)
+1. [PPT 发明者去世](https://www.zhihu.com/search?q=PPT%20%E5%8F%91%E6%98%8E%E8%80%85%E5%8E%BB%E4%B8%96)
+1. [银行定期存单丢了怎么办？](https://www.zhihu.com/search?q=%E9%93%B6%E8%A1%8C%E5%AE%9A%E6%9C%9F%E5%AD%98%E5%8D%95%E4%B8%A2%E4%BA%86%E6%80%8E%E4%B9%88%E5%8A%9E%EF%BC%9F)
 1. [生命中师之的人](https://www.zhihu.com/search?q=%E7%94%9F%E5%91%BD%E4%B8%AD%E5%B8%88%E4%B9%8B%E7%9A%84%E4%BA%BA)
 1. [24 城认房不认贷](https://www.zhihu.com/search?q=24%20%E5%9F%8E%E8%AE%A4%E6%88%BF%E4%B8%8D%E8%AE%A4%E8%B4%B7)
 
