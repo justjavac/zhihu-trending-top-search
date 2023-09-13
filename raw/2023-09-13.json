@@ -1,6 +1,5 @@
 [
   { "query": "一个租房小建议", "display_query": "一个租房小建议" },
-  { "query": "恰到好处的母爱", "display_query": "恰到好处的母爱" },
   { "query": "为什么双机党多", "display_query": "为什么双机党多" },
   { "query": "选安卓还是苹果", "display_query": "选安卓还是苹果" },
   { "query": "为什么选安卓", "display_query": "为什么选安卓" },
@@ -10,5 +9,6 @@
   { "query": "辞职后老板叫我回去帮忙", "display_query": "辞职后老板叫我回去帮忙" },
   { "query": "不被哲学打扰的人生", "display_query": "不被哲学打扰的人生" },
   { "query": "恰到好处的爱", "display_query": "恰到好处的爱" },
+  { "query": "恰到好处的母爱", "display_query": "恰到好处的母爱" },
   { "query": "一个工位的演讲", "display_query": "一个工位的演讲" }
 ]
