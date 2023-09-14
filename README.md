@@ -14,11 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Sep 14 2023 15:07:05 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Sep 14 2023 16:09:37 GMT+0800 (China Standard Time) -->
 
 1. [荒野会谈第二季](https://www.zhihu.com/search?q=%E8%8D%92%E9%87%8E%E4%BC%9A%E8%B0%88%E7%AC%AC%E4%BA%8C%E5%AD%A3)
 1. [一个租房小建议](https://www.zhihu.com/search?q=%E4%B8%80%E4%B8%AA%E7%A7%9F%E6%88%BF%E5%B0%8F%E5%BB%BA%E8%AE%AE)
-1. [为什么双机党多](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%8C%E6%9C%BA%E5%85%9A%E5%A4%9A)
 1. [选安卓还是苹果](https://www.zhihu.com/search?q=%E9%80%89%E5%AE%89%E5%8D%93%E8%BF%98%E6%98%AF%E8%8B%B9%E6%9E%9C)
 1. [为什么选安卓](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E9%80%89%E5%AE%89%E5%8D%93)
 1. [折叠屏手机推荐](https://www.zhihu.com/search?q=%E6%8A%98%E5%8F%A0%E5%B1%8F%E6%89%8B%E6%9C%BA%E6%8E%A8%E8%8D%90)
@@ -27,6 +26,7 @@
 1. [新手相机有什么推荐](https://www.zhihu.com/search?q=%E6%96%B0%E6%89%8B%E7%9B%B8%E6%9C%BA%E6%9C%89%E4%BB%80%E4%B9%88%E6%8E%A8%E8%8D%90)
 1. [要不要买苹果15](https://www.zhihu.com/search?q=%E8%A6%81%E4%B8%8D%E8%A6%81%E4%B9%B0%E8%8B%B9%E6%9E%9C15)
 1. [华为Mate 60值吗](https://www.zhihu.com/search?q=%E5%8D%8E%E4%B8%BAMate%2060%E5%80%BC%E5%90%97)
+1. [为什么双机党多](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%8C%E6%9C%BA%E5%85%9A%E5%A4%9A)
 
 <!-- END -->
 
