@@ -14,8 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Sep 15 2023 08:33:31 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Sep 15 2023 09:41:30 GMT+0800 (China Standard Time) -->
 
+1. [燃气热水器怎么选](https://www.zhihu.com/search?q=%E7%87%83%E6%B0%94%E7%83%AD%E6%B0%B4%E5%99%A8%E6%80%8E%E4%B9%88%E9%80%89)
 1. [一个租房小建议](https://www.zhihu.com/search?q=%E4%B8%80%E4%B8%AA%E7%A7%9F%E6%88%BF%E5%B0%8F%E5%BB%BA%E8%AE%AE)
 1. [选安卓还是苹果](https://www.zhihu.com/search?q=%E9%80%89%E5%AE%89%E5%8D%93%E8%BF%98%E6%98%AF%E8%8B%B9%E6%9E%9C)
 1. [为什么选安卓](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E9%80%89%E5%AE%89%E5%8D%93)
