@@ -1,5 +1,4 @@
 [
-  { "query": "REST 型人格", "display_query": "REST 型人格" },
   { "query": "空气净化器怎么选", "display_query": "空气净化器怎么选" },
   { "query": "电动牙刷你选对了吗", "display_query": "电动牙刷你选对了吗" },
   { "query": "要不要买净水器", "display_query": "要不要买净水器" },
@@ -8,5 +7,7 @@
   { "query": "内行人眼中的全屋定制", "display_query": "内行人眼中的全屋定制" },
   { "query": "设计师的生存指南", "display_query": "设计师的生存指南" },
   { "query": "空气净化器除甲醛", "display_query": "空气净化器除甲醛" },
-  { "query": "空气净化器吸猫毛", "display_query": "空气净化器吸猫毛" }
+  { "query": "空气净化器吸猫毛", "display_query": "空气净化器吸猫毛" },
+  { "query": "敏感牙电动牙刷推荐", "display_query": "敏感牙电动牙刷推荐" },
+  { "query": "REST 型人格", "display_query": "REST 型人格" }
 ]
