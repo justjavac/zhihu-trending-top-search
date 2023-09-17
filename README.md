@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Sep 17 2023 14:08:17 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Sep 17 2023 15:05:58 GMT+0800 (China Standard Time) -->
 
 1. [空气净化器怎么选](https://www.zhihu.com/search?q=%E7%A9%BA%E6%B0%94%E5%87%80%E5%8C%96%E5%99%A8%E6%80%8E%E4%B9%88%E9%80%89)
 1. [电动牙刷你选对了吗](https://www.zhihu.com/search?q=%E7%94%B5%E5%8A%A8%E7%89%99%E5%88%B7%E4%BD%A0%E9%80%89%E5%AF%B9%E4%BA%86%E5%90%97)
