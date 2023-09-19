@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Sep 19 2023 20:13:18 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Sep 19 2023 21:09:52 GMT+0800 (China Standard Time) -->
 
 1. [华为 MatePad Pro](https://www.zhihu.com/search?q=%E5%8D%8E%E4%B8%BA%20MatePad%20Pro)
 1. [苹果官网崩了](https://www.zhihu.com/search?q=%E8%8B%B9%E6%9E%9C%E5%AE%98%E7%BD%91%E5%B4%A9%E4%BA%86)
@@ -25,8 +25,8 @@
 1. [要不要买苹果15](https://www.zhihu.com/search?q=%E8%A6%81%E4%B8%8D%E8%A6%81%E4%B9%B0%E8%8B%B9%E6%9E%9C15)
 1. [空气净化器怎么选](https://www.zhihu.com/search?q=%E7%A9%BA%E6%B0%94%E5%87%80%E5%8C%96%E5%99%A8%E6%80%8E%E4%B9%88%E9%80%89)
 1. [电动牙刷你选对了吗](https://www.zhihu.com/search?q=%E7%94%B5%E5%8A%A8%E7%89%99%E5%88%B7%E4%BD%A0%E9%80%89%E5%AF%B9%E4%BA%86%E5%90%97)
-1. [要不要买净水器](https://www.zhihu.com/search?q=%E8%A6%81%E4%B8%8D%E8%A6%81%E4%B9%B0%E5%87%80%E6%B0%B4%E5%99%A8)
 1. [空调什么时候买便宜](https://www.zhihu.com/search?q=%E7%A9%BA%E8%B0%83%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E4%B9%B0%E4%BE%BF%E5%AE%9C)
+1. [要不要买净水器](https://www.zhihu.com/search?q=%E8%A6%81%E4%B8%8D%E8%A6%81%E4%B9%B0%E5%87%80%E6%B0%B4%E5%99%A8)
 1. [内行人眼中的全屋定制](https://www.zhihu.com/search?q=%E5%86%85%E8%A1%8C%E4%BA%BA%E7%9C%BC%E4%B8%AD%E7%9A%84%E5%85%A8%E5%B1%8B%E5%AE%9A%E5%88%B6)
 1. [设计师的生存指南](https://www.zhihu.com/search?q=%E8%AE%BE%E8%AE%A1%E5%B8%88%E7%9A%84%E7%94%9F%E5%AD%98%E6%8C%87%E5%8D%97)
 1. [扫地机器人测评](https://www.zhihu.com/search?q=%E6%89%AB%E5%9C%B0%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%B5%8B%E8%AF%84)
