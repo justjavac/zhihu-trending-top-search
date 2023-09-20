@@ -1,5 +1,4 @@
 [
-  { "query": "华为 MatePad Pro", "display_query": "华为 MatePad Pro" },
   { "query": "苹果官网崩了", "display_query": "苹果官网崩了" },
   { "query": "为什么双机党多", "display_query": "为什么双机党多" },
   { "query": "选安卓还是苹果", "display_query": "选安卓还是苹果" },
@@ -8,5 +7,7 @@
   { "query": "要不要买苹果15", "display_query": "要不要买苹果15" },
   { "query": "空气净化器怎么选", "display_query": "空气净化器怎么选" },
   { "query": "电动牙刷你选对了吗", "display_query": "电动牙刷你选对了吗" },
-  { "query": "空调什么时候买便宜", "display_query": "空调什么时候买便宜" }
+  { "query": "空调什么时候买便宜", "display_query": "空调什么时候买便宜" },
+  { "query": "扫地机器人测评", "display_query": "扫地机器人测评" },
+  { "query": "华为 MatePad Pro", "display_query": "华为 MatePad Pro" }
 ]
