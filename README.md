@@ -14,9 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Sep 21 2023 07:06:42 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Sep 21 2023 08:33:02 GMT+0800 (China Standard Time) -->
 
 1. [王者荣耀新赛季](https://www.zhihu.com/search?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%96%B0%E8%B5%9B%E5%AD%A3)
+1. [荒野会谈第二季](https://www.zhihu.com/search?q=%E8%8D%92%E9%87%8E%E4%BC%9A%E8%B0%88%E7%AC%AC%E4%BA%8C%E5%AD%A3)
 1. [为什么双机党多](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%8C%E6%9C%BA%E5%85%9A%E5%A4%9A)
 1. [选安卓还是苹果](https://www.zhihu.com/search?q=%E9%80%89%E5%AE%89%E5%8D%93%E8%BF%98%E6%98%AF%E8%8B%B9%E6%9E%9C)
 1. [折叠屏手机推荐](https://www.zhihu.com/search?q=%E6%8A%98%E5%8F%A0%E5%B1%8F%E6%89%8B%E6%9C%BA%E6%8E%A8%E8%8D%90)
