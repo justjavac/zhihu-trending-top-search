@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Sep 23 2023 20:11:18 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Sep 23 2023 21:06:21 GMT+0800 (China Standard Time) -->
 
 1. [选安卓还是苹果](https://www.zhihu.com/search?q=%E9%80%89%E5%AE%89%E5%8D%93%E8%BF%98%E6%98%AF%E8%8B%B9%E6%9E%9C)
 1. [折叠屏手机推荐](https://www.zhihu.com/search?q=%E6%8A%98%E5%8F%A0%E5%B1%8F%E6%89%8B%E6%9C%BA%E6%8E%A8%E8%8D%90)
