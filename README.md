@@ -14,10 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Sep 24 2023 20:11:23 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Sep 24 2023 21:06:26 GMT+0800 (China Standard Time) -->
 
 1. [千兆宽带有必要吗](https://www.zhihu.com/search?q=%E5%8D%83%E5%85%86%E5%AE%BD%E5%B8%A6%E6%9C%89%E5%BF%85%E8%A6%81%E5%90%97)
-1. [亚运会](https://www.zhihu.com/search?q=%E4%BA%9A%E8%BF%90%E4%BC%9A)
 1. [养宠必备吸尘器](https://www.zhihu.com/search?q=%E5%85%BB%E5%AE%A0%E5%BF%85%E5%A4%87%E5%90%B8%E5%B0%98%E5%99%A8)
 1. [送长辈的按摩椅](https://www.zhihu.com/search?q=%E9%80%81%E9%95%BF%E8%BE%88%E7%9A%84%E6%8C%89%E6%91%A9%E6%A4%85)
 1. [拥有洗碗机的快乐](https://www.zhihu.com/search?q=%E6%8B%A5%E6%9C%89%E6%B4%97%E7%A2%97%E6%9C%BA%E7%9A%84%E5%BF%AB%E4%B9%90)
@@ -26,6 +25,8 @@
 1. [初秋破壁机早餐](https://www.zhihu.com/search?q=%E5%88%9D%E7%A7%8B%E7%A0%B4%E5%A3%81%E6%9C%BA%E6%97%A9%E9%A4%90)
 1. [Mate60和pro有什么区别](https://www.zhihu.com/search?q=Mate60%E5%92%8Cpro%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB)
 1. [无线耳机](https://www.zhihu.com/search?q=%E6%97%A0%E7%BA%BF%E8%80%B3%E6%9C%BA)
+1. [智能手表推荐](https://www.zhihu.com/search?q=%E6%99%BA%E8%83%BD%E6%89%8B%E8%A1%A8%E6%8E%A8%E8%8D%90)
+1. [亚运会](https://www.zhihu.com/search?q=%E4%BA%9A%E8%BF%90%E4%BC%9A)
 1. [韩国检方申请拘捕李在明](https://www.zhihu.com/search?q=%E9%9F%A9%E5%9B%BD%E6%A3%80%E6%96%B9%E7%94%B3%E8%AF%B7%E6%8B%98%E6%8D%95%E6%9D%8E%E5%9C%A8%E6%98%8E)
 1. [预制菜进校园](https://www.zhihu.com/search?q=%E9%A2%84%E5%88%B6%E8%8F%9C%E8%BF%9B%E6%A0%A1%E5%9B%AD)
 1. [ios17](https://www.zhihu.com/search?q=ios17)
