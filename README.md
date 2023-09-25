@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Sep 26 2023 00:09:01 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Sep 26 2023 01:06:35 GMT+0800 (China Standard Time) -->
 
 1. [华为 MatePad Pro](https://www.zhihu.com/search?q=%E5%8D%8E%E4%B8%BA%20MatePad%20Pro)
 1. [亚运会](https://www.zhihu.com/search?q=%E4%BA%9A%E8%BF%90%E4%BC%9A)
