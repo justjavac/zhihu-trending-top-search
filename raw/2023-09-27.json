@@ -1,6 +1,5 @@
 [
   { "query": "华为 MatePad Pro", "display_query": "华为 MatePad Pro" },
-  { "query": "三大指数集体低开", "display_query": "三大指数集体低开" },
   { "query": "亚运会", "display_query": "亚运会" },
   { "query": "我有一个朋友", "display_query": "我有一个朋友" },
   { "query": "如何拒绝男朋友给的面包", "display_query": "如何拒绝男朋友给的面包" },
@@ -8,5 +7,7 @@
   { "query": "freebuds pro3", "display_query": "freebuds pro3" },
   { "query": "无线蓝牙耳机 ", "display_query": "无线蓝牙耳机 " },
   { "query": "小米蓝牙耳机 ", "display_query": "小米蓝牙耳机 " },
-  { "query": "什么输入法打字快", "display_query": "什么输入法打字快" }
+  { "query": "什么输入法打字快", "display_query": "什么输入法打字快" },
+  { "query": "通勤必备无线耳机", "display_query": "通勤必备无线耳机" },
+  { "query": "三大指数集体低开", "display_query": "三大指数集体低开" }
 ]
