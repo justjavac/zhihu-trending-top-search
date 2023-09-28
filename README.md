@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Sep 28 2023 15:06:56 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Sep 28 2023 16:09:43 GMT+0800 (China Standard Time) -->
 
 1. [连坐式孝顺](https://www.zhihu.com/search?q=%E8%BF%9E%E5%9D%90%E5%BC%8F%E5%AD%9D%E9%A1%BA)
 1. [华为 MatePad Pro](https://www.zhihu.com/search?q=%E5%8D%8E%E4%B8%BA%20MatePad%20Pro)
@@ -25,6 +25,7 @@
 1. [我有一个朋友](https://www.zhihu.com/search?q=%E6%88%91%E6%9C%89%E4%B8%80%E4%B8%AA%E6%9C%8B%E5%8F%8B)
 1. [如何拒绝男朋友给的面包](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E6%8B%92%E7%BB%9D%E7%94%B7%E6%9C%8B%E5%8F%8B%E7%BB%99%E7%9A%84%E9%9D%A2%E5%8C%85)
 1. [蓝牙耳机](https://www.zhihu.com/search?q=%E8%93%9D%E7%89%99%E8%80%B3%E6%9C%BA)
+1. [五条悟被腰斩](https://www.zhihu.com/search?q=%E4%BA%94%E6%9D%A1%E6%82%9F%E8%A2%AB%E8%85%B0%E6%96%A9)
 1. [日本对华食品出口暴跌](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E5%AF%B9%E5%8D%8E%E9%A3%9F%E5%93%81%E5%87%BA%E5%8F%A3%E6%9A%B4%E8%B7%8C)
 
 <!-- END -->
