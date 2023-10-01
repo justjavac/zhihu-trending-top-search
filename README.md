@@ -14,8 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Oct 01 2023 07:06:00 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Oct 01 2023 08:38:27 GMT+0800 (China Standard Time) -->
 
+1. [国庆节](https://www.zhihu.com/search?q=%E5%9B%BD%E5%BA%86%E8%8A%82)
 1. [mate60pro值得买吗](https://www.zhihu.com/search?q=mate60pro%E5%80%BC%E5%BE%97%E4%B9%B0%E5%90%97)
 1. [蓝牙耳机](https://www.zhihu.com/search?q=%E8%93%9D%E7%89%99%E8%80%B3%E6%9C%BA)
 1. [五条悟被腰斩](https://www.zhihu.com/search?q=%E4%BA%94%E6%9D%A1%E6%82%9F%E8%A2%AB%E8%85%B0%E6%96%A9)
