@@ -14,9 +14,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Oct 02 2023 14:09:52 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Oct 02 2023 15:07:07 GMT+0800 (China Standard Time) -->
 
-1. [国庆节](https://www.zhihu.com/search?q=%E5%9B%BD%E5%BA%86%E8%8A%82)
 1. [mate60pro值得买吗](https://www.zhihu.com/search?q=mate60pro%E5%80%BC%E5%BE%97%E4%B9%B0%E5%90%97)
 1. [蓝牙耳机](https://www.zhihu.com/search?q=%E8%93%9D%E7%89%99%E8%80%B3%E6%9C%BA)
 1. [五条悟被腰斩](https://www.zhihu.com/search?q=%E4%BA%94%E6%9D%A1%E6%82%9F%E8%A2%AB%E8%85%B0%E6%96%A9)
@@ -26,6 +25,8 @@
 1. [柯洁亚运会两连胜](https://www.zhihu.com/search?q=%E6%9F%AF%E6%B4%81%E4%BA%9A%E8%BF%90%E4%BC%9A%E4%B8%A4%E8%BF%9E%E8%83%9C)
 1. [陕西信达被罚](https://www.zhihu.com/search?q=%E9%99%95%E8%A5%BF%E4%BF%A1%E8%BE%BE%E8%A2%AB%E7%BD%9A)
 1. [法国年底前从尼日尔撤军](https://www.zhihu.com/search?q=%E6%B3%95%E5%9B%BD%E5%B9%B4%E5%BA%95%E5%89%8D%E4%BB%8E%E5%B0%BC%E6%97%A5%E5%B0%94%E6%92%A4%E5%86%9B)
+1. [mate60pro性价比](https://www.zhihu.com/search?q=mate60pro%E6%80%A7%E4%BB%B7%E6%AF%94)
+1. [国庆节](https://www.zhihu.com/search?q=%E5%9B%BD%E5%BA%86%E8%8A%82)
 
 <!-- END -->
 
