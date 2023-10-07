@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Oct 07 2023 10:13:27 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Oct 07 2023 11:07:20 GMT+0800 (China Standard Time) -->
 
 1. [无线耳机](https://www.zhihu.com/search?q=%E6%97%A0%E7%BA%BF%E8%80%B3%E6%9C%BA)
 1. [华为1999手机壳](https://www.zhihu.com/search?q=%E5%8D%8E%E4%B8%BA1999%E6%89%8B%E6%9C%BA%E5%A3%B3)
