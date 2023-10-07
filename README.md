@@ -14,10 +14,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Oct 07 2023 18:06:29 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Oct 07 2023 19:05:10 GMT+0800 (China Standard Time) -->
 
 1. [原神新角色](https://www.zhihu.com/search?q=%E5%8E%9F%E7%A5%9E%E6%96%B0%E8%A7%92%E8%89%B2)
 1. [无线耳机](https://www.zhihu.com/search?q=%E6%97%A0%E7%BA%BF%E8%80%B3%E6%9C%BA)
+1. [蓝牙耳机](https://www.zhihu.com/search?q=%E8%93%9D%E7%89%99%E8%80%B3%E6%9C%BA)
 1. [国庆去哪玩](https://www.zhihu.com/search?q=%E5%9B%BD%E5%BA%86%E5%8E%BB%E5%93%AA%E7%8E%A9)
 1. [咒术回战237话](https://www.zhihu.com/search?q=%E5%92%92%E6%9C%AF%E5%9B%9E%E6%88%98237%E8%AF%9D)
 1. [花西子再发声](https://www.zhihu.com/search?q=%E8%8A%B1%E8%A5%BF%E5%AD%90%E5%86%8D%E5%8F%91%E5%A3%B0)
