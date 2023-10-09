@@ -14,14 +14,16 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Oct 09 2023 15:06:58 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Oct 09 2023 16:10:20 GMT+0800 (China Standard Time) -->
 
 1. [原神新角色](https://www.zhihu.com/search?q=%E5%8E%9F%E7%A5%9E%E6%96%B0%E8%A7%92%E8%89%B2)
 1. [Mate60Pro值得买吗](https://www.zhihu.com/search?q=Mate60Pro%E5%80%BC%E5%BE%97%E4%B9%B0%E5%90%97)
 1. [我的亚运记忆](https://www.zhihu.com/search?q=%E6%88%91%E7%9A%84%E4%BA%9A%E8%BF%90%E8%AE%B0%E5%BF%86)
 1. [无线耳机](https://www.zhihu.com/search?q=%E6%97%A0%E7%BA%BF%E8%80%B3%E6%9C%BA)
 1. [蓝牙耳机](https://www.zhihu.com/search?q=%E8%93%9D%E7%89%99%E8%80%B3%E6%9C%BA)
+1. [A股](https://www.zhihu.com/search?q=A%E8%82%A1)
 1. [国庆去哪玩](https://www.zhihu.com/search?q=%E5%9B%BD%E5%BA%86%E5%8E%BB%E5%93%AA%E7%8E%A9)
+1. [北京链家下调中介费率](https://www.zhihu.com/search?q=%E5%8C%97%E4%BA%AC%E9%93%BE%E5%AE%B6%E4%B8%8B%E8%B0%83%E4%B8%AD%E4%BB%8B%E8%B4%B9%E7%8E%87)
 1. [lol所有人频道回归](https://www.zhihu.com/search?q=lol%E6%89%80%E6%9C%89%E4%BA%BA%E9%A2%91%E9%81%93%E5%9B%9E%E5%BD%92)
 1. [咒术回战237话](https://www.zhihu.com/search?q=%E5%92%92%E6%9C%AF%E5%9B%9E%E6%88%98237%E8%AF%9D)
 1. [世界大学排名揭晓](https://www.zhihu.com/search?q=%E4%B8%96%E7%95%8C%E5%A4%A7%E5%AD%A6%E6%8E%92%E5%90%8D%E6%8F%AD%E6%99%93)
