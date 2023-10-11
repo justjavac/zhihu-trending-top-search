@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Oct 11 2023 14:10:14 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Oct 11 2023 15:07:03 GMT+0800 (China Standard Time) -->
 
 1. [世界精神卫生日](https://www.zhihu.com/search?q=%E4%B8%96%E7%95%8C%E7%B2%BE%E7%A5%9E%E5%8D%AB%E7%94%9F%E6%97%A5)
 1. [要不要买苹果15](https://www.zhihu.com/search?q=%E8%A6%81%E4%B8%8D%E8%A6%81%E4%B9%B0%E8%8B%B9%E6%9E%9C15)
@@ -25,6 +25,7 @@
 1. [路由器怎么选](https://www.zhihu.com/search?q=%E8%B7%AF%E7%94%B1%E5%99%A8%E6%80%8E%E4%B9%88%E9%80%89)
 1. [媒体评北极鲶鱼事件](https://www.zhihu.com/search?q=%E5%AA%92%E4%BD%93%E8%AF%84%E5%8C%97%E6%9E%81%E9%B2%B6%E9%B1%BC%E4%BA%8B%E4%BB%B6)
 1. [ios17](https://www.zhihu.com/search?q=ios17)
+1. [全球钻石价格暴跌](https://www.zhihu.com/search?q=%E5%85%A8%E7%90%83%E9%92%BB%E7%9F%B3%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C)
 1. [Mate60Pro值得买吗](https://www.zhihu.com/search?q=Mate60Pro%E5%80%BC%E5%BE%97%E4%B9%B0%E5%90%97)
 
 <!-- END -->
