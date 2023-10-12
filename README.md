@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Oct 12 2023 18:07:40 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Oct 12 2023 19:06:21 GMT+0800 (China Standard Time) -->
 
 1. [法考备考攻略](https://www.zhihu.com/search?q=%E6%B3%95%E8%80%83%E5%A4%87%E8%80%83%E6%94%BB%E7%95%A5)
 1. [世界精神卫生日](https://www.zhihu.com/search?q=%E4%B8%96%E7%95%8C%E7%B2%BE%E7%A5%9E%E5%8D%AB%E7%94%9F%E6%97%A5)
