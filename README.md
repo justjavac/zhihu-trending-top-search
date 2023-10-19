@@ -14,18 +14,19 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Oct 19 2023 16:09:43 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Oct 19 2023 17:07:10 GMT+0800 (China Standard Time) -->
 
 1. [Red Velvet](https://www.zhihu.com/search?q=Red%20Velvet)
 1. [双十一手机推荐](https://www.zhihu.com/search?q=%E5%8F%8C%E5%8D%81%E4%B8%80%E6%89%8B%E6%9C%BA%E6%8E%A8%E8%8D%90)
 1. [考研政治](https://www.zhihu.com/search?q=%E8%80%83%E7%A0%94%E6%94%BF%E6%B2%BB)
 1. [考研数学](https://www.zhihu.com/search?q=%E8%80%83%E7%A0%94%E6%95%B0%E5%AD%A6)
 1. [考研英语](https://www.zhihu.com/search?q=%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD)
-1. [米乳拿铁](https://www.zhihu.com/search?q=%E7%B1%B3%E4%B9%B3%E6%8B%BF%E9%93%81)
 1. [为什么苹果信号差](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%8B%B9%E6%9E%9C%E4%BF%A1%E5%8F%B7%E5%B7%AE)
 1. [台式机diy](https://www.zhihu.com/search?q=%E5%8F%B0%E5%BC%8F%E6%9C%BAdiy)
 1. [再见爱人](https://www.zhihu.com/search?q=%E5%86%8D%E8%A7%81%E7%88%B1%E4%BA%BA)
 1. [咒术回战](https://www.zhihu.com/search?q=%E5%92%92%E6%9C%AF%E5%9B%9E%E6%88%98)
+1. [鼠标差别真的大吗](https://www.zhihu.com/search?q=%E9%BC%A0%E6%A0%87%E5%B7%AE%E5%88%AB%E7%9C%9F%E7%9A%84%E5%A4%A7%E5%90%97)
+1. [米乳拿铁](https://www.zhihu.com/search?q=%E7%B1%B3%E4%B9%B3%E6%8B%BF%E9%93%81)
 
 <!-- END -->
 
