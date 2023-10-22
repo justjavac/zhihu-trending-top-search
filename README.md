@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Oct 22 2023 13:06:43 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Oct 22 2023 14:08:39 GMT+0800 (China Standard Time) -->
 
 1. [双十一手机推荐](https://www.zhihu.com/search?q=%E5%8F%8C%E5%8D%81%E4%B8%80%E6%89%8B%E6%9C%BA%E6%8E%A8%E8%8D%90)
 1. [考研政治](https://www.zhihu.com/search?q=%E8%80%83%E7%A0%94%E6%94%BF%E6%B2%BB)
@@ -25,6 +25,7 @@
 1. [大学电脑是刚需吗](https://www.zhihu.com/search?q=%E5%A4%A7%E5%AD%A6%E7%94%B5%E8%84%91%E6%98%AF%E5%88%9A%E9%9C%80%E5%90%97)
 1. [什么输入法打字快](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E8%BE%93%E5%85%A5%E6%B3%95%E6%89%93%E5%AD%97%E5%BF%AB)
 1. [A股](https://www.zhihu.com/search?q=A%E8%82%A1)
+1. [平板电脑推荐](https://www.zhihu.com/search?q=%E5%B9%B3%E6%9D%BF%E7%94%B5%E8%84%91%E6%8E%A8%E8%8D%90)
 1. [俄乌局势进展](https://www.zhihu.com/search?q=%E4%BF%84%E4%B9%8C%E5%B1%80%E5%8A%BF%E8%BF%9B%E5%B1%95)
 
 <!-- END -->
