@@ -14,8 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Oct 23 2023 11:07:45 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Oct 23 2023 12:08:42 GMT+0800 (China Standard Time) -->
 
+1. [双十一手机推荐](https://www.zhihu.com/search?q=%E5%8F%8C%E5%8D%81%E4%B8%80%E6%89%8B%E6%9C%BA%E6%8E%A8%E8%8D%90)
 1. [考研政治](https://www.zhihu.com/search?q=%E8%80%83%E7%A0%94%E6%94%BF%E6%B2%BB)
 1. [考研数学](https://www.zhihu.com/search?q=%E8%80%83%E7%A0%94%E6%95%B0%E5%AD%A6)
 1. [重阳节](https://www.zhihu.com/search?q=%E9%87%8D%E9%98%B3%E8%8A%82)
@@ -24,6 +25,7 @@
 1. [平板电脑推荐](https://www.zhihu.com/search?q=%E5%B9%B3%E6%9D%BF%E7%94%B5%E8%84%91%E6%8E%A8%E8%8D%90)
 1. [在职考研时间规划](https://www.zhihu.com/search?q=%E5%9C%A8%E8%81%8C%E8%80%83%E7%A0%94%E6%97%B6%E9%97%B4%E8%A7%84%E5%88%92)
 1. [2024国考报名教程](https://www.zhihu.com/search?q=2024%E5%9B%BD%E8%80%83%E6%8A%A5%E5%90%8D%E6%95%99%E7%A8%8B)
+1. [陈牧驰吴楚一](https://www.zhihu.com/search?q=%E9%99%88%E7%89%A7%E9%A9%B0%E5%90%B4%E6%A5%9A%E4%B8%80)
 1. [电脑壁纸4K](https://www.zhihu.com/search?q=%E7%94%B5%E8%84%91%E5%A3%81%E7%BA%B84K)
 1. [电脑内存怎么选](https://www.zhihu.com/search?q=%E7%94%B5%E8%84%91%E5%86%85%E5%AD%98%E6%80%8E%E4%B9%88%E9%80%89)
 1. [笔记本2023推荐](https://www.zhihu.com/search?q=%E7%AC%94%E8%AE%B0%E6%9C%AC2023%E6%8E%A8%E8%8D%90)
