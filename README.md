@@ -14,10 +14,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Oct 23 2023 10:16:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Oct 23 2023 11:07:45 GMT+0800 (China Standard Time) -->
 
 1. [考研政治](https://www.zhihu.com/search?q=%E8%80%83%E7%A0%94%E6%94%BF%E6%B2%BB)
 1. [考研数学](https://www.zhihu.com/search?q=%E8%80%83%E7%A0%94%E6%95%B0%E5%AD%A6)
+1. [重阳节](https://www.zhihu.com/search?q=%E9%87%8D%E9%98%B3%E8%8A%82)
 1. [考研英语](https://www.zhihu.com/search?q=%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD)
 1. [智能手表推荐](https://www.zhihu.com/search?q=%E6%99%BA%E8%83%BD%E6%89%8B%E8%A1%A8%E6%8E%A8%E8%8D%90)
 1. [平板电脑推荐](https://www.zhihu.com/search?q=%E5%B9%B3%E6%9D%BF%E7%94%B5%E8%84%91%E6%8E%A8%E8%8D%90)

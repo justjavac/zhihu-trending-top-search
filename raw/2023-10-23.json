@@ -1,6 +1,7 @@
 [
   { "query": "考研政治", "display_query": "考研政治" },
   { "query": "考研数学", "display_query": "考研数学" },
+  { "query": "重阳节", "display_query": "重阳节" },
   { "query": "考研英语", "display_query": "考研英语" },
   { "query": "智能手表推荐", "display_query": "智能手表推荐" },
   { "query": "平板电脑推荐", "display_query": "平板电脑推荐" },
