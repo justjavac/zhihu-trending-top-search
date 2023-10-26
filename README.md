@@ -14,18 +14,19 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Oct 26 2023 18:07:38 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Oct 26 2023 19:05:46 GMT+0800 (China Standard Time) -->
 
 1. [双十一手机推荐](https://www.zhihu.com/search?q=%E5%8F%8C%E5%8D%81%E4%B8%80%E6%89%8B%E6%9C%BA%E6%8E%A8%E8%8D%90)
 1. [再见爱人](https://www.zhihu.com/search?q=%E5%86%8D%E8%A7%81%E7%88%B1%E4%BA%BA)
 1. [智能手表推荐](https://www.zhihu.com/search?q=%E6%99%BA%E8%83%BD%E6%89%8B%E8%A1%A8%E6%8E%A8%E8%8D%90)
-1. [我们恋爱吧](https://www.zhihu.com/search?q=%E6%88%91%E4%BB%AC%E6%81%8B%E7%88%B1%E5%90%A7)
 1. [A股](https://www.zhihu.com/search?q=A%E8%82%A1)
 1. [今日股市](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5%E8%82%A1%E5%B8%82)
 1. [平板电脑推荐](https://www.zhihu.com/search?q=%E5%B9%B3%E6%9D%BF%E7%94%B5%E8%84%91%E6%8E%A8%E8%8D%90)
 1. [钻石价格下跌](https://www.zhihu.com/search?q=%E9%92%BB%E7%9F%B3%E4%BB%B7%E6%A0%BC%E4%B8%8B%E8%B7%8C)
 1. [耳机推荐](https://www.zhihu.com/search?q=%E8%80%B3%E6%9C%BA%E6%8E%A8%E8%8D%90)
 1. [以色列正式向哈马斯宣战](https://www.zhihu.com/search?q=%E4%BB%A5%E8%89%B2%E5%88%97%E6%AD%A3%E5%BC%8F%E5%90%91%E5%93%88%E9%A9%AC%E6%96%AF%E5%AE%A3%E6%88%98)
+1. [油价下调](https://www.zhihu.com/search?q=%E6%B2%B9%E4%BB%B7%E4%B8%8B%E8%B0%83)
+1. [我们恋爱吧](https://www.zhihu.com/search?q=%E6%88%91%E4%BB%AC%E6%81%8B%E7%88%B1%E5%90%A7)
 1. [三大指数集体低开](https://www.zhihu.com/search?q=%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80)
 1. [美联储暂停加息](https://www.zhihu.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8%E6%9A%82%E5%81%9C%E5%8A%A0%E6%81%AF)
 1. [保养大脑有用吗](https://www.zhihu.com/search?q=%E4%BF%9D%E5%85%BB%E5%A4%A7%E8%84%91%E6%9C%89%E7%94%A8%E5%90%97)
