@@ -1,11 +1,13 @@
 [
   { "query": "双十一手机推荐", "display_query": "双十一手机推荐" },
+  { "query": "拜登下令美军空袭叙利亚", "display_query": "拜登下令美军空袭叙利亚" },
   { "query": "嵌入式冰箱推荐", "display_query": "嵌入式冰箱推荐" },
   { "query": "三大指数集体低开", "display_query": "三大指数集体低开" },
   { "query": "智能手表推荐", "display_query": "智能手表推荐" },
   { "query": "平板电脑推荐", "display_query": "平板电脑推荐" },
   { "query": "以色列正式向哈马斯宣战", "display_query": "以色列正式向哈马斯宣战" },
   { "query": "秋招环境更差", "display_query": "秋招环境更差" },
+  { "query": "油价下调", "display_query": "油价下调" },
   { "query": "国考备考经验", "display_query": "国考备考经验" },
   { "query": "买高铁票时可以选静音车厢", "display_query": "买高铁票时可以选静音车厢" },
   { "query": "以色列战争成本68亿美元", "display_query": "以色列战争成本68亿美元" },
@@ -14,6 +16,5 @@
   { "query": "A股", "display_query": "A股" },
   { "query": "今日股市", "display_query": "今日股市" },
   { "query": "钻石价格下跌", "display_query": "钻石价格下跌" },
-  { "query": "耳机推荐", "display_query": "耳机推荐" },
-  { "query": "油价下调", "display_query": "油价下调" }
+  { "query": "耳机推荐", "display_query": "耳机推荐" }
 ]
