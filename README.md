@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Oct 28 2023 06:06:28 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Oct 28 2023 07:06:22 GMT+0800 (China Standard Time) -->
 
 1. [双十一手机推荐](https://www.zhihu.com/search?q=%E5%8F%8C%E5%8D%81%E4%B8%80%E6%89%8B%E6%9C%BA%E6%8E%A8%E8%8D%90)
 1. [拜登下令美军空袭叙利亚](https://www.zhihu.com/search?q=%E6%8B%9C%E7%99%BB%E4%B8%8B%E4%BB%A4%E7%BE%8E%E5%86%9B%E7%A9%BA%E8%A2%AD%E5%8F%99%E5%88%A9%E4%BA%9A)
