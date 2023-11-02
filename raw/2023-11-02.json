@@ -5,6 +5,7 @@
   { "query": "A股", "display_query": "A股" },
   { "query": "优衣库涨薪", "display_query": "优衣库涨薪" },
   { "query": "金鸡奖", "display_query": "金鸡奖" },
+  { "query": "非全日制计算机研究生", "display_query": "非全日制计算机研究生" },
   { "query": "考研流程详解", "display_query": "考研流程详解" },
   { "query": "国考备考经验", "display_query": "国考备考经验" },
   { "query": "city work", "display_query": "city work" },
