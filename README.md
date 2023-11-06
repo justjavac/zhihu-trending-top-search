@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Nov 06 2023 18:08:10 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Nov 06 2023 19:06:18 GMT+0800 (China Standard Time) -->
 
 1. [双十一手机推荐](https://www.zhihu.com/search?q=%E5%8F%8C%E5%8D%81%E4%B8%80%E6%89%8B%E6%9C%BA%E6%8E%A8%E8%8D%90)
 1. [华为mate60](https://www.zhihu.com/search?q=%E5%8D%8E%E4%B8%BAmate60)
@@ -25,6 +25,7 @@
 1. [蓝牙耳机](https://www.zhihu.com/search?q=%E8%93%9D%E7%89%99%E8%80%B3%E6%9C%BA)
 1. [显示器](https://www.zhihu.com/search?q=%E6%98%BE%E7%A4%BA%E5%99%A8)
 1. [游戏显示器推荐](https://www.zhihu.com/search?q=%E6%B8%B8%E6%88%8F%E6%98%BE%E7%A4%BA%E5%99%A8%E6%8E%A8%E8%8D%90)
+1. [A股](https://www.zhihu.com/search?q=A%E8%82%A1)
 1. [流量卡](https://www.zhihu.com/search?q=%E6%B5%81%E9%87%8F%E5%8D%A1)
 1. [苹果为什么会放弃3D Touch](https://www.zhihu.com/search?q=%E8%8B%B9%E6%9E%9C%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E6%94%BE%E5%BC%833D%20Touch)
 1. [摩尔线程显卡](https://www.zhihu.com/search?q=%E6%91%A9%E5%B0%94%E7%BA%BF%E7%A8%8B%E6%98%BE%E5%8D%A1)
