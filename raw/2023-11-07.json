@@ -1,5 +1,5 @@
 [
-  { "query": "短视频剪辑", "display_query": "短视频剪辑" },
+  { "query": "怎么剪辑视频", "display_query": "怎么剪辑视频" },
   { "query": "董明珠首次回应孟羽童离职", "display_query": "董明珠首次回应孟羽童离职" },
   { "query": "特斯拉又要涨价", "display_query": "特斯拉又要涨价" },
   { "query": "官方通报医院公开贩卖婴儿出生证", "display_query": "官方通报医院公开贩卖婴儿出生证" },
@@ -9,6 +9,7 @@
   { "query": "你玩过节奏大师吗", "display_query": "你玩过节奏大师吗" },
   { "query": "原神芙宁娜", "display_query": "原神芙宁娜" },
   { "query": "宁安如梦", "display_query": "宁安如梦" },
+  { "query": "短视频剪辑", "display_query": "短视频剪辑" },
   { "query": "离婚律师很难做吗", "display_query": "离婚律师很难做吗" },
   { "query": "上官吉庆再被通报", "display_query": "上官吉庆再被通报" },
   { "query": "AI眼中的中国", "display_query": "AI眼中的中国" },
