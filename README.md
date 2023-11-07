@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Nov 07 2023 15:06:40 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Nov 07 2023 16:09:39 GMT+0800 (China Standard Time) -->
 
 1. [友情最可怕的不是绝交](https://www.zhihu.com/search?q=%E5%8F%8B%E6%83%85%E6%9C%80%E5%8F%AF%E6%80%95%E7%9A%84%E4%B8%8D%E6%98%AF%E7%BB%9D%E4%BA%A4)
 1. [李现工作室](https://www.zhihu.com/search?q=%E6%9D%8E%E7%8E%B0%E5%B7%A5%E4%BD%9C%E5%AE%A4)
