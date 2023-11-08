@@ -14,18 +14,19 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Nov 08 2023 17:07:03 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Nov 08 2023 18:07:41 GMT+0800 (China Standard Time) -->
 
-1. [雅安油罐车爆燃已致2死2伤](https://www.zhihu.com/search?q=%E9%9B%85%E5%AE%89%E6%B2%B9%E7%BD%90%E8%BD%A6%E7%88%86%E7%87%83%E5%B7%B2%E8%87%B42%E6%AD%BB2%E4%BC%A4)
+1. [粤水电变更为广东建工](https://www.zhihu.com/search?q=%E7%B2%A4%E6%B0%B4%E7%94%B5%E5%8F%98%E6%9B%B4%E4%B8%BA%E5%B9%BF%E4%B8%9C%E5%BB%BA%E5%B7%A5)
 1. [记者节](https://www.zhihu.com/search?q=%E8%AE%B0%E8%80%85%E8%8A%82)
+1. [雅安油罐车爆燃已致2死2伤](https://www.zhihu.com/search?q=%E9%9B%85%E5%AE%89%E6%B2%B9%E7%BD%90%E8%BD%A6%E7%88%86%E7%87%83%E5%B7%B2%E8%87%B42%E6%AD%BB2%E4%BC%A4)
 1. [“70后”干部唐小锋忏悔录](https://www.zhihu.com/search?q=%E2%80%9C70%E5%90%8E%E2%80%9D%E5%B9%B2%E9%83%A8%E5%94%90%E5%B0%8F%E9%94%8B%E5%BF%8F%E6%82%94%E5%BD%95)
 1. [《红毯先生》延至明年春节档](https://www.zhihu.com/search?q=%E3%80%8A%E7%BA%A2%E6%AF%AF%E5%85%88%E7%94%9F%E3%80%8B%E5%BB%B6%E8%87%B3%E6%98%8E%E5%B9%B4%E6%98%A5%E8%8A%82%E6%A1%A3)
 1. [辽篮：将为杨鸣颁发总冠军戒指](https://www.zhihu.com/search?q=%E8%BE%BD%E7%AF%AE%EF%BC%9A%E5%B0%86%E4%B8%BA%E6%9D%A8%E9%B8%A3%E9%A2%81%E5%8F%91%E6%80%BB%E5%86%A0%E5%86%9B%E6%88%92%E6%8C%87)
-1. [何小鹏 关于AEB的看法](https://www.zhihu.com/search?q=%E4%BD%95%E5%B0%8F%E9%B9%8F%20%E5%85%B3%E4%BA%8EAEB%E7%9A%84%E7%9C%8B%E6%B3%95)
 1. [内行人眼中的全屋定制](https://www.zhihu.com/search?q=%E5%86%85%E8%A1%8C%E4%BA%BA%E7%9C%BC%E4%B8%AD%E7%9A%84%E5%85%A8%E5%B1%8B%E5%AE%9A%E5%88%B6)
 1. [三大指数集体低开](https://www.zhihu.com/search?q=%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80)
-1. [炎亚纶回应被公诉](https://www.zhihu.com/search?q=%E7%82%8E%E4%BA%9A%E7%BA%B6%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%85%AC%E8%AF%89)
+1. [何小鹏 关于AEB的看法](https://www.zhihu.com/search?q=%E4%BD%95%E5%B0%8F%E9%B9%8F%20%E5%85%B3%E4%BA%8EAEB%E7%9A%84%E7%9C%8B%E6%B3%95)
 1. [欧冠](https://www.zhihu.com/search?q=%E6%AC%A7%E5%86%A0)
+1. [炎亚纶回应被公诉](https://www.zhihu.com/search?q=%E7%82%8E%E4%BA%9A%E7%BA%B6%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%85%AC%E8%AF%89)
 1. [里夫斯谈詹姆斯最后的传球选择](https://www.zhihu.com/search?q=%E9%87%8C%E5%A4%AB%E6%96%AF%E8%B0%88%E8%A9%B9%E5%A7%86%E6%96%AF%E6%9C%80%E5%90%8E%E7%9A%84%E4%BC%A0%E7%90%83%E9%80%89%E6%8B%A9)
 1. [我们真的高性能手机吗](https://www.zhihu.com/search?q=%E6%88%91%E4%BB%AC%E7%9C%9F%E7%9A%84%E9%AB%98%E6%80%A7%E8%83%BD%E6%89%8B%E6%9C%BA%E5%90%97)
 1. [未来什么会取代手机](https://www.zhihu.com/search?q=%E6%9C%AA%E6%9D%A5%E4%BB%80%E4%B9%88%E4%BC%9A%E5%8F%96%E4%BB%A3%E6%89%8B%E6%9C%BA)
