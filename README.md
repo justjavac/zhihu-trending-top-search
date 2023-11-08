@@ -14,15 +14,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Nov 08 2023 15:09:16 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Nov 08 2023 16:09:10 GMT+0800 (China Standard Time) -->
 
+1. [里夫斯谈詹姆斯最后的传球选择](https://www.zhihu.com/search?q=%E9%87%8C%E5%A4%AB%E6%96%AF%E8%B0%88%E8%A9%B9%E5%A7%86%E6%96%AF%E6%9C%80%E5%90%8E%E7%9A%84%E4%BC%A0%E7%90%83%E9%80%89%E6%8B%A9)
+1. [我们真的高性能手机吗](https://www.zhihu.com/search?q=%E6%88%91%E4%BB%AC%E7%9C%9F%E7%9A%84%E9%AB%98%E6%80%A7%E8%83%BD%E6%89%8B%E6%9C%BA%E5%90%97)
+1. [未来什么会取代手机](https://www.zhihu.com/search?q=%E6%9C%AA%E6%9D%A5%E4%BB%80%E4%B9%88%E4%BC%9A%E5%8F%96%E4%BB%A3%E6%89%8B%E6%9C%BA)
+1. [为何手机不设置成两块电池](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E6%89%8B%E6%9C%BA%E4%B8%8D%E8%AE%BE%E7%BD%AE%E6%88%90%E4%B8%A4%E5%9D%97%E7%94%B5%E6%B1%A0)
+1. [为何雷军承认澎湃基于安卓](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E9%9B%B7%E5%86%9B%E6%89%BF%E8%AE%A4%E6%BE%8E%E6%B9%83%E5%9F%BA%E4%BA%8E%E5%AE%89%E5%8D%93)
+1. [内行人眼中的全屋定制](https://www.zhihu.com/search?q=%E5%86%85%E8%A1%8C%E4%BA%BA%E7%9C%BC%E4%B8%AD%E7%9A%84%E5%85%A8%E5%B1%8B%E5%AE%9A%E5%88%B6)
+1. [为何手机充电口不是圆孔的](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E6%89%8B%E6%9C%BA%E5%85%85%E7%94%B5%E5%8F%A3%E4%B8%8D%E6%98%AF%E5%9C%86%E5%AD%94%E7%9A%84)
+1. [欧冠](https://www.zhihu.com/search?q=%E6%AC%A7%E5%86%A0)
+1. [立冬吃饺子了吗](https://www.zhihu.com/search?q=%E7%AB%8B%E5%86%AC%E5%90%83%E9%A5%BA%E5%AD%90%E4%BA%86%E5%90%97)
 1. [王自如 没看过工资条](https://www.zhihu.com/search?q=%E7%8E%8B%E8%87%AA%E5%A6%82%20%E6%B2%A1%E7%9C%8B%E8%BF%87%E5%B7%A5%E8%B5%84%E6%9D%A1)
 1. [立冬的第一条祝福](https://www.zhihu.com/search?q=%E7%AB%8B%E5%86%AC%E7%9A%84%E7%AC%AC%E4%B8%80%E6%9D%A1%E7%A5%9D%E7%A6%8F)
 1. [巴萨0:1不敌矿工](https://www.zhihu.com/search?q=%E5%B7%B4%E8%90%A80%3A1%E4%B8%8D%E6%95%8C%E7%9F%BF%E5%B7%A5)
 1. [欧足联预测米兰vs巴黎首发](https://www.zhihu.com/search?q=%E6%AC%A7%E8%B6%B3%E8%81%94%E9%A2%84%E6%B5%8B%E7%B1%B3%E5%85%B0vs%E5%B7%B4%E9%BB%8E%E9%A6%96%E5%8F%91)
-1. [内行人眼中的全屋定制](https://www.zhihu.com/search?q=%E5%86%85%E8%A1%8C%E4%BA%BA%E7%9C%BC%E4%B8%AD%E7%9A%84%E5%85%A8%E5%B1%8B%E5%AE%9A%E5%88%B6)
 1. [你家立冬吃什么](https://www.zhihu.com/search?q=%E4%BD%A0%E5%AE%B6%E7%AB%8B%E5%86%AC%E5%90%83%E4%BB%80%E4%B9%88)
-1. [欧冠](https://www.zhihu.com/search?q=%E6%AC%A7%E5%86%A0)
 1. [“乌镇时间”今日开启](https://www.zhihu.com/search?q=%E2%80%9C%E4%B9%8C%E9%95%87%E6%97%B6%E9%97%B4%E2%80%9D%E4%BB%8A%E6%97%A5%E5%BC%80%E5%90%AF)
 1. [哈工大回应学生上课像登机](https://www.zhihu.com/search?q=%E5%93%88%E5%B7%A5%E5%A4%A7%E5%9B%9E%E5%BA%94%E5%AD%A6%E7%94%9F%E4%B8%8A%E8%AF%BE%E5%83%8F%E7%99%BB%E6%9C%BA)
 1. [中山二院称近年有3人患癌](https://www.zhihu.com/search?q=%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A2%E7%A7%B0%E8%BF%91%E5%B9%B4%E6%9C%893%E4%BA%BA%E6%82%A3%E7%99%8C)
