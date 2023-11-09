@@ -14,24 +14,31 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Nov 09 2023 15:06:41 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Nov 09 2023 16:09:28 GMT+0800 (China Standard Time) -->
 
+1. [你的家乡立冬有什么习俗](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9A%84%E5%AE%B6%E4%B9%A1%E7%AB%8B%E5%86%AC%E6%9C%89%E4%BB%80%E4%B9%88%E4%B9%A0%E4%BF%97)
+1. [特斯拉涨价](https://www.zhihu.com/search?q=%E7%89%B9%E6%96%AF%E6%8B%89%E6%B6%A8%E4%BB%B7)
+1. [僧丫](https://www.zhihu.com/search?q=%E5%83%A7%E4%B8%AB)
+1. [内行人眼中的全屋定制](https://www.zhihu.com/search?q=%E5%86%85%E8%A1%8C%E4%BA%BA%E7%9C%BC%E4%B8%AD%E7%9A%84%E5%85%A8%E5%B1%8B%E5%AE%9A%E5%88%B6)
+1. [三大指数集体低开](https://www.zhihu.com/search?q=%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80)
+1. [刘媛媛直播间回应被指虚假宣传](https://www.zhihu.com/search?q=%E5%88%98%E5%AA%9B%E5%AA%9B%E7%9B%B4%E6%92%AD%E9%97%B4%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%8C%87%E8%99%9A%E5%81%87%E5%AE%A3%E4%BC%A0)
+1. [凯恩进球停不下来](https://www.zhihu.com/search?q=%E5%87%AF%E6%81%A9%E8%BF%9B%E7%90%83%E5%81%9C%E4%B8%8D%E4%B8%8B%E6%9D%A5)
+1. [罗翔代言瑞幸 为酱香拿铁普法](https://www.zhihu.com/search?q=%E7%BD%97%E7%BF%94%E4%BB%A3%E8%A8%80%E7%91%9E%E5%B9%B8%20%E4%B8%BA%E9%85%B1%E9%A6%99%E6%8B%BF%E9%93%81%E6%99%AE%E6%B3%95)
+1. [刘媛媛曾6小时带货超1亿元](https://www.zhihu.com/search?q=%E5%88%98%E5%AA%9B%E5%AA%9B%E6%9B%BE6%E5%B0%8F%E6%97%B6%E5%B8%A6%E8%B4%A7%E8%B6%851%E4%BA%BF%E5%85%83)
+1. [A股](https://www.zhihu.com/search?q=A%E8%82%A1)
 1. [刘媛媛直播带货被控虚假宣传](https://www.zhihu.com/search?q=%E5%88%98%E5%AA%9B%E5%AA%9B%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7%E8%A2%AB%E6%8E%A7%E8%99%9A%E5%81%87%E5%AE%A3%E4%BC%A0)
 1. [无期迷途 删角色](https://www.zhihu.com/search?q=%E6%97%A0%E6%9C%9F%E8%BF%B7%E9%80%94%20%E5%88%A0%E8%A7%92%E8%89%B2)
 1. [刘亦菲张靓颖合照](https://www.zhihu.com/search?q=%E5%88%98%E4%BA%A6%E8%8F%B2%E5%BC%A0%E9%9D%93%E9%A2%96%E5%90%88%E7%85%A7)
-1. [内行人眼中的全屋定制](https://www.zhihu.com/search?q=%E5%86%85%E8%A1%8C%E4%BA%BA%E7%9C%BC%E4%B8%AD%E7%9A%84%E5%85%A8%E5%B1%8B%E5%AE%9A%E5%88%B6)
 1. [网红仲尼系生日当天溺亡](https://www.zhihu.com/search?q=%E7%BD%91%E7%BA%A2%E4%BB%B2%E5%B0%BC%E7%B3%BB%E7%94%9F%E6%97%A5%E5%BD%93%E5%A4%A9%E6%BA%BA%E4%BA%A1)
 1. [媒体：中山二院患癌事件不寻常](https://www.zhihu.com/search?q=%E5%AA%92%E4%BD%93%EF%BC%9A%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A2%E6%82%A3%E7%99%8C%E4%BA%8B%E4%BB%B6%E4%B8%8D%E5%AF%BB%E5%B8%B8)
 1. [瑞幸 罗翔](https://www.zhihu.com/search?q=%E7%91%9E%E5%B9%B8%20%E7%BD%97%E7%BF%94)
 1. [中山二院黄某家属称其病情严重](https://www.zhihu.com/search?q=%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A2%E9%BB%84%E6%9F%90%E5%AE%B6%E5%B1%9E%E7%A7%B0%E5%85%B6%E7%97%85%E6%83%85%E4%B8%A5%E9%87%8D)
-1. [A股](https://www.zhihu.com/search?q=A%E8%82%A1)
 1. [陈建斌蒋勤勤否认离婚](https://www.zhihu.com/search?q=%E9%99%88%E5%BB%BA%E6%96%8C%E8%92%8B%E5%8B%A4%E5%8B%A4%E5%90%A6%E8%AE%A4%E7%A6%BB%E5%A9%9A)
 1. [立冬](https://www.zhihu.com/search?q=%E7%AB%8B%E5%86%AC)
 1. [记者节](https://www.zhihu.com/search?q=%E8%AE%B0%E8%80%85%E8%8A%82)
 1. [双十一手机推荐](https://www.zhihu.com/search?q=%E5%8F%8C%E5%8D%81%E4%B8%80%E6%89%8B%E6%9C%BA%E6%8E%A8%E8%8D%90)
 1. [华为mate60](https://www.zhihu.com/search?q=%E5%8D%8E%E4%B8%BAmate60)
 1. [iphone15](https://www.zhihu.com/search?q=iphone15)
-1. [三大指数集体低开](https://www.zhihu.com/search?q=%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80)
 1. [华为mate60pro](https://www.zhihu.com/search?q=%E5%8D%8E%E4%B8%BAmate60pro)
 1. [欧冠](https://www.zhihu.com/search?q=%E6%AC%A7%E5%86%A0)
 1. [智能手表推荐](https://www.zhihu.com/search?q=%E6%99%BA%E8%83%BD%E6%89%8B%E8%A1%A8%E6%8E%A8%E8%8D%90)
