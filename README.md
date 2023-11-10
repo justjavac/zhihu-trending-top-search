@@ -14,14 +14,19 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Nov 10 2023 17:07:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Nov 10 2023 18:07:39 GMT+0800 (China Standard Time) -->
 
-1. [全大核CPU架构的天玑9300](https://www.zhihu.com/search?q=%E5%85%A8%E5%A4%A7%E6%A0%B8CPU%E6%9E%B6%E6%9E%84%E7%9A%84%E5%A4%A9%E7%8E%919300)
+1. [当洗碗机模拟行星轨迹运行](https://www.zhihu.com/search?q=%E5%BD%93%E6%B4%97%E7%A2%97%E6%9C%BA%E6%A8%A1%E6%8B%9F%E8%A1%8C%E6%98%9F%E8%BD%A8%E8%BF%B9%E8%BF%90%E8%A1%8C)
+1. [最顶尖的电脑能用几年](https://www.zhihu.com/search?q=%E6%9C%80%E9%A1%B6%E5%B0%96%E7%9A%84%E7%94%B5%E8%84%91%E8%83%BD%E7%94%A8%E5%87%A0%E5%B9%B4)
+1. [为何电脑只能安一个CPU](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E7%94%B5%E8%84%91%E5%8F%AA%E8%83%BD%E5%AE%89%E4%B8%80%E4%B8%AACPU)
+1. [用台式电脑丢人吗](https://www.zhihu.com/search?q=%E7%94%A8%E5%8F%B0%E5%BC%8F%E7%94%B5%E8%84%91%E4%B8%A2%E4%BA%BA%E5%90%97)
+1. [内行人眼中的全屋定制](https://www.zhihu.com/search?q=%E5%86%85%E8%A1%8C%E4%BA%BA%E7%9C%BC%E4%B8%AD%E7%9A%84%E5%85%A8%E5%B1%8B%E5%AE%9A%E5%88%B6)
+1. [三大指数集体低开](https://www.zhihu.com/search?q=%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80)
+1. [何同学「潜入」华为实验室](https://www.zhihu.com/search?q=%E4%BD%95%E5%90%8C%E5%AD%A6%E3%80%8C%E6%BD%9C%E5%85%A5%E3%80%8D%E5%8D%8E%E4%B8%BA%E5%AE%9E%E9%AA%8C%E5%AE%A4)
 1. [知名滑雪教练周雅萍去世](https://www.zhihu.com/search?q=%E7%9F%A5%E5%90%8D%E6%BB%91%E9%9B%AA%E6%95%99%E7%BB%83%E5%91%A8%E9%9B%85%E8%90%8D%E5%8E%BB%E4%B8%96)
 1. [电影追缉尺度](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1%E8%BF%BD%E7%BC%89%E5%B0%BA%E5%BA%A6)
 1. [山东的新主角登场了](https://www.zhihu.com/search?q=%E5%B1%B1%E4%B8%9C%E7%9A%84%E6%96%B0%E4%B8%BB%E8%A7%92%E7%99%BB%E5%9C%BA%E4%BA%86)
-1. [内行人眼中的全屋定制](https://www.zhihu.com/search?q=%E5%86%85%E8%A1%8C%E4%BA%BA%E7%9C%BC%E4%B8%AD%E7%9A%84%E5%85%A8%E5%B1%8B%E5%AE%9A%E5%88%B6)
-1. [三大指数集体低开](https://www.zhihu.com/search?q=%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80)
+1. [全大核CPU架构的天玑9300](https://www.zhihu.com/search?q=%E5%85%A8%E5%A4%A7%E6%A0%B8CPU%E6%9E%B6%E6%9E%84%E7%9A%84%E5%A4%A9%E7%8E%919300)
 1. [姚振华拟被拘留？法院正核查](https://www.zhihu.com/search?q=%E5%A7%9A%E6%8C%AF%E5%8D%8E%E6%8B%9F%E8%A2%AB%E6%8B%98%E7%95%99%EF%BC%9F%E6%B3%95%E9%99%A2%E6%AD%A3%E6%A0%B8%E6%9F%A5)
 1. [多地“一点点”出现闭店情况](https://www.zhihu.com/search?q=%E5%A4%9A%E5%9C%B0%E2%80%9C%E4%B8%80%E7%82%B9%E7%82%B9%E2%80%9D%E5%87%BA%E7%8E%B0%E9%97%AD%E5%BA%97%E6%83%85%E5%86%B5)
 1. [惊喜夜节目单](https://www.zhihu.com/search?q=%E6%83%8A%E5%96%9C%E5%A4%9C%E8%8A%82%E7%9B%AE%E5%8D%95)
