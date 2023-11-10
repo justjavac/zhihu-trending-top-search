@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Nov 10 2023 21:09:34 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Nov 10 2023 22:06:36 GMT+0800 (China Standard Time) -->
 
 1. [性能和价格双在线的数码好物](https://www.zhihu.com/search?q=%E6%80%A7%E8%83%BD%E5%92%8C%E4%BB%B7%E6%A0%BC%E5%8F%8C%E5%9C%A8%E7%BA%BF%E7%9A%84%E6%95%B0%E7%A0%81%E5%A5%BD%E7%89%A9)
 1. [KTV 衰退的趋势肉眼可见](https://www.zhihu.com/search?q=KTV%20%E8%A1%B0%E9%80%80%E7%9A%84%E8%B6%8B%E5%8A%BF%E8%82%89%E7%9C%BC%E5%8F%AF%E8%A7%81)
