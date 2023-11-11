@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Nov 11 2023 20:11:34 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Nov 11 2023 21:06:44 GMT+0800 (China Standard Time) -->
 
 1. [WBG对战BLG](https://www.zhihu.com/search?q=WBG%E5%AF%B9%E6%88%98BLG)
 1. [反诈老陈」成吃播博主](https://www.zhihu.com/search?q=%E5%8F%8D%E8%AF%88%E8%80%81%E9%99%88%E3%80%8D%E6%88%90%E5%90%83%E6%92%AD%E5%8D%9A%E4%B8%BB)
