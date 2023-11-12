@@ -14,12 +14,12 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Nov 12 2023 13:06:38 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Nov 12 2023 14:08:51 GMT+0800 (China Standard Time) -->
 
 1. [三大指数集体低开](https://www.zhihu.com/search?q=%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80)
 1. [日本知名乳业品牌明治牛奶检出兽药](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E7%9F%A5%E5%90%8D%E4%B9%B3%E4%B8%9A%E5%93%81%E7%89%8C%E6%98%8E%E6%B2%BB%E7%89%9B%E5%A5%B6%E6%A3%80%E5%87%BA%E5%85%BD%E8%8D%AF)
-1. [以军称哈马斯失去对加沙地带北部控制](https://www.zhihu.com/search?q=%E4%BB%A5%E5%86%9B%E7%A7%B0%E5%93%88%E9%A9%AC%E6%96%AF%E5%A4%B1%E5%8E%BB%E5%AF%B9%E5%8A%A0%E6%B2%99%E5%9C%B0%E5%B8%A6%E5%8C%97%E9%83%A8%E6%8E%A7%E5%88%B6)
 1. [原神芙宁娜](https://www.zhihu.com/search?q=%E5%8E%9F%E7%A5%9E%E8%8A%99%E5%AE%81%E5%A8%9C)
+1. [以军称哈马斯失去对加沙地带北部控制](https://www.zhihu.com/search?q=%E4%BB%A5%E5%86%9B%E7%A7%B0%E5%93%88%E9%A9%AC%E6%96%AF%E5%A4%B1%E5%8E%BB%E5%AF%B9%E5%8A%A0%E6%B2%99%E5%9C%B0%E5%B8%A6%E5%8C%97%E9%83%A8%E6%8E%A7%E5%88%B6)
 1. [阿里、京东发布双十一成绩单](https://www.zhihu.com/search?q=%E9%98%BF%E9%87%8C%E3%80%81%E4%BA%AC%E4%B8%9C%E5%8F%91%E5%B8%83%E5%8F%8C%E5%8D%81%E4%B8%80%E6%88%90%E7%BB%A9%E5%8D%95)
 1. [欧洲、韩国等多地爆发床虱危机](https://www.zhihu.com/search?q=%E6%AC%A7%E6%B4%B2%E3%80%81%E9%9F%A9%E5%9B%BD%E7%AD%89%E5%A4%9A%E5%9C%B0%E7%88%86%E5%8F%91%E5%BA%8A%E8%99%B1%E5%8D%B1%E6%9C%BA)
 1. [A股市场表现](https://www.zhihu.com/search?q=A%E8%82%A1%E5%B8%82%E5%9C%BA%E8%A1%A8%E7%8E%B0)
