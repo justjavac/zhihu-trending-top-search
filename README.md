@@ -14,8 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Nov 12 2023 20:11:35 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Nov 12 2023 21:07:06 GMT+0800 (China Standard Time) -->
 
+1. [T1 晋级总决赛](https://www.zhihu.com/search?q=T1%20%E6%99%8B%E7%BA%A7%E6%80%BB%E5%86%B3%E8%B5%9B)
 1. [内行人眼中的全屋定制](https://www.zhihu.com/search?q=%E5%86%85%E8%A1%8C%E4%BA%BA%E7%9C%BC%E4%B8%AD%E7%9A%84%E5%85%A8%E5%B1%8B%E5%AE%9A%E5%88%B6)
 1. [蓝牙耳机](https://www.zhihu.com/search?q=%E8%93%9D%E7%89%99%E8%80%B3%E6%9C%BA)
 1. [降噪耳机](https://www.zhihu.com/search?q=%E9%99%8D%E5%99%AA%E8%80%B3%E6%9C%BA)
