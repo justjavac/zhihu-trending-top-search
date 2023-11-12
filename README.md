@@ -14,9 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Nov 12 2023 18:06:31 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Nov 12 2023 19:05:46 GMT+0800 (China Standard Time) -->
 
-1. [视频剪辑软件推荐手机](https://www.zhihu.com/search?q=%E8%A7%86%E9%A2%91%E5%89%AA%E8%BE%91%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90%E6%89%8B%E6%9C%BA)
+1. [剪辑视频素材哪里找](https://www.zhihu.com/search?q=%E5%89%AA%E8%BE%91%E8%A7%86%E9%A2%91%E7%B4%A0%E6%9D%90%E5%93%AA%E9%87%8C%E6%89%BE)
+1. [今年双十一冷清的原因找到了](https://www.zhihu.com/search?q=%E4%BB%8A%E5%B9%B4%E5%8F%8C%E5%8D%81%E4%B8%80%E5%86%B7%E6%B8%85%E7%9A%84%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86)
 1. [湖北襄阳医院贩卖出生证 6 人被批捕](https://www.zhihu.com/search?q=%E6%B9%96%E5%8C%97%E8%A5%84%E9%98%B3%E5%8C%BB%E9%99%A2%E8%B4%A9%E5%8D%96%E5%87%BA%E7%94%9F%E8%AF%81%206%20%E4%BA%BA%E8%A2%AB%E6%89%B9%E6%8D%95)
 1. [日本知名乳业品牌明治牛奶检出兽药](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E7%9F%A5%E5%90%8D%E4%B9%B3%E4%B8%9A%E5%93%81%E7%89%8C%E6%98%8E%E6%B2%BB%E7%89%9B%E5%A5%B6%E6%A3%80%E5%87%BA%E5%85%BD%E8%8D%AF)
 1. [以军称哈马斯失去对加沙地带北部控制](https://www.zhihu.com/search?q=%E4%BB%A5%E5%86%9B%E7%A7%B0%E5%93%88%E9%A9%AC%E6%96%AF%E5%A4%B1%E5%8E%BB%E5%AF%B9%E5%8A%A0%E6%B2%99%E5%9C%B0%E5%B8%A6%E5%8C%97%E9%83%A8%E6%8E%A7%E5%88%B6)
@@ -24,6 +25,8 @@
 1. [欧洲、韩国等多地爆发床虱危机](https://www.zhihu.com/search?q=%E6%AC%A7%E6%B4%B2%E3%80%81%E9%9F%A9%E5%9B%BD%E7%AD%89%E5%A4%9A%E5%9C%B0%E7%88%86%E5%8F%91%E5%BA%8A%E8%99%B1%E5%8D%B1%E6%9C%BA)
 1. [国家一级导演车径行去世](https://www.zhihu.com/search?q=%E5%9B%BD%E5%AE%B6%E4%B8%80%E7%BA%A7%E5%AF%BC%E6%BC%94%E8%BD%A6%E5%BE%84%E8%A1%8C%E5%8E%BB%E4%B8%96)
 1. [温州民房坍塌致3死](https://www.zhihu.com/search?q=%E6%B8%A9%E5%B7%9E%E6%B0%91%E6%88%BF%E5%9D%8D%E5%A1%8C%E8%87%B43%E6%AD%BB)
+1. [万元洗烘套装推荐](https://www.zhihu.com/search?q=%E4%B8%87%E5%85%83%E6%B4%97%E7%83%98%E5%A5%97%E8%A3%85%E6%8E%A8%E8%8D%90)
+1. [视频剪辑软件推荐手机](https://www.zhihu.com/search?q=%E8%A7%86%E9%A2%91%E5%89%AA%E8%BE%91%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90%E6%89%8B%E6%9C%BA)
 1. [WBG对战BLG](https://www.zhihu.com/search?q=WBG%E5%AF%B9%E6%88%98BLG)
 1. [反诈老陈」成吃播博主](https://www.zhihu.com/search?q=%E5%8F%8D%E8%AF%88%E8%80%81%E9%99%88%E3%80%8D%E6%88%90%E5%90%83%E6%92%AD%E5%8D%9A%E4%B8%BB)
 1. [视频剪辑cpu和显卡哪个重要](https://www.zhihu.com/search?q=%E8%A7%86%E9%A2%91%E5%89%AA%E8%BE%91cpu%E5%92%8C%E6%98%BE%E5%8D%A1%E5%93%AA%E4%B8%AA%E9%87%8D%E8%A6%81)
@@ -41,7 +44,6 @@
 1. [国考备考经验](https://www.zhihu.com/search?q=%E5%9B%BD%E8%80%83%E5%A4%87%E8%80%83%E7%BB%8F%E9%AA%8C)
 1. [16 个城市取消土地限价](https://www.zhihu.com/search?q=16%20%E4%B8%AA%E5%9F%8E%E5%B8%82%E5%8F%96%E6%B6%88%E5%9C%9F%E5%9C%B0%E9%99%90%E4%BB%B7)
 1. [全球资管巨头先锋领航退出中国](https://www.zhihu.com/search?q=%E5%85%A8%E7%90%83%E8%B5%84%E7%AE%A1%E5%B7%A8%E5%A4%B4%E5%85%88%E9%94%8B%E9%A2%86%E8%88%AA%E9%80%80%E5%87%BA%E4%B8%AD%E5%9B%BD)
-1. [万元洗烘套装推荐](https://www.zhihu.com/search?q=%E4%B8%87%E5%85%83%E6%B4%97%E7%83%98%E5%A5%97%E8%A3%85%E6%8E%A8%E8%8D%90)
 1. [苏州百亿毒地几乎成空城](https://www.zhihu.com/search?q=%E8%8B%8F%E5%B7%9E%E7%99%BE%E4%BA%BF%E6%AF%92%E5%9C%B0%E5%87%A0%E4%B9%8E%E6%88%90%E7%A9%BA%E5%9F%8E)
 
 <!-- END -->
