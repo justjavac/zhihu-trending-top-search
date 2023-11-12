@@ -1,15 +1,6 @@
 [
-  { "query": "视频剪辑电脑配置", "display_query": "视频剪辑电脑配置" },
-  { "query": "内行人眼中的全屋定制", "display_query": "内行人眼中的全屋定制" },
-  { "query": "57国联合谴责以色列", "display_query": "57国联合谴责以色列" },
-  { "query": "加沙数家医院受到直接打击", "display_query": "加沙数家医院受到直接打击" },
-  { "query": "JDG 不敌 T1", "display_query": "JDG 不敌 T1" },
-  { "query": "冰岛宣布进入紧急状态", "display_query": "冰岛宣布进入紧急状态" },
-  { "query": "今年双十一冷清的原因找到了", "display_query": "今年双十一冷清的原因找到了" },
-  { "query": "湖北襄阳医院贩卖出生证 6 人被批捕", "display_query": "湖北襄阳医院贩卖出生证 6 人被批捕" },
-  { "query": "日本知名乳业品牌明治牛奶检出兽药", "display_query": "日本知名乳业品牌明治牛奶检出兽药" },
-  { "query": "以军称哈马斯失去对加沙地带北部控制", "display_query": "以军称哈马斯失去对加沙地带北部控制" },
   { "query": "T1 晋级总决赛", "display_query": "T1 晋级总决赛" },
+  { "query": "内行人眼中的全屋定制", "display_query": "内行人眼中的全屋定制" },
   { "query": "蓝牙耳机", "display_query": "蓝牙耳机" },
   { "query": "降噪耳机", "display_query": "降噪耳机" },
   { "query": "手机壁纸", "display_query": "手机壁纸" },
@@ -17,5 +8,14 @@
   { "query": "国考备考经验", "display_query": "国考备考经验" },
   { "query": "台式机推荐", "display_query": "台式机推荐" },
   { "query": "电脑配置", "display_query": "电脑配置" },
-  { "query": "一个月国考来得及吗", "display_query": "一个月国考来得及吗" }
+  { "query": "一个月国考来得及吗", "display_query": "一个月国考来得及吗" },
+  { "query": "视频剪辑电脑配置", "display_query": "视频剪辑电脑配置" },
+  { "query": "57国联合谴责以色列", "display_query": "57国联合谴责以色列" },
+  { "query": "加沙数家医院受到直接打击", "display_query": "加沙数家医院受到直接打击" },
+  { "query": "JDG 不敌 T1", "display_query": "JDG 不敌 T1" },
+  { "query": "冰岛宣布进入紧急状态", "display_query": "冰岛宣布进入紧急状态" },
+  { "query": "今年双十一冷清的原因找到了", "display_query": "今年双十一冷清的原因找到了" },
+  { "query": "湖北襄阳医院贩卖出生证 6 人被批捕", "display_query": "湖北襄阳医院贩卖出生证 6 人被批捕" },
+  { "query": "日本知名乳业品牌明治牛奶检出兽药", "display_query": "日本知名乳业品牌明治牛奶检出兽药" },
+  { "query": "以军称哈马斯失去对加沙地带北部控制", "display_query": "以军称哈马斯失去对加沙地带北部控制" }
 ]
