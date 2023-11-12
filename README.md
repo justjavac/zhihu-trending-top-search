@@ -14,9 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Nov 12 2023 16:08:23 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Nov 12 2023 17:06:23 GMT+0800 (China Standard Time) -->
 
-1. [剪辑视频用什么笔记本](https://www.zhihu.com/search?q=%E5%89%AA%E8%BE%91%E8%A7%86%E9%A2%91%E7%94%A8%E4%BB%80%E4%B9%88%E7%AC%94%E8%AE%B0%E6%9C%AC)
+1. [视频剪辑cpu和显卡哪个重要](https://www.zhihu.com/search?q=%E8%A7%86%E9%A2%91%E5%89%AA%E8%BE%91cpu%E5%92%8C%E6%98%BE%E5%8D%A1%E5%93%AA%E4%B8%AA%E9%87%8D%E8%A6%81)
+1. [湖北襄阳医院贩卖出生证 6 人被批捕](https://www.zhihu.com/search?q=%E6%B9%96%E5%8C%97%E8%A5%84%E9%98%B3%E5%8C%BB%E9%99%A2%E8%B4%A9%E5%8D%96%E5%87%BA%E7%94%9F%E8%AF%81%206%20%E4%BA%BA%E8%A2%AB%E6%89%B9%E6%8D%95)
 1. [日本知名乳业品牌明治牛奶检出兽药](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E7%9F%A5%E5%90%8D%E4%B9%B3%E4%B8%9A%E5%93%81%E7%89%8C%E6%98%8E%E6%B2%BB%E7%89%9B%E5%A5%B6%E6%A3%80%E5%87%BA%E5%85%BD%E8%8D%AF)
 1. [以军称哈马斯失去对加沙地带北部控制](https://www.zhihu.com/search?q=%E4%BB%A5%E5%86%9B%E7%A7%B0%E5%93%88%E9%A9%AC%E6%96%AF%E5%A4%B1%E5%8E%BB%E5%AF%B9%E5%8A%A0%E6%B2%99%E5%9C%B0%E5%B8%A6%E5%8C%97%E9%83%A8%E6%8E%A7%E5%88%B6)
 1. [阿里、京东发布双十一成绩单](https://www.zhihu.com/search?q=%E9%98%BF%E9%87%8C%E3%80%81%E4%BA%AC%E4%B8%9C%E5%8F%91%E5%B8%83%E5%8F%8C%E5%8D%81%E4%B8%80%E6%88%90%E7%BB%A9%E5%8D%95)
@@ -25,6 +26,7 @@
 1. [温州民房坍塌致3死](https://www.zhihu.com/search?q=%E6%B8%A9%E5%B7%9E%E6%B0%91%E6%88%BF%E5%9D%8D%E5%A1%8C%E8%87%B43%E6%AD%BB)
 1. [WBG对战BLG](https://www.zhihu.com/search?q=WBG%E5%AF%B9%E6%88%98BLG)
 1. [反诈老陈」成吃播博主](https://www.zhihu.com/search?q=%E5%8F%8D%E8%AF%88%E8%80%81%E9%99%88%E3%80%8D%E6%88%90%E5%90%83%E6%92%AD%E5%8D%9A%E4%B8%BB)
+1. [剪辑视频用什么笔记本](https://www.zhihu.com/search?q=%E5%89%AA%E8%BE%91%E8%A7%86%E9%A2%91%E7%94%A8%E4%BB%80%E4%B9%88%E7%AC%94%E8%AE%B0%E6%9C%AC)
 1. [网红于文亮直播喊话一起圈钱](https://www.zhihu.com/search?q=%E7%BD%91%E7%BA%A2%E4%BA%8E%E6%96%87%E4%BA%AE%E7%9B%B4%E6%92%AD%E5%96%8A%E8%AF%9D%E4%B8%80%E8%B5%B7%E5%9C%88%E9%92%B1)
 1. [三大指数集体低开](https://www.zhihu.com/search?q=%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80)
 1. [原神芙宁娜](https://www.zhihu.com/search?q=%E5%8E%9F%E7%A5%9E%E8%8A%99%E5%AE%81%E5%A8%9C)
