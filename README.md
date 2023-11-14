@@ -14,10 +14,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Nov 14 2023 18:08:06 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Nov 14 2023 19:06:07 GMT+0800 (China Standard Time) -->
 
 1. [内行人眼中的全屋定制](https://www.zhihu.com/search?q=%E5%86%85%E8%A1%8C%E4%BA%BA%E7%9C%BC%E4%B8%AD%E7%9A%84%E5%85%A8%E5%B1%8B%E5%AE%9A%E5%88%B6)
 1. [考研需要买平板吗](https://www.zhihu.com/search?q=%E8%80%83%E7%A0%94%E9%9C%80%E8%A6%81%E4%B9%B0%E5%B9%B3%E6%9D%BF%E5%90%97)
+1. [再见爱人](https://www.zhihu.com/search?q=%E5%86%8D%E8%A7%81%E7%88%B1%E4%BA%BA)
 1. [考研政治怎么复习](https://www.zhihu.com/search?q=%E8%80%83%E7%A0%94%E6%94%BF%E6%B2%BB%E6%80%8E%E4%B9%88%E5%A4%8D%E4%B9%A0)
 1. [跨专业考研](https://www.zhihu.com/search?q=%E8%B7%A8%E4%B8%93%E4%B8%9A%E8%80%83%E7%A0%94)
 1. [考研数学推荐书籍](https://www.zhihu.com/search?q=%E8%80%83%E7%A0%94%E6%95%B0%E5%AD%A6%E6%8E%A8%E8%8D%90%E4%B9%A6%E7%B1%8D)
