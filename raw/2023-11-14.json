@@ -1,5 +1,5 @@
 [
-  { "query": "钉钉崩了", "display_query": "钉钉崩了" },
+  { "query": "为何手机不设置成两块电池", "display_query": "为何手机不设置成两块电池" },
   { "query": "内行人眼中的全屋定制", "display_query": "内行人眼中的全屋定制" },
   { "query": "考研需要买平板吗", "display_query": "考研需要买平板吗" },
   { "query": "A股", "display_query": "A股" },
@@ -8,5 +8,6 @@
   { "query": "考研数学推荐书籍", "display_query": "考研数学推荐书籍" },
   { "query": "考研需要报班吗", "display_query": "考研需要报班吗" },
   { "query": "考研还是考公考编", "display_query": "考研还是考公考编" },
-  { "query": "国考备考经验", "display_query": "国考备考经验" }
+  { "query": "国考备考经验", "display_query": "国考备考经验" },
+  { "query": "钉钉崩了", "display_query": "钉钉崩了" }
 ]
