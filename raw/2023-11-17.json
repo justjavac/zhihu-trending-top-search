@@ -3,10 +3,12 @@
   { "query": "考研政治", "display_query": "考研政治" },
   { "query": "考研数学", "display_query": "考研数学" },
   { "query": "考研英语", "display_query": "考研英语" },
-  { "query": "多家银行下调存款利率", "display_query": "多家银行下调存款利率" },
   { "query": "内行人眼中的全屋定制", "display_query": "内行人眼中的全屋定制" },
   { "query": "考研需要买平板吗", "display_query": "考研需要买平板吗" },
-  { "query": "再见爱人", "display_query": "再见爱人" },
   { "query": "30岁考公来得及吗", "display_query": "30岁考公来得及吗" },
-  { "query": "法考主观题如何答题", "display_query": "法考主观题如何答题" }
+  { "query": "法考主观题如何答题", "display_query": "法考主观题如何答题" },
+  { "query": "法考主观题答题技巧", "display_query": "法考主观题答题技巧" },
+  { "query": "以色列", "display_query": "以色列" },
+  { "query": "多家银行下调存款利率", "display_query": "多家银行下调存款利率" },
+  { "query": "再见爱人", "display_query": "再见爱人" }
 ]
