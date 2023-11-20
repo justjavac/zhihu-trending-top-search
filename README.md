@@ -14,18 +14,20 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Nov 20 2023 15:07:30 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Nov 20 2023 16:10:43 GMT+0800 (China Standard Time) -->
 
 1. [法考备考攻略](https://www.zhihu.com/search?q=%E6%B3%95%E8%80%83%E5%A4%87%E8%80%83%E6%94%BB%E7%95%A5)
 1. [考研政治](https://www.zhihu.com/search?q=%E8%80%83%E7%A0%94%E6%94%BF%E6%B2%BB)
 1. [考研数学](https://www.zhihu.com/search?q=%E8%80%83%E7%A0%94%E6%95%B0%E5%AD%A6)
 1. [考研英语](https://www.zhihu.com/search?q=%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD)
 1. [内行人眼中的全屋定制](https://www.zhihu.com/search?q=%E5%86%85%E8%A1%8C%E4%BA%BA%E7%9C%BC%E4%B8%AD%E7%9A%84%E5%85%A8%E5%B1%8B%E5%AE%9A%E5%88%B6)
-1. [A股市场](https://www.zhihu.com/search?q=A%E8%82%A1%E5%B8%82%E5%9C%BA)
+1. [为啥华为手机价格降不下来](https://www.zhihu.com/search?q=%E4%B8%BA%E5%95%A5%E5%8D%8E%E4%B8%BA%E6%89%8B%E6%9C%BA%E4%BB%B7%E6%A0%BC%E9%99%8D%E4%B8%8D%E4%B8%8B%E6%9D%A5)
 1. [考研需要买平板吗](https://www.zhihu.com/search?q=%E8%80%83%E7%A0%94%E9%9C%80%E8%A6%81%E4%B9%B0%E5%B9%B3%E6%9D%BF%E5%90%97)
-1. [A股](https://www.zhihu.com/search?q=A%E8%82%A1)
+1. [碎纸机是干嘛用的](https://www.zhihu.com/search?q=%E7%A2%8E%E7%BA%B8%E6%9C%BA%E6%98%AF%E5%B9%B2%E5%98%9B%E7%94%A8%E7%9A%84)
 1. [30岁考公来得及吗](https://www.zhihu.com/search?q=30%E5%B2%81%E8%80%83%E5%85%AC%E6%9D%A5%E5%BE%97%E5%8F%8A%E5%90%97)
 1. [法考主观题如何答题](https://www.zhihu.com/search?q=%E6%B3%95%E8%80%83%E4%B8%BB%E8%A7%82%E9%A2%98%E5%A6%82%E4%BD%95%E7%AD%94%E9%A2%98)
+1. [A股市场](https://www.zhihu.com/search?q=A%E8%82%A1%E5%B8%82%E5%9C%BA)
+1. [A股](https://www.zhihu.com/search?q=A%E8%82%A1)
 1. [法考主观题答题技巧](https://www.zhihu.com/search?q=%E6%B3%95%E8%80%83%E4%B8%BB%E8%A7%82%E9%A2%98%E7%AD%94%E9%A2%98%E6%8A%80%E5%B7%A7)
 1. [法考主观题冲刺](https://www.zhihu.com/search?q=%E6%B3%95%E8%80%83%E4%B8%BB%E8%A7%82%E9%A2%98%E5%86%B2%E5%88%BA)
 
