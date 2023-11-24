@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Nov 24 2023 18:08:09 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Nov 24 2023 19:06:16 GMT+0800 (China Standard Time) -->
 
 1. [考研数学](https://www.zhihu.com/search?q=%E8%80%83%E7%A0%94%E6%95%B0%E5%AD%A6)
 1. [考研英语](https://www.zhihu.com/search?q=%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD)
@@ -23,9 +23,10 @@
 1. [A股](https://www.zhihu.com/search?q=A%E8%82%A1)
 1. [30岁考公来得及吗](https://www.zhihu.com/search?q=30%E5%B2%81%E8%80%83%E5%85%AC%E6%9D%A5%E5%BE%97%E5%8F%8A%E5%90%97)
 1. [非全日制研究生](https://www.zhihu.com/search?q=%E9%9D%9E%E5%85%A8%E6%97%A5%E5%88%B6%E7%A0%94%E7%A9%B6%E7%94%9F)
-1. [考研流程详解](https://www.zhihu.com/search?q=%E8%80%83%E7%A0%94%E6%B5%81%E7%A8%8B%E8%AF%A6%E8%A7%A3)
+1. [建议体育学科由副科变为主科](https://www.zhihu.com/search?q=%E5%BB%BA%E8%AE%AE%E4%BD%93%E8%82%B2%E5%AD%A6%E7%A7%91%E7%94%B1%E5%89%AF%E7%A7%91%E5%8F%98%E4%B8%BA%E4%B8%BB%E7%A7%91)
 1. [考研政治怎么复习](https://www.zhihu.com/search?q=%E8%80%83%E7%A0%94%E6%94%BF%E6%B2%BB%E6%80%8E%E4%B9%88%E5%A4%8D%E4%B9%A0)
 1. [考研英语作文](https://www.zhihu.com/search?q=%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%BD%9C%E6%96%87)
+1. [考研流程详解](https://www.zhihu.com/search?q=%E8%80%83%E7%A0%94%E6%B5%81%E7%A8%8B%E8%AF%A6%E8%A7%A3)
 1. [考研什么时候开始准备](https://www.zhihu.com/search?q=%E8%80%83%E7%A0%94%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E5%BC%80%E5%A7%8B%E5%87%86%E5%A4%87)
 1. [法考备考攻略](https://www.zhihu.com/search?q=%E6%B3%95%E8%80%83%E5%A4%87%E8%80%83%E6%94%BB%E7%95%A5)
 1. [考研政治](https://www.zhihu.com/search?q=%E8%80%83%E7%A0%94%E6%94%BF%E6%B2%BB)
