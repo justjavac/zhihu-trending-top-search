@@ -1,6 +1,5 @@
 [
   { "query": "内行人眼中的全屋定制", "display_query": "内行人眼中的全屋定制" },
-  { "query": "A股", "display_query": "A股" },
   { "query": "热水器推荐", "display_query": "热水器推荐" },
   { "query": "周信静", "display_query": "周信静" },
   { "query": "支原体肺炎", "display_query": "支原体肺炎" },
@@ -9,6 +8,8 @@
   { "query": "雅思词汇", "display_query": "雅思词汇" },
   { "query": "双非研究生有必要读么", "display_query": "双非研究生有必要读么" },
   { "query": "开题报告", "display_query": "开题报告" },
+  { "query": "第一学历真的很重要吗", "display_query": "第一学历真的很重要吗" },
+  { "query": "A股", "display_query": "A股" },
   { "query": "2024年国考难度", "display_query": "2024年国考难度" },
   { "query": "行测正确率要达到多少", "display_query": "行测正确率要达到多少" },
   { "query": "行测资料分析", "display_query": "行测资料分析" },
