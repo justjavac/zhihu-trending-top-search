@@ -14,9 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Nov 28 2023 17:07:45 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Nov 28 2023 18:08:05 GMT+0800 (China Standard Time) -->
 
 1. [内行人眼中的全屋定制](https://www.zhihu.com/search?q=%E5%86%85%E8%A1%8C%E4%BA%BA%E7%9C%BC%E4%B8%AD%E7%9A%84%E5%85%A8%E5%B1%8B%E5%AE%9A%E5%88%B6)
+1. [再见爱人](https://www.zhihu.com/search?q=%E5%86%8D%E8%A7%81%E7%88%B1%E4%BA%BA)
 1. [热水器推荐](https://www.zhihu.com/search?q=%E7%83%AD%E6%B0%B4%E5%99%A8%E6%8E%A8%E8%8D%90)
 1. [周信静](https://www.zhihu.com/search?q=%E5%91%A8%E4%BF%A1%E9%9D%99)
 1. [支原体肺炎](https://www.zhihu.com/search?q=%E6%94%AF%E5%8E%9F%E4%BD%93%E8%82%BA%E7%82%8E)
