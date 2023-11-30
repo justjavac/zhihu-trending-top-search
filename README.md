@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Nov 30 2023 21:10:22 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Nov 30 2023 22:07:04 GMT+0800 (China Standard Time) -->
 
 1. [武汉大学](https://www.zhihu.com/search?q=%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6)
 1. [周信静](https://www.zhihu.com/search?q=%E5%91%A8%E4%BF%A1%E9%9D%99)
