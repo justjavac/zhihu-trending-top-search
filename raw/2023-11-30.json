@@ -1,6 +1,5 @@
 [
   { "query": "内行人眼中的全屋定制", "display_query": "内行人眼中的全屋定制" },
-  { "query": "A股", "display_query": "A股" },
   { "query": "武汉大学", "display_query": "武汉大学" },
   { "query": "周信静", "display_query": "周信静" },
   { "query": "今日股市行情", "display_query": "今日股市行情" },
@@ -9,5 +8,7 @@
   { "query": "开题报告", "display_query": "开题报告" },
   { "query": "第一学历真的很重要吗", "display_query": "第一学历真的很重要吗" },
   { "query": "非全日制研究生应届生身份", "display_query": "非全日制研究生应届生身份" },
+  { "query": "非全日制研究生应届生身份界定", "display_query": "非全日制研究生应届生身份界定" },
+  { "query": "A股", "display_query": "A股" },
   { "query": "欧冠", "display_query": "欧冠" }
 ]
