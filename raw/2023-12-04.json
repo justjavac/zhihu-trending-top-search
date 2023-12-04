@@ -1,6 +1,7 @@
 [
   { "query": "A股", "display_query": "A股" },
   { "query": "周信静", "display_query": "周信静" },
+  { "query": "支原体肺炎", "display_query": "支原体肺炎" },
   { "query": "国考报名人数", "display_query": "国考报名人数" },
   { "query": "双非研究生有必要读么", "display_query": "双非研究生有必要读么" },
   { "query": "开题报告", "display_query": "开题报告" },
