@@ -1,4 +1,5 @@
 [
+  { "query": "A股", "display_query": "A股" },
   { "query": "张艺兴新歌", "display_query": "张艺兴新歌" },
   { "query": "周信静", "display_query": "周信静" },
   { "query": "支原体肺炎", "display_query": "支原体肺炎" },
@@ -9,6 +10,5 @@
   { "query": "考研经验分享", "display_query": "考研经验分享" },
   { "query": "留学生开放定向选调", "display_query": "留学生开放定向选调" },
   { "query": "运动会加油稿小众惊艳150字", "display_query": "运动会加油稿小众惊艳150字" },
-  { "query": "A股", "display_query": "A股" },
   { "query": "助学金申请理由200", "display_query": "助学金申请理由200" }
 ]
