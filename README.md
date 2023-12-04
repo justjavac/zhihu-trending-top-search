@@ -14,9 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Dec 04 2023 11:08:01 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Dec 04 2023 12:09:09 GMT+0800 (China Standard Time) -->
 
 1. [A股](https://www.zhihu.com/search?q=A%E8%82%A1)
+1. [张艺兴新歌](https://www.zhihu.com/search?q=%E5%BC%A0%E8%89%BA%E5%85%B4%E6%96%B0%E6%AD%8C)
 1. [周信静](https://www.zhihu.com/search?q=%E5%91%A8%E4%BF%A1%E9%9D%99)
 1. [支原体肺炎](https://www.zhihu.com/search?q=%E6%94%AF%E5%8E%9F%E4%BD%93%E8%82%BA%E7%82%8E)
 1. [国考报名人数](https://www.zhihu.com/search?q=%E5%9B%BD%E8%80%83%E6%8A%A5%E5%90%8D%E4%BA%BA%E6%95%B0)

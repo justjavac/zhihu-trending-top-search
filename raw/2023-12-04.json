@@ -1,5 +1,6 @@
 [
   { "query": "A股", "display_query": "A股" },
+  { "query": "张艺兴新歌", "display_query": "张艺兴新歌" },
   { "query": "周信静", "display_query": "周信静" },
   { "query": "支原体肺炎", "display_query": "支原体肺炎" },
   { "query": "国考报名人数", "display_query": "国考报名人数" },
