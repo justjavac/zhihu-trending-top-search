@@ -1,4 +1,5 @@
 [
+  { "query": "考研调剂 ", "display_query": "考研调剂 " },
   { "query": "A股", "display_query": "A股" },
   { "query": "张艺兴新歌", "display_query": "张艺兴新歌" },
   { "query": "国考报名人数", "display_query": "国考报名人数" },
@@ -7,6 +8,7 @@
   { "query": "双非研究生有必要读么", "display_query": "双非研究生有必要读么" },
   { "query": "开题报告", "display_query": "开题报告" },
   { "query": "第一学历真的很重要吗", "display_query": "第一学历真的很重要吗" },
+  { "query": "公考常识", "display_query": "公考常识" },
   { "query": "剪辑教程", "display_query": "剪辑教程" },
   { "query": "剪辑自学", "display_query": "剪辑自学" },
   { "query": "周信静", "display_query": "周信静" },
