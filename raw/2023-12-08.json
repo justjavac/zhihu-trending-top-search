@@ -1,6 +1,5 @@
 [
   { "query": "考研调剂 ", "display_query": "考研调剂 " },
-  { "query": "国考报名人数", "display_query": "国考报名人数" },
   { "query": "国考申论怎么复习", "display_query": "国考申论怎么复习" },
   { "query": "雅思词汇", "display_query": "雅思词汇" },
   { "query": "双非研究生有必要读么", "display_query": "双非研究生有必要读么" },
@@ -8,5 +7,7 @@
   { "query": "行测怎么备考攻略", "display_query": "行测怎么备考攻略" },
   { "query": "第一学历真的很重要吗", "display_query": "第一学历真的很重要吗" },
   { "query": "考公资料", "display_query": "考公资料" },
-  { "query": "公考常识", "display_query": "公考常识" }
+  { "query": "公考常识", "display_query": "公考常识" },
+  { "query": "剪辑教程", "display_query": "剪辑教程" },
+  { "query": "国考报名人数", "display_query": "国考报名人数" }
 ]
