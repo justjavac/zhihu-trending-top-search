@@ -14,8 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Dec 11 2023 17:08:36 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Dec 11 2023 18:08:58 GMT+0800 (China Standard Time) -->
 
+1. [考研心态崩了怎么办](https://www.zhihu.com/search?q=%E8%80%83%E7%A0%94%E5%BF%83%E6%80%81%E5%B4%A9%E4%BA%86%E6%80%8E%E4%B9%88%E5%8A%9E)
 1. [考研调剂](https://www.zhihu.com/search?q=%E8%80%83%E7%A0%94%E8%B0%83%E5%89%82%20)
 1. [A股](https://www.zhihu.com/search?q=A%E8%82%A1)
 1. [税务局值得考吗](https://www.zhihu.com/search?q=%E7%A8%8E%E5%8A%A1%E5%B1%80%E5%80%BC%E5%BE%97%E8%80%83%E5%90%97)
