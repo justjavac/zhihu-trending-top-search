@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Dec 17 2023 07:06:37 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Dec 17 2023 08:39:04 GMT+0800 (China Standard Time) -->
 
 1. [考研心态崩了怎么办](https://www.zhihu.com/search?q=%E8%80%83%E7%A0%94%E5%BF%83%E6%80%81%E5%B4%A9%E4%BA%86%E6%80%8E%E4%B9%88%E5%8A%9E)
 1. [英语四六级考试](https://www.zhihu.com/search?q=%E8%8B%B1%E8%AF%AD%E5%9B%9B%E5%85%AD%E7%BA%A7%E8%80%83%E8%AF%95)
