@@ -14,9 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Dec 18 2023 14:10:42 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Dec 18 2023 15:07:18 GMT+0800 (China Standard Time) -->
 
 1. [考研心态崩了怎么办](https://www.zhihu.com/search?q=%E8%80%83%E7%A0%94%E5%BF%83%E6%80%81%E5%B4%A9%E4%BA%86%E6%80%8E%E4%B9%88%E5%8A%9E)
+1. [周杰伦新歌](https://www.zhihu.com/search?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E6%AD%8C)
 1. [我国成功发射可重复使用试验航天器](https://www.zhihu.com/search?q=%E6%88%91%E5%9B%BD%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%E5%8F%AF%E9%87%8D%E5%A4%8D%E4%BD%BF%E7%94%A8%E8%AF%95%E9%AA%8C%E8%88%AA%E5%A4%A9%E5%99%A8)
 1. [AI智能写作哪个好](https://www.zhihu.com/search?q=AI%E6%99%BA%E8%83%BD%E5%86%99%E4%BD%9C%E5%93%AA%E4%B8%AA%E5%A5%BD)
 1. [税务局值得考吗](https://www.zhihu.com/search?q=%E7%A8%8E%E5%8A%A1%E5%B1%80%E5%80%BC%E5%BE%97%E8%80%83%E5%90%97)
