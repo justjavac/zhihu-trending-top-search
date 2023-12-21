@@ -1,5 +1,4 @@
 [
-  { "query": "法考客观题的难度", "display_query": "法考客观题的难度" },
   { "query": "AI智能写作哪个好", "display_query": "AI智能写作哪个好" },
   { "query": "法考主观题考试的题目难度", "display_query": "法考主观题考试的题目难度" },
   { "query": "哈工大计算机考研", "display_query": "哈工大计算机考研" },
@@ -9,5 +8,7 @@
   { "query": "心理学考研", "display_query": "心理学考研" },
   { "query": "留学生定向选调", "display_query": "留学生定向选调" },
   { "query": "留学生回国选调", "display_query": "留学生回国选调" },
+  { "query": "华东师范大学计算机考研", "display_query": "华东师范大学计算机考研" },
+  { "query": "法考客观题的难度", "display_query": "法考客观题的难度" },
   { "query": "今日A股市场", "display_query": "今日A股市场" }
 ]
