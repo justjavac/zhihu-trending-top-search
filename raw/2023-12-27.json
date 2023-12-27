@@ -6,6 +6,7 @@
   { "query": "今日A股市场", "display_query": "今日A股市场" },
   { "query": "周信静", "display_query": "周信静" },
   { "query": "法考主观题考试的题目难度", "display_query": "法考主观题考试的题目难度" },
+  { "query": "李善均", "display_query": "李善均" },
   { "query": "留学生定向选调", "display_query": "留学生定向选调" },
   { "query": "留学生回国选调", "display_query": "留学生回国选调" },
   { "query": "在职研究生", "display_query": "在职研究生" }
