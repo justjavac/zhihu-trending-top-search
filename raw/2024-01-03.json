@@ -6,9 +6,9 @@
   { "query": "周信静", "display_query": "周信静" },
   { "query": "申论课程哪个老师好", "display_query": "申论课程哪个老师好" },
   { "query": "英语口语应该如何练", "display_query": "英语口语应该如何练" },
-  { "query": "留学生定向选调", "display_query": "留学生定向选调" },
-  { "query": "留学生回国选调", "display_query": "留学生回国选调" },
   { "query": "在职研究生", "display_query": "在职研究生" },
   { "query": "考公资料", "display_query": "考公资料" },
-  { "query": "剪辑软件", "display_query": "剪辑软件" }
+  { "query": "剪辑软件", "display_query": "剪辑软件" },
+  { "query": "留学生定向选调", "display_query": "留学生定向选调" },
+  { "query": "留学生回国选调", "display_query": "留学生回国选调" }
 ]
