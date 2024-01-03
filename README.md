@@ -14,10 +14,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jan 03 2024 14:10:06 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jan 03 2024 15:07:03 GMT+0800 (China Standard Time) -->
 
 1. [老师怎么看出来作文是抄的](https://www.zhihu.com/search?q=%E8%80%81%E5%B8%88%E6%80%8E%E4%B9%88%E7%9C%8B%E5%87%BA%E6%9D%A5%E4%BD%9C%E6%96%87%E6%98%AF%E6%8A%84%E7%9A%84)
 1. [AI智能写作哪个好](https://www.zhihu.com/search?q=AI%E6%99%BA%E8%83%BD%E5%86%99%E4%BD%9C%E5%93%AA%E4%B8%AA%E5%A5%BD)
+1. [今日A股市场](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5A%E8%82%A1%E5%B8%82%E5%9C%BA)
 1. [大学老师逆天发言](https://www.zhihu.com/search?q=%E5%A4%A7%E5%AD%A6%E8%80%81%E5%B8%88%E9%80%86%E5%A4%A9%E5%8F%91%E8%A8%80)
 1. [周信静](https://www.zhihu.com/search?q=%E5%91%A8%E4%BF%A1%E9%9D%99)
 1. [英语口语应该如何练](https://www.zhihu.com/search?q=%E8%8B%B1%E8%AF%AD%E5%8F%A3%E8%AF%AD%E5%BA%94%E8%AF%A5%E5%A6%82%E4%BD%95%E7%BB%83)
