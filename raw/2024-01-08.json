@@ -1,6 +1,7 @@
 [
   { "query": "金球奖", "display_query": "金球奖" },
   { "query": "老师怎么看出来作文是抄的", "display_query": "老师怎么看出来作文是抄的" },
+  { "query": "A股市场", "display_query": "A股市场" },
   { "query": "AI智能写作哪个好", "display_query": "AI智能写作哪个好" },
   { "query": "大学老师逆天发言", "display_query": "大学老师逆天发言" },
   { "query": "周信静", "display_query": "周信静" },
@@ -12,6 +13,5 @@
   { "query": "公考时政汇总", "display_query": "公考时政汇总" },
   { "query": "写作真的能赚钱吗", "display_query": "写作真的能赚钱吗" },
   { "query": "写作的本质", "display_query": "写作的本质" },
-  { "query": "如何评价「明日方舟」", "display_query": "如何评价「明日方舟」" },
-  { "query": "A股市场", "display_query": "A股市场" }
+  { "query": "如何评价「明日方舟」", "display_query": "如何评价「明日方舟」" }
 ]
