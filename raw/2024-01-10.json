@@ -1,4 +1,5 @@
 [
+  { "query": "教资面试成绩", "display_query": "教资面试成绩" },
   { "query": "金球奖", "display_query": "金球奖" },
   { "query": "老师怎么看出来作文是抄的", "display_query": "老师怎么看出来作文是抄的" },
   { "query": "A股市场", "display_query": "A股市场" },
