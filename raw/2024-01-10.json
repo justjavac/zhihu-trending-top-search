@@ -1,5 +1,6 @@
 [
   { "query": "教资面试成绩", "display_query": "教资面试成绩" },
+  { "query": "中国人民警察节", "display_query": "中国人民警察节" },
   { "query": "金球奖", "display_query": "金球奖" },
   { "query": "老师怎么看出来作文是抄的", "display_query": "老师怎么看出来作文是抄的" },
   { "query": "AI智能写作哪个好", "display_query": "AI智能写作哪个好" },
