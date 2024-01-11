@@ -6,7 +6,8 @@
   { "query": "大学老师逆天发言", "display_query": "大学老师逆天发言" },
   { "query": "申论课程哪个老师好", "display_query": "申论课程哪个老师好" },
   { "query": "在职研究生", "display_query": "在职研究生" },
-  { "query": "剪辑教程", "display_query": "剪辑教程" },
   { "query": "剪辑软件", "display_query": "剪辑软件" },
-  { "query": "剪辑素材", "display_query": "剪辑素材" }
+  { "query": "剪辑素材", "display_query": "剪辑素材" },
+  { "query": "剪辑短视频", "display_query": "剪辑短视频" },
+  { "query": "剪辑教程", "display_query": "剪辑教程" }
 ]
