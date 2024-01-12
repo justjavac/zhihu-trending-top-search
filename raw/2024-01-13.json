@@ -1,0 +1,12 @@
+[
+  { "query": "教资面试成绩", "display_query": "教资面试成绩" },
+  { "query": "特斯拉降价", "display_query": "特斯拉降价" },
+  { "query": "A股市场", "display_query": "A股市场" },
+  { "query": "今日股市行情", "display_query": "今日股市行情" },
+  { "query": "申论课程哪个老师好", "display_query": "申论课程哪个老师好" },
+  { "query": "在职研究生", "display_query": "在职研究生" },
+  { "query": "剪辑软件", "display_query": "剪辑软件" },
+  { "query": "剪辑素材", "display_query": "剪辑素材" },
+  { "query": "剪辑音乐", "display_query": "剪辑音乐" },
+  { "query": "剪辑思维", "display_query": "剪辑思维" }
+]
