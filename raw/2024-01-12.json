@@ -1,6 +1,7 @@
 [
   { "query": "教资面试成绩", "display_query": "教资面试成绩" },
   { "query": "中国人民警察节", "display_query": "中国人民警察节" },
+  { "query": "特斯拉降价", "display_query": "特斯拉降价" },
   { "query": "申论课程哪个老师好", "display_query": "申论课程哪个老师好" },
   { "query": "在职研究生", "display_query": "在职研究生" },
   { "query": "剪辑软件", "display_query": "剪辑软件" },
