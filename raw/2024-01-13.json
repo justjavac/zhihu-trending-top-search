@@ -1,5 +1,6 @@
 [
   { "query": "教资面试成绩", "display_query": "教资面试成绩" },
+  { "query": "国考成绩公布", "display_query": "国考成绩公布" },
   { "query": "特斯拉降价", "display_query": "特斯拉降价" },
   { "query": "A股市场", "display_query": "A股市场" },
   { "query": "今日股市行情", "display_query": "今日股市行情" },
