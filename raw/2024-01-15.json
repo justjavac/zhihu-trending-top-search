@@ -1,6 +1,5 @@
 [
   { "query": "国考成绩公布", "display_query": "国考成绩公布" },
-  { "query": "特斯拉降价", "display_query": "特斯拉降价" },
   { "query": "申论课程哪个老师好", "display_query": "申论课程哪个老师好" },
   { "query": "在职研究生", "display_query": "在职研究生" },
   { "query": "剪辑软件", "display_query": "剪辑软件" },
@@ -9,6 +8,8 @@
   { "query": "考研英语二", "display_query": "考研英语二" },
   { "query": "雅思听力如何提高", "display_query": "雅思听力如何提高" },
   { "query": "雅思托福有什么区别", "display_query": "雅思托福有什么区别" },
+  { "query": "雅思和托福哪个好考", "display_query": "雅思和托福哪个好考" },
+  { "query": "特斯拉降价", "display_query": "特斯拉降价" },
   { "query": "写作真的能赚钱吗", "display_query": "写作真的能赚钱吗" },
   { "query": "创意写作课", "display_query": "创意写作课" },
   { "query": "A股市场", "display_query": "A股市场" },
