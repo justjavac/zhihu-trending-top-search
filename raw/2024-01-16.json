@@ -1,5 +1,6 @@
 [
   { "query": "国考成绩公布", "display_query": "国考成绩公布" },
+  { "query": "今日股市行情", "display_query": "今日股市行情" },
   { "query": "申论课程哪个老师好", "display_query": "申论课程哪个老师好" },
   { "query": "在职研究生", "display_query": "在职研究生" },
   { "query": "剪辑软件", "display_query": "剪辑软件" },
