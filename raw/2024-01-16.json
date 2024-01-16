@@ -1,5 +1,4 @@
 [
-  { "query": "国考成绩公布", "display_query": "国考成绩公布" },
   { "query": "今日股市行情", "display_query": "今日股市行情" },
   { "query": "申论课程哪个老师好", "display_query": "申论课程哪个老师好" },
   { "query": "在职研究生", "display_query": "在职研究生" },
@@ -9,5 +8,6 @@
   { "query": "考研英语二", "display_query": "考研英语二" },
   { "query": "雅思听力如何提高", "display_query": "雅思听力如何提高" },
   { "query": "雅思托福有什么区别", "display_query": "雅思托福有什么区别" },
-  { "query": "雅思和托福哪个好考", "display_query": "雅思和托福哪个好考" }
+  { "query": "雅思和托福哪个好考", "display_query": "雅思和托福哪个好考" },
+  { "query": "国考成绩公布", "display_query": "国考成绩公布" }
 ]
