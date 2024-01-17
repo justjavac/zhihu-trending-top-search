@@ -14,8 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jan 17 2024 07:07:14 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jan 17 2024 08:36:43 GMT+0800 (China Standard Time) -->
 
+1. [B 站崩了](https://www.zhihu.com/search?q=B%20%E7%AB%99%E5%B4%A9%E4%BA%86)
 1. [今日股市行情](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5%E8%82%A1%E5%B8%82%E8%A1%8C%E6%83%85)
 1. [申论课程哪个老师好](https://www.zhihu.com/search?q=%E7%94%B3%E8%AE%BA%E8%AF%BE%E7%A8%8B%E5%93%AA%E4%B8%AA%E8%80%81%E5%B8%88%E5%A5%BD)
 1. [在职研究生](https://www.zhihu.com/search?q=%E5%9C%A8%E8%81%8C%E7%A0%94%E7%A9%B6%E7%94%9F)
