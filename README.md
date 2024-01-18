@@ -14,9 +14,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jan 18 2024 07:07:45 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jan 18 2024 08:36:20 GMT+0800 (China Standard Time) -->
 
-1. [B 站崩了](https://www.zhihu.com/search?q=B%20%E7%AB%99%E5%B4%A9%E4%BA%86)
 1. [A股市场](https://www.zhihu.com/search?q=A%E8%82%A1%E5%B8%82%E5%9C%BA)
 1. [A股](https://www.zhihu.com/search?q=A%E8%82%A1)
 1. [如何看待A股市场](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85A%E8%82%A1%E5%B8%82%E5%9C%BA)
@@ -26,6 +25,8 @@
 1. [写作赚钱平台](https://www.zhihu.com/search?q=%E5%86%99%E4%BD%9C%E8%B5%9A%E9%92%B1%E5%B9%B3%E5%8F%B0)
 1. [考研英语二](https://www.zhihu.com/search?q=%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E4%BA%8C)
 1. [雅思听力如何提高](https://www.zhihu.com/search?q=%E9%9B%85%E6%80%9D%E5%90%AC%E5%8A%9B%E5%A6%82%E4%BD%95%E6%8F%90%E9%AB%98)
+1. [雅思托福有什么区别](https://www.zhihu.com/search?q=%E9%9B%85%E6%80%9D%E6%89%98%E7%A6%8F%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB)
+1. [B 站崩了](https://www.zhihu.com/search?q=B%20%E7%AB%99%E5%B4%A9%E4%BA%86)
 
 <!-- END -->
 
