@@ -1,4 +1,6 @@
 [
+  { "query": "a股", "display_query": "a股" },
+  { "query": "如何看待A股市场", "display_query": "如何看待A股市场" },
   { "query": "今日股市行情", "display_query": "今日股市行情" },
   { "query": "申论课程哪个老师好", "display_query": "申论课程哪个老师好" },
   { "query": "在职研究生", "display_query": "在职研究生" },
@@ -11,7 +13,6 @@
   { "query": "免费音频剪辑", "display_query": "免费音频剪辑" },
   { "query": "A股市场", "display_query": "A股市场" },
   { "query": "A股", "display_query": "A股" },
-  { "query": "如何看待A股市场", "display_query": "如何看待A股市场" },
   { "query": "雅思听力如何提高", "display_query": "雅思听力如何提高" },
   { "query": "B 站崩了", "display_query": "B 站崩了" }
 ]
