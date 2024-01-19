@@ -1,6 +1,5 @@
 [
   { "query": "a股", "display_query": "a股" },
-  { "query": "如何看待A股市场", "display_query": "如何看待A股市场" },
   { "query": "今日A股市场", "display_query": "今日A股市场" },
   { "query": "在职研究生", "display_query": "在职研究生" },
   { "query": "考研英语二", "display_query": "考研英语二" },
@@ -10,5 +9,6 @@
   { "query": "在职研究生备考攻略", "display_query": "在职研究生备考攻略" },
   { "query": "国足", "display_query": "国足" },
   { "query": "非全日制研究生", "display_query": "非全日制研究生" },
+  { "query": "如何看待A股市场", "display_query": "如何看待A股市场" },
   { "query": "今日股市行情", "display_query": "今日股市行情" }
 ]
