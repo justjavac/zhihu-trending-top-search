@@ -1,6 +1,6 @@
 [
+  { "query": "美国会禁止五角大楼从 6 家中企采购电池", "display_query": "美国会禁止五角大楼从 6 家中企采购电池" },
   { "query": "猫的反应快还是人的反应快", "display_query": "猫的反应快还是人的反应快" },
-  { "query": "今日A股市场", "display_query": "今日A股市场" },
   { "query": "公考资料", "display_query": "公考资料" },
   { "query": "新疆地震", "display_query": "新疆地震" },
   { "query": "国足", "display_query": "国足" },
@@ -9,5 +9,6 @@
   { "query": "一个月备考省考来得及吗", "display_query": "一个月备考省考来得及吗" },
   { "query": "考公网盘资料免费", "display_query": "考公网盘资料免费" },
   { "query": "四川省考行测", "display_query": "四川省考行测" },
+  { "query": "今日A股市场", "display_query": "今日A股市场" },
   { "query": "下雪", "display_query": "下雪" }
 ]
