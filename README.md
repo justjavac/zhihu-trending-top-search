@@ -14,11 +14,12 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jan 23 2024 07:07:34 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jan 23 2024 08:37:37 GMT+0800 (China Standard Time) -->
 
 1. [猫的反应快还是人的反应快](https://www.zhihu.com/search?q=%E7%8C%AB%E7%9A%84%E5%8F%8D%E5%BA%94%E5%BF%AB%E8%BF%98%E6%98%AF%E4%BA%BA%E7%9A%84%E5%8F%8D%E5%BA%94%E5%BF%AB)
 1. [今日A股市场](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5A%E8%82%A1%E5%B8%82%E5%9C%BA)
 1. [公考资料](https://www.zhihu.com/search?q=%E5%85%AC%E8%80%83%E8%B5%84%E6%96%99)
+1. [新疆地震](https://www.zhihu.com/search?q=%E6%96%B0%E7%96%86%E5%9C%B0%E9%9C%87)
 1. [国足](https://www.zhihu.com/search?q=%E5%9B%BD%E8%B6%B3)
 1. [公考优师领学计划](https://www.zhihu.com/search?q=%E5%85%AC%E8%80%83%E4%BC%98%E5%B8%88%E9%A2%86%E5%AD%A6%E8%AE%A1%E5%88%92)
 1. [儿童呼吸道疾病防治手册](https://www.zhihu.com/search?q=%E5%84%BF%E7%AB%A5%E5%91%BC%E5%90%B8%E9%81%93%E7%96%BE%E7%97%85%E9%98%B2%E6%B2%BB%E6%89%8B%E5%86%8C)
