@@ -14,10 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jan 27 2024 13:06:57 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jan 27 2024 14:08:20 GMT+0800 (China Standard Time) -->
 
 1. [吴京](https://www.zhihu.com/search?q=%E5%90%B4%E4%BA%AC)
-1. [马斯克称中国车企最具竞争力](https://www.zhihu.com/search?q=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B0%E4%B8%AD%E5%9B%BD%E8%BD%A6%E4%BC%81%E6%9C%80%E5%85%B7%E7%AB%9E%E4%BA%89%E5%8A%9B)
 1. [今日A股市场](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5A%E8%82%A1%E5%B8%82%E5%9C%BA)
 1. [公考资料](https://www.zhihu.com/search?q=%E5%85%AC%E8%80%83%E8%B5%84%E6%96%99)
 1. [国足](https://www.zhihu.com/search?q=%E5%9B%BD%E8%B6%B3)
@@ -26,6 +25,8 @@
 1. [一个月备考省考来得及吗](https://www.zhihu.com/search?q=%E4%B8%80%E4%B8%AA%E6%9C%88%E5%A4%87%E8%80%83%E7%9C%81%E8%80%83%E6%9D%A5%E5%BE%97%E5%8F%8A%E5%90%97)
 1. [为什么NBA必须叫美职篮](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88NBA%E5%BF%85%E9%A1%BB%E5%8F%AB%E7%BE%8E%E8%81%8C%E7%AF%AE)
 1. [东方甄选跌超10%](https://www.zhihu.com/search?q=%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89%E8%B7%8C%E8%B6%8510%25)
+1. [四川省考行测](https://www.zhihu.com/search?q=%E5%9B%9B%E5%B7%9D%E7%9C%81%E8%80%83%E8%A1%8C%E6%B5%8B)
+1. [马斯克称中国车企最具竞争力](https://www.zhihu.com/search?q=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B0%E4%B8%AD%E5%9B%BD%E8%BD%A6%E4%BC%81%E6%9C%80%E5%85%B7%E7%AB%9E%E4%BA%89%E5%8A%9B)
 
 <!-- END -->
 
