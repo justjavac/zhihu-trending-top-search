@@ -1,5 +1,4 @@
 [
-  { "query": "暴雪蓝色预警", "display_query": "暴雪蓝色预警" },
   { "query": "今日A股市场", "display_query": "今日A股市场" },
   { "query": "存款利率一降再降", "display_query": "存款利率一降再降" },
   { "query": "美联储维持利率不变", "display_query": "美联储维持利率不变" },
@@ -10,5 +9,6 @@
   { "query": "省考时间汇总", "display_query": "省考时间汇总" },
   { "query": "法硕非法学", "display_query": "法硕非法学" },
   { "query": "选调生报名基本条件", "display_query": "选调生报名基本条件" },
+  { "query": "暴雪蓝色预警", "display_query": "暴雪蓝色预警" },
   { "query": "国考怎么备考", "display_query": "国考怎么备考" }
 ]
