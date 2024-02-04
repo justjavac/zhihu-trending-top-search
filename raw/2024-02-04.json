@@ -1,6 +1,5 @@
 [
   { "query": "立春", "display_query": "立春" },
-  { "query": "美联储维持联邦基金利率不变", "display_query": "美联储维持联邦基金利率不变" },
   { "query": "申论课程哪个老师好", "display_query": "申论课程哪个老师好" },
   { "query": "国考怎么准备", "display_query": "国考怎么准备" },
   { "query": "定向选调生", "display_query": "定向选调生" },
@@ -9,6 +8,8 @@
   { "query": "法硕非法学", "display_query": "法硕非法学" },
   { "query": "选调生报名基本条件", "display_query": "选调生报名基本条件" },
   { "query": "非全日制", "display_query": "非全日制" },
+  { "query": "非全日制研究生", "display_query": "非全日制研究生" },
+  { "query": "美联储维持联邦基金利率不变", "display_query": "美联储维持联邦基金利率不变" },
   { "query": "今日A股市场", "display_query": "今日A股市场" },
   { "query": "美联储维持利率不变", "display_query": "美联储维持利率不变" }
 ]
