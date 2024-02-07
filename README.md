@@ -14,14 +14,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Feb 07 2024 19:06:06 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Feb 07 2024 20:12:41 GMT+0800 (China Standard Time) -->
 
 1. [A股市场](https://www.zhihu.com/search?q=A%E8%82%A1%E5%B8%82%E5%9C%BA)
+1. [南航](https://www.zhihu.com/search?q=%E5%8D%97%E8%88%AA)
+1. [短视频](https://www.zhihu.com/search?q=%E7%9F%AD%E8%A7%86%E9%A2%91)
+1. [赚钱](https://www.zhihu.com/search?q=%E8%B5%9A%E9%92%B1)
+1. [梅西](https://www.zhihu.com/search?q=%E6%A2%85%E8%A5%BF)
+1. [哪些大学最应该合并](https://www.zhihu.com/search?q=%E5%93%AA%E4%BA%9B%E5%A4%A7%E5%AD%A6%E6%9C%80%E5%BA%94%E8%AF%A5%E5%90%88%E5%B9%B6)
+1. [大学生赚钱的副业](https://www.zhihu.com/search?q=%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%B5%9A%E9%92%B1%E7%9A%84%E5%89%AF%E4%B8%9A)
+1. [2024 必囤的年货好物](https://www.zhihu.com/search?q=2024%20%E5%BF%85%E5%9B%A4%E7%9A%84%E5%B9%B4%E8%B4%A7%E5%A5%BD%E7%89%A9)
+1. [适合送礼的键盘推荐](https://www.zhihu.com/search?q=%E9%80%82%E5%90%88%E9%80%81%E7%A4%BC%E7%9A%84%E9%94%AE%E7%9B%98%E6%8E%A8%E8%8D%90)
+1. [轻松「搞定」年底大扫除](https://www.zhihu.com/search?q=%E8%BD%BB%E6%9D%BE%E3%80%8C%E6%90%9E%E5%AE%9A%E3%80%8D%E5%B9%B4%E5%BA%95%E5%A4%A7%E6%89%AB%E9%99%A4)
 1. [申论课程哪个老师好](https://www.zhihu.com/search?q=%E7%94%B3%E8%AE%BA%E8%AF%BE%E7%A8%8B%E5%93%AA%E4%B8%AA%E8%80%81%E5%B8%88%E5%A5%BD)
 1. [国考怎么准备](https://www.zhihu.com/search?q=%E5%9B%BD%E8%80%83%E6%80%8E%E4%B9%88%E5%87%86%E5%A4%87)
 1. [定向选调生](https://www.zhihu.com/search?q=%E5%AE%9A%E5%90%91%E9%80%89%E8%B0%83%E7%94%9F)
 1. [考公流程](https://www.zhihu.com/search?q=%E8%80%83%E5%85%AC%E6%B5%81%E7%A8%8B)
-1. [南航](https://www.zhihu.com/search?q=%E5%8D%97%E8%88%AA)
 1. [法硕非法学](https://www.zhihu.com/search?q=%E6%B3%95%E7%A1%95%E9%9D%9E%E6%B3%95%E5%AD%A6)
 1. [选调生报名基本条件](https://www.zhihu.com/search?q=%E9%80%89%E8%B0%83%E7%94%9F%E6%8A%A5%E5%90%8D%E5%9F%BA%E6%9C%AC%E6%9D%A1%E4%BB%B6)
 1. [非全日制](https://www.zhihu.com/search?q=%E9%9D%9E%E5%85%A8%E6%97%A5%E5%88%B6)
