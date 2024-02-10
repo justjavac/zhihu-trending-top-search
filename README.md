@@ -14,18 +14,19 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Feb 10 2024 07:07:28 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Feb 10 2024 08:32:52 GMT+0800 (China Standard Time) -->
 
 1. [短视频](https://www.zhihu.com/search?q=%E7%9F%AD%E8%A7%86%E9%A2%91)
 1. [赚钱](https://www.zhihu.com/search?q=%E8%B5%9A%E9%92%B1)
 1. [梅西](https://www.zhihu.com/search?q=%E6%A2%85%E8%A5%BF)
-1. [Gemini](https://www.zhihu.com/search?q=Gemini)
 1. [大学生赚钱的副业](https://www.zhihu.com/search?q=%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%B5%9A%E9%92%B1%E7%9A%84%E5%89%AF%E4%B8%9A)
 1. [适合送礼的键盘推荐](https://www.zhihu.com/search?q=%E9%80%82%E5%90%88%E9%80%81%E7%A4%BC%E7%9A%84%E9%94%AE%E7%9B%98%E6%8E%A8%E8%8D%90)
 1. [轻松「搞定」年底大扫除](https://www.zhihu.com/search?q=%E8%BD%BB%E6%9D%BE%E3%80%8C%E6%90%9E%E5%AE%9A%E3%80%8D%E5%B9%B4%E5%BA%95%E5%A4%A7%E6%89%AB%E9%99%A4)
 1. [新年送父母的手机推荐](https://www.zhihu.com/search?q=%E6%96%B0%E5%B9%B4%E9%80%81%E7%88%B6%E6%AF%8D%E7%9A%84%E6%89%8B%E6%9C%BA%E6%8E%A8%E8%8D%90)
 1. [平平无奇却意外好吃的零食](https://www.zhihu.com/search?q=%E5%B9%B3%E5%B9%B3%E6%97%A0%E5%A5%87%E5%8D%B4%E6%84%8F%E5%A4%96%E5%A5%BD%E5%90%83%E7%9A%84%E9%9B%B6%E9%A3%9F)
 1. [给新年的氛围加点红](https://www.zhihu.com/search?q=%E7%BB%99%E6%96%B0%E5%B9%B4%E7%9A%84%E6%B0%9B%E5%9B%B4%E5%8A%A0%E7%82%B9%E7%BA%A2)
+1. [纳入「年货清单」的健康好物](https://www.zhihu.com/search?q=%E7%BA%B3%E5%85%A5%E3%80%8C%E5%B9%B4%E8%B4%A7%E6%B8%85%E5%8D%95%E3%80%8D%E7%9A%84%E5%81%A5%E5%BA%B7%E5%A5%BD%E7%89%A9)
+1. [Gemini](https://www.zhihu.com/search?q=Gemini)
 
 <!-- END -->
 
