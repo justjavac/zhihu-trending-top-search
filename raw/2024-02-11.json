@@ -1,5 +1,4 @@
 [
-  { "query": "", "display_query": "" },
   { "query": "短视频", "display_query": "短视频" },
   { "query": "赚钱", "display_query": "赚钱" },
   { "query": "大学生赚钱的副业", "display_query": "大学生赚钱的副业" },
@@ -9,5 +8,7 @@
   { "query": "送到心坎里的新年礼物", "display_query": "送到心坎里的新年礼物" },
   { "query": "过年送礼的护肤礼盒", "display_query": "过年送礼的护肤礼盒" },
   { "query": "贾玲", "display_query": "贾玲" },
+  { "query": "热辣滚烫", "display_query": "热辣滚烫" },
+  { "query": "", "display_query": "" },
   { "query": "梅西", "display_query": "梅西" }
 ]
