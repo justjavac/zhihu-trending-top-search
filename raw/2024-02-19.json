@@ -1,5 +1,4 @@
 [
-  { "query": "什么叫中国人的浪漫", "display_query": "什么叫中国人的浪漫" },
   { "query": "要久久爱", "display_query": "要久久爱" },
   { "query": "创造营亚洲", "display_query": "创造营亚洲" },
   { "query": "南来北往", "display_query": "南来北往" },
@@ -8,5 +7,8 @@
   { "query": "「飞驰人生2」细节", "display_query": "「飞驰人生2」细节" },
   { "query": "vision pro遭遇退货潮", "display_query": "vision pro遭遇退货潮" },
   { "query": "烟火人家", "display_query": "烟火人家" },
+  { "query": "为什么大家不再提 5G 了", "display_query": "为什么大家不再提 5G 了" },
+  { "query": "「飞驰人生2」如何评价", "display_query": "「飞驰人生2」如何评价" },
+  { "query": "什么叫中国人的浪漫", "display_query": "什么叫中国人的浪漫" },
   { "query": "「我们一起摇太阳」撤档", "display_query": "「我们一起摇太阳」撤档" }
 ]
