@@ -14,8 +14,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Feb 20 2024 11:08:02 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Feb 20 2024 12:10:05 GMT+0800 (China Standard Time) -->
 
+1. [今日A股市场](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5A%E8%82%A1%E5%B8%82%E5%9C%BA)
+1. [今日股市行情](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5%E8%82%A1%E5%B8%82%E8%A1%8C%E6%83%85)
+1. [软件工程](https://www.zhihu.com/search?q=%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B)
+1. [计算机一级证要考吗](https://www.zhihu.com/search?q=%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%80%E7%BA%A7%E8%AF%81%E8%A6%81%E8%80%83%E5%90%97)
+1. [计算机二级哪个比较好考](https://www.zhihu.com/search?q=%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BA%8C%E7%BA%A7%E5%93%AA%E4%B8%AA%E6%AF%94%E8%BE%83%E5%A5%BD%E8%80%83)
+1. [项目管理](https://www.zhihu.com/search?q=%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86)
+1. [信息系统项目管理师](https://www.zhihu.com/search?q=%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86%E5%B8%88)
+1. [网络工程师](https://www.zhihu.com/search?q=%E7%BD%91%E7%BB%9C%E5%B7%A5%E7%A8%8B%E5%B8%88)
+1. [软考高项](https://www.zhihu.com/search?q=%E8%BD%AF%E8%80%83%E9%AB%98%E9%A1%B9)
+1. [软件工程师](https://www.zhihu.com/search?q=%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%B8%88)
 1. [A股三大指数集体高开](https://www.zhihu.com/search?q=A%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80)
 1. [南来北往](https://www.zhihu.com/search?q=%E5%8D%97%E6%9D%A5%E5%8C%97%E5%BE%80)
 1. [「飞驰人生2」细节](https://www.zhihu.com/search?q=%E3%80%8C%E9%A3%9E%E9%A9%B0%E4%BA%BA%E7%94%9F2%E3%80%8D%E7%BB%86%E8%8A%82)
