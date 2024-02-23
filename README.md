@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Feb 23 2024 13:08:01 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Feb 23 2024 14:10:08 GMT+0800 (China Standard Time) -->
 
 1. [今日A股市场](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5A%E8%82%A1%E5%B8%82%E5%9C%BA)
 1. [软件工程](https://www.zhihu.com/search?q=%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B)
@@ -23,6 +23,9 @@
 1. [项目管理](https://www.zhihu.com/search?q=%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86)
 1. [信息系统项目管理师](https://www.zhihu.com/search?q=%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86%E5%B8%88)
 1. [网络工程师](https://www.zhihu.com/search?q=%E7%BD%91%E7%BB%9C%E5%B7%A5%E7%A8%8B%E5%B8%88)
+1. [软考报名时间2024上半年](https://www.zhihu.com/search?q=%E8%BD%AF%E8%80%83%E6%8A%A5%E5%90%8D%E6%97%B6%E9%97%B42024%E4%B8%8A%E5%8D%8A%E5%B9%B4)
+1. [你们闻过最臭的是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E4%BB%AC%E9%97%BB%E8%BF%87%E6%9C%80%E8%87%AD%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88)
+1. [第二十条](https://www.zhihu.com/search?q=%E7%AC%AC%E4%BA%8C%E5%8D%81%E6%9D%A1)
 1. [软考高项](https://www.zhihu.com/search?q=%E8%BD%AF%E8%80%83%E9%AB%98%E9%A1%B9)
 1. [软件工程师](https://www.zhihu.com/search?q=%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%B8%88)
 1. [软考证书](https://www.zhihu.com/search?q=%E8%BD%AF%E8%80%83%E8%AF%81%E4%B9%A6)
