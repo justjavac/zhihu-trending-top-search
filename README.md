@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Feb 26 2024 10:17:14 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Feb 26 2024 11:08:45 GMT+0800 (China Standard Time) -->
 
 1. [今日A股市场](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5A%E8%82%A1%E5%B8%82%E5%9C%BA)
 1. [软件工程](https://www.zhihu.com/search?q=%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B)
@@ -23,8 +23,10 @@
 1. [信息系统项目管理师](https://www.zhihu.com/search?q=%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86%E5%B8%88)
 1. [网络工程师](https://www.zhihu.com/search?q=%E7%BD%91%E7%BB%9C%E5%B7%A5%E7%A8%8B%E5%B8%88)
 1. [第二十条](https://www.zhihu.com/search?q=%E7%AC%AC%E4%BA%8C%E5%8D%81%E6%9D%A1)
-1. [当老师久了能一眼看出学生聪不聪明吗](https://www.zhihu.com/search?q=%E5%BD%93%E8%80%81%E5%B8%88%E4%B9%85%E4%BA%86%E8%83%BD%E4%B8%80%E7%9C%BC%E7%9C%8B%E5%87%BA%E5%AD%A6%E7%94%9F%E8%81%AA%E4%B8%8D%E8%81%AA%E6%98%8E%E5%90%97)
 1. [致命游戏](https://www.zhihu.com/search?q=%E8%87%B4%E5%91%BD%E6%B8%B8%E6%88%8F)
+1. [10大高含金量证书排行榜](https://www.zhihu.com/search?q=10%E5%A4%A7%E9%AB%98%E5%90%AB%E9%87%91%E9%87%8F%E8%AF%81%E4%B9%A6%E6%8E%92%E8%A1%8C%E6%A6%9C)
+1. [pmp和软考哪个含金量高](https://www.zhihu.com/search?q=pmp%E5%92%8C%E8%BD%AF%E8%80%83%E5%93%AA%E4%B8%AA%E5%90%AB%E9%87%91%E9%87%8F%E9%AB%98)
+1. [当老师久了能一眼看出学生聪不聪明吗](https://www.zhihu.com/search?q=%E5%BD%93%E8%80%81%E5%B8%88%E4%B9%85%E4%BA%86%E8%83%BD%E4%B8%80%E7%9C%BC%E7%9C%8B%E5%87%BA%E5%AD%A6%E7%94%9F%E8%81%AA%E4%B8%8D%E8%81%AA%E6%98%8E%E5%90%97)
 1. [你因为什么事情报过警](https://www.zhihu.com/search?q=%E4%BD%A0%E5%9B%A0%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BA%8B%E6%83%85%E6%8A%A5%E8%BF%87%E8%AD%A6)
 
 <!-- END -->
