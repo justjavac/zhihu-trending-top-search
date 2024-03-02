@@ -14,12 +14,13 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Mar 02 2024 10:11:15 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Mar 02 2024 11:07:30 GMT+0800 (China Standard Time) -->
 
 1. [四六级成绩](https://www.zhihu.com/search?q=%E5%9B%9B%E5%85%AD%E7%BA%A7%E6%88%90%E7%BB%A9)
 1. [英语四六级](https://www.zhihu.com/search?q=%E8%8B%B1%E8%AF%AD%E5%9B%9B%E5%85%AD%E7%BA%A7)
 1. [英语六级](https://www.zhihu.com/search?q=%E8%8B%B1%E8%AF%AD%E5%85%AD%E7%BA%A7)
 1. [英语四级](https://www.zhihu.com/search?q=%E8%8B%B1%E8%AF%AD%E5%9B%9B%E7%BA%A7)
+1. [韩国医生拒绝复工要求](https://www.zhihu.com/search?q=%E9%9F%A9%E5%9B%BD%E5%8C%BB%E7%94%9F%E6%8B%92%E7%BB%9D%E5%A4%8D%E5%B7%A5%E8%A6%81%E6%B1%82)
 1. [第一眼就感到震撼的图片](https://www.zhihu.com/search?q=%E7%AC%AC%E4%B8%80%E7%9C%BC%E5%B0%B1%E6%84%9F%E5%88%B0%E9%9C%87%E6%92%BC%E7%9A%84%E5%9B%BE%E7%89%87)
 1. [虾为啥要长得这么适合被吃](https://www.zhihu.com/search?q=%E8%99%BE%E4%B8%BA%E5%95%A5%E8%A6%81%E9%95%BF%E5%BE%97%E8%BF%99%E4%B9%88%E9%80%82%E5%90%88%E8%A2%AB%E5%90%83)
 1. [烟火人家](https://www.zhihu.com/search?q=%E7%83%9F%E7%81%AB%E4%BA%BA%E5%AE%B6)
