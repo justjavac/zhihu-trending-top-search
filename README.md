@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Mar 05 2024 05:07:20 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Mar 05 2024 06:06:37 GMT+0800 (China Standard Time) -->
 
 1. [湖人vs掘金](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BAvs%E6%8E%98%E9%87%91)
 1. [「红毯先生」定档](https://www.zhihu.com/search?q=%E3%80%8C%E7%BA%A2%E6%AF%AF%E5%85%88%E7%94%9F%E3%80%8D%E5%AE%9A%E6%A1%A3)
