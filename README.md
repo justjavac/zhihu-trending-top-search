@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Mar 04 2024 15:53:00 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Mar 04 2024 17:28:01 GMT+0800 (China Standard Time) -->
 
 1. [湖人vs掘金](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BAvs%E6%8E%98%E9%87%91)
 1. [维斯塔潘夺冠](https://www.zhihu.com/search?q=%E7%BB%B4%E6%96%AF%E5%A1%94%E6%BD%98%E5%A4%BA%E5%86%A0)
