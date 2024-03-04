@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Mar 04 2024 10:56:24 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Mar 04 2024 11:39:30 GMT+0800 (China Standard Time) -->
 
 1. [烟火人家](https://www.zhihu.com/search?q=%E7%83%9F%E7%81%AB%E4%BA%BA%E5%AE%B6)
 1. [因为不想回国被妈妈拉黑了](https://www.zhihu.com/search?q=%E5%9B%A0%E4%B8%BA%E4%B8%8D%E6%83%B3%E5%9B%9E%E5%9B%BD%E8%A2%AB%E5%A6%88%E5%A6%88%E6%8B%89%E9%BB%91%E4%BA%86)
@@ -22,10 +22,11 @@
 1. [飞驰人生2票房破30亿](https://www.zhihu.com/search?q=%E9%A3%9E%E9%A9%B0%E4%BA%BA%E7%94%9F2%E7%A5%A8%E6%88%BF%E7%A0%B430%E4%BA%BF)
 1. [老师应不应该管学生的QQ昵称](https://www.zhihu.com/search?q=%E8%80%81%E5%B8%88%E5%BA%94%E4%B8%8D%E5%BA%94%E8%AF%A5%E7%AE%A1%E5%AD%A6%E7%94%9F%E7%9A%84QQ%E6%98%B5%E7%A7%B0)
 1. [24考研国家线](https://www.zhihu.com/search?q=24%E8%80%83%E7%A0%94%E5%9B%BD%E5%AE%B6%E7%BA%BF)
-1. [宗馥莉为什么没有结婚](https://www.zhihu.com/search?q=%E5%AE%97%E9%A6%A5%E8%8E%89%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B2%A1%E6%9C%89%E7%BB%93%E5%A9%9A)
 1. [mwc2024](https://www.zhihu.com/search?q=mwc2024)
 1. [董宇辉微博清空](https://www.zhihu.com/search?q=%E8%91%A3%E5%AE%87%E8%BE%89%E5%BE%AE%E5%8D%9A%E6%B8%85%E7%A9%BA)
 1. [快递新规下月起实施](https://www.zhihu.com/search?q=%E5%BF%AB%E9%80%92%E6%96%B0%E8%A7%84%E4%B8%8B%E6%9C%88%E8%B5%B7%E5%AE%9E%E6%96%BD)
+1. [苹果取消造车](https://www.zhihu.com/search?q=%E8%8B%B9%E6%9E%9C%E5%8F%96%E6%B6%88%E9%80%A0%E8%BD%A6)
+1. [宗馥莉为什么没有结婚](https://www.zhihu.com/search?q=%E5%AE%97%E9%A6%A5%E8%8E%89%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B2%A1%E6%9C%89%E7%BB%93%E5%A9%9A)
 
 <!-- END -->
 
