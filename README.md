@@ -14,9 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Mar 04 2024 17:28:01 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Mar 04 2024 19:18:34 GMT+0800 (China Standard Time) -->
 
 1. [湖人vs掘金](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BAvs%E6%8E%98%E9%87%91)
+1. [「红毯先生」定档](https://www.zhihu.com/search?q=%E3%80%8C%E7%BA%A2%E6%AF%AF%E5%85%88%E7%94%9F%E3%80%8D%E5%AE%9A%E6%A1%A3)
 1. [维斯塔潘夺冠](https://www.zhihu.com/search?q=%E7%BB%B4%E6%96%AF%E5%A1%94%E6%BD%98%E5%A4%BA%E5%86%A0)
 1. [一个男人最大的底气是什么](https://www.zhihu.com/search?q=%E4%B8%80%E4%B8%AA%E7%94%B7%E4%BA%BA%E6%9C%80%E5%A4%A7%E7%9A%84%E5%BA%95%E6%B0%94%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [信息系统项目管理师](https://www.zhihu.com/search?q=%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86%E5%B8%88)
