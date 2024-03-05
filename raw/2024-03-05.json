@@ -1,5 +1,7 @@
 [
   { "query": "惊蛰", "display_query": "惊蛰" },
+  { "query": "三大指数开盘涨跌不一", "display_query": "三大指数开盘涨跌不一" },
+  { "query": "今日股市行情", "display_query": "今日股市行情" },
   { "query": "湖人vs掘金", "display_query": "湖人vs掘金" },
   { "query": "「红毯先生」定档", "display_query": "「红毯先生」定档" },
   { "query": "维斯塔潘夺冠", "display_query": "维斯塔潘夺冠" },

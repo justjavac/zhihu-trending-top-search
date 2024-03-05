@@ -14,9 +14,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Mar 05 2024 11:07:40 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Mar 05 2024 12:09:44 GMT+0800 (China Standard Time) -->
 
 1. [惊蛰](https://www.zhihu.com/search?q=%E6%83%8A%E8%9B%B0)
+1. [三大指数开盘涨跌不一](https://www.zhihu.com/search?q=%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E5%BC%80%E7%9B%98%E6%B6%A8%E8%B7%8C%E4%B8%8D%E4%B8%80)
+1. [今日股市行情](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5%E8%82%A1%E5%B8%82%E8%A1%8C%E6%83%85)
 1. [湖人vs掘金](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BAvs%E6%8E%98%E9%87%91)
 1. [「红毯先生」定档](https://www.zhihu.com/search?q=%E3%80%8C%E7%BA%A2%E6%AF%AF%E5%85%88%E7%94%9F%E3%80%8D%E5%AE%9A%E6%A1%A3)
 1. [维斯塔潘夺冠](https://www.zhihu.com/search?q=%E7%BB%B4%E6%96%AF%E5%A1%94%E6%BD%98%E5%A4%BA%E5%86%A0)
