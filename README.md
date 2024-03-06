@@ -14,9 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Mar 06 2024 12:08:36 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Mar 06 2024 13:06:52 GMT+0800 (China Standard Time) -->
 
 1. [多家银行下调存款利率](https://www.zhihu.com/search?q=%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E4%B8%8B%E8%B0%83%E5%AD%98%E6%AC%BE%E5%88%A9%E7%8E%87)
+1. [今日A股市场](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5A%E8%82%A1%E5%B8%82%E5%9C%BA)
 1. [cpa如何规划备考](https://www.zhihu.com/search?q=cpa%E5%A6%82%E4%BD%95%E8%A7%84%E5%88%92%E5%A4%87%E8%80%83)
 1. [cpa证书的含金量到底有多少](https://www.zhihu.com/search?q=cpa%E8%AF%81%E4%B9%A6%E7%9A%84%E5%90%AB%E9%87%91%E9%87%8F%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E5%B0%91)
 1. [软考](https://www.zhihu.com/search?q=%E8%BD%AF%E8%80%83)
