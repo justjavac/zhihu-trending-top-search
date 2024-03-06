@@ -14,11 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Mar 06 2024 11:07:51 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Mar 06 2024 12:08:36 GMT+0800 (China Standard Time) -->
 
 1. [多家银行下调存款利率](https://www.zhihu.com/search?q=%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E4%B8%8B%E8%B0%83%E5%AD%98%E6%AC%BE%E5%88%A9%E7%8E%87)
-1. [三大指数开盘涨跌不一](https://www.zhihu.com/search?q=%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E5%BC%80%E7%9B%98%E6%B6%A8%E8%B7%8C%E4%B8%8D%E4%B8%80)
-1. [今日股市行情](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5%E8%82%A1%E5%B8%82%E8%A1%8C%E6%83%85)
 1. [cpa如何规划备考](https://www.zhihu.com/search?q=cpa%E5%A6%82%E4%BD%95%E8%A7%84%E5%88%92%E5%A4%87%E8%80%83)
 1. [cpa证书的含金量到底有多少](https://www.zhihu.com/search?q=cpa%E8%AF%81%E4%B9%A6%E7%9A%84%E5%90%AB%E9%87%91%E9%87%8F%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E5%B0%91)
 1. [软考](https://www.zhihu.com/search?q=%E8%BD%AF%E8%80%83)
@@ -26,6 +24,10 @@
 1. [软考成绩查询时间](https://www.zhihu.com/search?q=%E8%BD%AF%E8%80%83%E6%88%90%E7%BB%A9%E6%9F%A5%E8%AF%A2%E6%97%B6%E9%97%B4)
 1. [注册会计师](https://www.zhihu.com/search?q=%E6%B3%A8%E5%86%8C%E4%BC%9A%E8%AE%A1%E5%B8%88)
 1. [注会备考攻略](https://www.zhihu.com/search?q=%E6%B3%A8%E4%BC%9A%E5%A4%87%E8%80%83%E6%94%BB%E7%95%A5)
+1. [cpa是什么](https://www.zhihu.com/search?q=cpa%E6%98%AF%E4%BB%80%E4%B9%88)
+1. [cpa自学过的概率大吗](https://www.zhihu.com/search?q=cpa%E8%87%AA%E5%AD%A6%E8%BF%87%E7%9A%84%E6%A6%82%E7%8E%87%E5%A4%A7%E5%90%97)
+1. [三大指数开盘涨跌不一](https://www.zhihu.com/search?q=%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E5%BC%80%E7%9B%98%E6%B6%A8%E8%B7%8C%E4%B8%8D%E4%B8%80)
+1. [今日股市行情](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5%E8%82%A1%E5%B8%82%E8%A1%8C%E6%83%85)
 1. [惊蛰](https://www.zhihu.com/search?q=%E6%83%8A%E8%9B%B0)
 
 <!-- END -->
