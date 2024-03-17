@@ -4,9 +4,10 @@
   { "query": "申论课程哪个老师好", "display_query": "申论课程哪个老师好" },
   { "query": "在职研究生", "display_query": "在职研究生" },
   { "query": "考研英语二", "display_query": "考研英语二" },
-  { "query": "省考", "display_query": "省考" },
   { "query": "定向选调生", "display_query": "定向选调生" },
   { "query": "省考时间汇总", "display_query": "省考时间汇总" },
   { "query": "软件工程", "display_query": "软件工程" },
-  { "query": "兼职副业干什么好", "display_query": "兼职副业干什么好" }
+  { "query": "兼职副业干什么好", "display_query": "兼职副业干什么好" },
+  { "query": "ps教程", "display_query": "ps教程" },
+  { "query": "省考", "display_query": "省考" }
 ]
