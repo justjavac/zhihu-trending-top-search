@@ -1,6 +1,7 @@
 [
   { "query": "今日春分", "display_query": "今日春分" },
   { "query": "春分", "display_query": "春分" },
+  { "query": "特斯拉涨价", "display_query": "特斯拉涨价" },
   { "query": "碳中和", "display_query": "碳中和" },
   { "query": "三大指数集体低开", "display_query": "三大指数集体低开" },
   { "query": "今日A股市场", "display_query": "今日A股市场" },

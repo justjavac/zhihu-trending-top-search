@@ -14,10 +14,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Mar 20 2024 18:07:47 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Mar 20 2024 19:06:22 GMT+0800 (China Standard Time) -->
 
 1. [今日春分](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5%E6%98%A5%E5%88%86)
 1. [春分](https://www.zhihu.com/search?q=%E6%98%A5%E5%88%86)
+1. [特斯拉涨价](https://www.zhihu.com/search?q=%E7%89%B9%E6%96%AF%E6%8B%89%E6%B6%A8%E4%BB%B7)
 1. [碳中和](https://www.zhihu.com/search?q=%E7%A2%B3%E4%B8%AD%E5%92%8C)
 1. [三大指数集体低开](https://www.zhihu.com/search?q=%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80)
 1. [今日A股市场](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5A%E8%82%A1%E5%B8%82%E5%9C%BA)
