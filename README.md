@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Mar 22 2024 05:08:26 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Mar 22 2024 06:06:27 GMT+0800 (China Standard Time) -->
 
 1. [世界睡眠日](https://www.zhihu.com/search?q=%E4%B8%96%E7%95%8C%E7%9D%A1%E7%9C%A0%E6%97%A5)
 1. [特斯拉涨价](https://www.zhihu.com/search?q=%E7%89%B9%E6%96%AF%E6%8B%89%E6%B6%A8%E4%BB%B7)
