@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Mar 21 2024 09:40:53 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Mar 21 2024 10:16:12 GMT+0800 (China Standard Time) -->
 
 1. [今日春分](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5%E6%98%A5%E5%88%86)
 1. [世界睡眠日](https://www.zhihu.com/search?q=%E4%B8%96%E7%95%8C%E7%9D%A1%E7%9C%A0%E6%97%A5)
