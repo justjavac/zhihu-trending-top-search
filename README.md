@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Mar 23 2024 01:06:23 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Mar 23 2024 02:09:38 GMT+0800 (China Standard Time) -->
 
 1. [世界水日](https://www.zhihu.com/search?q=%E4%B8%96%E7%95%8C%E6%B0%B4%E6%97%A5)
 1. [特斯拉涨价](https://www.zhihu.com/search?q=%E7%89%B9%E6%96%AF%E6%8B%89%E6%B6%A8%E4%BB%B7)
