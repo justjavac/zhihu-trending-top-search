@@ -1,5 +1,4 @@
 [
-  { "query": "世界睡眠日", "display_query": "世界睡眠日" },
   { "query": "世界水日", "display_query": "世界水日" },
   { "query": "特斯拉涨价", "display_query": "特斯拉涨价" },
   { "query": "碳中和", "display_query": "碳中和" },
@@ -10,5 +9,6 @@
   { "query": "雅思备考", "display_query": "雅思备考" },
   { "query": "雅思口语", "display_query": "雅思口语" },
   { "query": "雅思听力", "display_query": "雅思听力" },
+  { "query": "世界睡眠日", "display_query": "世界睡眠日" },
   { "query": "雅思6.5", "display_query": "雅思6.5" }
 ]
