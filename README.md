@@ -14,11 +14,12 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Mar 22 2024 11:08:00 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Mar 22 2024 12:08:59 GMT+0800 (China Standard Time) -->
 
 1. [世界睡眠日](https://www.zhihu.com/search?q=%E4%B8%96%E7%95%8C%E7%9D%A1%E7%9C%A0%E6%97%A5)
 1. [特斯拉涨价](https://www.zhihu.com/search?q=%E7%89%B9%E6%96%AF%E6%8B%89%E6%B6%A8%E4%BB%B7)
 1. [碳中和](https://www.zhihu.com/search?q=%E7%A2%B3%E4%B8%AD%E5%92%8C)
+1. [今日A股市场](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5A%E8%82%A1%E5%B8%82%E5%9C%BA)
 1. [美联储维持利率不变](https://www.zhihu.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8%E7%BB%B4%E6%8C%81%E5%88%A9%E7%8E%87%E4%B8%8D%E5%8F%98)
 1. [在职研究生](https://www.zhihu.com/search?q=%E5%9C%A8%E8%81%8C%E7%A0%94%E7%A9%B6%E7%94%9F)
 1. [考公资料](https://www.zhihu.com/search?q=%E8%80%83%E5%85%AC%E8%B5%84%E6%96%99)
