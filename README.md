@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Mar 23 2024 23:09:00 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Mar 24 2024 00:07:36 GMT+0800 (China Standard Time) -->
 
 1. [特斯拉涨价](https://www.zhihu.com/search?q=%E7%89%B9%E6%96%AF%E6%8B%89%E6%B6%A8%E4%BB%B7)
 1. [碳中和](https://www.zhihu.com/search?q=%E7%A2%B3%E4%B8%AD%E5%92%8C)
@@ -26,7 +26,6 @@
 1. [雅思听力](https://www.zhihu.com/search?q=%E9%9B%85%E6%80%9D%E5%90%AC%E5%8A%9B)
 1. [雅思6.5](https://www.zhihu.com/search?q=%E9%9B%85%E6%80%9D6.5)
 1. [雅思机考](https://www.zhihu.com/search?q=%E9%9B%85%E6%80%9D%E6%9C%BA%E8%80%83)
-1. [世界水日](https://www.zhihu.com/search?q=%E4%B8%96%E7%95%8C%E6%B0%B4%E6%97%A5)
 
 <!-- END -->
 
