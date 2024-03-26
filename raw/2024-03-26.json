@@ -1,4 +1,5 @@
 [
+  { "query": "今日A股市场", "display_query": "今日A股市场" },
   { "query": "考公资料", "display_query": "考公资料" },
   { "query": "雅思机考", "display_query": "雅思机考" },
   { "query": "雅思报名", "display_query": "雅思报名" },
