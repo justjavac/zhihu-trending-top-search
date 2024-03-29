@@ -14,18 +14,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Mar 29 2024 19:08:07 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Mar 29 2024 20:13:12 GMT+0800 (China Standard Time) -->
 
 1. [碳中和](https://www.zhihu.com/search?q=%E7%A2%B3%E4%B8%AD%E5%92%8C)
 1. [今日A股市场](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5A%E8%82%A1%E5%B8%82%E5%9C%BA)
 1. [在职研究生](https://www.zhihu.com/search?q=%E5%9C%A8%E8%81%8C%E7%A0%94%E7%A9%B6%E7%94%9F)
-1. [考公资料](https://www.zhihu.com/search?q=%E8%80%83%E5%85%AC%E8%B5%84%E6%96%99)
-1. [资料分析](https://www.zhihu.com/search?q=%E8%B5%84%E6%96%99%E5%88%86%E6%9E%90)
 1. [软件工程](https://www.zhihu.com/search?q=%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B)
 1. [openai](https://www.zhihu.com/search?q=openai)
-1. [考公最吃香的十大专业](https://www.zhihu.com/search?q=%E8%80%83%E5%85%AC%E6%9C%80%E5%90%83%E9%A6%99%E7%9A%84%E5%8D%81%E5%A4%A7%E4%B8%93%E4%B8%9A)
 1. [非全日制计算机研究生](https://www.zhihu.com/search?q=%E9%9D%9E%E5%85%A8%E6%97%A5%E5%88%B6%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A0%94%E7%A9%B6%E7%94%9F)
 1. [在职考研](https://www.zhihu.com/search?q=%E5%9C%A8%E8%81%8C%E8%80%83%E7%A0%94)
+1. [mba有必要读吗](https://www.zhihu.com/search?q=mba%E6%9C%89%E5%BF%85%E8%A6%81%E8%AF%BB%E5%90%97)
+1. [cpa如何规划备考](https://www.zhihu.com/search?q=cpa%E5%A6%82%E4%BD%95%E8%A7%84%E5%88%92%E5%A4%87%E8%80%83)
+1. [在职研究生有必要读嘛](https://www.zhihu.com/search?q=%E5%9C%A8%E8%81%8C%E7%A0%94%E7%A9%B6%E7%94%9F%E6%9C%89%E5%BF%85%E8%A6%81%E8%AF%BB%E5%98%9B)
+1. [考公资料](https://www.zhihu.com/search?q=%E8%80%83%E5%85%AC%E8%B5%84%E6%96%99)
+1. [资料分析](https://www.zhihu.com/search?q=%E8%B5%84%E6%96%99%E5%88%86%E6%9E%90)
+1. [考公最吃香的十大专业](https://www.zhihu.com/search?q=%E8%80%83%E5%85%AC%E6%9C%80%E5%90%83%E9%A6%99%E7%9A%84%E5%8D%81%E5%A4%A7%E4%B8%93%E4%B8%9A)
 1. [考公备考全流程](https://www.zhihu.com/search?q=%E8%80%83%E5%85%AC%E5%A4%87%E8%80%83%E5%85%A8%E6%B5%81%E7%A8%8B)
 
 <!-- END -->
