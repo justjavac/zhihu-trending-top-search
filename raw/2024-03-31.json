@@ -1,0 +1,12 @@
+[
+  { "query": "碳中和", "display_query": "碳中和" },
+  { "query": "今日A股市场", "display_query": "今日A股市场" },
+  { "query": "雨果奖", "display_query": "雨果奖" },
+  { "query": "在职研究生", "display_query": "在职研究生" },
+  { "query": "软件工程", "display_query": "软件工程" },
+  { "query": "openai", "display_query": "openai" },
+  { "query": "非全日制计算机研究生", "display_query": "非全日制计算机研究生" },
+  { "query": "在职考研", "display_query": "在职考研" },
+  { "query": "mba有必要读吗", "display_query": "mba有必要读吗" },
+  { "query": "cpa如何规划备考", "display_query": "cpa如何规划备考" }
+]
