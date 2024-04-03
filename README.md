@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Apr 03 2024 08:34:18 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Apr 03 2024 09:41:27 GMT+0800 (China Standard Time) -->
 
 1. [油价上涨](https://www.zhihu.com/search?q=%E6%B2%B9%E4%BB%B7%E4%B8%8A%E6%B6%A8)
 1. [今日A股市场](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5A%E8%82%A1%E5%B8%82%E5%9C%BA)
