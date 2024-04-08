@@ -14,13 +14,14 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Apr 08 2024 15:09:10 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Apr 08 2024 16:10:38 GMT+0800 (China Standard Time) -->
 
 1. [多家银行下调存款利率](https://www.zhihu.com/search?q=%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E4%B8%8B%E8%B0%83%E5%AD%98%E6%AC%BE%E5%88%A9%E7%8E%87)
 1. [今日辟谣](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5%E8%BE%9F%E8%B0%A3)
 1. [十大冷门暴利生意](https://www.zhihu.com/search?q=%E5%8D%81%E5%A4%A7%E5%86%B7%E9%97%A8%E6%9A%B4%E5%88%A9%E7%94%9F%E6%84%8F)
 1. [视频剪辑如何自学](https://www.zhihu.com/search?q=%E8%A7%86%E9%A2%91%E5%89%AA%E8%BE%91%E5%A6%82%E4%BD%95%E8%87%AA%E5%AD%A6)
 1. [下一个风口最可能是什么](https://www.zhihu.com/search?q=%E4%B8%8B%E4%B8%80%E4%B8%AA%E9%A3%8E%E5%8F%A3%E6%9C%80%E5%8F%AF%E8%83%BD%E6%98%AF%E4%BB%80%E4%B9%88)
+1. [导师最有水平的一句话](https://www.zhihu.com/search?q=%E5%AF%BC%E5%B8%88%E6%9C%80%E6%9C%89%E6%B0%B4%E5%B9%B3%E7%9A%84%E4%B8%80%E5%8F%A5%E8%AF%9D)
 1. [写作怎么挣钱](https://www.zhihu.com/search?q=%E5%86%99%E4%BD%9C%E6%80%8E%E4%B9%88%E6%8C%A3%E9%92%B1)
 1. [小说推文](https://www.zhihu.com/search?q=%E5%B0%8F%E8%AF%B4%E6%8E%A8%E6%96%87)
 1. [没人愿意干却很暴利4大副业](https://www.zhihu.com/search?q=%E6%B2%A1%E4%BA%BA%E6%84%BF%E6%84%8F%E5%B9%B2%E5%8D%B4%E5%BE%88%E6%9A%B4%E5%88%A94%E5%A4%A7%E5%89%AF%E4%B8%9A)
