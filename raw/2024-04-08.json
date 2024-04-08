@@ -1,5 +1,4 @@
 [
-  { "query": "独行侠险胜勇士", "display_query": "独行侠险胜勇士" },
   { "query": "多家银行下调存款利率", "display_query": "多家银行下调存款利率" },
   { "query": "十大冷门暴利生意", "display_query": "十大冷门暴利生意" },
   { "query": "视频剪辑如何自学", "display_query": "视频剪辑如何自学" },
@@ -8,5 +7,7 @@
   { "query": "小说推文", "display_query": "小说推文" },
   { "query": "没人愿意干却很暴利4大副业", "display_query": "没人愿意干却很暴利4大副业" },
   { "query": "副业推荐靠谱的10个", "display_query": "副业推荐靠谱的10个" },
-  { "query": "大学生兼职", "display_query": "大学生兼职" }
+  { "query": "大学生兼职", "display_query": "大学生兼职" },
+  { "query": "赚钱方法学生", "display_query": "赚钱方法学生" },
+  { "query": "独行侠险胜勇士", "display_query": "独行侠险胜勇士" }
 ]

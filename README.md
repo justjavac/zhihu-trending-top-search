@@ -14,9 +14,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Apr 08 2024 11:08:07 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Apr 08 2024 12:10:00 GMT+0800 (China Standard Time) -->
 
-1. [独行侠险胜勇士](https://www.zhihu.com/search?q=%E7%8B%AC%E8%A1%8C%E4%BE%A0%E9%99%A9%E8%83%9C%E5%8B%87%E5%A3%AB)
 1. [多家银行下调存款利率](https://www.zhihu.com/search?q=%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E4%B8%8B%E8%B0%83%E5%AD%98%E6%AC%BE%E5%88%A9%E7%8E%87)
 1. [十大冷门暴利生意](https://www.zhihu.com/search?q=%E5%8D%81%E5%A4%A7%E5%86%B7%E9%97%A8%E6%9A%B4%E5%88%A9%E7%94%9F%E6%84%8F)
 1. [视频剪辑如何自学](https://www.zhihu.com/search?q=%E8%A7%86%E9%A2%91%E5%89%AA%E8%BE%91%E5%A6%82%E4%BD%95%E8%87%AA%E5%AD%A6)
@@ -26,6 +25,8 @@
 1. [没人愿意干却很暴利4大副业](https://www.zhihu.com/search?q=%E6%B2%A1%E4%BA%BA%E6%84%BF%E6%84%8F%E5%B9%B2%E5%8D%B4%E5%BE%88%E6%9A%B4%E5%88%A94%E5%A4%A7%E5%89%AF%E4%B8%9A)
 1. [副业推荐靠谱的10个](https://www.zhihu.com/search?q=%E5%89%AF%E4%B8%9A%E6%8E%A8%E8%8D%90%E9%9D%A0%E8%B0%B1%E7%9A%8410%E4%B8%AA)
 1. [大学生兼职](https://www.zhihu.com/search?q=%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%85%BC%E8%81%8C)
+1. [赚钱方法学生](https://www.zhihu.com/search?q=%E8%B5%9A%E9%92%B1%E6%96%B9%E6%B3%95%E5%AD%A6%E7%94%9F)
+1. [独行侠险胜勇士](https://www.zhihu.com/search?q=%E7%8B%AC%E8%A1%8C%E4%BE%A0%E9%99%A9%E8%83%9C%E5%8B%87%E5%A3%AB)
 
 <!-- END -->
 
