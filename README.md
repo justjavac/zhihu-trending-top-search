@@ -14,8 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Apr 09 2024 15:08:48 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Apr 09 2024 16:09:58 GMT+0800 (China Standard Time) -->
 
+1. [多家银行下调存款利率](https://www.zhihu.com/search?q=%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E4%B8%8B%E8%B0%83%E5%AD%98%E6%AC%BE%E5%88%A9%E7%8E%87)
 1. [导师最有水平的一句话](https://www.zhihu.com/search?q=%E5%AF%BC%E5%B8%88%E6%9C%80%E6%9C%89%E6%B0%B4%E5%B9%B3%E7%9A%84%E4%B8%80%E5%8F%A5%E8%AF%9D)
 1. [有哪些关于五常的段子](https://www.zhihu.com/search?q=%E6%9C%89%E5%93%AA%E4%BA%9B%E5%85%B3%E4%BA%8E%E4%BA%94%E5%B8%B8%E7%9A%84%E6%AE%B5%E5%AD%90)
 1. [为什么我对黑人没好感](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%91%E5%AF%B9%E9%BB%91%E4%BA%BA%E6%B2%A1%E5%A5%BD%E6%84%9F)
@@ -26,7 +27,6 @@
 1. [大部分大学生不懂构建自己的思想体系](https://www.zhihu.com/search?q=%E5%A4%A7%E9%83%A8%E5%88%86%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%B8%8D%E6%87%82%E6%9E%84%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E6%80%9D%E6%83%B3%E4%BD%93%E7%B3%BB)
 1. [如何面对生命中的挫折](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E9%9D%A2%E5%AF%B9%E7%94%9F%E5%91%BD%E4%B8%AD%E7%9A%84%E6%8C%AB%E6%8A%98)
 1. [运营商回应「注销手机号等于出卖自己」](https://www.zhihu.com/search?q=%E8%BF%90%E8%90%A5%E5%95%86%E5%9B%9E%E5%BA%94%E3%80%8C%E6%B3%A8%E9%94%80%E6%89%8B%E6%9C%BA%E5%8F%B7%E7%AD%89%E4%BA%8E%E5%87%BA%E5%8D%96%E8%87%AA%E5%B7%B1%E3%80%8D)
-1. [多家银行下调存款利率](https://www.zhihu.com/search?q=%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E4%B8%8B%E8%B0%83%E5%AD%98%E6%AC%BE%E5%88%A9%E7%8E%87)
 1. [今日辟谣](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5%E8%BE%9F%E8%B0%A3)
 1. [曼联VS利物浦](https://www.zhihu.com/search?q=%E6%9B%BC%E8%81%94VS%E5%88%A9%E7%89%A9%E6%B5%A6)
 1. [兰大回应虐猫考生进调剂名单](https://www.zhihu.com/search?q=%E5%85%B0%E5%A4%A7%E5%9B%9E%E5%BA%94%E8%99%90%E7%8C%AB%E8%80%83%E7%94%9F%E8%BF%9B%E8%B0%83%E5%89%82%E5%90%8D%E5%8D%95)

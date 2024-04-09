@@ -1,4 +1,5 @@
 [
+  { "query": "多家银行下调存款利率", "display_query": "多家银行下调存款利率" },
   { "query": "导师最有水平的一句话", "display_query": "导师最有水平的一句话" },
   { "query": "有哪些关于五常的段子", "display_query": "有哪些关于五常的段子" },
   { "query": "为什么我对黑人没好感", "display_query": "为什么我对黑人没好感" },
@@ -9,7 +10,6 @@
   { "query": "大部分大学生不懂构建自己的思想体系", "display_query": "大部分大学生不懂构建自己的思想体系" },
   { "query": "如何面对生命中的挫折", "display_query": "如何面对生命中的挫折" },
   { "query": "运营商回应「注销手机号等于出卖自己」", "display_query": "运营商回应「注销手机号等于出卖自己」" },
-  { "query": "多家银行下调存款利率", "display_query": "多家银行下调存款利率" },
   { "query": "今日辟谣", "display_query": "今日辟谣" },
   { "query": "曼联VS利物浦", "display_query": "曼联VS利物浦" },
   { "query": "兰大回应虐猫考生进调剂名单", "display_query": "兰大回应虐猫考生进调剂名单" },
