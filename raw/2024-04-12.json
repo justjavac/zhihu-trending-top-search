@@ -1,5 +1,4 @@
 [
-  { "query": "世界帕金森病日", "display_query": "世界帕金森病日" },
   { "query": "多家银行下调存款利率", "display_query": "多家银行下调存款利率" },
   { "query": "承欢记", "display_query": "承欢记" },
   { "query": "今日A股市场", "display_query": "今日A股市场" },
@@ -8,5 +7,7 @@
   { "query": "十大冷门暴利生意", "display_query": "十大冷门暴利生意" },
   { "query": "十大良心赚钱软件", "display_query": "十大良心赚钱软件" },
   { "query": "月入1万的10个冷门副业", "display_query": "月入1万的10个冷门副业" },
-  { "query": "openai", "display_query": "openai" }
+  { "query": "openai", "display_query": "openai" },
+  { "query": "视频剪辑如何自学", "display_query": "视频剪辑如何自学" },
+  { "query": "世界帕金森病日", "display_query": "世界帕金森病日" }
 ]
