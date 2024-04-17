@@ -1,6 +1,7 @@
 [
   { "query": "碳中和", "display_query": "碳中和" },
   { "query": "如何看待A股市场", "display_query": "如何看待A股市场" },
+  { "query": "今日A股市场", "display_query": "今日A股市场" },
   { "query": "行测", "display_query": "行测" },
   { "query": "申论课程哪个老师好", "display_query": "申论课程哪个老师好" },
   { "query": "国考怎么准备", "display_query": "国考怎么准备" },
