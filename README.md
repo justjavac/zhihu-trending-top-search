@@ -14,10 +14,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Apr 18 2024 13:08:31 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Apr 18 2024 14:10:08 GMT+0800 (China Standard Time) -->
 
 1. [碳中和](https://www.zhihu.com/search?q=%E7%A2%B3%E4%B8%AD%E5%92%8C)
 1. [今日A股市场](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5A%E8%82%A1%E5%B8%82%E5%9C%BA)
+1. [演员到底有多吃天赋](https://www.zhihu.com/search?q=%E6%BC%94%E5%91%98%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E5%90%83%E5%A4%A9%E8%B5%8B)
 1. [行测](https://www.zhihu.com/search?q=%E8%A1%8C%E6%B5%8B)
 1. [申论课程哪个老师好](https://www.zhihu.com/search?q=%E7%94%B3%E8%AE%BA%E8%AF%BE%E7%A8%8B%E5%93%AA%E4%B8%AA%E8%80%81%E5%B8%88%E5%A5%BD)
 1. [国考怎么准备](https://www.zhihu.com/search?q=%E5%9B%BD%E8%80%83%E6%80%8E%E4%B9%88%E5%87%86%E5%A4%87)
