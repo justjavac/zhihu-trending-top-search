@@ -1,8 +1,12 @@
 [
+  { "query": "怎么写小说", "display_query": "怎么写小说" },
   { "query": "碳中和", "display_query": "碳中和" },
   { "query": "如何看待今日A股市场", "display_query": "如何看待今日A股市场" },
   { "query": "行测", "display_query": "行测" },
+  { "query": "小米SU7尾部是北京小米", "display_query": "小米SU7尾部是北京小米" },
+  { "query": "该如何应对中年被裁员的危机", "display_query": "该如何应对中年被裁员的危机" },
   { "query": "申论课程哪个老师好", "display_query": "申论课程哪个老师好" },
+  { "query": "今年会是「AI应用落地元年」吗", "display_query": "今年会是「AI应用落地元年」吗" },
   { "query": "在职研究生", "display_query": "在职研究生" },
   { "query": "公考常识", "display_query": "公考常识" },
   { "query": "定向选调生", "display_query": "定向选调生" },
