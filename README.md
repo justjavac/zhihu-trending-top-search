@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Apr 22 2024 20:14:24 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Apr 22 2024 21:08:14 GMT+0800 (China Standard Time) -->
 
 1. [孙颖莎夺冠](https://www.zhihu.com/search?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E5%A4%BA%E5%86%A0)
 1. [心理学考研](https://www.zhihu.com/search?q=%E5%BF%83%E7%90%86%E5%AD%A6%E8%80%83%E7%A0%94)
