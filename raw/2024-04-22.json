@@ -1,7 +1,6 @@
 [
   { "query": "碳中和", "display_query": "碳中和" },
   { "query": "孙颖莎夺冠", "display_query": "孙颖莎夺冠" },
-  { "query": "今日A股市场", "display_query": "今日A股市场" },
   { "query": "哈工大计算机考研", "display_query": "哈工大计算机考研" },
   { "query": "申论课程哪个老师好", "display_query": "申论课程哪个老师好" },
   { "query": "心理学考研", "display_query": "心理学考研" },
@@ -10,5 +9,6 @@
   { "query": "湖人vs掘金", "display_query": "湖人vs掘金" },
   { "query": "考研英语二", "display_query": "考研英语二" },
   { "query": "定向选调生", "display_query": "定向选调生" },
+  { "query": "今日A股市场", "display_query": "今日A股市场" },
   { "query": "资料分析", "display_query": "资料分析" }
 ]
