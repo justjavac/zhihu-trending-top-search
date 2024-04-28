@@ -1,6 +1,5 @@
 [
   { "query": "日元贬值", "display_query": "日元贬值" },
-  { "query": "如何看待A股市场", "display_query": "如何看待A股市场" },
   { "query": "问界", "display_query": "问界" },
   { "query": "申论课程哪个老师好", "display_query": "申论课程哪个老师好" },
   { "query": "心理学考研", "display_query": "心理学考研" },
@@ -10,5 +9,6 @@
   { "query": "定向选调生", "display_query": "定向选调生" },
   { "query": "软件工程", "display_query": "软件工程" },
   { "query": "学历提升", "display_query": "学历提升" },
+  { "query": "如何看待A股市场", "display_query": "如何看待A股市场" },
   { "query": "视频剪辑软件", "display_query": "视频剪辑软件" }
 ]
