@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed May 01 2024 14:11:19 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed May 01 2024 15:08:35 GMT+0800 (China Standard Time) -->
 
 1. [国际不打小孩日](https://www.zhihu.com/search?q=%E5%9B%BD%E9%99%85%E4%B8%8D%E6%89%93%E5%B0%8F%E5%AD%A9%E6%97%A5)
 1. [申论课程哪个老师好](https://www.zhihu.com/search?q=%E7%94%B3%E8%AE%BA%E8%AF%BE%E7%A8%8B%E5%93%AA%E4%B8%AA%E8%80%81%E5%B8%88%E5%A5%BD)
