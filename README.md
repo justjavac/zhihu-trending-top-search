@@ -14,14 +14,16 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat May 04 2024 08:35:22 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat May 04 2024 09:42:07 GMT+0800 (China Standard Time) -->
 
 1. [中国航天员完成在轨交接](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E5%91%98%E5%AE%8C%E6%88%90%E5%9C%A8%E8%BD%A8%E4%BA%A4%E6%8E%A5)
+1. [为什么蹭课会被老师赶出来](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%B9%AD%E8%AF%BE%E4%BC%9A%E8%A2%AB%E8%80%81%E5%B8%88%E8%B5%B6%E5%87%BA%E6%9D%A5)
 1. [逃离人从众的旅行计划](https://www.zhihu.com/search?q=%E9%80%83%E7%A6%BB%E4%BA%BA%E4%BB%8E%E4%BC%97%E7%9A%84%E6%97%85%E8%A1%8C%E8%AE%A1%E5%88%92)
 1. [李想感谢雷军](https://www.zhihu.com/search?q=%E6%9D%8E%E6%83%B3%E6%84%9F%E8%B0%A2%E9%9B%B7%E5%86%9B)
 1. [国内油价迎今年第二降](https://www.zhihu.com/search?q=%E5%9B%BD%E5%86%85%E6%B2%B9%E4%BB%B7%E8%BF%8E%E4%BB%8A%E5%B9%B4%E7%AC%AC%E4%BA%8C%E9%99%8D)
 1. [乐乐茶致歉声明](https://www.zhihu.com/search?q=%E4%B9%90%E4%B9%90%E8%8C%B6%E8%87%B4%E6%AD%89%E5%A3%B0%E6%98%8E)
 1. [问界m7事故家属再发声](https://www.zhihu.com/search?q=%E9%97%AE%E7%95%8Cm7%E4%BA%8B%E6%95%85%E5%AE%B6%E5%B1%9E%E5%86%8D%E5%8F%91%E5%A3%B0)
+1. [国际刑事法院可能通缉内塔尼亚胡](https://www.zhihu.com/search?q=%E5%9B%BD%E9%99%85%E5%88%91%E4%BA%8B%E6%B3%95%E9%99%A2%E5%8F%AF%E8%83%BD%E9%80%9A%E7%BC%89%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1)
 1. [周鸿祎迈巴赫990万成交](https://www.zhihu.com/search?q=%E5%91%A8%E9%B8%BF%E7%A5%8E%E8%BF%88%E5%B7%B4%E8%B5%AB990%E4%B8%87%E6%88%90%E4%BA%A4)
 1. [华为一季度营收净利分析](https://www.zhihu.com/search?q=%E5%8D%8E%E4%B8%BA%E4%B8%80%E5%AD%A3%E5%BA%A6%E8%90%A5%E6%94%B6%E5%87%80%E5%88%A9%E5%88%86%E6%9E%90)
 1. [皇马赛季表现评价](https://www.zhihu.com/search?q=%E7%9A%87%E9%A9%AC%E8%B5%9B%E5%AD%A3%E8%A1%A8%E7%8E%B0%E8%AF%84%E4%BB%B7)
