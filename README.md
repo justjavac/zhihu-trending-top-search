@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun May 05 2024 13:07:46 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun May 05 2024 14:09:36 GMT+0800 (China Standard Time) -->
 
 1. [五四青年节](https://www.zhihu.com/search?q=%E4%BA%94%E5%9B%9B%E9%9D%92%E5%B9%B4%E8%8A%82)
 1. [立夏](https://www.zhihu.com/search?q=%E7%AB%8B%E5%A4%8F)
@@ -25,8 +25,8 @@
 1. [茶百道以胖猫之名捐款100万](https://www.zhihu.com/search?q=%E8%8C%B6%E7%99%BE%E9%81%93%E4%BB%A5%E8%83%96%E7%8C%AB%E4%B9%8B%E5%90%8D%E6%8D%90%E6%AC%BE100%E4%B8%87)
 1. [嫦娥六号任务点火发射](https://www.zhihu.com/search?q=%E5%AB%A6%E5%A8%A5%E5%85%AD%E5%8F%B7%E4%BB%BB%E5%8A%A1%E7%82%B9%E7%81%AB%E5%8F%91%E5%B0%84)
 1. [太阳爆发强耀斑对我国产生影响](https://www.zhihu.com/search?q=%E5%A4%AA%E9%98%B3%E7%88%86%E5%8F%91%E5%BC%BA%E8%80%80%E6%96%91%E5%AF%B9%E6%88%91%E5%9B%BD%E4%BA%A7%E7%94%9F%E5%BD%B1%E5%93%8D)
-1. [印尼火山喷发灰柱高达5000米](https://www.zhihu.com/search?q=%E5%8D%B0%E5%B0%BC%E7%81%AB%E5%B1%B1%E5%96%B7%E5%8F%91%E7%81%B0%E6%9F%B1%E9%AB%98%E8%BE%BE5000%E7%B1%B3)
 1. [王一博演唱跃动上海](https://www.zhihu.com/search?q=%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%BC%94%E5%94%B1%E8%B7%83%E5%8A%A8%E4%B8%8A%E6%B5%B7)
+1. [印尼火山喷发灰柱高达5000米](https://www.zhihu.com/search?q=%E5%8D%B0%E5%B0%BC%E7%81%AB%E5%B1%B1%E5%96%B7%E5%8F%91%E7%81%B0%E6%9F%B1%E9%AB%98%E8%BE%BE5000%E7%B1%B3)
 
 <!-- END -->
 
