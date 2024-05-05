@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon May 06 2024 04:07:14 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon May 06 2024 05:06:35 GMT+0800 (China Standard Time) -->
 
 1. [五四青年节](https://www.zhihu.com/search?q=%E4%BA%94%E5%9B%9B%E9%9D%92%E5%B9%B4%E8%8A%82)
 1. [立夏](https://www.zhihu.com/search?q=%E7%AB%8B%E5%A4%8F)
