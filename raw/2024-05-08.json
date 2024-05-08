@@ -1,5 +1,4 @@
 [
-  { "query": "淘宝确认免单不是bug", "display_query": "淘宝确认免单不是bug" },
   { "query": "今日A股市场", "display_query": "今日A股市场" },
   { "query": "逃离人从众的旅行计划", "display_query": "逃离人从众的旅行计划" },
   { "query": "河南大学通报大礼堂起火", "display_query": "河南大学通报大礼堂起火" },
@@ -9,5 +8,6 @@
   { "query": "国铁集团回应高铁票价将上涨", "display_query": "国铁集团回应高铁票价将上涨" },
   { "query": "国羽女队捧杯瞬间", "display_query": "国羽女队捧杯瞬间" },
   { "query": "莫里斯去世", "display_query": "莫里斯去世" },
-  { "query": "下跪拦车老人回乡被授予锦旗", "display_query": "下跪拦车老人回乡被授予锦旗" }
+  { "query": "下跪拦车老人回乡被授予锦旗", "display_query": "下跪拦车老人回乡被授予锦旗" },
+  { "query": "淘宝确认免单不是bug", "display_query": "淘宝确认免单不是bug" }
 ]
