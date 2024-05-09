@@ -14,9 +14,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu May 09 2024 14:10:49 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu May 09 2024 15:09:26 GMT+0800 (China Standard Time) -->
 
+1. [今日A股市场](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5A%E8%82%A1%E5%B8%82%E5%9C%BA)
 1. [法庭上有什么有趣的事](https://www.zhihu.com/search?q=%E6%B3%95%E5%BA%AD%E4%B8%8A%E6%9C%89%E4%BB%80%E4%B9%88%E6%9C%89%E8%B6%A3%E7%9A%84%E4%BA%8B)
+1. [人民币兑美元中间价报7.0994](https://www.zhihu.com/search?q=%E4%BA%BA%E6%B0%91%E5%B8%81%E5%85%91%E7%BE%8E%E5%85%83%E4%B8%AD%E9%97%B4%E4%BB%B7%E6%8A%A57.0994)
+1. [今年五一档票房破15亿](https://www.zhihu.com/search?q=%E4%BB%8A%E5%B9%B4%E4%BA%94%E4%B8%80%E6%A1%A3%E7%A5%A8%E6%88%BF%E7%A0%B415%E4%BA%BF)
+1. [王楚钦孙颖莎获奥运混双资格](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8E%E8%8E%B7%E5%A5%A5%E8%BF%90%E6%B7%B7%E5%8F%8C%E8%B5%84%E6%A0%BC)
+1. [马龙无缘巴黎奥运会单打](https://www.zhihu.com/search?q=%E9%A9%AC%E9%BE%99%E6%97%A0%E7%BC%98%E5%B7%B4%E9%BB%8E%E5%A5%A5%E8%BF%90%E4%BC%9A%E5%8D%95%E6%89%93)
+1. [哈马斯回应对斡旋方停火提议](https://www.zhihu.com/search?q=%E5%93%88%E9%A9%AC%E6%96%AF%E5%9B%9E%E5%BA%94%E5%AF%B9%E6%96%A1%E6%97%8B%E6%96%B9%E5%81%9C%E7%81%AB%E6%8F%90%E8%AE%AE)
+1. [特斯拉回应金华事故](https://www.zhihu.com/search?q=%E7%89%B9%E6%96%AF%E6%8B%89%E5%9B%9E%E5%BA%94%E9%87%91%E5%8D%8E%E4%BA%8B%E6%95%85)
+1. [哈马斯宣布同意停火提议](https://www.zhihu.com/search?q=%E5%93%88%E9%A9%AC%E6%96%AF%E5%AE%A3%E5%B8%83%E5%90%8C%E6%84%8F%E5%81%9C%E7%81%AB%E6%8F%90%E8%AE%AE)
+1. [百度副总裁隐藏争议视频](https://www.zhihu.com/search?q=%E7%99%BE%E5%BA%A6%E5%89%AF%E6%80%BB%E8%A3%81%E9%9A%90%E8%97%8F%E4%BA%89%E8%AE%AE%E8%A7%86%E9%A2%91)
 1. [日本儿童人口再创新低](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E5%84%BF%E7%AB%A5%E4%BA%BA%E5%8F%A3%E5%86%8D%E5%88%9B%E6%96%B0%E4%BD%8E)
 1. [森林狼VS掘金](https://www.zhihu.com/search?q=%E6%A3%AE%E6%9E%97%E7%8B%BCVS%E6%8E%98%E9%87%91)
 1. [迈阿密国际6比2纽约红牛](https://www.zhihu.com/search?q=%E8%BF%88%E9%98%BF%E5%AF%86%E5%9B%BD%E9%99%856%E6%AF%942%E7%BA%BD%E7%BA%A6%E7%BA%A2%E7%89%9B)
@@ -24,10 +33,7 @@
 1. [凤凰传奇观众被质疑假唱](https://www.zhihu.com/search?q=%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87%E8%A7%82%E4%BC%97%E8%A2%AB%E8%B4%A8%E7%96%91%E5%81%87%E5%94%B1)
 1. [40岁失业手里400万该如何生存](https://www.zhihu.com/search?q=40%E5%B2%81%E5%A4%B1%E4%B8%9A%E6%89%8B%E9%87%8C400%E4%B8%87%E8%AF%A5%E5%A6%82%E4%BD%95%E7%94%9F%E5%AD%98)
 1. [曝iphone17将推slim机型](https://www.zhihu.com/search?q=%E6%9B%9Diphone17%E5%B0%86%E6%8E%A8slim%E6%9C%BA%E5%9E%8B)
-1. [王楚钦孙颖莎获奥运混双资格](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8E%E8%8E%B7%E5%A5%A5%E8%BF%90%E6%B7%B7%E5%8F%8C%E8%B5%84%E6%A0%BC)
 1. [什么是真正的恶](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E6%98%AF%E7%9C%9F%E6%AD%A3%E7%9A%84%E6%81%B6)
-1. [今年五一档票房破15亿](https://www.zhihu.com/search?q=%E4%BB%8A%E5%B9%B4%E4%BA%94%E4%B8%80%E6%A1%A3%E7%A5%A8%E6%88%BF%E7%A0%B415%E4%BA%BF)
-1. [马龙无缘巴黎奥运会单打](https://www.zhihu.com/search?q=%E9%A9%AC%E9%BE%99%E6%97%A0%E7%BC%98%E5%B7%B4%E9%BB%8E%E5%A5%A5%E8%BF%90%E4%BC%9A%E5%8D%95%E6%89%93)
 1. [五一国内旅游2.95亿人次](https://www.zhihu.com/search?q=%E4%BA%94%E4%B8%80%E5%9B%BD%E5%86%85%E6%97%85%E6%B8%B82.95%E4%BA%BF%E4%BA%BA%E6%AC%A1)
 
 <!-- END -->
