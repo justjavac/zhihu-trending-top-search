@@ -14,10 +14,19 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri May 10 2024 13:07:52 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri May 10 2024 14:10:36 GMT+0800 (China Standard Time) -->
 
-1. [今日A股市场](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5A%E8%82%A1%E5%B8%82%E5%9C%BA)
+1. [皇马2：1拜仁](https://www.zhihu.com/search?q=%E7%9A%87%E9%A9%AC2%EF%BC%9A1%E6%8B%9C%E4%BB%81)
 1. [法庭上有什么有趣的事](https://www.zhihu.com/search?q=%E6%B3%95%E5%BA%AD%E4%B8%8A%E6%9C%89%E4%BB%80%E4%B9%88%E6%9C%89%E8%B6%A3%E7%9A%84%E4%BA%8B)
+1. [歌手2024首期阵容](https://www.zhihu.com/search?q=%E6%AD%8C%E6%89%8B2024%E9%A6%96%E6%9C%9F%E9%98%B5%E5%AE%B9)
+1. [以色列为何执意攻打拉法](https://www.zhihu.com/search?q=%E4%BB%A5%E8%89%B2%E5%88%97%E4%B8%BA%E4%BD%95%E6%89%A7%E6%84%8F%E6%94%BB%E6%89%93%E6%8B%89%E6%B3%95)
+1. [太阳今早爆发一次强耀斑](https://www.zhihu.com/search?q=%E5%A4%AA%E9%98%B3%E4%BB%8A%E6%97%A9%E7%88%86%E5%8F%91%E4%B8%80%E6%AC%A1%E5%BC%BA%E8%80%80%E6%96%91)
+1. [俄罗斯红场举行胜利日阅兵](https://www.zhihu.com/search?q=%E4%BF%84%E7%BD%97%E6%96%AF%E7%BA%A2%E5%9C%BA%E4%B8%BE%E8%A1%8C%E8%83%9C%E5%88%A9%E6%97%A5%E9%98%85%E5%85%B5)
+1. [媒体谈ST美尚上市造假](https://www.zhihu.com/search?q=%E5%AA%92%E4%BD%93%E8%B0%88ST%E7%BE%8E%E5%B0%9A%E4%B8%8A%E5%B8%82%E9%80%A0%E5%81%87)
+1. [西安全面取消住房限购措施](https://www.zhihu.com/search?q=%E8%A5%BF%E5%AE%89%E5%85%A8%E9%9D%A2%E5%8F%96%E6%B6%88%E4%BD%8F%E6%88%BF%E9%99%90%E8%B4%AD%E6%8E%AA%E6%96%BD)
+1. [庆余年2首播4集不断更](https://www.zhihu.com/search?q=%E5%BA%86%E4%BD%99%E5%B9%B42%E9%A6%96%E6%92%AD4%E9%9B%86%E4%B8%8D%E6%96%AD%E6%9B%B4)
+1. [蓝盈莹晒甄嬛传大合影](https://www.zhihu.com/search?q=%E8%93%9D%E7%9B%88%E8%8E%B9%E6%99%92%E7%94%84%E5%AC%9B%E4%BC%A0%E5%A4%A7%E5%90%88%E5%BD%B1)
+1. [今日A股市场](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5A%E8%82%A1%E5%B8%82%E5%9C%BA)
 1. [国羽男队第11次夺得汤姆斯杯冠军](https://www.zhihu.com/search?q=%E5%9B%BD%E7%BE%BD%E7%94%B7%E9%98%9F%E7%AC%AC11%E6%AC%A1%E5%A4%BA%E5%BE%97%E6%B1%A4%E5%A7%86%E6%96%AF%E6%9D%AF%E5%86%A0%E5%86%9B)
 1. [人民币兑美元中间价报7.0994](https://www.zhihu.com/search?q=%E4%BA%BA%E6%B0%91%E5%B8%81%E5%85%91%E7%BE%8E%E5%85%83%E4%B8%AD%E9%97%B4%E4%BB%B7%E6%8A%A57.0994)
 1. [今年五一档票房破15亿](https://www.zhihu.com/search?q=%E4%BB%8A%E5%B9%B4%E4%BA%94%E4%B8%80%E6%A1%A3%E7%A5%A8%E6%88%BF%E7%A0%B415%E4%BA%BF)
