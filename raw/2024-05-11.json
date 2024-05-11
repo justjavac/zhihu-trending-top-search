@@ -1,7 +1,9 @@
 [
   { "query": "今日A股市场", "display_query": "今日A股市场" },
+  { "query": "掘金vs森林狼", "display_query": "掘金vs森林狼" },
   { "query": "如何评价A股市场", "display_query": "如何评价A股市场" },
   { "query": "法庭上有什么有趣的事", "display_query": "法庭上有什么有趣的事" },
+  { "query": "南京放宽落户条件", "display_query": "南京放宽落户条件" },
   { "query": "哈马斯宣布同意停火提议", "display_query": "哈马斯宣布同意停火提议" },
   { "query": "嫦娥六号顺利进入环月轨道", "display_query": "嫦娥六号顺利进入环月轨道" },
   { "query": "椰树涉擦边广告被罚40万", "display_query": "椰树涉擦边广告被罚40万" },
