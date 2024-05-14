@@ -1,5 +1,6 @@
 [
   { "query": "今日A股市场", "display_query": "今日A股市场" },
+  { "query": "北京晚霞", "display_query": "北京晚霞" },
   { "query": "陈梦王曼昱女双决赛", "display_query": "陈梦王曼昱女双决赛" },
   { "query": "陈梦王曼昱大满贯夺冠", "display_query": "陈梦王曼昱大满贯夺冠" },
   { "query": "我的阿勒泰豆瓣开分8.5", "display_query": "我的阿勒泰豆瓣开分8.5" },
