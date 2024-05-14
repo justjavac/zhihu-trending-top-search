@@ -14,9 +14,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue May 14 2024 14:12:25 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue May 14 2024 15:08:48 GMT+0800 (China Standard Time) -->
 
-1. [南京林业大学](https://www.zhihu.com/search?q=%E5%8D%97%E4%BA%AC%E6%9E%97%E4%B8%9A%E5%A4%A7%E5%AD%A6)
 1. [张之臻晋级16强](https://www.zhihu.com/search?q=%E5%BC%A0%E4%B9%8B%E8%87%BB%E6%99%8B%E7%BA%A716%E5%BC%BA)
 1. [今日A股市场](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5A%E8%82%A1%E5%B8%82%E5%9C%BA)
 1. [歌手2024](https://www.zhihu.com/search?q=%E6%AD%8C%E6%89%8B2024)
@@ -25,6 +24,9 @@
 1. [陈梦王曼昱大满贯夺冠](https://www.zhihu.com/search?q=%E9%99%88%E6%A2%A6%E7%8E%8B%E6%9B%BC%E6%98%B1%E5%A4%A7%E6%BB%A1%E8%B4%AF%E5%A4%BA%E5%86%A0)
 1. [律师谈阜阳水泥封尸案](https://www.zhihu.com/search?q=%E5%BE%8B%E5%B8%88%E8%B0%88%E9%98%9C%E9%98%B3%E6%B0%B4%E6%B3%A5%E5%B0%81%E5%B0%B8%E6%A1%88)
 1. [我的阿勒泰豆瓣开分8.5](https://www.zhihu.com/search?q=%E6%88%91%E7%9A%84%E9%98%BF%E5%8B%92%E6%B3%B0%E8%B1%86%E7%93%A3%E5%BC%80%E5%88%868.5)
+1. [塔克拉玛干沙漠西部山脉怎么形成的](https://www.zhihu.com/search?q=%E5%A1%94%E5%85%8B%E6%8B%89%E7%8E%9B%E5%B9%B2%E6%B2%99%E6%BC%A0%E8%A5%BF%E9%83%A8%E5%B1%B1%E8%84%89%E6%80%8E%E4%B9%88%E5%BD%A2%E6%88%90%E7%9A%84)
+1. [「歌手」直播你喜欢这种模式吗](https://www.zhihu.com/search?q=%E3%80%8C%E6%AD%8C%E6%89%8B%E3%80%8D%E7%9B%B4%E6%92%AD%E4%BD%A0%E5%96%9C%E6%AC%A2%E8%BF%99%E7%A7%8D%E6%A8%A1%E5%BC%8F%E5%90%97)
+1. [南京林业大学](https://www.zhihu.com/search?q=%E5%8D%97%E4%BA%AC%E6%9E%97%E4%B8%9A%E5%A4%A7%E5%AD%A6)
 1. [大脑能一直分泌多巴胺吗](https://www.zhihu.com/search?q=%E5%A4%A7%E8%84%91%E8%83%BD%E4%B8%80%E7%9B%B4%E5%88%86%E6%B3%8C%E5%A4%9A%E5%B7%B4%E8%83%BA%E5%90%97)
 1. [百度副总裁璩静深夜致歉](https://www.zhihu.com/search?q=%E7%99%BE%E5%BA%A6%E5%89%AF%E6%80%BB%E8%A3%81%E7%92%A9%E9%9D%99%E6%B7%B1%E5%A4%9C%E8%87%B4%E6%AD%89)
 1. [辽宁大胜广东](https://www.zhihu.com/search?q=%E8%BE%BD%E5%AE%81%E5%A4%A7%E8%83%9C%E5%B9%BF%E4%B8%9C)
