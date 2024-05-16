@@ -1,6 +1,7 @@
 [
   { "query": "今日A股市场", "display_query": "今日A股市场" },
   { "query": "T1对战TL", "display_query": "T1对战TL" },
+  { "query": "庆余年2", "display_query": "庆余年2" },
   { "query": "乌军从哈尔科夫部分阵地后撤", "display_query": "乌军从哈尔科夫部分阵地后撤" },
   { "query": "qq微信上线地震预警功能", "display_query": "qq微信上线地震预警功能" },
   { "query": "一张图了解物理学", "display_query": "一张图了解物理学" },
