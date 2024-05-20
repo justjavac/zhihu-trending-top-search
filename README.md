@@ -14,10 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon May 20 2024 15:08:28 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon May 20 2024 16:11:10 GMT+0800 (China Standard Time) -->
 
 1. [五月天鸟巢演唱会](https://www.zhihu.com/search?q=%E4%BA%94%E6%9C%88%E5%A4%A9%E9%B8%9F%E5%B7%A2%E6%BC%94%E5%94%B1%E4%BC%9A)
-1. [歌手2024揭榜歌手歌单](https://www.zhihu.com/search?q=%E6%AD%8C%E6%89%8B2024%E6%8F%AD%E6%A6%9C%E6%AD%8C%E6%89%8B%E6%AD%8C%E5%8D%95)
 1. [河南大风致小麦倒伏](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8D%97%E5%A4%A7%E9%A3%8E%E8%87%B4%E5%B0%8F%E9%BA%A6%E5%80%92%E4%BC%8F)
 1. [乌克兰退出独联体国家](https://www.zhihu.com/search?q=%E4%B9%8C%E5%85%8B%E5%85%B0%E9%80%80%E5%87%BA%E7%8B%AC%E8%81%94%E4%BD%93%E5%9B%BD%E5%AE%B6)
 1. [狂飙兄弟遇鬼秤反遭抢手机](https://www.zhihu.com/search?q=%E7%8B%82%E9%A3%99%E5%85%84%E5%BC%9F%E9%81%87%E9%AC%BC%E7%A7%A4%E5%8F%8D%E9%81%AD%E6%8A%A2%E6%89%8B%E6%9C%BA)
@@ -26,6 +25,8 @@
 1. [超长期特别国债首发](https://www.zhihu.com/search?q=%E8%B6%85%E9%95%BF%E6%9C%9F%E7%89%B9%E5%88%AB%E5%9B%BD%E5%80%BA%E9%A6%96%E5%8F%91)
 1. [gpt-4o「复现」openai总裁讲课](https://www.zhihu.com/search?q=gpt-4o%E3%80%8C%E5%A4%8D%E7%8E%B0%E3%80%8Dopenai%E6%80%BB%E8%A3%81%E8%AE%B2%E8%AF%BE)
 1. [连云港通报商贩「鬼称」事件](https://www.zhihu.com/search?q=%E8%BF%9E%E4%BA%91%E6%B8%AF%E9%80%9A%E6%8A%A5%E5%95%86%E8%B4%A9%E3%80%8C%E9%AC%BC%E7%A7%B0%E3%80%8D%E4%BA%8B%E4%BB%B6)
+1. [取消商贷利率下限](https://www.zhihu.com/search?q=%E5%8F%96%E6%B6%88%E5%95%86%E8%B4%B7%E5%88%A9%E7%8E%87%E4%B8%8B%E9%99%90)
+1. [歌手2024揭榜歌手歌单](https://www.zhihu.com/search?q=%E6%AD%8C%E6%89%8B2024%E6%8F%AD%E6%A6%9C%E6%AD%8C%E6%89%8B%E6%AD%8C%E5%8D%95)
 1. [胖猫事件](https://www.zhihu.com/search?q=%E8%83%96%E7%8C%AB%E4%BA%8B%E4%BB%B6)
 1. [青岛一女童发热输液后死亡](https://www.zhihu.com/search?q=%E9%9D%92%E5%B2%9B%E4%B8%80%E5%A5%B3%E7%AB%A5%E5%8F%91%E7%83%AD%E8%BE%93%E6%B6%B2%E5%90%8E%E6%AD%BB%E4%BA%A1)
 1. [微软回应ai团队打包赴美](https://www.zhihu.com/search?q=%E5%BE%AE%E8%BD%AF%E5%9B%9E%E5%BA%94ai%E5%9B%A2%E9%98%9F%E6%89%93%E5%8C%85%E8%B5%B4%E7%BE%8E)

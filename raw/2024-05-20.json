@@ -1,6 +1,5 @@
 [
   { "query": "五月天鸟巢演唱会", "display_query": "五月天鸟巢演唱会" },
-  { "query": "歌手2024揭榜歌手歌单", "display_query": "歌手2024揭榜歌手歌单" },
   { "query": "河南大风致小麦倒伏", "display_query": "河南大风致小麦倒伏" },
   { "query": "乌克兰退出独联体国家", "display_query": "乌克兰退出独联体国家" },
   { "query": "狂飙兄弟遇鬼秤反遭抢手机", "display_query": "狂飙兄弟遇鬼秤反遭抢手机" },
@@ -9,6 +8,8 @@
   { "query": "超长期特别国债首发", "display_query": "超长期特别国债首发" },
   { "query": "gpt-4o「复现」openai总裁讲课", "display_query": "gpt-4o「复现」openai总裁讲课" },
   { "query": "连云港通报商贩「鬼称」事件", "display_query": "连云港通报商贩「鬼称」事件" },
+  { "query": "取消商贷利率下限", "display_query": "取消商贷利率下限" },
+  { "query": "歌手2024揭榜歌手歌单", "display_query": "歌手2024揭榜歌手歌单" },
   { "query": "胖猫事件", "display_query": "胖猫事件" },
   { "query": "青岛一女童发热输液后死亡", "display_query": "青岛一女童发热输液后死亡" },
   { "query": "微软回应ai团队打包赴美", "display_query": "微软回应ai团队打包赴美" },
