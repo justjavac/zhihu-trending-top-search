@@ -14,8 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue May 21 2024 18:08:28 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue May 21 2024 19:07:42 GMT+0800 (China Standard Time) -->
 
+1. [中国旅游日](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E6%97%85%E6%B8%B8%E6%97%A5)
 1. [如何评价刘备](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%88%98%E5%A4%87)
 1. [柏拉图哲学的研究价值](https://www.zhihu.com/search?q=%E6%9F%8F%E6%8B%89%E5%9B%BE%E5%93%B2%E5%AD%A6%E7%9A%84%E7%A0%94%E7%A9%B6%E4%BB%B7%E5%80%BC)
 1. [经典力学中有哪些违反直觉的现象](https://www.zhihu.com/search?q=%E7%BB%8F%E5%85%B8%E5%8A%9B%E5%AD%A6%E4%B8%AD%E6%9C%89%E5%93%AA%E4%BA%9B%E8%BF%9D%E5%8F%8D%E7%9B%B4%E8%A7%89%E7%9A%84%E7%8E%B0%E8%B1%A1)
