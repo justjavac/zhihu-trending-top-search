@@ -1,12 +1,15 @@
 [
-  { "query": "五月天鸟巢演唱会", "display_query": "五月天鸟巢演唱会" },
-  { "query": "gpt-4o「复现」openai总裁讲课", "display_query": "gpt-4o「复现」openai总裁讲课" },
-  { "query": "广西特大暴雨雨强破纪录", "display_query": "广西特大暴雨雨强破纪录" },
   { "query": "黄家驹墓碑遭涂污破坏", "display_query": "黄家驹墓碑遭涂污破坏" },
   { "query": "如何评价刘备", "display_query": "如何评价刘备" },
   { "query": "柏拉图哲学的研究价值", "display_query": "柏拉图哲学的研究价值" },
   { "query": "经典力学中有哪些违反直觉的现象", "display_query": "经典力学中有哪些违反直觉的现象" },
   { "query": "「胖猫事件」女方不构成诈骗", "display_query": "「胖猫事件」女方不构成诈骗" },
   { "query": "南京多家市场被曝缺斤短两", "display_query": "南京多家市场被曝缺斤短两" },
-  { "query": "金价达740元/克", "display_query": "金价达740元/克" }
+  { "query": "金价达740元/克", "display_query": "金价达740元/克" },
+  { "query": "OpenAI又迎人事动荡", "display_query": "OpenAI又迎人事动荡" },
+  { "query": "做更好的自己不如更好地做自己", "display_query": "做更好的自己不如更好地做自己" },
+  { "query": "新乡工程学院考研政治成绩97分", "display_query": "新乡工程学院考研政治成绩97分" },
+  { "query": "五月天鸟巢演唱会", "display_query": "五月天鸟巢演唱会" },
+  { "query": "gpt-4o「复现」openai总裁讲课", "display_query": "gpt-4o「复现」openai总裁讲课" },
+  { "query": "广西特大暴雨雨强破纪录", "display_query": "广西特大暴雨雨强破纪录" }
 ]
