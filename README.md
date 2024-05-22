@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed May 22 2024 09:51:06 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed May 22 2024 10:22:57 GMT+0800 (China Standard Time) -->
 
 1. [中国旅游日](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E6%97%85%E6%B8%B8%E6%97%A5)
 1. [如何评价刘备](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%88%98%E5%A4%87)
