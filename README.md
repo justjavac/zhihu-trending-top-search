@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed May 22 2024 19:06:45 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed May 22 2024 20:14:42 GMT+0800 (China Standard Time) -->
 
 1. [三大指数集体低开](https://www.zhihu.com/search?q=%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80)
 1. [比特币突破7万美元](https://www.zhihu.com/search?q=%E6%AF%94%E7%89%B9%E5%B8%81%E7%AA%81%E7%A0%B47%E4%B8%87%E7%BE%8E%E5%85%83)
