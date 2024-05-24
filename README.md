@@ -14,18 +14,19 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri May 24 2024 14:11:29 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri May 24 2024 15:07:41 GMT+0800 (China Standard Time) -->
 
 1. [如何看待A股市场](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85A%E8%82%A1%E5%B8%82%E5%9C%BA)
 1. [30层高的楼有多少年寿命](https://www.zhihu.com/search?q=30%E5%B1%82%E9%AB%98%E7%9A%84%E6%A5%BC%E6%9C%89%E5%A4%9A%E5%B0%91%E5%B9%B4%E5%AF%BF%E5%91%BD)
 1. [曼城英超四连冠](https://www.zhihu.com/search?q=%E6%9B%BC%E5%9F%8E%E8%8B%B1%E8%B6%85%E5%9B%9B%E8%BF%9E%E5%86%A0)
 1. [狐妖小红娘月红篇](https://www.zhihu.com/search?q=%E7%8B%90%E5%A6%96%E5%B0%8F%E7%BA%A2%E5%A8%98%E6%9C%88%E7%BA%A2%E7%AF%87)
-1. [贵金属避险情绪被激发](https://www.zhihu.com/search?q=%E8%B4%B5%E9%87%91%E5%B1%9E%E9%81%BF%E9%99%A9%E6%83%85%E7%BB%AA%E8%A2%AB%E6%BF%80%E5%8F%91)
 1. [小米SU7顶配保费超玛莎拉蒂](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3SU7%E9%A1%B6%E9%85%8D%E4%BF%9D%E8%B4%B9%E8%B6%85%E7%8E%9B%E8%8E%8E%E6%8B%89%E8%92%82)
 1. [如何避免自己情绪失控](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E9%81%BF%E5%85%8D%E8%87%AA%E5%B7%B1%E6%83%85%E7%BB%AA%E5%A4%B1%E6%8E%A7)
 1. [楼市新政后部分楼盘「人山人海」](https://www.zhihu.com/search?q=%E6%A5%BC%E5%B8%82%E6%96%B0%E6%94%BF%E5%90%8E%E9%83%A8%E5%88%86%E6%A5%BC%E7%9B%98%E3%80%8C%E4%BA%BA%E5%B1%B1%E4%BA%BA%E6%B5%B7%E3%80%8D)
 1. [女老师揪住男孩头发让全班殴打](https://www.zhihu.com/search?q=%E5%A5%B3%E8%80%81%E5%B8%88%E6%8F%AA%E4%BD%8F%E7%94%B7%E5%AD%A9%E5%A4%B4%E5%8F%91%E8%AE%A9%E5%85%A8%E7%8F%AD%E6%AE%B4%E6%89%93)
 1. [外媒称阿根廷通胀飙升](https://www.zhihu.com/search?q=%E5%A4%96%E5%AA%92%E7%A7%B0%E9%98%BF%E6%A0%B9%E5%BB%B7%E9%80%9A%E8%83%80%E9%A3%99%E5%8D%87)
+1. [「黑神话悟空」采用D加密](https://www.zhihu.com/search?q=%E3%80%8C%E9%BB%91%E7%A5%9E%E8%AF%9D%E6%82%9F%E7%A9%BA%E3%80%8D%E9%87%87%E7%94%A8D%E5%8A%A0%E5%AF%86)
+1. [贵金属避险情绪被激发](https://www.zhihu.com/search?q=%E8%B4%B5%E9%87%91%E5%B1%9E%E9%81%BF%E9%99%A9%E6%83%85%E7%BB%AA%E8%A2%AB%E6%BF%80%E5%8F%91)
 1. [朱婷回归中国女排](https://www.zhihu.com/search?q=%E6%9C%B1%E5%A9%B7%E5%9B%9E%E5%BD%92%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92)
 1. [江西贵溪发生恶性伤人事件](https://www.zhihu.com/search?q=%E6%B1%9F%E8%A5%BF%E8%B4%B5%E6%BA%AA%E5%8F%91%E7%94%9F%E6%81%B6%E6%80%A7%E4%BC%A4%E4%BA%BA%E4%BA%8B%E4%BB%B6)
 1. [天津下调公积金贷款利率](https://www.zhihu.com/search?q=%E5%A4%A9%E6%B4%A5%E4%B8%8B%E8%B0%83%E5%85%AC%E7%A7%AF%E9%87%91%E8%B4%B7%E6%AC%BE%E5%88%A9%E7%8E%87)
