@@ -14,8 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue May 28 2024 16:11:47 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue May 28 2024 17:08:22 GMT+0800 (China Standard Time) -->
 
+1. [高考倒计时 10 天](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%80%92%E8%AE%A1%E6%97%B6%2010%20%E5%A4%A9)
 1. [今日A股市场](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5A%E8%82%A1%E5%B8%82%E5%9C%BA)
 1. [美国多地发生枪击事件](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E5%A4%9A%E5%9C%B0%E5%8F%91%E7%94%9F%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6)
 1. [种地吧](https://www.zhihu.com/search?q=%E7%A7%8D%E5%9C%B0%E5%90%A7)
