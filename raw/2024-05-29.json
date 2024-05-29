@@ -1,5 +1,4 @@
 [
-  { "query": "高考倒计时 10 天", "display_query": "高考倒计时 10 天" },
   { "query": "今日A股市场", "display_query": "今日A股市场" },
   { "query": "美国多地发生枪击事件", "display_query": "美国多地发生枪击事件" },
   { "query": "种地吧", "display_query": "种地吧" },
@@ -8,5 +7,7 @@
   { "query": "麦当劳对讲机被炒至300元", "display_query": "麦当劳对讲机被炒至300元" },
   { "query": "四川凉山5级地震", "display_query": "四川凉山5级地震" },
   { "query": "双缝干涉实验恐怖在哪", "display_query": "双缝干涉实验恐怖在哪" },
-  { "query": "保时捷中国区销量下跌近25%", "display_query": "保时捷中国区销量下跌近25%" }
+  { "query": "保时捷中国区销量下跌近25%", "display_query": "保时捷中国区销量下跌近25%" },
+  { "query": "央视曝光部分加油站「偷油」", "display_query": "央视曝光部分加油站「偷油」" },
+  { "query": "高考倒计时 10 天", "display_query": "高考倒计时 10 天" }
 ]
