@@ -1,5 +1,4 @@
 [
-  { "query": "今日A股市场", "display_query": "今日A股市场" },
   { "query": "以色列空袭拉法", "display_query": "以色列空袭拉法" },
   { "query": "全民皆兵有多可怕", "display_query": "全民皆兵有多可怕" },
   { "query": "麦当劳对讲机被炒至300元", "display_query": "麦当劳对讲机被炒至300元" },
@@ -9,6 +8,8 @@
   { "query": "「名侦探柯南」死了多少人", "display_query": "「名侦探柯南」死了多少人" },
   { "query": "坐星巴克未下单被劝离合理吗", "display_query": "坐星巴克未下单被劝离合理吗" },
   { "query": "刘强东「从不拼搏的人不是我兄弟」", "display_query": "刘强东「从不拼搏的人不是我兄弟」" },
+  { "query": "「女子被家暴16次」离婚案将开庭", "display_query": "「女子被家暴16次」离婚案将开庭" },
+  { "query": "今日A股市场", "display_query": "今日A股市场" },
   { "query": "刘强东「从不拼搏的人不是我兄弟 」", "display_query": "刘强东「从不拼搏的人不是我兄弟 」" },
   { "query": "美国多地发生枪击事件", "display_query": "美国多地发生枪击事件" },
   { "query": "种地吧", "display_query": "种地吧" },
