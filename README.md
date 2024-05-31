@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri May 31 2024 15:07:37 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri May 31 2024 16:10:56 GMT+0800 (China Standard Time) -->
 
 1. [胡塞武装击落美军无人机](https://www.zhihu.com/search?q=%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%85%E5%87%BB%E8%90%BD%E7%BE%8E%E5%86%9B%E6%97%A0%E4%BA%BA%E6%9C%BA)
 1. [xai宣布完成60亿美元的b轮融资](https://www.zhihu.com/search?q=xai%E5%AE%A3%E5%B8%83%E5%AE%8C%E6%88%9060%E4%BA%BF%E7%BE%8E%E5%85%83%E7%9A%84b%E8%BD%AE%E8%9E%8D%E8%B5%84)
