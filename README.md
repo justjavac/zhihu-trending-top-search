@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jun 03 2024 10:26:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jun 03 2024 11:09:54 GMT+0800 (China Standard Time) -->
 
 1. [日本地震](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87)
 1. [胡塞武装击落美军无人机](https://www.zhihu.com/search?q=%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%85%E5%87%BB%E8%90%BD%E7%BE%8E%E5%86%9B%E6%97%A0%E4%BA%BA%E6%9C%BA)
