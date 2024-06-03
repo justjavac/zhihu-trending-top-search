@@ -1,7 +1,9 @@
 [
   { "query": "日本地震", "display_query": "日本地震" },
+  { "query": "藏海传", "display_query": "藏海传" },
   { "query": "胡塞武装击落美军无人机", "display_query": "胡塞武装击落美军无人机" },
   { "query": "陈奕迅主办方补偿方案", "display_query": "陈奕迅主办方补偿方案" },
+  { "query": "墨雨云间", "display_query": "墨雨云间" },
   { "query": "巴新山体滑坡超2000人遇难", "display_query": "巴新山体滑坡超2000人遇难" },
   { "query": "英国议会宣布正式解散", "display_query": "英国议会宣布正式解散" },
   { "query": "伊朗发布第二份直升机事故调查报告", "display_query": "伊朗发布第二份直升机事故调查报告" },
