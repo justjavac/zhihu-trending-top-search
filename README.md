@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jun 03 2024 14:11:40 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jun 03 2024 15:08:16 GMT+0800 (China Standard Time) -->
 
 1. [日本地震](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87)
 1. [藏海传](https://www.zhihu.com/search?q=%E8%97%8F%E6%B5%B7%E4%BC%A0)
