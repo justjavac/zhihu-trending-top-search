@@ -1,13 +1,17 @@
 [
-  { "query": "高考", "display_query": "高考" },
-  { "query": "孙颖莎女单夺冠", "display_query": "孙颖莎女单夺冠" },
-  { "query": "wbg对战ig", "display_query": "wbg对战ig" },
+  { "query": "美国去工业化美国人做什么工作", "display_query": "美国去工业化美国人做什么工作" },
   { "query": "墨雨云间", "display_query": "墨雨云间" },
   { "query": "董明珠称打工人想休闲可以辞职", "display_query": "董明珠称打工人想休闲可以辞职" },
-  { "query": "太阳连续爆发三次耀斑", "display_query": "太阳连续爆发三次耀斑" },
+  { "query": "马自达认证违规问题致歉", "display_query": "马自达认证违规问题致歉" },
+  { "query": "周大福", "display_query": "周大福" },
   { "query": "美国俄州与宾州两地发生枪击", "display_query": "美国俄州与宾州两地发生枪击" },
   { "query": "周星驰短剧上线", "display_query": "周星驰短剧上线" },
   { "query": "樊振东 4-0 横扫雨果", "display_query": "樊振东 4-0 横扫雨果" },
   { "query": "乌克兰承认巴勒斯坦是一个国家", "display_query": "乌克兰承认巴勒斯坦是一个国家" },
+  { "query": "斯里兰卡极端天气致10人死亡", "display_query": "斯里兰卡极端天气致10人死亡" },
+  { "query": "高考", "display_query": "高考" },
+  { "query": "孙颖莎女单夺冠", "display_query": "孙颖莎女单夺冠" },
+  { "query": "wbg对战ig", "display_query": "wbg对战ig" },
+  { "query": "太阳连续爆发三次耀斑", "display_query": "太阳连续爆发三次耀斑" },
   { "query": "宁阳煤矿透水事故致8人被困", "display_query": "宁阳煤矿透水事故致8人被困" }
 ]
