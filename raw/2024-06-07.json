@@ -1,12 +1,14 @@
 [
   { "query": "高考", "display_query": "高考" },
   { "query": "今日A股市场", "display_query": "今日A股市场" },
-  { "query": "OpenAI", "display_query": "OpenAI" },
   { "query": "墨雨云间", "display_query": "墨雨云间" },
   { "query": "「二维码很快会被用完」系谣言", "display_query": "「二维码很快会被用完」系谣言" },
   { "query": "中国女排0:3不敌意大利女排", "display_query": "中国女排0:3不敌意大利女排" },
-  { "query": "乌克兰承认巴勒斯坦是一个国家", "display_query": "乌克兰承认巴勒斯坦是一个国家" },
   { "query": "周深演唱会官宣武汉南京", "display_query": "周深演唱会官宣武汉南京" },
   { "query": "乌承认巴勒斯坦国", "display_query": "乌承认巴勒斯坦国" },
-  { "query": "迪丽热巴新歌首发", "display_query": "迪丽热巴新歌首发" }
+  { "query": "迪丽热巴新歌首发", "display_query": "迪丽热巴新歌首发" },
+  { "query": "数只美股疑似出现行情异常", "display_query": "数只美股疑似出现行情异常" },
+  { "query": "多家日本车企存在舞弊行为", "display_query": "多家日本车企存在舞弊行为" },
+  { "query": "OpenAI", "display_query": "OpenAI" },
+  { "query": "乌克兰承认巴勒斯坦是一个国家", "display_query": "乌克兰承认巴勒斯坦是一个国家" }
 ]
