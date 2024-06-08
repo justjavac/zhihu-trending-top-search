@@ -1,8 +1,12 @@
 [
   { "query": "高考作文", "display_query": "高考作文" },
   { "query": "高考", "display_query": "高考" },
+  { "query": "今日A股市场", "display_query": "今日A股市场" },
   { "query": "如何看待今日A股市场", "display_query": "如何看待今日A股市场" },
   { "query": "国足首发", "display_query": "国足首发" },
+  { "query": "张学友演唱会取消", "display_query": "张学友演唱会取消" },
+  { "query": "spacex", "display_query": "spacex" },
+  { "query": "墨雨云间", "display_query": "墨雨云间" },
   { "query": "「二维码很快会被用完」系谣言", "display_query": "「二维码很快会被用完」系谣言" },
   { "query": "中国女排0比3不敌意大利", "display_query": "中国女排0比3不敌意大利" },
   { "query": "胡塞武装称袭击以色列埃拉特", "display_query": "胡塞武装称袭击以色列埃拉特" },
