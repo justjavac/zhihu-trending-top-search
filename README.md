@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jun 09 2024 02:09:46 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jun 09 2024 03:06:59 GMT+0800 (China Standard Time) -->
 
 1. [高考](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83)
 1. [高考理综](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E7%90%86%E7%BB%BC)
