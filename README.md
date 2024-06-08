@@ -14,9 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jun 08 2024 21:08:12 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jun 08 2024 22:07:32 GMT+0800 (China Standard Time) -->
 
 1. [高考](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83)
+1. [高考理综](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E7%90%86%E7%BB%BC)
 1. [今日A股市场](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5A%E8%82%A1%E5%B8%82%E5%9C%BA)
 1. [张学友演唱会取消](https://www.zhihu.com/search?q=%E5%BC%A0%E5%AD%A6%E5%8F%8B%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8F%96%E6%B6%88)
 1. [spacex](https://www.zhihu.com/search?q=spacex)

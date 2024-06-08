@@ -1,5 +1,6 @@
 [
   { "query": "高考", "display_query": "高考" },
+  { "query": "高考理综", "display_query": "高考理综" },
   { "query": "今日A股市场", "display_query": "今日A股市场" },
   { "query": "张学友演唱会取消", "display_query": "张学友演唱会取消" },
   { "query": "spacex", "display_query": "spacex" },
