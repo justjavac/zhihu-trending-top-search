@@ -14,19 +14,23 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jun 09 2024 18:07:36 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jun 09 2024 19:06:27 GMT+0800 (China Standard Time) -->
 
 1. [高考](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83)
 1. [高考理综](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E7%90%86%E7%BB%BC)
 1. [买房或可七天无理由退定](https://www.zhihu.com/search?q=%E4%B9%B0%E6%88%BF%E6%88%96%E5%8F%AF%E4%B8%83%E5%A4%A9%E6%97%A0%E7%90%86%E7%94%B1%E9%80%80%E5%AE%9A)
 1. [为什么国家大力发展电车](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%9B%BD%E5%AE%B6%E5%A4%A7%E5%8A%9B%E5%8F%91%E5%B1%95%E7%94%B5%E8%BD%A6)
+1. [高考第三天](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E7%AC%AC%E4%B8%89%E5%A4%A9)
+1. [星舰第四次试飞取得成功](https://www.zhihu.com/search?q=%E6%98%9F%E8%88%B0%E7%AC%AC%E5%9B%9B%E6%AC%A1%E8%AF%95%E9%A3%9E%E5%8F%96%E5%BE%97%E6%88%90%E5%8A%9F)
+1. [高考故意考0分的考生重上考场](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E6%95%85%E6%84%8F%E8%80%830%E5%88%86%E7%9A%84%E8%80%83%E7%94%9F%E9%87%8D%E4%B8%8A%E8%80%83%E5%9C%BA)
+1. [东方甄选半年股价几近腰斩](https://www.zhihu.com/search?q=%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89%E5%8D%8A%E5%B9%B4%E8%82%A1%E4%BB%B7%E5%87%A0%E8%BF%91%E8%85%B0%E6%96%A9)
+1. [以军轰炸难民营学校](https://www.zhihu.com/search?q=%E4%BB%A5%E5%86%9B%E8%BD%B0%E7%82%B8%E9%9A%BE%E6%B0%91%E8%90%A5%E5%AD%A6%E6%A0%A1)
+1. [为什么「一到高考就下雨」](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E3%80%8C%E4%B8%80%E5%88%B0%E9%AB%98%E8%80%83%E5%B0%B1%E4%B8%8B%E9%9B%A8%E3%80%8D)
 1. [学生与醉汉冲突案通报「系防卫过当」](https://www.zhihu.com/search?q=%E5%AD%A6%E7%94%9F%E4%B8%8E%E9%86%89%E6%B1%89%E5%86%B2%E7%AA%81%E6%A1%88%E9%80%9A%E6%8A%A5%E3%80%8C%E7%B3%BB%E9%98%B2%E5%8D%AB%E8%BF%87%E5%BD%93%E3%80%8D)
 1. [学生与醉汉冲突案](https://www.zhihu.com/search?q=%E5%AD%A6%E7%94%9F%E4%B8%8E%E9%86%89%E6%B1%89%E5%86%B2%E7%AA%81%E6%A1%88)
 1. [防卫过当](https://www.zhihu.com/search?q=%E9%98%B2%E5%8D%AB%E8%BF%87%E5%BD%93)
 1. [9 个台风新名正式启用](https://www.zhihu.com/search?q=9%20%E4%B8%AA%E5%8F%B0%E9%A3%8E%E6%96%B0%E5%90%8D%E6%AD%A3%E5%BC%8F%E5%90%AF%E7%94%A8)
 1. [台风新名](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E%E6%96%B0%E5%90%8D)
-1. [高考第三天](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E7%AC%AC%E4%B8%89%E5%A4%A9)
-1. [星舰第四次试飞取得成功](https://www.zhihu.com/search?q=%E6%98%9F%E8%88%B0%E7%AC%AC%E5%9B%9B%E6%AC%A1%E8%AF%95%E9%A3%9E%E5%8F%96%E5%BE%97%E6%88%90%E5%8A%9F)
 1. [1342 万人高考生将奔赴考场](https://www.zhihu.com/search?q=1342%20%E4%B8%87%E4%BA%BA%E9%AB%98%E8%80%83%E7%94%9F%E5%B0%86%E5%A5%94%E8%B5%B4%E8%80%83%E5%9C%BA)
 1. [高考祝福](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E7%A5%9D%E7%A6%8F)
 1. [今日A股市场](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5A%E8%82%A1%E5%B8%82%E5%9C%BA)
