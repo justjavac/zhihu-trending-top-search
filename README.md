@@ -14,8 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jun 10 2024 07:08:15 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jun 10 2024 08:39:41 GMT+0800 (China Standard Time) -->
 
+1. [端午节](https://www.zhihu.com/search?q=%E7%AB%AF%E5%8D%88%E8%8A%82)
 1. [买房或可七天无理由退定](https://www.zhihu.com/search?q=%E4%B9%B0%E6%88%BF%E6%88%96%E5%8F%AF%E4%B8%83%E5%A4%A9%E6%97%A0%E7%90%86%E7%94%B1%E9%80%80%E5%AE%9A)
 1. [为什么国家大力发展电车](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%9B%BD%E5%AE%B6%E5%A4%A7%E5%8A%9B%E5%8F%91%E5%B1%95%E7%94%B5%E8%BD%A6)
 1. [以军轰炸难民营学校](https://www.zhihu.com/search?q=%E4%BB%A5%E5%86%9B%E8%BD%B0%E7%82%B8%E9%9A%BE%E6%B0%91%E8%90%A5%E5%AD%A6%E6%A0%A1)
