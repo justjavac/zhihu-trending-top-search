@@ -1,16 +1,18 @@
 [
   { "query": "如何看待今日A股市场", "display_query": "如何看待今日A股市场" },
   { "query": "赴山海", "display_query": "赴山海" },
-  { "query": "三星堆博物馆游客打架", "display_query": "三星堆博物馆游客打架" },
-  { "query": "嫦娥六号完成月球轨道交会对接", "display_query": "嫦娥六号完成月球轨道交会对接" },
-  { "query": "高考故意考0分的考生重上考场", "display_query": "高考故意考0分的考生重上考场" },
   { "query": "数码爱好者眼中的好物", "display_query": "数码爱好者眼中的好物" },
   { "query": "二胎妈妈的经验之选", "display_query": "二胎妈妈的经验之选" },
   { "query": "100个知乎答主", "display_query": "100个知乎答主" },
   { "query": "警方通报小米su7致1死3伤", "display_query": "警方通报小米su7致1死3伤" },
-  { "query": "金价创2021年8月以来最大跌幅", "display_query": "金价创2021年8月以来最大跌幅" },
+  { "query": "房贷还款先息后本火了", "display_query": "房贷还款先息后本火了" },
   { "query": "以色列解救 4 名被扣押人员", "display_query": "以色列解救 4 名被扣押人员" },
   { "query": "日本爆发「食人菌」感染", "display_query": "日本爆发「食人菌」感染" },
+  { "query": "日本出现巨型章鱼", "display_query": "日本出现巨型章鱼" },
+  { "query": "三星堆博物馆游客打架", "display_query": "三星堆博物馆游客打架" },
+  { "query": "嫦娥六号完成月球轨道交会对接", "display_query": "嫦娥六号完成月球轨道交会对接" },
+  { "query": "高考故意考0分的考生重上考场", "display_query": "高考故意考0分的考生重上考场" },
+  { "query": "金价创2021年8月以来最大跌幅", "display_query": "金价创2021年8月以来最大跌幅" },
   { "query": "多地「老破小」成交火爆", "display_query": "多地「老破小」成交火爆" },
   { "query": "哥伦比亚将停止向以色列出口煤炭", "display_query": "哥伦比亚将停止向以色列出口煤炭" },
   { "query": "韩国", "display_query": "韩国" },
@@ -18,6 +20,5 @@
   { "query": "广州地铁多人借「E 人屏」投放广告", "display_query": "广州地铁多人借「E 人屏」投放广告" },
   { "query": "上海等级考", "display_query": "上海等级考" },
   { "query": "blg", "display_query": "blg" },
-  { "query": "石宇奇男单夺冠", "display_query": "石宇奇男单夺冠" },
-  { "query": "房贷还款先息后本火了", "display_query": "房贷还款先息后本火了" }
+  { "query": "石宇奇男单夺冠", "display_query": "石宇奇男单夺冠" }
 ]
