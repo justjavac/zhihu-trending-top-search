@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jun 17 2024 13:10:36 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jun 17 2024 14:12:16 GMT+0800 (China Standard Time) -->
 
 1. [英语四六级考试](https://www.zhihu.com/search?q=%E8%8B%B1%E8%AF%AD%E5%9B%9B%E5%85%AD%E7%BA%A7%E8%80%83%E8%AF%95)
 1. [数码爱好者眼中的好物](https://www.zhihu.com/search?q=%E6%95%B0%E7%A0%81%E7%88%B1%E5%A5%BD%E8%80%85%E7%9C%BC%E4%B8%AD%E7%9A%84%E5%A5%BD%E7%89%A9)
