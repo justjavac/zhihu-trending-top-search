@@ -14,10 +14,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jun 19 2024 18:09:32 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jun 19 2024 19:08:01 GMT+0800 (China Standard Time) -->
 
 1. [三大指数集体低开](https://www.zhihu.com/search?q=%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80)
 1. [如何看待A股市场](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85A%E8%82%A1%E5%B8%82%E5%9C%BA)
+1. [如何看待今日A股市场](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E4%BB%8A%E6%97%A5A%E8%82%A1%E5%B8%82%E5%9C%BA)
 1. [韩国人知道自己的国家小吗](https://www.zhihu.com/search?q=%E9%9F%A9%E5%9B%BD%E4%BA%BA%E7%9F%A5%E9%81%93%E8%87%AA%E5%B7%B1%E7%9A%84%E5%9B%BD%E5%AE%B6%E5%B0%8F%E5%90%97)
 1. [什么叫演戏用力过猛](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E5%8F%AB%E6%BC%94%E6%88%8F%E7%94%A8%E5%8A%9B%E8%BF%87%E7%8C%9B)
 1. [三大方便面巨头一年少卖20亿](https://www.zhihu.com/search?q=%E4%B8%89%E5%A4%A7%E6%96%B9%E4%BE%BF%E9%9D%A2%E5%B7%A8%E5%A4%B4%E4%B8%80%E5%B9%B4%E5%B0%91%E5%8D%9620%E4%BA%BF)
