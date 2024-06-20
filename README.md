@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jun 20 2024 10:25:05 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jun 20 2024 11:09:12 GMT+0800 (China Standard Time) -->
 
 1. [三大指数集体低开](https://www.zhihu.com/search?q=%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80)
 1. [如何看待A股市场](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85A%E8%82%A1%E5%B8%82%E5%9C%BA)
@@ -23,9 +23,10 @@
 1. [什么叫演戏用力过猛](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E5%8F%AB%E6%BC%94%E6%88%8F%E7%94%A8%E5%8A%9B%E8%BF%87%E7%8C%9B)
 1. [三大方便面巨头一年少卖20亿](https://www.zhihu.com/search?q=%E4%B8%89%E5%A4%A7%E6%96%B9%E4%BE%BF%E9%9D%A2%E5%B7%A8%E5%A4%B4%E4%B8%80%E5%B9%B4%E5%B0%91%E5%8D%9620%E4%BA%BF)
 1. [日本食人菌感染病例增至近千例](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E9%A3%9F%E4%BA%BA%E8%8F%8C%E6%84%9F%E6%9F%93%E7%97%85%E4%BE%8B%E5%A2%9E%E8%87%B3%E8%BF%91%E5%8D%83%E4%BE%8B)
-1. [比亚迪掀起的价格战谁最受伤](https://www.zhihu.com/search?q=%E6%AF%94%E4%BA%9A%E8%BF%AA%E6%8E%80%E8%B5%B7%E7%9A%84%E4%BB%B7%E6%A0%BC%E6%88%98%E8%B0%81%E6%9C%80%E5%8F%97%E4%BC%A4)
 1. [理想车友聚会多车连环追尾](https://www.zhihu.com/search?q=%E7%90%86%E6%83%B3%E8%BD%A6%E5%8F%8B%E8%81%9A%E4%BC%9A%E5%A4%9A%E8%BD%A6%E8%BF%9E%E7%8E%AF%E8%BF%BD%E5%B0%BE)
 1. [姜萍妈妈首发声](https://www.zhihu.com/search?q=%E5%A7%9C%E8%90%8D%E5%A6%88%E5%A6%88%E9%A6%96%E5%8F%91%E5%A3%B0)
+1. [美国一水上乐园枪击案致9伤](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E4%B8%80%E6%B0%B4%E4%B8%8A%E4%B9%90%E5%9B%AD%E6%9E%AA%E5%87%BB%E6%A1%88%E8%87%B49%E4%BC%A4)
+1. [比亚迪掀起的价格战谁最受伤](https://www.zhihu.com/search?q=%E6%AF%94%E4%BA%9A%E8%BF%AA%E6%8E%80%E8%B5%B7%E7%9A%84%E4%BB%B7%E6%A0%BC%E6%88%98%E8%B0%81%E6%9C%80%E5%8F%97%E4%BC%A4)
 1. [欧洲杯](https://www.zhihu.com/search?q=%E6%AC%A7%E6%B4%B2%E6%9D%AF)
 1. [荷兰](https://www.zhihu.com/search?q=%E8%8D%B7%E5%85%B0)
 1. [数码爱好者眼中的好物](https://www.zhihu.com/search?q=%E6%95%B0%E7%A0%81%E7%88%B1%E5%A5%BD%E8%80%85%E7%9C%BC%E4%B8%AD%E7%9A%84%E5%A5%BD%E7%89%A9)
