@@ -14,9 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jun 24 2024 15:09:48 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jun 24 2024 16:11:48 GMT+0800 (China Standard Time) -->
 
 1. [如何看待A股市场](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85A%E8%82%A1%E5%B8%82%E5%9C%BA)
+1. [新说唱](https://www.zhihu.com/search?q=%E6%96%B0%E8%AF%B4%E5%94%B1)
 1. [如何评价阿里数学竞赛试题](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E9%98%BF%E9%87%8C%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E8%AF%95%E9%A2%98)
 1. [歌手](https://www.zhihu.com/search?q=%E6%AD%8C%E6%89%8B)
 1. [黄亦玫离婚](https://www.zhihu.com/search?q=%E9%BB%84%E4%BA%A6%E7%8E%AB%E7%A6%BB%E5%A9%9A)
