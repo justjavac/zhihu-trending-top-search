@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jun 26 2024 11:10:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jun 26 2024 12:10:47 GMT+0800 (China Standard Time) -->
 
 1. [河北高考分数线公布](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8C%97%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E5%85%AC%E5%B8%83)
 1. [河南高考分数线公布](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8D%97%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E5%85%AC%E5%B8%83)
