@@ -1,5 +1,8 @@
 [
+  { "query": "国际禁毒日", "display_query": "国际禁毒日" },
   { "query": "河北高考分数线", "display_query": "河北高考分数线" },
+  { "query": "度华年", "display_query": "度华年" },
+  { "query": "歌手歌单", "display_query": "歌手歌单" },
   { "query": "四川绵阳一理科考生高考 710 分", "display_query": "四川绵阳一理科考生高考 710 分" },
   { "query": "火焰山景区地表最高温度达 81℃", "display_query": "火焰山景区地表最高温度达 81℃" },
   { "query": "实拍长沙暴雨城市内涝", "display_query": "实拍长沙暴雨城市内涝" },
