@@ -14,10 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jun 28 2024 15:08:03 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jun 28 2024 16:10:48 GMT+0800 (China Standard Time) -->
 
 1. [国际禁毒日](https://www.zhihu.com/search?q=%E5%9B%BD%E9%99%85%E7%A6%81%E6%AF%92%E6%97%A5)
-1. [河北高考分数线](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8C%97%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF)
+1. [安徽高考分数线](https://www.zhihu.com/search?q=%E5%AE%89%E5%BE%BD%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF)
 1. [度华年](https://www.zhihu.com/search?q=%E5%BA%A6%E5%8D%8E%E5%B9%B4)
 1. [歌手歌单](https://www.zhihu.com/search?q=%E6%AD%8C%E6%89%8B%E6%AD%8C%E5%8D%95)
 1. [四川绵阳一理科考生高考 710 分](https://www.zhihu.com/search?q=%E5%9B%9B%E5%B7%9D%E7%BB%B5%E9%98%B3%E4%B8%80%E7%90%86%E7%A7%91%E8%80%83%E7%94%9F%E9%AB%98%E8%80%83%20710%20%E5%88%86)
@@ -26,6 +26,7 @@
 1. [人民币汇率逼近 7.3](https://www.zhihu.com/search?q=%E4%BA%BA%E6%B0%91%E5%B8%81%E6%B1%87%E7%8E%87%E9%80%BC%E8%BF%91%207.3)
 1. [福建考生高考语文获满分](https://www.zhihu.com/search?q=%E7%A6%8F%E5%BB%BA%E8%80%83%E7%94%9F%E9%AB%98%E8%80%83%E8%AF%AD%E6%96%87%E8%8E%B7%E6%BB%A1%E5%88%86)
 1. [高考语文满分考生出现](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E8%AF%AD%E6%96%87%E6%BB%A1%E5%88%86%E8%80%83%E7%94%9F%E5%87%BA%E7%8E%B0)
+1. [河北高考分数线](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8C%97%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF)
 1. [嫦娥六号着陆](https://www.zhihu.com/search?q=%E5%AB%A6%E5%A8%A5%E5%85%AD%E5%8F%B7%E7%9D%80%E9%99%86)
 1. [河北分数线](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8C%97%E5%88%86%E6%95%B0%E7%BA%BF)
 1. [国内油价预计上涨](https://www.zhihu.com/search?q=%E5%9B%BD%E5%86%85%E6%B2%B9%E4%BB%B7%E9%A2%84%E8%AE%A1%E4%B8%8A%E6%B6%A8)
