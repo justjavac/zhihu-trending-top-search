@@ -1,6 +1,7 @@
 [
   { "query": "B 站崩了", "display_query": "B 站崩了" },
   { "query": "A股市场", "display_query": "A股市场" },
+  { "query": "度华年", "display_query": "度华年" },
   { "query": "比亚迪销量", "display_query": "比亚迪销量" },
   { "query": "如何看待今日A股市场", "display_query": "如何看待今日A股市场" },
   { "query": "东方甄选", "display_query": "东方甄选" },
@@ -11,7 +12,6 @@
   { "query": "周迅二封白玉兰视后", "display_query": "周迅二封白玉兰视后" },
   { "query": "马克龙赌输了", "display_query": "马克龙赌输了" },
   { "query": "7月的第一天", "display_query": "7月的第一天" },
-  { "query": "度华年", "display_query": "度华年" },
   { "query": "吴艳妮晋级决赛", "display_query": "吴艳妮晋级决赛" },
   { "query": "北京下雨", "display_query": "北京下雨" },
   { "query": "胖东来为一碗擀面皮补偿近九百万", "display_query": "胖东来为一碗擀面皮补偿近九百万" },
