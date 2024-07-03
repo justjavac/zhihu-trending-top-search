@@ -1,5 +1,4 @@
 [
-  { "query": "B 站崩了", "display_query": "B 站崩了" },
   { "query": "A股市场", "display_query": "A股市场" },
   { "query": "度华年", "display_query": "度华年" },
   { "query": "比亚迪销量", "display_query": "比亚迪销量" },
@@ -9,5 +8,7 @@
   { "query": "小林制药问题保健品调查结果", "display_query": "小林制药问题保健品调查结果" },
   { "query": "欧洲杯", "display_query": "欧洲杯" },
   { "query": "崔永熙签约开拓者", "display_query": "崔永熙签约开拓者" },
+  { "query": "周迅二封白玉兰视后", "display_query": "周迅二封白玉兰视后" },
+  { "query": "B 站崩了", "display_query": "B 站崩了" },
   { "query": "特斯拉", "display_query": "特斯拉" }
 ]
