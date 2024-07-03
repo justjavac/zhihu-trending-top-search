@@ -14,8 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jul 03 2024 15:08:03 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jul 03 2024 16:11:19 GMT+0800 (China Standard Time) -->
 
+1. [野孩子](https://www.zhihu.com/search?q=%E9%87%8E%E5%AD%A9%E5%AD%90)
 1. [度华年](https://www.zhihu.com/search?q=%E5%BA%A6%E5%8D%8E%E5%B9%B4)
 1. [如何看待今日A股市场](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E4%BB%8A%E6%97%A5A%E8%82%A1%E5%B8%82%E5%9C%BA)
 1. [dk](https://www.zhihu.com/search?q=dk)
