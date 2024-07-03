@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jul 03 2024 19:07:36 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jul 03 2024 20:15:40 GMT+0800 (China Standard Time) -->
 
 1. [野孩子](https://www.zhihu.com/search?q=%E9%87%8E%E5%AD%A9%E5%AD%90)
 1. [如何看待今日A股市场](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E4%BB%8A%E6%97%A5A%E8%82%A1%E5%B8%82%E5%9C%BA)
@@ -24,8 +24,9 @@
 1. [欧洲杯](https://www.zhihu.com/search?q=%E6%AC%A7%E6%B4%B2%E6%9D%AF)
 1. [长相思2定档](https://www.zhihu.com/search?q=%E9%95%BF%E7%9B%B8%E6%80%9D2%E5%AE%9A%E6%A1%A3)
 1. [赵今麦演技](https://www.zhihu.com/search?q=%E8%B5%B5%E4%BB%8A%E9%BA%A6%E6%BC%94%E6%8A%80)
-1. [「天龙三号」火箭试车失败](https://www.zhihu.com/search?q=%E3%80%8C%E5%A4%A9%E9%BE%99%E4%B8%89%E5%8F%B7%E3%80%8D%E7%81%AB%E7%AE%AD%E8%AF%95%E8%BD%A6%E5%A4%B1%E8%B4%A5)
 1. [西班牙 4-1 格鲁吉亚](https://www.zhihu.com/search?q=%E8%A5%BF%E7%8F%AD%E7%89%99%204-1%20%E6%A0%BC%E9%B2%81%E5%90%89%E4%BA%9A)
+1. [西班牙 4-1 格鲁吉亚进8强](https://www.zhihu.com/search?q=%E8%A5%BF%E7%8F%AD%E7%89%99%204-1%20%E6%A0%BC%E9%B2%81%E5%90%89%E4%BA%9A%E8%BF%9B8%E5%BC%BA)
+1. [「天龙三号」火箭试车失败](https://www.zhihu.com/search?q=%E3%80%8C%E5%A4%A9%E9%BE%99%E4%B8%89%E5%8F%B7%E3%80%8D%E7%81%AB%E7%AE%AD%E8%AF%95%E8%BD%A6%E5%A4%B1%E8%B4%A5)
 1. [度华年](https://www.zhihu.com/search?q=%E5%BA%A6%E5%8D%8E%E5%B9%B4)
 1. [崔永熙签约开拓者](https://www.zhihu.com/search?q=%E5%B4%94%E6%B0%B8%E7%86%99%E7%AD%BE%E7%BA%A6%E5%BC%80%E6%8B%93%E8%80%85)
 1. [河南巩义一火箭坠落起火](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8D%97%E5%B7%A9%E4%B9%89%E4%B8%80%E7%81%AB%E7%AE%AD%E5%9D%A0%E8%90%BD%E8%B5%B7%E7%81%AB)
