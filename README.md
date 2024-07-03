@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jul 03 2024 09:55:11 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jul 03 2024 10:26:23 GMT+0800 (China Standard Time) -->
 
 1. [B 站崩了](https://www.zhihu.com/search?q=B%20%E7%AB%99%E5%B4%A9%E4%BA%86)
 1. [A股市场](https://www.zhihu.com/search?q=A%E8%82%A1%E5%B8%82%E5%9C%BA)
@@ -22,10 +22,11 @@
 1. [比亚迪销量](https://www.zhihu.com/search?q=%E6%AF%94%E4%BA%9A%E8%BF%AA%E9%94%80%E9%87%8F)
 1. [如何看待今日A股市场](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E4%BB%8A%E6%97%A5A%E8%82%A1%E5%B8%82%E5%9C%BA)
 1. [东方甄选](https://www.zhihu.com/search?q=%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89)
-1. [特斯拉](https://www.zhihu.com/search?q=%E7%89%B9%E6%96%AF%E6%8B%89)
 1. [贾玲](https://www.zhihu.com/search?q=%E8%B4%BE%E7%8E%B2)
 1. [小林制药问题保健品调查结果](https://www.zhihu.com/search?q=%E5%B0%8F%E6%9E%97%E5%88%B6%E8%8D%AF%E9%97%AE%E9%A2%98%E4%BF%9D%E5%81%A5%E5%93%81%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C)
 1. [欧洲杯](https://www.zhihu.com/search?q=%E6%AC%A7%E6%B4%B2%E6%9D%AF)
+1. [崔永熙签约开拓者](https://www.zhihu.com/search?q=%E5%B4%94%E6%B0%B8%E7%86%99%E7%AD%BE%E7%BA%A6%E5%BC%80%E6%8B%93%E8%80%85)
+1. [特斯拉](https://www.zhihu.com/search?q=%E7%89%B9%E6%96%AF%E6%8B%89)
 
 <!-- END -->
 
