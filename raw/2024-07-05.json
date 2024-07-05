@@ -5,8 +5,9 @@
   { "query": "歌手2024", "display_query": "歌手2024" },
   { "query": "歌手歌单", "display_query": "歌手歌单" },
   { "query": "张志杰", "display_query": "张志杰" },
-  { "query": "葡萄牙", "display_query": "葡萄牙" },
   { "query": "王俊凯", "display_query": "王俊凯" },
   { "query": "百花奖", "display_query": "百花奖" },
-  { "query": "仝卓开始直播带货", "display_query": "仝卓开始直播带货" }
+  { "query": "仝卓开始直播带货", "display_query": "仝卓开始直播带货" },
+  { "query": "仝卓", "display_query": "仝卓" },
+  { "query": "葡萄牙", "display_query": "葡萄牙" }
 ]
