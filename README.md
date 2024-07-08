@@ -14,13 +14,16 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jul 08 2024 14:12:48 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jul 08 2024 15:09:28 GMT+0800 (China Standard Time) -->
 
+1. [t1夺冠](https://www.zhihu.com/search?q=t1%E5%A4%BA%E5%86%A0)
 1. [乘风2024](https://www.zhihu.com/search?q=%E4%B9%98%E9%A3%8E2024)
+1. [卡卡西有没有偏心佐助](https://www.zhihu.com/search?q=%E5%8D%A1%E5%8D%A1%E8%A5%BF%E6%9C%89%E6%B2%A1%E6%9C%89%E5%81%8F%E5%BF%83%E4%BD%90%E5%8A%A9)
 1. [职场第一课](https://www.zhihu.com/search?q=%E8%81%8C%E5%9C%BA%E7%AC%AC%E4%B8%80%E8%AF%BE)
 1. [炎亚纶确定获缓刑3年](https://www.zhihu.com/search?q=%E7%82%8E%E4%BA%9A%E7%BA%B6%E7%A1%AE%E5%AE%9A%E8%8E%B7%E7%BC%93%E5%88%913%E5%B9%B4)
 1. [以色列北部遭15枚火箭弹袭击](https://www.zhihu.com/search?q=%E4%BB%A5%E8%89%B2%E5%88%97%E5%8C%97%E9%83%A8%E9%81%AD15%E6%9E%9A%E7%81%AB%E7%AE%AD%E5%BC%B9%E8%A2%AD%E5%87%BB)
 1. [范志毅欧洲杯8强神预测](https://www.zhihu.com/search?q=%E8%8C%83%E5%BF%97%E6%AF%85%E6%AC%A7%E6%B4%B2%E6%9D%AF8%E5%BC%BA%E7%A5%9E%E9%A2%84%E6%B5%8B)
+1. [菲律宾绑架案何以频发](https://www.zhihu.com/search?q=%E8%8F%B2%E5%BE%8B%E5%AE%BE%E7%BB%91%E6%9E%B6%E6%A1%88%E4%BD%95%E4%BB%A5%E9%A2%91%E5%8F%91)
 1. [英国大选](https://www.zhihu.com/search?q=%E8%8B%B1%E5%9B%BD%E5%A4%A7%E9%80%89)
 1. [公安调查涉江西银行不实信息](https://www.zhihu.com/search?q=%E5%85%AC%E5%AE%89%E8%B0%83%E6%9F%A5%E6%B6%89%E6%B1%9F%E8%A5%BF%E9%93%B6%E8%A1%8C%E4%B8%8D%E5%AE%9E%E4%BF%A1%E6%81%AF)
 1. [拜登称会竞选到底](https://www.zhihu.com/search?q=%E6%8B%9C%E7%99%BB%E7%A7%B0%E4%BC%9A%E7%AB%9E%E9%80%89%E5%88%B0%E5%BA%95)
