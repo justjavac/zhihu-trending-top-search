@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jul 08 2024 17:09:26 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jul 08 2024 18:09:31 GMT+0800 (China Standard Time) -->
 
 1. [t1夺冠](https://www.zhihu.com/search?q=t1%E5%A4%BA%E5%86%A0)
 1. [乘风2024](https://www.zhihu.com/search?q=%E4%B9%98%E9%A3%8E2024)
