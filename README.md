@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jul 08 2024 19:08:15 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jul 08 2024 20:16:10 GMT+0800 (China Standard Time) -->
 
 1. [如何看待A股市场](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85A%E8%82%A1%E5%B8%82%E5%9C%BA)
 1. [t1夺冠](https://www.zhihu.com/search?q=t1%E5%A4%BA%E5%86%A0)
@@ -23,9 +23,10 @@
 1. [菲律宾绑架案何以频发](https://www.zhihu.com/search?q=%E8%8F%B2%E5%BE%8B%E5%AE%BE%E7%BB%91%E6%9E%B6%E6%A1%88%E4%BD%95%E4%BB%A5%E9%A2%91%E5%8F%91)
 1. [出口民调显示英国工党赢得大选](https://www.zhihu.com/search?q=%E5%87%BA%E5%8F%A3%E6%B0%91%E8%B0%83%E6%98%BE%E7%A4%BA%E8%8B%B1%E5%9B%BD%E5%B7%A5%E5%85%9A%E8%B5%A2%E5%BE%97%E5%A4%A7%E9%80%89)
 1. [王欣瑜晋级女单32强](https://www.zhihu.com/search?q=%E7%8E%8B%E6%AC%A3%E7%91%9C%E6%99%8B%E7%BA%A7%E5%A5%B3%E5%8D%9532%E5%BC%BA)
-1. [谭维维《人间道》](https://www.zhihu.com/search?q=%E8%B0%AD%E7%BB%B4%E7%BB%B4%E3%80%8A%E4%BA%BA%E9%97%B4%E9%81%93%E3%80%8B)
 1. [洞庭湖一线堤防发生决堤险情](https://www.zhihu.com/search?q=%E6%B4%9E%E5%BA%AD%E6%B9%96%E4%B8%80%E7%BA%BF%E5%A0%A4%E9%98%B2%E5%8F%91%E7%94%9F%E5%86%B3%E5%A0%A4%E9%99%A9%E6%83%85)
 1. [那英《如果你也听说》](https://www.zhihu.com/search?q=%E9%82%A3%E8%8B%B1%E3%80%8A%E5%A6%82%E6%9E%9C%E4%BD%A0%E4%B9%9F%E5%90%AC%E8%AF%B4%E3%80%8B)
+1. [TES 2:0 淘汰新科世界冠军 GEN](https://www.zhihu.com/search?q=TES%202%3A0%20%E6%B7%98%E6%B1%B0%E6%96%B0%E7%A7%91%E4%B8%96%E7%95%8C%E5%86%A0%E5%86%9B%20GEN)
+1. [谭维维《人间道》](https://www.zhihu.com/search?q=%E8%B0%AD%E7%BB%B4%E7%BB%B4%E3%80%8A%E4%BA%BA%E9%97%B4%E9%81%93%E3%80%8B)
 1. [乘风2024](https://www.zhihu.com/search?q=%E4%B9%98%E9%A3%8E2024)
 1. [以色列北部遭15枚火箭弹袭击](https://www.zhihu.com/search?q=%E4%BB%A5%E8%89%B2%E5%88%97%E5%8C%97%E9%83%A8%E9%81%AD15%E6%9E%9A%E7%81%AB%E7%AE%AD%E5%BC%B9%E8%A2%AD%E5%87%BB)
 1. [冒牌教授魏新河被惩罚](https://www.zhihu.com/search?q=%E5%86%92%E7%89%8C%E6%95%99%E6%8E%88%E9%AD%8F%E6%96%B0%E6%B2%B3%E8%A2%AB%E6%83%A9%E7%BD%9A)
