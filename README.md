@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jul 12 2024 01:08:03 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jul 12 2024 02:11:19 GMT+0800 (China Standard Time) -->
 
 1. [如何看待A股市场](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85A%E8%82%A1%E5%B8%82%E5%9C%BA)
 1. [有哪些故意缩短产品寿命的设计](https://www.zhihu.com/search?q=%E6%9C%89%E5%93%AA%E4%BA%9B%E6%95%85%E6%84%8F%E7%BC%A9%E7%9F%AD%E4%BA%A7%E5%93%81%E5%AF%BF%E5%91%BD%E7%9A%84%E8%AE%BE%E8%AE%A1)
