@@ -14,10 +14,12 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jul 12 2024 13:08:22 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jul 12 2024 14:12:05 GMT+0800 (China Standard Time) -->
 
+1. [咒术回战](https://www.zhihu.com/search?q=%E5%92%92%E6%9C%AF%E5%9B%9E%E6%88%98)
 1. [如何看待A股市场](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85A%E8%82%A1%E5%B8%82%E5%9C%BA)
 1. [遗憾怎么写最刀](https://www.zhihu.com/search?q=%E9%81%97%E6%86%BE%E6%80%8E%E4%B9%88%E5%86%99%E6%9C%80%E5%88%80)
+1. [如何看待ACM MM2024审稿结果](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85ACM%20MM2024%E5%AE%A1%E7%A8%BF%E7%BB%93%E6%9E%9C)
 1. [歌手歌单](https://www.zhihu.com/search?q=%E6%AD%8C%E6%89%8B%E6%AD%8C%E5%8D%95)
 1. [歌手 2024](https://www.zhihu.com/search?q=%E6%AD%8C%E6%89%8B%202024)
 1. [荷兰vs英格兰](https://www.zhihu.com/search?q=%E8%8D%B7%E5%85%B0vs%E8%8B%B1%E6%A0%BC%E5%85%B0)

@@ -1,6 +1,8 @@
 [
+  { "query": "咒术回战", "display_query": "咒术回战" },
   { "query": "如何看待A股市场", "display_query": "如何看待A股市场" },
   { "query": "遗憾怎么写最刀", "display_query": "遗憾怎么写最刀" },
+  { "query": "如何看待ACM MM2024审稿结果", "display_query": "如何看待ACM MM2024审稿结果" },
   { "query": "歌手歌单", "display_query": "歌手歌单" },
   { "query": "歌手 2024", "display_query": "歌手 2024" },
   { "query": "荷兰vs英格兰", "display_query": "荷兰vs英格兰" },
