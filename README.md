@@ -14,9 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jul 16 2024 18:07:21 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jul 16 2024 19:08:03 GMT+0800 (China Standard Time) -->
 
 1. [阿根廷夺冠](https://www.zhihu.com/search?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%A4%BA%E5%86%A0)
+1. [河南暴雨](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8D%97%E6%9A%B4%E9%9B%A8)
 1. [如何看待今日A股市场](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E4%BB%8A%E6%97%A5A%E8%82%A1%E5%B8%82%E5%9C%BA)
 1. [性价比高的手机推荐](https://www.zhihu.com/search?q=%E6%80%A7%E4%BB%B7%E6%AF%94%E9%AB%98%E7%9A%84%E6%89%8B%E6%9C%BA%E6%8E%A8%E8%8D%90)
 1. [以军继续袭击加沙地带多地](https://www.zhihu.com/search?q=%E4%BB%A5%E5%86%9B%E7%BB%A7%E7%BB%AD%E8%A2%AD%E5%87%BB%E5%8A%A0%E6%B2%99%E5%9C%B0%E5%B8%A6%E5%A4%9A%E5%9C%B0)
