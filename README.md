@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jul 17 2024 15:09:09 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jul 17 2024 16:11:20 GMT+0800 (China Standard Time) -->
 
 1. [阿根廷夺冠](https://www.zhihu.com/search?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%A4%BA%E5%86%A0)
 1. [河南暴雨](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8D%97%E6%9A%B4%E9%9B%A8)
@@ -22,6 +22,7 @@
 1. [以军继续袭击加沙地带多地](https://www.zhihu.com/search?q=%E4%BB%A5%E5%86%9B%E7%BB%A7%E7%BB%AD%E8%A2%AD%E5%87%BB%E5%8A%A0%E6%B2%99%E5%9C%B0%E5%B8%A6%E5%A4%9A%E5%9C%B0)
 1. [你比星光美丽](https://www.zhihu.com/search?q=%E4%BD%A0%E6%AF%94%E6%98%9F%E5%85%89%E7%BE%8E%E4%B8%BD)
 1. [南海发现新物种拟幽灵蛸](https://www.zhihu.com/search?q=%E5%8D%97%E6%B5%B7%E5%8F%91%E7%8E%B0%E6%96%B0%E7%89%A9%E7%A7%8D%E6%8B%9F%E5%B9%BD%E7%81%B5%E8%9B%B8)
+1. [邹市明夫妇创业七年卖掉所有房产](https://www.zhihu.com/search?q=%E9%82%B9%E5%B8%82%E6%98%8E%E5%A4%AB%E5%A6%87%E5%88%9B%E4%B8%9A%E4%B8%83%E5%B9%B4%E5%8D%96%E6%8E%89%E6%89%80%E6%9C%89%E6%88%BF%E4%BA%A7)
 1. [德国宣布移除中国通信企业组件](https://www.zhihu.com/search?q=%E5%BE%B7%E5%9B%BD%E5%AE%A3%E5%B8%83%E7%A7%BB%E9%99%A4%E4%B8%AD%E5%9B%BD%E9%80%9A%E4%BF%A1%E4%BC%81%E4%B8%9A%E7%BB%84%E4%BB%B6)
 1. [小米获得独立造车资质](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%E8%8E%B7%E5%BE%97%E7%8B%AC%E7%AB%8B%E9%80%A0%E8%BD%A6%E8%B5%84%E8%B4%A8)
 1. [日本掀起弹珠机狂热](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E6%8E%80%E8%B5%B7%E5%BC%B9%E7%8F%A0%E6%9C%BA%E7%8B%82%E7%83%AD)
