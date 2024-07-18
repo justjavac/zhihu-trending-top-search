@@ -14,11 +14,14 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jul 18 2024 13:09:09 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jul 18 2024 14:12:15 GMT+0800 (China Standard Time) -->
 
 1. [阿根廷夺冠](https://www.zhihu.com/search?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%A4%BA%E5%86%A0)
 1. [河南暴雨](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8D%97%E6%9A%B4%E9%9B%A8)
+1. [拜登新冠检测呈阳性](https://www.zhihu.com/search?q=%E6%8B%9C%E7%99%BB%E6%96%B0%E5%86%A0%E6%A3%80%E6%B5%8B%E5%91%88%E9%98%B3%E6%80%A7)
+1. [如何看待A股市场](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85A%E8%82%A1%E5%B8%82%E5%9C%BA)
 1. [如何看待今日A股市场](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E4%BB%8A%E6%97%A5A%E8%82%A1%E5%B8%82%E5%9C%BA)
+1. [游戏本推荐](https://www.zhihu.com/search?q=%E6%B8%B8%E6%88%8F%E6%9C%AC%E6%8E%A8%E8%8D%90)
 1. [以军继续袭击加沙地带多地](https://www.zhihu.com/search?q=%E4%BB%A5%E5%86%9B%E7%BB%A7%E7%BB%AD%E8%A2%AD%E5%87%BB%E5%8A%A0%E6%B2%99%E5%9C%B0%E5%B8%A6%E5%A4%9A%E5%9C%B0)
 1. [你比星光美丽](https://www.zhihu.com/search?q=%E4%BD%A0%E6%AF%94%E6%98%9F%E5%85%89%E7%BE%8E%E4%B8%BD)
 1. [邹市明夫妇创业七年卖掉所有房产](https://www.zhihu.com/search?q=%E9%82%B9%E5%B8%82%E6%98%8E%E5%A4%AB%E5%A6%87%E5%88%9B%E4%B8%9A%E4%B8%83%E5%B9%B4%E5%8D%96%E6%8E%89%E6%89%80%E6%9C%89%E6%88%BF%E4%BA%A7)
