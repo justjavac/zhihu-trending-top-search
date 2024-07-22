@@ -14,13 +14,20 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jul 22 2024 18:09:18 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jul 22 2024 19:07:33 GMT+0800 (China Standard Time) -->
 
-1. [如何看待今日A股市场](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E4%BB%8A%E6%97%A5A%E8%82%A1%E5%B8%82%E5%9C%BA)
-1. [湖人险胜骑士](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BA%E9%99%A9%E8%83%9C%E9%AA%91%E5%A3%AB)
 1. [SBS歌谣大战](https://www.zhihu.com/search?q=SBS%E6%AD%8C%E8%B0%A3%E5%A4%A7%E6%88%98)
+1. [王宁](https://www.zhihu.com/search?q=%E7%8E%8B%E5%AE%81)
 1. [种地吧](https://www.zhihu.com/search?q=%E7%A7%8D%E5%9C%B0%E5%90%A7)
 1. [宝鸡暴雨](https://www.zhihu.com/search?q=%E5%AE%9D%E9%B8%A1%E6%9A%B4%E9%9B%A8)
+1. [唐朝诡事录之西行](https://www.zhihu.com/search?q=%E5%94%90%E6%9C%9D%E8%AF%A1%E4%BA%8B%E5%BD%95%E4%B9%8B%E8%A5%BF%E8%A1%8C)
+1. [微软客服回应蓝屏](https://www.zhihu.com/search?q=%E5%BE%AE%E8%BD%AF%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E8%93%9D%E5%B1%8F)
+1. [雷军回应造车原因](https://www.zhihu.com/search?q=%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E9%80%A0%E8%BD%A6%E5%8E%9F%E5%9B%A0)
+1. [李晟医生去世](https://www.zhihu.com/search?q=%E6%9D%8E%E6%99%9F%E5%8C%BB%E7%94%9F%E5%8E%BB%E4%B8%96)
+1. [温州遭持刀伤害医生不幸去世](https://www.zhihu.com/search?q=%E6%B8%A9%E5%B7%9E%E9%81%AD%E6%8C%81%E5%88%80%E4%BC%A4%E5%AE%B3%E5%8C%BB%E7%94%9F%E4%B8%8D%E5%B9%B8%E5%8E%BB%E4%B8%96)
+1. [国际法院认定以色列非法占领巴领土](https://www.zhihu.com/search?q=%E5%9B%BD%E9%99%85%E6%B3%95%E9%99%A2%E8%AE%A4%E5%AE%9A%E4%BB%A5%E8%89%B2%E5%88%97%E9%9D%9E%E6%B3%95%E5%8D%A0%E9%A2%86%E5%B7%B4%E9%A2%86%E5%9C%9F)
+1. [如何看待今日A股市场](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E4%BB%8A%E6%97%A5A%E8%82%A1%E5%B8%82%E5%9C%BA)
+1. [湖人险胜骑士](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BA%E9%99%A9%E8%83%9C%E9%AA%91%E5%A3%AB)
 1. [错位大结局](https://www.zhihu.com/search?q=%E9%94%99%E4%BD%8D%E5%A4%A7%E7%BB%93%E5%B1%80)
 1. [拜登新冠阳性](https://www.zhihu.com/search?q=%E6%8B%9C%E7%99%BB%E6%96%B0%E5%86%A0%E9%98%B3%E6%80%A7)
 1. [单休已成职场用工新要求](https://www.zhihu.com/search?q=%E5%8D%95%E4%BC%91%E5%B7%B2%E6%88%90%E8%81%8C%E5%9C%BA%E7%94%A8%E5%B7%A5%E6%96%B0%E8%A6%81%E6%B1%82)
