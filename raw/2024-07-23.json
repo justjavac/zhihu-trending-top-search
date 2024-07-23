@@ -1,6 +1,6 @@
 [
+  { "query": "如何看待A股市场", "display_query": "如何看待A股市场" },
   { "query": "SBS歌谣大战", "display_query": "SBS歌谣大战" },
-  { "query": "王宁", "display_query": "王宁" },
   { "query": "种地吧", "display_query": "种地吧" },
   { "query": "河南发布高温橙色预警", "display_query": "河南发布高温橙色预警" },
   { "query": "郭士强担任中国男篮主教练", "display_query": "郭士强担任中国男篮主教练" },
@@ -9,6 +9,7 @@
   { "query": "《抓娃娃》票房破 14 亿", "display_query": "《抓娃娃》票房破 14 亿" },
   { "query": "陕西洪涝灾害致 21 万人受灾", "display_query": "陕西洪涝灾害致 21 万人受灾" },
   { "query": "美国飞机坠毁 3 人死亡", "display_query": "美国飞机坠毁 3 人死亡" },
+  { "query": "王宁", "display_query": "王宁" },
   { "query": "雅安暴雨 30 余人失联", "display_query": "雅安暴雨 30 余人失联" },
   { "query": "抓娃娃票房破 10 亿", "display_query": "抓娃娃票房破 10 亿" },
   { "query": "产妇擅入医院施工场地坠亡", "display_query": "产妇擅入医院施工场地坠亡" },
