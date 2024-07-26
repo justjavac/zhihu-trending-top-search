@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jul 26 2024 18:09:23 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jul 26 2024 19:08:02 GMT+0800 (China Standard Time) -->
 
 1. [油价降了](https://www.zhihu.com/search?q=%E6%B2%B9%E4%BB%B7%E9%99%8D%E4%BA%86)
 1. [如何看待今日A股市场](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E4%BB%8A%E6%97%A5A%E8%82%A1%E5%B8%82%E5%9C%BA)
@@ -23,9 +23,10 @@
 1. [死侍与金刚狼](https://www.zhihu.com/search?q=%E6%AD%BB%E4%BE%8D%E4%B8%8E%E9%87%91%E5%88%9A%E7%8B%BC)
 1. [唐朝诡事录之西行](https://www.zhihu.com/search?q=%E5%94%90%E6%9C%9D%E8%AF%A1%E4%BA%8B%E5%BD%95%E4%B9%8B%E8%A5%BF%E8%A1%8C)
 1. [雷军隔空回应董明珠](https://www.zhihu.com/search?q=%E9%9B%B7%E5%86%9B%E9%9A%94%E7%A9%BA%E5%9B%9E%E5%BA%94%E8%91%A3%E6%98%8E%E7%8F%A0)
-1. [优衣库在中国失去性价比](https://www.zhihu.com/search?q=%E4%BC%98%E8%A1%A3%E5%BA%93%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%A4%B1%E5%8E%BB%E6%80%A7%E4%BB%B7%E6%AF%94)
 1. [超雄综合征不等于会暴虐犯罪](https://www.zhihu.com/search?q=%E8%B6%85%E9%9B%84%E7%BB%BC%E5%90%88%E5%BE%81%E4%B8%8D%E7%AD%89%E4%BA%8E%E4%BC%9A%E6%9A%B4%E8%99%90%E7%8A%AF%E7%BD%AA)
 1. [暑期档电影票房破60亿](https://www.zhihu.com/search?q=%E6%9A%91%E6%9C%9F%E6%A1%A3%E7%94%B5%E5%BD%B1%E7%A5%A8%E6%88%BF%E7%A0%B460%E4%BA%BF)
+1. [夜宵推荐](https://www.zhihu.com/search?q=%E5%A4%9C%E5%AE%B5%E6%8E%A8%E8%8D%90)
+1. [优衣库在中国失去性价比](https://www.zhihu.com/search?q=%E4%BC%98%E8%A1%A3%E5%BA%93%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%A4%B1%E5%8E%BB%E6%80%A7%E4%BB%B7%E6%AF%94)
 1. [北京暴雨](https://www.zhihu.com/search?q=%E5%8C%97%E4%BA%AC%E6%9A%B4%E9%9B%A8)
 1. [柯洁不敌申真谞](https://www.zhihu.com/search?q=%E6%9F%AF%E6%B4%81%E4%B8%8D%E6%95%8C%E7%94%B3%E7%9C%9F%E8%B0%9E)
 1. [3000预算的手机推荐](https://www.zhihu.com/search?q=3000%E9%A2%84%E7%AE%97%E7%9A%84%E6%89%8B%E6%9C%BA%E6%8E%A8%E8%8D%90)
