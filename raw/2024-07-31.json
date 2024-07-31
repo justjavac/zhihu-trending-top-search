@@ -1,6 +1,7 @@
 [
   { "query": "北京暴雨", "display_query": "北京暴雨" },
   { "query": "多家银行下调存款利率", "display_query": "多家银行下调存款利率" },
+  { "query": "哈马斯", "display_query": "哈马斯" },
   { "query": "今日A股市场", "display_query": "今日A股市场" },
   { "query": "相机推荐", "display_query": "相机推荐" },
   { "query": "职场第一课", "display_query": "职场第一课" },
