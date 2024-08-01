@@ -1,7 +1,6 @@
 [
   { "query": "北京暴雨", "display_query": "北京暴雨" },
   { "query": "如何看待A股市场", "display_query": "如何看待A股市场" },
-  { "query": "今日A股市场", "display_query": "今日A股市场" },
   { "query": "上海发布高温橙色预警", "display_query": "上海发布高温橙色预警" },
   { "query": "湖南8个村子因暴雨失联", "display_query": "湖南8个村子因暴雨失联" },
   { "query": "为什么有人宁愿走国道也不愿走高速", "display_query": "为什么有人宁愿走国道也不愿走高速" },
@@ -10,6 +9,7 @@
   { "query": "开轿车累还是 suv 累", "display_query": "开轿车累还是 suv 累" },
   { "query": "美团亏损 1155 亿", "display_query": "美团亏损 1155 亿" },
   { "query": "中国二季度手机市场出货量增近 9%", "display_query": "中国二季度手机市场出货量增近 9%" },
+  { "query": "今日A股市场", "display_query": "今日A股市场" },
   { "query": "炉石传说", "display_query": "炉石传说" },
   { "query": "王阳明到底悟到了什么", "display_query": "王阳明到底悟到了什么" },
   { "query": "职人心态修炼手册", "display_query": "职人心态修炼手册" },

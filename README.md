@@ -14,11 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Aug 01 2024 18:10:19 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Aug 01 2024 19:08:06 GMT+0800 (China Standard Time) -->
 
 1. [北京暴雨](https://www.zhihu.com/search?q=%E5%8C%97%E4%BA%AC%E6%9A%B4%E9%9B%A8)
 1. [如何看待A股市场](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85A%E8%82%A1%E5%B8%82%E5%9C%BA)
-1. [今日A股市场](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5A%E8%82%A1%E5%B8%82%E5%9C%BA)
 1. [上海发布高温橙色预警](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E5%8F%91%E5%B8%83%E9%AB%98%E6%B8%A9%E6%A9%99%E8%89%B2%E9%A2%84%E8%AD%A6)
 1. [湖南8个村子因暴雨失联](https://www.zhihu.com/search?q=%E6%B9%96%E5%8D%978%E4%B8%AA%E6%9D%91%E5%AD%90%E5%9B%A0%E6%9A%B4%E9%9B%A8%E5%A4%B1%E8%81%94)
 1. [为什么有人宁愿走国道也不愿走高速](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%BA%E5%AE%81%E6%84%BF%E8%B5%B0%E5%9B%BD%E9%81%93%E4%B9%9F%E4%B8%8D%E6%84%BF%E8%B5%B0%E9%AB%98%E9%80%9F)
@@ -27,6 +26,7 @@
 1. [开轿车累还是 suv 累](https://www.zhihu.com/search?q=%E5%BC%80%E8%BD%BF%E8%BD%A6%E7%B4%AF%E8%BF%98%E6%98%AF%20suv%20%E7%B4%AF)
 1. [美团亏损 1155 亿](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%A2%E4%BA%8F%E6%8D%9F%201155%20%E4%BA%BF)
 1. [中国二季度手机市场出货量增近 9%](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E4%BA%8C%E5%AD%A3%E5%BA%A6%E6%89%8B%E6%9C%BA%E5%B8%82%E5%9C%BA%E5%87%BA%E8%B4%A7%E9%87%8F%E5%A2%9E%E8%BF%91%209%25)
+1. [今日A股市场](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5A%E8%82%A1%E5%B8%82%E5%9C%BA)
 1. [炉石传说](https://www.zhihu.com/search?q=%E7%82%89%E7%9F%B3%E4%BC%A0%E8%AF%B4)
 1. [王阳明到底悟到了什么](https://www.zhihu.com/search?q=%E7%8E%8B%E9%98%B3%E6%98%8E%E5%88%B0%E5%BA%95%E6%82%9F%E5%88%B0%E4%BA%86%E4%BB%80%E4%B9%88)
 1. [职人心态修炼手册](https://www.zhihu.com/search?q=%E8%81%8C%E4%BA%BA%E5%BF%83%E6%80%81%E4%BF%AE%E7%82%BC%E6%89%8B%E5%86%8C)
