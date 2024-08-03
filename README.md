@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Aug 03 2024 14:11:48 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Aug 03 2024 15:07:05 GMT+0800 (China Standard Time) -->
 
 1. [Red Velvet](https://www.zhihu.com/search?q=Red%20Velvet)
 1. [孙颖莎vs早田希娜](https://www.zhihu.com/search?q=%E5%AD%99%E9%A2%96%E8%8E%8Evs%E6%97%A9%E7%94%B0%E5%B8%8C%E5%A8%9C)
@@ -25,6 +25,7 @@
 1. [上海发布高温橙色预警](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E5%8F%91%E5%B8%83%E9%AB%98%E6%B8%A9%E6%A9%99%E8%89%B2%E9%A2%84%E8%AD%A6)
 1. [十天之后回到现实](https://www.zhihu.com/search?q=%E5%8D%81%E5%A4%A9%E4%B9%8B%E5%90%8E%E5%9B%9E%E5%88%B0%E7%8E%B0%E5%AE%9E)
 1. [湖南8个村子因暴雨失联](https://www.zhihu.com/search?q=%E6%B9%96%E5%8D%978%E4%B8%AA%E6%9D%91%E5%AD%90%E5%9B%A0%E6%9A%B4%E9%9B%A8%E5%A4%B1%E8%81%94)
+1. [孙颖莎王楚钦进混双决赛](https://www.zhihu.com/search?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E7%8E%8B%E6%A5%9A%E9%92%A6%E8%BF%9B%E6%B7%B7%E5%8F%8C%E5%86%B3%E8%B5%9B)
 1. [职人心态修炼手册](https://www.zhihu.com/search?q=%E8%81%8C%E4%BA%BA%E5%BF%83%E6%80%81%E4%BF%AE%E7%82%BC%E6%89%8B%E5%86%8C)
 
 <!-- END -->
