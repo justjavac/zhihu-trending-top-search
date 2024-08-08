@@ -1,6 +1,5 @@
 [
   { "query": "中国女排", "display_query": "中国女排" },
-  { "query": "今日立秋", "display_query": "今日立秋" },
   { "query": "三大指数集体低开", "display_query": "三大指数集体低开" },
   { "query": "如何看待今日A股市场", "display_query": "如何看待今日A股市场" },
   { "query": "陈若琳说全红婵受身体发育困扰", "display_query": "陈若琳说全红婵受身体发育困扰" },
@@ -10,6 +9,7 @@
   { "query": "7 月日本东京 123 人疑似中暑死亡", "display_query": "7 月日本东京 123 人疑似中暑死亡" },
   { "query": "孙颖莎在巴黎奥运会输给陈梦的主要原因", "display_query": "孙颖莎在巴黎奥运会输给陈梦的主要原因" },
   { "query": "济南一街道网格员招考火爆", "display_query": "济南一街道网格员招考火爆" },
+  { "query": "今日立秋", "display_query": "今日立秋" },
   { "query": "日本樱岛火山喷发", "display_query": "日本樱岛火山喷发" },
   { "query": "俄与叙利亚建立军事基地", "display_query": "俄与叙利亚建立军事基地" },
   { "query": "国际奥委回应有关中国游泳队杂音", "display_query": "国际奥委回应有关中国游泳队杂音" },
