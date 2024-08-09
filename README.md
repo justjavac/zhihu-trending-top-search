@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Aug 10 2024 03:06:32 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Aug 10 2024 04:09:14 GMT+0800 (China Standard Time) -->
 
 1. [国乒女团晋级决赛](https://www.zhihu.com/search?q=%E5%9B%BD%E4%B9%92%E5%A5%B3%E5%9B%A2%E6%99%8B%E7%BA%A7%E5%86%B3%E8%B5%9B)
 1. [国乒男团晋级决赛](https://www.zhihu.com/search?q=%E5%9B%BD%E4%B9%92%E7%94%B7%E5%9B%A2%E6%99%8B%E7%BA%A7%E5%86%B3%E8%B5%9B)
@@ -23,9 +23,10 @@
 1. [王楚钦](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A6)
 1. [陈若琳说全红婵受身体发育困扰](https://www.zhihu.com/search?q=%E9%99%88%E8%8B%A5%E7%90%B3%E8%AF%B4%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%8F%97%E8%BA%AB%E4%BD%93%E5%8F%91%E8%82%B2%E5%9B%B0%E6%89%B0)
 1. [美国西北大学吴瑛教授去世](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E8%A5%BF%E5%8C%97%E5%A4%A7%E5%AD%A6%E5%90%B4%E7%91%9B%E6%95%99%E6%8E%88%E5%8E%BB%E4%B8%96)
-1. [王嘉男、张溟鲲晋级男子跳远决赛](https://www.zhihu.com/search?q=%E7%8E%8B%E5%98%89%E7%94%B7%E3%80%81%E5%BC%A0%E6%BA%9F%E9%B2%B2%E6%99%8B%E7%BA%A7%E7%94%B7%E5%AD%90%E8%B7%B3%E8%BF%9C%E5%86%B3%E8%B5%9B)
 1. [郑钦文已手握四千万代言](https://www.zhihu.com/search?q=%E9%83%91%E9%92%A6%E6%96%87%E5%B7%B2%E6%89%8B%E6%8F%A1%E5%9B%9B%E5%8D%83%E4%B8%87%E4%BB%A3%E8%A8%80)
 1. [我国成功发射千帆极轨01组卫星](https://www.zhihu.com/search?q=%E6%88%91%E5%9B%BD%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%E5%8D%83%E5%B8%86%E6%9E%81%E8%BD%A801%E7%BB%84%E5%8D%AB%E6%98%9F)
+1. [女子 10 米跳台陈芋汐夺金](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%2010%20%E7%B1%B3%E8%B7%B3%E5%8F%B0%E9%99%88%E8%8A%8B%E6%B1%90%E5%A4%BA%E9%87%91)
+1. [王嘉男、张溟鲲晋级男子跳远决赛](https://www.zhihu.com/search?q=%E7%8E%8B%E5%98%89%E7%94%B7%E3%80%81%E5%BC%A0%E6%BA%9F%E9%B2%B2%E6%99%8B%E7%BA%A7%E7%94%B7%E5%AD%90%E8%B7%B3%E8%BF%9C%E5%86%B3%E8%B5%9B)
 1. [中国女排不敌土耳其](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E4%B8%8D%E6%95%8C%E5%9C%9F%E8%80%B3%E5%85%B6)
 
 <!-- END -->
