@@ -1,7 +1,6 @@
 [
   { "query": "资生堂上半年净利润降 99.9%", "display_query": "资生堂上半年净利润降 99.9%" },
   { "query": "中国女乒团体奥运五连冠", "display_query": "中国女乒团体奥运五连冠" },
-  { "query": "女子 81 公斤举重李雯雯卫冕", "display_query": "女子 81 公斤举重李雯雯卫冕" },
   { "query": "中国金牌榜并列第一", "display_query": "中国金牌榜并列第一" },
   { "query": "李雯雯获本届奥运最后一块金牌", "display_query": "李雯雯获本届奥运最后一块金牌" },
   { "query": "洛杉矶奥运会", "display_query": "洛杉矶奥运会" },
@@ -9,6 +8,8 @@
   { "query": "巴黎奥运马拉松金牌", "display_query": "巴黎奥运马拉松金牌" },
   { "query": "巴黎奥运首创大众马拉松", "display_query": "巴黎奥运首创大众马拉松" },
   { "query": "洛杉矶 12 分钟", "display_query": "洛杉矶 12 分钟" },
+  { "query": "俄承认乌军已攻入俄本土 30 公里", "display_query": "俄承认乌军已攻入俄本土 30 公里" },
+  { "query": "女子 81 公斤举重李雯雯卫冕", "display_query": "女子 81 公斤举重李雯雯卫冕" },
   { "query": "如何看待今日A股市场", "display_query": "如何看待今日A股市场" },
   { "query": "许昕解说", "display_query": "许昕解说" },
   { "query": "国产大型无人运输机成功首飞", "display_query": "国产大型无人运输机成功首飞" },
