@@ -14,8 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Aug 15 2024 13:09:21 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Aug 15 2024 14:12:36 GMT+0800 (China Standard Time) -->
 
+1. [如何看待今日A股市场](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E4%BB%8A%E6%97%A5A%E8%82%A1%E5%B8%82%E5%9C%BA)
+1. [你一个人旅行过吗](https://www.zhihu.com/search?q=%E4%BD%A0%E4%B8%80%E4%B8%AA%E4%BA%BA%E6%97%85%E8%A1%8C%E8%BF%87%E5%90%97)
 1. [资生堂上半年净利润降 99.9%](https://www.zhihu.com/search?q=%E8%B5%84%E7%94%9F%E5%A0%82%E4%B8%8A%E5%8D%8A%E5%B9%B4%E5%87%80%E5%88%A9%E6%B6%A6%E9%99%8D%2099.9%25)
 1. [为什么骑楼没有全国推行开](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E9%AA%91%E6%A5%BC%E6%B2%A1%E6%9C%89%E5%85%A8%E5%9B%BD%E6%8E%A8%E8%A1%8C%E5%BC%80)
 1. [为什么苹果不愿加屏下指纹](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%8B%B9%E6%9E%9C%E4%B8%8D%E6%84%BF%E5%8A%A0%E5%B1%8F%E4%B8%8B%E6%8C%87%E7%BA%B9)
