@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Aug 17 2024 03:07:44 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Aug 17 2024 04:08:54 GMT+0800 (China Standard Time) -->
 
 1. [7 月 M2 同比增长 6.3%](https://www.zhihu.com/search?q=7%20%E6%9C%88%20M2%20%E5%90%8C%E6%AF%94%E5%A2%9E%E9%95%BF%206.3%25)
 1. [带娃骑行娃摔车遭小车碾压](https://www.zhihu.com/search?q=%E5%B8%A6%E5%A8%83%E9%AA%91%E8%A1%8C%E5%A8%83%E6%91%94%E8%BD%A6%E9%81%AD%E5%B0%8F%E8%BD%A6%E7%A2%BE%E5%8E%8B)
