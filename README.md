@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Aug 17 2024 10:29:54 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Aug 17 2024 11:09:04 GMT+0800 (China Standard Time) -->
 
 1. [7 月 M2 同比增长 6.3%](https://www.zhihu.com/search?q=7%20%E6%9C%88%20M2%20%E5%90%8C%E6%AF%94%E5%A2%9E%E9%95%BF%206.3%25)
 1. [台积电美国工厂 4 年未生产一颗芯片](https://www.zhihu.com/search?q=%E5%8F%B0%E7%A7%AF%E7%94%B5%E7%BE%8E%E5%9B%BD%E5%B7%A5%E5%8E%82%204%20%E5%B9%B4%E6%9C%AA%E7%94%9F%E4%BA%A7%E4%B8%80%E9%A2%97%E8%8A%AF%E7%89%87)
