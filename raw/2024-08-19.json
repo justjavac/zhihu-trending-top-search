@@ -1,7 +1,10 @@
 [
+  { "query": "中国医师节", "display_query": "中国医师节" },
   { "query": "公积金是否能视为收入", "display_query": "公积金是否能视为收入" },
+  { "query": "切尔西vs曼城", "display_query": "切尔西vs曼城" },
   { "query": "中国已经建成世界上规模最大的教育体系", "display_query": "中国已经建成世界上规模最大的教育体系" },
   { "query": "达州蚁商神龙洞投毒", "display_query": "达州蚁商神龙洞投毒" },
+  { "query": "徐峥新片被指「消费苦难」", "display_query": "徐峥新片被指「消费苦难」" },
   { "query": "教师因课程不合格被要求整改", "display_query": "教师因课程不合格被要求整改" },
   { "query": "你接受买东西都是 500 元的超能力吗", "display_query": "你接受买东西都是 500 元的超能力吗" },
   { "query": "为什么中国古代兵器对付不了倭刀", "display_query": "为什么中国古代兵器对付不了倭刀" },
