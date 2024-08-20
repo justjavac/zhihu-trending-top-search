@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Aug 20 2024 21:13:19 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Aug 20 2024 22:08:57 GMT+0800 (China Standard Time) -->
 
 1. [中国医师节](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E5%8C%BB%E5%B8%88%E8%8A%82)
 1. [如何看待今日A股市场](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E4%BB%8A%E6%97%A5A%E8%82%A1%E5%B8%82%E5%9C%BA)
