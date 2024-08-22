@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Aug 22 2024 20:16:01 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Aug 22 2024 21:13:32 GMT+0800 (China Standard Time) -->
 
 1. [日本樱岛火山喷发](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E6%A8%B1%E5%B2%9B%E7%81%AB%E5%B1%B1%E5%96%B7%E5%8F%91)
 1. [如何看待今日A股市场](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E4%BB%8A%E6%97%A5A%E8%82%A1%E5%B8%82%E5%9C%BA)
