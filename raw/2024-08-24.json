@@ -1,6 +1,5 @@
 [
   { "query": "成都市民拍到 7 个太阳同框", "display_query": "成都市民拍到 7 个太阳同框" },
-  { "query": "《黑神话：悟空》正式解锁", "display_query": "《黑神话：悟空》正式解锁" },
   { "query": "陈芋汐说有全红婵我是幸运的", "display_query": "陈芋汐说有全红婵我是幸运的" },
   { "query": "阿维塔投资华为引望协议签约完成", "display_query": "阿维塔投资华为引望协议签约完成" },
   { "query": "理想汽车否认与医施德合作", "display_query": "理想汽车否认与医施德合作" },
@@ -8,5 +7,7 @@
   { "query": "张大仙黑神话全球首吐", "display_query": "张大仙黑神话全球首吐" },
   { "query": "南方电网招投标拉黑长城汽车", "display_query": "南方电网招投标拉黑长城汽车" },
   { "query": "OpenAI 推出 GPT-4o 微调版本", "display_query": "OpenAI 推出 GPT-4o 微调版本" },
-  { "query": "拜登发表「艰难告别」演讲", "display_query": "拜登发表「艰难告别」演讲" }
+  { "query": "拜登发表「艰难告别」演讲", "display_query": "拜登发表「艰难告别」演讲" },
+  { "query": "近期人民币汇率出现了爆发式升值", "display_query": "近期人民币汇率出现了爆发式升值" },
+  { "query": "《黑神话：悟空》正式解锁", "display_query": "《黑神话：悟空》正式解锁" }
 ]
