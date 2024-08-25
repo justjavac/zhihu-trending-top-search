@@ -14,8 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Aug 25 2024 19:08:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Aug 25 2024 20:14:21 GMT+0800 (China Standard Time) -->
 
+1. [孙杨](https://www.zhihu.com/search?q=%E5%AD%99%E6%9D%A8)
 1. [陈芋汐说有全红婵我是幸运的](https://www.zhihu.com/search?q=%E9%99%88%E8%8A%8B%E6%B1%90%E8%AF%B4%E6%9C%89%E5%85%A8%E7%BA%A2%E5%A9%B5%E6%88%91%E6%98%AF%E5%B9%B8%E8%BF%90%E7%9A%84)
 1. [阿维塔投资华为引望协议签约完成](https://www.zhihu.com/search?q=%E9%98%BF%E7%BB%B4%E5%A1%94%E6%8A%95%E8%B5%84%E5%8D%8E%E4%B8%BA%E5%BC%95%E6%9C%9B%E5%8D%8F%E8%AE%AE%E7%AD%BE%E7%BA%A6%E5%AE%8C%E6%88%90)
 1. [理想汽车否认与医施德合作](https://www.zhihu.com/search?q=%E7%90%86%E6%83%B3%E6%B1%BD%E8%BD%A6%E5%90%A6%E8%AE%A4%E4%B8%8E%E5%8C%BB%E6%96%BD%E5%BE%B7%E5%90%88%E4%BD%9C)
