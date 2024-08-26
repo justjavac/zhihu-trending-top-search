@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Aug 26 2024 14:13:02 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Aug 26 2024 15:09:05 GMT+0800 (China Standard Time) -->
 
 1. [孙杨](https://www.zhihu.com/search?q=%E5%AD%99%E6%9D%A8)
 1. [陈芋汐说有全红婵我是幸运的](https://www.zhihu.com/search?q=%E9%99%88%E8%8A%8B%E6%B1%90%E8%AF%B4%E6%9C%89%E5%85%A8%E7%BA%A2%E5%A9%B5%E6%88%91%E6%98%AF%E5%B9%B8%E8%BF%90%E7%9A%84)
@@ -22,6 +22,7 @@
 1. [国足公布18强赛大名单](https://www.zhihu.com/search?q=%E5%9B%BD%E8%B6%B3%E5%85%AC%E5%B8%8318%E5%BC%BA%E8%B5%9B%E5%A4%A7%E5%90%8D%E5%8D%95)
 1. [小鹏减亏但还没脱困](https://www.zhihu.com/search?q=%E5%B0%8F%E9%B9%8F%E5%87%8F%E4%BA%8F%E4%BD%86%E8%BF%98%E6%B2%A1%E8%84%B1%E5%9B%B0)
 1. [全红婵展示猫眼美甲](https://www.zhihu.com/search?q=%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%B1%95%E7%A4%BA%E7%8C%AB%E7%9C%BC%E7%BE%8E%E7%94%B2)
+1. [如何评价「黑神话悟空」](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E3%80%8C%E9%BB%91%E7%A5%9E%E8%AF%9D%E6%82%9F%E7%A9%BA%E3%80%8D)
 1. [出圈的是悟空出海的是中国文化](https://www.zhihu.com/search?q=%E5%87%BA%E5%9C%88%E7%9A%84%E6%98%AF%E6%82%9F%E7%A9%BA%E5%87%BA%E6%B5%B7%E7%9A%84%E6%98%AF%E4%B8%AD%E5%9B%BD%E6%96%87%E5%8C%96)
 1. [黑神话悟空上线后已有多人被骗](https://www.zhihu.com/search?q=%E9%BB%91%E7%A5%9E%E8%AF%9D%E6%82%9F%E7%A9%BA%E4%B8%8A%E7%BA%BF%E5%90%8E%E5%B7%B2%E6%9C%89%E5%A4%9A%E4%BA%BA%E8%A2%AB%E9%AA%97)
 1. [父子俩同时收到大学录取通知书](https://www.zhihu.com/search?q=%E7%88%B6%E5%AD%90%E4%BF%A9%E5%90%8C%E6%97%B6%E6%94%B6%E5%88%B0%E5%A4%A7%E5%AD%A6%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6)
