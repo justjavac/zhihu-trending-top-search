@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Aug 30 2024 19:09:05 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Aug 30 2024 20:16:10 GMT+0800 (China Standard Time) -->
 
 1. [为什么现在的古装剧一股现代味](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E7%9A%84%E5%8F%A4%E8%A3%85%E5%89%A7%E4%B8%80%E8%82%A1%E7%8E%B0%E4%BB%A3%E5%91%B3)
 1. [外媒称普华永道可能停业 6 个月](https://www.zhihu.com/search?q=%E5%A4%96%E5%AA%92%E7%A7%B0%E6%99%AE%E5%8D%8E%E6%B0%B8%E9%81%93%E5%8F%AF%E8%83%BD%E5%81%9C%E4%B8%9A%206%20%E4%B8%AA%E6%9C%88)
