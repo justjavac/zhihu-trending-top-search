@@ -1,13 +1,17 @@
 [
+  { "query": "开学第一课", "display_query": "开学第一课" },
+  { "query": "开学第一天", "display_query": "开学第一天" },
+  { "query": "T1战胜DK", "display_query": "T1战胜DK" },
   { "query": "你遇到最离谱的事是什么", "display_query": "你遇到最离谱的事是什么" },
+  { "query": "gen 3:1 hle", "display_query": "gen 3:1 hle" },
   { "query": "为什么现在的古装剧一股现代味", "display_query": "为什么现在的古装剧一股现代味" },
   { "query": "黎巴嫩为什么打以色列", "display_query": "黎巴嫩为什么打以色列" },
+  { "query": "赛力斯抱紧华为", "display_query": "赛力斯抱紧华为" },
+  { "query": "比亚迪方程豹与华为乾", "display_query": "比亚迪方程豹与华为乾" },
+  { "query": "夫妻已有二孩再生四胞胎", "display_query": "夫妻已有二孩再生四胞胎" },
   { "query": "郑钦文逆转阿尼西莫娃", "display_query": "郑钦文逆转阿尼西莫娃" },
   { "query": "沙利文抵达北京", "display_query": "沙利文抵达北京" },
-  { "query": "赛力斯抱紧华为", "display_query": "赛力斯抱紧华为" },
   { "query": "塔克拉玛干沙漠发洪水", "display_query": "塔克拉玛干沙漠发洪水" },
   { "query": "9月苹果新品预测", "display_query": "9月苹果新品预测" },
-  { "query": "比亚迪方程豹与华为乾", "display_query": "比亚迪方程豹与华为乾" },
-  { "query": "樊振东陈梦退赛", "display_query": "樊振东陈梦退赛" },
-  { "query": "夫妻已有二孩再生四胞胎", "display_query": "夫妻已有二孩再生四胞胎" }
+  { "query": "樊振东陈梦退赛", "display_query": "樊振东陈梦退赛" }
 ]
