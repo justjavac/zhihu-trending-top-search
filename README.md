@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Sep 02 2024 12:11:30 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Sep 02 2024 13:09:33 GMT+0800 (China Standard Time) -->
 
 1. [你遇到最离谱的事是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E9%81%87%E5%88%B0%E6%9C%80%E7%A6%BB%E8%B0%B1%E7%9A%84%E4%BA%8B%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [为什么现在的古装剧一股现代味](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E7%9A%84%E5%8F%A4%E8%A3%85%E5%89%A7%E4%B8%80%E8%82%A1%E7%8E%B0%E4%BB%A3%E5%91%B3)
