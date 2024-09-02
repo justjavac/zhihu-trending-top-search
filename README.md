@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Sep 02 2024 20:17:45 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Sep 02 2024 21:15:42 GMT+0800 (China Standard Time) -->
 
 1. [开学第一课](https://www.zhihu.com/search?q=%E5%BC%80%E5%AD%A6%E7%AC%AC%E4%B8%80%E8%AF%BE)
 1. [开学第一天](https://www.zhihu.com/search?q=%E5%BC%80%E5%AD%A6%E7%AC%AC%E4%B8%80%E5%A4%A9)
@@ -24,8 +24,9 @@
 1. [欧洲航司巨头宣布不再使用波音飞机](https://www.zhihu.com/search?q=%E6%AC%A7%E6%B4%B2%E8%88%AA%E5%8F%B8%E5%B7%A8%E5%A4%B4%E5%AE%A3%E5%B8%83%E4%B8%8D%E5%86%8D%E4%BD%BF%E7%94%A8%E6%B3%A2%E9%9F%B3%E9%A3%9E%E6%9C%BA)
 1. [国航南航接收首架c919飞机](https://www.zhihu.com/search?q=%E5%9B%BD%E8%88%AA%E5%8D%97%E8%88%AA%E6%8E%A5%E6%94%B6%E9%A6%96%E6%9E%B6c919%E9%A3%9E%E6%9C%BA)
 1. [美经济学家预警人民币将升值 10%](https://www.zhihu.com/search?q=%E7%BE%8E%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%AE%B6%E9%A2%84%E8%AD%A6%E4%BA%BA%E6%B0%91%E5%B8%81%E5%B0%86%E5%8D%87%E5%80%BC%2010%25)
-1. [市监总局督导阿里巴巴完成三年整改](https://www.zhihu.com/search?q=%E5%B8%82%E7%9B%91%E6%80%BB%E5%B1%80%E7%9D%A3%E5%AF%BC%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E5%AE%8C%E6%88%90%E4%B8%89%E5%B9%B4%E6%95%B4%E6%94%B9)
 1. [塔克拉玛干沙漠养出大螃蟹](https://www.zhihu.com/search?q=%E5%A1%94%E5%85%8B%E6%8B%89%E7%8E%9B%E5%B9%B2%E6%B2%99%E6%BC%A0%E5%85%BB%E5%87%BA%E5%A4%A7%E8%9E%83%E8%9F%B9)
+1. [沙漠螃蟹](https://www.zhihu.com/search?q=%E6%B2%99%E6%BC%A0%E8%9E%83%E8%9F%B9)
+1. [市监总局督导阿里巴巴完成三年整改](https://www.zhihu.com/search?q=%E5%B8%82%E7%9B%91%E6%80%BB%E5%B1%80%E7%9D%A3%E5%AF%BC%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E5%AE%8C%E6%88%90%E4%B8%89%E5%B9%B4%E6%95%B4%E6%94%B9)
 1. [为什么现在的古装剧一股现代味](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E7%9A%84%E5%8F%A4%E8%A3%85%E5%89%A7%E4%B8%80%E8%82%A1%E7%8E%B0%E4%BB%A3%E5%91%B3)
 1. [夫妻已有二孩再生四胞胎](https://www.zhihu.com/search?q=%E5%A4%AB%E5%A6%BB%E5%B7%B2%E6%9C%89%E4%BA%8C%E5%AD%A9%E5%86%8D%E7%94%9F%E5%9B%9B%E8%83%9E%E8%83%8E)
 1. [重庆地表温度飙升到 70℃](https://www.zhihu.com/search?q=%E9%87%8D%E5%BA%86%E5%9C%B0%E8%A1%A8%E6%B8%A9%E5%BA%A6%E9%A3%99%E5%8D%87%E5%88%B0%2070%E2%84%83)
