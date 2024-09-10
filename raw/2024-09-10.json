@@ -1,6 +1,10 @@
 [
   { "query": "教师节", "display_query": "教师节" },
+  { "query": "教师节快乐", "display_query": "教师节快乐" },
+  { "query": "问界 M9", "display_query": "问界 M9" },
   { "query": "真正的狠人是什么样的", "display_query": "真正的狠人是什么样的" },
+  { "query": "国人平均每秒喝掉676杯奶茶", "display_query": "国人平均每秒喝掉676杯奶茶" },
+  { "query": "C罗900球", "display_query": "C罗900球" },
   { "query": "海南道路受损严重", "display_query": "海南道路受损严重" },
   { "query": "超强台风摩羯登陆", "display_query": "超强台风摩羯登陆" },
   { "query": "台风摩羯卫星云图如同骷髅现形", "display_query": "台风摩羯卫星云图如同骷髅现形" },
