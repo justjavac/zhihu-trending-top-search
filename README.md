@@ -14,10 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Sep 11 2024 13:09:26 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Sep 11 2024 14:13:35 GMT+0800 (China Standard Time) -->
 
-1. [教师节](https://www.zhihu.com/search?q=%E6%95%99%E5%B8%88%E8%8A%82)
-1. [教师节快乐](https://www.zhihu.com/search?q=%E6%95%99%E5%B8%88%E8%8A%82%E5%BF%AB%E4%B9%90)
+1. [孙颖莎3:0田志希](https://www.zhihu.com/search?q=%E5%AD%99%E9%A2%96%E8%8E%8E3%3A0%E7%94%B0%E5%BF%97%E5%B8%8C)
+1. [孩子爷爷摔死追小女孩宠物狗犯法吗](https://www.zhihu.com/search?q=%E5%AD%A9%E5%AD%90%E7%88%B7%E7%88%B7%E6%91%94%E6%AD%BB%E8%BF%BD%E5%B0%8F%E5%A5%B3%E5%AD%A9%E5%AE%A0%E7%89%A9%E7%8B%97%E7%8A%AF%E6%B3%95%E5%90%97)
 1. [真正的狠人是什么样的](https://www.zhihu.com/search?q=%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%8B%A0%E4%BA%BA%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84)
 1. [国人平均每秒喝掉676杯奶茶](https://www.zhihu.com/search?q=%E5%9B%BD%E4%BA%BA%E5%B9%B3%E5%9D%87%E6%AF%8F%E7%A7%92%E5%96%9D%E6%8E%89676%E6%9D%AF%E5%A5%B6%E8%8C%B6)
 1. [C罗900球](https://www.zhihu.com/search?q=C%E7%BD%97900%E7%90%83)
@@ -26,6 +26,8 @@
 1. [郑钦文美网轰出 54 记排名第一](https://www.zhihu.com/search?q=%E9%83%91%E9%92%A6%E6%96%87%E7%BE%8E%E7%BD%91%E8%BD%B0%E5%87%BA%2054%20%E8%AE%B0%E6%8E%92%E5%90%8D%E7%AC%AC%E4%B8%80)
 1. [HLE夺冠](https://www.zhihu.com/search?q=HLE%E5%A4%BA%E5%86%A0%20)
 1. [HLE3-2战胜GEN](https://www.zhihu.com/search?q=HLE3-2%E6%88%98%E8%83%9CGEN)
+1. [教师节](https://www.zhihu.com/search?q=%E6%95%99%E5%B8%88%E8%8A%82)
+1. [教师节快乐](https://www.zhihu.com/search?q=%E6%95%99%E5%B8%88%E8%8A%82%E5%BF%AB%E4%B9%90)
 1. [我国将实施首次近地小行星防御任务](https://www.zhihu.com/search?q=%E6%88%91%E5%9B%BD%E5%B0%86%E5%AE%9E%E6%96%BD%E9%A6%96%E6%AC%A1%E8%BF%91%E5%9C%B0%E5%B0%8F%E8%A1%8C%E6%98%9F%E9%98%B2%E5%BE%A1%E4%BB%BB%E5%8A%A1)
 
 <!-- END -->
