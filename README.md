@@ -14,8 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Sep 13 2024 11:10:50 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Sep 13 2024 12:11:18 GMT+0800 (China Standard Time) -->
 
+1. [欧洲央行宣布降息25个基点](https://www.zhihu.com/search?q=%E6%AC%A7%E6%B4%B2%E5%A4%AE%E8%A1%8C%E5%AE%A3%E5%B8%83%E9%99%8D%E6%81%AF25%E4%B8%AA%E5%9F%BA%E7%82%B9)
 1. [网传东北雨姐视频造假塌房](https://www.zhihu.com/search?q=%E7%BD%91%E4%BC%A0%E4%B8%9C%E5%8C%97%E9%9B%A8%E5%A7%90%E8%A7%86%E9%A2%91%E9%80%A0%E5%81%87%E5%A1%8C%E6%88%BF)
 1. [8 月 CPI 同比上涨 0.6％](https://www.zhihu.com/search?q=8%20%E6%9C%88%20CPI%20%E5%90%8C%E6%AF%94%E4%B8%8A%E6%B6%A8%200.6%EF%BC%85)
 1. [郑州超20人吃黄焖鸡食物中毒](https://www.zhihu.com/search?q=%E9%83%91%E5%B7%9E%E8%B6%8520%E4%BA%BA%E5%90%83%E9%BB%84%E7%84%96%E9%B8%A1%E9%A3%9F%E7%89%A9%E4%B8%AD%E6%AF%92)
