@@ -14,11 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Sep 15 2024 11:15:28 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Sep 15 2024 12:11:02 GMT+0800 (China Standard Time) -->
 
 1. [苹果官网崩了](https://www.zhihu.com/search?q=%E8%8B%B9%E6%9E%9C%E5%AE%98%E7%BD%91%E5%B4%A9%E4%BA%86)
 1. [国足首发](https://www.zhihu.com/search?q=%E5%9B%BD%E8%B6%B3%E9%A6%96%E5%8F%91)
-1. [华为三折叠屏手机售价19999元起](https://www.zhihu.com/search?q=%E5%8D%8E%E4%B8%BA%E4%B8%89%E6%8A%98%E5%8F%A0%E5%B1%8F%E6%89%8B%E6%9C%BA%E5%94%AE%E4%BB%B719999%E5%85%83%E8%B5%B7)
 1. [孙颖莎3比0战胜田志希](https://www.zhihu.com/search?q=%E5%AD%99%E9%A2%96%E8%8E%8E3%E6%AF%940%E6%88%98%E8%83%9C%E7%94%B0%E5%BF%97%E5%B8%8C)
 1. [华为三折叠价格19999起](https://www.zhihu.com/search?q=%E5%8D%8E%E4%B8%BA%E4%B8%89%E6%8A%98%E5%8F%A0%E4%BB%B7%E6%A0%BC19999%E8%B5%B7)
 1. [王楚钦迎奥运会后首秀](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E8%BF%8E%E5%A5%A5%E8%BF%90%E4%BC%9A%E5%90%8E%E9%A6%96%E7%A7%80)
@@ -26,6 +25,8 @@
 1. [库里官宣王者荣耀联动](https://www.zhihu.com/search?q=%E5%BA%93%E9%87%8C%E5%AE%98%E5%AE%A3%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E8%81%94%E5%8A%A8)
 1. [哥伦比亚2:1阿根廷](https://www.zhihu.com/search?q=%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A2%3A1%E9%98%BF%E6%A0%B9%E5%BB%B7)
 1. [无人机导致天津大面积航班延误](https://www.zhihu.com/search?q=%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%AF%BC%E8%87%B4%E5%A4%A9%E6%B4%A5%E5%A4%A7%E9%9D%A2%E7%A7%AF%E8%88%AA%E7%8F%AD%E5%BB%B6%E8%AF%AF)
+1. [巴菲特又抛售近 2.29 亿美元美银股票](https://www.zhihu.com/search?q=%E5%B7%B4%E8%8F%B2%E7%89%B9%E5%8F%88%E6%8A%9B%E5%94%AE%E8%BF%91%202.29%20%E4%BA%BF%E7%BE%8E%E5%85%83%E7%BE%8E%E9%93%B6%E8%82%A1%E7%A5%A8)
+1. [华为三折叠屏手机售价19999元起](https://www.zhihu.com/search?q=%E5%8D%8E%E4%B8%BA%E4%B8%89%E6%8A%98%E5%8F%A0%E5%B1%8F%E6%89%8B%E6%9C%BA%E5%94%AE%E4%BB%B719999%E5%85%83%E8%B5%B7)
 1. [为何台风摩羯仍有较大破坏力](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E5%8F%B0%E9%A3%8E%E6%91%A9%E7%BE%AF%E4%BB%8D%E6%9C%89%E8%BE%83%E5%A4%A7%E7%A0%B4%E5%9D%8F%E5%8A%9B)
 1. [海银财富](https://www.zhihu.com/search?q=%E6%B5%B7%E9%93%B6%E8%B4%A2%E5%AF%8C)
 
