@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Sep 18 2024 12:12:26 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Sep 18 2024 13:09:21 GMT+0800 (China Standard Time) -->
 
 1. [国足首发](https://www.zhihu.com/search?q=%E5%9B%BD%E8%B6%B3%E9%A6%96%E5%8F%91)
 1. [孙颖莎3比0战胜田志希](https://www.zhihu.com/search?q=%E5%AD%99%E9%A2%96%E8%8E%8E3%E6%AF%940%E6%88%98%E8%83%9C%E7%94%B0%E5%BF%97%E5%B8%8C)
