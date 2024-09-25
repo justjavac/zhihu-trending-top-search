@@ -14,11 +14,14 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Sep 25 2024 13:09:39 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Sep 25 2024 14:13:48 GMT+0800 (China Standard Time) -->
 
+1. [王者荣耀新赛季](https://www.zhihu.com/search?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%96%B0%E8%B5%9B%E5%AD%A3)
+1. [降低存量房贷利率](https://www.zhihu.com/search?q=%E9%99%8D%E4%BD%8E%E5%AD%98%E9%87%8F%E6%88%BF%E8%B4%B7%E5%88%A9%E7%8E%87)
 1. [为何古代镖师走镖土匪不敢抢](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E5%8F%A4%E4%BB%A3%E9%95%96%E5%B8%88%E8%B5%B0%E9%95%96%E5%9C%9F%E5%8C%AA%E4%B8%8D%E6%95%A2%E6%8A%A2)
 1. [为什么在中国邮箱不流行](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%9C%A8%E4%B8%AD%E5%9B%BD%E9%82%AE%E7%AE%B1%E4%B8%8D%E6%B5%81%E8%A1%8C)
 1. [叶珂是谁](https://www.zhihu.com/search?q=%E5%8F%B6%E7%8F%82%E6%98%AF%E8%B0%81)
+1. [黎巴嫩通信设备爆炸扰乱卫生系统](https://www.zhihu.com/search?q=%E9%BB%8E%E5%B7%B4%E5%AB%A9%E9%80%9A%E4%BF%A1%E8%AE%BE%E5%A4%87%E7%88%86%E7%82%B8%E6%89%B0%E4%B9%B1%E5%8D%AB%E7%94%9F%E7%B3%BB%E7%BB%9F)
 1. [我国禁止用粘土实心砖建房](https://www.zhihu.com/search?q=%E6%88%91%E5%9B%BD%E7%A6%81%E6%AD%A2%E7%94%A8%E7%B2%98%E5%9C%9F%E5%AE%9E%E5%BF%83%E7%A0%96%E5%BB%BA%E6%88%BF)
 1. [网红小英疑似塌房](https://www.zhihu.com/search?q=%E7%BD%91%E7%BA%A2%E5%B0%8F%E8%8B%B1%E7%96%91%E4%BC%BC%E5%A1%8C%E6%88%BF)
 1. [宝马被曝重返价格战](https://www.zhihu.com/search?q=%E5%AE%9D%E9%A9%AC%E8%A2%AB%E6%9B%9D%E9%87%8D%E8%BF%94%E4%BB%B7%E6%A0%BC%E6%88%98)
