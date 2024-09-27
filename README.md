@@ -14,11 +14,12 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Sep 27 2024 12:12:08 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Sep 27 2024 13:09:37 GMT+0800 (China Standard Time) -->
 
 1. [王者荣耀新赛季](https://www.zhihu.com/search?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%96%B0%E8%B5%9B%E5%AD%A3)
 1. [沪指重回3000点](https://www.zhihu.com/search?q=%E6%B2%AA%E6%8C%87%E9%87%8D%E5%9B%9E3000%E7%82%B9)
 1. [为什么都在担心中国的产业转移](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E9%83%BD%E5%9C%A8%E6%8B%85%E5%BF%83%E4%B8%AD%E5%9B%BD%E7%9A%84%E4%BA%A7%E4%B8%9A%E8%BD%AC%E7%A7%BB)
+1. [为什么都说「死神」时髦值很高](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E9%83%BD%E8%AF%B4%E3%80%8C%E6%AD%BB%E7%A5%9E%E3%80%8D%E6%97%B6%E9%AB%A6%E5%80%BC%E5%BE%88%E9%AB%98)
 1. [为什么「hao123」退出人们视线了](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E3%80%8Chao123%E3%80%8D%E9%80%80%E5%87%BA%E4%BA%BA%E4%BB%AC%E8%A7%86%E7%BA%BF%E4%BA%86)
 1. [刀削面怎么煮不会老](https://www.zhihu.com/search?q=%E5%88%80%E5%89%8A%E9%9D%A2%E6%80%8E%E4%B9%88%E7%85%AE%E4%B8%8D%E4%BC%9A%E8%80%81)
 1. [我国禁止用粘土实心砖建房](https://www.zhihu.com/search?q=%E6%88%91%E5%9B%BD%E7%A6%81%E6%AD%A2%E7%94%A8%E7%B2%98%E5%9C%9F%E5%AE%9E%E5%BF%83%E7%A0%96%E5%BB%BA%E6%88%BF)
