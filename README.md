@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Sep 29 2024 22:08:03 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Sep 29 2024 23:09:31 GMT+0800 (China Standard Time) -->
 
 1. [沪指重回3000点](https://www.zhihu.com/search?q=%E6%B2%AA%E6%8C%87%E9%87%8D%E5%9B%9E3000%E7%82%B9)
 1. [为什么都说「死神」时髦值很高](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E9%83%BD%E8%AF%B4%E3%80%8C%E6%AD%BB%E7%A5%9E%E3%80%8D%E6%97%B6%E9%AB%A6%E5%80%BC%E5%BE%88%E9%AB%98)
@@ -24,6 +24,8 @@
 1. [以军对黎巴嫩发起新一轮袭击](https://www.zhihu.com/search?q=%E4%BB%A5%E5%86%9B%E5%AF%B9%E9%BB%8E%E5%B7%B4%E5%AB%A9%E5%8F%91%E8%B5%B7%E6%96%B0%E4%B8%80%E8%BD%AE%E8%A2%AD%E5%87%BB)
 1. [上海海港vs上海申花](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E6%B5%B7%E6%B8%AFvs%E4%B8%8A%E6%B5%B7%E7%94%B3%E8%8A%B1)
 1. [阿里京东互相开放](https://www.zhihu.com/search?q=%E9%98%BF%E9%87%8C%E4%BA%AC%E4%B8%9C%E4%BA%92%E7%9B%B8%E5%BC%80%E6%94%BE)
+1. [大碗娱乐宣布所有艺人合约到期不续](https://www.zhihu.com/search?q=%E5%A4%A7%E7%A2%97%E5%A8%B1%E4%B9%90%E5%AE%A3%E5%B8%83%E6%89%80%E6%9C%89%E8%89%BA%E4%BA%BA%E5%90%88%E7%BA%A6%E5%88%B0%E6%9C%9F%E4%B8%8D%E7%BB%AD)
+1. [国家医保局对定点医药机构人员实行「驾照式记分」](https://www.zhihu.com/search?q=%E5%9B%BD%E5%AE%B6%E5%8C%BB%E4%BF%9D%E5%B1%80%E5%AF%B9%E5%AE%9A%E7%82%B9%E5%8C%BB%E8%8D%AF%E6%9C%BA%E6%9E%84%E4%BA%BA%E5%91%98%E5%AE%9E%E8%A1%8C%E3%80%8C%E9%A9%BE%E7%85%A7%E5%BC%8F%E8%AE%B0%E5%88%86%E3%80%8D)
 1. [警方通报三只羊卢某某录音系AI伪造](https://www.zhihu.com/search?q=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B8%89%E5%8F%AA%E7%BE%8A%E5%8D%A2%E6%9F%90%E6%9F%90%E5%BD%95%E9%9F%B3%E7%B3%BBAI%E4%BC%AA%E9%80%A0)
 1. [红米Note14发布](https://www.zhihu.com/search?q=%E7%BA%A2%E7%B1%B3Note14%E5%8F%91%E5%B8%83)
 1. [为什么「hao123」退出人们视线了](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E3%80%8Chao123%E3%80%8D%E9%80%80%E5%87%BA%E4%BA%BA%E4%BB%AC%E8%A7%86%E7%BA%BF%E4%BA%86)
