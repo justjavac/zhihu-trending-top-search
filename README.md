@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Sep 30 2024 18:10:48 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Sep 30 2024 19:08:19 GMT+0800 (China Standard Time) -->
 
 1. [演员到底有多吃天赋](https://www.zhihu.com/search?q=%E6%BC%94%E5%91%98%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E5%90%83%E5%A4%A9%E8%B5%8B)
 1. [上海海港vs上海申花](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E6%B5%B7%E6%B8%AFvs%E4%B8%8A%E6%B5%B7%E7%94%B3%E8%8A%B1)
@@ -23,10 +23,10 @@
 1. [上交所交易系统出现延迟现象](https://www.zhihu.com/search?q=%E4%B8%8A%E4%BA%A4%E6%89%80%E4%BA%A4%E6%98%93%E7%B3%BB%E7%BB%9F%E5%87%BA%E7%8E%B0%E5%BB%B6%E8%BF%9F%E7%8E%B0%E8%B1%A1)
 1. [A 股集体高开](https://www.zhihu.com/search?q=A%20%E8%82%A1%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80)
 1. [a股成交额连续2天破万亿](https://www.zhihu.com/search?q=a%E8%82%A1%E6%88%90%E4%BA%A4%E9%A2%9D%E8%BF%9E%E7%BB%AD2%E5%A4%A9%E7%A0%B4%E4%B8%87%E4%BA%BF)
-1. [拜登称中东可能爆发全面战争](https://www.zhihu.com/search?q=%E6%8B%9C%E7%99%BB%E7%A7%B0%E4%B8%AD%E4%B8%9C%E5%8F%AF%E8%83%BD%E7%88%86%E5%8F%91%E5%85%A8%E9%9D%A2%E6%88%98%E4%BA%89)
 1. [遭教官体罚进 ICU 的 14 岁女孩离世](https://www.zhihu.com/search?q=%E9%81%AD%E6%95%99%E5%AE%98%E4%BD%93%E7%BD%9A%E8%BF%9B%20ICU%20%E7%9A%84%2014%20%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%A6%BB%E4%B8%96)
 1. [云南通报果农在路上摆苹果逼停司机](https://www.zhihu.com/search?q=%E4%BA%91%E5%8D%97%E9%80%9A%E6%8A%A5%E6%9E%9C%E5%86%9C%E5%9C%A8%E8%B7%AF%E4%B8%8A%E6%91%86%E8%8B%B9%E6%9E%9C%E9%80%BC%E5%81%9C%E5%8F%B8%E6%9C%BA)
 1. [阿维塔07正式上市](https://www.zhihu.com/search?q=%E9%98%BF%E7%BB%B4%E5%A1%9407%E6%AD%A3%E5%BC%8F%E4%B8%8A%E5%B8%82)
+1. [拜登称中东可能爆发全面战争](https://www.zhihu.com/search?q=%E6%8B%9C%E7%99%BB%E7%A7%B0%E4%B8%AD%E4%B8%9C%E5%8F%AF%E8%83%BD%E7%88%86%E5%8F%91%E5%85%A8%E9%9D%A2%E6%88%98%E4%BA%89)
 1. [A 股继续放量飙升](https://www.zhihu.com/search?q=A%20%E8%82%A1%E7%BB%A7%E7%BB%AD%E6%94%BE%E9%87%8F%E9%A3%99%E5%8D%87)
 1. [专家称 A 股 3000 点应该能站稳](https://www.zhihu.com/search?q=%E4%B8%93%E5%AE%B6%E7%A7%B0%20A%20%E8%82%A1%203000%20%E7%82%B9%E5%BA%94%E8%AF%A5%E8%83%BD%E7%AB%99%E7%A8%B3)
 1. [沪指本周累涨近 13%](https://www.zhihu.com/search?q=%E6%B2%AA%E6%8C%87%E6%9C%AC%E5%91%A8%E7%B4%AF%E6%B6%A8%E8%BF%91%2013%25)
