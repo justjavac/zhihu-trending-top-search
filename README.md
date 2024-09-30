@@ -14,9 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Sep 30 2024 12:12:25 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Sep 30 2024 13:10:15 GMT+0800 (China Standard Time) -->
 
 1. [沪指重回3000点](https://www.zhihu.com/search?q=%E6%B2%AA%E6%8C%87%E9%87%8D%E5%9B%9E3000%E7%82%B9)
+1. [演员到底有多吃天赋](https://www.zhihu.com/search?q=%E6%BC%94%E5%91%98%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E5%90%83%E5%A4%A9%E8%B5%8B)
 1. [东北雨姐被曝殴打维权人](https://www.zhihu.com/search?q=%E4%B8%9C%E5%8C%97%E9%9B%A8%E5%A7%90%E8%A2%AB%E6%9B%9D%E6%AE%B4%E6%89%93%E7%BB%B4%E6%9D%83%E4%BA%BA)
 1. [以军对黎巴嫩发起新一轮袭击](https://www.zhihu.com/search?q=%E4%BB%A5%E5%86%9B%E5%AF%B9%E9%BB%8E%E5%B7%B4%E5%AB%A9%E5%8F%91%E8%B5%B7%E6%96%B0%E4%B8%80%E8%BD%AE%E8%A2%AD%E5%87%BB)
 1. [上海海港vs上海申花](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E6%B5%B7%E6%B8%AFvs%E4%B8%8A%E6%B5%B7%E7%94%B3%E8%8A%B1)
