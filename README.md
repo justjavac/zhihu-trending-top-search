@@ -14,10 +14,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Oct 05 2024 14:12:05 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Oct 05 2024 15:09:20 GMT+0800 (China Standard Time) -->
 
 1. [演员到底有多吃天赋](https://www.zhihu.com/search?q=%E6%BC%94%E5%91%98%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E5%90%83%E5%A4%A9%E8%B5%8B)
 1. [张本智和](https://www.zhihu.com/search?q=%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C)
+1. [我国制造业企业总量突破600万家](https://www.zhihu.com/search?q=%E6%88%91%E5%9B%BD%E5%88%B6%E9%80%A0%E4%B8%9A%E4%BC%81%E4%B8%9A%E6%80%BB%E9%87%8F%E7%AA%81%E7%A0%B4600%E4%B8%87%E5%AE%B6)
 1. [上海海港vs上海申花](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E6%B5%B7%E6%B8%AFvs%E4%B8%8A%E6%B5%B7%E7%94%B3%E8%8A%B1)
 1. [大碗娱乐宣布所有艺人合约到期不续](https://www.zhihu.com/search?q=%E5%A4%A7%E7%A2%97%E5%A8%B1%E4%B9%90%E5%AE%A3%E5%B8%83%E6%89%80%E6%9C%89%E8%89%BA%E4%BA%BA%E5%90%88%E7%BA%A6%E5%88%B0%E6%9C%9F%E4%B8%8D%E7%BB%AD)
 1. [a股成交额连续2天破万亿](https://www.zhihu.com/search?q=a%E8%82%A1%E6%88%90%E4%BA%A4%E9%A2%9D%E8%BF%9E%E7%BB%AD2%E5%A4%A9%E7%A0%B4%E4%B8%87%E4%BA%BF)
