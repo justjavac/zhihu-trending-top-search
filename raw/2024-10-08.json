@@ -1,7 +1,6 @@
 [
   { "query": "A股", "display_query": "A股" },
   { "query": "我国制造业企业总量突破600万家", "display_query": "我国制造业企业总量突破600万家" },
-  { "query": "孙颖莎晋级中国大满贯女单半决赛", "display_query": "孙颖莎晋级中国大满贯女单半决赛" },
   { "query": "博主独闯哀牢山引争议", "display_query": "博主独闯哀牢山引争议" },
   { "query": "哀牢山", "display_query": "哀牢山" },
   { "query": "燃油附加费下调", "display_query": "燃油附加费下调" },
@@ -9,6 +8,8 @@
   { "query": "徐州一餐饮店发生火灾", "display_query": "徐州一餐饮店发生火灾" },
   { "query": "孙颖莎王曼昱会师决赛", "display_query": "孙颖莎王曼昱会师决赛" },
   { "query": "《黑神话》取景地小西天被喊差评", "display_query": "《黑神话》取景地小西天被喊差评" },
+  { "query": "我国科学家领衔首次日冕磁场测量", "display_query": "我国科学家领衔首次日冕磁场测量" },
+  { "query": "孙颖莎晋级中国大满贯女单半决赛", "display_query": "孙颖莎晋级中国大满贯女单半决赛" },
   { "query": "上海海港vs上海申花", "display_query": "上海海港vs上海申花" },
   { "query": "a股成交额连续2天破万亿", "display_query": "a股成交额连续2天破万亿" },
   { "query": "阿维塔07正式上市", "display_query": "阿维塔07正式上市" },
