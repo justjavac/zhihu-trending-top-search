@@ -14,9 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Oct 08 2024 13:09:36 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Oct 08 2024 14:14:05 GMT+0800 (China Standard Time) -->
 
 1. [A股](https://www.zhihu.com/search?q=A%E8%82%A1)
+1. [为什么有人宁愿走国道也不愿走高速](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%BA%E5%AE%81%E6%84%BF%E8%B5%B0%E5%9B%BD%E9%81%93%E4%B9%9F%E4%B8%8D%E6%84%BF%E8%B5%B0%E9%AB%98%E9%80%9F%20)
 1. [我国制造业企业总量突破600万家](https://www.zhihu.com/search?q=%E6%88%91%E5%9B%BD%E5%88%B6%E9%80%A0%E4%B8%9A%E4%BC%81%E4%B8%9A%E6%80%BB%E9%87%8F%E7%AA%81%E7%A0%B4600%E4%B8%87%E5%AE%B6)
 1. [博主独闯哀牢山引争议](https://www.zhihu.com/search?q=%E5%8D%9A%E4%B8%BB%E7%8B%AC%E9%97%AF%E5%93%80%E7%89%A2%E5%B1%B1%E5%BC%95%E4%BA%89%E8%AE%AE)
 1. [哀牢山](https://www.zhihu.com/search?q=%E5%93%80%E7%89%A2%E5%B1%B1)
