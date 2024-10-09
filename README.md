@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Oct 09 2024 18:10:32 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Oct 09 2024 19:08:08 GMT+0800 (China Standard Time) -->
 
 1. [A股](https://www.zhihu.com/search?q=A%E8%82%A1)
 1. [为什么有人宁愿走国道也不愿走高速](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%BA%E5%AE%81%E6%84%BF%E8%B5%B0%E5%9B%BD%E9%81%93%E4%B9%9F%E4%B8%8D%E6%84%BF%E8%B5%B0%E9%AB%98%E9%80%9F%20)
