@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Oct 10 2024 12:11:56 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Oct 10 2024 13:09:48 GMT+0800 (China Standard Time) -->
 
 1. [世界精神卫生日](https://www.zhihu.com/search?q=%E4%B8%96%E7%95%8C%E7%B2%BE%E7%A5%9E%E5%8D%AB%E7%94%9F%E6%97%A5)
 1. [A股](https://www.zhihu.com/search?q=A%E8%82%A1)
