@@ -1,5 +1,6 @@
 [
   { "query": "世界精神卫生日", "display_query": "世界精神卫生日" },
+  { "query": "诺贝尔文学奖揭晓", "display_query": "诺贝尔文学奖揭晓" },
   { "query": "A股", "display_query": "A股" },
   { "query": "美股三大指数集体收涨", "display_query": "美股三大指数集体收涨" },
   { "query": "你的学校发生过最扯的事是什么", "display_query": "你的学校发生过最扯的事是什么" },
