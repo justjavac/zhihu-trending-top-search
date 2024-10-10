@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Oct 10 2024 18:10:15 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Oct 10 2024 19:08:22 GMT+0800 (China Standard Time) -->
 
 1. [世界精神卫生日](https://www.zhihu.com/search?q=%E4%B8%96%E7%95%8C%E7%B2%BE%E7%A5%9E%E5%8D%AB%E7%94%9F%E6%97%A5)
 1. [A股](https://www.zhihu.com/search?q=A%E8%82%A1)
@@ -22,6 +22,7 @@
 1. [你的学校发生过最扯的事是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9A%84%E5%AD%A6%E6%A0%A1%E5%8F%91%E7%94%9F%E8%BF%87%E6%9C%80%E6%89%AF%E7%9A%84%E4%BA%8B%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [为什么有人宁愿走国道也不愿走高速](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%BA%E5%AE%81%E6%84%BF%E8%B5%B0%E5%9B%BD%E9%81%93%E4%B9%9F%E4%B8%8D%E6%84%BF%E8%B5%B0%E9%AB%98%E9%80%9F%20)
 1. [孙颖莎](https://www.zhihu.com/search?q=%E5%AD%99%E9%A2%96%E8%8E%8E)
+1. [国乒男团对战韩国队](https://www.zhihu.com/search?q=%E5%9B%BD%E4%B9%92%E7%94%B7%E5%9B%A2%E5%AF%B9%E6%88%98%E9%9F%A9%E5%9B%BD%E9%98%9F)
 1. [东北雨姐带货厂家承认产品有木薯粉](https://www.zhihu.com/search?q=%E4%B8%9C%E5%8C%97%E9%9B%A8%E5%A7%90%E5%B8%A6%E8%B4%A7%E5%8E%82%E5%AE%B6%E6%89%BF%E8%AE%A4%E4%BA%A7%E5%93%81%E6%9C%89%E6%9C%A8%E8%96%AF%E7%B2%89)
 1. [上交所延长接受指定交易申报指令时间](https://www.zhihu.com/search?q=%E4%B8%8A%E4%BA%A4%E6%89%80%E5%BB%B6%E9%95%BF%E6%8E%A5%E5%8F%97%E6%8C%87%E5%AE%9A%E4%BA%A4%E6%98%93%E7%94%B3%E6%8A%A5%E6%8C%87%E4%BB%A4%E6%97%B6%E9%97%B4)
 1. [踏空者焦虑情绪升温](https://www.zhihu.com/search?q=%E8%B8%8F%E7%A9%BA%E8%80%85%E7%84%A6%E8%99%91%E6%83%85%E7%BB%AA%E5%8D%87%E6%B8%A9)
