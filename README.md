@@ -14,12 +14,13 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Oct 11 2024 13:09:34 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Oct 11 2024 14:13:57 GMT+0800 (China Standard Time) -->
 
 1. [世界精神卫生日](https://www.zhihu.com/search?q=%E4%B8%96%E7%95%8C%E7%B2%BE%E7%A5%9E%E5%8D%AB%E7%94%9F%E6%97%A5)
 1. [诺贝尔文学奖揭晓](https://www.zhihu.com/search?q=%E8%AF%BA%E8%B4%9D%E5%B0%94%E6%96%87%E5%AD%A6%E5%A5%96%E6%8F%AD%E6%99%93)
 1. [重阳节](https://www.zhihu.com/search?q=%E9%87%8D%E9%98%B3%E8%8A%82)
 1. [A股](https://www.zhihu.com/search?q=A%E8%82%A1)
+1. [油价上调](https://www.zhihu.com/search?q=%E6%B2%B9%E4%BB%B7%E4%B8%8A%E8%B0%83)
 1. [你的学校发生过最扯的事是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9A%84%E5%AD%A6%E6%A0%A1%E5%8F%91%E7%94%9F%E8%BF%87%E6%9C%80%E6%89%AF%E7%9A%84%E4%BA%8B%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [为什么有人宁愿走国道也不愿走高速](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%BA%E5%AE%81%E6%84%BF%E8%B5%B0%E5%9B%BD%E9%81%93%E4%B9%9F%E4%B8%8D%E6%84%BF%E8%B5%B0%E9%AB%98%E9%80%9F%20)
 1. [孙颖莎](https://www.zhihu.com/search?q=%E5%AD%99%E9%A2%96%E8%8E%8E)
