@@ -14,9 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Oct 12 2024 16:11:14 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Oct 12 2024 17:10:11 GMT+0800 (China Standard Time) -->
 
 1. [世界精神卫生日](https://www.zhihu.com/search?q=%E4%B8%96%E7%95%8C%E7%B2%BE%E7%A5%9E%E5%8D%AB%E7%94%9F%E6%97%A5)
+1. [向科学要答案](https://www.zhihu.com/search?q=%E5%90%91%E7%A7%91%E5%AD%A6%E8%A6%81%E7%AD%94%E6%A1%88)
 1. [诺贝尔文学奖揭晓](https://www.zhihu.com/search?q=%E8%AF%BA%E8%B4%9D%E5%B0%94%E6%96%87%E5%AD%A6%E5%A5%96%E6%8F%AD%E6%99%93)
 1. [重阳节](https://www.zhihu.com/search?q=%E9%87%8D%E9%98%B3%E8%8A%82)
 1. [股市行情](https://www.zhihu.com/search?q=%E8%82%A1%E5%B8%82%E8%A1%8C%E6%83%85)
