@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Oct 13 2024 07:08:54 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Oct 13 2024 08:50:25 GMT+0800 (China Standard Time) -->
 
 1. [世界精神卫生日](https://www.zhihu.com/search?q=%E4%B8%96%E7%95%8C%E7%B2%BE%E7%A5%9E%E5%8D%AB%E7%94%9F%E6%97%A5)
 1. [向科学要答案](https://www.zhihu.com/search?q=%E5%90%91%E7%A7%91%E5%AD%A6%E8%A6%81%E7%AD%94%E6%A1%88)
@@ -24,8 +24,9 @@
 1. [油价上调](https://www.zhihu.com/search?q=%E6%B2%B9%E4%BB%B7%E4%B8%8A%E8%B0%83)
 1. [你的学校发生过最扯的事是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9A%84%E5%AD%A6%E6%A0%A1%E5%8F%91%E7%94%9F%E8%BF%87%E6%9C%80%E6%89%AF%E7%9A%84%E4%BA%8B%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [BLG对战PSG](https://www.zhihu.com/search?q=BLG%E5%AF%B9%E6%88%98PSG)
-1. [孙颖莎](https://www.zhihu.com/search?q=%E5%AD%99%E9%A2%96%E8%8E%8E)
 1. [发现孩子很普通怎么办](https://www.zhihu.com/search?q=%E5%8F%91%E7%8E%B0%E5%AD%A9%E5%AD%90%E5%BE%88%E6%99%AE%E9%80%9A%E6%80%8E%E4%B9%88%E5%8A%9E)
+1. [你在体制内捅过的最大篓子是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E5%9C%A8%E4%BD%93%E5%88%B6%E5%86%85%E6%8D%85%E8%BF%87%E7%9A%84%E6%9C%80%E5%A4%A7%E7%AF%93%E5%AD%90%E6%98%AF%E4%BB%80%E4%B9%88)
+1. [孙颖莎](https://www.zhihu.com/search?q=%E5%AD%99%E9%A2%96%E8%8E%8E)
 
 <!-- END -->
 
