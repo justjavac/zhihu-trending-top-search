@@ -1,5 +1,4 @@
 [
-  { "query": "世界精神卫生日", "display_query": "世界精神卫生日" },
   { "query": "向科学要答案", "display_query": "向科学要答案" },
   { "query": "诺贝尔文学奖揭晓", "display_query": "诺贝尔文学奖揭晓" },
   { "query": "重阳节", "display_query": "重阳节" },
@@ -10,5 +9,6 @@
   { "query": "居民消费价格同比上涨", "display_query": "居民消费价格同比上涨" },
   { "query": "发现孩子很普通怎么办", "display_query": "发现孩子很普通怎么办" },
   { "query": "你在体制内捅过的最大篓子是什么", "display_query": "你在体制内捅过的最大篓子是什么" },
+  { "query": "世界精神卫生日", "display_query": "世界精神卫生日" },
   { "query": "孙颖莎", "display_query": "孙颖莎" }
 ]
