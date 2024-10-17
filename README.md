@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Oct 18 2024 05:09:10 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Oct 18 2024 06:09:23 GMT+0800 (China Standard Time) -->
 
 1. [诺贝尔经济学奖公布](https://www.zhihu.com/search?q=%E8%AF%BA%E8%B4%9D%E5%B0%94%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%A5%96%E5%85%AC%E5%B8%83)
 1. [自首路上被抓算自首吗](https://www.zhihu.com/search?q=%E8%87%AA%E9%A6%96%E8%B7%AF%E4%B8%8A%E8%A2%AB%E6%8A%93%E7%AE%97%E8%87%AA%E9%A6%96%E5%90%97)
