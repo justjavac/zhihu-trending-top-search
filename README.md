@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Oct 19 2024 01:08:33 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Oct 19 2024 02:12:45 GMT+0800 (China Standard Time) -->
 
 1. [向科学要答案](https://www.zhihu.com/search?q=%E5%90%91%E7%A7%91%E5%AD%A6%E8%A6%81%E7%AD%94%E6%A1%88)
 1. [自首路上被抓算自首吗](https://www.zhihu.com/search?q=%E8%87%AA%E9%A6%96%E8%B7%AF%E4%B8%8A%E8%A2%AB%E6%8A%93%E7%AE%97%E8%87%AA%E9%A6%96%E5%90%97)
