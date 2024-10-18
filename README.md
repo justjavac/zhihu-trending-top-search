@@ -14,13 +14,14 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Oct 18 2024 18:11:32 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Oct 18 2024 19:08:27 GMT+0800 (China Standard Time) -->
 
 1. [向科学要答案](https://www.zhihu.com/search?q=%E5%90%91%E7%A7%91%E5%AD%A6%E8%A6%81%E7%AD%94%E6%A1%88)
 1. [诺贝尔经济学奖公布](https://www.zhihu.com/search?q=%E8%AF%BA%E8%B4%9D%E5%B0%94%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%A5%96%E5%85%AC%E5%B8%83)
 1. [自首路上被抓算自首吗](https://www.zhihu.com/search?q=%E8%87%AA%E9%A6%96%E8%B7%AF%E4%B8%8A%E8%A2%AB%E6%8A%93%E7%AE%97%E8%87%AA%E9%A6%96%E5%90%97)
 1. [美英空袭也门首都萨那](https://www.zhihu.com/search?q=%E7%BE%8E%E8%8B%B1%E7%A9%BA%E8%A2%AD%E4%B9%9F%E9%97%A8%E9%A6%96%E9%83%BD%E8%90%A8%E9%82%A3)
 1. [照骗能骗到什么程度](https://www.zhihu.com/search?q=%E7%85%A7%E9%AA%97%E8%83%BD%E9%AA%97%E5%88%B0%E4%BB%80%E4%B9%88%E7%A8%8B%E5%BA%A6)
+1. [欧洲央行宣布降息25个基点](https://www.zhihu.com/search?q=%E6%AC%A7%E6%B4%B2%E5%A4%AE%E8%A1%8C%E5%AE%A3%E5%B8%83%E9%99%8D%E6%81%AF25%E4%B8%AA%E5%9F%BA%E7%82%B9)
 1. [工业克苏鲁什么意思](https://www.zhihu.com/search?q=%E5%B7%A5%E4%B8%9A%E5%85%8B%E8%8B%8F%E9%B2%81%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D)
 1. [中年夫妻的婚姻状态是什么样的](https://www.zhihu.com/search?q=%E4%B8%AD%E5%B9%B4%E5%A4%AB%E5%A6%BB%E7%9A%84%E5%A9%9A%E5%A7%BB%E7%8A%B6%E6%80%81%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84)
 1. [许知远对话林小英](https://www.zhihu.com/search?q=%E8%AE%B8%E7%9F%A5%E8%BF%9C%E5%AF%B9%E8%AF%9D%E6%9E%97%E5%B0%8F%E8%8B%B1)
