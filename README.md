@@ -14,8 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Oct 29 2024 14:14:10 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Oct 29 2024 15:10:18 GMT+0800 (China Standard Time) -->
 
+1. [金球奖颁奖典礼](https://www.zhihu.com/search?q=%E9%87%91%E7%90%83%E5%A5%96%E9%A2%81%E5%A5%96%E5%85%B8%E7%A4%BC)
 1. [勇士vs快船](https://www.zhihu.com/search?q=%E5%8B%87%E5%A3%ABvs%E5%BF%AB%E8%88%B9)
 1. [自首路上被抓算自首吗](https://www.zhihu.com/search?q=%E8%87%AA%E9%A6%96%E8%B7%AF%E4%B8%8A%E8%A2%AB%E6%8A%93%E7%AE%97%E8%87%AA%E9%A6%96%E5%90%97)
 1. [库里受伤](https://www.zhihu.com/search?q=%E5%BA%93%E9%87%8C%E5%8F%97%E4%BC%A4)
