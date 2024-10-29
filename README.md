@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Oct 30 2024 03:08:11 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Oct 30 2024 04:10:54 GMT+0800 (China Standard Time) -->
 
 1. [金球奖颁奖典礼](https://www.zhihu.com/search?q=%E9%87%91%E7%90%83%E5%A5%96%E9%A2%81%E5%A5%96%E5%85%B8%E7%A4%BC)
 1. [WBG对战BLG](https://www.zhihu.com/search?q=WBG%E5%AF%B9%E6%88%98BLG)
