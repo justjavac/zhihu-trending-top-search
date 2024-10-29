@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Oct 29 2024 18:10:51 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Oct 29 2024 19:08:27 GMT+0800 (China Standard Time) -->
 
 1. [金球奖颁奖典礼](https://www.zhihu.com/search?q=%E9%87%91%E7%90%83%E5%A5%96%E9%A2%81%E5%A5%96%E5%85%B8%E7%A4%BC)
 1. [勇士vs快船](https://www.zhihu.com/search?q=%E5%8B%87%E5%A3%ABvs%E5%BF%AB%E8%88%B9)
