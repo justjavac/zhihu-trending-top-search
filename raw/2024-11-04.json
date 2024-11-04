@@ -1,6 +1,6 @@
 [
-  { "query": "T1", "display_query": "T1" },
-  { "query": "BLG", "display_query": "BLG" },
+  { "query": "以色列空袭贝鲁特致11伤", "display_query": "以色列空袭贝鲁特致11伤" },
+  { "query": "央行启用公开市场买断式逆回购操作工具", "display_query": "央行启用公开市场买断式逆回购操作工具" },
   { "query": "Faker", "display_query": "Faker" },
   { "query": "t1夺冠", "display_query": "t1夺冠" },
   { "query": "珠帘玉幕", "display_query": "珠帘玉幕" },
@@ -9,6 +9,8 @@
   { "query": "双十一买什么", "display_query": "双十一买什么" },
   { "query": "答主评审团", "display_query": "答主评审团" },
   { "query": "那些真的「好」的好物", "display_query": "那些真的「好」的好物" },
+  { "query": "T1", "display_query": "T1" },
+  { "query": "BLG", "display_query": "BLG" },
   { "query": "今年最「卷」的好物颁奖礼", "display_query": "今年最「卷」的好物颁奖礼" },
   { "query": "永夜星河", "display_query": "永夜星河" },
   { "query": "年度巨制无广的好物推荐", "display_query": "年度巨制无广的好物推荐" },
