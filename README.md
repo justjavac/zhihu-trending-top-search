@@ -14,12 +14,13 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Nov 05 2024 07:09:42 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Nov 05 2024 08:45:16 GMT+0800 (China Standard Time) -->
 
 1. [T1](https://www.zhihu.com/search?q=T1)
 1. [BLG](https://www.zhihu.com/search?q=BLG)
 1. [Faker](https://www.zhihu.com/search?q=Faker)
 1. [t1夺冠](https://www.zhihu.com/search?q=t1%E5%A4%BA%E5%86%A0)
+1. [郑钦文](https://www.zhihu.com/search?q=%E9%83%91%E9%92%A6%E6%96%87)
 1. [珠帘玉幕](https://www.zhihu.com/search?q=%E7%8F%A0%E5%B8%98%E7%8E%89%E5%B9%95)
 1. [郑钦文vs萨巴伦卡](https://www.zhihu.com/search?q=%E9%83%91%E9%92%A6%E6%96%87vs%E8%90%A8%E5%B7%B4%E4%BC%A6%E5%8D%A1)
 1. [如何看待华为mate70](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%8D%8E%E4%B8%BAmate70)
