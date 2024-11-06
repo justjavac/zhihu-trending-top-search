@@ -1,5 +1,5 @@
 [
-  { "query": "T1", "display_query": "T1" },
+  { "query": "那些过气的明星后来如何", "display_query": "那些过气的明星后来如何" },
   { "query": "BLG", "display_query": "BLG" },
   { "query": "Faker", "display_query": "Faker" },
   { "query": "湖人vs活塞", "display_query": "湖人vs活塞" },
@@ -9,6 +9,7 @@
   { "query": "那些真的「好」的好物", "display_query": "那些真的「好」的好物" },
   { "query": "今年最「卷」的好物颁奖礼", "display_query": "今年最「卷」的好物颁奖礼" },
   { "query": "年度巨制无广的好物推荐", "display_query": "年度巨制无广的好物推荐" },
+  { "query": "T1", "display_query": "T1" },
   { "query": "郑钦文", "display_query": "郑钦文" },
   { "query": "t1夺冠", "display_query": "t1夺冠" }
 ]
