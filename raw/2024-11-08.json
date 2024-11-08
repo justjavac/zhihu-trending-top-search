@@ -1,5 +1,5 @@
 [
-  { "query": "内衣裤洗衣机是伪需求吗", "display_query": "内衣裤洗衣机是伪需求吗" },
+  { "query": "油价下调", "display_query": "油价下调" },
   { "query": "中国记者节", "display_query": "中国记者节" },
   { "query": "湖人vs活塞", "display_query": "湖人vs活塞" },
   { "query": "特斯拉股价暴涨", "display_query": "特斯拉股价暴涨" },
@@ -9,6 +9,6 @@
   { "query": "那些真的「好」的好物", "display_query": "那些真的「好」的好物" },
   { "query": "今年最「卷」的好物颁奖礼", "display_query": "今年最「卷」的好物颁奖礼" },
   { "query": "年度巨制无广的好物推荐", "display_query": "年度巨制无广的好物推荐" },
-  { "query": "立冬", "display_query": "立冬" },
-  { "query": "油价下调", "display_query": "油价下调" }
+  { "query": "内衣裤洗衣机是伪需求吗", "display_query": "内衣裤洗衣机是伪需求吗" },
+  { "query": "立冬", "display_query": "立冬" }
 ]
