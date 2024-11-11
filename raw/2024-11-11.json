@@ -1,6 +1,4 @@
 [
-  { "query": "油价下调", "display_query": "油价下调" },
-  { "query": "支付宝崩了", "display_query": "支付宝崩了" },
   { "query": "双十一买什么", "display_query": "双十一买什么" },
   { "query": "答主评审团", "display_query": "答主评审团" },
   { "query": "那些真的「好」的好物", "display_query": "那些真的「好」的好物" },
@@ -10,5 +8,8 @@
   { "query": "当测评答主「打直球」", "display_query": "当测评答主「打直球」" },
   { "query": "看完还不知道怎么选，算我输！", "display_query": "看完还不知道怎么选，算我输！" },
   { "query": "起猛了，看到「真」的测评了", "display_query": "起猛了，看到「真」的测评了" },
+  { "query": "录音笔成为打工人上班保命神器", "display_query": "录音笔成为打工人上班保命神器" },
+  { "query": "油价下调", "display_query": "油价下调" },
+  { "query": "支付宝崩了", "display_query": "支付宝崩了" },
   { "query": "中国记者节", "display_query": "中国记者节" }
 ]
