@@ -14,9 +14,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Nov 15 2024 13:10:30 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Nov 15 2024 14:15:15 GMT+0800 (China Standard Time) -->
 
-1. [提升自己最快的方式](https://www.zhihu.com/search?q=%E6%8F%90%E5%8D%87%E8%87%AA%E5%B7%B1%E6%9C%80%E5%BF%AB%E7%9A%84%E6%96%B9%E5%BC%8F)
 1. [王曼昱vs王艺迪](https://www.zhihu.com/search?q=%E7%8E%8B%E6%9B%BC%E6%98%B1vs%E7%8E%8B%E8%89%BA%E8%BF%AA)
 1. [国足](https://www.zhihu.com/search?q=%E5%9B%BD%E8%B6%B3)
 1. [31 省份平均工资公布](https://www.zhihu.com/search?q=31%20%E7%9C%81%E4%BB%BD%E5%B9%B3%E5%9D%87%E5%B7%A5%E8%B5%84%E5%85%AC%E5%B8%83)
@@ -26,6 +25,8 @@
 1. [疑儿子在盒马鲜生摔倒没人扶妈妈砸店](https://www.zhihu.com/search?q=%E7%96%91%E5%84%BF%E5%AD%90%E5%9C%A8%E7%9B%92%E9%A9%AC%E9%B2%9C%E7%94%9F%E6%91%94%E5%80%92%E6%B2%A1%E4%BA%BA%E6%89%B6%E5%A6%88%E5%A6%88%E7%A0%B8%E5%BA%97)
 1. [幼儿园招聘需做背景查询和健康检查](https://www.zhihu.com/search?q=%E5%B9%BC%E5%84%BF%E5%9B%AD%E6%8B%9B%E8%81%98%E9%9C%80%E5%81%9A%E8%83%8C%E6%99%AF%E6%9F%A5%E8%AF%A2%E5%92%8C%E5%81%A5%E5%BA%B7%E6%A3%80%E6%9F%A5)
 1. [拜登是真傻还是装傻](https://www.zhihu.com/search?q=%E6%8B%9C%E7%99%BB%E6%98%AF%E7%9C%9F%E5%82%BB%E8%BF%98%E6%98%AF%E8%A3%85%E5%82%BB)
+1. [AI在数字化转型应用](https://www.zhihu.com/search?q=AI%E5%9C%A8%E6%95%B0%E5%AD%97%E5%8C%96%E8%BD%AC%E5%9E%8B%E5%BA%94%E7%94%A8)
+1. [提升自己最快的方式](https://www.zhihu.com/search?q=%E6%8F%90%E5%8D%87%E8%87%AA%E5%B7%B1%E6%9C%80%E5%BF%AB%E7%9A%84%E6%96%B9%E5%BC%8F)
 1. [怎么改变自己「好为人师」的毛病](https://www.zhihu.com/search?q=%E6%80%8E%E4%B9%88%E6%94%B9%E5%8F%98%E8%87%AA%E5%B7%B1%E3%80%8C%E5%A5%BD%E4%B8%BA%E4%BA%BA%E5%B8%88%E3%80%8D%E7%9A%84%E6%AF%9B%E7%97%85)
 1. [叶珂退网](https://www.zhihu.com/search?q=%E5%8F%B6%E7%8F%82%E9%80%80%E7%BD%91)
 1. [李行亮觉醒](https://www.zhihu.com/search?q=%E6%9D%8E%E8%A1%8C%E4%BA%AE%E8%A7%89%E9%86%92)
