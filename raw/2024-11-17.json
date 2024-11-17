@@ -1,6 +1,5 @@
 [
   { "query": "王曼昱vs王艺迪", "display_query": "王曼昱vs王艺迪" },
-  { "query": "国足", "display_query": "国足" },
   { "query": "31省份平均工资公布", "display_query": "31省份平均工资公布" },
   { "query": "李行亮觉醒", "display_query": "李行亮觉醒" },
   { "query": "幼儿园招聘需做背景查询和健康检查", "display_query": "幼儿园招聘需做背景查询和健康检查" },
@@ -8,5 +7,7 @@
   { "query": "华尔街预计美联储可能放缓降息", "display_query": "华尔街预计美联储可能放缓降息" },
   { "query": "叶珂退网", "display_query": "叶珂退网" },
   { "query": "AI在数字化转型应用", "display_query": "AI在数字化转型应用" },
-  { "query": "产品经理思维", "display_query": "产品经理思维" }
+  { "query": "产品经理思维", "display_query": "产品经理思维" },
+  { "query": "大模型自建AI应用", "display_query": "大模型自建AI应用" },
+  { "query": "国足", "display_query": "国足" }
 ]
