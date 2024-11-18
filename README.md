@@ -14,9 +14,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Nov 18 2024 16:14:35 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Nov 18 2024 17:12:07 GMT+0800 (China Standard Time) -->
 
-1. [雷佳音 金鸡奖最佳男主角](https://www.zhihu.com/search?q=%E9%9B%B7%E4%BD%B3%E9%9F%B3%20%E9%87%91%E9%B8%A1%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B7%E4%B8%BB%E8%A7%92)
 1. [湖人vs鹈鹕](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BAvs%E9%B9%88%E9%B9%95)
 1. [支付宝崩了](https://www.zhihu.com/search?q=%E6%94%AF%E4%BB%98%E5%AE%9D%E5%B4%A9%E4%BA%86)
 1. [男人最无声的炫耀是什么](https://www.zhihu.com/search?q=%E7%94%B7%E4%BA%BA%E6%9C%80%E6%97%A0%E5%A3%B0%E7%9A%84%E7%82%AB%E8%80%80%E6%98%AF%E4%BB%80%E4%B9%88)
@@ -27,6 +26,7 @@
 1. [歼-35A 开加力出现马赫环](https://www.zhihu.com/search?q=%E6%AD%BC-35A%20%E5%BC%80%E5%8A%A0%E5%8A%9B%E5%87%BA%E7%8E%B0%E9%A9%AC%E8%B5%AB%E7%8E%AF)
 1. [麦琳让《再见爱人》火到了国外](https://www.zhihu.com/search?q=%E9%BA%A6%E7%90%B3%E8%AE%A9%E3%80%8A%E5%86%8D%E8%A7%81%E7%88%B1%E4%BA%BA%E3%80%8B%E7%81%AB%E5%88%B0%E4%BA%86%E5%9B%BD%E5%A4%96)
 1. [腾讯第三季度营收 1672 亿](https://www.zhihu.com/search?q=%E8%85%BE%E8%AE%AF%E7%AC%AC%E4%B8%89%E5%AD%A3%E5%BA%A6%E8%90%A5%E6%94%B6%201672%20%E4%BA%BF)
+1. [雷佳音 金鸡奖最佳男主角](https://www.zhihu.com/search?q=%E9%9B%B7%E4%BD%B3%E9%9F%B3%20%E9%87%91%E9%B8%A1%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B7%E4%B8%BB%E8%A7%92)
 1. [司美格鲁肽在中国正式上市](https://www.zhihu.com/search?q=%E5%8F%B8%E7%BE%8E%E6%A0%BC%E9%B2%81%E8%82%BD%E5%9C%A8%E4%B8%AD%E5%9B%BD%E6%AD%A3%E5%BC%8F%E4%B8%8A%E5%B8%82)
 1. [网传挖呀挖女幼师走红后抑郁](https://www.zhihu.com/search?q=%E7%BD%91%E4%BC%A0%E6%8C%96%E5%91%80%E6%8C%96%E5%A5%B3%E5%B9%BC%E5%B8%88%E8%B5%B0%E7%BA%A2%E5%90%8E%E6%8A%91%E9%83%81)
 1. [幼儿园招聘需做背景查询和健康检查](https://www.zhihu.com/search?q=%E5%B9%BC%E5%84%BF%E5%9B%AD%E6%8B%9B%E8%81%98%E9%9C%80%E5%81%9A%E8%83%8C%E6%99%AF%E6%9F%A5%E8%AF%A2%E5%92%8C%E5%81%A5%E5%BA%B7%E6%A3%80%E6%9F%A5)
