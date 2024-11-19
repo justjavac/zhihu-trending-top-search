@@ -14,9 +14,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Nov 19 2024 14:14:06 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Nov 19 2024 15:10:07 GMT+0800 (China Standard Time) -->
 
+1. [创业板指跌逾1%](https://www.zhihu.com/search?q=%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E8%B7%8C%E9%80%BE1%25)
 1. [支付宝崩了](https://www.zhihu.com/search?q=%E6%94%AF%E4%BB%98%E5%AE%9D%E5%B4%A9%E4%BA%86)
+1. [独行侠险胜雷霆](https://www.zhihu.com/search?q=%E7%8B%AC%E8%A1%8C%E4%BE%A0%E9%99%A9%E8%83%9C%E9%9B%B7%E9%9C%86)
 1. [MacOS真的比Windows流畅吗](https://www.zhihu.com/search?q=MacOS%E7%9C%9F%E7%9A%84%E6%AF%94Windows%E6%B5%81%E7%95%85%E5%90%97)
 1. [男人最无声的炫耀是什么](https://www.zhihu.com/search?q=%E7%94%B7%E4%BA%BA%E6%9C%80%E6%97%A0%E5%A3%B0%E7%9A%84%E7%82%AB%E8%80%80%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [支付宝致歉](https://www.zhihu.com/search?q=%E6%94%AF%E4%BB%98%E5%AE%9D%E8%87%B4%E6%AD%89)
