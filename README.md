@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Nov 19 2024 16:13:40 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Nov 19 2024 17:10:51 GMT+0800 (China Standard Time) -->
 
 1. [创业板指跌逾1%](https://www.zhihu.com/search?q=%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E8%B7%8C%E9%80%BE1%25)
 1. [支付宝崩了](https://www.zhihu.com/search?q=%E6%94%AF%E4%BB%98%E5%AE%9D%E5%B4%A9%E4%BA%86)
