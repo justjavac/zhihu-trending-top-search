@@ -14,24 +14,25 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Nov 21 2024 15:09:54 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Nov 21 2024 16:13:30 GMT+0800 (China Standard Time) -->
 
-1. [多国驻乌克兰大使馆因袭击风险关闭](https://www.zhihu.com/search?q=%E5%A4%9A%E5%9B%BD%E9%A9%BB%E4%B9%8C%E5%85%8B%E5%85%B0%E5%A4%A7%E4%BD%BF%E9%A6%86%E5%9B%A0%E8%A2%AD%E5%87%BB%E9%A3%8E%E9%99%A9%E5%85%B3%E9%97%AD)
-1. [如果螳螂变成 250 公斤能猎杀东北虎吗](https://www.zhihu.com/search?q=%E5%A6%82%E6%9E%9C%E8%9E%B3%E8%9E%82%E5%8F%98%E6%88%90%20250%20%E5%85%AC%E6%96%A4%E8%83%BD%E7%8C%8E%E6%9D%80%E4%B8%9C%E5%8C%97%E8%99%8E%E5%90%97)
+1. [为什么古代紫色稀有](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%A4%E4%BB%A3%E7%B4%AB%E8%89%B2%E7%A8%80%E6%9C%89)
 1. [tvb台庆](https://www.zhihu.com/search?q=tvb%E5%8F%B0%E5%BA%86)
 1. [勇士vs快船](https://www.zhihu.com/search?q=%E5%8B%87%E5%A3%ABvs%E5%BF%AB%E8%88%B9)
 1. [梁靖崑vs张本智和](https://www.zhihu.com/search?q=%E6%A2%81%E9%9D%96%E5%B4%91vs%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C)
 1. [早期的的网红后来怎么样了](https://www.zhihu.com/search?q=%E6%97%A9%E6%9C%9F%E7%9A%84%E7%9A%84%E7%BD%91%E7%BA%A2%E5%90%8E%E6%9D%A5%E6%80%8E%E4%B9%88%E6%A0%B7%E4%BA%86)
+1. [孙颖莎vs陈幸同](https://www.zhihu.com/search?q=%E5%AD%99%E9%A2%96%E8%8E%8Evs%E9%99%88%E5%B9%B8%E5%90%8C)
 1. [国足进球了](https://www.zhihu.com/search?q=%E5%9B%BD%E8%B6%B3%E8%BF%9B%E7%90%83%E4%BA%86)
 1. [麦琳 熏鸡事变](https://www.zhihu.com/search?q=%E9%BA%A6%E7%90%B3%20%E7%86%8F%E9%B8%A1%E4%BA%8B%E5%8F%98)
 1. [李子柒停更期间都在做什么](https://www.zhihu.com/search?q=%E6%9D%8E%E5%AD%90%E6%9F%92%E5%81%9C%E6%9B%B4%E6%9C%9F%E9%97%B4%E9%83%BD%E5%9C%A8%E5%81%9A%E4%BB%80%E4%B9%88)
 1. [武磊因伤无缘战巴林](https://www.zhihu.com/search?q=%E6%AD%A6%E7%A3%8A%E5%9B%A0%E4%BC%A4%E6%97%A0%E7%BC%98%E6%88%98%E5%B7%B4%E6%9E%97)
+1. [多国驻乌克兰大使馆因袭击风险关闭](https://www.zhihu.com/search?q=%E5%A4%9A%E5%9B%BD%E9%A9%BB%E4%B9%8C%E5%85%8B%E5%85%B0%E5%A4%A7%E4%BD%BF%E9%A6%86%E5%9B%A0%E8%A2%AD%E5%87%BB%E9%A3%8E%E9%99%A9%E5%85%B3%E9%97%AD)
+1. [如果螳螂变成 250 公斤能猎杀东北虎吗](https://www.zhihu.com/search?q=%E5%A6%82%E6%9E%9C%E8%9E%B3%E8%9E%82%E5%8F%98%E6%88%90%20250%20%E5%85%AC%E6%96%A4%E8%83%BD%E7%8C%8E%E6%9D%80%E4%B8%9C%E5%8C%97%E8%99%8E%E5%90%97)
 1. [如何评价中国队的进步](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E4%B8%AD%E5%9B%BD%E9%98%9F%E7%9A%84%E8%BF%9B%E6%AD%A5)
 1. [比特币突破 9.7 万美元再创新高](https://www.zhihu.com/search?q=%E6%AF%94%E7%89%B9%E5%B8%81%E7%AA%81%E7%A0%B4%209.7%20%E4%B8%87%E7%BE%8E%E5%85%83%E5%86%8D%E5%88%9B%E6%96%B0%E9%AB%98)
 1. [比亚迪自研智驾芯片](https://www.zhihu.com/search?q=%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%87%AA%E7%A0%94%E6%99%BA%E9%A9%BE%E8%8A%AF%E7%89%87)
 1. [国足赢了](https://www.zhihu.com/search?q=%E5%9B%BD%E8%B6%B3%E8%B5%A2%E4%BA%86)
 1. [雷佳音 金鸡奖最佳男主角](https://www.zhihu.com/search?q=%E9%9B%B7%E4%BD%B3%E9%9F%B3%20%E9%87%91%E9%B8%A1%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B7%E4%B8%BB%E8%A7%92)
-1. [为什么古代紫色稀有](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%A4%E4%BB%A3%E7%B4%AB%E8%89%B2%E7%A8%80%E6%9C%89)
 1. [江苏一院校疑发生持刀伤人事件](https://www.zhihu.com/search?q=%E6%B1%9F%E8%8B%8F%E4%B8%80%E9%99%A2%E6%A0%A1%E7%96%91%E5%8F%91%E7%94%9F%E6%8C%81%E5%88%80%E4%BC%A4%E4%BA%BA%E4%BA%8B%E4%BB%B6)
 1. [男人最无声的炫耀是什么](https://www.zhihu.com/search?q=%E7%94%B7%E4%BA%BA%E6%9C%80%E6%97%A0%E5%A3%B0%E7%9A%84%E7%82%AB%E8%80%80%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [李子柒身份证已改名](https://www.zhihu.com/search?q=%E6%9D%8E%E5%AD%90%E6%9F%92%E8%BA%AB%E4%BB%BD%E8%AF%81%E5%B7%B2%E6%94%B9%E5%90%8D)
