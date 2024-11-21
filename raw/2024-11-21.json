@@ -1,4 +1,5 @@
 [
+  { "query": "tvb台庆", "display_query": "tvb台庆" },
   { "query": "勇士vs快船", "display_query": "勇士vs快船" },
   { "query": "早期的的网红后来怎么样了", "display_query": "早期的的网红后来怎么样了" },
   { "query": "国足进球了", "display_query": "国足进球了" },
@@ -8,6 +9,5 @@
   { "query": "武磊因伤无缘战巴林", "display_query": "武磊因伤无缘战巴林" },
   { "query": "李子柒身份证已改名", "display_query": "李子柒身份证已改名" },
   { "query": "国足赢了", "display_query": "国足赢了" },
-  { "query": "江苏一院校疑发生持刀伤人事件", "display_query": "江苏一院校疑发生持刀伤人事件" },
-  { "query": "tvb台庆", "display_query": "tvb台庆" }
+  { "query": "江苏一院校疑发生持刀伤人事件", "display_query": "江苏一院校疑发生持刀伤人事件" }
 ]
