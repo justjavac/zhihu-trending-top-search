@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Nov 23 2024 05:10:03 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Nov 23 2024 06:09:00 GMT+0800 (China Standard Time) -->
 
 1. [今日小雪](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5%E5%B0%8F%E9%9B%AA)
 1. [为什么古代紫色稀有](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%A4%E4%BB%A3%E7%B4%AB%E8%89%B2%E7%A8%80%E6%9C%89)
