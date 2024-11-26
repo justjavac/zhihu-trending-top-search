@@ -14,9 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Nov 26 2024 21:21:09 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Nov 26 2024 22:09:59 GMT+0800 (China Standard Time) -->
 
-1. [黑龙江发布暴雪红色预警](https://www.zhihu.com/search?q=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8F%91%E5%B8%83%E6%9A%B4%E9%9B%AA%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6)
+1. [拉萨冬季饮品消费市场暖起来](https://www.zhihu.com/search?q=%E6%8B%89%E8%90%A8%E5%86%AC%E5%AD%A3%E9%A5%AE%E5%93%81%E6%B6%88%E8%B4%B9%E5%B8%82%E5%9C%BA%E6%9A%96%E8%B5%B7%E6%9D%A5)
+1. [普通人使用ChatGPT方法](https://www.zhihu.com/search?q=%E6%99%AE%E9%80%9A%E4%BA%BA%E4%BD%BF%E7%94%A8ChatGPT%E6%96%B9%E6%B3%95)
 1. [光遇复刻](https://www.zhihu.com/search?q=%E5%85%89%E9%81%87%E5%A4%8D%E5%88%BB)
 1. [德云社纲丝节](https://www.zhihu.com/search?q=%E5%BE%B7%E4%BA%91%E7%A4%BE%E7%BA%B2%E4%B8%9D%E8%8A%82)
 1. [胖东来为什么没有走出河南](https://www.zhihu.com/search?q=%E8%83%96%E4%B8%9C%E6%9D%A5%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B2%A1%E6%9C%89%E8%B5%B0%E5%87%BA%E6%B2%B3%E5%8D%97)
@@ -24,8 +25,9 @@
 1. [麦琳 熏鸡事变](https://www.zhihu.com/search?q=%E9%BA%A6%E7%90%B3%20%E7%86%8F%E9%B8%A1%E4%BA%8B%E5%8F%98)
 1. [短剧推广与授权](https://www.zhihu.com/search?q=%E7%9F%AD%E5%89%A7%E6%8E%A8%E5%B9%BF%E4%B8%8E%E6%8E%88%E6%9D%83)
 1. [小说推文授权申请](https://www.zhihu.com/search?q=%E5%B0%8F%E8%AF%B4%E6%8E%A8%E6%96%87%E6%8E%88%E6%9D%83%E7%94%B3%E8%AF%B7)
-1. [电商运营入门](https://www.zhihu.com/search?q=%E7%94%B5%E5%95%86%E8%BF%90%E8%90%A5%E5%85%A5%E9%97%A8)
 1. [小红书赚钱技巧](https://www.zhihu.com/search?q=%E5%B0%8F%E7%BA%A2%E4%B9%A6%E8%B5%9A%E9%92%B1%E6%8A%80%E5%B7%A7)
+1. [黑龙江发布暴雪红色预警](https://www.zhihu.com/search?q=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8F%91%E5%B8%83%E6%9A%B4%E9%9B%AA%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6)
+1. [电商运营入门](https://www.zhihu.com/search?q=%E7%94%B5%E5%95%86%E8%BF%90%E8%90%A5%E5%85%A5%E9%97%A8)
 1. [加入知乎推文团队](https://www.zhihu.com/search?q=%E5%8A%A0%E5%85%A5%E7%9F%A5%E4%B9%8E%E6%8E%A8%E6%96%87%E5%9B%A2%E9%98%9F)
 1. [王曼昱女单冠军](https://www.zhihu.com/search?q=%E7%8E%8B%E6%9B%BC%E6%98%B1%E5%A5%B3%E5%8D%95%E5%86%A0%E5%86%9B)
 1. [掘金vs湖人](https://www.zhihu.com/search?q=%E6%8E%98%E9%87%91vs%E6%B9%96%E4%BA%BA)
