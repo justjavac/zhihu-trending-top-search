@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Nov 26 2024 20:19:34 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Nov 26 2024 21:21:09 GMT+0800 (China Standard Time) -->
 
 1. [黑龙江发布暴雪红色预警](https://www.zhihu.com/search?q=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8F%91%E5%B8%83%E6%9A%B4%E9%9B%AA%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6)
 1. [光遇复刻](https://www.zhihu.com/search?q=%E5%85%89%E9%81%87%E5%A4%8D%E5%88%BB)
