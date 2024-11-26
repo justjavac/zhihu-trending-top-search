@@ -14,9 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Nov 26 2024 18:11:18 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Nov 26 2024 19:08:38 GMT+0800 (China Standard Time) -->
 
 1. [黑龙江发布暴雪红色预警](https://www.zhihu.com/search?q=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8F%91%E5%B8%83%E6%9A%B4%E9%9B%AA%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6)
+1. [光遇复刻](https://www.zhihu.com/search?q=%E5%85%89%E9%81%87%E5%A4%8D%E5%88%BB)
 1. [德云社纲丝节](https://www.zhihu.com/search?q=%E5%BE%B7%E4%BA%91%E7%A4%BE%E7%BA%B2%E4%B8%9D%E8%8A%82)
 1. [胖东来为什么没有走出河南](https://www.zhihu.com/search?q=%E8%83%96%E4%B8%9C%E6%9D%A5%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B2%A1%E6%9C%89%E8%B5%B0%E5%87%BA%E6%B2%B3%E5%8D%97)
 1. [你一个人旅行过吗](https://www.zhihu.com/search?q=%E4%BD%A0%E4%B8%80%E4%B8%AA%E4%BA%BA%E6%97%85%E8%A1%8C%E8%BF%87%E5%90%97)
