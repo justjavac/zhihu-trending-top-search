@@ -1,4 +1,5 @@
 [
+  { "query": "a股", "display_query": "a股" },
   { "query": "", "display_query": "" },
   { "query": "王曼昱女单冠军", "display_query": "王曼昱女单冠军" },
   { "query": "照骗能骗到什么程度", "display_query": "照骗能骗到什么程度" },
