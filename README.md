@@ -14,12 +14,14 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Dec 01 2024 17:09:43 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Dec 01 2024 18:09:53 GMT+0800 (China Standard Time) -->
 
 1. [a股](https://www.zhihu.com/search?q=a%E8%82%A1)
 1. [](https://www.zhihu.com/search?q=)
 1. [王曼昱女单冠军](https://www.zhihu.com/search?q=%E7%8E%8B%E6%9B%BC%E6%98%B1%E5%A5%B3%E5%8D%95%E5%86%A0%E5%86%9B)
 1. [国考笔试](https://www.zhihu.com/search?q=%E5%9B%BD%E8%80%83%E7%AC%94%E8%AF%95)
+1. [申论](https://www.zhihu.com/search?q=%E7%94%B3%E8%AE%BA)
+1. [申论大作文](https://www.zhihu.com/search?q=%E7%94%B3%E8%AE%BA%E5%A4%A7%E4%BD%9C%E6%96%87)
 1. [国考弃考](https://www.zhihu.com/search?q=%E5%9B%BD%E8%80%83%E5%BC%83%E8%80%83)
 1. [照骗能骗到什么程度](https://www.zhihu.com/search?q=%E7%85%A7%E9%AA%97%E8%83%BD%E9%AA%97%E5%88%B0%E4%BB%80%E4%B9%88%E7%A8%8B%E5%BA%A6)
 1. [你听过最野的野史有多野](https://www.zhihu.com/search?q=%E4%BD%A0%E5%90%AC%E8%BF%87%E6%9C%80%E9%87%8E%E7%9A%84%E9%87%8E%E5%8F%B2%E6%9C%89%E5%A4%9A%E9%87%8E)
