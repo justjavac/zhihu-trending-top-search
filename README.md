@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Dec 02 2024 19:08:55 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Dec 02 2024 20:20:27 GMT+0800 (China Standard Time) -->
 
 1. [国考笔试](https://www.zhihu.com/search?q=%E5%9B%BD%E8%80%83%E7%AC%94%E8%AF%95)
 1. [申论](https://www.zhihu.com/search?q=%E7%94%B3%E8%AE%BA)
@@ -24,6 +24,8 @@
 1. [你见过的狠人有多绝](https://www.zhihu.com/search?q=%E4%BD%A0%E8%A7%81%E8%BF%87%E7%9A%84%E7%8B%A0%E4%BA%BA%E6%9C%89%E5%A4%9A%E7%BB%9D)
 1. [为何诸葛亮墓始终无人敢盗](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E8%AF%B8%E8%91%9B%E4%BA%AE%E5%A2%93%E5%A7%8B%E7%BB%88%E6%97%A0%E4%BA%BA%E6%95%A2%E7%9B%97)
 1. [华为 Mate 70 价格](https://www.zhihu.com/search?q=%E5%8D%8E%E4%B8%BA%20Mate%2070%20%E4%BB%B7%E6%A0%BC)
+1. [红米 K80](https://www.zhihu.com/search?q=%E7%BA%A2%E7%B1%B3%20K80)
+1. [国家医保药品目录新增 91 种药品](https://www.zhihu.com/search?q=%E5%9B%BD%E5%AE%B6%E5%8C%BB%E4%BF%9D%E8%8D%AF%E5%93%81%E7%9B%AE%E5%BD%95%E6%96%B0%E5%A2%9E%2091%20%E7%A7%8D%E8%8D%AF%E5%93%81)
 1. [胖东来今年销售额已超 146 亿元](https://www.zhihu.com/search?q=%E8%83%96%E4%B8%9C%E6%9D%A5%E4%BB%8A%E5%B9%B4%E9%94%80%E5%94%AE%E9%A2%9D%E5%B7%B2%E8%B6%85%20146%20%E4%BA%BF%E5%85%83)
 1. [于东来公布胖东来经营情况](https://www.zhihu.com/search?q=%E4%BA%8E%E4%B8%9C%E6%9D%A5%E5%85%AC%E5%B8%83%E8%83%96%E4%B8%9C%E6%9D%A5%E7%BB%8F%E8%90%A5%E6%83%85%E5%86%B5)
 1. [a股](https://www.zhihu.com/search?q=a%E8%82%A1)
