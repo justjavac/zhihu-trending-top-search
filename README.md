@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Dec 02 2024 11:30:36 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Dec 02 2024 12:12:56 GMT+0800 (China Standard Time) -->
 
 1. [a股](https://www.zhihu.com/search?q=a%E8%82%A1)
 1. [](https://www.zhihu.com/search?q=)
@@ -23,9 +23,11 @@
 1. [申论](https://www.zhihu.com/search?q=%E7%94%B3%E8%AE%BA)
 1. [申论大作文](https://www.zhihu.com/search?q=%E7%94%B3%E8%AE%BA%E5%A4%A7%E4%BD%9C%E6%96%87)
 1. [国考弃考](https://www.zhihu.com/search?q=%E5%9B%BD%E8%80%83%E5%BC%83%E8%80%83)
+1. [Northvolt在美国申请破产保护](https://www.zhihu.com/search?q=Northvolt%E5%9C%A8%E7%BE%8E%E5%9B%BD%E7%94%B3%E8%AF%B7%E7%A0%B4%E4%BA%A7%E4%BF%9D%E6%8A%A4)
+1. [奥运冠军管晨辰怒斥吴柳芳擦边](https://www.zhihu.com/search?q=%E5%A5%A5%E8%BF%90%E5%86%A0%E5%86%9B%E7%AE%A1%E6%99%A8%E8%BE%B0%E6%80%92%E6%96%A5%E5%90%B4%E6%9F%B3%E8%8A%B3%E6%93%A6%E8%BE%B9)
+1. [大风降温雨雪齐上线](https://www.zhihu.com/search?q=%E5%A4%A7%E9%A3%8E%E9%99%8D%E6%B8%A9%E9%9B%A8%E9%9B%AA%E9%BD%90%E4%B8%8A%E7%BA%BF)
 1. [照骗能骗到什么程度](https://www.zhihu.com/search?q=%E7%85%A7%E9%AA%97%E8%83%BD%E9%AA%97%E5%88%B0%E4%BB%80%E4%B9%88%E7%A8%8B%E5%BA%A6)
 1. [你听过最野的野史有多野](https://www.zhihu.com/search?q=%E4%BD%A0%E5%90%AC%E8%BF%87%E6%9C%80%E9%87%8E%E7%9A%84%E9%87%8E%E5%8F%B2%E6%9C%89%E5%A4%9A%E9%87%8E)
-1. [Northvolt在美国申请破产保护](https://www.zhihu.com/search?q=Northvolt%E5%9C%A8%E7%BE%8E%E5%9B%BD%E7%94%B3%E8%AF%B7%E7%A0%B4%E4%BA%A7%E4%BF%9D%E6%8A%A4)
 1. [《封神第二部》定档](https://www.zhihu.com/search?q=%E3%80%8A%E5%B0%81%E7%A5%9E%E7%AC%AC%E4%BA%8C%E9%83%A8%E3%80%8B%E5%AE%9A%E6%A1%A3)
 
 <!-- END -->
