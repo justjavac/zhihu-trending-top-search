@@ -14,12 +14,13 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Dec 04 2024 12:12:55 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Dec 04 2024 13:10:42 GMT+0800 (China Standard Time) -->
 
 1. [国考笔试](https://www.zhihu.com/search?q=%E5%9B%BD%E8%80%83%E7%AC%94%E8%AF%95)
 1. [申论](https://www.zhihu.com/search?q=%E7%94%B3%E8%AE%BA)
 1. [申论大作文](https://www.zhihu.com/search?q=%E7%94%B3%E8%AE%BA%E5%A4%A7%E4%BD%9C%E6%96%87)
 1. [国考弃考](https://www.zhihu.com/search?q=%E5%9B%BD%E8%80%83%E5%BC%83%E8%80%83)
+1. [为什么检查上级都会提前通知](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%A3%80%E6%9F%A5%E4%B8%8A%E7%BA%A7%E9%83%BD%E4%BC%9A%E6%8F%90%E5%89%8D%E9%80%9A%E7%9F%A5)
 1. [你见过的狠人有多绝](https://www.zhihu.com/search?q=%E4%BD%A0%E8%A7%81%E8%BF%87%E7%9A%84%E7%8B%A0%E4%BA%BA%E6%9C%89%E5%A4%9A%E7%BB%9D)
 1. [韩国](https://www.zhihu.com/search?q=%E9%9F%A9%E5%9B%BD)
 1. [湖人vs森林狼](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BAvs%E6%A3%AE%E6%9E%97%E7%8B%BC)
