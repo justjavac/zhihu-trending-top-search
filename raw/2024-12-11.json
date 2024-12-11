@@ -1,6 +1,5 @@
 [
-  { "query": "有哪些演员戏路很窄", "display_query": "有哪些演员戏路很窄" },
-  { "query": "照骗能骗到什么程度", "display_query": "照骗能骗到什么程度" },
+  { "query": "英伟达被立案调查", "display_query": "英伟达被立案调查" },
   { "query": "A股高开低走", "display_query": "A股高开低走" },
   { "query": "A股三大指数高开", "display_query": "A股三大指数高开" },
   { "query": "数学是从什么时候开始反直觉的", "display_query": "数学是从什么时候开始反直觉的" },
@@ -9,6 +8,9 @@
   { "query": "OpenAI 推出推理模型 o1 和 ChatGPT Pro", "display_query": "OpenAI 推出推理模型 o1 和 ChatGPT Pro" },
   { "query": "OpenAI 世界最贵大模型", "display_query": "OpenAI 世界最贵大模型" },
   { "query": "从 2006 到 2024 中美出口管制角色互换", "display_query": "从 2006 到 2024 中美出口管制角色互换" },
+  { "query": "冰雪运动为什么让人越来越上头", "display_query": "冰雪运动为什么让人越来越上头" },
+  { "query": "有哪些演员戏路很窄", "display_query": "有哪些演员戏路很窄" },
+  { "query": "照骗能骗到什么程度", "display_query": "照骗能骗到什么程度" },
   { "query": "叙利亚反对派武装攻入哈马市", "display_query": "叙利亚反对派武装攻入哈马市" },
   { "query": "奥斯卡归化手续进行中", "display_query": "奥斯卡归化手续进行中" },
   { "query": "纳斯达克中国金龙指数大涨", "display_query": "纳斯达克中国金龙指数大涨" },
