@@ -1,5 +1,6 @@
 [
   { "query": "A股", "display_query": "A股" },
+  { "query": "六级翻译", "display_query": "六级翻译" },
   { "query": "斯诺克苏格兰公开赛", "display_query": "斯诺克苏格兰公开赛" },
   { "query": "你最意外的一笔收入是什么", "display_query": "你最意外的一笔收入是什么" },
   { "query": "四六级", "display_query": "四六级" },
