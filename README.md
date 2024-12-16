@@ -14,11 +14,12 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Dec 16 2024 12:13:15 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Dec 16 2024 13:11:21 GMT+0800 (China Standard Time) -->
 
 1. [A股](https://www.zhihu.com/search?q=A%E8%82%A1)
 1. [斯诺克苏格兰公开赛](https://www.zhihu.com/search?q=%E6%96%AF%E8%AF%BA%E5%85%8B%E8%8B%8F%E6%A0%BC%E5%85%B0%E5%85%AC%E5%BC%80%E8%B5%9B)
 1. [11 月 70 城房价出炉](https://www.zhihu.com/search?q=11%20%E6%9C%88%2070%20%E5%9F%8E%E6%88%BF%E4%BB%B7%E5%87%BA%E7%82%89)
+1. [为什么现在年轻人存不下钱](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%AD%98%E4%B8%8D%E4%B8%8B%E9%92%B1)
 1. [出国是坐中国航司还是外航](https://www.zhihu.com/search?q=%E5%87%BA%E5%9B%BD%E6%98%AF%E5%9D%90%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%8F%B8%E8%BF%98%E6%98%AF%E5%A4%96%E8%88%AA)
 1. [明十三陵永陵和思陵首次对外开放](https://www.zhihu.com/search?q=%E6%98%8E%E5%8D%81%E4%B8%89%E9%99%B5%E6%B0%B8%E9%99%B5%E5%92%8C%E6%80%9D%E9%99%B5%E9%A6%96%E6%AC%A1%E5%AF%B9%E5%A4%96%E5%BC%80%E6%94%BE)
 1. [多家银行采用 AI 面试进行招聘](https://www.zhihu.com/search?q=%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E9%87%87%E7%94%A8%20AI%20%E9%9D%A2%E8%AF%95%E8%BF%9B%E8%A1%8C%E6%8B%9B%E8%81%98)
