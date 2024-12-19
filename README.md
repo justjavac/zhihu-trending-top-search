@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Dec 19 2024 22:09:21 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Dec 19 2024 23:10:08 GMT+0800 (China Standard Time) -->
 
 1. [蜜雪冰城涨价](https://www.zhihu.com/search?q=%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E6%B6%A8%E4%BB%B7)
 1. [11 月 70 城房价出炉](https://www.zhihu.com/search?q=11%20%E6%9C%88%2070%20%E5%9F%8E%E6%88%BF%E4%BB%B7%E5%87%BA%E7%82%89)
