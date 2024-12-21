@@ -14,14 +14,16 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Dec 21 2024 17:08:41 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Dec 21 2024 18:08:51 GMT+0800 (China Standard Time) -->
 
 1. [没文化可以有多可怕](https://www.zhihu.com/search?q=%E6%B2%A1%E6%96%87%E5%8C%96%E5%8F%AF%E4%BB%A5%E6%9C%89%E5%A4%9A%E5%8F%AF%E6%80%95)
 1. [金价大跌](https://www.zhihu.com/search?q=%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C)
 1. [美联储宣布降息 25 个基点](https://www.zhihu.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8%E5%AE%A3%E5%B8%83%E9%99%8D%E6%81%AF%2025%20%E4%B8%AA%E5%9F%BA%E7%82%B9)
 1. [小米汽车凭什么后来居上](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E5%87%AD%E4%BB%80%E4%B9%88%E5%90%8E%E6%9D%A5%E5%B1%85%E4%B8%8A)
 1. [董明珠爆小米空调专利侵权赔了 50 万](https://www.zhihu.com/search?q=%E8%91%A3%E6%98%8E%E7%8F%A0%E7%88%86%E5%B0%8F%E7%B1%B3%E7%A9%BA%E8%B0%83%E4%B8%93%E5%88%A9%E4%BE%B5%E6%9D%83%E8%B5%94%E4%BA%86%2050%20%E4%B8%87)
+1. [过境免签外国人停留时间延长为 240 小时](https://www.zhihu.com/search?q=%E8%BF%87%E5%A2%83%E5%85%8D%E7%AD%BE%E5%A4%96%E5%9B%BD%E4%BA%BA%E5%81%9C%E7%95%99%E6%97%B6%E9%97%B4%E5%BB%B6%E9%95%BF%E4%B8%BA%20240%20%E5%B0%8F%E6%97%B6)
 1. [播客为什么那么火](https://www.zhihu.com/search?q=%E6%92%AD%E5%AE%A2%E4%B8%BA%E4%BB%80%E4%B9%88%E9%82%A3%E4%B9%88%E7%81%AB)
+1. [中国 144 小时变 240 小时](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%20144%20%E5%B0%8F%E6%97%B6%E5%8F%98%20240%20%E5%B0%8F%E6%97%B6)
 1. [美国威斯康辛州发生校园枪击案](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E5%A8%81%E6%96%AF%E5%BA%B7%E8%BE%9B%E5%B7%9E%E5%8F%91%E7%94%9F%E6%A0%A1%E5%9B%AD%E6%9E%AA%E5%87%BB%E6%A1%88)
 1. [前11月免签入境外国人同比增长123.3%](https://www.zhihu.com/search?q=%E5%89%8D11%E6%9C%88%E5%85%8D%E7%AD%BE%E5%85%A5%E5%A2%83%E5%A4%96%E5%9B%BD%E4%BA%BA%E5%90%8C%E6%AF%94%E5%A2%9E%E9%95%BF123.3%25)
 1. [王思聪要开 100 家牛排店](https://www.zhihu.com/search?q=%E7%8E%8B%E6%80%9D%E8%81%AA%E8%A6%81%E5%BC%80%20100%20%E5%AE%B6%E7%89%9B%E6%8E%92%E5%BA%97)
