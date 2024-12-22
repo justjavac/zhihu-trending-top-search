@@ -14,18 +14,19 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Dec 22 2024 20:16:00 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Dec 22 2024 21:12:46 GMT+0800 (China Standard Time) -->
 
 1. [考研结束](https://www.zhihu.com/search?q=%E8%80%83%E7%A0%94%E7%BB%93%E6%9D%9F)
 1. [考研数学](https://www.zhihu.com/search?q=%E8%80%83%E7%A0%94%E6%95%B0%E5%AD%A6)
 1. [金价大跌](https://www.zhihu.com/search?q=%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C)
 1. [美国威斯康辛州发生校园枪击案](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E5%A8%81%E6%96%AF%E5%BA%B7%E8%BE%9B%E5%B7%9E%E5%8F%91%E7%94%9F%E6%A0%A1%E5%9B%AD%E6%9E%AA%E5%87%BB%E6%A1%88)
 1. [前11月免签入境外国人同比增长123.3%](https://www.zhihu.com/search?q=%E5%89%8D11%E6%9C%88%E5%85%8D%E7%AD%BE%E5%85%A5%E5%A2%83%E5%A4%96%E5%9B%BD%E4%BA%BA%E5%90%8C%E6%AF%94%E5%A2%9E%E9%95%BF123.3%25)
-1. [为什么年轻人越来越热衷玄学](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%B6%8A%E6%9D%A5%E8%B6%8A%E7%83%AD%E8%A1%B7%E7%8E%84%E5%AD%A6)
 1. [记者暗访温州私人影院](https://www.zhihu.com/search?q=%E8%AE%B0%E8%80%85%E6%9A%97%E8%AE%BF%E6%B8%A9%E5%B7%9E%E7%A7%81%E4%BA%BA%E5%BD%B1%E9%99%A2)
 1. [保时捷回应中国区裁员](https://www.zhihu.com/search?q=%E4%BF%9D%E6%97%B6%E6%8D%B7%E5%9B%9E%E5%BA%94%E4%B8%AD%E5%9B%BD%E5%8C%BA%E8%A3%81%E5%91%98)
 1. [奇瑞风云a8l硬核碰撞测试](https://www.zhihu.com/search?q=%E5%A5%87%E7%91%9E%E9%A3%8E%E4%BA%91a8l%E7%A1%AC%E6%A0%B8%E7%A2%B0%E6%92%9E%E6%B5%8B%E8%AF%95)
 1. [本田与日产据悉将开始合并谈判](https://www.zhihu.com/search?q=%E6%9C%AC%E7%94%B0%E4%B8%8E%E6%97%A5%E4%BA%A7%E6%8D%AE%E6%82%89%E5%B0%86%E5%BC%80%E5%A7%8B%E5%90%88%E5%B9%B6%E8%B0%88%E5%88%A4)
+1. [本田与日产计划合并](https://www.zhihu.com/search?q=%E6%9C%AC%E7%94%B0%E4%B8%8E%E6%97%A5%E4%BA%A7%E8%AE%A1%E5%88%92%E5%90%88%E5%B9%B6)
+1. [为什么年轻人越来越热衷玄学](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%B6%8A%E6%9D%A5%E8%B6%8A%E7%83%AD%E8%A1%B7%E7%8E%84%E5%AD%A6)
 1. [过境免签外国人停留时间延长为 240 小时](https://www.zhihu.com/search?q=%E8%BF%87%E5%A2%83%E5%85%8D%E7%AD%BE%E5%A4%96%E5%9B%BD%E4%BA%BA%E5%81%9C%E7%95%99%E6%97%B6%E9%97%B4%E5%BB%B6%E9%95%BF%E4%B8%BA%20240%20%E5%B0%8F%E6%97%B6)
 1. [中国 144 小时变 240 小时](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%20144%20%E5%B0%8F%E6%97%B6%E5%8F%98%20240%20%E5%B0%8F%E6%97%B6)
 1. [《封神第二部》首支预告](https://www.zhihu.com/search?q=%E3%80%8A%E5%B0%81%E7%A5%9E%E7%AC%AC%E4%BA%8C%E9%83%A8%E3%80%8B%E9%A6%96%E6%94%AF%E9%A2%84%E5%91%8A)
