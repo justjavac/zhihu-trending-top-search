@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Dec 23 2024 03:06:33 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Dec 23 2024 04:09:25 GMT+0800 (China Standard Time) -->
 
 1. [考研结束](https://www.zhihu.com/search?q=%E8%80%83%E7%A0%94%E7%BB%93%E6%9D%9F)
 1. [考研数学](https://www.zhihu.com/search?q=%E8%80%83%E7%A0%94%E6%95%B0%E5%AD%A6)
