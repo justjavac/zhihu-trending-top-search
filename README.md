@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Dec 24 2024 20:18:08 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Dec 24 2024 21:15:44 GMT+0800 (China Standard Time) -->
 
 1. [考研第一天](https://www.zhihu.com/search?q=%E8%80%83%E7%A0%94%E7%AC%AC%E4%B8%80%E5%A4%A9)
 1. [掘金vs鹈鹕](https://www.zhihu.com/search?q=%E6%8E%98%E9%87%91vs%E9%B9%88%E9%B9%95)
