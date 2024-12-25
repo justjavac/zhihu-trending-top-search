@@ -14,12 +14,13 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Dec 25 2024 14:13:53 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Dec 25 2024 15:09:17 GMT+0800 (China Standard Time) -->
 
 1. [哈尔滨真的很冷吗](https://www.zhihu.com/search?q=%E5%93%88%E5%B0%94%E6%BB%A8%E7%9C%9F%E7%9A%84%E5%BE%88%E5%86%B7%E5%90%97)
 1. [你见过哪些不动声色的善良](https://www.zhihu.com/search?q=%E4%BD%A0%E8%A7%81%E8%BF%87%E5%93%AA%E4%BA%9B%E4%B8%8D%E5%8A%A8%E5%A3%B0%E8%89%B2%E7%9A%84%E5%96%84%E8%89%AF)
 1. [微信上线送礼物新功能](https://www.zhihu.com/search?q=%E5%BE%AE%E4%BF%A1%E4%B8%8A%E7%BA%BF%E9%80%81%E7%A4%BC%E7%89%A9%E6%96%B0%E5%8A%9F%E8%83%BD)
 1. [人民币重回全球第四大最活跃货币](https://www.zhihu.com/search?q=%E4%BA%BA%E6%B0%91%E5%B8%81%E9%87%8D%E5%9B%9E%E5%85%A8%E7%90%83%E7%AC%AC%E5%9B%9B%E5%A4%A7%E6%9C%80%E6%B4%BB%E8%B7%83%E8%B4%A7%E5%B8%81)
+1. [美国出现首例禽流感重症病例](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E5%87%BA%E7%8E%B0%E9%A6%96%E4%BE%8B%E7%A6%BD%E6%B5%81%E6%84%9F%E9%87%8D%E7%97%87%E7%97%85%E4%BE%8B)
 1. [俄罗斯和伊朗真的放弃了叙利亚吗](https://www.zhihu.com/search?q=%E4%BF%84%E7%BD%97%E6%96%AF%E5%92%8C%E4%BC%8A%E6%9C%97%E7%9C%9F%E7%9A%84%E6%94%BE%E5%BC%83%E4%BA%86%E5%8F%99%E5%88%A9%E4%BA%9A%E5%90%97)
 1. [美国加州松鼠时兴捕田鼠吃](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E5%8A%A0%E5%B7%9E%E6%9D%BE%E9%BC%A0%E6%97%B6%E5%85%B4%E6%8D%95%E7%94%B0%E9%BC%A0%E5%90%83)
 1. [外部塔吊施工侵入上海地铁 11 号线](https://www.zhihu.com/search?q=%E5%A4%96%E9%83%A8%E5%A1%94%E5%90%8A%E6%96%BD%E5%B7%A5%E4%BE%B5%E5%85%A5%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%2011%20%E5%8F%B7%E7%BA%BF)
