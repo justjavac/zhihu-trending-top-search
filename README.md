@@ -14,18 +14,19 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Dec 29 2024 07:08:41 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Dec 29 2024 08:52:17 GMT+0800 (China Standard Time) -->
 
 1. [湖人vs勇士](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BAvs%E5%8B%87%E5%A3%AB)
 1. [台湾花莲县海域发生4.8级地震](https://www.zhihu.com/search?q=%E5%8F%B0%E6%B9%BE%E8%8A%B1%E8%8E%B2%E5%8E%BF%E6%B5%B7%E5%9F%9F%E5%8F%91%E7%94%9F4.8%E7%BA%A7%E5%9C%B0%E9%9C%87)
 1. [wbg对战al](https://www.zhihu.com/search?q=wbg%E5%AF%B9%E6%88%98al)
-1. [樊振东](https://www.zhihu.com/search?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C)
 1. [加入知乎推文团队](https://www.zhihu.com/search?q=%E5%8A%A0%E5%85%A5%E7%9F%A5%E4%B9%8E%E6%8E%A8%E6%96%87%E5%9B%A2%E9%98%9F)
 1. [公司倒闭前有什么征兆](https://www.zhihu.com/search?q=%E5%85%AC%E5%8F%B8%E5%80%92%E9%97%AD%E5%89%8D%E6%9C%89%E4%BB%80%E4%B9%88%E5%BE%81%E5%85%86)
 1. [胖东来真有网上说的那么好吗](https://www.zhihu.com/search?q=%E8%83%96%E4%B8%9C%E6%9D%A5%E7%9C%9F%E6%9C%89%E7%BD%91%E4%B8%8A%E8%AF%B4%E7%9A%84%E9%82%A3%E4%B9%88%E5%A5%BD%E5%90%97)
 1. [马保国是真傻还是装傻](https://www.zhihu.com/search?q=%E9%A9%AC%E4%BF%9D%E5%9B%BD%E6%98%AF%E7%9C%9F%E5%82%BB%E8%BF%98%E6%98%AF%E8%A3%85%E5%82%BB)
 1. [肯德基中国涨价](https://www.zhihu.com/search?q=%E8%82%AF%E5%BE%B7%E5%9F%BA%E4%B8%AD%E5%9B%BD%E6%B6%A8%E4%BB%B7)
 1. [滴滴就臭车致歉](https://www.zhihu.com/search?q=%E6%BB%B4%E6%BB%B4%E5%B0%B1%E8%87%AD%E8%BD%A6%E8%87%B4%E6%AD%89)
+1. [宁德时代发布磐石底盘](https://www.zhihu.com/search?q=%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%E5%8F%91%E5%B8%83%E7%A3%90%E7%9F%B3%E5%BA%95%E7%9B%98)
+1. [樊振东](https://www.zhihu.com/search?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C)
 
 <!-- END -->
 
