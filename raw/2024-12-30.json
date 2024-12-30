@@ -1,12 +1,15 @@
 [
-  { "query": "湖人vs勇士", "display_query": "湖人vs勇士" },
-  { "query": "台湾花莲县海域发生4.8级地震", "display_query": "台湾花莲县海域发生4.8级地震" },
+  { "query": "徐娇被告知长沙室内不禁烟", "display_query": "徐娇被告知长沙室内不禁烟" },
   { "query": "wbg对战al", "display_query": "wbg对战al" },
   { "query": "加入知乎推文团队", "display_query": "加入知乎推文团队" },
   { "query": "2024 认真过", "display_query": "2024 认真过" },
-  { "query": "马保国是真傻还是装傻", "display_query": "马保国是真傻还是装傻" },
   { "query": "肯德基中国涨价", "display_query": "肯德基中国涨价" },
   { "query": "滴滴就臭车致歉", "display_query": "滴滴就臭车致歉" },
   { "query": "宁德时代发布磐石底盘", "display_query": "宁德时代发布磐石底盘" },
-  { "query": "小米官宣与蔚来合作", "display_query": "小米官宣与蔚来合作" }
+  { "query": "小米官宣与蔚来合作", "display_query": "小米官宣与蔚来合作" },
+  { "query": "适当提高退休人员基本养老金", "display_query": "适当提高退休人员基本养老金" },
+  { "query": "日本政府回应本田日产合并", "display_query": "日本政府回应本田日产合并" },
+  { "query": "湖人vs勇士", "display_query": "湖人vs勇士" },
+  { "query": "台湾花莲县海域发生4.8级地震", "display_query": "台湾花莲县海域发生4.8级地震" },
+  { "query": "马保国是真傻还是装傻", "display_query": "马保国是真傻还是装傻" }
 ]
