@@ -14,9 +14,12 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jan 03 2025 12:11:59 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jan 03 2025 13:09:44 GMT+0800 (China Standard Time) -->
 
+1. [为什么钢筋放太多了反而不好](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E9%92%A2%E7%AD%8B%E6%94%BE%E5%A4%AA%E5%A4%9A%E4%BA%86%E5%8F%8D%E8%80%8C%E4%B8%8D%E5%A5%BD)
 1. [短剧推广能否躺赚](https://www.zhihu.com/search?q=%E7%9F%AD%E5%89%A7%E6%8E%A8%E5%B9%BF%E8%83%BD%E5%90%A6%E8%BA%BA%E8%B5%9A)
+1. [有哪些让你目瞪口呆的 Bug](https://www.zhihu.com/search?q=%E6%9C%89%E5%93%AA%E4%BA%9B%E8%AE%A9%E4%BD%A0%E7%9B%AE%E7%9E%AA%E5%8F%A3%E5%91%86%E7%9A%84%20Bug)
+1. [董明珠回应电器卖得贵](https://www.zhihu.com/search?q=%E8%91%A3%E6%98%8E%E7%8F%A0%E5%9B%9E%E5%BA%94%E7%94%B5%E5%99%A8%E5%8D%96%E5%BE%97%E8%B4%B5)
 1. [视频号赚钱可行性](https://www.zhihu.com/search?q=%E8%A7%86%E9%A2%91%E5%8F%B7%E8%B5%9A%E9%92%B1%E5%8F%AF%E8%A1%8C%E6%80%A7)
 1. [视频号运营全攻略](https://www.zhihu.com/search?q=%E8%A7%86%E9%A2%91%E5%8F%B7%E8%BF%90%E8%90%A5%E5%85%A8%E6%94%BB%E7%95%A5)
 1. [小红书运营方法](https://www.zhihu.com/search?q=%E5%B0%8F%E7%BA%A2%E4%B9%A6%E8%BF%90%E8%90%A5%E6%96%B9%E6%B3%95)
