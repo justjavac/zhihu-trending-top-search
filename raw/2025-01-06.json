@@ -1,4 +1,6 @@
 [
+  { "query": "湖人vs火箭", "display_query": "湖人vs火箭" },
+  { "query": "利物浦vs曼联", "display_query": "利物浦vs曼联" },
   { "query": "地球自转的动力来自哪里", "display_query": "地球自转的动力来自哪里" },
   { "query": "为什么 rmvb 格式消失了", "display_query": "为什么 rmvb 格式消失了" },
   { "query": "短剧推广能否躺赚", "display_query": "短剧推广能否躺赚" },
@@ -9,7 +11,6 @@
   { "query": "电商小白入门运营", "display_query": "电商小白入门运营" },
   { "query": "年轻人低成本创业项目", "display_query": "年轻人低成本创业项目" },
   { "query": "2025做电商前景", "display_query": "2025做电商前景" },
-  { "query": "利物浦vs曼联", "display_query": "利物浦vs曼联" },
   { "query": "以军袭击加沙地带多地", "display_query": "以军袭击加沙地带多地" },
   { "query": "交警通报一道路立杆上摄像头密集", "display_query": "交警通报一道路立杆上摄像头密集" },
   { "query": "2025 台式净饮机推荐", "display_query": "2025 台式净饮机推荐" },
