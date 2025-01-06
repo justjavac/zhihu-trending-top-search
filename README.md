@@ -14,10 +14,13 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jan 06 2025 12:12:34 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jan 06 2025 13:10:18 GMT+0800 (China Standard Time) -->
 
 1. [多家银行上调存款利率](https://www.zhihu.com/search?q=%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E4%B8%8A%E8%B0%83%E5%AD%98%E6%AC%BE%E5%88%A9%E7%8E%87)
+1. [地球自转的动力来自哪里](https://www.zhihu.com/search?q=%E5%9C%B0%E7%90%83%E8%87%AA%E8%BD%AC%E7%9A%84%E5%8A%A8%E5%8A%9B%E6%9D%A5%E8%87%AA%E5%93%AA%E9%87%8C)
+1. [为什么 rmvb 格式消失了](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%20rmvb%20%E6%A0%BC%E5%BC%8F%E6%B6%88%E5%A4%B1%E4%BA%86)
 1. [短剧推广能否躺赚](https://www.zhihu.com/search?q=%E7%9F%AD%E5%89%A7%E6%8E%A8%E5%B9%BF%E8%83%BD%E5%90%A6%E8%BA%BA%E8%B5%9A)
+1. [一块吧唧被炒到 7 万多](https://www.zhihu.com/search?q=%E4%B8%80%E5%9D%97%E5%90%A7%E5%94%A7%E8%A2%AB%E7%82%92%E5%88%B0%207%20%E4%B8%87%E5%A4%9A)
 1. [以军袭击加沙地带多地](https://www.zhihu.com/search?q=%E4%BB%A5%E5%86%9B%E8%A2%AD%E5%87%BB%E5%8A%A0%E6%B2%99%E5%9C%B0%E5%B8%A6%E5%A4%9A%E5%9C%B0)
 1. [视频号赚钱可行性](https://www.zhihu.com/search?q=%E8%A7%86%E9%A2%91%E5%8F%B7%E8%B5%9A%E9%92%B1%E5%8F%AF%E8%A1%8C%E6%80%A7)
 1. [视频号运营全攻略](https://www.zhihu.com/search?q=%E8%A7%86%E9%A2%91%E5%8F%B7%E8%BF%90%E8%90%A5%E5%85%A8%E6%94%BB%E7%95%A5)
