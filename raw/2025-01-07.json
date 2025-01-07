@@ -1,5 +1,6 @@
 [
-  { "query": "湖人vs火箭", "display_query": "湖人vs火箭" },
+  { "query": "开拓者险胜雄鹿", "display_query": "开拓者险胜雄鹿" },
+  { "query": "低 GI 大米会越吃越饿吗", "display_query": "低 GI 大米会越吃越饿吗" },
   { "query": "利物浦vs曼联", "display_query": "利物浦vs曼联" },
   { "query": "地球自转的动力来自哪里", "display_query": "地球自转的动力来自哪里" },
   { "query": "为什么 rmvb 格式消失了", "display_query": "为什么 rmvb 格式消失了" },
@@ -8,5 +9,6 @@
   { "query": "视频号赚钱可行性", "display_query": "视频号赚钱可行性" },
   { "query": "视频号运营全攻略", "display_query": "视频号运营全攻略" },
   { "query": "小红书运营方法", "display_query": "小红书运营方法" },
+  { "query": "湖人vs火箭", "display_query": "湖人vs火箭" },
   { "query": "电商小白入门运营", "display_query": "电商小白入门运营" }
 ]
