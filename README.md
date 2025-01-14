@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jan 15 2025 04:10:24 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jan 15 2025 05:08:32 GMT+0800 (China Standard Time) -->
 
 1. [被时代淘汰的水果有哪些](https://www.zhihu.com/search?q=%E8%A2%AB%E6%97%B6%E4%BB%A3%E6%B7%98%E6%B1%B0%E7%9A%84%E6%B0%B4%E6%9E%9C%E6%9C%89%E5%93%AA%E4%BA%9B)
 1. [皇马vs巴萨](https://www.zhihu.com/search?q=%E7%9A%87%E9%A9%ACvs%E5%B7%B4%E8%90%A8)
