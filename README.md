@@ -14,8 +14,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jan 26 2025 11:12:03 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jan 26 2025 12:11:02 GMT+0800 (China Standard Time) -->
 
+1. [烂高中到底多差](https://www.zhihu.com/search?q=%E7%83%82%E9%AB%98%E4%B8%AD%E5%88%B0%E5%BA%95%E5%A4%9A%E5%B7%AE)
+1. [为什么很多家庭一到过年就吵架](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BE%88%E5%A4%9A%E5%AE%B6%E5%BA%AD%E4%B8%80%E5%88%B0%E8%BF%87%E5%B9%B4%E5%B0%B1%E5%90%B5%E6%9E%B6)
+1. [中国人玩阳谋到底有多牛](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%8E%A9%E9%98%B3%E8%B0%8B%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E7%89%9B)
 1. [今年首场寒潮来袭](https://www.zhihu.com/search?q=%E4%BB%8A%E5%B9%B4%E9%A6%96%E5%9C%BA%E5%AF%92%E6%BD%AE%E6%9D%A5%E8%A2%AD)
 1. [冲锋衣软壳和硬壳的区别](https://www.zhihu.com/search?q=%E5%86%B2%E9%94%8B%E8%A1%A3%E8%BD%AF%E5%A3%B3%E5%92%8C%E7%A1%AC%E5%A3%B3%E7%9A%84%E5%8C%BA%E5%88%AB)
 1. [百元和千元的冲锋衣区别在哪](https://www.zhihu.com/search?q=%E7%99%BE%E5%85%83%E5%92%8C%E5%8D%83%E5%85%83%E7%9A%84%E5%86%B2%E9%94%8B%E8%A1%A3%E5%8C%BA%E5%88%AB%E5%9C%A8%E5%93%AA)
