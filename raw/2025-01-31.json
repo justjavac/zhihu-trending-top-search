@@ -1,6 +1,5 @@
 [
   { "query": "为什么很多家庭一到过年就吵架", "display_query": "为什么很多家庭一到过年就吵架" },
-  { "query": "美联储宣布维持联邦基金利率不变", "display_query": "美联储宣布维持联邦基金利率不变" },
   { "query": "电商运营入门", "display_query": "电商运营入门" },
   { "query": "等固态电池出来再买车好吗", "display_query": "等固态电池出来再买车好吗" },
   { "query": "现在干什么能挣钱", "display_query": "现在干什么能挣钱" },
@@ -8,5 +7,7 @@
   { "query": "百元和千元的冲锋衣区别在哪", "display_query": "百元和千元的冲锋衣区别在哪" },
   { "query": "冲锋衣平价推荐", "display_query": "冲锋衣平价推荐" },
   { "query": "2025 冲锋衣推荐", "display_query": "2025 冲锋衣推荐" },
-  { "query": "在家用电压锅安全吗", "display_query": "在家用电压锅安全吗" }
+  { "query": "在家用电压锅安全吗", "display_query": "在家用电压锅安全吗" },
+  { "query": "电压锅和高压锅哪个好", "display_query": "电压锅和高压锅哪个好" },
+  { "query": "美联储宣布维持联邦基金利率不变", "display_query": "美联储宣布维持联邦基金利率不变" }
 ]
