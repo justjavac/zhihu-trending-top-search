@@ -14,8 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Feb 01 2025 17:09:57 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Feb 01 2025 18:09:14 GMT+0800 (China Standard Time) -->
 
+1. [勇士vs太阳](https://www.zhihu.com/search?q=%E5%8B%87%E5%A3%ABvs%E5%A4%AA%E9%98%B3)
 1. [为什么很多家庭一到过年就吵架](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BE%88%E5%A4%9A%E5%AE%B6%E5%BA%AD%E4%B8%80%E5%88%B0%E8%BF%87%E5%B9%B4%E5%B0%B1%E5%90%B5%E6%9E%B6)
 1. [电商运营入门](https://www.zhihu.com/search?q=%E7%94%B5%E5%95%86%E8%BF%90%E8%90%A5%E5%85%A5%E9%97%A8)
 1. [等固态电池出来再买车好吗](https://www.zhihu.com/search?q=%E7%AD%89%E5%9B%BA%E6%80%81%E7%94%B5%E6%B1%A0%E5%87%BA%E6%9D%A5%E5%86%8D%E4%B9%B0%E8%BD%A6%E5%A5%BD%E5%90%97)
