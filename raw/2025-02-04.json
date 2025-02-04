@@ -1,4 +1,5 @@
 [
+  { "query": "不想上班", "display_query": "不想上班" },
   { "query": "立春习俗", "display_query": "立春习俗" },
   { "query": "知乎新年活动", "display_query": "知乎新年活动" },
   { "query": "知乎蛇年活动", "display_query": "知乎蛇年活动" },
