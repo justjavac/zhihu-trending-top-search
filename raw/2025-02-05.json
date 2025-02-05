@@ -1,5 +1,7 @@
 [
   { "query": "不想上班", "display_query": "不想上班" },
+  { "query": "过年来知乎，蛇么都好玩", "display_query": "过年来知乎，蛇么都好玩" },
+  { "query": "「蛇拿九稳」有奖答题挑战", "display_query": "「蛇拿九稳」有奖答题挑战" },
   { "query": "知乎新年活动", "display_query": "知乎新年活动" },
   { "query": "知乎蛇年活动", "display_query": "知乎蛇年活动" },
   { "query": "知乎春节活动", "display_query": "知乎春节活动" },
