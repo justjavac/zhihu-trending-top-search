@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Feb 07 2025 06:09:23 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Feb 07 2025 07:11:09 GMT+0800 (China Standard Time) -->
 
 1. [为何马谡置之死地就真死了](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E9%A9%AC%E8%B0%A1%E7%BD%AE%E4%B9%8B%E6%AD%BB%E5%9C%B0%E5%B0%B1%E7%9C%9F%E6%AD%BB%E4%BA%86)
 1. [过年来知乎，蛇么都好玩](https://www.zhihu.com/search?q=%E8%BF%87%E5%B9%B4%E6%9D%A5%E7%9F%A5%E4%B9%8E%EF%BC%8C%E8%9B%87%E4%B9%88%E9%83%BD%E5%A5%BD%E7%8E%A9)
