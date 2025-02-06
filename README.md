@@ -14,9 +14,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Feb 06 2025 08:46:38 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Feb 06 2025 11:13:14 GMT+0800 (China Standard Time) -->
 
-1. [不想上班](https://www.zhihu.com/search?q=%E4%B8%8D%E6%83%B3%E4%B8%8A%E7%8F%AD)
 1. [节后上班第一天](https://www.zhihu.com/search?q=%E8%8A%82%E5%90%8E%E4%B8%8A%E7%8F%AD%E7%AC%AC%E4%B8%80%E5%A4%A9)
 1. [勇士力克魔术](https://www.zhihu.com/search?q=%E5%8B%87%E5%A3%AB%E5%8A%9B%E5%85%8B%E9%AD%94%E6%9C%AF)
 1. [春节档票房破60亿](https://www.zhihu.com/search?q=%E6%98%A5%E8%8A%82%E6%A1%A3%E7%A5%A8%E6%88%BF%E7%A0%B460%E4%BA%BF)
@@ -26,6 +25,8 @@
 1. [知乎新年活动](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E6%96%B0%E5%B9%B4%E6%B4%BB%E5%8A%A8)
 1. [知乎蛇年活动](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E8%9B%87%E5%B9%B4%E6%B4%BB%E5%8A%A8)
 1. [知乎春节活动](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E6%98%A5%E8%8A%82%E6%B4%BB%E5%8A%A8)
+1. [过年玩什么，好运贪吃蛇](https://www.zhihu.com/search?q=%E8%BF%87%E5%B9%B4%E7%8E%A9%E4%BB%80%E4%B9%88%EF%BC%8C%E5%A5%BD%E8%BF%90%E8%B4%AA%E5%90%83%E8%9B%87)
+1. [不想上班](https://www.zhihu.com/search?q=%E4%B8%8D%E6%83%B3%E4%B8%8A%E7%8F%AD)
 
 <!-- END -->
 
