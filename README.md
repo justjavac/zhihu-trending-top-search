@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Feb 13 2025 19:08:08 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Feb 13 2025 20:18:32 GMT+0800 (China Standard Time) -->
 
 1. [麦当劳涨价](https://www.zhihu.com/search?q=%E9%BA%A6%E5%BD%93%E5%8A%B3%E6%B6%A8%E4%BB%B7)
 1. [大学生兼职](https://www.zhihu.com/search?q=%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%85%BC%E8%81%8C)
