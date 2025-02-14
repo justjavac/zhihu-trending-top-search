@@ -1,5 +1,6 @@
 [
-  { "query": "给你一千万要求立刻辞职你愿意吗", "display_query": "给你一千万要求立刻辞职你愿意吗" },
+  { "query": "情人节", "display_query": "情人节" },
+  { "query": "大学生兼职", "display_query": "大学生兼职" },
   { "query": "央行称实施好适度宽松的货币政策", "display_query": "央行称实施好适度宽松的货币政策" },
   { "query": "独行侠战胜勇士", "display_query": "独行侠战胜勇士" },
   { "query": "有前妻是什么体验", "display_query": "有前妻是什么体验" },
@@ -8,8 +9,7 @@
   { "query": "知乎写作计划", "display_query": "知乎写作计划" },
   { "query": "大学生线上兼职", "display_query": "大学生线上兼职" },
   { "query": "赚钱副业推荐", "display_query": "赚钱副业推荐" },
+  { "query": "给你一千万要求立刻辞职你愿意吗", "display_query": "给你一千万要求立刻辞职你愿意吗" },
   { "query": "小说推文赚钱", "display_query": "小说推文赚钱" },
-  { "query": "情人节", "display_query": "情人节" },
-  { "query": "麦当劳涨价", "display_query": "麦当劳涨价" },
-  { "query": "大学生兼职", "display_query": "大学生兼职" }
+  { "query": "麦当劳涨价", "display_query": "麦当劳涨价" }
 ]
