@@ -1,5 +1,7 @@
 [
   { "query": "小说推文", "display_query": "小说推文" },
+  { "query": "nba全明星三分大赛", "display_query": "nba全明星三分大赛" },
+  { "query": "gen对战hle", "display_query": "gen对战hle" },
   { "query": "央行称实施好适度宽松的货币政策", "display_query": "央行称实施好适度宽松的货币政策" },
   { "query": "独行侠战胜勇士", "display_query": "独行侠战胜勇士" },
   { "query": "普通人赚钱路子", "display_query": "普通人赚钱路子" },
