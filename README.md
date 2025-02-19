@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Feb 19 2025 08:46:59 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Feb 19 2025 10:11:06 GMT+0800 (China Standard Time) -->
 
 1. [黄金价格大跳水](https://www.zhihu.com/search?q=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E5%A4%A7%E8%B7%B3%E6%B0%B4)
 1. [小说推文](https://www.zhihu.com/search?q=%E5%B0%8F%E8%AF%B4%E6%8E%A8%E6%96%87)
@@ -23,6 +23,7 @@
 1. [你最意外的一笔收入是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E6%9C%80%E6%84%8F%E5%A4%96%E7%9A%84%E4%B8%80%E7%AC%94%E6%94%B6%E5%85%A5%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [你最高光的时刻是什么时候](https://www.zhihu.com/search?q=%E4%BD%A0%E6%9C%80%E9%AB%98%E5%85%89%E7%9A%84%E6%97%B6%E5%88%BB%E6%98%AF%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99)
 1. [为什么说猫是液体的](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%AF%B4%E7%8C%AB%E6%98%AF%E6%B6%B2%E4%BD%93%E7%9A%84)
+1. [《守望先锋》国服回归](https://www.zhihu.com/search?q=%E3%80%8A%E5%AE%88%E6%9C%9B%E5%85%88%E9%94%8B%E3%80%8B%E5%9B%BD%E6%9C%8D%E5%9B%9E%E5%BD%92)
 1. [普通人赚钱路子](https://www.zhihu.com/search?q=%E6%99%AE%E9%80%9A%E4%BA%BA%E8%B5%9A%E9%92%B1%E8%B7%AF%E5%AD%90)
 1. [短剧推广躺赚](https://www.zhihu.com/search?q=%E7%9F%AD%E5%89%A7%E6%8E%A8%E5%B9%BF%E8%BA%BA%E8%B5%9A)
 1. [无货源开网店](https://www.zhihu.com/search?q=%E6%97%A0%E8%B4%A7%E6%BA%90%E5%BC%80%E7%BD%91%E5%BA%97)
