@@ -14,11 +14,12 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Feb 20 2025 11:15:00 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Feb 20 2025 12:12:11 GMT+0800 (China Standard Time) -->
 
 1. [小说推文](https://www.zhihu.com/search?q=%E5%B0%8F%E8%AF%B4%E6%8E%A8%E6%96%87)
 1. [你最意外的一笔收入是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E6%9C%80%E6%84%8F%E5%A4%96%E7%9A%84%E4%B8%80%E7%AC%94%E6%94%B6%E5%85%A5%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [你最高光的时刻是什么时候](https://www.zhihu.com/search?q=%E4%BD%A0%E6%9C%80%E9%AB%98%E5%85%89%E7%9A%84%E6%97%B6%E5%88%BB%E6%98%AF%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99)
+1. [为什么甲状腺激素一定要用碘来合成](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%94%B2%E7%8A%B6%E8%85%BA%E6%BF%80%E7%B4%A0%E4%B8%80%E5%AE%9A%E8%A6%81%E7%94%A8%E7%A2%98%E6%9D%A5%E5%90%88%E6%88%90)
 1. [为什么说猫是液体的](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%AF%B4%E7%8C%AB%E6%98%AF%E6%B6%B2%E4%BD%93%E7%9A%84)
 1. [《守望先锋》国服回归](https://www.zhihu.com/search?q=%E3%80%8A%E5%AE%88%E6%9C%9B%E5%85%88%E9%94%8B%E3%80%8B%E5%9B%BD%E6%9C%8D%E5%9B%9E%E5%BD%92)
 1. [短剧推广躺赚](https://www.zhihu.com/search?q=%E7%9F%AD%E5%89%A7%E6%8E%A8%E5%B9%BF%E8%BA%BA%E8%B5%9A)
