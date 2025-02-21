@@ -14,10 +14,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Feb 21 2025 13:10:06 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Feb 21 2025 14:13:51 GMT+0800 (China Standard Time) -->
 
 1. [今晚油价下调](https://www.zhihu.com/search?q=%E4%BB%8A%E6%99%9A%E6%B2%B9%E4%BB%B7%E4%B8%8B%E8%B0%83)
 1. [为什么甲状腺激素一定要用碘来合成](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%94%B2%E7%8A%B6%E8%85%BA%E6%BF%80%E7%B4%A0%E4%B8%80%E5%AE%9A%E8%A6%81%E7%94%A8%E7%A2%98%E6%9D%A5%E5%90%88%E6%88%90)
+1. [现货黄金再创新高](https://www.zhihu.com/search?q=%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E5%86%8D%E5%88%9B%E6%96%B0%E9%AB%98)
 1. [为什么全网都在黑土木工程](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%85%A8%E7%BD%91%E9%83%BD%E5%9C%A8%E9%BB%91%E5%9C%9F%E6%9C%A8%E5%B7%A5%E7%A8%8B)
 1. [《蛟龙行动》宣布撤档](https://www.zhihu.com/search?q=%E3%80%8A%E8%9B%9F%E9%BE%99%E8%A1%8C%E5%8A%A8%E3%80%8B%E5%AE%A3%E5%B8%83%E6%92%A4%E6%A1%A3)
 1. [王健林 7702 万股权被冻结](https://www.zhihu.com/search?q=%E7%8E%8B%E5%81%A5%E6%9E%97%207702%20%E4%B8%87%E8%82%A1%E6%9D%83%E8%A2%AB%E5%86%BB%E7%BB%93)
