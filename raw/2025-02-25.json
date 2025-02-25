@@ -1,5 +1,7 @@
 [
+  { "query": "考研国家线", "display_query": "考研国家线" },
   { "query": "为什么全网都在黑土木工程", "display_query": "为什么全网都在黑土木工程" },
+  { "query": "为什么光一产生就可以达到光速", "display_query": "为什么光一产生就可以达到光速" },
   { "query": "为什么复活哪吒要用藕", "display_query": "为什么复活哪吒要用藕" },
   { "query": "百度搜索接入DeepSeek", "display_query": "百度搜索接入DeepSeek" },
   { "query": "难哄 开播", "display_query": "难哄 开播" },
