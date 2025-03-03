@@ -14,18 +14,19 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Mar 03 2025 10:16:58 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Mar 03 2025 12:13:18 GMT+0800 (China Standard Time) -->
 
 1. [多家银行下调存款利率](https://www.zhihu.com/search?q=%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E4%B8%8B%E8%B0%83%E5%AD%98%E6%AC%BE%E5%88%A9%E7%8E%87)
 1. [湖人vs独行侠](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BAvs%E7%8B%AC%E8%A1%8C%E4%BE%A0)
 1. [沪深两市成交额突破5000亿](https://www.zhihu.com/search?q=%E6%B2%AA%E6%B7%B1%E4%B8%A4%E5%B8%82%E6%88%90%E4%BA%A4%E9%A2%9D%E7%AA%81%E7%A0%B45000%E4%BA%BF)
+1. [工业克苏鲁什么意思](https://www.zhihu.com/search?q=%E5%B7%A5%E4%B8%9A%E5%85%8B%E8%8B%8F%E9%B2%81%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D)
 1. [小米su7ultra](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3su7ultra)
 1. [魔术vs勇士](https://www.zhihu.com/search?q=%E9%AD%94%E6%9C%AFvs%E5%8B%87%E5%A3%AB)
-1. [澳军称 055 在悉尼外海实弹开火](https://www.zhihu.com/search?q=%E6%BE%B3%E5%86%9B%E7%A7%B0%20055%20%E5%9C%A8%E6%82%89%E5%B0%BC%E5%A4%96%E6%B5%B7%E5%AE%9E%E5%BC%B9%E5%BC%80%E7%81%AB)
 1. [爱你开播](https://www.zhihu.com/search?q=%E7%88%B1%E4%BD%A0%E5%BC%80%E6%92%AD)
 1. [百度21亿美元收购yy直播](https://www.zhihu.com/search?q=%E7%99%BE%E5%BA%A621%E4%BA%BF%E7%BE%8E%E5%85%83%E6%94%B6%E8%B4%ADyy%E7%9B%B4%E6%92%AD)
 1. [吉祥航空回应发放过期坚果](https://www.zhihu.com/search?q=%E5%90%89%E7%A5%A5%E8%88%AA%E7%A9%BA%E5%9B%9E%E5%BA%94%E5%8F%91%E6%94%BE%E8%BF%87%E6%9C%9F%E5%9D%9A%E6%9E%9C)
 1. [deepseek据悉力求提前发布其r2模型](https://www.zhihu.com/search?q=deepseek%E6%8D%AE%E6%82%89%E5%8A%9B%E6%B1%82%E6%8F%90%E5%89%8D%E5%8F%91%E5%B8%83%E5%85%B6r2%E6%A8%A1%E5%9E%8B)
+1. [澳军称 055 在悉尼外海实弹开火](https://www.zhihu.com/search?q=%E6%BE%B3%E5%86%9B%E7%A7%B0%20055%20%E5%9C%A8%E6%82%89%E5%B0%BC%E5%A4%96%E6%B5%B7%E5%AE%9E%E5%BC%B9%E5%BC%80%E7%81%AB)
 1. [退税](https://www.zhihu.com/search?q=%E9%80%80%E7%A8%8E)
 1. [新闻学专业 70% 学生在做自媒体](https://www.zhihu.com/search?q=%E6%96%B0%E9%97%BB%E5%AD%A6%E4%B8%93%E4%B8%9A%2070%25%20%E5%AD%A6%E7%94%9F%E5%9C%A8%E5%81%9A%E8%87%AA%E5%AA%92%E4%BD%93)
 
