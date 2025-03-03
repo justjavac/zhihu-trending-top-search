@@ -14,18 +14,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Mar 03 2025 15:10:52 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Mar 03 2025 16:14:24 GMT+0800 (China Standard Time) -->
 
-1. [多家银行下调存款利率](https://www.zhihu.com/search?q=%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E4%B8%8B%E8%B0%83%E5%AD%98%E6%AC%BE%E5%88%A9%E7%8E%87)
-1. [沪深两市成交额突破5000亿](https://www.zhihu.com/search?q=%E6%B2%AA%E6%B7%B1%E4%B8%A4%E5%B8%82%E6%88%90%E4%BA%A4%E9%A2%9D%E7%AA%81%E7%A0%B45000%E4%BA%BF)
+1. [金价下跌](https://www.zhihu.com/search?q=%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C)
 1. [工业克苏鲁什么意思](https://www.zhihu.com/search?q=%E5%B7%A5%E4%B8%9A%E5%85%8B%E8%8B%8F%E9%B2%81%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D)
-1. [魔术vs勇士](https://www.zhihu.com/search?q=%E9%AD%94%E6%9C%AFvs%E5%8B%87%E5%A3%AB)
 1. [湖人vs快船](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BAvs%E5%BF%AB%E8%88%B9)
 1. [中学让学生轮流打扫全校称为劳动教育](https://www.zhihu.com/search?q=%E4%B8%AD%E5%AD%A6%E8%AE%A9%E5%AD%A6%E7%94%9F%E8%BD%AE%E6%B5%81%E6%89%93%E6%89%AB%E5%85%A8%E6%A0%A1%E7%A7%B0%E4%B8%BA%E5%8A%B3%E5%8A%A8%E6%95%99%E8%82%B2)
 1. [东莞发现明代南海卫城墙遗址](https://www.zhihu.com/search?q=%E4%B8%9C%E8%8E%9E%E5%8F%91%E7%8E%B0%E6%98%8E%E4%BB%A3%E5%8D%97%E6%B5%B7%E5%8D%AB%E5%9F%8E%E5%A2%99%E9%81%97%E5%9D%80)
-1. [苏丹军用飞机坠毁事件](https://www.zhihu.com/search?q=%E8%8B%8F%E4%B8%B9%E5%86%9B%E7%94%A8%E9%A3%9E%E6%9C%BA%E5%9D%A0%E6%AF%81%E4%BA%8B%E4%BB%B6)
 1. [Fendi 把中国结称为韩国结](https://www.zhihu.com/search?q=Fendi%20%E6%8A%8A%E4%B8%AD%E5%9B%BD%E7%BB%93%E7%A7%B0%E4%B8%BA%E9%9F%A9%E5%9B%BD%E7%BB%93)
 1. [深圳一在售楼盘现假地铁站牌](https://www.zhihu.com/search?q=%E6%B7%B1%E5%9C%B3%E4%B8%80%E5%9C%A8%E5%94%AE%E6%A5%BC%E7%9B%98%E7%8E%B0%E5%81%87%E5%9C%B0%E9%93%81%E7%AB%99%E7%89%8C)
+1. [老师带儿子闯教室殴打学生](https://www.zhihu.com/search?q=%E8%80%81%E5%B8%88%E5%B8%A6%E5%84%BF%E5%AD%90%E9%97%AF%E6%95%99%E5%AE%A4%E6%AE%B4%E6%89%93%E5%AD%A6%E7%94%9F)
+1. [日本米价暴涨90%引发民众愤怒](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E7%B1%B3%E4%BB%B7%E6%9A%B4%E6%B6%A890%25%E5%BC%95%E5%8F%91%E6%B0%91%E4%BC%97%E6%84%A4%E6%80%92)
+1. [小米 SU7 Ultra 定价 52.99 万元](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%20SU7%20Ultra%20%E5%AE%9A%E4%BB%B7%2052.99%20%E4%B8%87%E5%85%83)
+1. [多家银行下调存款利率](https://www.zhihu.com/search?q=%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E4%B8%8B%E8%B0%83%E5%AD%98%E6%AC%BE%E5%88%A9%E7%8E%87)
+1. [沪深两市成交额突破5000亿](https://www.zhihu.com/search?q=%E6%B2%AA%E6%B7%B1%E4%B8%A4%E5%B8%82%E6%88%90%E4%BA%A4%E9%A2%9D%E7%AA%81%E7%A0%B45000%E4%BA%BF)
+1. [魔术vs勇士](https://www.zhihu.com/search?q=%E9%AD%94%E6%9C%AFvs%E5%8B%87%E5%A3%AB)
+1. [苏丹军用飞机坠毁事件](https://www.zhihu.com/search?q=%E8%8B%8F%E4%B8%B9%E5%86%9B%E7%94%A8%E9%A3%9E%E6%9C%BA%E5%9D%A0%E6%AF%81%E4%BA%8B%E4%BB%B6)
 1. [奇瑞汽车向港交所提交上市申请书](https://www.zhihu.com/search?q=%E5%A5%87%E7%91%9E%E6%B1%BD%E8%BD%A6%E5%90%91%E6%B8%AF%E4%BA%A4%E6%89%80%E6%8F%90%E4%BA%A4%E4%B8%8A%E5%B8%82%E7%94%B3%E8%AF%B7%E4%B9%A6)
 1. [小米su7ultra](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3su7ultra)
 1. [爱你开播](https://www.zhihu.com/search?q=%E7%88%B1%E4%BD%A0%E5%BC%80%E6%92%AD)
