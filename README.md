@@ -14,11 +14,12 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Mar 04 2025 14:14:19 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Mar 04 2025 15:10:45 GMT+0800 (China Standard Time) -->
 
 1. [快船vs湖人](https://www.zhihu.com/search?q=%E5%BF%AB%E8%88%B9vs%E6%B9%96%E4%BA%BA)
 1. [金价下跌](https://www.zhihu.com/search?q=%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C)
 1. [工业克苏鲁什么意思](https://www.zhihu.com/search?q=%E5%B7%A5%E4%B8%9A%E5%85%8B%E8%8B%8F%E9%B2%81%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D)
+1. [美国多州报告李斯特菌感染病例](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E5%A4%9A%E5%B7%9E%E6%8A%A5%E5%91%8A%E6%9D%8E%E6%96%AF%E7%89%B9%E8%8F%8C%E6%84%9F%E6%9F%93%E7%97%85%E4%BE%8B)
 1. [美国 450 万美元研究给醉酒老鼠喷山猫尿液](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%20450%20%E4%B8%87%E7%BE%8E%E5%85%83%E7%A0%94%E7%A9%B6%E7%BB%99%E9%86%89%E9%85%92%E8%80%81%E9%BC%A0%E5%96%B7%E5%B1%B1%E7%8C%AB%E5%B0%BF%E6%B6%B2)
 1. [小米 SU7 Ultra 大定破 1W 台](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%20SU7%20Ultra%20%E5%A4%A7%E5%AE%9A%E7%A0%B4%201W%20%E5%8F%B0)
 1. [猫猫的奇幻漂流上映](https://www.zhihu.com/search?q=%E7%8C%AB%E7%8C%AB%E7%9A%84%E5%A5%87%E5%B9%BB%E6%BC%82%E6%B5%81%E4%B8%8A%E6%98%A0)
