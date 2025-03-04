@@ -14,9 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Mar 04 2025 18:11:12 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Mar 04 2025 19:08:36 GMT+0800 (China Standard Time) -->
 
 1. [快船vs湖人](https://www.zhihu.com/search?q=%E5%BF%AB%E8%88%B9vs%E6%B9%96%E4%BA%BA)
+1. [皇马vs马竞](https://www.zhihu.com/search?q=%E7%9A%87%E9%A9%ACvs%E9%A9%AC%E7%AB%9E)
 1. [为什么检查上级都会提前通知](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%A3%80%E6%9F%A5%E4%B8%8A%E7%BA%A7%E9%83%BD%E4%BC%9A%E6%8F%90%E5%89%8D%E9%80%9A%E7%9F%A5)
 1. [工业克苏鲁什么意思](https://www.zhihu.com/search?q=%E5%B7%A5%E4%B8%9A%E5%85%8B%E8%8B%8F%E9%B2%81%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D)
 1. [美国多州报告李斯特菌感染病例](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E5%A4%9A%E5%B7%9E%E6%8A%A5%E5%91%8A%E6%9D%8E%E6%96%AF%E7%89%B9%E8%8F%8C%E6%84%9F%E6%9F%93%E7%97%85%E4%BE%8B)
