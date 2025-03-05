@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Mar 05 2025 17:10:51 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Mar 05 2025 18:11:03 GMT+0800 (China Standard Time) -->
 
 1. [快船vs湖人](https://www.zhihu.com/search?q=%E5%BF%AB%E8%88%B9vs%E6%B9%96%E4%BA%BA)
 1. [皇马vs马竞](https://www.zhihu.com/search?q=%E7%9A%87%E9%A9%ACvs%E9%A9%AC%E7%AB%9E)
@@ -24,9 +24,10 @@
 1. [你见过最震惊三观事情是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E8%A7%81%E8%BF%87%E6%9C%80%E9%9C%87%E6%83%8A%E4%B8%89%E8%A7%82%E4%BA%8B%E6%83%85%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [小米 SU7 Ultra 定价 52.99 万元](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%20SU7%20Ultra%20%E5%AE%9A%E4%BB%B7%2052.99%20%E4%B8%87%E5%85%83)
 1. [猫猫的奇幻漂流上映](https://www.zhihu.com/search?q=%E7%8C%AB%E7%8C%AB%E7%9A%84%E5%A5%87%E5%B9%BB%E6%BC%82%E6%B5%81%E4%B8%8A%E6%98%A0)
+1. [中国足协发布球员自荐系统](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E8%B6%B3%E5%8D%8F%E5%8F%91%E5%B8%83%E7%90%83%E5%91%98%E8%87%AA%E8%8D%90%E7%B3%BB%E7%BB%9F)
+1. [1.88元考试神器已售100万件](https://www.zhihu.com/search?q=%201.88%E5%85%83%E8%80%83%E8%AF%95%E7%A5%9E%E5%99%A8%E5%B7%B2%E5%94%AE100%E4%B8%87%E4%BB%B6)
 1. [歌手方大同去世](https://www.zhihu.com/search?q=%E6%AD%8C%E6%89%8B%E6%96%B9%E5%A4%A7%E5%90%8C%E5%8E%BB%E4%B8%96)
 1. [方大同](https://www.zhihu.com/search?q=%E6%96%B9%E5%A4%A7%E5%90%8C)
-1. [中国足协发布球员自荐系统](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E8%B6%B3%E5%8D%8F%E5%8F%91%E5%B8%83%E7%90%83%E5%91%98%E8%87%AA%E8%8D%90%E7%B3%BB%E7%BB%9F)
 1. [美国多州报告李斯特菌感染病例](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E5%A4%9A%E5%B7%9E%E6%8A%A5%E5%91%8A%E6%9D%8E%E6%96%AF%E7%89%B9%E8%8F%8C%E6%84%9F%E6%9F%93%E7%97%85%E4%BE%8B)
 1. [雪天出行8个提醒](https://www.zhihu.com/search?q=%E9%9B%AA%E5%A4%A9%E5%87%BA%E8%A1%8C8%E4%B8%AA%E6%8F%90%E9%86%92)
 1. [x⁷=1的根式解都是什么](https://www.zhihu.com/search?q=x%E2%81%B7%3D1%E7%9A%84%E6%A0%B9%E5%BC%8F%E8%A7%A3%E9%83%BD%E6%98%AF%E4%BB%80%E4%B9%88)
