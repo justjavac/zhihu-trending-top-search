@@ -1,7 +1,6 @@
 [
   { "query": "你捡过最大的漏是什么", "display_query": "你捡过最大的漏是什么" },
   { "query": "男人有胡子和没胡子颜值差距有多大", "display_query": "男人有胡子和没胡子颜值差距有多大" },
-  { "query": "海底捞", "display_query": "海底捞" },
   { "query": "上海申花vs川崎前锋", "display_query": "上海申花vs川崎前锋" },
   { "query": "反直觉的地理知识有哪些", "display_query": "反直觉的地理知识有哪些" },
   { "query": "猫猫的奇幻漂流上映", "display_query": "猫猫的奇幻漂流上映" },
@@ -10,6 +9,7 @@
   { "query": "DeepSeek 公布模型推理成本利润细节", "display_query": "DeepSeek 公布模型推理成本利润细节" },
   { "query": "蒋胜男建议删除离婚冷静期条款", "display_query": "蒋胜男建议删除离婚冷静期条款" },
   { "query": "为什么日本出不了 DeepSeek", "display_query": "为什么日本出不了 DeepSeek" },
+  { "query": "海底捞", "display_query": "海底捞" },
   { "query": "法拉利失去中国市场", "display_query": "法拉利失去中国市场" },
   { "query": "星舰第八次试飞", "display_query": "星舰第八次试飞" },
   { "query": "RTX 5070Ti 显卡国行售价 6299 起", "display_query": "RTX 5070Ti 显卡国行售价 6299 起" },
