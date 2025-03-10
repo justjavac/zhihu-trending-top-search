@@ -1,5 +1,4 @@
 [
-  { "query": "妇女节", "display_query": "妇女节" },
   { "query": "男人有胡子和没胡子颜值差距有多大", "display_query": "男人有胡子和没胡子颜值差距有多大" },
   { "query": "上海申花vs川崎前锋", "display_query": "上海申花vs川崎前锋" },
   { "query": "反直觉的地理知识有哪些", "display_query": "反直觉的地理知识有哪些" },
@@ -8,5 +7,7 @@
   { "query": "韩国迎来双胞胎时代", "display_query": "韩国迎来双胞胎时代" },
   { "query": "金融监管总局将研究提高消费贷款额度", "display_query": "金融监管总局将研究提高消费贷款额度" },
   { "query": "欧文遭遇左膝前交叉韧带撕裂", "display_query": "欧文遭遇左膝前交叉韧带撕裂" },
-  { "query": "短剧顶流何健麒被定为劣迹演员", "display_query": "短剧顶流何健麒被定为劣迹演员" }
+  { "query": "短剧顶流何健麒被定为劣迹演员", "display_query": "短剧顶流何健麒被定为劣迹演员" },
+  { "query": "京东宣布今年将招聘1万名实习生", "display_query": "京东宣布今年将招聘1万名实习生" },
+  { "query": "妇女节", "display_query": "妇女节" }
 ]
