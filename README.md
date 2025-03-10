@@ -14,11 +14,14 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Mar 10 2025 11:10:29 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Mar 10 2025 12:10:28 GMT+0800 (China Standard Time) -->
 
 1. [男人有胡子和没胡子颜值差距有多大](https://www.zhihu.com/search?q=%E7%94%B7%E4%BA%BA%E6%9C%89%E8%83%A1%E5%AD%90%E5%92%8C%E6%B2%A1%E8%83%A1%E5%AD%90%E9%A2%9C%E5%80%BC%E5%B7%AE%E8%B7%9D%E6%9C%89%E5%A4%9A%E5%A4%A7)
 1. [上海申花vs川崎前锋](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E7%94%B3%E8%8A%B1vs%E5%B7%9D%E5%B4%8E%E5%89%8D%E9%94%8B)
+1. [为什么金子是金色](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E9%87%91%E5%AD%90%E6%98%AF%E9%87%91%E8%89%B2)
 1. [反直觉的地理知识有哪些](https://www.zhihu.com/search?q=%E5%8F%8D%E7%9B%B4%E8%A7%89%E7%9A%84%E5%9C%B0%E7%90%86%E7%9F%A5%E8%AF%86%E6%9C%89%E5%93%AA%E4%BA%9B)
+1. [给你一千万要求立刻辞职你愿意吗](https://www.zhihu.com/search?q=%E7%BB%99%E4%BD%A0%E4%B8%80%E5%8D%83%E4%B8%87%E8%A6%81%E6%B1%82%E7%AB%8B%E5%88%BB%E8%BE%9E%E8%81%8C%E4%BD%A0%E6%84%BF%E6%84%8F%E5%90%97)
+1. [为何 AI 火之后人们想到的是大量裁员](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%20AI%20%E7%81%AB%E4%B9%8B%E5%90%8E%E4%BA%BA%E4%BB%AC%E6%83%B3%E5%88%B0%E7%9A%84%E6%98%AF%E5%A4%A7%E9%87%8F%E8%A3%81%E5%91%98)
 1. [美国暂停对乌克兰军事援助](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E6%9A%82%E5%81%9C%E5%AF%B9%E4%B9%8C%E5%85%8B%E5%85%B0%E5%86%9B%E4%BA%8B%E6%8F%B4%E5%8A%A9)
 1. [逐步推行免费学前教育](https://www.zhihu.com/search?q=%E9%80%90%E6%AD%A5%E6%8E%A8%E8%A1%8C%E5%85%8D%E8%B4%B9%E5%AD%A6%E5%89%8D%E6%95%99%E8%82%B2)
 1. [韩国迎来双胞胎时代](https://www.zhihu.com/search?q=%E9%9F%A9%E5%9B%BD%E8%BF%8E%E6%9D%A5%E5%8F%8C%E8%83%9E%E8%83%8E%E6%97%B6%E4%BB%A3)
