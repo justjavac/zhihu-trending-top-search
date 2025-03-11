@@ -1,4 +1,5 @@
 [
+  { "query": "教资", "display_query": "教资" },
   { "query": "世界上有多少个和弦", "display_query": "世界上有多少个和弦" },
   { "query": "上海申花vs川崎前锋", "display_query": "上海申花vs川崎前锋" },
   { "query": "为什么金子是金色", "display_query": "为什么金子是金色" },
