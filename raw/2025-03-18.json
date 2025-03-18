@@ -1,5 +1,6 @@
 [
-  { "query": "林诗栋晋级四强", "display_query": "林诗栋晋级四强" },
+  { "query": "多家三甲医院医生开处方指定院外药店购买", "display_query": "多家三甲医院医生开处方指定院外药店购买" },
+  { "query": "借贷宝总部大门已被贴封条", "display_query": "借贷宝总部大门已被贴封条" },
   { "query": "社会消费品零售总额增长", "display_query": "社会消费品零售总额增长" },
   { "query": "孙颖莎vs陈幸同", "display_query": "孙颖莎vs陈幸同" },
   { "query": "金融监管总局将研究提高消费贷款额度", "display_query": "金融监管总局将研究提高消费贷款额度" },
@@ -8,5 +9,6 @@
   { "query": "勇士114:102尼克斯", "display_query": "勇士114:102尼克斯" },
   { "query": "马克龙拒签俄乌停火协议", "display_query": "马克龙拒签俄乌停火协议" },
   { "query": "日本工会要求最高加薪", "display_query": "日本工会要求最高加薪" },
+  { "query": "林诗栋晋级四强", "display_query": "林诗栋晋级四强" },
   { "query": "我国油气勘探获重大突破", "display_query": "我国油气勘探获重大突破" }
 ]
