@@ -1,7 +1,9 @@
 [
   { "query": "北京大风", "display_query": "北京大风" },
   { "query": "金价还会涨吗", "display_query": "金价还会涨吗" },
+  { "query": "今日辟谣", "display_query": "今日辟谣" },
   { "query": "以前的铁道部算是一个超级大部门吗", "display_query": "以前的铁道部算是一个超级大部门吗" },
+  { "query": "你见过哪些令人尴尬的名字", "display_query": "你见过哪些令人尴尬的名字" },
   { "query": "国际乒联公布徐克与女运动员聊天记录", "display_query": "国际乒联公布徐克与女运动员聊天记录" },
   { "query": "我国成功发射通信技术试验卫星十五号", "display_query": "我国成功发射通信技术试验卫星十五号" },
   { "query": "零跑B10预售", "display_query": "零跑B10预售" },
