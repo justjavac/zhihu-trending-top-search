@@ -14,11 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Apr 06 2025 15:09:19 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Apr 06 2025 21:17:11 GMT+0800 (China Standard Time) -->
 
-1. [世界孤独症日](https://www.zhihu.com/search?q=%E4%B8%96%E7%95%8C%E5%AD%A4%E7%8B%AC%E7%97%87%E6%97%A5)
-1. [AI 时代下的家电智能化](https://www.zhihu.com/search?q=AI%C2%A0%E6%97%B6%E4%BB%A3%E4%B8%8B%E7%9A%84%E5%AE%B6%E7%94%B5%E6%99%BA%E8%83%BD%E5%8C%96)
-1. [家电行业的「科技平权」](https://www.zhihu.com/search?q=%E5%AE%B6%E7%94%B5%E8%A1%8C%E4%B8%9A%E7%9A%84%E3%80%8C%E7%A7%91%E6%8A%80%E5%B9%B3%E6%9D%83%E3%80%8D)
+1. [金饰价格一夜大跌 22 元](https://www.zhihu.com/search?q=%E9%87%91%E9%A5%B0%E4%BB%B7%E6%A0%BC%E4%B8%80%E5%A4%9C%E5%A4%A7%E8%B7%8C%2022%20%E5%85%83%20)
+1. [公孙离fmvp皮肤](https://www.zhihu.com/search?q=%E5%85%AC%E5%AD%99%E7%A6%BBfmvp%E7%9A%AE%E8%82%A4)
 1. [AWE 未来生活家](https://www.zhihu.com/search?q=AWE%C2%A0%E6%9C%AA%E6%9D%A5%E7%94%9F%E6%B4%BB%E5%AE%B6)
 1. [卷出新高度的 AI 家电](https://www.zhihu.com/search?q=%E5%8D%B7%E5%87%BA%E6%96%B0%E9%AB%98%E5%BA%A6%E7%9A%84%20AI%C2%A0%E5%AE%B6%E7%94%B5)
 1. [看见未来家](https://www.zhihu.com/search?q=%E7%9C%8B%E8%A7%81%E6%9C%AA%E6%9D%A5%E5%AE%B6)
@@ -26,6 +25,10 @@
 1. [扑面而来的家电科技](https://www.zhihu.com/search?q=%E6%89%91%E9%9D%A2%E8%80%8C%E6%9D%A5%E7%9A%84%E5%AE%B6%E7%94%B5%E7%A7%91%E6%8A%80)
 1. [「甲亢哥」中国行直播](https://www.zhihu.com/search?q=%E3%80%8C%E7%94%B2%E4%BA%A2%E5%93%A5%E3%80%8D%E4%B8%AD%E5%9B%BD%E8%A1%8C%E7%9B%B4%E6%92%AD)
 1. [甲亢哥中国行](https://www.zhihu.com/search?q=%E7%94%B2%E4%BA%A2%E5%93%A5%E4%B8%AD%E5%9B%BD%E8%A1%8C)
+1. [湖北为脑机接口医疗服务定价](https://www.zhihu.com/search?q=%E6%B9%96%E5%8C%97%E4%B8%BA%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3%E5%8C%BB%E7%96%97%E6%9C%8D%E5%8A%A1%E5%AE%9A%E4%BB%B7)
+1. [世界孤独症日](https://www.zhihu.com/search?q=%E4%B8%96%E7%95%8C%E5%AD%A4%E7%8B%AC%E7%97%87%E6%97%A5)
+1. [AI 时代下的家电智能化](https://www.zhihu.com/search?q=AI%C2%A0%E6%97%B6%E4%BB%A3%E4%B8%8B%E7%9A%84%E5%AE%B6%E7%94%B5%E6%99%BA%E8%83%BD%E5%8C%96)
+1. [家电行业的「科技平权」](https://www.zhihu.com/search?q=%E5%AE%B6%E7%94%B5%E8%A1%8C%E4%B8%9A%E7%9A%84%E3%80%8C%E7%A7%91%E6%8A%80%E5%B9%B3%E6%9D%83%E3%80%8D)
 
 <!-- END -->
 
