@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Apr 24 2025 03:08:00 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Apr 24 2025 10:24:51 GMT+0800 (China Standard Time) -->
 
 1. [金价下跌](https://www.zhihu.com/search?q=%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C)
 1. [樊振东还能回来吗](https://www.zhihu.com/search?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E8%BF%98%E8%83%BD%E5%9B%9E%E6%9D%A5%E5%90%97)
@@ -23,6 +23,7 @@
 1. [雷霆战胜灰熊](https://www.zhihu.com/search?q=%E9%9B%B7%E9%9C%86%E6%88%98%E8%83%9C%E7%81%B0%E7%86%8A)
 1. [什么台词让你记住了一整部游戏](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E5%8F%B0%E8%AF%8D%E8%AE%A9%E4%BD%A0%E8%AE%B0%E4%BD%8F%E4%BA%86%E4%B8%80%E6%95%B4%E9%83%A8%E6%B8%B8%E6%88%8F)
 1. [16岁奥数天才坠楼去世](https://www.zhihu.com/search?q=16%E5%B2%81%E5%A5%A5%E6%95%B0%E5%A4%A9%E6%89%8D%E5%9D%A0%E6%A5%BC%E5%8E%BB%E4%B8%96)
+1. [超 6 成应届毕业生遇到过就业歧视](https://www.zhihu.com/search?q=%E8%B6%85%206%20%E6%88%90%E5%BA%94%E5%B1%8A%E6%AF%95%E4%B8%9A%E7%94%9F%E9%81%87%E5%88%B0%E8%BF%87%E5%B0%B1%E4%B8%9A%E6%AD%A7%E8%A7%86)
 1. [爱马仕宣布在美国全线涨价](https://www.zhihu.com/search?q=%E7%88%B1%E9%A9%AC%E4%BB%95%E5%AE%A3%E5%B8%83%E5%9C%A8%E7%BE%8E%E5%9B%BD%E5%85%A8%E7%BA%BF%E6%B6%A8%E4%BB%B7)
 1. [中国被曝已不再生产出口美国的玩具](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E8%A2%AB%E6%9B%9D%E5%B7%B2%E4%B8%8D%E5%86%8D%E7%94%9F%E4%BA%A7%E5%87%BA%E5%8F%A3%E7%BE%8E%E5%9B%BD%E7%9A%84%E7%8E%A9%E5%85%B7)
 1. [北理工通报教师宫某涉嫌师德失范](https://www.zhihu.com/search?q=%E5%8C%97%E7%90%86%E5%B7%A5%E9%80%9A%E6%8A%A5%E6%95%99%E5%B8%88%E5%AE%AB%E6%9F%90%E6%B6%89%E5%AB%8C%E5%B8%88%E5%BE%B7%E5%A4%B1%E8%8C%83)
