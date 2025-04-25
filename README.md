@@ -14,18 +14,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Apr 25 2025 13:11:08 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Apr 25 2025 17:11:42 GMT+0800 (China Standard Time) -->
 
+1. [今日辟谣](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5%E8%BE%9F%E8%B0%A3)
+1. [你捡过最大的漏是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E6%8D%A1%E8%BF%87%E6%9C%80%E5%A4%A7%E7%9A%84%E6%BC%8F%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [金价下跌](https://www.zhihu.com/search?q=%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C)
-1. [世界读书日](https://www.zhihu.com/search?q=%E4%B8%96%E7%95%8C%E8%AF%BB%E4%B9%A6%E6%97%A5)
 1. [樊振东还能回来吗](https://www.zhihu.com/search?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E8%BF%98%E8%83%BD%E5%9B%9E%E6%9D%A5%E5%90%97)
-1. [活塞险胜尼克斯](https://www.zhihu.com/search?q=%E6%B4%BB%E5%A1%9E%E9%99%A9%E8%83%9C%E5%B0%BC%E5%85%8B%E6%96%AF)
-1. [刘国梁](https://www.zhihu.com/search?q=%E5%88%98%E5%9B%BD%E6%A2%81)
 1. [雷霆战胜灰熊](https://www.zhihu.com/search?q=%E9%9B%B7%E9%9C%86%E6%88%98%E8%83%9C%E7%81%B0%E7%86%8A)
 1. [什么台词让你记住了一整部游戏](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E5%8F%B0%E8%AF%8D%E8%AE%A9%E4%BD%A0%E8%AE%B0%E4%BD%8F%E4%BA%86%E4%B8%80%E6%95%B4%E9%83%A8%E6%B8%B8%E6%88%8F)
+1. [卤鹅哥成立食品科技公司](https://www.zhihu.com/search?q=%E5%8D%A4%E9%B9%85%E5%93%A5%E6%88%90%E7%AB%8B%E9%A3%9F%E5%93%81%E7%A7%91%E6%8A%80%E5%85%AC%E5%8F%B8)
 1. [中国被曝已不再生产出口美国的玩具](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E8%A2%AB%E6%9B%9D%E5%B7%B2%E4%B8%8D%E5%86%8D%E7%94%9F%E4%BA%A7%E5%87%BA%E5%8F%A3%E7%BE%8E%E5%9B%BD%E7%9A%84%E7%8E%A9%E5%85%B7)
-1. [森林狼大胜湖人](https://www.zhihu.com/search?q=%E6%A3%AE%E6%9E%97%E7%8B%BC%E5%A4%A7%E8%83%9C%E6%B9%96%E4%BA%BA)
+1. [为什么中国现在敢和美国硬刚了](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%AD%E5%9B%BD%E7%8E%B0%E5%9C%A8%E6%95%A2%E5%92%8C%E7%BE%8E%E5%9B%BD%E7%A1%AC%E5%88%9A%E4%BA%86)
 1. [勇士95比85火箭](https://www.zhihu.com/search?q=%E5%8B%87%E5%A3%AB95%E6%AF%9485%E7%81%AB%E7%AE%AD)
+1. [世界读书日](https://www.zhihu.com/search?q=%E4%B8%96%E7%95%8C%E8%AF%BB%E4%B9%A6%E6%97%A5)
+1. [活塞险胜尼克斯](https://www.zhihu.com/search?q=%E6%B4%BB%E5%A1%9E%E9%99%A9%E8%83%9C%E5%B0%BC%E5%85%8B%E6%96%AF)
+1. [刘国梁](https://www.zhihu.com/search?q=%E5%88%98%E5%9B%BD%E6%A2%81)
+1. [森林狼大胜湖人](https://www.zhihu.com/search?q=%E6%A3%AE%E6%9E%97%E7%8B%BC%E5%A4%A7%E8%83%9C%E6%B9%96%E4%BA%BA)
 
 <!-- END -->
 
