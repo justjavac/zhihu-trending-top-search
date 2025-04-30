@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Apr 30 2025 20:20:15 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Apr 30 2025 21:21:47 GMT+0800 (China Standard Time) -->
 
 1. [工业企业利润由降转增](https://www.zhihu.com/search?q=%E5%B7%A5%E4%B8%9A%E4%BC%81%E4%B8%9A%E5%88%A9%E6%B6%A6%E7%94%B1%E9%99%8D%E8%BD%AC%E5%A2%9E)
 1. [你的学校发生过最扯的事是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9A%84%E5%AD%A6%E6%A0%A1%E5%8F%91%E7%94%9F%E8%BF%87%E6%9C%80%E6%89%AF%E7%9A%84%E4%BA%8B%E6%98%AF%E4%BB%80%E4%B9%88)
