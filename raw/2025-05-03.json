@@ -6,7 +6,9 @@
   { "query": "寻找穿越时光的旧物", "display_query": "寻找穿越时光的旧物" },
   { "query": "哪件旧物是你一直保留着的", "display_query": "哪件旧物是你一直保留着的" },
   { "query": "穿越时光的旧物", "display_query": "穿越时光的旧物" },
-  { "query": "中日友好医院肖飞", "display_query": "中日友好医院肖飞" },
   { "query": "惠英红 影后", "display_query": "惠英红 影后" },
+  { "query": "卫诗雅 金像奖影后", "display_query": "卫诗雅 金像奖影后" },
+  { "query": "OpenAI 将为 ChatGPT 增加购物功能", "display_query": "OpenAI 将为 ChatGPT 增加购物功能" },
+  { "query": "中日友好医院肖飞", "display_query": "中日友好医院肖飞" },
   { "query": "中日友好医院通报肖某问题属实", "display_query": "中日友好医院通报肖某问题属实" }
 ]
