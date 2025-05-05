@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue May 06 2025 02:12:23 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue May 06 2025 05:09:51 GMT+0800 (China Standard Time) -->
 
 1. [巴菲特股东大会](https://www.zhihu.com/search?q=%E5%B7%B4%E8%8F%B2%E7%89%B9%E8%82%A1%E4%B8%9C%E5%A4%A7%E4%BC%9A)
 1. [知乎旧物节](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E6%97%A7%E7%89%A9%E8%8A%82)
