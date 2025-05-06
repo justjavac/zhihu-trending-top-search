@@ -1,12 +1,1 @@
-[
-  { "query": "巴菲特股东大会", "display_query": "巴菲特股东大会" },
-  { "query": "知乎旧物节", "display_query": "知乎旧物节" },
-  { "query": "寻找穿越时光的旧物", "display_query": "寻找穿越时光的旧物" },
-  { "query": "哪件旧物是你一直保留着的", "display_query": "哪件旧物是你一直保留着的" },
-  { "query": "穿越时光的旧物", "display_query": "穿越时光的旧物" },
-  { "query": "知网已搜不到董袭莹论文", "display_query": "知网已搜不到董袭莹论文" },
-  { "query": "OpenAI 将为 ChatGPT 增加购物功能", "display_query": "OpenAI 将为 ChatGPT 增加购物功能" },
-  { "query": "董袭莹不符合协和4+4招生要求", "display_query": "董袭莹不符合协和4+4招生要求" },
-  { "query": "协和4+4", "display_query": "协和4+4" },
-  { "query": "董某莹1年拿规培证威胁患者安全", "display_query": "董某莹1年拿规培证威胁患者安全" }
-]
+[{"query_display":"游船事故最后1名失联人员被找到","real_query":"游船事故最后1名失联人员被找到"},{"query_display":"考研名师周思成雅思成绩8.5分","real_query":"考研名师周思成雅思成绩8.5分"},{"query_display":"于东来与网红互怼怒称要退圈","real_query":"于东来与网红互怼怒称要退圈"},{"query_display":"贵州游船侧翻事故致 70 人落水","real_query":"贵州游船侧翻事故致 70 人落水"},{"query_display":"护士发论文称男性确诊子宫肌瘤","real_query":"护士发论文称男性确诊子宫肌瘤"},{"query_display":"年轻人开始流行旅游摆摊","real_query":"年轻人开始流行旅游摆摊"},{"query_display":"视障人士携带导盲犬入住全季被拒","real_query":"视障人士携带导盲犬入住全季被拒"},{"query_display":"游客吐槽奶茶包装使用不雅文字","real_query":"游客吐槽奶茶包装使用不雅文字"},{"query_display":"女生晒照被网友看出血管瘤","real_query":"女生晒照被网友看出血管瘤"},{"query_display":"董某莹1年拿规培证威胁患者安全","real_query":"董某莹1年拿规培证威胁患者安全"},{"query_display":"医院违规为单身女性做试管婴儿","real_query":"医院违规为单身女性做试管婴儿"},{"query_display":"张雪峰谈协和4加4","real_query":"张雪峰谈协和4加4"},{"real_query":"undefined"}]
