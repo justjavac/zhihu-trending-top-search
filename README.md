@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed May 07 2025 06:19:57 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed May 07 2025 07:19:11 GMT+0800 (China Standard Time) -->
 
 1. [山东滕州车祸致6死，肇事司机醉驾](https://www.zhihu.com/search?q=%E5%B1%B1%E4%B8%9C%E6%BB%95%E5%B7%9E%E8%BD%A6%E7%A5%B8%E8%87%B46%E6%AD%BB%EF%BC%8C%E8%82%87%E4%BA%8B%E5%8F%B8%E6%9C%BA%E9%86%89%E9%A9%BE)
 1. [护士发论文称男性确诊子宫肌瘤](https://www.zhihu.com/search?q=%E6%8A%A4%E5%A3%AB%E5%8F%91%E8%AE%BA%E6%96%87%E7%A7%B0%E7%94%B7%E6%80%A7%E7%A1%AE%E8%AF%8A%E5%AD%90%E5%AE%AB%E8%82%8C%E7%98%A4)
@@ -22,12 +22,13 @@
 1. [赵心童斯诺克世锦赛夺冠](https://www.zhihu.com/search?q=%E8%B5%B5%E5%BF%83%E7%AB%A5%E6%96%AF%E8%AF%BA%E5%85%8B%E4%B8%96%E9%94%A6%E8%B5%9B%E5%A4%BA%E5%86%A0)
 1. [古代投石机的射程和准确度靠什么控制](https://www.zhihu.com/search?q=%E5%8F%A4%E4%BB%A3%E6%8A%95%E7%9F%B3%E6%9C%BA%E7%9A%84%E5%B0%84%E7%A8%8B%E5%92%8C%E5%87%86%E7%A1%AE%E5%BA%A6%E9%9D%A0%E4%BB%80%E4%B9%88%E6%8E%A7%E5%88%B6)
 1. [西安雷雨夜空现条状不明物](https://www.zhihu.com/search?q=%E8%A5%BF%E5%AE%89%E9%9B%B7%E9%9B%A8%E5%A4%9C%E7%A9%BA%E7%8E%B0%E6%9D%A1%E7%8A%B6%E4%B8%8D%E6%98%8E%E7%89%A9)
-1. [齐鲁医院护士霍某某受处分](https://www.zhihu.com/search?q=%E9%BD%90%E9%B2%81%E5%8C%BB%E9%99%A2%E6%8A%A4%E5%A3%AB%E9%9C%8D%E6%9F%90%E6%9F%90%E5%8F%97%E5%A4%84%E5%88%86)
 1. [多篇妇产科论文出现男性患者](https://www.zhihu.com/search?q=%E5%A4%9A%E7%AF%87%E5%A6%87%E4%BA%A7%E7%A7%91%E8%AE%BA%E6%96%87%E5%87%BA%E7%8E%B0%E7%94%B7%E6%80%A7%E6%82%A3%E8%80%85)
+1. [齐鲁医院护士霍某某受处分](https://www.zhihu.com/search?q=%E9%BD%90%E9%B2%81%E5%8C%BB%E9%99%A2%E6%8A%A4%E5%A3%AB%E9%9C%8D%E6%9F%90%E6%9F%90%E5%8F%97%E5%A4%84%E5%88%86)
 1. [「鲁宾逊漂流记」有哪些不符合常识的地方](https://www.zhihu.com/search?q=%E3%80%8C%E9%B2%81%E5%AE%BE%E9%80%8A%E6%BC%82%E6%B5%81%E8%AE%B0%E3%80%8D%E6%9C%89%E5%93%AA%E4%BA%9B%E4%B8%8D%E7%AC%A6%E5%90%88%E5%B8%B8%E8%AF%86%E7%9A%84%E5%9C%B0%E6%96%B9)
 1. [考研名师周思成直播查雅思成绩](https://www.zhihu.com/search?q=%E8%80%83%E7%A0%94%E5%90%8D%E5%B8%88%E5%91%A8%E6%80%9D%E6%88%90%E7%9B%B4%E6%92%AD%E6%9F%A5%E9%9B%85%E6%80%9D%E6%88%90%E7%BB%A9)
-1. [贵州游船侧翻事故致 70 人落水](https://www.zhihu.com/search?q=%E8%B4%B5%E5%B7%9E%E6%B8%B8%E8%88%B9%E4%BE%A7%E7%BF%BB%E4%BA%8B%E6%95%85%E8%87%B4%2070%20%E4%BA%BA%E8%90%BD%E6%B0%B4)
+1. [胖东来关闭官网](https://www.zhihu.com/search?q=%E8%83%96%E4%B8%9C%E6%9D%A5%E5%85%B3%E9%97%AD%E5%AE%98%E7%BD%91)
 1. [关羽的武器真的是青龙偃月刀吗](https://www.zhihu.com/search?q=%E5%85%B3%E7%BE%BD%E7%9A%84%E6%AD%A6%E5%99%A8%E7%9C%9F%E7%9A%84%E6%98%AF%E9%9D%92%E9%BE%99%E5%81%83%E6%9C%88%E5%88%80%E5%90%97)
+1. [贵州游船侧翻事故致 70 人落水](https://www.zhihu.com/search?q=%E8%B4%B5%E5%B7%9E%E6%B8%B8%E8%88%B9%E4%BE%A7%E7%BF%BB%E4%BA%8B%E6%95%85%E8%87%B4%2070%20%E4%BA%BA%E8%90%BD%E6%B0%B4)
 1. [于东来与网红互怼怒称要退圈](https://www.zhihu.com/search?q=%E4%BA%8E%E4%B8%9C%E6%9D%A5%E4%B8%8E%E7%BD%91%E7%BA%A2%E4%BA%92%E6%80%BC%E6%80%92%E7%A7%B0%E8%A6%81%E9%80%80%E5%9C%88)
 1. [若原子不断循环我们是否有古人用过的原子](https://www.zhihu.com/search?q=%E8%8B%A5%E5%8E%9F%E5%AD%90%E4%B8%8D%E6%96%AD%E5%BE%AA%E7%8E%AF%E6%88%91%E4%BB%AC%E6%98%AF%E5%90%A6%E6%9C%89%E5%8F%A4%E4%BA%BA%E7%94%A8%E8%BF%87%E7%9A%84%E5%8E%9F%E5%AD%90)
 1. [SU7 定购页中「智驾」更名「辅助驾驶」](https://www.zhihu.com/search?q=SU7%20%E5%AE%9A%E8%B4%AD%E9%A1%B5%E4%B8%AD%E3%80%8C%E6%99%BA%E9%A9%BE%E3%80%8D%E6%9B%B4%E5%90%8D%E3%80%8C%E8%BE%85%E5%8A%A9%E9%A9%BE%E9%A9%B6%E3%80%8D)
