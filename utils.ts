@@ -1,17 +1,17 @@
 import type { SearchWord } from "./types.ts";
 
-/** 合并两次关键词并根据 display_query 去重 */
+/** 合并两次关键词并根据 real_query 去重 */
 export function mergeWords(
   words: SearchWord[],
   another: SearchWord[],
 ): SearchWord[] {
   const obj: Record<string, string> = {};
   for (const w of words.concat(another)) {
-    obj[w.display_query] = w.query;
+    obj[w.real_query] = w.query_display;
   }
-  return Object.entries(obj).map(([display_query, query]) => ({
-    query,
-    display_query,
+  return Object.entries(obj).map(([real_query, query_display]) => ({
+    query_display,
+    real_query,
   }));
 }
 
@@ -23,7 +23,10 @@ export async function createReadme(words: SearchWord[]): Promise<string> {
 export function createList(words: SearchWord[]): string {
   return `<!-- BEGIN -->
 <!-- 最后更新时间 ${Date()} -->
-${words.map((x) => `1. [${x.display_query}](https://www.zhihu.com/search?q=${encodeURIComponent(x.query)})`).join("\n")}
+${
+    words.map((x) => `1. [${x.query_display}](https://www.zhihu.com/search?q=${encodeURIComponent(x.real_query)})`)
+      .join("\n")
+  }
 <!-- END -->`;
 }
 

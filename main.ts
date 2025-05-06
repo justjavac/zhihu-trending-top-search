@@ -1,13 +1,13 @@
 #!/usr/bin/env -S deno run --unstable --allow-net --allow-read --allow-write --import-map=import_map.json
 // Copyright 2020 justjavac(迷渡). All rights reserved. MIT license.
-import { format } from "std/datetime/mod.ts";
-import { join } from "std/path/mod.ts";
-import { exists } from "std/fs/mod.ts";
+import { format } from "@std/datetime";
+import { join } from "@std/path";
+import { exists } from "@std/fs";
 
 import type { SearchWord, TopSearch } from "./types.ts";
 import { createArchive, createReadme, mergeWords } from "./utils.ts";
 
-const response = await fetch("https://www.zhihu.com/api/v4/search/top_search");
+const response = await fetch("https://www.zhihu.com/api/v4/search/recommend_query/v2");
 
 if (!response.ok) {
   console.error(response.statusText);
@@ -16,7 +16,7 @@ if (!response.ok) {
 
 const result: TopSearch = await response.json();
 
-const words = result.top_search.words;
+const query = result.recommend_queries.queries;
 
 const yyyyMMdd = format(new Date(), "yyyy-MM-dd");
 const fullPath = join("raw", `${yyyyMMdd}.json`);
@@ -28,7 +28,7 @@ if (await exists(fullPath)) {
 }
 
 // 保存原始数据
-const wordsAll = mergeWords(words, wordsAlreadyDownload);
+const wordsAll = mergeWords(query, wordsAlreadyDownload);
 await Deno.writeTextFile(fullPath, JSON.stringify(wordsAll));
 
 // 更新 README.md

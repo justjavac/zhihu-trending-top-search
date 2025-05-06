@@ -15,7 +15,7 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Install deno
-        uses: denoland/setup-deno@v1
+        uses: denoland/setup-deno@
 
       - name: Log versions
         run: |
@@ -24,12 +24,12 @@ jobs:
         run: deno fmt --check
 
       - name: Run deno test
-        run: deno task test
+        run: deno test
 
       - name: Release
         uses: softprops/action-gh-release@v1
         if: |
-          startsWith(github.repository, 'justjavac') && 
+          startsWith(github.repository, 'justjavac') &&
           startsWith(github.ref, 'refs/tags/')
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

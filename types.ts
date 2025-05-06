@@ -1,10 +1,10 @@
 export type SearchWord = {
-  query: string;
-  display_query: string;
+  query_display: string;
+  real_query: string;
 };
 
 export type TopSearch = {
-  top_search: {
-    words: SearchWord[];
+  recommend_queries: {
+    queries: SearchWord[];
   };
 };
