@@ -14,19 +14,19 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu May 08 2025 14:31:08 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu May 08 2025 15:21:03 GMT+0800 (China Standard Time) -->
 
 1. [中美经贸高层会谈是应美方请求](https://www.zhihu.com/search?q=%E4%B8%AD%E7%BE%8E%E7%BB%8F%E8%B4%B8%E9%AB%98%E5%B1%82%E4%BC%9A%E8%B0%88%E6%98%AF%E5%BA%94%E7%BE%8E%E6%96%B9%E8%AF%B7%E6%B1%82)
 1. [一夜之间印巴大打出手](https://www.zhihu.com/search?q=%E4%B8%80%E5%A4%9C%E4%B9%8B%E9%97%B4%E5%8D%B0%E5%B7%B4%E5%A4%A7%E6%89%93%E5%87%BA%E6%89%8B)
+1. [斯凯奇宣布退市](https://www.zhihu.com/search?q=%E6%96%AF%E5%87%AF%E5%A5%87%E5%AE%A3%E5%B8%83%E9%80%80%E5%B8%82)
+1. [白敬亭申请强执春山学博主](https://www.zhihu.com/search?q=%E7%99%BD%E6%95%AC%E4%BA%AD%E7%94%B3%E8%AF%B7%E5%BC%BA%E6%89%A7%E6%98%A5%E5%B1%B1%E5%AD%A6%E5%8D%9A%E4%B8%BB)
+1. [为什么现在鲍鱼这么便宜](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E9%B2%8D%E9%B1%BC%E8%BF%99%E4%B9%88%E4%BE%BF%E5%AE%9C)
 1. [印巴冲突](https://www.zhihu.com/search?q=%E5%8D%B0%E5%B7%B4%E5%86%B2%E7%AA%81)
 1. [巴方称印军发动 24 起袭击](https://www.zhihu.com/search?q=%E5%B7%B4%E6%96%B9%E7%A7%B0%E5%8D%B0%E5%86%9B%E5%8F%91%E5%8A%A8%2024%20%E8%B5%B7%E8%A2%AD%E5%87%BB)
-1. [为什么现在鲍鱼这么便宜](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E9%B2%8D%E9%B1%BC%E8%BF%99%E4%B9%88%E4%BE%BF%E5%AE%9C)
-1. [央行宣布降准降息](https://www.zhihu.com/search?q=%E5%A4%AE%E8%A1%8C%E5%AE%A3%E5%B8%83%E9%99%8D%E5%87%86%E9%99%8D%E6%81%AF)
-1. [山东滕州车祸致6死，肇事司机醉驾](https://www.zhihu.com/search?q=%E5%B1%B1%E4%B8%9C%E6%BB%95%E5%B7%9E%E8%BD%A6%E7%A5%B8%E8%87%B46%E6%AD%BB%EF%BC%8C%E8%82%87%E4%BA%8B%E5%8F%B8%E6%9C%BA%E9%86%89%E9%A9%BE)
 1. [中方决定同意与美方进行接触](https://www.zhihu.com/search?q=%E4%B8%AD%E6%96%B9%E5%86%B3%E5%AE%9A%E5%90%8C%E6%84%8F%E4%B8%8E%E7%BE%8E%E6%96%B9%E8%BF%9B%E8%A1%8C%E6%8E%A5%E8%A7%A6)
-1. [白敬亭申请强执春山学博主](https://www.zhihu.com/search?q=%E7%99%BD%E6%95%AC%E4%BA%AD%E7%94%B3%E8%AF%B7%E5%BC%BA%E6%89%A7%E6%98%A5%E5%B1%B1%E5%AD%A6%E5%8D%9A%E4%B8%BB)
+1. [央行宣布降准降息](https://www.zhihu.com/search?q=%E5%A4%AE%E8%A1%8C%E5%AE%A3%E5%B8%83%E9%99%8D%E5%87%86%E9%99%8D%E6%81%AF)
 1. [人的大脑会不会出现「过拟合」病](https://www.zhihu.com/search?q=%E4%BA%BA%E7%9A%84%E5%A4%A7%E8%84%91%E4%BC%9A%E4%B8%8D%E4%BC%9A%E5%87%BA%E7%8E%B0%E3%80%8C%E8%BF%87%E6%8B%9F%E5%90%88%E3%80%8D%E7%97%85)
-1. [斯凯奇宣布退市](https://www.zhihu.com/search?q=%E6%96%AF%E5%87%AF%E5%A5%87%E5%AE%A3%E5%B8%83%E9%80%80%E5%B8%82)
+1. [山东滕州车祸致6死，肇事司机醉驾](https://www.zhihu.com/search?q=%E5%B1%B1%E4%B8%9C%E6%BB%95%E5%B7%9E%E8%BD%A6%E7%A5%B8%E8%87%B46%E6%AD%BB%EF%BC%8C%E8%82%87%E4%BA%8B%E5%8F%B8%E6%9C%BA%E9%86%89%E9%A9%BE)
 1. [巴军方称击落了 6 架印度战机](https://www.zhihu.com/search?q=%E5%B7%B4%E5%86%9B%E6%96%B9%E7%A7%B0%E5%87%BB%E8%90%BD%E4%BA%86%206%20%E6%9E%B6%E5%8D%B0%E5%BA%A6%E6%88%98%E6%9C%BA)
 1. [风阻系数对汽车意味着什么](https://www.zhihu.com/search?q=%E9%A3%8E%E9%98%BB%E7%B3%BB%E6%95%B0%E5%AF%B9%E6%B1%BD%E8%BD%A6%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88)
 1. [SU7 定购页中「智驾」更名「辅助驾驶」](https://www.zhihu.com/search?q=SU7%20%E5%AE%9A%E8%B4%AD%E9%A1%B5%E4%B8%AD%E3%80%8C%E6%99%BA%E9%A9%BE%E3%80%8D%E6%9B%B4%E5%90%8D%E3%80%8C%E8%BE%85%E5%8A%A9%E9%A9%BE%E9%A9%B6%E3%80%8D)
