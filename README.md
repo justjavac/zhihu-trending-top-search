@@ -14,20 +14,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri May 09 2025 15:20:49 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri May 09 2025 16:28:27 GMT+0800 (China Standard Time) -->
 
+1. [俄罗斯卫国战争80周年阅兵](https://www.zhihu.com/search?q=%E4%BF%84%E7%BD%97%E6%96%AF%E5%8D%AB%E5%9B%BD%E6%88%98%E4%BA%8980%E5%91%A8%E5%B9%B4%E9%98%85%E5%85%B5)
 1. [印巴冲突](https://www.zhihu.com/search?q=%E5%8D%B0%E5%B7%B4%E5%86%B2%E7%AA%81)
 1. [中俄签署联合声明](https://www.zhihu.com/search?q=%E4%B8%AD%E4%BF%84%E7%AD%BE%E7%BD%B2%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E)
-1. [中央气象台发布暴雨蓝色预警](https://www.zhihu.com/search?q=%E4%B8%AD%E5%A4%AE%E6%B0%94%E8%B1%A1%E5%8F%B0%E5%8F%91%E5%B8%83%E6%9A%B4%E9%9B%A8%E8%93%9D%E8%89%B2%E9%A2%84%E8%AD%A6)
-1. [巴方称印军发动 24 起袭击](https://www.zhihu.com/search?q=%E5%B7%B4%E6%96%B9%E7%A7%B0%E5%8D%B0%E5%86%9B%E5%8F%91%E5%8A%A8%2024%20%E8%B5%B7%E8%A2%AD%E5%87%BB)
-1. [2025 五一档票房 7.43 亿](https://www.zhihu.com/search?q=2025%20%E4%BA%94%E4%B8%80%E6%A1%A3%E7%A5%A8%E6%88%BF%207.43%20%E4%BA%BF)
 1. [印巴125架战机激战1小时](https://www.zhihu.com/search?q=%E5%8D%B0%E5%B7%B4125%E6%9E%B6%E6%88%98%E6%9C%BA%E6%BF%80%E6%88%981%E5%B0%8F%E6%97%B6)
-1. [斯凯奇宣布退市](https://www.zhihu.com/search?q=%E6%96%AF%E5%87%AF%E5%A5%87%E5%AE%A3%E5%B8%83%E9%80%80%E5%B8%82)
+1. [2025 五一档票房 7.43 亿](https://www.zhihu.com/search?q=2025%20%E4%BA%94%E4%B8%80%E6%A1%A3%E7%A5%A8%E6%88%BF%207.43%20%E4%BA%BF)
+1. [巴方称印军发动 24 起袭击](https://www.zhihu.com/search?q=%E5%B7%B4%E6%96%B9%E7%A7%B0%E5%8D%B0%E5%86%9B%E5%8F%91%E5%8A%A8%2024%20%E8%B5%B7%E8%A2%AD%E5%87%BB)
 1. [本科生发14篇sci获多项专利](https://www.zhihu.com/search?q=%E6%9C%AC%E7%A7%91%E7%94%9F%E5%8F%9114%E7%AF%87sci%E8%8E%B7%E5%A4%9A%E9%A1%B9%E4%B8%93%E5%88%A9)
+1. [斯凯奇宣布退市](https://www.zhihu.com/search?q=%E6%96%AF%E5%87%AF%E5%A5%87%E5%AE%A3%E5%B8%83%E9%80%80%E5%B8%82)
 1. [周思成直播雅思查分最高 8.5 分](https://www.zhihu.com/search?q=%E5%91%A8%E6%80%9D%E6%88%90%E7%9B%B4%E6%92%AD%E9%9B%85%E6%80%9D%E6%9F%A5%E5%88%86%E6%9C%80%E9%AB%98%208.5%20%E5%88%86)
 1. [小米紧急撤回「SU7 Ultra 排位模式增加解锁条件」更新](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%E7%B4%A7%E6%80%A5%E6%92%A4%E5%9B%9E%E3%80%8CSU7%20Ultra%20%E6%8E%92%E4%BD%8D%E6%A8%A1%E5%BC%8F%E5%A2%9E%E5%8A%A0%E8%A7%A3%E9%94%81%E6%9D%A1%E4%BB%B6%E3%80%8D%E6%9B%B4%E6%96%B0)
 1. [特朗普称或将下调对华145%关税](https://www.zhihu.com/search?q=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%88%96%E5%B0%86%E4%B8%8B%E8%B0%83%E5%AF%B9%E5%8D%8E145%25%E5%85%B3%E7%A8%8E)
 1. [印度称摧毁巴基斯坦第二大城市防空系统](https://www.zhihu.com/search?q=%E5%8D%B0%E5%BA%A6%E7%A7%B0%E6%91%A7%E6%AF%81%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E7%AC%AC%E4%BA%8C%E5%A4%A7%E5%9F%8E%E5%B8%82%E9%98%B2%E7%A9%BA%E7%B3%BB%E7%BB%9F)
+1. [中央气象台发布暴雨蓝色预警](https://www.zhihu.com/search?q=%E4%B8%AD%E5%A4%AE%E6%B0%94%E8%B1%A1%E5%8F%B0%E5%8F%91%E5%B8%83%E6%9A%B4%E9%9B%A8%E8%93%9D%E8%89%B2%E9%A2%84%E8%AD%A6)
 1. [中航成飞涨逾 12%](https://www.zhihu.com/search?q=%E4%B8%AD%E8%88%AA%E6%88%90%E9%A3%9E%E6%B6%A8%E9%80%BE%2012%25)
 1. [美国主教普雷沃斯特当选新任教皇](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E4%B8%BB%E6%95%99%E6%99%AE%E9%9B%B7%E6%B2%83%E6%96%AF%E7%89%B9%E5%BD%93%E9%80%89%E6%96%B0%E4%BB%BB%E6%95%99%E7%9A%87)
 1. [印向巴发射导弹 巴击落印战机](https://www.zhihu.com/search?q=%E5%8D%B0%E5%90%91%E5%B7%B4%E5%8F%91%E5%B0%84%E5%AF%BC%E5%BC%B9%20%E5%B7%B4%E5%87%BB%E8%90%BD%E5%8D%B0%E6%88%98%E6%9C%BA)
