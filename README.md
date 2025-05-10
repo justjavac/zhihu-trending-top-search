@@ -14,21 +14,23 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat May 10 2025 21:25:55 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat May 10 2025 22:17:28 GMT+0800 (China Standard Time) -->
 
 1. [印度和巴基斯坦已同意立即全面停火](https://www.zhihu.com/search?q=%E5%8D%B0%E5%BA%A6%E5%92%8C%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%B7%B2%E5%90%8C%E6%84%8F%E7%AB%8B%E5%8D%B3%E5%85%A8%E9%9D%A2%E5%81%9C%E7%81%AB)
 1. [「青岛行人相撞案」现场视频公布](https://www.zhihu.com/search?q=%E3%80%8C%E9%9D%92%E5%B2%9B%E8%A1%8C%E4%BA%BA%E7%9B%B8%E6%92%9E%E6%A1%88%E3%80%8D%E7%8E%B0%E5%9C%BA%E8%A7%86%E9%A2%91%E5%85%AC%E5%B8%83)
 1. [中美经贸高层会谈](https://www.zhihu.com/search?q=%E4%B8%AD%E7%BE%8E%E7%BB%8F%E8%B4%B8%E9%AB%98%E5%B1%82%E4%BC%9A%E8%B0%88)
 1. [印巴冲突](https://www.zhihu.com/search?q=%E5%8D%B0%E5%B7%B4%E5%86%B2%E7%AA%81)
+1. [印巴停火](https://www.zhihu.com/search?q=%E5%8D%B0%E5%B7%B4%E5%81%9C%E7%81%AB)
 1. [印巴125架战机激战1小时](https://www.zhihu.com/search?q=%E5%8D%B0%E5%B7%B4125%E6%9E%B6%E6%88%98%E6%9C%BA%E6%BF%80%E6%88%981%E5%B0%8F%E6%97%B6%20)
 1. [印巴局势升级](https://www.zhihu.com/search?q=%E5%8D%B0%E5%B7%B4%E5%B1%80%E5%8A%BF%E5%8D%87%E7%BA%A7)
+1. [央行宣布降准 0.5 个百分点](https://www.zhihu.com/search?q=%E5%A4%AE%E8%A1%8C%E5%AE%A3%E5%B8%83%E9%99%8D%E5%87%86%200.5%20%E4%B8%AA%E7%99%BE%E5%88%86%E7%82%B9)
+1. [俄罗斯卫国战争80周年阅兵](https://www.zhihu.com/search?q=%E4%BF%84%E7%BD%97%E6%96%AF%E5%8D%AB%E5%9B%BD%E6%88%98%E4%BA%8980%E5%91%A8%E5%B9%B4%E9%98%85%E5%85%B5)
+1. [西安雷雨夜空现条状不明物](https://www.zhihu.com/search?q=%E8%A5%BF%E5%AE%89%E9%9B%B7%E9%9B%A8%E5%A4%9C%E7%A9%BA%E7%8E%B0%E6%9D%A1%E7%8A%B6%E4%B8%8D%E6%98%8E%E7%89%A9)
+1. [巴基斯坦正式对印度发起军事行动](https://www.zhihu.com/search?q=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E6%AD%A3%E5%BC%8F%E5%AF%B9%E5%8D%B0%E5%BA%A6%E5%8F%91%E8%B5%B7%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8)
+1. [美国主教普雷沃斯特当选新任教皇](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E4%B8%BB%E6%95%99%E6%99%AE%E9%9B%B7%E6%B2%83%E6%96%AF%E7%89%B9%E5%BD%93%E9%80%89%E6%96%B0%E4%BB%BB%E6%95%99%E7%9A%87)
 1. [巴基斯坦宣布击落 6 架印度战机](https://www.zhihu.com/search?q=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%AE%A3%E5%B8%83%E5%87%BB%E8%90%BD%206%20%E6%9E%B6%E5%8D%B0%E5%BA%A6%E6%88%98%E6%9C%BA)
 1. [印向巴发射导弹 巴击落印战机](https://www.zhihu.com/search?q=%E5%8D%B0%E5%90%91%E5%B7%B4%E5%8F%91%E5%B0%84%E5%AF%BC%E5%BC%B9%20%E5%B7%B4%E5%87%BB%E8%90%BD%E5%8D%B0%E6%88%98%E6%9C%BA)
 1. [巴方称印军发动 24 起袭击](https://www.zhihu.com/search?q=%E5%B7%B4%E6%96%B9%E7%A7%B0%E5%8D%B0%E5%86%9B%E5%8F%91%E5%8A%A8%2024%20%E8%B5%B7%E8%A2%AD%E5%87%BB)
-1. [俄罗斯卫国战争80周年阅兵](https://www.zhihu.com/search?q=%E4%BF%84%E7%BD%97%E6%96%AF%E5%8D%AB%E5%9B%BD%E6%88%98%E4%BA%8980%E5%91%A8%E5%B9%B4%E9%98%85%E5%85%B5)
-1. [巴基斯坦正式对印度发起军事行动](https://www.zhihu.com/search?q=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E6%AD%A3%E5%BC%8F%E5%AF%B9%E5%8D%B0%E5%BA%A6%E5%8F%91%E8%B5%B7%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8)
-1. [央行宣布降准 0.5 个百分点](https://www.zhihu.com/search?q=%E5%A4%AE%E8%A1%8C%E5%AE%A3%E5%B8%83%E9%99%8D%E5%87%86%200.5%20%E4%B8%AA%E7%99%BE%E5%88%86%E7%82%B9)
-1. [美国主教普雷沃斯特当选新任教皇](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E4%B8%BB%E6%95%99%E6%99%AE%E9%9B%B7%E6%B2%83%E6%96%AF%E7%89%B9%E5%BD%93%E9%80%89%E6%96%B0%E4%BB%BB%E6%95%99%E7%9A%87)
 1. [巴外长证实歼10击落印度战机](https://www.zhihu.com/search?q=%E5%B7%B4%E5%A4%96%E9%95%BF%E8%AF%81%E5%AE%9E%E6%AD%BC10%E5%87%BB%E8%90%BD%E5%8D%B0%E5%BA%A6%E6%88%98%E6%9C%BA%20)
 1. [中俄签署联合声明](https://www.zhihu.com/search?q=%E4%B8%AD%E4%BF%84%E7%AD%BE%E7%BD%B2%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E)
 1. [贵州游船侧翻事故中船长的哪些操作很关键](https://www.zhihu.com/search?q=%E8%B4%B5%E5%B7%9E%E6%B8%B8%E8%88%B9%E4%BE%A7%E7%BF%BB%E4%BA%8B%E6%95%85%E4%B8%AD%E8%88%B9%E9%95%BF%E7%9A%84%E5%93%AA%E4%BA%9B%E6%93%8D%E4%BD%9C%E5%BE%88%E5%85%B3%E9%94%AE)
