@@ -14,26 +14,28 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat May 10 2025 19:17:10 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat May 10 2025 20:37:59 GMT+0800 (China Standard Time) -->
 
 1. [巴基斯坦正式对印度发起军事行动](https://www.zhihu.com/search?q=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E6%AD%A3%E5%BC%8F%E5%AF%B9%E5%8D%B0%E5%BA%A6%E5%8F%91%E8%B5%B7%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8)
-1. [中俄签署联合声明](https://www.zhihu.com/search?q=%E4%B8%AD%E4%BF%84%E7%AD%BE%E7%BD%B2%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E)
-1. [中美经贸高层会谈](https://www.zhihu.com/search?q=%E4%B8%AD%E7%BE%8E%E7%BB%8F%E8%B4%B8%E9%AB%98%E5%B1%82%E4%BC%9A%E8%B0%88)
 1. [印巴冲突](https://www.zhihu.com/search?q=%E5%8D%B0%E5%B7%B4%E5%86%B2%E7%AA%81)
+1. [中美经贸高层会谈](https://www.zhihu.com/search?q=%E4%B8%AD%E7%BE%8E%E7%BB%8F%E8%B4%B8%E9%AB%98%E5%B1%82%E4%BC%9A%E8%B0%88)
 1. [印巴125架战机激战1小时](https://www.zhihu.com/search?q=%E5%8D%B0%E5%B7%B4125%E6%9E%B6%E6%88%98%E6%9C%BA%E6%BF%80%E6%88%981%E5%B0%8F%E6%97%B6%20)
-1. [贵州游船侧翻事故中船长的哪些操作很关键](https://www.zhihu.com/search?q=%E8%B4%B5%E5%B7%9E%E6%B8%B8%E8%88%B9%E4%BE%A7%E7%BF%BB%E4%BA%8B%E6%95%85%E4%B8%AD%E8%88%B9%E9%95%BF%E7%9A%84%E5%93%AA%E4%BA%9B%E6%93%8D%E4%BD%9C%E5%BE%88%E5%85%B3%E9%94%AE)
 1. [印巴局势升级](https://www.zhihu.com/search?q=%E5%8D%B0%E5%B7%B4%E5%B1%80%E5%8A%BF%E5%8D%87%E7%BA%A7)
+1. [巴基斯坦宣布击落 6 架印度战机](https://www.zhihu.com/search?q=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%AE%A3%E5%B8%83%E5%87%BB%E8%90%BD%206%20%E6%9E%B6%E5%8D%B0%E5%BA%A6%E6%88%98%E6%9C%BA)
 1. [印向巴发射导弹 巴击落印战机](https://www.zhihu.com/search?q=%E5%8D%B0%E5%90%91%E5%B7%B4%E5%8F%91%E5%B0%84%E5%AF%BC%E5%BC%B9%20%E5%B7%B4%E5%87%BB%E8%90%BD%E5%8D%B0%E6%88%98%E6%9C%BA)
 1. [巴方称印军发动 24 起袭击](https://www.zhihu.com/search?q=%E5%B7%B4%E6%96%B9%E7%A7%B0%E5%8D%B0%E5%86%9B%E5%8F%91%E5%8A%A8%2024%20%E8%B5%B7%E8%A2%AD%E5%87%BB)
-1. [杭州灵隐寺门口小卖部年租金 260 万](https://www.zhihu.com/search?q=%E6%9D%AD%E5%B7%9E%E7%81%B5%E9%9A%90%E5%AF%BA%E9%97%A8%E5%8F%A3%E5%B0%8F%E5%8D%96%E9%83%A8%E5%B9%B4%E7%A7%9F%E9%87%91%20260%20%E4%B8%87)
+1. [俄罗斯卫国战争80周年阅兵](https://www.zhihu.com/search?q=%E4%BF%84%E7%BD%97%E6%96%AF%E5%8D%AB%E5%9B%BD%E6%88%98%E4%BA%8980%E5%91%A8%E5%B9%B4%E9%98%85%E5%85%B5)
+1. [央行宣布降准 0.5 个百分点](https://www.zhihu.com/search?q=%E5%A4%AE%E8%A1%8C%E5%AE%A3%E5%B8%83%E9%99%8D%E5%87%86%200.5%20%E4%B8%AA%E7%99%BE%E5%88%86%E7%82%B9)
 1. [美国主教普雷沃斯特当选新任教皇](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E4%B8%BB%E6%95%99%E6%99%AE%E9%9B%B7%E6%B2%83%E6%96%AF%E7%89%B9%E5%BD%93%E9%80%89%E6%96%B0%E4%BB%BB%E6%95%99%E7%9A%87)
 1. [巴外长证实歼10击落印度战机](https://www.zhihu.com/search?q=%E5%B7%B4%E5%A4%96%E9%95%BF%E8%AF%81%E5%AE%9E%E6%AD%BC10%E5%87%BB%E8%90%BD%E5%8D%B0%E5%BA%A6%E6%88%98%E6%9C%BA%20)
+1. [中俄签署联合声明](https://www.zhihu.com/search?q=%E4%B8%AD%E4%BF%84%E7%AD%BE%E7%BD%B2%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E)
+1. [贵州游船侧翻事故中船长的哪些操作很关键](https://www.zhihu.com/search?q=%E8%B4%B5%E5%B7%9E%E6%B8%B8%E8%88%B9%E4%BE%A7%E7%BF%BB%E4%BA%8B%E6%95%85%E4%B8%AD%E8%88%B9%E9%95%BF%E7%9A%84%E5%93%AA%E4%BA%9B%E6%93%8D%E4%BD%9C%E5%BE%88%E5%85%B3%E9%94%AE)
+1. [杭州灵隐寺门口小卖部年租金 260 万](https://www.zhihu.com/search?q=%E6%9D%AD%E5%B7%9E%E7%81%B5%E9%9A%90%E5%AF%BA%E9%97%A8%E5%8F%A3%E5%B0%8F%E5%8D%96%E9%83%A8%E5%B9%B4%E7%A7%9F%E9%87%91%20260%20%E4%B8%87)
 1. [柴怼怼玉石打假的行为会受到处罚吗](https://www.zhihu.com/search?q=%E6%9F%B4%E6%80%BC%E6%80%BC%E7%8E%89%E7%9F%B3%E6%89%93%E5%81%87%E7%9A%84%E8%A1%8C%E4%B8%BA%E4%BC%9A%E5%8F%97%E5%88%B0%E5%A4%84%E7%BD%9A%E5%90%97)
 1. [本科生发14篇sci获多项专利](https://www.zhihu.com/search?q=%E6%9C%AC%E7%A7%91%E7%94%9F%E5%8F%9114%E7%AF%87sci%E8%8E%B7%E5%A4%9A%E9%A1%B9%E4%B8%93%E5%88%A9)
 1. [2025 五一档票房 7.43 亿](https://www.zhihu.com/search?q=2025%20%E4%BA%94%E4%B8%80%E6%A1%A3%E7%A5%A8%E6%88%BF%207.43%20%E4%BA%BF)
 1. [周思成直播雅思查分最高 8.5 分](https://www.zhihu.com/search?q=%E5%91%A8%E6%80%9D%E6%88%90%E7%9B%B4%E6%92%AD%E9%9B%85%E6%80%9D%E6%9F%A5%E5%88%86%E6%9C%80%E9%AB%98%208.5%20%E5%88%86)
 1. [印巴125架战机激战1小时](https://www.zhihu.com/search?q=%E5%8D%B0%E5%B7%B4125%E6%9E%B6%E6%88%98%E6%9C%BA%E6%BF%80%E6%88%981%E5%B0%8F%E6%97%B6)
-1. [俄罗斯卫国战争80周年阅兵](https://www.zhihu.com/search?q=%E4%BF%84%E7%BD%97%E6%96%AF%E5%8D%AB%E5%9B%BD%E6%88%98%E4%BA%8980%E5%91%A8%E5%B9%B4%E9%98%85%E5%85%B5)
 1. [南京明孝陵石兽遭涂鸦「到此一游」](https://www.zhihu.com/search?q=%E5%8D%97%E4%BA%AC%E6%98%8E%E5%AD%9D%E9%99%B5%E7%9F%B3%E5%85%BD%E9%81%AD%E6%B6%82%E9%B8%A6%E3%80%8C%E5%88%B0%E6%AD%A4%E4%B8%80%E6%B8%B8%E3%80%8D)
 1. [哪道菜一出现就知道是妈妈的「敷衍式做饭」](https://www.zhihu.com/search?q=%E5%93%AA%E9%81%93%E8%8F%9C%E4%B8%80%E5%87%BA%E7%8E%B0%E5%B0%B1%E7%9F%A5%E9%81%93%E6%98%AF%E5%A6%88%E5%A6%88%E7%9A%84%E3%80%8C%E6%95%B7%E8%A1%8D%E5%BC%8F%E5%81%9A%E9%A5%AD%E3%80%8D)
 1. [照片被盗用该怎样维权](https://www.zhihu.com/search?q=%E7%85%A7%E7%89%87%E8%A2%AB%E7%9B%97%E7%94%A8%E8%AF%A5%E6%80%8E%E6%A0%B7%E7%BB%B4%E6%9D%83)
