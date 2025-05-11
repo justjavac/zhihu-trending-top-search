@@ -14,20 +14,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun May 11 2025 17:19:45 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun May 11 2025 18:19:51 GMT+0800 (China Standard Time) -->
 
 1. [印巴冲突](https://www.zhihu.com/search?q=%E5%8D%B0%E5%B7%B4%E5%86%B2%E7%AA%81)
 1. [印度和巴基斯坦已同意立即全面停火](https://www.zhihu.com/search?q=%E5%8D%B0%E5%BA%A6%E5%92%8C%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%B7%B2%E5%90%8C%E6%84%8F%E7%AB%8B%E5%8D%B3%E5%85%A8%E9%9D%A2%E5%81%9C%E7%81%AB)
 1. [中美经贸高层会谈](https://www.zhihu.com/search?q=%E4%B8%AD%E7%BE%8E%E7%BB%8F%E8%B4%B8%E9%AB%98%E5%B1%82%E4%BC%9A%E8%B0%88)
-1. [碳纤维舱盖和铝制舱盖对驾驶影响大吗](https://www.zhihu.com/search?q=%E7%A2%B3%E7%BA%A4%E7%BB%B4%E8%88%B1%E7%9B%96%E5%92%8C%E9%93%9D%E5%88%B6%E8%88%B1%E7%9B%96%E5%AF%B9%E9%A9%BE%E9%A9%B6%E5%BD%B1%E5%93%8D%E5%A4%A7%E5%90%97)
+1. [如何评价歼-10CE 战斗机](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E6%AD%BC-10CE%20%E6%88%98%E6%96%97%E6%9C%BA)
 1. [「青岛行人相撞案」现场视频公布](https://www.zhihu.com/search?q=%E3%80%8C%E9%9D%92%E5%B2%9B%E8%A1%8C%E4%BA%BA%E7%9B%B8%E6%92%9E%E6%A1%88%E3%80%8D%E7%8E%B0%E5%9C%BA%E8%A7%86%E9%A2%91%E5%85%AC%E5%B8%83)
 1. [西安雷雨夜空现条状不明物](https://www.zhihu.com/search?q=%E8%A5%BF%E5%AE%89%E9%9B%B7%E9%9B%A8%E5%A4%9C%E7%A9%BA%E7%8E%B0%E6%9D%A1%E7%8A%B6%E4%B8%8D%E6%98%8E%E7%89%A9)
 1. [老人索要带孙费被驳回](https://www.zhihu.com/search?q=%E8%80%81%E4%BA%BA%E7%B4%A2%E8%A6%81%E5%B8%A6%E5%AD%99%E8%B4%B9%E8%A2%AB%E9%A9%B3%E5%9B%9E)
-1. [「春山学」博主被白敬亭申请强制执行](https://www.zhihu.com/search?q=%E3%80%8C%E6%98%A5%E5%B1%B1%E5%AD%A6%E3%80%8D%E5%8D%9A%E4%B8%BB%E8%A2%AB%E7%99%BD%E6%95%AC%E4%BA%AD%E7%94%B3%E8%AF%B7%E5%BC%BA%E5%88%B6%E6%89%A7%E8%A1%8C)
+1. [印度在巴基斯坦边境展开大规模空战演习](https://www.zhihu.com/search?q=%E5%8D%B0%E5%BA%A6%E5%9C%A8%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%BE%B9%E5%A2%83%E5%B1%95%E5%BC%80%E5%A4%A7%E8%A7%84%E6%A8%A1%E7%A9%BA%E6%88%98%E6%BC%94%E4%B9%A0)
 1. [心相印回应旗舰店客服辱骂消费者](https://www.zhihu.com/search?q=%E5%BF%83%E7%9B%B8%E5%8D%B0%E5%9B%9E%E5%BA%94%E6%97%97%E8%88%B0%E5%BA%97%E5%AE%A2%E6%9C%8D%E8%BE%B1%E9%AA%82%E6%B6%88%E8%B4%B9%E8%80%85)
 1. [汉尼拔导演去世](https://www.zhihu.com/search?q=%E6%B1%89%E5%B0%BC%E6%8B%94%E5%AF%BC%E6%BC%94%E5%8E%BB%E4%B8%96)
-1. [如何评价歼-10CE 战斗机](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E6%AD%BC-10CE%20%E6%88%98%E6%96%97%E6%9C%BA)
+1. [用餐时未被告知价格算误导消费吗](https://www.zhihu.com/search?q=%E7%94%A8%E9%A4%90%E6%97%B6%E6%9C%AA%E8%A2%AB%E5%91%8A%E7%9F%A5%E4%BB%B7%E6%A0%BC%E7%AE%97%E8%AF%AF%E5%AF%BC%E6%B6%88%E8%B4%B9%E5%90%97)
 1. [易烊千玺新片入围戛纳](https://www.zhihu.com/search?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%96%B0%E7%89%87%E5%85%A5%E5%9B%B4%E6%88%9B%E7%BA%B3)
+1. [碳纤维舱盖和铝制舱盖对驾驶影响大吗](https://www.zhihu.com/search?q=%E7%A2%B3%E7%BA%A4%E7%BB%B4%E8%88%B1%E7%9B%96%E5%92%8C%E9%93%9D%E5%88%B6%E8%88%B1%E7%9B%96%E5%AF%B9%E9%A9%BE%E9%A9%B6%E5%BD%B1%E5%93%8D%E5%A4%A7%E5%90%97)
+1. [「春山学」博主被白敬亭申请强制执行](https://www.zhihu.com/search?q=%E3%80%8C%E6%98%A5%E5%B1%B1%E5%AD%A6%E3%80%8D%E5%8D%9A%E4%B8%BB%E8%A2%AB%E7%99%BD%E6%95%AC%E4%BA%AD%E7%94%B3%E8%AF%B7%E5%BC%BA%E5%88%B6%E6%89%A7%E8%A1%8C)
 1. [中国象棋特大买棋案开庭](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E8%B1%A1%E6%A3%8B%E7%89%B9%E5%A4%A7%E4%B9%B0%E6%A3%8B%E6%A1%88%E5%BC%80%E5%BA%AD)
 1. [哪件和妈妈有关的小事让你记了很久](https://www.zhihu.com/search?q=%E5%93%AA%E4%BB%B6%E5%92%8C%E5%A6%88%E5%A6%88%E6%9C%89%E5%85%B3%E7%9A%84%E5%B0%8F%E4%BA%8B%E8%AE%A9%E4%BD%A0%E8%AE%B0%E4%BA%86%E5%BE%88%E4%B9%85)
 1. [印巴局势升级](https://www.zhihu.com/search?q=%E5%8D%B0%E5%B7%B4%E5%B1%80%E5%8A%BF%E5%8D%87%E7%BA%A7)
