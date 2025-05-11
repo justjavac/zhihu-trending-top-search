@@ -14,22 +14,23 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon May 12 2025 06:19:01 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon May 12 2025 07:18:46 GMT+0800 (China Standard Time) -->
 
 1. [印度和巴基斯坦已同意立即全面停火](https://www.zhihu.com/search?q=%E5%8D%B0%E5%BA%A6%E5%92%8C%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%B7%B2%E5%90%8C%E6%84%8F%E7%AB%8B%E5%8D%B3%E5%85%A8%E9%9D%A2%E5%81%9C%E7%81%AB)
 1. [中美经贸高层会谈](https://www.zhihu.com/search?q=%E4%B8%AD%E7%BE%8E%E7%BB%8F%E8%B4%B8%E9%AB%98%E5%B1%82%E4%BC%9A%E8%B0%88)
 1. [西安雷雨夜空现条状不明物](https://www.zhihu.com/search?q=%E8%A5%BF%E5%AE%89%E9%9B%B7%E9%9B%A8%E5%A4%9C%E7%A9%BA%E7%8E%B0%E6%9D%A1%E7%8A%B6%E4%B8%8D%E6%98%8E%E7%89%A9)
-1. [消息人士称印巴空战参战飞机达 125 架](https://www.zhihu.com/search?q=%E6%B6%88%E6%81%AF%E4%BA%BA%E5%A3%AB%E7%A7%B0%E5%8D%B0%E5%B7%B4%E7%A9%BA%E6%88%98%E5%8F%82%E6%88%98%E9%A3%9E%E6%9C%BA%E8%BE%BE%20125%20%E6%9E%B6)
+1. [碳纤维舱盖和铝制舱盖对驾驶影响大吗](https://www.zhihu.com/search?q=%E7%A2%B3%E7%BA%A4%E7%BB%B4%E8%88%B1%E7%9B%96%E5%92%8C%E9%93%9D%E5%88%B6%E8%88%B1%E7%9B%96%E5%AF%B9%E9%A9%BE%E9%A9%B6%E5%BD%B1%E5%93%8D%E5%A4%A7%E5%90%97)
 1. [「青岛行人相撞案」现场视频公布](https://www.zhihu.com/search?q=%E3%80%8C%E9%9D%92%E5%B2%9B%E8%A1%8C%E4%BA%BA%E7%9B%B8%E6%92%9E%E6%A1%88%E3%80%8D%E7%8E%B0%E5%9C%BA%E8%A7%86%E9%A2%91%E5%85%AC%E5%B8%83)
 1. [高校75万采购299元产品项目违法违规](https://www.zhihu.com/search?q=%E9%AB%98%E6%A0%A175%E4%B8%87%E9%87%87%E8%B4%AD299%E5%85%83%E4%BA%A7%E5%93%81%E9%A1%B9%E7%9B%AE%E8%BF%9D%E6%B3%95%E8%BF%9D%E8%A7%84)
 1. [老人索要带孙费被驳回](https://www.zhihu.com/search?q=%E8%80%81%E4%BA%BA%E7%B4%A2%E8%A6%81%E5%B8%A6%E5%AD%99%E8%B4%B9%E8%A2%AB%E9%A9%B3%E5%9B%9E)
-1. [为何丁俊晖没拿到斯诺克世锦赛冠军](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E4%B8%81%E4%BF%8A%E6%99%96%E6%B2%A1%E6%8B%BF%E5%88%B0%E6%96%AF%E8%AF%BA%E5%85%8B%E4%B8%96%E9%94%A6%E8%B5%9B%E5%86%A0%E5%86%9B)
-1. [饿了么外卖站点两名骑手先后猝死](https://www.zhihu.com/search?q=%E9%A5%BF%E4%BA%86%E4%B9%88%E5%A4%96%E5%8D%96%E7%AB%99%E7%82%B9%E4%B8%A4%E5%90%8D%E9%AA%91%E6%89%8B%E5%85%88%E5%90%8E%E7%8C%9D%E6%AD%BB)
+1. [「春山学」博主被白敬亭申请强制执行](https://www.zhihu.com/search?q=%E3%80%8C%E6%98%A5%E5%B1%B1%E5%AD%A6%E3%80%8D%E5%8D%9A%E4%B8%BB%E8%A2%AB%E7%99%BD%E6%95%AC%E4%BA%AD%E7%94%B3%E8%AF%B7%E5%BC%BA%E5%88%B6%E6%89%A7%E8%A1%8C)
 1. [巴军方称又击落一架印度战机](https://www.zhihu.com/search?q=%E5%B7%B4%E5%86%9B%E6%96%B9%E7%A7%B0%E5%8F%88%E5%87%BB%E8%90%BD%E4%B8%80%E6%9E%B6%E5%8D%B0%E5%BA%A6%E6%88%98%E6%9C%BA)
-1. [张艺兴成为茅台首位文旅代言人](https://www.zhihu.com/search?q=%E5%BC%A0%E8%89%BA%E5%85%B4%E6%88%90%E4%B8%BA%E8%8C%85%E5%8F%B0%E9%A6%96%E4%BD%8D%E6%96%87%E6%97%85%E4%BB%A3%E8%A8%80%E4%BA%BA)
+1. [饿了么外卖站点两名骑手先后猝死](https://www.zhihu.com/search?q=%E9%A5%BF%E4%BA%86%E4%B9%88%E5%A4%96%E5%8D%96%E7%AB%99%E7%82%B9%E4%B8%A4%E5%90%8D%E9%AA%91%E6%89%8B%E5%85%88%E5%90%8E%E7%8C%9D%E6%AD%BB)
+1. [为何丁俊晖没拿到斯诺克世锦赛冠军](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E4%B8%81%E4%BF%8A%E6%99%96%E6%B2%A1%E6%8B%BF%E5%88%B0%E6%96%AF%E8%AF%BA%E5%85%8B%E4%B8%96%E9%94%A6%E8%B5%9B%E5%86%A0%E5%86%9B)
 1. [东航MU5828安全出口被乘客打开](https://www.zhihu.com/search?q=%E4%B8%9C%E8%88%AAMU5828%E5%AE%89%E5%85%A8%E5%87%BA%E5%8F%A3%E8%A2%AB%E4%B9%98%E5%AE%A2%E6%89%93%E5%BC%80)
+1. [消息人士称印巴空战参战飞机达 125 架](https://www.zhihu.com/search?q=%E6%B6%88%E6%81%AF%E4%BA%BA%E5%A3%AB%E7%A7%B0%E5%8D%B0%E5%B7%B4%E7%A9%BA%E6%88%98%E5%8F%82%E6%88%98%E9%A3%9E%E6%9C%BA%E8%BE%BE%20125%20%E6%9E%B6)
+1. [张艺兴成为茅台首位文旅代言人](https://www.zhihu.com/search?q=%E5%BC%A0%E8%89%BA%E5%85%B4%E6%88%90%E4%B8%BA%E8%8C%85%E5%8F%B0%E9%A6%96%E4%BD%8D%E6%96%87%E6%97%85%E4%BB%A3%E8%A8%80%E4%BA%BA)
 1. [巴方称击落 25 架印度无人机](https://www.zhihu.com/search?q=%E5%B7%B4%E6%96%B9%E7%A7%B0%E5%87%BB%E8%90%BD%2025%20%E6%9E%B6%E5%8D%B0%E5%BA%A6%E6%97%A0%E4%BA%BA%E6%9C%BA)
-1. [碳纤维舱盖和铝制舱盖对驾驶影响大吗](https://www.zhihu.com/search?q=%E7%A2%B3%E7%BA%A4%E7%BB%B4%E8%88%B1%E7%9B%96%E5%92%8C%E9%93%9D%E5%88%B6%E8%88%B1%E7%9B%96%E5%AF%B9%E9%A9%BE%E9%A9%B6%E5%BD%B1%E5%93%8D%E5%A4%A7%E5%90%97)
 1. [汉尼拔导演去世](https://www.zhihu.com/search?q=%E6%B1%89%E5%B0%BC%E6%8B%94%E5%AF%BC%E6%BC%94%E5%8E%BB%E4%B8%96)
 1. [若印巴大范围开战谁更有优势](https://www.zhihu.com/search?q=%E8%8B%A5%E5%8D%B0%E5%B7%B4%E5%A4%A7%E8%8C%83%E5%9B%B4%E5%BC%80%E6%88%98%E8%B0%81%E6%9B%B4%E6%9C%89%E4%BC%98%E5%8A%BF)
 1. [心相印回应旗舰店客服辱骂消费者](https://www.zhihu.com/search?q=%E5%BF%83%E7%9B%B8%E5%8D%B0%E5%9B%9E%E5%BA%94%E6%97%97%E8%88%B0%E5%BA%97%E5%AE%A2%E6%9C%8D%E8%BE%B1%E9%AA%82%E6%B6%88%E8%B4%B9%E8%80%85)
