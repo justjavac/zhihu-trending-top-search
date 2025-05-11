@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun May 11 2025 12:24:49 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun May 11 2025 13:19:29 GMT+0800 (China Standard Time) -->
 
 1. [印度和巴基斯坦已同意立即全面停火](https://www.zhihu.com/search?q=%E5%8D%B0%E5%BA%A6%E5%92%8C%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%B7%B2%E5%90%8C%E6%84%8F%E7%AB%8B%E5%8D%B3%E5%85%A8%E9%9D%A2%E5%81%9C%E7%81%AB)
 1. [中美经贸高层会谈](https://www.zhihu.com/search?q=%E4%B8%AD%E7%BE%8E%E7%BB%8F%E8%B4%B8%E9%AB%98%E5%B1%82%E4%BC%9A%E8%B0%88)
