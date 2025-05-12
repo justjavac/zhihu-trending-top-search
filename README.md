@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon May 12 2025 20:44:32 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon May 12 2025 21:33:06 GMT+0800 (China Standard Time) -->
 
 1. [中美日内瓦经贸会谈联合声明](https://www.zhihu.com/search?q=%E4%B8%AD%E7%BE%8E%E6%97%A5%E5%86%85%E7%93%A6%E7%BB%8F%E8%B4%B8%E4%BC%9A%E8%B0%88%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E)
 1. [西安雷雨夜空现条状不明物](https://www.zhihu.com/search?q=%E8%A5%BF%E5%AE%89%E9%9B%B7%E9%9B%A8%E5%A4%9C%E7%A9%BA%E7%8E%B0%E6%9D%A1%E7%8A%B6%E4%B8%8D%E6%98%8E%E7%89%A9)
@@ -24,8 +24,8 @@
 1. [暴涨近13000点 巴基斯坦股市熔断](https://www.zhihu.com/search?q=%E6%9A%B4%E6%B6%A8%E8%BF%9113000%E7%82%B9%20%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%82%A1%E5%B8%82%E7%86%94%E6%96%AD)
 1. [中国稀土出口管制还在继续](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E7%A8%80%E5%9C%9F%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6%E8%BF%98%E5%9C%A8%E7%BB%A7%E7%BB%AD)
 1. [中美经贸高层会谈](https://www.zhihu.com/search?q=%E4%B8%AD%E7%BE%8E%E7%BB%8F%E8%B4%B8%E9%AB%98%E5%B1%82%E4%BC%9A%E8%B0%88)
-1. [高校75万采购299元产品项目违法违规](https://www.zhihu.com/search?q=%E9%AB%98%E6%A0%A175%E4%B8%87%E9%87%87%E8%B4%AD299%E5%85%83%E4%BA%A7%E5%93%81%E9%A1%B9%E7%9B%AE%E8%BF%9D%E6%B3%95%E8%BF%9D%E8%A7%84)
 1. [男子为博流量做怪异行为致三人受伤](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%90%E4%B8%BA%E5%8D%9A%E6%B5%81%E9%87%8F%E5%81%9A%E6%80%AA%E5%BC%82%E8%A1%8C%E4%B8%BA%E8%87%B4%E4%B8%89%E4%BA%BA%E5%8F%97%E4%BC%A4)
+1. [高校75万采购299元产品项目违法违规](https://www.zhihu.com/search?q=%E9%AB%98%E6%A0%A175%E4%B8%87%E9%87%87%E8%B4%AD299%E5%85%83%E4%BA%A7%E5%93%81%E9%A1%B9%E7%9B%AE%E8%BF%9D%E6%B3%95%E8%BF%9D%E8%A7%84)
 1. [饿了么外卖站点两名骑手先后猝死](https://www.zhihu.com/search?q=%E9%A5%BF%E4%BA%86%E4%B9%88%E5%A4%96%E5%8D%96%E7%AB%99%E7%82%B9%E4%B8%A4%E5%90%8D%E9%AA%91%E6%89%8B%E5%85%88%E5%90%8E%E7%8C%9D%E6%AD%BB)
 1. [工行疑似掺假金条检测结果为真金](https://www.zhihu.com/search?q=%E5%B7%A5%E8%A1%8C%E7%96%91%E4%BC%BC%E6%8E%BA%E5%81%87%E9%87%91%E6%9D%A1%E6%A3%80%E6%B5%8B%E7%BB%93%E6%9E%9C%E4%B8%BA%E7%9C%9F%E9%87%91)
 1. [老人索要带孙费被驳回](https://www.zhihu.com/search?q=%E8%80%81%E4%BA%BA%E7%B4%A2%E8%A6%81%E5%B8%A6%E5%AD%99%E8%B4%B9%E8%A2%AB%E9%A9%B3%E5%9B%9E)
