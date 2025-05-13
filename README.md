@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue May 13 2025 22:22:02 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue May 13 2025 23:23:04 GMT+0800 (China Standard Time) -->
 
 1. [五部门约谈外卖平台企业](https://www.zhihu.com/search?q=%E4%BA%94%E9%83%A8%E9%97%A8%E7%BA%A6%E8%B0%88%E5%A4%96%E5%8D%96%E5%B9%B3%E5%8F%B0%E4%BC%81%E4%B8%9A)
 1. [中美日内瓦经贸会谈联合声明](https://www.zhihu.com/search?q=%E4%B8%AD%E7%BE%8E%E6%97%A5%E5%86%85%E7%93%A6%E7%BB%8F%E8%B4%B8%E4%BC%9A%E8%B0%88%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E)
@@ -23,12 +23,13 @@
 1. [神曲刚买的飞机被打了](https://www.zhihu.com/search?q=%E7%A5%9E%E6%9B%B2%E5%88%9A%E4%B9%B0%E7%9A%84%E9%A3%9E%E6%9C%BA%E8%A2%AB%E6%89%93%E4%BA%86)
 1. [中美相互24%关税90天内暂停实施](https://www.zhihu.com/search?q=%E4%B8%AD%E7%BE%8E%E7%9B%B8%E4%BA%9224%25%E5%85%B3%E7%A8%8E90%E5%A4%A9%E5%86%85%E6%9A%82%E5%81%9C%E5%AE%9E%E6%96%BD)
 1. [工行疑似掺假金条检测结果为真金](https://www.zhihu.com/search?q=%E5%B7%A5%E8%A1%8C%E7%96%91%E4%BC%BC%E6%8E%BA%E5%81%87%E9%87%91%E6%9D%A1%E6%A3%80%E6%B5%8B%E7%BB%93%E6%9E%9C%E4%B8%BA%E7%9C%9F%E9%87%91)
+1. [辣椒传入中国前四川人湖南人吃什么](https://www.zhihu.com/search?q=%E8%BE%A3%E6%A4%92%E4%BC%A0%E5%85%A5%E4%B8%AD%E5%9B%BD%E5%89%8D%E5%9B%9B%E5%B7%9D%E4%BA%BA%E6%B9%96%E5%8D%97%E4%BA%BA%E5%90%83%E4%BB%80%E4%B9%88)
 1. [大学生无恋人抑郁风险高](https://www.zhihu.com/search?q=%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%97%A0%E6%81%8B%E4%BA%BA%E6%8A%91%E9%83%81%E9%A3%8E%E9%99%A9%E9%AB%98)
-1. [男子为博流量做怪异行为致三人受伤](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%90%E4%B8%BA%E5%8D%9A%E6%B5%81%E9%87%8F%E5%81%9A%E6%80%AA%E5%BC%82%E8%A1%8C%E4%B8%BA%E8%87%B4%E4%B8%89%E4%BA%BA%E5%8F%97%E4%BC%A4)
 1. [北京多地出现大雨+冰雹](https://www.zhihu.com/search?q=%E5%8C%97%E4%BA%AC%E5%A4%9A%E5%9C%B0%E5%87%BA%E7%8E%B0%E5%A4%A7%E9%9B%A8%2B%E5%86%B0%E9%9B%B9)
 1. [多地登记结婚预约爆满](https://www.zhihu.com/search?q=%E5%A4%9A%E5%9C%B0%E7%99%BB%E8%AE%B0%E7%BB%93%E5%A9%9A%E9%A2%84%E7%BA%A6%E7%88%86%E6%BB%A1)
-1. [文科教师沦为高校「大厂」边缘人](https://www.zhihu.com/search?q=%E6%96%87%E7%A7%91%E6%95%99%E5%B8%88%E6%B2%A6%E4%B8%BA%E9%AB%98%E6%A0%A1%E3%80%8C%E5%A4%A7%E5%8E%82%E3%80%8D%E8%BE%B9%E7%BC%98%E4%BA%BA)
 1. [黄圣依妈妈打压式教育方式](https://www.zhihu.com/search?q=%E9%BB%84%E5%9C%A3%E4%BE%9D%E5%A6%88%E5%A6%88%E6%89%93%E5%8E%8B%E5%BC%8F%E6%95%99%E8%82%B2%E6%96%B9%E5%BC%8F)
+1. [男子为博流量做怪异行为致三人受伤](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%90%E4%B8%BA%E5%8D%9A%E6%B5%81%E9%87%8F%E5%81%9A%E6%80%AA%E5%BC%82%E8%A1%8C%E4%B8%BA%E8%87%B4%E4%B8%89%E4%BA%BA%E5%8F%97%E4%BC%A4)
+1. [文科教师沦为高校「大厂」边缘人](https://www.zhihu.com/search?q=%E6%96%87%E7%A7%91%E6%95%99%E5%B8%88%E6%B2%A6%E4%B8%BA%E9%AB%98%E6%A0%A1%E3%80%8C%E5%A4%A7%E5%8E%82%E3%80%8D%E8%BE%B9%E7%BC%98%E4%BA%BA)
 1. [如何从法律角度解读青岛行人相撞案现场视频](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E4%BB%8E%E6%B3%95%E5%BE%8B%E8%A7%92%E5%BA%A6%E8%A7%A3%E8%AF%BB%E9%9D%92%E5%B2%9B%E8%A1%8C%E4%BA%BA%E7%9B%B8%E6%92%9E%E6%A1%88%E7%8E%B0%E5%9C%BA%E8%A7%86%E9%A2%91)
 1. [长沙一乡村别墅现地下代孕交易](https://www.zhihu.com/search?q=%E9%95%BF%E6%B2%99%E4%B8%80%E4%B9%A1%E6%9D%91%E5%88%AB%E5%A2%85%E7%8E%B0%E5%9C%B0%E4%B8%8B%E4%BB%A3%E5%AD%95%E4%BA%A4%E6%98%93)
 1. [如何反驳「我月薪三千国家兴衰与我无关」](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E5%8F%8D%E9%A9%B3%E3%80%8C%E6%88%91%E6%9C%88%E8%96%AA%E4%B8%89%E5%8D%83%E5%9B%BD%E5%AE%B6%E5%85%B4%E8%A1%B0%E4%B8%8E%E6%88%91%E6%97%A0%E5%85%B3%E3%80%8D)
