@@ -2,8 +2,10 @@
   { "query_display": "国家卫健委通报肖某事件", "real_query": "国家卫健委通报肖某事件" },
   { "query_display": "中方调整对美进口商品加征关税措施", "real_query": "中方调整对美进口商品加征关税措施" },
   { "query_display": "疑似赵丽颖新恋情曝光", "real_query": "疑似赵丽颖新恋情曝光" },
-  { "query_display": "刘晓庆回应被举报涉嫌偷漏税", "real_query": "刘晓庆回应被举报涉嫌偷漏税" },
-  { "query_display": "为何近年来高端水果越卖越便宜了", "real_query": "为何近年来高端水果越卖越便宜了" },
+  {
+    "query_display": "中美日内瓦经贸会谈联合声明有哪些值得关注",
+    "real_query": "中美日内瓦经贸会谈联合声明有哪些值得关注"
+  },
   { "query_display": "董某莹被撤销毕业证学位证", "real_query": "董某莹被撤销毕业证学位证" },
   { "query_display": "肖某被吊销医师执业证书", "real_query": "肖某被吊销医师执业证书" },
   { "query_display": "为救同学缺考小伙将参加副题考试", "real_query": "为救同学缺考小伙将参加副题考试" },
@@ -12,6 +14,8 @@
   { "query_display": "某研报称煤炭可通过击杀凋灵骷髅获得", "real_query": "某研报称煤炭可通过击杀凋灵骷髅获得" },
   { "query_display": "回到起点后是否意味中美贸易将回归正常", "real_query": "回到起点后是否意味中美贸易将回归正常" },
   { "query_display": "夫妻俩家中印制 20 多万元假币", "real_query": "夫妻俩家中印制 20 多万元假币" },
+  { "query_display": "刘晓庆回应被举报涉嫌偷漏税", "real_query": "刘晓庆回应被举报涉嫌偷漏税" },
+  { "query_display": "为何近年来高端水果越卖越便宜了", "real_query": "为何近年来高端水果越卖越便宜了" },
   { "query_display": "大连西山水库现成群外来物种埃及塘鲺", "real_query": "大连西山水库现成群外来物种埃及塘鲺" },
   { "query_display": "赵丽颖", "real_query": "赵丽颖" },
   { "query_display": "空战的时候可以先击落预警机吗", "real_query": "空战的时候可以先击落预警机吗" }
