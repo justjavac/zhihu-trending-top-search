@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri May 16 2025 00:27:33 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri May 16 2025 01:18:47 GMT+0800 (China Standard Time) -->
 
 1. [国家卫健委通报肖某事件](https://www.zhihu.com/search?q=%E5%9B%BD%E5%AE%B6%E5%8D%AB%E5%81%A5%E5%A7%94%E9%80%9A%E6%8A%A5%E8%82%96%E6%9F%90%E4%BA%8B%E4%BB%B6)
 1. [肖某被吊销医师执业证书](https://www.zhihu.com/search?q=%E8%82%96%E6%9F%90%E8%A2%AB%E5%90%8A%E9%94%80%E5%8C%BB%E5%B8%88%E6%89%A7%E4%B8%9A%E8%AF%81%E4%B9%A6)
@@ -27,6 +27,7 @@
 1. [赵丽颖和导演赵德胤疑似恋爱](https://www.zhihu.com/search?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%92%8C%E5%AF%BC%E6%BC%94%E8%B5%B5%E5%BE%B7%E8%83%A4%E7%96%91%E4%BC%BC%E6%81%8B%E7%88%B1)
 1. [夫妻俩家中印制 20 多万元假币](https://www.zhihu.com/search?q=%E5%A4%AB%E5%A6%BB%E4%BF%A9%E5%AE%B6%E4%B8%AD%E5%8D%B0%E5%88%B6%2020%20%E5%A4%9A%E4%B8%87%E5%85%83%E5%81%87%E5%B8%81)
 1. [赵丽颖](https://www.zhihu.com/search?q=%E8%B5%B5%E4%B8%BD%E9%A2%96)
+1. [空战的时候可以先击落预警机吗](https://www.zhihu.com/search?q=%E7%A9%BA%E6%88%98%E7%9A%84%E6%97%B6%E5%80%99%E5%8F%AF%E4%BB%A5%E5%85%88%E5%87%BB%E8%90%BD%E9%A2%84%E8%AD%A6%E6%9C%BA%E5%90%97)
 1. [回到起点后是否意味中美贸易将回归正常](https://www.zhihu.com/search?q=%E5%9B%9E%E5%88%B0%E8%B5%B7%E7%82%B9%E5%90%8E%E6%98%AF%E5%90%A6%E6%84%8F%E5%91%B3%E4%B8%AD%E7%BE%8E%E8%B4%B8%E6%98%93%E5%B0%86%E5%9B%9E%E5%BD%92%E6%AD%A3%E5%B8%B8)
 
 <!-- END -->
