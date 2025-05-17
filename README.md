@@ -14,13 +14,14 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat May 17 2025 15:18:45 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat May 17 2025 16:25:23 GMT+0800 (China Standard Time) -->
 
+1. [周思成称刘晓艳编假学历](https://www.zhihu.com/search?q=%E5%91%A8%E6%80%9D%E6%88%90%E7%A7%B0%E5%88%98%E6%99%93%E8%89%B3%E7%BC%96%E5%81%87%E5%AD%A6%E5%8E%86)
 1. [国家卫健委通报肖某事件](https://www.zhihu.com/search?q=%E5%9B%BD%E5%AE%B6%E5%8D%AB%E5%81%A5%E5%A7%94%E9%80%9A%E6%8A%A5%E8%82%96%E6%9F%90%E4%BA%8B%E4%BB%B6)
 1. [黄杨钿甜戴 230 万耳环被质疑](https://www.zhihu.com/search?q=%E9%BB%84%E6%9D%A8%E9%92%BF%E7%94%9C%E6%88%B4%20230%20%E4%B8%87%E8%80%B3%E7%8E%AF%E8%A2%AB%E8%B4%A8%E7%96%91)
 1. [董某莹被撤销毕业证学位证](https://www.zhihu.com/search?q=%E8%91%A3%E6%9F%90%E8%8E%B9%E8%A2%AB%E6%92%A4%E9%94%80%E6%AF%95%E4%B8%9A%E8%AF%81%E5%AD%A6%E4%BD%8D%E8%AF%81)
-1. [男生为救同学缺考职教高考有补考机制吗](https://www.zhihu.com/search?q=%E7%94%B7%E7%94%9F%E4%B8%BA%E6%95%91%E5%90%8C%E5%AD%A6%E7%BC%BA%E8%80%83%E8%81%8C%E6%95%99%E9%AB%98%E8%80%83%E6%9C%89%E8%A1%A5%E8%80%83%E6%9C%BA%E5%88%B6%E5%90%97)
 1. [OpenAI 上线新一代编程神器 Codex](https://www.zhihu.com/search?q=OpenAI%20%E4%B8%8A%E7%BA%BF%E6%96%B0%E4%B8%80%E4%BB%A3%E7%BC%96%E7%A8%8B%E7%A5%9E%E5%99%A8%20Codex)
+1. [男生为救同学缺考职教高考有补考机制吗](https://www.zhihu.com/search?q=%E7%94%B7%E7%94%9F%E4%B8%BA%E6%95%91%E5%90%8C%E5%AD%A6%E7%BC%BA%E8%80%83%E8%81%8C%E6%95%99%E9%AB%98%E8%80%83%E6%9C%89%E8%A1%A5%E8%80%83%E6%9C%BA%E5%88%B6%E5%90%97)
 1. [黄杨钿甜父亲回应](https://www.zhihu.com/search?q=%E9%BB%84%E6%9D%A8%E9%92%BF%E7%94%9C%E7%88%B6%E4%BA%B2%E5%9B%9E%E5%BA%94)
 1. [肖某被吊销医师执业证书](https://www.zhihu.com/search?q=%E8%82%96%E6%9F%90%E8%A2%AB%E5%90%8A%E9%94%80%E5%8C%BB%E5%B8%88%E6%89%A7%E4%B8%9A%E8%AF%81%E4%B9%A6)
 1. [《歌手 2025》第一期](https://www.zhihu.com/search?q=%E3%80%8A%E6%AD%8C%E6%89%8B%202025%E3%80%8B%E7%AC%AC%E4%B8%80%E6%9C%9F)
