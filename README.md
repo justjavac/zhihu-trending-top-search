@@ -14,20 +14,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat May 17 2025 16:25:23 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat May 17 2025 17:19:56 GMT+0800 (China Standard Time) -->
 
 1. [周思成称刘晓艳编假学历](https://www.zhihu.com/search?q=%E5%91%A8%E6%80%9D%E6%88%90%E7%A7%B0%E5%88%98%E6%99%93%E8%89%B3%E7%BC%96%E5%81%87%E5%AD%A6%E5%8E%86)
 1. [国家卫健委通报肖某事件](https://www.zhihu.com/search?q=%E5%9B%BD%E5%AE%B6%E5%8D%AB%E5%81%A5%E5%A7%94%E9%80%9A%E6%8A%A5%E8%82%96%E6%9F%90%E4%BA%8B%E4%BB%B6)
 1. [黄杨钿甜戴 230 万耳环被质疑](https://www.zhihu.com/search?q=%E9%BB%84%E6%9D%A8%E9%92%BF%E7%94%9C%E6%88%B4%20230%20%E4%B8%87%E8%80%B3%E7%8E%AF%E8%A2%AB%E8%B4%A8%E7%96%91)
 1. [董某莹被撤销毕业证学位证](https://www.zhihu.com/search?q=%E8%91%A3%E6%9F%90%E8%8E%B9%E8%A2%AB%E6%92%A4%E9%94%80%E6%AF%95%E4%B8%9A%E8%AF%81%E5%AD%A6%E4%BD%8D%E8%AF%81)
 1. [OpenAI 上线新一代编程神器 Codex](https://www.zhihu.com/search?q=OpenAI%20%E4%B8%8A%E7%BA%BF%E6%96%B0%E4%B8%80%E4%BB%A3%E7%BC%96%E7%A8%8B%E7%A5%9E%E5%99%A8%20Codex)
-1. [男生为救同学缺考职教高考有补考机制吗](https://www.zhihu.com/search?q=%E7%94%B7%E7%94%9F%E4%B8%BA%E6%95%91%E5%90%8C%E5%AD%A6%E7%BC%BA%E8%80%83%E8%81%8C%E6%95%99%E9%AB%98%E8%80%83%E6%9C%89%E8%A1%A5%E8%80%83%E6%9C%BA%E5%88%B6%E5%90%97)
+1. [如何看待美国和沙特签署千亿美元军售协议](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E7%BE%8E%E5%9B%BD%E5%92%8C%E6%B2%99%E7%89%B9%E7%AD%BE%E7%BD%B2%E5%8D%83%E4%BA%BF%E7%BE%8E%E5%85%83%E5%86%9B%E5%94%AE%E5%8D%8F%E8%AE%AE)
 1. [黄杨钿甜父亲回应](https://www.zhihu.com/search?q=%E9%BB%84%E6%9D%A8%E9%92%BF%E7%94%9C%E7%88%B6%E4%BA%B2%E5%9B%9E%E5%BA%94)
 1. [肖某被吊销医师执业证书](https://www.zhihu.com/search?q=%E8%82%96%E6%9F%90%E8%A2%AB%E5%90%8A%E9%94%80%E5%8C%BB%E5%B8%88%E6%89%A7%E4%B8%9A%E8%AF%81%E4%B9%A6)
 1. [《歌手 2025》第一期](https://www.zhihu.com/search?q=%E3%80%8A%E6%AD%8C%E6%89%8B%202025%E3%80%8B%E7%AC%AC%E4%B8%80%E6%9C%9F)
-1. [如何看待美国和沙特签署千亿美元军售协议](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E7%BE%8E%E5%9B%BD%E5%92%8C%E6%B2%99%E7%89%B9%E7%AD%BE%E7%BD%B2%E5%8D%83%E4%BA%BF%E7%BE%8E%E5%85%83%E5%86%9B%E5%94%AE%E5%8D%8F%E8%AE%AE)
+1. [为什么明星开始卷学历了](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%98%8E%E6%98%9F%E5%BC%80%E5%A7%8B%E5%8D%B7%E5%AD%A6%E5%8E%86%E4%BA%86)
 1. [特厨隋卞MCN敦促隋坡停止侵权](https://www.zhihu.com/search?q=%E7%89%B9%E5%8E%A8%E9%9A%8B%E5%8D%9EMCN%E6%95%A6%E4%BF%83%E9%9A%8B%E5%9D%A1%E5%81%9C%E6%AD%A2%E4%BE%B5%E6%9D%83)
 1. [小米自研手机 SoC 芯片「玄戒 O1」5 月下旬发布](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%E8%87%AA%E7%A0%94%E6%89%8B%E6%9C%BA%20SoC%20%E8%8A%AF%E7%89%87%E3%80%8C%E7%8E%84%E6%88%92%20O1%E3%80%8D5%20%E6%9C%88%E4%B8%8B%E6%97%AC%E5%8F%91%E5%B8%83)
+1. [男生为救同学缺考职教高考有补考机制吗](https://www.zhihu.com/search?q=%E7%94%B7%E7%94%9F%E4%B8%BA%E6%95%91%E5%90%8C%E5%AD%A6%E7%BC%BA%E8%80%83%E8%81%8C%E6%95%99%E9%AB%98%E8%80%83%E6%9C%89%E8%A1%A5%E8%80%83%E6%9C%BA%E5%88%B6%E5%90%97)
 1. [海洋馆回应魔鬼鱼是科学混养](https://www.zhihu.com/search?q=%E6%B5%B7%E6%B4%8B%E9%A6%86%E5%9B%9E%E5%BA%94%E9%AD%94%E9%AC%BC%E9%B1%BC%E6%98%AF%E7%A7%91%E5%AD%A6%E6%B7%B7%E5%85%BB)
 1. [博主称初中历史删除「康乾盛世」](https://www.zhihu.com/search?q=%E5%8D%9A%E4%B8%BB%E7%A7%B0%E5%88%9D%E4%B8%AD%E5%8E%86%E5%8F%B2%E5%88%A0%E9%99%A4%E3%80%8C%E5%BA%B7%E4%B9%BE%E7%9B%9B%E4%B8%96%E3%80%8D)
 1. [老人取钱身亡家属已和解，银行支付10万](https://www.zhihu.com/search?q=%E8%80%81%E4%BA%BA%E5%8F%96%E9%92%B1%E8%BA%AB%E4%BA%A1%E5%AE%B6%E5%B1%9E%E5%B7%B2%E5%92%8C%E8%A7%A3%EF%BC%8C%E9%93%B6%E8%A1%8C%E6%94%AF%E4%BB%9810%E4%B8%87)
