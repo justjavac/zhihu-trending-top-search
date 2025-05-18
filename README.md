@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun May 18 2025 09:52:24 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun May 18 2025 11:18:19 GMT+0800 (China Standard Time) -->
 
 1. [黄杨钿甜戴 230 万耳环被质疑](https://www.zhihu.com/search?q=%E9%BB%84%E6%9D%A8%E9%92%BF%E7%94%9C%E6%88%B4%20230%20%E4%B8%87%E8%80%B3%E7%8E%AF%E8%A2%AB%E8%B4%A8%E7%96%91)
 1. [黄杨钿甜父亲回应](https://www.zhihu.com/search?q=%E9%BB%84%E6%9D%A8%E9%92%BF%E7%94%9C%E7%88%B6%E4%BA%B2%E5%9B%9E%E5%BA%94)
@@ -27,6 +27,7 @@
 1. [潘展乐战胜孙杨](https://www.zhihu.com/search?q=%E6%BD%98%E5%B1%95%E4%B9%90%E6%88%98%E8%83%9C%E5%AD%99%E6%9D%A8)
 1. [如何看待煤炭可通过击杀凋灵骷髅获得的说法](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E7%85%A4%E7%82%AD%E5%8F%AF%E9%80%9A%E8%BF%87%E5%87%BB%E6%9D%80%E5%87%8B%E7%81%B5%E9%AA%B7%E9%AB%85%E8%8E%B7%E5%BE%97%E7%9A%84%E8%AF%B4%E6%B3%95)
 1. [美国加州50多只鸟空中突然爆炸](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E5%8A%A0%E5%B7%9E50%E5%A4%9A%E5%8F%AA%E9%B8%9F%E7%A9%BA%E4%B8%AD%E7%AA%81%E7%84%B6%E7%88%86%E7%82%B8)
+1. [网传原北理工教师宫某自杀](https://www.zhihu.com/search?q=%E7%BD%91%E4%BC%A0%E5%8E%9F%E5%8C%97%E7%90%86%E5%B7%A5%E6%95%99%E5%B8%88%E5%AE%AB%E6%9F%90%E8%87%AA%E6%9D%80)
 1. [医生提醒女性勿过度防晒](https://www.zhihu.com/search?q=%E5%8C%BB%E7%94%9F%E6%8F%90%E9%86%92%E5%A5%B3%E6%80%A7%E5%8B%BF%E8%BF%87%E5%BA%A6%E9%98%B2%E6%99%92)
 1. [特厨隋卞敦促隋坡停止侵权](https://www.zhihu.com/search?q=%E7%89%B9%E5%8E%A8%E9%9A%8B%E5%8D%9E%E6%95%A6%E4%BF%83%E9%9A%8B%E5%9D%A1%E5%81%9C%E6%AD%A2%E4%BE%B5%E6%9D%83)
 1. [男生为救同学缺考职教高考有补考机制吗](https://www.zhihu.com/search?q=%E7%94%B7%E7%94%9F%E4%B8%BA%E6%95%91%E5%90%8C%E5%AD%A6%E7%BC%BA%E8%80%83%E8%81%8C%E6%95%99%E9%AB%98%E8%80%83%E6%9C%89%E8%A1%A5%E8%80%83%E6%9C%BA%E5%88%B6%E5%90%97)
