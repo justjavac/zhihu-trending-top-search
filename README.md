@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri May 23 2025 21:31:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri May 23 2025 22:20:06 GMT+0800 (China Standard Time) -->
 
 1. [张学友演唱会撞期高考遭多人投诉](https://www.zhihu.com/search?q=%E5%BC%A0%E5%AD%A6%E5%8F%8B%E6%BC%94%E5%94%B1%E4%BC%9A%E6%92%9E%E6%9C%9F%E9%AB%98%E8%80%83%E9%81%AD%E5%A4%9A%E4%BA%BA%E6%8A%95%E8%AF%89)
 1. [美取消哈佛留学生合法身份行为被叫停](https://www.zhihu.com/search?q=%E7%BE%8E%E5%8F%96%E6%B6%88%E5%93%88%E4%BD%9B%E7%95%99%E5%AD%A6%E7%94%9F%E5%90%88%E6%B3%95%E8%BA%AB%E4%BB%BD%E8%A1%8C%E4%B8%BA%E8%A2%AB%E5%8F%AB%E5%81%9C)
