@@ -14,10 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri May 23 2025 19:17:48 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri May 23 2025 20:42:08 GMT+0800 (China Standard Time) -->
 
-1. [张学友演唱会撞期高考遭多人投诉](https://www.zhihu.com/search?q=%E5%BC%A0%E5%AD%A6%E5%8F%8B%E6%BC%94%E5%94%B1%E4%BC%9A%E6%92%9E%E6%9C%9F%E9%AB%98%E8%80%83%E9%81%AD%E5%A4%9A%E4%BA%BA%E6%8A%95%E8%AF%89)
 1. [美取消哈佛留学生合法身份行为被叫停](https://www.zhihu.com/search?q=%E7%BE%8E%E5%8F%96%E6%B6%88%E5%93%88%E4%BD%9B%E7%95%99%E5%AD%A6%E7%94%9F%E5%90%88%E6%B3%95%E8%BA%AB%E4%BB%BD%E8%A1%8C%E4%B8%BA%E8%A2%AB%E5%8F%AB%E5%81%9C)
+1. [张学友演唱会撞期高考遭多人投诉](https://www.zhihu.com/search?q=%E5%BC%A0%E5%AD%A6%E5%8F%8B%E6%BC%94%E5%94%B1%E4%BC%9A%E6%92%9E%E6%9C%9F%E9%AB%98%E8%80%83%E9%81%AD%E5%A4%9A%E4%BA%BA%E6%8A%95%E8%AF%89)
 1. [小米首款SUV小米YU7发布](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%E9%A6%96%E6%AC%BESUV%E5%B0%8F%E7%B1%B3YU7%E5%8F%91%E5%B8%83)
 1. [美国政府暂停哈佛大学招收国际学生](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E6%9A%82%E5%81%9C%E5%93%88%E4%BD%9B%E5%A4%A7%E5%AD%A6%E6%8B%9B%E6%94%B6%E5%9B%BD%E9%99%85%E5%AD%A6%E7%94%9F)
 1. [黄杨钿甜父亲被立案调查](https://www.zhihu.com/search?q=%E9%BB%84%E6%9D%A8%E9%92%BF%E7%94%9C%E7%88%B6%E4%BA%B2%E8%A2%AB%E7%AB%8B%E6%A1%88%E8%B0%83%E6%9F%A5)
@@ -26,8 +26,9 @@
 1. [朱媛媛去世](https://www.zhihu.com/search?q=%E6%9C%B1%E5%AA%9B%E5%AA%9B%E5%8E%BB%E4%B8%96)
 1. [我国法律对起名和改名的相关规定是怎样的](https://www.zhihu.com/search?q=%E6%88%91%E5%9B%BD%E6%B3%95%E5%BE%8B%E5%AF%B9%E8%B5%B7%E5%90%8D%E5%92%8C%E6%94%B9%E5%90%8D%E7%9A%84%E7%9B%B8%E5%85%B3%E8%A7%84%E5%AE%9A%E6%98%AF%E6%80%8E%E6%A0%B7%E7%9A%84)
 1. [世乒赛国乒男双全军覆没](https://www.zhihu.com/search?q=%E4%B8%96%E4%B9%92%E8%B5%9B%E5%9B%BD%E4%B9%92%E7%94%B7%E5%8F%8C%E5%85%A8%E5%86%9B%E8%A6%86%E6%B2%A1)
-1. [蜜雪冰城回应网友倒卖柠檬水赚差价](https://www.zhihu.com/search?q=%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E5%9B%9E%E5%BA%94%E7%BD%91%E5%8F%8B%E5%80%92%E5%8D%96%E6%9F%A0%E6%AA%AC%E6%B0%B4%E8%B5%9A%E5%B7%AE%E4%BB%B7)
 1. [黄杨钿甜父亲回应](https://www.zhihu.com/search?q=%E9%BB%84%E6%9D%A8%E9%92%BF%E7%94%9C%E7%88%B6%E4%BA%B2%E5%9B%9E%E5%BA%94)
+1. [活期存款已接近 0 利率](https://www.zhihu.com/search?q=%E6%B4%BB%E6%9C%9F%E5%AD%98%E6%AC%BE%E5%B7%B2%E6%8E%A5%E8%BF%91%200%20%E5%88%A9%E7%8E%87)
+1. [蜜雪冰城回应网友倒卖柠檬水赚差价](https://www.zhihu.com/search?q=%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E5%9B%9E%E5%BA%94%E7%BD%91%E5%8F%8B%E5%80%92%E5%8D%96%E6%9F%A0%E6%AA%AC%E6%B0%B4%E8%B5%9A%E5%B7%AE%E4%BB%B7)
 1. [对方的哪个瞬间让你的相亲终止了](https://www.zhihu.com/search?q=%E5%AF%B9%E6%96%B9%E7%9A%84%E5%93%AA%E4%B8%AA%E7%9E%AC%E9%97%B4%E8%AE%A9%E4%BD%A0%E7%9A%84%E7%9B%B8%E4%BA%B2%E7%BB%88%E6%AD%A2%E4%BA%86)
 1. [小猪佩奇妈妈生三胎](https://www.zhihu.com/search?q=%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87%E5%A6%88%E5%A6%88%E7%94%9F%E4%B8%89%E8%83%8E)
 1. [小米新品发布会](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%E6%96%B0%E5%93%81%E5%8F%91%E5%B8%83%E4%BC%9A)
