@@ -14,13 +14,13 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun May 25 2025 16:25:18 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun May 25 2025 17:19:38 GMT+0800 (China Standard Time) -->
 
 1. [2.5天休假模式真的来了](https://www.zhihu.com/search?q=2.5%E5%A4%A9%E4%BC%91%E5%81%87%E6%A8%A1%E5%BC%8F%E7%9C%9F%E7%9A%84%E6%9D%A5%E4%BA%86)
 1. [王楚钦雨果争冠](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E9%9B%A8%E6%9E%9C%E4%BA%89%E5%86%A0)
 1. [安徽亳州上百人吃提拉米苏中毒](https://www.zhihu.com/search?q=%E5%AE%89%E5%BE%BD%E4%BA%B3%E5%B7%9E%E4%B8%8A%E7%99%BE%E4%BA%BA%E5%90%83%E6%8F%90%E6%8B%89%E7%B1%B3%E8%8B%8F%E4%B8%AD%E6%AF%92)
-1. [黄杨钿甜父亲被立案调查](https://www.zhihu.com/search?q=%E9%BB%84%E6%9D%A8%E9%92%BF%E7%94%9C%E7%88%B6%E4%BA%B2%E8%A2%AB%E7%AB%8B%E6%A1%88%E8%B0%83%E6%9F%A5)
 1. [黄杨钿甜](https://www.zhihu.com/search?q=%E9%BB%84%E6%9D%A8%E9%92%BF%E7%94%9C)
+1. [黄杨钿甜父亲被立案调查](https://www.zhihu.com/search?q=%E9%BB%84%E6%9D%A8%E9%92%BF%E7%94%9C%E7%88%B6%E4%BA%B2%E8%A2%AB%E7%AB%8B%E6%A1%88%E8%B0%83%E6%9F%A5)
 1. [为何朝鲜新建驱逐舰下水会出现严重事故](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E6%9C%9D%E9%B2%9C%E6%96%B0%E5%BB%BA%E9%A9%B1%E9%80%90%E8%88%B0%E4%B8%8B%E6%B0%B4%E4%BC%9A%E5%87%BA%E7%8E%B0%E4%B8%A5%E9%87%8D%E4%BA%8B%E6%95%85)
 1. [美取消哈佛留学生合法身份行为被叫停](https://www.zhihu.com/search?q=%E7%BE%8E%E5%8F%96%E6%B6%88%E5%93%88%E4%BD%9B%E7%95%99%E5%AD%A6%E7%94%9F%E5%90%88%E6%B3%95%E8%BA%AB%E4%BB%BD%E8%A1%8C%E4%B8%BA%E8%A2%AB%E5%8F%AB%E5%81%9C)
 1. [巨子生物被指涉嫌严重造假](https://www.zhihu.com/search?q=%E5%B7%A8%E5%AD%90%E7%94%9F%E7%89%A9%E8%A2%AB%E6%8C%87%E6%B6%89%E5%AB%8C%E4%B8%A5%E9%87%8D%E9%80%A0%E5%81%87)
