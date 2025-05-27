@@ -14,12 +14,12 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue May 27 2025 18:24:16 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue May 27 2025 19:18:10 GMT+0800 (China Standard Time) -->
 
 1. [山东高密一化工车间发生爆炸事故](https://www.zhihu.com/search?q=%E5%B1%B1%E4%B8%9C%E9%AB%98%E5%AF%86%E4%B8%80%E5%8C%96%E5%B7%A5%E8%BD%A6%E9%97%B4%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85)
-1. [女子戴「能量石」三个月总是流鼻血](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E6%88%B4%E3%80%8C%E8%83%BD%E9%87%8F%E7%9F%B3%E3%80%8D%E4%B8%89%E4%B8%AA%E6%9C%88%E6%80%BB%E6%98%AF%E6%B5%81%E9%BC%BB%E8%A1%80)
-1. [男星张翰被起诉](https://www.zhihu.com/search?q=%E7%94%B7%E6%98%9F%E5%BC%A0%E7%BF%B0%E8%A2%AB%E8%B5%B7%E8%AF%89)
 1. [普京所乘直升机遭大规模袭击](https://www.zhihu.com/search?q=%E6%99%AE%E4%BA%AC%E6%89%80%E4%B9%98%E7%9B%B4%E5%8D%87%E6%9C%BA%E9%81%AD%E5%A4%A7%E8%A7%84%E6%A8%A1%E8%A2%AD%E5%87%BB)
+1. [男星张翰被起诉](https://www.zhihu.com/search?q=%E7%94%B7%E6%98%9F%E5%BC%A0%E7%BF%B0%E8%A2%AB%E8%B5%B7%E8%AF%89)
+1. [女子戴「能量石」三个月总是流鼻血](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E6%88%B4%E3%80%8C%E8%83%BD%E9%87%8F%E7%9F%B3%E3%80%8D%E4%B8%89%E4%B8%AA%E6%9C%88%E6%80%BB%E6%98%AF%E6%B5%81%E9%BC%BB%E8%A1%80)
 1. [优衣库大搞辣妹风 抛弃普通人](https://www.zhihu.com/search?q=%E4%BC%98%E8%A1%A3%E5%BA%93%E5%A4%A7%E6%90%9E%E8%BE%A3%E5%A6%B9%E9%A3%8E%20%E6%8A%9B%E5%BC%83%E6%99%AE%E9%80%9A%E4%BA%BA)
 1. [球员为何视 CBA 为亚洲篮球之巅](https://www.zhihu.com/search?q=%E7%90%83%E5%91%98%E4%B8%BA%E4%BD%95%E8%A7%86%20CBA%20%E4%B8%BA%E4%BA%9A%E6%B4%B2%E7%AF%AE%E7%90%83%E4%B9%8B%E5%B7%85)
 1. [特朗普政府不断打压哈佛有何目的](https://www.zhihu.com/search?q=%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E4%B8%8D%E6%96%AD%E6%89%93%E5%8E%8B%E5%93%88%E4%BD%9B%E6%9C%89%E4%BD%95%E7%9B%AE%E7%9A%84)
