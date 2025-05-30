@@ -14,20 +14,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri May 30 2025 22:21:18 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri May 30 2025 23:22:42 GMT+0800 (China Standard Time) -->
 
 1. [全国各地现理发店倒闭潮](https://www.zhihu.com/search?q=%E5%85%A8%E5%9B%BD%E5%90%84%E5%9C%B0%E7%8E%B0%E7%90%86%E5%8F%91%E5%BA%97%E5%80%92%E9%97%AD%E6%BD%AE)
 1. [《绝地潜兵2》超级上海保卫战](https://www.zhihu.com/search?q=%E3%80%8A%E7%BB%9D%E5%9C%B0%E6%BD%9C%E5%85%B52%E3%80%8B%E8%B6%85%E7%BA%A7%E4%B8%8A%E6%B5%B7%E4%BF%9D%E5%8D%AB%E6%88%98)
 1. [胖东来红内裤案宣判](https://www.zhihu.com/search?q=%E8%83%96%E4%B8%9C%E6%9D%A5%E7%BA%A2%E5%86%85%E8%A3%A4%E6%A1%88%E5%AE%A3%E5%88%A4)
-1. [若「余承东开车睡觉」属实他会受哪些处罚](https://www.zhihu.com/search?q=%E8%8B%A5%E3%80%8C%E4%BD%99%E6%89%BF%E4%B8%9C%E5%BC%80%E8%BD%A6%E7%9D%A1%E8%A7%89%E3%80%8D%E5%B1%9E%E5%AE%9E%E4%BB%96%E4%BC%9A%E5%8F%97%E5%93%AA%E4%BA%9B%E5%A4%84%E7%BD%9A)
+1. [男子玩滑翔伞被吸至八千米高空奇迹生还](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%90%E7%8E%A9%E6%BB%91%E7%BF%94%E4%BC%9E%E8%A2%AB%E5%90%B8%E8%87%B3%E5%85%AB%E5%8D%83%E7%B1%B3%E9%AB%98%E7%A9%BA%E5%A5%87%E8%BF%B9%E7%94%9F%E8%BF%98)
 1. [马斯克官宣即将离开特朗普政府](https://www.zhihu.com/search?q=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%AE%98%E5%AE%A3%E5%8D%B3%E5%B0%86%E7%A6%BB%E5%BC%80%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C)
 1. [武陵山天池底为 304 不锈钢](https://www.zhihu.com/search?q=%E6%AD%A6%E9%99%B5%E5%B1%B1%E5%A4%A9%E6%B1%A0%E5%BA%95%E4%B8%BA%20304%20%E4%B8%8D%E9%94%88%E9%92%A2)
 1. [石家庄铁道大学](https://www.zhihu.com/search?q=%E7%9F%B3%E5%AE%B6%E5%BA%84%E9%93%81%E9%81%93%E5%A4%A7%E5%AD%A6)
-1. [男子玩滑翔伞被吸至八千米高空奇迹生还](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%90%E7%8E%A9%E6%BB%91%E7%BF%94%E4%BC%9E%E8%A2%AB%E5%90%B8%E8%87%B3%E5%85%AB%E5%8D%83%E7%B1%B3%E9%AB%98%E7%A9%BA%E5%A5%87%E8%BF%B9%E7%94%9F%E8%BF%98)
-1. [多名运动员辟谣王楚钦与美娜恋爱](https://www.zhihu.com/search?q=%E5%A4%9A%E5%90%8D%E8%BF%90%E5%8A%A8%E5%91%98%E8%BE%9F%E8%B0%A3%E7%8E%8B%E6%A5%9A%E9%92%A6%E4%B8%8E%E7%BE%8E%E5%A8%9C%E6%81%8B%E7%88%B1)
-1. [天问二号发射成功](https://www.zhihu.com/search?q=%E5%A4%A9%E9%97%AE%E4%BA%8C%E5%8F%B7%E5%8F%91%E5%B0%84%E6%88%90%E5%8A%9F)
 1. [山东一化工厂发生爆炸目前情况如何](https://www.zhihu.com/search?q=%E5%B1%B1%E4%B8%9C%E4%B8%80%E5%8C%96%E5%B7%A5%E5%8E%82%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8%E7%9B%AE%E5%89%8D%E6%83%85%E5%86%B5%E5%A6%82%E4%BD%95)
+1. [多名运动员辟谣王楚钦与美娜恋爱](https://www.zhihu.com/search?q=%E5%A4%9A%E5%90%8D%E8%BF%90%E5%8A%A8%E5%91%98%E8%BE%9F%E8%B0%A3%E7%8E%8B%E6%A5%9A%E9%92%A6%E4%B8%8E%E7%BE%8E%E5%A8%9C%E6%81%8B%E7%88%B1)
 1. [影视飓风抨击视频号卖血视频乱象](https://www.zhihu.com/search?q=%E5%BD%B1%E8%A7%86%E9%A3%93%E9%A3%8E%E6%8A%A8%E5%87%BB%E8%A7%86%E9%A2%91%E5%8F%B7%E5%8D%96%E8%A1%80%E8%A7%86%E9%A2%91%E4%B9%B1%E8%B1%A1)
+1. [美团一季度收入同比大增 87.3%](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%A2%E4%B8%80%E5%AD%A3%E5%BA%A6%E6%94%B6%E5%85%A5%E5%90%8C%E6%AF%94%E5%A4%A7%E5%A2%9E%2087.3%25)
+1. [央视曝洞庭湖禁捕区犹如垂钓场](https://www.zhihu.com/search?q=%E5%A4%AE%E8%A7%86%E6%9B%9D%E6%B4%9E%E5%BA%AD%E6%B9%96%E7%A6%81%E6%8D%95%E5%8C%BA%E7%8A%B9%E5%A6%82%E5%9E%82%E9%92%93%E5%9C%BA)
+1. [若「余承东开车睡觉」属实他会受哪些处罚](https://www.zhihu.com/search?q=%E8%8B%A5%E3%80%8C%E4%BD%99%E6%89%BF%E4%B8%9C%E5%BC%80%E8%BD%A6%E7%9D%A1%E8%A7%89%E3%80%8D%E5%B1%9E%E5%AE%9E%E4%BB%96%E4%BC%9A%E5%8F%97%E5%93%AA%E4%BA%9B%E5%A4%84%E7%BD%9A)
+1. [天问二号发射成功](https://www.zhihu.com/search?q=%E5%A4%A9%E9%97%AE%E4%BA%8C%E5%8F%B7%E5%8F%91%E5%B0%84%E6%88%90%E5%8A%9F)
 1. [美法院叫停特朗普关税政策](https://www.zhihu.com/search?q=%E7%BE%8E%E6%B3%95%E9%99%A2%E5%8F%AB%E5%81%9C%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%B3%E7%A8%8E%E6%94%BF%E7%AD%96)
 1. [山东高密一化工车间发生爆炸事故](https://www.zhihu.com/search?q=%E5%B1%B1%E4%B8%9C%E9%AB%98%E5%AF%86%E4%B8%80%E5%8C%96%E5%B7%A5%E8%BD%A6%E9%97%B4%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85)
 1. [虾是海蟑螂吗](https://www.zhihu.com/search?q=%E8%99%BE%E6%98%AF%E6%B5%B7%E8%9F%91%E8%9E%82%E5%90%97)
