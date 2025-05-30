@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat May 31 2025 04:23:15 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat May 31 2025 05:18:58 GMT+0800 (China Standard Time) -->
 
 1. [全国各地现理发店倒闭潮](https://www.zhihu.com/search?q=%E5%85%A8%E5%9B%BD%E5%90%84%E5%9C%B0%E7%8E%B0%E7%90%86%E5%8F%91%E5%BA%97%E5%80%92%E9%97%AD%E6%BD%AE)
 1. [胖东来红内裤案宣判](https://www.zhihu.com/search?q=%E8%83%96%E4%B8%9C%E6%9D%A5%E7%BA%A2%E5%86%85%E8%A3%A4%E6%A1%88%E5%AE%A3%E5%88%A4)
