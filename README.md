@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat May 31 2025 00:27:25 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat May 31 2025 01:18:25 GMT+0800 (China Standard Time) -->
 
 1. [全国各地现理发店倒闭潮](https://www.zhihu.com/search?q=%E5%85%A8%E5%9B%BD%E5%90%84%E5%9C%B0%E7%8E%B0%E7%90%86%E5%8F%91%E5%BA%97%E5%80%92%E9%97%AD%E6%BD%AE)
 1. [《绝地潜兵2》超级上海保卫战](https://www.zhihu.com/search?q=%E3%80%8A%E7%BB%9D%E5%9C%B0%E6%BD%9C%E5%85%B52%E3%80%8B%E8%B6%85%E7%BA%A7%E4%B8%8A%E6%B5%B7%E4%BF%9D%E5%8D%AB%E6%88%98)
