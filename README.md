@@ -14,14 +14,14 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat May 31 2025 05:18:58 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat May 31 2025 06:20:02 GMT+0800 (China Standard Time) -->
 
 1. [全国各地现理发店倒闭潮](https://www.zhihu.com/search?q=%E5%85%A8%E5%9B%BD%E5%90%84%E5%9C%B0%E7%8E%B0%E7%90%86%E5%8F%91%E5%BA%97%E5%80%92%E9%97%AD%E6%BD%AE)
 1. [胖东来红内裤案宣判](https://www.zhihu.com/search?q=%E8%83%96%E4%B8%9C%E6%9D%A5%E7%BA%A2%E5%86%85%E8%A3%A4%E6%A1%88%E5%AE%A3%E5%88%A4)
 1. [《绝地潜兵2》超级上海保卫战](https://www.zhihu.com/search?q=%E3%80%8A%E7%BB%9D%E5%9C%B0%E6%BD%9C%E5%85%B52%E3%80%8B%E8%B6%85%E7%BA%A7%E4%B8%8A%E6%B5%B7%E4%BF%9D%E5%8D%AB%E6%88%98)
 1. [美团一季度收入同比大增 87.3%](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%A2%E4%B8%80%E5%AD%A3%E5%BA%A6%E6%94%B6%E5%85%A5%E5%90%8C%E6%AF%94%E5%A4%A7%E5%A2%9E%2087.3%25)
-1. [马斯克官宣即将离开特朗普政府](https://www.zhihu.com/search?q=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%AE%98%E5%AE%A3%E5%8D%B3%E5%B0%86%E7%A6%BB%E5%BC%80%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C)
 1. [武陵山天池底为 304 不锈钢](https://www.zhihu.com/search?q=%E6%AD%A6%E9%99%B5%E5%B1%B1%E5%A4%A9%E6%B1%A0%E5%BA%95%E4%B8%BA%20304%20%E4%B8%8D%E9%94%88%E9%92%A2)
+1. [马斯克官宣即将离开特朗普政府](https://www.zhihu.com/search?q=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%AE%98%E5%AE%A3%E5%8D%B3%E5%B0%86%E7%A6%BB%E5%BC%80%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C)
 1. [多名运动员辟谣王楚钦与美娜恋爱](https://www.zhihu.com/search?q=%E5%A4%9A%E5%90%8D%E8%BF%90%E5%8A%A8%E5%91%98%E8%BE%9F%E8%B0%A3%E7%8E%8B%E6%A5%9A%E9%92%A6%E4%B8%8E%E7%BE%8E%E5%A8%9C%E6%81%8B%E7%88%B1)
 1. [战鹰打游戏时斩获装备「战鹰的骨灰」](https://www.zhihu.com/search?q=%E6%88%98%E9%B9%B0%E6%89%93%E6%B8%B8%E6%88%8F%E6%97%B6%E6%96%A9%E8%8E%B7%E8%A3%85%E5%A4%87%E3%80%8C%E6%88%98%E9%B9%B0%E7%9A%84%E9%AA%A8%E7%81%B0%E3%80%8D)
 1. [石家庄铁道大学](https://www.zhihu.com/search?q=%E7%9F%B3%E5%AE%B6%E5%BA%84%E9%93%81%E9%81%93%E5%A4%A7%E5%AD%A6)
