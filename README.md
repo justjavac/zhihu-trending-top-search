@@ -14,12 +14,12 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jun 02 2025 05:18:44 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jun 02 2025 06:19:37 GMT+0800 (China Standard Time) -->
 
 1. [樊振东加盟德甲联赛](https://www.zhihu.com/search?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%8A%A0%E7%9B%9F%E5%BE%B7%E7%94%B2%E8%81%94%E8%B5%9B)
 1. [樊振东莫雷加德成为队友](https://www.zhihu.com/search?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E8%8E%AB%E9%9B%B7%E5%8A%A0%E5%BE%B7%E6%88%90%E4%B8%BA%E9%98%9F%E5%8F%8B)
-1. [欧冠决赛](https://www.zhihu.com/search?q=%E6%AC%A7%E5%86%A0%E5%86%B3%E8%B5%9B)
 1. [余承东暗讽小米车卖爆但没那么好](https://www.zhihu.com/search?q=%E4%BD%99%E6%89%BF%E4%B8%9C%E6%9A%97%E8%AE%BD%E5%B0%8F%E7%B1%B3%E8%BD%A6%E5%8D%96%E7%88%86%E4%BD%86%E6%B2%A1%E9%82%A3%E4%B9%88%E5%A5%BD)
+1. [欧冠决赛](https://www.zhihu.com/search?q=%E6%AC%A7%E5%86%A0%E5%86%B3%E8%B5%9B)
 1. [余承东抨击不顾生命安全的瞎吹](https://www.zhihu.com/search?q=%E4%BD%99%E6%89%BF%E4%B8%9C%E6%8A%A8%E5%87%BB%E4%B8%8D%E9%A1%BE%E7%94%9F%E5%91%BD%E5%AE%89%E5%85%A8%E7%9A%84%E7%9E%8E%E5%90%B9)
 1. [夫妻离婚均拒绝抚养网瘾儿子](https://www.zhihu.com/search?q=%E5%A4%AB%E5%A6%BB%E7%A6%BB%E5%A9%9A%E5%9D%87%E6%8B%92%E7%BB%9D%E6%8A%9A%E5%85%BB%E7%BD%91%E7%98%BE%E5%84%BF%E5%AD%90)
 1. [香港影坛「第一恶人」去世](https://www.zhihu.com/search?q=%E9%A6%99%E6%B8%AF%E5%BD%B1%E5%9D%9B%E3%80%8C%E7%AC%AC%E4%B8%80%E6%81%B6%E4%BA%BA%E3%80%8D%E5%8E%BB%E4%B8%96)
