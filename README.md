@@ -14,15 +14,15 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jun 02 2025 21:33:34 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jun 02 2025 22:22:12 GMT+0800 (China Standard Time) -->
 
 1. [张雪峰自曝可能告别直播](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E8%87%AA%E6%9B%9D%E5%8F%AF%E8%83%BD%E5%91%8A%E5%88%AB%E7%9B%B4%E6%92%AD)
 1. [樊振东加盟德甲联赛](https://www.zhihu.com/search?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%8A%A0%E7%9B%9F%E5%BE%B7%E7%94%B2%E8%81%94%E8%B5%9B)
 1. [蒋雨融否认走后门进哈佛](https://www.zhihu.com/search?q=%E8%92%8B%E9%9B%A8%E8%9E%8D%E5%90%A6%E8%AE%A4%E8%B5%B0%E5%90%8E%E9%97%A8%E8%BF%9B%E5%93%88%E4%BD%9B)
 1. [黑龙江多地拍到粉色极光](https://www.zhihu.com/search?q=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%A4%9A%E5%9C%B0%E6%8B%8D%E5%88%B0%E7%B2%89%E8%89%B2%E6%9E%81%E5%85%89)
-1. [樊振东莫雷加德成为队友](https://www.zhihu.com/search?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E8%8E%AB%E9%9B%B7%E5%8A%A0%E5%BE%B7%E6%88%90%E4%B8%BA%E9%98%9F%E5%8F%8B)
-1. [印度网红直播猥亵土耳其导游](https://www.zhihu.com/search?q=%E5%8D%B0%E5%BA%A6%E7%BD%91%E7%BA%A2%E7%9B%B4%E6%92%AD%E7%8C%A5%E4%BA%B5%E5%9C%9F%E8%80%B3%E5%85%B6%E5%AF%BC%E6%B8%B8)
 1. [乌方称摧毁41架俄战略轰炸机](https://www.zhihu.com/search?q=%E4%B9%8C%E6%96%B9%E7%A7%B0%E6%91%A7%E6%AF%8141%E6%9E%B6%E4%BF%84%E6%88%98%E7%95%A5%E8%BD%B0%E7%82%B8%E6%9C%BA)
+1. [印度网红直播猥亵土耳其导游](https://www.zhihu.com/search?q=%E5%8D%B0%E5%BA%A6%E7%BD%91%E7%BA%A2%E7%9B%B4%E6%92%AD%E7%8C%A5%E4%BA%B5%E5%9C%9F%E8%80%B3%E5%85%B6%E5%AF%BC%E6%B8%B8)
+1. [樊振东莫雷加德成为队友](https://www.zhihu.com/search?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E8%8E%AB%E9%9B%B7%E5%8A%A0%E5%BE%B7%E6%88%90%E4%B8%BA%E9%98%9F%E5%8F%8B)
 1. [全国多地密集上调最低工资标准](https://www.zhihu.com/search?q=%E5%85%A8%E5%9B%BD%E5%A4%9A%E5%9C%B0%E5%AF%86%E9%9B%86%E4%B8%8A%E8%B0%83%E6%9C%80%E4%BD%8E%E5%B7%A5%E8%B5%84%E6%A0%87%E5%87%86)
 1. [欧冠决赛](https://www.zhihu.com/search?q=%E6%AC%A7%E5%86%A0%E5%86%B3%E8%B5%9B)
 1. [余承东暗讽小米车卖爆但没那么好](https://www.zhihu.com/search?q=%E4%BD%99%E6%89%BF%E4%B8%9C%E6%9A%97%E8%AE%BD%E5%B0%8F%E7%B1%B3%E8%BD%A6%E5%8D%96%E7%88%86%E4%BD%86%E6%B2%A1%E9%82%A3%E4%B9%88%E5%A5%BD)
