@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jun 02 2025 19:18:54 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jun 02 2025 20:45:03 GMT+0800 (China Standard Time) -->
 
 1. [张雪峰自曝可能告别直播](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E8%87%AA%E6%9B%9D%E5%8F%AF%E8%83%BD%E5%91%8A%E5%88%AB%E7%9B%B4%E6%92%AD)
 1. [樊振东加盟德甲联赛](https://www.zhihu.com/search?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%8A%A0%E7%9B%9F%E5%BE%B7%E7%94%B2%E8%81%94%E8%B5%9B)
@@ -24,8 +24,10 @@
 1. [印度网红直播猥亵土耳其导游](https://www.zhihu.com/search?q=%E5%8D%B0%E5%BA%A6%E7%BD%91%E7%BA%A2%E7%9B%B4%E6%92%AD%E7%8C%A5%E4%BA%B5%E5%9C%9F%E8%80%B3%E5%85%B6%E5%AF%BC%E6%B8%B8)
 1. [乌方称摧毁41架俄战略轰炸机](https://www.zhihu.com/search?q=%E4%B9%8C%E6%96%B9%E7%A7%B0%E6%91%A7%E6%AF%8141%E6%9E%B6%E4%BF%84%E6%88%98%E7%95%A5%E8%BD%B0%E7%82%B8%E6%9C%BA)
 1. [欧冠决赛](https://www.zhihu.com/search?q=%E6%AC%A7%E5%86%A0%E5%86%B3%E8%B5%9B)
-1. [高丽大学决定接收哈佛师生](https://www.zhihu.com/search?q=%E9%AB%98%E4%B8%BD%E5%A4%A7%E5%AD%A6%E5%86%B3%E5%AE%9A%E6%8E%A5%E6%94%B6%E5%93%88%E4%BD%9B%E5%B8%88%E7%94%9F)
+1. [余承东暗讽小米车卖爆但没那么好](https://www.zhihu.com/search?q=%E4%BD%99%E6%89%BF%E4%B8%9C%E6%9A%97%E8%AE%BD%E5%B0%8F%E7%B1%B3%E8%BD%A6%E5%8D%96%E7%88%86%E4%BD%86%E6%B2%A1%E9%82%A3%E4%B9%88%E5%A5%BD)
 1. [全国多地密集上调最低工资标准](https://www.zhihu.com/search?q=%E5%85%A8%E5%9B%BD%E5%A4%9A%E5%9C%B0%E5%AF%86%E9%9B%86%E4%B8%8A%E8%B0%83%E6%9C%80%E4%BD%8E%E5%B7%A5%E8%B5%84%E6%A0%87%E5%87%86)
+1. [高丽大学决定接收哈佛师生](https://www.zhihu.com/search?q=%E9%AB%98%E4%B8%BD%E5%A4%A7%E5%AD%A6%E5%86%B3%E5%AE%9A%E6%8E%A5%E6%94%B6%E5%93%88%E4%BD%9B%E5%B8%88%E7%94%9F)
+1. [余承东抨击不顾生命安全的瞎吹](https://www.zhihu.com/search?q=%E4%BD%99%E6%89%BF%E4%B8%9C%E6%8A%A8%E5%87%BB%E4%B8%8D%E9%A1%BE%E7%94%9F%E5%91%BD%E5%AE%89%E5%85%A8%E7%9A%84%E7%9E%8E%E5%90%B9)
 1. [香港影坛「第一恶人」去世](https://www.zhihu.com/search?q=%E9%A6%99%E6%B8%AF%E5%BD%B1%E5%9D%9B%E3%80%8C%E7%AC%AC%E4%B8%80%E6%81%B6%E4%BA%BA%E3%80%8D%E5%8E%BB%E4%B8%96)
 1. [广西瓜农因收购价低把西瓜扔池塘](https://www.zhihu.com/search?q=%E5%B9%BF%E8%A5%BF%E7%93%9C%E5%86%9C%E5%9B%A0%E6%94%B6%E8%B4%AD%E4%BB%B7%E4%BD%8E%E6%8A%8A%E8%A5%BF%E7%93%9C%E6%89%94%E6%B1%A0%E5%A1%98)
 1. [6月1日到3日可能发生地磁暴](https://www.zhihu.com/search?q=6%E6%9C%881%E6%97%A5%E5%88%B03%E6%97%A5%E5%8F%AF%E8%83%BD%E5%8F%91%E7%94%9F%E5%9C%B0%E7%A3%81%E6%9A%B4)
@@ -33,8 +35,6 @@
 1. [成都崇州 3.9 级地震](https://www.zhihu.com/search?q=%E6%88%90%E9%83%BD%E5%B4%87%E5%B7%9E%203.9%20%E7%BA%A7%E5%9C%B0%E9%9C%87)
 1. [断眉袭榜单依纯](https://www.zhihu.com/search?q=%E6%96%AD%E7%9C%89%E8%A2%AD%E6%A6%9C%E5%8D%95%E4%BE%9D%E7%BA%AF)
 1. [端午档票房破亿](https://www.zhihu.com/search?q=%E7%AB%AF%E5%8D%88%E6%A1%A3%E7%A5%A8%E6%88%BF%E7%A0%B4%E4%BA%BF)
-1. [余承东暗讽小米车卖爆但没那么好](https://www.zhihu.com/search?q=%E4%BD%99%E6%89%BF%E4%B8%9C%E6%9A%97%E8%AE%BD%E5%B0%8F%E7%B1%B3%E8%BD%A6%E5%8D%96%E7%88%86%E4%BD%86%E6%B2%A1%E9%82%A3%E4%B9%88%E5%A5%BD)
-1. [余承东抨击不顾生命安全的瞎吹](https://www.zhihu.com/search?q=%E4%BD%99%E6%89%BF%E4%B8%9C%E6%8A%A8%E5%87%BB%E4%B8%8D%E9%A1%BE%E7%94%9F%E5%91%BD%E5%AE%89%E5%85%A8%E7%9A%84%E7%9E%8E%E5%90%B9)
 1. [江苏城市足球联赛](https://www.zhihu.com/search?q=%E6%B1%9F%E8%8B%8F%E5%9F%8E%E5%B8%82%E8%B6%B3%E7%90%83%E8%81%94%E8%B5%9B)
 1. [巴黎夺得欧冠冠军](https://www.zhihu.com/search?q=%E5%B7%B4%E9%BB%8E%E5%A4%BA%E5%BE%97%E6%AC%A7%E5%86%A0%E5%86%A0%E5%86%9B)
 1. [《绝地潜兵2》超级上海保卫战](https://www.zhihu.com/search?q=%E3%80%8A%E7%BB%9D%E5%9C%B0%E6%BD%9C%E5%85%B52%E3%80%8B%E8%B6%85%E7%BA%A7%E4%B8%8A%E6%B5%B7%E4%BF%9D%E5%8D%AB%E6%88%98)
