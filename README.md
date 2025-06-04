@@ -14,20 +14,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jun 04 2025 20:45:48 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jun 04 2025 21:35:28 GMT+0800 (China Standard Time) -->
 
 1. [张雪峰自曝可能告别直播](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E8%87%AA%E6%9B%9D%E5%8F%AF%E8%83%BD%E5%91%8A%E5%88%AB%E7%9B%B4%E6%92%AD)
 1. [四川拟将婚假最长延至25天](https://www.zhihu.com/search?q=%E5%9B%9B%E5%B7%9D%E6%8B%9F%E5%B0%86%E5%A9%9A%E5%81%87%E6%9C%80%E9%95%BF%E5%BB%B6%E8%87%B325%E5%A4%A9)
 1. [韩国大选](https://www.zhihu.com/search?q=%E9%9F%A9%E5%9B%BD%E5%A4%A7%E9%80%89)
 1. [亚朵酒店被曝出现医院枕套](https://www.zhihu.com/search?q=%E4%BA%9A%E6%9C%B5%E9%85%92%E5%BA%97%E8%A2%AB%E6%9B%9D%E5%87%BA%E7%8E%B0%E5%8C%BB%E9%99%A2%E6%9E%95%E5%A5%97)
-1. [为什么新乡医学院更名成功还是心有不甘](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%96%B0%E4%B9%A1%E5%8C%BB%E5%AD%A6%E9%99%A2%E6%9B%B4%E5%90%8D%E6%88%90%E5%8A%9F%E8%BF%98%E6%98%AF%E5%BF%83%E6%9C%89%E4%B8%8D%E7%94%98)
-1. [李在明](https://www.zhihu.com/search?q=%E6%9D%8E%E5%9C%A8%E6%98%8E)
+1. [为何特朗普政府要不断打压美国高校](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E8%A6%81%E4%B8%8D%E6%96%AD%E6%89%93%E5%8E%8B%E7%BE%8E%E5%9B%BD%E9%AB%98%E6%A0%A1)
 1. [李在明为什么会赢](https://www.zhihu.com/search?q=%E6%9D%8E%E5%9C%A8%E6%98%8E%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E8%B5%A2)
-1. [迅雷完成对虎扑收购](https://www.zhihu.com/search?q=%E8%BF%85%E9%9B%B7%E5%AE%8C%E6%88%90%E5%AF%B9%E8%99%8E%E6%89%91%E6%94%B6%E8%B4%AD)
+1. [李在明](https://www.zhihu.com/search?q=%E6%9D%8E%E5%9C%A8%E6%98%8E)
 1. [白象多半袋面的「多半」是商标](https://www.zhihu.com/search?q=%E7%99%BD%E8%B1%A1%E5%A4%9A%E5%8D%8A%E8%A2%8B%E9%9D%A2%E7%9A%84%E3%80%8C%E5%A4%9A%E5%8D%8A%E3%80%8D%E6%98%AF%E5%95%86%E6%A0%87)
+1. [迅雷完成对虎扑收购](https://www.zhihu.com/search?q=%E8%BF%85%E9%9B%B7%E5%AE%8C%E6%88%90%E5%AF%B9%E8%99%8E%E6%89%91%E6%94%B6%E8%B4%AD)
 1. [9人组织未成年人有偿陪侍获刑](https://www.zhihu.com/search?q=9%E4%BA%BA%E7%BB%84%E7%BB%87%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E6%9C%89%E5%81%BF%E9%99%AA%E4%BE%8D%E8%8E%B7%E5%88%91)
 1. [巨子生物被指涉嫌严重造假](https://www.zhihu.com/search?q=%E5%B7%A8%E5%AD%90%E7%94%9F%E7%89%A9%E8%A2%AB%E6%8C%87%E6%B6%89%E5%AB%8C%E4%B8%A5%E9%87%8D%E9%80%A0%E5%81%87)
 1. [男子突发大小眼症状后确诊肺癌](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%90%E7%AA%81%E5%8F%91%E5%A4%A7%E5%B0%8F%E7%9C%BC%E7%97%87%E7%8A%B6%E5%90%8E%E7%A1%AE%E8%AF%8A%E8%82%BA%E7%99%8C)
+1. [为什么新乡医学院更名成功还是心有不甘](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%96%B0%E4%B9%A1%E5%8C%BB%E5%AD%A6%E9%99%A2%E6%9B%B4%E5%90%8D%E6%88%90%E5%8A%9F%E8%BF%98%E6%98%AF%E5%BF%83%E6%9C%89%E4%B8%8D%E7%94%98)
 1. [乌方称摧毁41架俄战略轰炸机](https://www.zhihu.com/search?q=%E4%B9%8C%E6%96%B9%E7%A7%B0%E6%91%A7%E6%AF%8141%E6%9E%B6%E4%BF%84%E6%88%98%E7%95%A5%E8%BD%B0%E7%82%B8%E6%9C%BA)
 1. [如何评价各车企 5 月销量数据](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%90%84%E8%BD%A6%E4%BC%81%205%20%E6%9C%88%E9%94%80%E9%87%8F%E6%95%B0%E6%8D%AE)
 1. [台湾一旅行团被整团卖到缅甸](https://www.zhihu.com/search?q=%E5%8F%B0%E6%B9%BE%E4%B8%80%E6%97%85%E8%A1%8C%E5%9B%A2%E8%A2%AB%E6%95%B4%E5%9B%A2%E5%8D%96%E5%88%B0%E7%BC%85%E7%94%B8)
@@ -57,7 +58,6 @@
 1. [一个重达 2 吨的肥宅能不能赢泰森](https://www.zhihu.com/search?q=%E4%B8%80%E4%B8%AA%E9%87%8D%E8%BE%BE%202%20%E5%90%A8%E7%9A%84%E8%82%A5%E5%AE%85%E8%83%BD%E4%B8%8D%E8%83%BD%E8%B5%A2%E6%B3%B0%E6%A3%AE)
 1. [马克龙称专机上被妻子推搡只是玩笑](https://www.zhihu.com/search?q=%E9%A9%AC%E5%85%8B%E9%BE%99%E7%A7%B0%E4%B8%93%E6%9C%BA%E4%B8%8A%E8%A2%AB%E5%A6%BB%E5%AD%90%E6%8E%A8%E6%90%A1%E5%8F%AA%E6%98%AF%E7%8E%A9%E7%AC%91)
 1. [印度网红直播猥亵土耳其导游](https://www.zhihu.com/search?q=%E5%8D%B0%E5%BA%A6%E7%BD%91%E7%BA%A2%E7%9B%B4%E6%92%AD%E7%8C%A5%E4%BA%B5%E5%9C%9F%E8%80%B3%E5%85%B6%E5%AF%BC%E6%B8%B8)
-1. [为何特朗普政府要不断打压美国高校](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E8%A6%81%E4%B8%8D%E6%96%AD%E6%89%93%E5%8E%8B%E7%BE%8E%E5%9B%BD%E9%AB%98%E6%A0%A1)
 
 <!-- END -->
 
