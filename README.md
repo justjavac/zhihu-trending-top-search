@@ -14,20 +14,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jun 06 2025 22:20:54 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jun 06 2025 23:20:11 GMT+0800 (China Standard Time) -->
 
 1. [警方通报武汉大学伤人事件](https://www.zhihu.com/search?q=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6%E4%BC%A4%E4%BA%BA%E4%BA%8B%E4%BB%B6)
 1. [特朗普马斯克公开骂战](https://www.zhihu.com/search?q=%E7%89%B9%E6%9C%97%E6%99%AE%E9%A9%AC%E6%96%AF%E5%85%8B%E5%85%AC%E5%BC%80%E9%AA%82%E6%88%98)
 1. [国足不敌印尼无缘晋级世界杯](https://www.zhihu.com/search?q=%E5%9B%BD%E8%B6%B3%E4%B8%8D%E6%95%8C%E5%8D%B0%E5%B0%BC%E6%97%A0%E7%BC%98%E6%99%8B%E7%BA%A7%E4%B8%96%E7%95%8C%E6%9D%AF)
 1. [三亚女游客死亡记录公布](https://www.zhihu.com/search?q=%E4%B8%89%E4%BA%9A%E5%A5%B3%E6%B8%B8%E5%AE%A2%E6%AD%BB%E4%BA%A1%E8%AE%B0%E5%BD%95%E5%85%AC%E5%B8%83)
-1. [你是否支持英语退出主科地位](https://www.zhihu.com/search?q=%E4%BD%A0%E6%98%AF%E5%90%A6%E6%94%AF%E6%8C%81%E8%8B%B1%E8%AF%AD%E9%80%80%E5%87%BA%E4%B8%BB%E7%A7%91%E5%9C%B0%E4%BD%8D)
-1. [宝马5系裸车跌至26万](https://www.zhihu.com/search?q=%E5%AE%9D%E9%A9%AC5%E7%B3%BB%E8%A3%B8%E8%BD%A6%E8%B7%8C%E8%87%B326%E4%B8%87)
+1. [官方称前 4 个月民营经济收入提升明显](https://www.zhihu.com/search?q=%E5%AE%98%E6%96%B9%E7%A7%B0%E5%89%8D%204%20%E4%B8%AA%E6%9C%88%E6%B0%91%E8%90%A5%E7%BB%8F%E6%B5%8E%E6%94%B6%E5%85%A5%E6%8F%90%E5%8D%87%E6%98%8E%E6%98%BE)
 1. [男子住院被精神病患者抠挖双眼](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%90%E4%BD%8F%E9%99%A2%E8%A2%AB%E7%B2%BE%E7%A5%9E%E7%97%85%E6%82%A3%E8%80%85%E6%8A%A0%E6%8C%96%E5%8F%8C%E7%9C%BC)
 1. [世预赛国足 vs 印尼](https://www.zhihu.com/search?q=%E4%B8%96%E9%A2%84%E8%B5%9B%E5%9B%BD%E8%B6%B3%20vs%20%E5%8D%B0%E5%B0%BC)
-1. [官方称前 4 个月民营经济收入提升明显](https://www.zhihu.com/search?q=%E5%AE%98%E6%96%B9%E7%A7%B0%E5%89%8D%204%20%E4%B8%AA%E6%9C%88%E6%B0%91%E8%90%A5%E7%BB%8F%E6%B5%8E%E6%94%B6%E5%85%A5%E6%8F%90%E5%8D%87%E6%98%8E%E6%98%BE)
 1. [中美元首通话](https://www.zhihu.com/search?q=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E9%80%9A%E8%AF%9D)
-1. [员工发烧37.9度请假遭HR辱骂](https://www.zhihu.com/search?q=%E5%91%98%E5%B7%A5%E5%8F%91%E7%83%A737.9%E5%BA%A6%E8%AF%B7%E5%81%87%E9%81%ADHR%E8%BE%B1%E9%AA%82)
 1. [为何明星想瘦就瘦普通人却很难](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E6%98%8E%E6%98%9F%E6%83%B3%E7%98%A6%E5%B0%B1%E7%98%A6%E6%99%AE%E9%80%9A%E4%BA%BA%E5%8D%B4%E5%BE%88%E9%9A%BE)
+1. [员工发烧37.9度请假遭HR辱骂](https://www.zhihu.com/search?q=%E5%91%98%E5%B7%A5%E5%8F%91%E7%83%A737.9%E5%BA%A6%E8%AF%B7%E5%81%87%E9%81%ADHR%E8%BE%B1%E9%AA%82)
+1. [三亚再通报女子被咬身亡事件](https://www.zhihu.com/search?q=%E4%B8%89%E4%BA%9A%E5%86%8D%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%92%AC%E8%BA%AB%E4%BA%A1%E4%BA%8B%E4%BB%B6)
+1. [面试被问生育计划是忍还是反抗](https://www.zhihu.com/search?q=%E9%9D%A2%E8%AF%95%E8%A2%AB%E9%97%AE%E7%94%9F%E8%82%B2%E8%AE%A1%E5%88%92%E6%98%AF%E5%BF%8D%E8%BF%98%E6%98%AF%E5%8F%8D%E6%8A%97)
+1. [你是否支持英语退出主科地位](https://www.zhihu.com/search?q=%E4%BD%A0%E6%98%AF%E5%90%A6%E6%94%AF%E6%8C%81%E8%8B%B1%E8%AF%AD%E9%80%80%E5%87%BA%E4%B8%BB%E7%A7%91%E5%9C%B0%E4%BD%8D)
+1. [宝马5系裸车跌至26万](https://www.zhihu.com/search?q=%E5%AE%9D%E9%A9%AC5%E7%B3%BB%E8%A3%B8%E8%BD%A6%E8%B7%8C%E8%87%B326%E4%B8%87)
 1. [预制菜产业凉了吗](https://www.zhihu.com/search?q=%E9%A2%84%E5%88%B6%E8%8F%9C%E4%BA%A7%E4%B8%9A%E5%87%89%E4%BA%86%E5%90%97)
 1. [澳大利亚突破稀土分离技术](https://www.zhihu.com/search?q=%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E7%AA%81%E7%A0%B4%E7%A8%80%E5%9C%9F%E5%88%86%E7%A6%BB%E6%8A%80%E6%9C%AF)
 1. [高考加油](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%8A%A0%E6%B2%B9)
