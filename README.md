@@ -14,10 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jun 06 2025 20:43:04 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jun 06 2025 21:32:38 GMT+0800 (China Standard Time) -->
 
 1. [特朗普马斯克公开骂战](https://www.zhihu.com/search?q=%E7%89%B9%E6%9C%97%E6%99%AE%E9%A9%AC%E6%96%AF%E5%85%8B%E5%85%AC%E5%BC%80%E9%AA%82%E6%88%98)
-1. [高考加油](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%8A%A0%E6%B2%B9)
 1. [国足不敌印尼无缘晋级世界杯](https://www.zhihu.com/search?q=%E5%9B%BD%E8%B6%B3%E4%B8%8D%E6%95%8C%E5%8D%B0%E5%B0%BC%E6%97%A0%E7%BC%98%E6%99%8B%E7%BA%A7%E4%B8%96%E7%95%8C%E6%9D%AF)
 1. [三亚女游客死亡记录公布](https://www.zhihu.com/search?q=%E4%B8%89%E4%BA%9A%E5%A5%B3%E6%B8%B8%E5%AE%A2%E6%AD%BB%E4%BA%A1%E8%AE%B0%E5%BD%95%E5%85%AC%E5%B8%83)
 1. [预制菜产业凉了吗](https://www.zhihu.com/search?q=%E9%A2%84%E5%88%B6%E8%8F%9C%E4%BA%A7%E4%B8%9A%E5%87%89%E4%BA%86%E5%90%97)
@@ -29,6 +28,7 @@
 1. [中美元首通话](https://www.zhihu.com/search?q=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E9%80%9A%E8%AF%9D)
 1. [官方称前 4 个月民营经济收入提升明显](https://www.zhihu.com/search?q=%E5%AE%98%E6%96%B9%E7%A7%B0%E5%89%8D%204%20%E4%B8%AA%E6%9C%88%E6%B0%91%E8%90%A5%E7%BB%8F%E6%B5%8E%E6%94%B6%E5%85%A5%E6%8F%90%E5%8D%87%E6%98%8E%E6%98%BE)
 1. [员工发烧37.9度请假遭HR辱骂](https://www.zhihu.com/search?q=%E5%91%98%E5%B7%A5%E5%8F%91%E7%83%A737.9%E5%BA%A6%E8%AF%B7%E5%81%87%E9%81%ADHR%E8%BE%B1%E9%AA%82)
+1. [高考加油](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%8A%A0%E6%B2%B9)
 1. [为何如今这支巴黎圣日耳曼拿到欧冠冠军](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E5%A6%82%E4%BB%8A%E8%BF%99%E6%94%AF%E5%B7%B4%E9%BB%8E%E5%9C%A3%E6%97%A5%E8%80%B3%E6%9B%BC%E6%8B%BF%E5%88%B0%E6%AC%A7%E5%86%A0%E5%86%A0%E5%86%9B)
 1. [如何看待此次榴莲价格「腰斩」](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E6%AD%A4%E6%AC%A1%E6%A6%B4%E8%8E%B2%E4%BB%B7%E6%A0%BC%E3%80%8C%E8%85%B0%E6%96%A9%E3%80%8D)
 1. [苏超都产生了哪些热梗](https://www.zhihu.com/search?q=%E8%8B%8F%E8%B6%85%E9%83%BD%E4%BA%A7%E7%94%9F%E4%BA%86%E5%93%AA%E4%BA%9B%E7%83%AD%E6%A2%97)
