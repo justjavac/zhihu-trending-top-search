@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jun 08 2025 02:27:42 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jun 08 2025 03:16:07 GMT+0800 (China Standard Time) -->
 
 1. [2025 高考作文](https://www.zhihu.com/search?q=2025%20%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87)
 1. [特朗普马斯克公开骂战](https://www.zhihu.com/search?q=%E7%89%B9%E6%9C%97%E6%99%AE%E9%A9%AC%E6%96%AF%E5%85%8B%E5%85%AC%E5%BC%80%E9%AA%82%E6%88%98)
@@ -25,8 +25,8 @@
 1. [北大「韦神」开账号了](https://www.zhihu.com/search?q=%E5%8C%97%E5%A4%A7%E3%80%8C%E9%9F%A6%E7%A5%9E%E3%80%8D%E5%BC%80%E8%B4%A6%E5%8F%B7%E4%BA%86)
 1. [国足不敌印尼无缘晋级世界杯](https://www.zhihu.com/search?q=%E5%9B%BD%E8%B6%B3%E4%B8%8D%E6%95%8C%E5%8D%B0%E5%B0%BC%E6%97%A0%E7%BC%98%E6%99%8B%E7%BA%A7%E4%B8%96%E7%95%8C%E6%9D%AF)
 1. [李在明称将拼经济保民生和寻求韩朝对话](https://www.zhihu.com/search?q=%E6%9D%8E%E5%9C%A8%E6%98%8E%E7%A7%B0%E5%B0%86%E6%8B%BC%E7%BB%8F%E6%B5%8E%E4%BF%9D%E6%B0%91%E7%94%9F%E5%92%8C%E5%AF%BB%E6%B1%82%E9%9F%A9%E6%9C%9D%E5%AF%B9%E8%AF%9D)
-1. [落笔生花，高考必胜](https://www.zhihu.com/search?q=%E8%90%BD%E7%AC%94%E7%94%9F%E8%8A%B1%EF%BC%8C%E9%AB%98%E8%80%83%E5%BF%85%E8%83%9C)
 1. [高考新课标 Ⅱ 卷作文题：梦](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E6%96%B0%E8%AF%BE%E6%A0%87%20%E2%85%A1%20%E5%8D%B7%E4%BD%9C%E6%96%87%E9%A2%98%EF%BC%9A%E6%A2%A6)
+1. [落笔生花，高考必胜](https://www.zhihu.com/search?q=%E8%90%BD%E7%AC%94%E7%94%9F%E8%8A%B1%EF%BC%8C%E9%AB%98%E8%80%83%E5%BF%85%E8%83%9C)
 1. [酒店医院共用一家洗涤商真的安全吗](https://www.zhihu.com/search?q=%E9%85%92%E5%BA%97%E5%8C%BB%E9%99%A2%E5%85%B1%E7%94%A8%E4%B8%80%E5%AE%B6%E6%B4%97%E6%B6%A4%E5%95%86%E7%9C%9F%E7%9A%84%E5%AE%89%E5%85%A8%E5%90%97)
 1. [如何看待美国识字率只有 79％](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E7%BE%8E%E5%9B%BD%E8%AF%86%E5%AD%97%E7%8E%87%E5%8F%AA%E6%9C%89%2079%EF%BC%85)
 
