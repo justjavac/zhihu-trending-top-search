@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jun 08 2025 17:20:41 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jun 08 2025 18:20:50 GMT+0800 (China Standard Time) -->
 
 1. [2025高考英语](https://www.zhihu.com/search?q=2025%E9%AB%98%E8%80%83%E8%8B%B1%E8%AF%AD)
 1. [特朗普马斯克公开骂战](https://www.zhihu.com/search?q=%E7%89%B9%E6%9C%97%E6%99%AE%E9%A9%AC%E6%96%AF%E5%85%8B%E5%85%AC%E5%BC%80%E9%AA%82%E6%88%98)
@@ -22,16 +22,16 @@
 1. [三亚再通报女子被咬身亡事件](https://www.zhihu.com/search?q=%E4%B8%89%E4%BA%9A%E5%86%8D%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%92%AC%E8%BA%AB%E4%BA%A1%E4%BA%8B%E4%BB%B6)
 1. [2025 高考作文](https://www.zhihu.com/search?q=2025%20%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87)
 1. [2025 高考数学](https://www.zhihu.com/search?q=2025%20%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6)
-1. [用发霉的菜板对身体会有哪些危害](https://www.zhihu.com/search?q=%E7%94%A8%E5%8F%91%E9%9C%89%E7%9A%84%E8%8F%9C%E6%9D%BF%E5%AF%B9%E8%BA%AB%E4%BD%93%E4%BC%9A%E6%9C%89%E5%93%AA%E4%BA%9B%E5%8D%B1%E5%AE%B3)
+1. [如何看待美国识字率只有 79％](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E7%BE%8E%E5%9B%BD%E8%AF%86%E5%AD%97%E7%8E%87%E5%8F%AA%E6%9C%89%2079%EF%BC%85)
 1. [2025高考物理](https://www.zhihu.com/search?q=2025%E9%AB%98%E8%80%83%E7%89%A9%E7%90%86)
 1. [北大「韦神」开账号了](https://www.zhihu.com/search?q=%E5%8C%97%E5%A4%A7%E3%80%8C%E9%9F%A6%E7%A5%9E%E3%80%8D%E5%BC%80%E8%B4%A6%E5%8F%B7%E4%BA%86)
 1. [特朗普马斯克开撕 相互猛烈攻击](https://www.zhihu.com/search?q=%E7%89%B9%E6%9C%97%E6%99%AE%E9%A9%AC%E6%96%AF%E5%85%8B%E5%BC%80%E6%92%95%20%E7%9B%B8%E4%BA%92%E7%8C%9B%E7%83%88%E6%94%BB%E5%87%BB)
-1. [李在明称将拼经济保民生和寻求韩朝对话](https://www.zhihu.com/search?q=%E6%9D%8E%E5%9C%A8%E6%98%8E%E7%A7%B0%E5%B0%86%E6%8B%BC%E7%BB%8F%E6%B5%8E%E4%BF%9D%E6%B0%91%E7%94%9F%E5%92%8C%E5%AF%BB%E6%B1%82%E9%9F%A9%E6%9C%9D%E5%AF%B9%E8%AF%9D)
-1. [三亚被咬身亡女子家属不认可通报](https://www.zhihu.com/search?q=%E4%B8%89%E4%BA%9A%E8%A2%AB%E5%92%AC%E8%BA%AB%E4%BA%A1%E5%A5%B3%E5%AD%90%E5%AE%B6%E5%B1%9E%E4%B8%8D%E8%AE%A4%E5%8F%AF%E9%80%9A%E6%8A%A5)
-1. [2025高考历史](https://www.zhihu.com/search?q=2025%E9%AB%98%E8%80%83%E5%8E%86%E5%8F%B2)
-1. [如何看待美国识字率只有 79％](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E7%BE%8E%E5%9B%BD%E8%AF%86%E5%AD%97%E7%8E%87%E5%8F%AA%E6%9C%89%2079%EF%BC%85)
-1. [美国恢复处理哈佛大学国际学生签证](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E6%81%A2%E5%A4%8D%E5%A4%84%E7%90%86%E5%93%88%E4%BD%9B%E5%A4%A7%E5%AD%A6%E5%9B%BD%E9%99%85%E5%AD%A6%E7%94%9F%E7%AD%BE%E8%AF%81)
 1. [酒店医院共用一家洗涤商真的安全吗](https://www.zhihu.com/search?q=%E9%85%92%E5%BA%97%E5%8C%BB%E9%99%A2%E5%85%B1%E7%94%A8%E4%B8%80%E5%AE%B6%E6%B4%97%E6%B6%A4%E5%95%86%E7%9C%9F%E7%9A%84%E5%AE%89%E5%85%A8%E5%90%97)
+1. [三亚被咬身亡女子家属不认可通报](https://www.zhihu.com/search?q=%E4%B8%89%E4%BA%9A%E8%A2%AB%E5%92%AC%E8%BA%AB%E4%BA%A1%E5%A5%B3%E5%AD%90%E5%AE%B6%E5%B1%9E%E4%B8%8D%E8%AE%A4%E5%8F%AF%E9%80%9A%E6%8A%A5)
+1. [用发霉的菜板对身体会有哪些危害](https://www.zhihu.com/search?q=%E7%94%A8%E5%8F%91%E9%9C%89%E7%9A%84%E8%8F%9C%E6%9D%BF%E5%AF%B9%E8%BA%AB%E4%BD%93%E4%BC%9A%E6%9C%89%E5%93%AA%E4%BA%9B%E5%8D%B1%E5%AE%B3)
+1. [李在明称将拼经济保民生和寻求韩朝对话](https://www.zhihu.com/search?q=%E6%9D%8E%E5%9C%A8%E6%98%8E%E7%A7%B0%E5%B0%86%E6%8B%BC%E7%BB%8F%E6%B5%8E%E4%BF%9D%E6%B0%91%E7%94%9F%E5%92%8C%E5%AF%BB%E6%B1%82%E9%9F%A9%E6%9C%9D%E5%AF%B9%E8%AF%9D)
+1. [2025高考历史](https://www.zhihu.com/search?q=2025%E9%AB%98%E8%80%83%E5%8E%86%E5%8F%B2)
+1. [美国恢复处理哈佛大学国际学生签证](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E6%81%A2%E5%A4%8D%E5%A4%84%E7%90%86%E5%93%88%E4%BD%9B%E5%A4%A7%E5%AD%A6%E5%9B%BD%E9%99%85%E5%AD%A6%E7%94%9F%E7%AD%BE%E8%AF%81)
 1. [为何宝马在国内被打得连连降价](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E5%AE%9D%E9%A9%AC%E5%9C%A8%E5%9B%BD%E5%86%85%E8%A2%AB%E6%89%93%E5%BE%97%E8%BF%9E%E8%BF%9E%E9%99%8D%E4%BB%B7)
 1. [国足不敌印尼无缘晋级世界杯](https://www.zhihu.com/search?q=%E5%9B%BD%E8%B6%B3%E4%B8%8D%E6%95%8C%E5%8D%B0%E5%B0%BC%E6%97%A0%E7%BC%98%E6%99%8B%E7%BA%A7%E4%B8%96%E7%95%8C%E6%9D%AF)
 1. [张家界一溶洞造成的污染还能恢复吗](https://www.zhihu.com/search?q=%E5%BC%A0%E5%AE%B6%E7%95%8C%E4%B8%80%E6%BA%B6%E6%B4%9E%E9%80%A0%E6%88%90%E7%9A%84%E6%B1%A1%E6%9F%93%E8%BF%98%E8%83%BD%E6%81%A2%E5%A4%8D%E5%90%97)
