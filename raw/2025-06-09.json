@@ -1,7 +1,7 @@
 [
-  { "query_display": "洛杉矶抗议升级", "real_query": "洛杉矶抗议升级" },
-  { "query_display": "2025高考化学", "real_query": "2025高考化学" },
   { "query_display": "2025高考地理", "real_query": "2025高考地理" },
+  { "query_display": "2025高考化学", "real_query": "2025高考化学" },
+  { "query_display": "洛杉矶抗议升级", "real_query": "洛杉矶抗议升级" },
   { "query_display": "韦神门牙脱落", "real_query": "韦神门牙脱落" },
   { "query_display": "2025 高考作文", "real_query": "2025 高考作文" },
   { "query_display": "2025高考英语", "real_query": "2025高考英语" },
@@ -9,6 +9,7 @@
   { "query_display": "特朗普马斯克公开骂战", "real_query": "特朗普马斯克公开骂战" },
   { "query_display": "2025高考物理", "real_query": "2025高考物理" },
   { "query_display": "北大「韦神」开账号了", "real_query": "北大「韦神」开账号了" },
+  { "query_display": "洛杉矶警方向抗议人群开枪", "real_query": "洛杉矶警方向抗议人群开枪" },
   { "query_display": "乌克兰基辅市遭俄军大规模袭击", "real_query": "乌克兰基辅市遭俄军大规模袭击" },
   { "query_display": "日本北海道发生强震", "real_query": "日本北海道发生强震" },
   { "query_display": "小米 15S Pro 销量能否达到预期", "real_query": "小米 15S Pro 销量能否达到预期" },
