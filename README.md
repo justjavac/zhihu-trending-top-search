@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jun 09 2025 21:33:50 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jun 09 2025 22:22:21 GMT+0800 (China Standard Time) -->
 
 1. [2025高考地理](https://www.zhihu.com/search?q=2025%E9%AB%98%E8%80%83%E5%9C%B0%E7%90%86)
 1. [2025高考化学](https://www.zhihu.com/search?q=2025%E9%AB%98%E8%80%83%E5%8C%96%E5%AD%A6)
@@ -25,9 +25,10 @@
 1. [韦神门牙脱落](https://www.zhihu.com/search?q=%E9%9F%A6%E7%A5%9E%E9%97%A8%E7%89%99%E8%84%B1%E8%90%BD)
 1. [洛杉矶警方向抗议人群开枪](https://www.zhihu.com/search?q=%E6%B4%9B%E6%9D%89%E7%9F%B6%E8%AD%A6%E6%96%B9%E5%90%91%E6%8A%97%E8%AE%AE%E4%BA%BA%E7%BE%A4%E5%BC%80%E6%9E%AA)
 1. [2025高考英语](https://www.zhihu.com/search?q=2025%E9%AB%98%E8%80%83%E8%8B%B1%E8%AF%AD)
-1. [如何看待巴黎世家推出的「北京烤鸭」包](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%B7%B4%E9%BB%8E%E4%B8%96%E5%AE%B6%E6%8E%A8%E5%87%BA%E7%9A%84%E3%80%8C%E5%8C%97%E4%BA%AC%E7%83%A4%E9%B8%AD%E3%80%8D%E5%8C%85)
+1. [马斯克与特朗普闹翻是做了「亏本」买卖吗](https://www.zhihu.com/search?q=%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E9%97%B9%E7%BF%BB%E6%98%AF%E5%81%9A%E4%BA%86%E3%80%8C%E4%BA%8F%E6%9C%AC%E3%80%8D%E4%B9%B0%E5%8D%96%E5%90%97)
 1. [2025 高考数学](https://www.zhihu.com/search?q=2025%20%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6)
 1. [特朗普马斯克公开骂战](https://www.zhihu.com/search?q=%E7%89%B9%E6%9C%97%E6%99%AE%E9%A9%AC%E6%96%AF%E5%85%8B%E5%85%AC%E5%BC%80%E9%AA%82%E6%88%98)
+1. [如何看待巴黎世家推出的「北京烤鸭」包](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%B7%B4%E9%BB%8E%E4%B8%96%E5%AE%B6%E6%8E%A8%E5%87%BA%E7%9A%84%E3%80%8C%E5%8C%97%E4%BA%AC%E7%83%A4%E9%B8%AD%E3%80%8D%E5%8C%85)
 1. [2025高考物理](https://www.zhihu.com/search?q=2025%E9%AB%98%E8%80%83%E7%89%A9%E7%90%86)
 1. [如何评价大冰](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%A4%A7%E5%86%B0)
 1. [北大「韦神」开账号了](https://www.zhihu.com/search?q=%E5%8C%97%E5%A4%A7%E3%80%8C%E9%9F%A6%E7%A5%9E%E3%80%8D%E5%BC%80%E8%B4%A6%E5%8F%B7%E4%BA%86)
