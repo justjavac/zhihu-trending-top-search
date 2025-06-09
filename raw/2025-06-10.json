@@ -1,14 +1,16 @@
 [
-  { "query_display": "2025高考生物", "real_query": "2025高考生物" },
+  { "query_display": "2025高考地理", "real_query": "2025高考地理" },
   { "query_display": "洛杉矶抗议升级", "real_query": "洛杉矶抗议升级" },
   { "query_display": "中美经贸磋商机制首次会议", "real_query": "中美经贸磋商机制首次会议" },
-  { "query_display": "中办国办：合理提高最低工资标准", "real_query": "中办国办：合理提高最低工资标准" },
   { "query_display": "2025高考化学", "real_query": "2025高考化学" },
-  { "query_display": "2025高考地理", "real_query": "2025高考地理" },
   { "query_display": "韦神门牙脱落", "real_query": "韦神门牙脱落" },
   { "query_display": "洛杉矶警方向抗议人群开枪", "real_query": "洛杉矶警方向抗议人群开枪" },
   { "query_display": "2025高考英语", "real_query": "2025高考英语" },
   { "query_display": "如何评价电视剧「长安的荔枝」", "real_query": "如何评价电视剧「长安的荔枝」" },
+  { "query_display": "特朗普马斯克公开骂战", "real_query": "特朗普马斯克公开骂战" },
   { "query_display": "2025 高考数学", "real_query": "2025 高考数学" },
-  { "query_display": "特朗普马斯克公开骂战", "real_query": "特朗普马斯克公开骂战" }
+  { "query_display": "日本北海道发生强震", "real_query": "日本北海道发生强震" },
+  { "query_display": "为何很多人都梦见高考不会做题", "real_query": "为何很多人都梦见高考不会做题" },
+  { "query_display": "2025高考生物", "real_query": "2025高考生物" },
+  { "query_display": "中办国办：合理提高最低工资标准", "real_query": "中办国办：合理提高最低工资标准" }
 ]
