@@ -14,19 +14,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jun 10 2025 18:23:53 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jun 10 2025 19:18:27 GMT+0800 (China Standard Time) -->
 
 1. [婚检查出艾滋医生未告知伴侣致感染](https://www.zhihu.com/search?q=%E5%A9%9A%E6%A3%80%E6%9F%A5%E5%87%BA%E8%89%BE%E6%BB%8B%E5%8C%BB%E7%94%9F%E6%9C%AA%E5%91%8A%E7%9F%A5%E4%BC%B4%E4%BE%A3%E8%87%B4%E6%84%9F%E6%9F%93)
-1. [2025高考化学](https://www.zhihu.com/search?q=2025%E9%AB%98%E8%80%83%E5%8C%96%E5%AD%A6)
+1. [洛杉矶抗议升级](https://www.zhihu.com/search?q=%E6%B4%9B%E6%9D%89%E7%9F%B6%E6%8A%97%E8%AE%AE%E5%8D%87%E7%BA%A7)
 1. [洛杉矶警方向抗议人群开枪](https://www.zhihu.com/search?q=%E6%B4%9B%E6%9D%89%E7%9F%B6%E8%AD%A6%E6%96%B9%E5%90%91%E6%8A%97%E8%AE%AE%E4%BA%BA%E7%BE%A4%E5%BC%80%E6%9E%AA)
 1. [中国海军双航母赴西太平洋训练](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E6%B5%B7%E5%86%9B%E5%8F%8C%E8%88%AA%E6%AF%8D%E8%B5%B4%E8%A5%BF%E5%A4%AA%E5%B9%B3%E6%B4%8B%E8%AE%AD%E7%BB%83)
 1. [2025高考地理](https://www.zhihu.com/search?q=2025%E9%AB%98%E8%80%83%E5%9C%B0%E7%90%86)
-1. [洛杉矶抗议升级](https://www.zhihu.com/search?q=%E6%B4%9B%E6%9D%89%E7%9F%B6%E6%8A%97%E8%AE%AE%E5%8D%87%E7%BA%A7)
 1. [计算机科学在美失业率排第七](https://www.zhihu.com/search?q=%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%9C%A8%E7%BE%8E%E5%A4%B1%E4%B8%9A%E7%8E%87%E6%8E%92%E7%AC%AC%E4%B8%83)
-1. [如何评价大冰](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%A4%A7%E5%86%B0)
+1. [主持人替听众维权被工作人员嬉笑回怼](https://www.zhihu.com/search?q=%E4%B8%BB%E6%8C%81%E4%BA%BA%E6%9B%BF%E5%90%AC%E4%BC%97%E7%BB%B4%E6%9D%83%E8%A2%AB%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%AC%89%E7%AC%91%E5%9B%9E%E6%80%BC)
 1. [上海高考作文：专-转-传](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%EF%BC%9A%E4%B8%93-%E8%BD%AC-%E4%BC%A0)
 1. [中美经贸磋商机制首次会议](https://www.zhihu.com/search?q=%E4%B8%AD%E7%BE%8E%E7%BB%8F%E8%B4%B8%E7%A3%8B%E5%95%86%E6%9C%BA%E5%88%B6%E9%A6%96%E6%AC%A1%E4%BC%9A%E8%AE%AE)
 1. [2025高考生物](https://www.zhihu.com/search?q=2025%E9%AB%98%E8%80%83%E7%94%9F%E7%89%A9)
+1. [Switch2 能火多久](https://www.zhihu.com/search?q=Switch2%20%E8%83%BD%E7%81%AB%E5%A4%9A%E4%B9%85)
+1. [多地国补暂停](https://www.zhihu.com/search?q=%E5%A4%9A%E5%9C%B0%E5%9B%BD%E8%A1%A5%E6%9A%82%E5%81%9C)
+1. [2025高考化学](https://www.zhihu.com/search?q=2025%E9%AB%98%E8%80%83%E5%8C%96%E5%AD%A6)
+1. [如何评价大冰](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%A4%A7%E5%86%B0)
 1. [体制内着装最忌讳的是什么](https://www.zhihu.com/search?q=%E4%BD%93%E5%88%B6%E5%86%85%E7%9D%80%E8%A3%85%E6%9C%80%E5%BF%8C%E8%AE%B3%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [2025 高考数学](https://www.zhihu.com/search?q=2025%20%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6)
 1. [如何评价电视剧「长安的荔枝」](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8C%E9%95%BF%E5%AE%89%E7%9A%84%E8%8D%94%E6%9E%9D%E3%80%8D)
