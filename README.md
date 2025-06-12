@@ -14,13 +14,13 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jun 13 2025 06:20:23 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jun 13 2025 07:20:32 GMT+0800 (China Standard Time) -->
 
 1. [印度坠机事故中发现一名幸存者](https://www.zhihu.com/search?q=%E5%8D%B0%E5%BA%A6%E5%9D%A0%E6%9C%BA%E4%BA%8B%E6%95%85%E4%B8%AD%E5%8F%91%E7%8E%B0%E4%B8%80%E5%90%8D%E5%B9%B8%E5%AD%98%E8%80%85)
-1. [中美第二次谈判](https://www.zhihu.com/search?q=%E4%B8%AD%E7%BE%8E%E7%AC%AC%E4%BA%8C%E6%AC%A1%E8%B0%88%E5%88%A4)
+1. [警方介入罗帅宇举报湘雅二院医疗腐败](https://www.zhihu.com/search?q=%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5%E7%BD%97%E5%B8%85%E5%AE%87%E4%B8%BE%E6%8A%A5%E6%B9%98%E9%9B%85%E4%BA%8C%E9%99%A2%E5%8C%BB%E7%96%97%E8%85%90%E8%B4%A5)
 1. [阿里离职员工发万字长文](https://www.zhihu.com/search?q=%E9%98%BF%E9%87%8C%E7%A6%BB%E8%81%8C%E5%91%98%E5%B7%A5%E5%8F%91%E4%B8%87%E5%AD%97%E9%95%BF%E6%96%87)
 1. [馆长](https://www.zhihu.com/search?q=%E9%A6%86%E9%95%BF)
-1. [警方介入罗帅宇举报湘雅二院医疗腐败](https://www.zhihu.com/search?q=%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5%E7%BD%97%E5%B8%85%E5%AE%87%E4%B8%BE%E6%8A%A5%E6%B9%98%E9%9B%85%E4%BA%8C%E9%99%A2%E5%8C%BB%E7%96%97%E8%85%90%E8%B4%A5)
+1. [中美第二次谈判](https://www.zhihu.com/search?q=%E4%B8%AD%E7%BE%8E%E7%AC%AC%E4%BA%8C%E6%AC%A1%E8%B0%88%E5%88%A4)
 1. [如何看待游客被打副所长拉偏架被免职](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E6%B8%B8%E5%AE%A2%E8%A2%AB%E6%89%93%E5%89%AF%E6%89%80%E9%95%BF%E6%8B%89%E5%81%8F%E6%9E%B6%E8%A2%AB%E5%85%8D%E8%81%8C)
 1. [上海高考作文：专-转-传](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%EF%BC%9A%E4%B8%93-%E8%BD%AC-%E4%BC%A0)
 1. [多地推出升级版禁酒令](https://www.zhihu.com/search?q=%E5%A4%9A%E5%9C%B0%E6%8E%A8%E5%87%BA%E5%8D%87%E7%BA%A7%E7%89%88%E7%A6%81%E9%85%92%E4%BB%A4)
