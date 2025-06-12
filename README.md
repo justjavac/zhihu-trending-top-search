@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jun 12 2025 18:24:18 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jun 12 2025 19:18:35 GMT+0800 (China Standard Time) -->
 
 1. [印度坠毁飞机载有242人](https://www.zhihu.com/search?q=%E5%8D%B0%E5%BA%A6%E5%9D%A0%E6%AF%81%E9%A3%9E%E6%9C%BA%E8%BD%BD%E6%9C%89242%E4%BA%BA)
 1. [婚检查出艾滋医生未告知伴侣致感染](https://www.zhihu.com/search?q=%E5%A9%9A%E6%A3%80%E6%9F%A5%E5%87%BA%E8%89%BE%E6%BB%8B%E5%8C%BB%E7%94%9F%E6%9C%AA%E5%91%8A%E7%9F%A5%E4%BC%B4%E4%BE%A3%E8%87%B4%E6%84%9F%E6%9F%93)
@@ -22,12 +22,14 @@
 1. [馆长](https://www.zhihu.com/search?q=%E9%A6%86%E9%95%BF)
 1. [王楚钦比赛中突发低血糖](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%AF%94%E8%B5%9B%E4%B8%AD%E7%AA%81%E5%8F%91%E4%BD%8E%E8%A1%80%E7%B3%96)
 1. [中美第二次谈判](https://www.zhihu.com/search?q=%E4%B8%AD%E7%BE%8E%E7%AC%AC%E4%BA%8C%E6%AC%A1%E8%B0%88%E5%88%A4)
-1. [如何评价电视剧「长安的荔枝」](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8C%E9%95%BF%E5%AE%89%E7%9A%84%E8%8D%94%E6%9E%9D%E3%80%8D)
-1. [蜜雪冰城含菌量超标被通报](https://www.zhihu.com/search?q=%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E5%90%AB%E8%8F%8C%E9%87%8F%E8%B6%85%E6%A0%87%E8%A2%AB%E9%80%9A%E6%8A%A5)
+1. [范玮琪唱歌声音抖是什么原因](https://www.zhihu.com/search?q=%E8%8C%83%E7%8E%AE%E7%90%AA%E5%94%B1%E6%AD%8C%E5%A3%B0%E9%9F%B3%E6%8A%96%E6%98%AF%E4%BB%80%E4%B9%88%E5%8E%9F%E5%9B%A0)
 1. [上海高考作文：专-转-传](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%EF%BC%9A%E4%B8%93-%E8%BD%AC-%E4%BC%A0)
 1. [中美经贸磋商达成原则一致](https://www.zhihu.com/search?q=%E4%B8%AD%E7%BE%8E%E7%BB%8F%E8%B4%B8%E7%A3%8B%E5%95%86%E8%BE%BE%E6%88%90%E5%8E%9F%E5%88%99%E4%B8%80%E8%87%B4)
-1. [范玮琪唱歌声音抖是什么原因](https://www.zhihu.com/search?q=%E8%8C%83%E7%8E%AE%E7%90%AA%E5%94%B1%E6%AD%8C%E5%A3%B0%E9%9F%B3%E6%8A%96%E6%98%AF%E4%BB%80%E4%B9%88%E5%8E%9F%E5%9B%A0)
 1. [多地推出升级版禁酒令](https://www.zhihu.com/search?q=%E5%A4%9A%E5%9C%B0%E6%8E%A8%E5%87%BA%E5%8D%87%E7%BA%A7%E7%89%88%E7%A6%81%E9%85%92%E4%BB%A4)
+1. [人类如何断言木星没有陆地呢](https://www.zhihu.com/search?q=%E4%BA%BA%E7%B1%BB%E5%A6%82%E4%BD%95%E6%96%AD%E8%A8%80%E6%9C%A8%E6%98%9F%E6%B2%A1%E6%9C%89%E9%99%86%E5%9C%B0%E5%91%A2)
+1. [英国水煮遗体排入下水道或将合法](https://www.zhihu.com/search?q=%E8%8B%B1%E5%9B%BD%E6%B0%B4%E7%85%AE%E9%81%97%E4%BD%93%E6%8E%92%E5%85%A5%E4%B8%8B%E6%B0%B4%E9%81%93%E6%88%96%E5%B0%86%E5%90%88%E6%B3%95)
+1. [如何评价电视剧「长安的荔枝」](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8C%E9%95%BF%E5%AE%89%E7%9A%84%E8%8D%94%E6%9E%9D%E3%80%8D)
+1. [蜜雪冰城含菌量超标被通报](https://www.zhihu.com/search?q=%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E5%90%AB%E8%8F%8C%E9%87%8F%E8%B6%85%E6%A0%87%E8%A2%AB%E9%80%9A%E6%8A%A5)
 1. [马斯克与特朗普闹翻是做了「亏本」买卖吗](https://www.zhihu.com/search?q=%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E9%97%B9%E7%BF%BB%E6%98%AF%E5%81%9A%E4%BA%86%E3%80%8C%E4%BA%8F%E6%9C%AC%E3%80%8D%E4%B9%B0%E5%8D%96%E5%90%97)
 1. [多地明确招聘破除35岁年龄限制](https://www.zhihu.com/search?q=%E5%A4%9A%E5%9C%B0%E6%98%8E%E7%A1%AE%E6%8B%9B%E8%81%98%E7%A0%B4%E9%99%A435%E5%B2%81%E5%B9%B4%E9%BE%84%E9%99%90%E5%88%B6)
 1. [中国海军双航母赴西太平洋训练](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E6%B5%B7%E5%86%9B%E5%8F%8C%E8%88%AA%E6%AF%8D%E8%B5%B4%E8%A5%BF%E5%A4%AA%E5%B9%B3%E6%B4%8B%E8%AE%AD%E7%BB%83)
