@@ -14,13 +14,13 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jun 13 2025 00:27:34 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jun 13 2025 01:19:27 GMT+0800 (China Standard Time) -->
 
 1. [印度坠机事故中发现一名幸存者](https://www.zhihu.com/search?q=%E5%8D%B0%E5%BA%A6%E5%9D%A0%E6%9C%BA%E4%BA%8B%E6%95%85%E4%B8%AD%E5%8F%91%E7%8E%B0%E4%B8%80%E5%90%8D%E5%B9%B8%E5%AD%98%E8%80%85)
 1. [一架客机在印度坠毁](https://www.zhihu.com/search?q=%E4%B8%80%E6%9E%B6%E5%AE%A2%E6%9C%BA%E5%9C%A8%E5%8D%B0%E5%BA%A6%E5%9D%A0%E6%AF%81)
-1. [警方介入罗帅宇举报湘雅二院医疗腐败](https://www.zhihu.com/search?q=%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5%E7%BD%97%E5%B8%85%E5%AE%87%E4%B8%BE%E6%8A%A5%E6%B9%98%E9%9B%85%E4%BA%8C%E9%99%A2%E5%8C%BB%E7%96%97%E8%85%90%E8%B4%A5)
-1. [馆长](https://www.zhihu.com/search?q=%E9%A6%86%E9%95%BF)
 1. [阿里离职员工发万字长文](https://www.zhihu.com/search?q=%E9%98%BF%E9%87%8C%E7%A6%BB%E8%81%8C%E5%91%98%E5%B7%A5%E5%8F%91%E4%B8%87%E5%AD%97%E9%95%BF%E6%96%87)
+1. [馆长](https://www.zhihu.com/search?q=%E9%A6%86%E9%95%BF)
+1. [警方介入罗帅宇举报湘雅二院医疗腐败](https://www.zhihu.com/search?q=%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5%E7%BD%97%E5%B8%85%E5%AE%87%E4%B8%BE%E6%8A%A5%E6%B9%98%E9%9B%85%E4%BA%8C%E9%99%A2%E5%8C%BB%E7%96%97%E8%85%90%E8%B4%A5)
 1. [湖南湘雅二院](https://www.zhihu.com/search?q=%E6%B9%96%E5%8D%97%E6%B9%98%E9%9B%85%E4%BA%8C%E9%99%A2)
 1. [B 站崩了](https://www.zhihu.com/search?q=B%20%E7%AB%99%E5%B4%A9%E4%BA%86)
 1. [王楚钦比赛中突发低血糖](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%AF%94%E8%B5%9B%E4%B8%AD%E7%AA%81%E5%8F%91%E4%BD%8E%E8%A1%80%E7%B3%96)
