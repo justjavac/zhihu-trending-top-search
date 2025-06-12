@@ -14,19 +14,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jun 12 2025 22:21:41 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jun 12 2025 23:24:12 GMT+0800 (China Standard Time) -->
 
-1. [印度失事客机上242人全部遇难](https://www.zhihu.com/search?q=%E5%8D%B0%E5%BA%A6%E5%A4%B1%E4%BA%8B%E5%AE%A2%E6%9C%BA%E4%B8%8A242%E4%BA%BA%E5%85%A8%E9%83%A8%E9%81%87%E9%9A%BE)
+1. [印度坠机事故中发现一名幸存者](https://www.zhihu.com/search?q=%E5%8D%B0%E5%BA%A6%E5%9D%A0%E6%9C%BA%E4%BA%8B%E6%95%85%E4%B8%AD%E5%8F%91%E7%8E%B0%E4%B8%80%E5%90%8D%E5%B9%B8%E5%AD%98%E8%80%85)
 1. [一架客机在印度坠毁](https://www.zhihu.com/search?q=%E4%B8%80%E6%9E%B6%E5%AE%A2%E6%9C%BA%E5%9C%A8%E5%8D%B0%E5%BA%A6%E5%9D%A0%E6%AF%81)
 1. [阿里离职员工发万字长文](https://www.zhihu.com/search?q=%E9%98%BF%E9%87%8C%E7%A6%BB%E8%81%8C%E5%91%98%E5%B7%A5%E5%8F%91%E4%B8%87%E5%AD%97%E9%95%BF%E6%96%87)
 1. [馆长](https://www.zhihu.com/search?q=%E9%A6%86%E9%95%BF)
 1. [警方介入罗帅宇举报湘雅二院医疗腐败](https://www.zhihu.com/search?q=%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5%E7%BD%97%E5%B8%85%E5%AE%87%E4%B8%BE%E6%8A%A5%E6%B9%98%E9%9B%85%E4%BA%8C%E9%99%A2%E5%8C%BB%E7%96%97%E8%85%90%E8%B4%A5)
 1. [湖南湘雅二院](https://www.zhihu.com/search?q=%E6%B9%96%E5%8D%97%E6%B9%98%E9%9B%85%E4%BA%8C%E9%99%A2)
+1. [B 站崩了](https://www.zhihu.com/search?q=B%20%E7%AB%99%E5%B4%A9%E4%BA%86)
 1. [王楚钦比赛中突发低血糖](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%AF%94%E8%B5%9B%E4%B8%AD%E7%AA%81%E5%8F%91%E4%BD%8E%E8%A1%80%E7%B3%96)
 1. [中美第二次谈判](https://www.zhihu.com/search?q=%E4%B8%AD%E7%BE%8E%E7%AC%AC%E4%BA%8C%E6%AC%A1%E8%B0%88%E5%88%A4)
 1. [上海高考作文：专-转-传](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%EF%BC%9A%E4%B8%93-%E8%BD%AC-%E4%BC%A0)
-1. [计科专业爆冷是短期波动还是长期趋势](https://www.zhihu.com/search?q=%E8%AE%A1%E7%A7%91%E4%B8%93%E4%B8%9A%E7%88%86%E5%86%B7%E6%98%AF%E7%9F%AD%E6%9C%9F%E6%B3%A2%E5%8A%A8%E8%BF%98%E6%98%AF%E9%95%BF%E6%9C%9F%E8%B6%8B%E5%8A%BF)
+1. [为何 Labubu 这么赚钱](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%20Labubu%20%E8%BF%99%E4%B9%88%E8%B5%9A%E9%92%B1)
 1. [多地推出升级版禁酒令](https://www.zhihu.com/search?q=%E5%A4%9A%E5%9C%B0%E6%8E%A8%E5%87%BA%E5%8D%87%E7%BA%A7%E7%89%88%E7%A6%81%E9%85%92%E4%BB%A4)
+1. [印度失事客机上242人全部遇难](https://www.zhihu.com/search?q=%E5%8D%B0%E5%BA%A6%E5%A4%B1%E4%BA%8B%E5%AE%A2%E6%9C%BA%E4%B8%8A242%E4%BA%BA%E5%85%A8%E9%83%A8%E9%81%87%E9%9A%BE)
+1. [计科专业爆冷是短期波动还是长期趋势](https://www.zhihu.com/search?q=%E8%AE%A1%E7%A7%91%E4%B8%93%E4%B8%9A%E7%88%86%E5%86%B7%E6%98%AF%E7%9F%AD%E6%9C%9F%E6%B3%A2%E5%8A%A8%E8%BF%98%E6%98%AF%E9%95%BF%E6%9C%9F%E8%B6%8B%E5%8A%BF)
 1. [中美经贸磋商达成原则一致](https://www.zhihu.com/search?q=%E4%B8%AD%E7%BE%8E%E7%BB%8F%E8%B4%B8%E7%A3%8B%E5%95%86%E8%BE%BE%E6%88%90%E5%8E%9F%E5%88%99%E4%B8%80%E8%87%B4)
 1. [印度坠毁飞机载有242人](https://www.zhihu.com/search?q=%E5%8D%B0%E5%BA%A6%E5%9D%A0%E6%AF%81%E9%A3%9E%E6%9C%BA%E8%BD%BD%E6%9C%89242%E4%BA%BA)
 1. [婚检查出艾滋医生未告知伴侣致感染](https://www.zhihu.com/search?q=%E5%A9%9A%E6%A3%80%E6%9F%A5%E5%87%BA%E8%89%BE%E6%BB%8B%E5%8C%BB%E7%94%9F%E6%9C%AA%E5%91%8A%E7%9F%A5%E4%BC%B4%E4%BE%A3%E8%87%B4%E6%84%9F%E6%9F%93)
