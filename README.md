@@ -14,20 +14,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jun 15 2025 01:17:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jun 15 2025 02:27:05 GMT+0800 (China Standard Time) -->
 
 1. [阿里离职员工发万字长文](https://www.zhihu.com/search?q=%E9%98%BF%E9%87%8C%E7%A6%BB%E8%81%8C%E5%91%98%E5%B7%A5%E5%8F%91%E4%B8%87%E5%AD%97%E9%95%BF%E6%96%87)
 1. [伊朗报复以色列发动数百枚导弹袭击](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E6%8A%A5%E5%A4%8D%E4%BB%A5%E8%89%B2%E5%88%97%E5%8F%91%E5%8A%A8%E6%95%B0%E7%99%BE%E6%9E%9A%E5%AF%BC%E5%BC%B9%E8%A2%AD%E5%87%BB)
 1. [伊朗称击落两架以色列 F-35 战机](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%87%BB%E8%90%BD%E4%B8%A4%E6%9E%B6%E4%BB%A5%E8%89%B2%E5%88%97%20F-35%20%E6%88%98%E6%9C%BA)
-1. [中美经贸磋商达成原则一致会带来哪些影响](https://www.zhihu.com/search?q=%E4%B8%AD%E7%BE%8E%E7%BB%8F%E8%B4%B8%E7%A3%8B%E5%95%86%E8%BE%BE%E6%88%90%E5%8E%9F%E5%88%99%E4%B8%80%E8%87%B4%E4%BC%9A%E5%B8%A6%E6%9D%A5%E5%93%AA%E4%BA%9B%E5%BD%B1%E5%93%8D)
+1. [Ultra 成纽北史上最速量产电动车](https://www.zhihu.com/search?q=Ultra%20%E6%88%90%E7%BA%BD%E5%8C%97%E5%8F%B2%E4%B8%8A%E6%9C%80%E9%80%9F%E9%87%8F%E4%BA%A7%E7%94%B5%E5%8A%A8%E8%BD%A6)
 1. [中国足协终止与国足主帅伊万合作](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E8%B6%B3%E5%8D%8F%E7%BB%88%E6%AD%A2%E4%B8%8E%E5%9B%BD%E8%B6%B3%E4%B8%BB%E5%B8%85%E4%BC%8A%E4%B8%87%E5%90%88%E4%BD%9C)
 1. [故宫博物院大展展品疑似被水淋湿](https://www.zhihu.com/search?q=%E6%95%85%E5%AE%AB%E5%8D%9A%E7%89%A9%E9%99%A2%E5%A4%A7%E5%B1%95%E5%B1%95%E5%93%81%E7%96%91%E4%BC%BC%E8%A2%AB%E6%B0%B4%E6%B7%8B%E6%B9%BF)
 1. [伊朗革命卫队司令遇袭身亡](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E9%9D%A9%E5%91%BD%E5%8D%AB%E9%98%9F%E5%8F%B8%E4%BB%A4%E9%81%87%E8%A2%AD%E8%BA%AB%E4%BA%A1)
 1. [15岁少年贪食荔枝致昏迷](https://www.zhihu.com/search?q=15%E5%B2%81%E5%B0%91%E5%B9%B4%E8%B4%AA%E9%A3%9F%E8%8D%94%E6%9E%9D%E8%87%B4%E6%98%8F%E8%BF%B7)
-1. [「禁酒令」升级白酒行业将何去何从](https://www.zhihu.com/search?q=%E3%80%8C%E7%A6%81%E9%85%92%E4%BB%A4%E3%80%8D%E5%8D%87%E7%BA%A7%E7%99%BD%E9%85%92%E8%A1%8C%E4%B8%9A%E5%B0%86%E4%BD%95%E5%8E%BB%E4%BD%95%E4%BB%8E)
-1. [四六级](https://www.zhihu.com/search?q=%E5%9B%9B%E5%85%AD%E7%BA%A7)
+1. [如何评价樊振东 3:2 林诗栋](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E6%A8%8A%E6%8C%AF%E4%B8%9C%203%3A2%20%E6%9E%97%E8%AF%97%E6%A0%8B)
 1. [那尔那茜妈妈](https://www.zhihu.com/search?q=%E9%82%A3%E5%B0%94%E9%82%A3%E8%8C%9C%E5%A6%88%E5%A6%88)
-1. [Ultra 成纽北史上最速量产电动车](https://www.zhihu.com/search?q=Ultra%20%E6%88%90%E7%BA%BD%E5%8C%97%E5%8F%B2%E4%B8%8A%E6%9C%80%E9%80%9F%E9%87%8F%E4%BA%A7%E7%94%B5%E5%8A%A8%E8%BD%A6)
+1. [四六级](https://www.zhihu.com/search?q=%E5%9B%9B%E5%85%AD%E7%BA%A7)
+1. [如何看待 LABUBU 背后的潮玩经济](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%20LABUBU%20%E8%83%8C%E5%90%8E%E7%9A%84%E6%BD%AE%E7%8E%A9%E7%BB%8F%E6%B5%8E)
+1. [中美经贸磋商达成原则一致会带来哪些影响](https://www.zhihu.com/search?q=%E4%B8%AD%E7%BE%8E%E7%BB%8F%E8%B4%B8%E7%A3%8B%E5%95%86%E8%BE%BE%E6%88%90%E5%8E%9F%E5%88%99%E4%B8%80%E8%87%B4%E4%BC%9A%E5%B8%A6%E6%9D%A5%E5%93%AA%E4%BA%9B%E5%BD%B1%E5%93%8D)
+1. [「禁酒令」升级白酒行业将何去何从](https://www.zhihu.com/search?q=%E3%80%8C%E7%A6%81%E9%85%92%E4%BB%A4%E3%80%8D%E5%8D%87%E7%BA%A7%E7%99%BD%E9%85%92%E8%A1%8C%E4%B8%9A%E5%B0%86%E4%BD%95%E5%8E%BB%E4%BD%95%E4%BB%8E)
 1. [「长安的荔枝」里圣人为何明知不可为而为之](https://www.zhihu.com/search?q=%E3%80%8C%E9%95%BF%E5%AE%89%E7%9A%84%E8%8D%94%E6%9E%9D%E3%80%8D%E9%87%8C%E5%9C%A3%E4%BA%BA%E4%B8%BA%E4%BD%95%E6%98%8E%E7%9F%A5%E4%B8%8D%E5%8F%AF%E4%B8%BA%E8%80%8C%E4%B8%BA%E4%B9%8B)
 1. [伊朗会如何报复以色列](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E4%BC%9A%E5%A6%82%E4%BD%95%E6%8A%A5%E5%A4%8D%E4%BB%A5%E8%89%B2%E5%88%97)
 
