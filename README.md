@@ -14,20 +14,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jun 15 2025 16:25:35 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jun 15 2025 17:21:25 GMT+0800 (China Standard Time) -->
 
 1. [阿里离职员工发万字长文](https://www.zhihu.com/search?q=%E9%98%BF%E9%87%8C%E7%A6%BB%E8%81%8C%E5%91%98%E5%B7%A5%E5%8F%91%E4%B8%87%E5%AD%97%E9%95%BF%E6%96%87)
 1. [伊朗报复以色列发动数百枚导弹袭击](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E6%8A%A5%E5%A4%8D%E4%BB%A5%E8%89%B2%E5%88%97%E5%8F%91%E5%8A%A8%E6%95%B0%E7%99%BE%E6%9E%9A%E5%AF%BC%E5%BC%B9%E8%A2%AD%E5%87%BB)
-1. [伊朗称击落两架以色列 F-35 战机](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%87%BB%E8%90%BD%E4%B8%A4%E6%9E%B6%E4%BB%A5%E8%89%B2%E5%88%97%20F-35%20%E6%88%98%E6%9C%BA)
-1. [印度客机坠毁原因可能是什么](https://www.zhihu.com/search?q=%E5%8D%B0%E5%BA%A6%E5%AE%A2%E6%9C%BA%E5%9D%A0%E6%AF%81%E5%8E%9F%E5%9B%A0%E5%8F%AF%E8%83%BD%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [王毅分别同伊朗外长、以色列外长通电话](https://www.zhihu.com/search?q=%E7%8E%8B%E6%AF%85%E5%88%86%E5%88%AB%E5%90%8C%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%E3%80%81%E4%BB%A5%E8%89%B2%E5%88%97%E5%A4%96%E9%95%BF%E9%80%9A%E7%94%B5%E8%AF%9D)
+1. [如何看待离职高管万字长文谈阿里大公司病](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E7%A6%BB%E8%81%8C%E9%AB%98%E7%AE%A1%E4%B8%87%E5%AD%97%E9%95%BF%E6%96%87%E8%B0%88%E9%98%BF%E9%87%8C%E5%A4%A7%E5%85%AC%E5%8F%B8%E7%97%85)
+1. [伊朗称击落两架以色列 F-35 战机](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%87%BB%E8%90%BD%E4%B8%A4%E6%9E%B6%E4%BB%A5%E8%89%B2%E5%88%97%20F-35%20%E6%88%98%E6%9C%BA)
 1. [伊朗公布以F35残骸图系AI图](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%85%AC%E5%B8%83%E4%BB%A5F35%E6%AE%8B%E9%AA%B8%E5%9B%BE%E7%B3%BBAI%E5%9B%BE)
 1. [伊朗会如何报复以色列](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E4%BC%9A%E5%A6%82%E4%BD%95%E6%8A%A5%E5%A4%8D%E4%BB%A5%E8%89%B2%E5%88%97)
-1. [如何看待离职高管万字长文谈阿里大公司病](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E7%A6%BB%E8%81%8C%E9%AB%98%E7%AE%A1%E4%B8%87%E5%AD%97%E9%95%BF%E6%96%87%E8%B0%88%E9%98%BF%E9%87%8C%E5%A4%A7%E5%85%AC%E5%8F%B8%E7%97%85)
+1. [为什么小沈阳女儿选择韩国出道](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B0%8F%E6%B2%88%E9%98%B3%E5%A5%B3%E5%84%BF%E9%80%89%E6%8B%A9%E9%9F%A9%E5%9B%BD%E5%87%BA%E9%81%93)
 1. [18 个月婴幼儿被客人灌啤酒](https://www.zhihu.com/search?q=18%20%E4%B8%AA%E6%9C%88%E5%A9%B4%E5%B9%BC%E5%84%BF%E8%A2%AB%E5%AE%A2%E4%BA%BA%E7%81%8C%E5%95%A4%E9%85%92)
 1. [伊朗革命卫队司令遇袭身亡](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E9%9D%A9%E5%91%BD%E5%8D%AB%E9%98%9F%E5%8F%B8%E4%BB%A4%E9%81%87%E8%A2%AD%E8%BA%AB%E4%BA%A1)
-1. [为什么小沈阳女儿选择韩国出道](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B0%8F%E6%B2%88%E9%98%B3%E5%A5%B3%E5%84%BF%E9%80%89%E6%8B%A9%E9%9F%A9%E5%9B%BD%E5%87%BA%E9%81%93)
+1. [如何看待女生高考结束后独自挑行李回家](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F%E5%90%8E%E7%8B%AC%E8%87%AA%E6%8C%91%E8%A1%8C%E6%9D%8E%E5%9B%9E%E5%AE%B6)
 1. [那尔那茜妈妈](https://www.zhihu.com/search?q=%E9%82%A3%E5%B0%94%E9%82%A3%E8%8C%9C%E5%A6%88%E5%A6%88)
+1. [印度客机坠毁原因可能是什么](https://www.zhihu.com/search?q=%E5%8D%B0%E5%BA%A6%E5%AE%A2%E6%9C%BA%E5%9D%A0%E6%AF%81%E5%8E%9F%E5%9B%A0%E5%8F%AF%E8%83%BD%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [成龙的电影从什么时候开始票房不灵了](https://www.zhihu.com/search?q=%E6%88%90%E9%BE%99%E7%9A%84%E7%94%B5%E5%BD%B1%E4%BB%8E%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E5%BC%80%E5%A7%8B%E7%A5%A8%E6%88%BF%E4%B8%8D%E7%81%B5%E4%BA%86)
 1. [车企压缩支付账期对行业有哪些影响](https://www.zhihu.com/search?q=%E8%BD%A6%E4%BC%81%E5%8E%8B%E7%BC%A9%E6%94%AF%E4%BB%98%E8%B4%A6%E6%9C%9F%E5%AF%B9%E8%A1%8C%E4%B8%9A%E6%9C%89%E5%93%AA%E4%BA%9B%E5%BD%B1%E5%93%8D)
 1. [「长安的荔枝」里圣人为何明知不可为而为之](https://www.zhihu.com/search?q=%E3%80%8C%E9%95%BF%E5%AE%89%E7%9A%84%E8%8D%94%E6%9E%9D%E3%80%8D%E9%87%8C%E5%9C%A3%E4%BA%BA%E4%B8%BA%E4%BD%95%E6%98%8E%E7%9F%A5%E4%B8%8D%E5%8F%AF%E4%B8%BA%E8%80%8C%E4%B8%BA%E4%B9%8B)
