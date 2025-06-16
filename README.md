@@ -14,19 +14,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jun 16 2025 15:22:50 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jun 16 2025 16:30:52 GMT+0800 (China Standard Time) -->
 
 1. [幼儿园一年关掉2万所](https://www.zhihu.com/search?q=%E5%B9%BC%E5%84%BF%E5%9B%AD%E4%B8%80%E5%B9%B4%E5%85%B3%E6%8E%892%E4%B8%87%E6%89%80)
 1. [王毅分别同伊朗外长、以色列外长通电话](https://www.zhihu.com/search?q=%E7%8E%8B%E6%AF%85%E5%88%86%E5%88%AB%E5%90%8C%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%E3%80%81%E4%BB%A5%E8%89%B2%E5%88%97%E5%A4%96%E9%95%BF%E9%80%9A%E7%94%B5%E8%AF%9D)
 1. [18 个月婴幼儿被客人灌啤酒](https://www.zhihu.com/search?q=18%20%E4%B8%AA%E6%9C%88%E5%A9%B4%E5%B9%BC%E5%84%BF%E8%A2%AB%E5%AE%A2%E4%BA%BA%E7%81%8C%E5%95%A4%E9%85%92)
-1. [男人最无声的炫耀是什么](https://www.zhihu.com/search?q=%E7%94%B7%E4%BA%BA%E6%9C%80%E6%97%A0%E5%A3%B0%E7%9A%84%E7%82%AB%E8%80%80%E6%98%AF%E4%BB%80%E4%B9%88)
-1. [伊朗会如何报复以色列](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E4%BC%9A%E5%A6%82%E4%BD%95%E6%8A%A5%E5%A4%8D%E4%BB%A5%E8%89%B2%E5%88%97)
-1. [伊朗革命卫队司令遇袭身亡](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E9%9D%A9%E5%91%BD%E5%8D%AB%E9%98%9F%E5%8F%B8%E4%BB%A4%E9%81%87%E8%A2%AD%E8%BA%AB%E4%BA%A1)
-1. [四川宜宾珙县发生4.8级地震](https://www.zhihu.com/search?q=%E5%9B%9B%E5%B7%9D%E5%AE%9C%E5%AE%BE%E7%8F%99%E5%8E%BF%E5%8F%91%E7%94%9F4.8%E7%BA%A7%E5%9C%B0%E9%9C%87)
 1. [云南蘑菇能不能让盲人看到小人](https://www.zhihu.com/search?q=%E4%BA%91%E5%8D%97%E8%98%91%E8%8F%87%E8%83%BD%E4%B8%8D%E8%83%BD%E8%AE%A9%E7%9B%B2%E4%BA%BA%E7%9C%8B%E5%88%B0%E5%B0%8F%E4%BA%BA)
+1. [伊朗革命卫队司令遇袭身亡](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E9%9D%A9%E5%91%BD%E5%8D%AB%E9%98%9F%E5%8F%B8%E4%BB%A4%E9%81%87%E8%A2%AD%E8%BA%AB%E4%BA%A1)
+1. [伊朗会如何报复以色列](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E4%BC%9A%E5%A6%82%E4%BD%95%E6%8A%A5%E5%A4%8D%E4%BB%A5%E8%89%B2%E5%88%97)
+1. [四川宜宾珙县发生4.8级地震](https://www.zhihu.com/search?q=%E5%9B%9B%E5%B7%9D%E5%AE%9C%E5%AE%BE%E7%8F%99%E5%8E%BF%E5%8F%91%E7%94%9F4.8%E7%BA%A7%E5%9C%B0%E9%9C%87)
+1. [全国各地现理发店倒闭潮](https://www.zhihu.com/search?q=%E5%85%A8%E5%9B%BD%E5%90%84%E5%9C%B0%E7%8E%B0%E7%90%86%E5%8F%91%E5%BA%97%E5%80%92%E9%97%AD%E6%BD%AE)
 1. [以色列将关闭所有驻外使馆](https://www.zhihu.com/search?q=%E4%BB%A5%E8%89%B2%E5%88%97%E5%B0%86%E5%85%B3%E9%97%AD%E6%89%80%E6%9C%89%E9%A9%BB%E5%A4%96%E4%BD%BF%E9%A6%86)
 1. [主持人金昀去世](https://www.zhihu.com/search?q=%E4%B8%BB%E6%8C%81%E4%BA%BA%E9%87%91%E6%98%80%E5%8E%BB%E4%B8%96)
-1. [全国各地现理发店倒闭潮](https://www.zhihu.com/search?q=%E5%85%A8%E5%9B%BD%E5%90%84%E5%9C%B0%E7%8E%B0%E7%90%86%E5%8F%91%E5%BA%97%E5%80%92%E9%97%AD%E6%BD%AE)
+1. [成龙的电影从什么时候开始票房不灵了](https://www.zhihu.com/search?q=%E6%88%90%E9%BE%99%E7%9A%84%E7%94%B5%E5%BD%B1%E4%BB%8E%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E5%BC%80%E5%A7%8B%E7%A5%A8%E6%88%BF%E4%B8%8D%E7%81%B5%E4%BA%86)
+1. [伊朗首次白天对以色列发动袭击](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E9%A6%96%E6%AC%A1%E7%99%BD%E5%A4%A9%E5%AF%B9%E4%BB%A5%E8%89%B2%E5%88%97%E5%8F%91%E5%8A%A8%E8%A2%AD%E5%87%BB)
+1. [男人最无声的炫耀是什么](https://www.zhihu.com/search?q=%E7%94%B7%E4%BA%BA%E6%9C%80%E6%97%A0%E5%A3%B0%E7%9A%84%E7%82%AB%E8%80%80%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [北京居民家中出现南方带翅大蟑螂](https://www.zhihu.com/search?q=%E5%8C%97%E4%BA%AC%E5%B1%85%E6%B0%91%E5%AE%B6%E4%B8%AD%E5%87%BA%E7%8E%B0%E5%8D%97%E6%96%B9%E5%B8%A6%E7%BF%85%E5%A4%A7%E8%9F%91%E8%9E%82)
 1. [焚烧垃圾能带来哪些好处](https://www.zhihu.com/search?q=%E7%84%9A%E7%83%A7%E5%9E%83%E5%9C%BE%E8%83%BD%E5%B8%A6%E6%9D%A5%E5%93%AA%E4%BA%9B%E5%A5%BD%E5%A4%84)
 1. [如何看待樊振东目前的实力](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E6%A8%8A%E6%8C%AF%E4%B8%9C%E7%9B%AE%E5%89%8D%E7%9A%84%E5%AE%9E%E5%8A%9B)
@@ -41,7 +43,6 @@
 1. [怎样才是有效收纳](https://www.zhihu.com/search?q=%E6%80%8E%E6%A0%B7%E6%89%8D%E6%98%AF%E6%9C%89%E6%95%88%E6%94%B6%E7%BA%B3)
 1. [为什么乔峰几乎无败绩却悲剧收场](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B9%94%E5%B3%B0%E5%87%A0%E4%B9%8E%E6%97%A0%E8%B4%A5%E7%BB%A9%E5%8D%B4%E6%82%B2%E5%89%A7%E6%94%B6%E5%9C%BA)
 1. [如何看待潘粤明炮轰国足教练](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E6%BD%98%E7%B2%A4%E6%98%8E%E7%82%AE%E8%BD%B0%E5%9B%BD%E8%B6%B3%E6%95%99%E7%BB%83)
-1. [成龙的电影从什么时候开始票房不灵了](https://www.zhihu.com/search?q=%E6%88%90%E9%BE%99%E7%9A%84%E7%94%B5%E5%BD%B1%E4%BB%8E%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E5%BC%80%E5%A7%8B%E7%A5%A8%E6%88%BF%E4%B8%8D%E7%81%B5%E4%BA%86)
 
 <!-- END -->
 
