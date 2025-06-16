@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jun 16 2025 22:22:47 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jun 16 2025 23:24:16 GMT+0800 (China Standard Time) -->
 
 1. [幼儿园一年关掉2万所](https://www.zhihu.com/search?q=%E5%B9%BC%E5%84%BF%E5%9B%AD%E4%B8%80%E5%B9%B4%E5%85%B3%E6%8E%892%E4%B8%87%E6%89%80)
 1. [韵达快递被罚](https://www.zhihu.com/search?q=%E9%9F%B5%E8%BE%BE%E5%BF%AB%E9%80%92%E8%A2%AB%E7%BD%9A)
@@ -27,6 +27,7 @@
 1. [18 个月婴幼儿被客人灌啤酒](https://www.zhihu.com/search?q=18%20%E4%B8%AA%E6%9C%88%E5%A9%B4%E5%B9%BC%E5%84%BF%E8%A2%AB%E5%AE%A2%E4%BA%BA%E7%81%8C%E5%95%A4%E9%85%92)
 1. [王毅分别同伊朗外长、以色列外长通电话](https://www.zhihu.com/search?q=%E7%8E%8B%E6%AF%85%E5%88%86%E5%88%AB%E5%90%8C%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%E3%80%81%E4%BB%A5%E8%89%B2%E5%88%97%E5%A4%96%E9%95%BF%E9%80%9A%E7%94%B5%E8%AF%9D)
 1. [广州拟全面取消房地产限购](https://www.zhihu.com/search?q=%E5%B9%BF%E5%B7%9E%E6%8B%9F%E5%85%A8%E9%9D%A2%E5%8F%96%E6%B6%88%E6%88%BF%E5%9C%B0%E4%BA%A7%E9%99%90%E8%B4%AD)
+1. [福建舰海试工作正按计划稳步推进](https://www.zhihu.com/search?q=%E7%A6%8F%E5%BB%BA%E8%88%B0%E6%B5%B7%E8%AF%95%E5%B7%A5%E4%BD%9C%E6%AD%A3%E6%8C%89%E8%AE%A1%E5%88%92%E7%A8%B3%E6%AD%A5%E6%8E%A8%E8%BF%9B)
 1. [罗马仕充电宝质量如何](https://www.zhihu.com/search?q=%E7%BD%97%E9%A9%AC%E4%BB%95%E5%85%85%E7%94%B5%E5%AE%9D%E8%B4%A8%E9%87%8F%E5%A6%82%E4%BD%95)
 1. [北京大学回应滑梯外卖桌像「猪食槽」](https://www.zhihu.com/search?q=%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E6%BB%91%E6%A2%AF%E5%A4%96%E5%8D%96%E6%A1%8C%E5%83%8F%E3%80%8C%E7%8C%AA%E9%A3%9F%E6%A7%BD%E3%80%8D)
 1. [为何中日车站选址差异如此之大](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E4%B8%AD%E6%97%A5%E8%BD%A6%E7%AB%99%E9%80%89%E5%9D%80%E5%B7%AE%E5%BC%82%E5%A6%82%E6%AD%A4%E4%B9%8B%E5%A4%A7)
