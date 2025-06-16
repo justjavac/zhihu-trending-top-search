@@ -14,20 +14,23 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jun 16 2025 13:23:33 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jun 16 2025 14:33:59 GMT+0800 (China Standard Time) -->
 
 1. [幼儿园一年关掉2万所](https://www.zhihu.com/search?q=%E5%B9%BC%E5%84%BF%E5%9B%AD%E4%B8%80%E5%B9%B4%E5%85%B3%E6%8E%892%E4%B8%87%E6%89%80)
 1. [王毅分别同伊朗外长、以色列外长通电话](https://www.zhihu.com/search?q=%E7%8E%8B%E6%AF%85%E5%88%86%E5%88%AB%E5%90%8C%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%E3%80%81%E4%BB%A5%E8%89%B2%E5%88%97%E5%A4%96%E9%95%BF%E9%80%9A%E7%94%B5%E8%AF%9D)
 1. [18 个月婴幼儿被客人灌啤酒](https://www.zhihu.com/search?q=18%20%E4%B8%AA%E6%9C%88%E5%A9%B4%E5%B9%BC%E5%84%BF%E8%A2%AB%E5%AE%A2%E4%BA%BA%E7%81%8C%E5%95%A4%E9%85%92)
-1. [焚烧垃圾能带来哪些好处](https://www.zhihu.com/search?q=%E7%84%9A%E7%83%A7%E5%9E%83%E5%9C%BE%E8%83%BD%E5%B8%A6%E6%9D%A5%E5%93%AA%E4%BA%9B%E5%A5%BD%E5%A4%84)
+1. [男人最无声的炫耀是什么](https://www.zhihu.com/search?q=%E7%94%B7%E4%BA%BA%E6%9C%80%E6%97%A0%E5%A3%B0%E7%9A%84%E7%82%AB%E8%80%80%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [伊朗会如何报复以色列](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E4%BC%9A%E5%A6%82%E4%BD%95%E6%8A%A5%E5%A4%8D%E4%BB%A5%E8%89%B2%E5%88%97)
 1. [伊朗革命卫队司令遇袭身亡](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E9%9D%A9%E5%91%BD%E5%8D%AB%E9%98%9F%E5%8F%B8%E4%BB%A4%E9%81%87%E8%A2%AD%E8%BA%AB%E4%BA%A1)
 1. [四川宜宾珙县发生4.8级地震](https://www.zhihu.com/search?q=%E5%9B%9B%E5%B7%9D%E5%AE%9C%E5%AE%BE%E7%8F%99%E5%8E%BF%E5%8F%91%E7%94%9F4.8%E7%BA%A7%E5%9C%B0%E9%9C%87)
-1. [如何看待樊振东目前的实力](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E6%A8%8A%E6%8C%AF%E4%B8%9C%E7%9B%AE%E5%89%8D%E7%9A%84%E5%AE%9E%E5%8A%9B)
+1. [云南蘑菇能不能让盲人看到小人](https://www.zhihu.com/search?q=%E4%BA%91%E5%8D%97%E8%98%91%E8%8F%87%E8%83%BD%E4%B8%8D%E8%83%BD%E8%AE%A9%E7%9B%B2%E4%BA%BA%E7%9C%8B%E5%88%B0%E5%B0%8F%E4%BA%BA)
 1. [以色列将关闭所有驻外使馆](https://www.zhihu.com/search?q=%E4%BB%A5%E8%89%B2%E5%88%97%E5%B0%86%E5%85%B3%E9%97%AD%E6%89%80%E6%9C%89%E9%A9%BB%E5%A4%96%E4%BD%BF%E9%A6%86)
 1. [主持人金昀去世](https://www.zhihu.com/search?q=%E4%B8%BB%E6%8C%81%E4%BA%BA%E9%87%91%E6%98%80%E5%8E%BB%E4%B8%96)
-1. [洛杉矶骚乱是否预示着美国「内战」将至](https://www.zhihu.com/search?q=%E6%B4%9B%E6%9D%89%E7%9F%B6%E9%AA%9A%E4%B9%B1%E6%98%AF%E5%90%A6%E9%A2%84%E7%A4%BA%E7%9D%80%E7%BE%8E%E5%9B%BD%E3%80%8C%E5%86%85%E6%88%98%E3%80%8D%E5%B0%86%E8%87%B3)
+1. [全国各地现理发店倒闭潮](https://www.zhihu.com/search?q=%E5%85%A8%E5%9B%BD%E5%90%84%E5%9C%B0%E7%8E%B0%E7%90%86%E5%8F%91%E5%BA%97%E5%80%92%E9%97%AD%E6%BD%AE)
 1. [北京居民家中出现南方带翅大蟑螂](https://www.zhihu.com/search?q=%E5%8C%97%E4%BA%AC%E5%B1%85%E6%B0%91%E5%AE%B6%E4%B8%AD%E5%87%BA%E7%8E%B0%E5%8D%97%E6%96%B9%E5%B8%A6%E7%BF%85%E5%A4%A7%E8%9F%91%E8%9E%82)
+1. [焚烧垃圾能带来哪些好处](https://www.zhihu.com/search?q=%E7%84%9A%E7%83%A7%E5%9E%83%E5%9C%BE%E8%83%BD%E5%B8%A6%E6%9D%A5%E5%93%AA%E4%BA%9B%E5%A5%BD%E5%A4%84)
+1. [如何看待樊振东目前的实力](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E6%A8%8A%E6%8C%AF%E4%B8%9C%E7%9B%AE%E5%89%8D%E7%9A%84%E5%AE%9E%E5%8A%9B)
+1. [洛杉矶骚乱是否预示着美国「内战」将至](https://www.zhihu.com/search?q=%E6%B4%9B%E6%9D%89%E7%9F%B6%E9%AA%9A%E4%B9%B1%E6%98%AF%E5%90%A6%E9%A2%84%E7%A4%BA%E7%9D%80%E7%BE%8E%E5%9B%BD%E3%80%8C%E5%86%85%E6%88%98%E3%80%8D%E5%B0%86%E8%87%B3)
 1. [如何看待女生高考结束后独自挑行李回家](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F%E5%90%8E%E7%8B%AC%E8%87%AA%E6%8C%91%E8%A1%8C%E6%9D%8E%E5%9B%9E%E5%AE%B6)
 1. [T1 3-0战胜HLE](https://www.zhihu.com/search?q=T1%203-0%E6%88%98%E8%83%9CHLE)
 1. [苏超徐州vs镇江](https://www.zhihu.com/search?q=%E8%8B%8F%E8%B6%85%E5%BE%90%E5%B7%9Evs%E9%95%87%E6%B1%9F)
