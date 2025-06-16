@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jun 16 2025 14:33:59 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jun 16 2025 15:22:50 GMT+0800 (China Standard Time) -->
 
 1. [幼儿园一年关掉2万所](https://www.zhihu.com/search?q=%E5%B9%BC%E5%84%BF%E5%9B%AD%E4%B8%80%E5%B9%B4%E5%85%B3%E6%8E%892%E4%B8%87%E6%89%80)
 1. [王毅分别同伊朗外长、以色列外长通电话](https://www.zhihu.com/search?q=%E7%8E%8B%E6%AF%85%E5%88%86%E5%88%AB%E5%90%8C%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%E3%80%81%E4%BB%A5%E8%89%B2%E5%88%97%E5%A4%96%E9%95%BF%E9%80%9A%E7%94%B5%E8%AF%9D)
