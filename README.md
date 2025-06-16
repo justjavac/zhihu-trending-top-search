@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jun 16 2025 21:35:06 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jun 16 2025 22:22:47 GMT+0800 (China Standard Time) -->
 
 1. [幼儿园一年关掉2万所](https://www.zhihu.com/search?q=%E5%B9%BC%E5%84%BF%E5%9B%AD%E4%B8%80%E5%B9%B4%E5%85%B3%E6%8E%892%E4%B8%87%E6%89%80)
 1. [韵达快递被罚](https://www.zhihu.com/search?q=%E9%9F%B5%E8%BE%BE%E5%BF%AB%E9%80%92%E8%A2%AB%E7%BD%9A)
