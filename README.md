@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jun 19 2025 15:21:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jun 19 2025 16:29:29 GMT+0800 (China Standard Time) -->
 
 1. [广东怀集遇历史最大洪水](https://www.zhihu.com/search?q=%E5%B9%BF%E4%B8%9C%E6%80%80%E9%9B%86%E9%81%87%E5%8E%86%E5%8F%B2%E6%9C%80%E5%A4%A7%E6%B4%AA%E6%B0%B4)
 1. [幼儿园一年关掉2万所](https://www.zhihu.com/search?q=%E5%B9%BC%E5%84%BF%E5%9B%AD%E4%B8%80%E5%B9%B4%E5%85%B3%E6%8E%892%E4%B8%87%E6%89%80)
@@ -25,9 +25,11 @@
 1. [8岁男孩花1万多网购26箱荔枝](https://www.zhihu.com/search?q=8%E5%B2%81%E7%94%B7%E5%AD%A9%E8%8A%B11%E4%B8%87%E5%A4%9A%E7%BD%91%E8%B4%AD26%E7%AE%B1%E8%8D%94%E6%9E%9D)
 1. [男子实名举报李雪琴公司财务问题](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%90%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%E6%9D%8E%E9%9B%AA%E7%90%B4%E5%85%AC%E5%8F%B8%E8%B4%A2%E5%8A%A1%E9%97%AE%E9%A2%98)
 1. [为何北京多所高校禁用罗马仕充电宝](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E5%8C%97%E4%BA%AC%E5%A4%9A%E6%89%80%E9%AB%98%E6%A0%A1%E7%A6%81%E7%94%A8%E7%BD%97%E9%A9%AC%E4%BB%95%E5%85%85%E7%94%B5%E5%AE%9D)
+1. [以方已摧毁伊朗铀浓缩设施](https://www.zhihu.com/search?q=%E4%BB%A5%E6%96%B9%E5%B7%B2%E6%91%A7%E6%AF%81%E4%BC%8A%E6%9C%97%E9%93%80%E6%B5%93%E7%BC%A9%E8%AE%BE%E6%96%BD)
+1. [八旬老人诊断胃炎被以癌症切全胃](https://www.zhihu.com/search?q=%E5%85%AB%E6%97%AC%E8%80%81%E4%BA%BA%E8%AF%8A%E6%96%AD%E8%83%83%E7%82%8E%E8%A2%AB%E4%BB%A5%E7%99%8C%E7%97%87%E5%88%87%E5%85%A8%E8%83%83)
+1. [若离职时必须教会接替者你会教吗](https://www.zhihu.com/search?q=%E8%8B%A5%E7%A6%BB%E8%81%8C%E6%97%B6%E5%BF%85%E9%A1%BB%E6%95%99%E4%BC%9A%E6%8E%A5%E6%9B%BF%E8%80%85%E4%BD%A0%E4%BC%9A%E6%95%99%E5%90%97)
 1. [救护车转运重症患儿800公里收费2.8万](https://www.zhihu.com/search?q=%E6%95%91%E6%8A%A4%E8%BD%A6%E8%BD%AC%E8%BF%90%E9%87%8D%E7%97%87%E6%82%A3%E5%84%BF800%E5%85%AC%E9%87%8C%E6%94%B6%E8%B4%B92.8%E4%B8%87)
 1. [前老板实名举报李雪琴](https://www.zhihu.com/search?q=%E5%89%8D%E8%80%81%E6%9D%BF%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%E6%9D%8E%E9%9B%AA%E7%90%B4)
-1. [若离职时必须教会接替者你会教吗](https://www.zhihu.com/search?q=%E8%8B%A5%E7%A6%BB%E8%81%8C%E6%97%B6%E5%BF%85%E9%A1%BB%E6%95%99%E4%BC%9A%E6%8E%A5%E6%9B%BF%E8%80%85%E4%BD%A0%E4%BC%9A%E6%95%99%E5%90%97)
 1. [刘强东称跨境电商模式不可持续](https://www.zhihu.com/search?q=%E5%88%98%E5%BC%BA%E4%B8%9C%E7%A7%B0%E8%B7%A8%E5%A2%83%E7%94%B5%E5%95%86%E6%A8%A1%E5%BC%8F%E4%B8%8D%E5%8F%AF%E6%8C%81%E7%BB%AD)
 1. [给婴幼儿灌酒危害有多大](https://www.zhihu.com/search?q=%E7%BB%99%E5%A9%B4%E5%B9%BC%E5%84%BF%E7%81%8C%E9%85%92%E5%8D%B1%E5%AE%B3%E6%9C%89%E5%A4%9A%E5%A4%A7)
 1. [以色列伊朗局势会升级吗](https://www.zhihu.com/search?q=%E4%BB%A5%E8%89%B2%E5%88%97%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF%E4%BC%9A%E5%8D%87%E7%BA%A7%E5%90%97)
