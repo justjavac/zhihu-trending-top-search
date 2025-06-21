@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jun 21 2025 17:20:45 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jun 21 2025 18:21:57 GMT+0800 (China Standard Time) -->
 
 1. [内蒙古教育厅回应那尔那茜定向委培事件](https://www.zhihu.com/search?q=%E5%86%85%E8%92%99%E5%8F%A4%E6%95%99%E8%82%B2%E5%8E%85%E5%9B%9E%E5%BA%94%E9%82%A3%E5%B0%94%E9%82%A3%E8%8C%9C%E5%AE%9A%E5%90%91%E5%A7%94%E5%9F%B9%E4%BA%8B%E4%BB%B6)
 1. [西安一商场大屏播放巨大电风扇](https://www.zhihu.com/search?q=%E8%A5%BF%E5%AE%89%E4%B8%80%E5%95%86%E5%9C%BA%E5%A4%A7%E5%B1%8F%E6%92%AD%E6%94%BE%E5%B7%A8%E5%A4%A7%E7%94%B5%E9%A3%8E%E6%89%87)
@@ -26,8 +26,8 @@
 1. [夫妻开饭店双双确诊乳腺癌](https://www.zhihu.com/search?q=%E5%A4%AB%E5%A6%BB%E5%BC%80%E9%A5%AD%E5%BA%97%E5%8F%8C%E5%8F%8C%E7%A1%AE%E8%AF%8A%E4%B9%B3%E8%85%BA%E7%99%8C)
 1. [以军要求以全境民众进避难所](https://www.zhihu.com/search?q=%E4%BB%A5%E5%86%9B%E8%A6%81%E6%B1%82%E4%BB%A5%E5%85%A8%E5%A2%83%E6%B0%91%E4%BC%97%E8%BF%9B%E9%81%BF%E9%9A%BE%E6%89%80)
 1. [湖南又一溶洞被曝遍布垃圾](https://www.zhihu.com/search?q=%E6%B9%96%E5%8D%97%E5%8F%88%E4%B8%80%E6%BA%B6%E6%B4%9E%E8%A2%AB%E6%9B%9D%E9%81%8D%E5%B8%83%E5%9E%83%E5%9C%BE)
-1. [佩通坦与洪森通话录音被泄露](https://www.zhihu.com/search?q=%E4%BD%A9%E9%80%9A%E5%9D%A6%E4%B8%8E%E6%B4%AA%E6%A3%AE%E9%80%9A%E8%AF%9D%E5%BD%95%E9%9F%B3%E8%A2%AB%E6%B3%84%E9%9C%B2)
 1. [留英博士性侵多人被判无期](https://www.zhihu.com/search?q=%E7%95%99%E8%8B%B1%E5%8D%9A%E5%A3%AB%E6%80%A7%E4%BE%B5%E5%A4%9A%E4%BA%BA%E8%A2%AB%E5%88%A4%E6%97%A0%E6%9C%9F)
+1. [佩通坦与洪森通话录音被泄露](https://www.zhihu.com/search?q=%E4%BD%A9%E9%80%9A%E5%9D%A6%E4%B8%8E%E6%B4%AA%E6%A3%AE%E9%80%9A%E8%AF%9D%E5%BD%95%E9%9F%B3%E8%A2%AB%E6%B3%84%E9%9C%B2)
 1. [伊以开打消耗战](https://www.zhihu.com/search?q=%E4%BC%8A%E4%BB%A5%E5%BC%80%E6%89%93%E6%B6%88%E8%80%97%E6%88%98)
 1. [多所高校明确不招复读生](https://www.zhihu.com/search?q=%E5%A4%9A%E6%89%80%E9%AB%98%E6%A0%A1%E6%98%8E%E7%A1%AE%E4%B8%8D%E6%8B%9B%E5%A4%8D%E8%AF%BB%E7%94%9F)
 1. [京东正式进军酒旅市场](https://www.zhihu.com/search?q=%E4%BA%AC%E4%B8%9C%E6%AD%A3%E5%BC%8F%E8%BF%9B%E5%86%9B%E9%85%92%E6%97%85%E5%B8%82%E5%9C%BA)
