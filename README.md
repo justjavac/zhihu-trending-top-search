@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jun 22 2025 06:19:14 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jun 22 2025 07:19:38 GMT+0800 (China Standard Time) -->
 
 1. [那尔那茜涉嫌高考报名材料造假](https://www.zhihu.com/search?q=%E9%82%A3%E5%B0%94%E9%82%A3%E8%8C%9C%E6%B6%89%E5%AB%8C%E9%AB%98%E8%80%83%E6%8A%A5%E5%90%8D%E6%9D%90%E6%96%99%E9%80%A0%E5%81%87)
 1. [西安一商场大屏播放巨大电风扇](https://www.zhihu.com/search?q=%E8%A5%BF%E5%AE%89%E4%B8%80%E5%95%86%E5%9C%BA%E5%A4%A7%E5%B1%8F%E6%92%AD%E6%94%BE%E5%B7%A8%E5%A4%A7%E7%94%B5%E9%A3%8E%E6%89%87)
@@ -26,11 +26,11 @@
 1. [男孩结婚2小时后坠亡婚姻被判无效](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%A9%E7%BB%93%E5%A9%9A2%E5%B0%8F%E6%97%B6%E5%90%8E%E5%9D%A0%E4%BA%A1%E5%A9%9A%E5%A7%BB%E8%A2%AB%E5%88%A4%E6%97%A0%E6%95%88)
 1. [「苏超」爆火做对了什么](https://www.zhihu.com/search?q=%E3%80%8C%E8%8B%8F%E8%B6%85%E3%80%8D%E7%88%86%E7%81%AB%E5%81%9A%E5%AF%B9%E4%BA%86%E4%BB%80%E4%B9%88)
 1. [清华回应女教授被树砸身亡](https://www.zhihu.com/search?q=%E6%B8%85%E5%8D%8E%E5%9B%9E%E5%BA%94%E5%A5%B3%E6%95%99%E6%8E%88%E8%A2%AB%E6%A0%91%E7%A0%B8%E8%BA%AB%E4%BA%A1)
-1. [湖南又一溶洞被曝遍布垃圾](https://www.zhihu.com/search?q=%E6%B9%96%E5%8D%97%E5%8F%88%E4%B8%80%E6%BA%B6%E6%B4%9E%E8%A2%AB%E6%9B%9D%E9%81%8D%E5%B8%83%E5%9E%83%E5%9C%BE)
+1. [英舰过航台湾海峡](https://www.zhihu.com/search?q=%E8%8B%B1%E8%88%B0%E8%BF%87%E8%88%AA%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1)
 1. [哈梅内伊称不接受任何「强加的和平或战争」](https://www.zhihu.com/search?q=%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A%E7%A7%B0%E4%B8%8D%E6%8E%A5%E5%8F%97%E4%BB%BB%E4%BD%95%E3%80%8C%E5%BC%BA%E5%8A%A0%E7%9A%84%E5%92%8C%E5%B9%B3%E6%88%96%E6%88%98%E4%BA%89%E3%80%8D)
+1. [湖南又一溶洞被曝遍布垃圾](https://www.zhihu.com/search?q=%E6%B9%96%E5%8D%97%E5%8F%88%E4%B8%80%E6%BA%B6%E6%B4%9E%E8%A2%AB%E6%9B%9D%E9%81%8D%E5%B8%83%E5%9E%83%E5%9C%BE)
 1. [你在部队捅过最大的娄子是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E5%9C%A8%E9%83%A8%E9%98%9F%E6%8D%85%E8%BF%87%E6%9C%80%E5%A4%A7%E7%9A%84%E5%A8%84%E5%AD%90%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [刘强东称京东外卖会出一个不同的商业模式](https://www.zhihu.com/search?q=%E5%88%98%E5%BC%BA%E4%B8%9C%E7%A7%B0%E4%BA%AC%E4%B8%9C%E5%A4%96%E5%8D%96%E4%BC%9A%E5%87%BA%E4%B8%80%E4%B8%AA%E4%B8%8D%E5%90%8C%E7%9A%84%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F)
-1. [英舰过航台湾海峡](https://www.zhihu.com/search?q=%E8%8B%B1%E8%88%B0%E8%BF%87%E8%88%AA%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1)
 1. [张子宇会是下一个「姚明」吗](https://www.zhihu.com/search?q=%E5%BC%A0%E5%AD%90%E5%AE%87%E4%BC%9A%E6%98%AF%E4%B8%8B%E4%B8%80%E4%B8%AA%E3%80%8C%E5%A7%9A%E6%98%8E%E3%80%8D%E5%90%97)
 
 <!-- END -->
