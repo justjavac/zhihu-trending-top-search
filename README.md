@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jun 21 2025 18:21:57 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jun 21 2025 19:18:41 GMT+0800 (China Standard Time) -->
 
 1. [内蒙古教育厅回应那尔那茜定向委培事件](https://www.zhihu.com/search?q=%E5%86%85%E8%92%99%E5%8F%A4%E6%95%99%E8%82%B2%E5%8E%85%E5%9B%9E%E5%BA%94%E9%82%A3%E5%B0%94%E9%82%A3%E8%8C%9C%E5%AE%9A%E5%90%91%E5%A7%94%E5%9F%B9%E4%BA%8B%E4%BB%B6)
 1. [西安一商场大屏播放巨大电风扇](https://www.zhihu.com/search?q=%E8%A5%BF%E5%AE%89%E4%B8%80%E5%95%86%E5%9C%BA%E5%A4%A7%E5%B1%8F%E6%92%AD%E6%94%BE%E5%B7%A8%E5%A4%A7%E7%94%B5%E9%A3%8E%E6%89%87)
@@ -22,12 +22,13 @@
 1. [以方已摧毁伊朗铀浓缩设施](https://www.zhihu.com/search?q=%E4%BB%A5%E6%96%B9%E5%B7%B2%E6%91%A7%E6%AF%81%E4%BC%8A%E6%9C%97%E9%93%80%E6%B5%93%E7%BC%A9%E8%AE%BE%E6%96%BD)
 1. [伊朗9名核科学家被特殊武器暗杀](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%979%E5%90%8D%E6%A0%B8%E7%A7%91%E5%AD%A6%E5%AE%B6%E8%A2%AB%E7%89%B9%E6%AE%8A%E6%AD%A6%E5%99%A8%E6%9A%97%E6%9D%80)
 1. [怀集赵一鸣](https://www.zhihu.com/search?q=%E6%80%80%E9%9B%86%E8%B5%B5%E4%B8%80%E9%B8%A3)
-1. [特朗普要求伊朗无条件投降有哪些目的](https://www.zhihu.com/search?q=%E7%89%B9%E6%9C%97%E6%99%AE%E8%A6%81%E6%B1%82%E4%BC%8A%E6%9C%97%E6%97%A0%E6%9D%A1%E4%BB%B6%E6%8A%95%E9%99%8D%E6%9C%89%E5%93%AA%E4%BA%9B%E7%9B%AE%E7%9A%84)
+1. [你在部队捅过最大的娄子是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E5%9C%A8%E9%83%A8%E9%98%9F%E6%8D%85%E8%BF%87%E6%9C%80%E5%A4%A7%E7%9A%84%E5%A8%84%E5%AD%90%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [夫妻开饭店双双确诊乳腺癌](https://www.zhihu.com/search?q=%E5%A4%AB%E5%A6%BB%E5%BC%80%E9%A5%AD%E5%BA%97%E5%8F%8C%E5%8F%8C%E7%A1%AE%E8%AF%8A%E4%B9%B3%E8%85%BA%E7%99%8C)
 1. [以军要求以全境民众进避难所](https://www.zhihu.com/search?q=%E4%BB%A5%E5%86%9B%E8%A6%81%E6%B1%82%E4%BB%A5%E5%85%A8%E5%A2%83%E6%B0%91%E4%BC%97%E8%BF%9B%E9%81%BF%E9%9A%BE%E6%89%80)
-1. [湖南又一溶洞被曝遍布垃圾](https://www.zhihu.com/search?q=%E6%B9%96%E5%8D%97%E5%8F%88%E4%B8%80%E6%BA%B6%E6%B4%9E%E8%A2%AB%E6%9B%9D%E9%81%8D%E5%B8%83%E5%9E%83%E5%9C%BE)
 1. [留英博士性侵多人被判无期](https://www.zhihu.com/search?q=%E7%95%99%E8%8B%B1%E5%8D%9A%E5%A3%AB%E6%80%A7%E4%BE%B5%E5%A4%9A%E4%BA%BA%E8%A2%AB%E5%88%A4%E6%97%A0%E6%9C%9F)
+1. [湖南又一溶洞被曝遍布垃圾](https://www.zhihu.com/search?q=%E6%B9%96%E5%8D%97%E5%8F%88%E4%B8%80%E6%BA%B6%E6%B4%9E%E8%A2%AB%E6%9B%9D%E9%81%8D%E5%B8%83%E5%9E%83%E5%9C%BE)
 1. [佩通坦与洪森通话录音被泄露](https://www.zhihu.com/search?q=%E4%BD%A9%E9%80%9A%E5%9D%A6%E4%B8%8E%E6%B4%AA%E6%A3%AE%E9%80%9A%E8%AF%9D%E5%BD%95%E9%9F%B3%E8%A2%AB%E6%B3%84%E9%9C%B2)
+1. [特朗普要求伊朗无条件投降有哪些目的](https://www.zhihu.com/search?q=%E7%89%B9%E6%9C%97%E6%99%AE%E8%A6%81%E6%B1%82%E4%BC%8A%E6%9C%97%E6%97%A0%E6%9D%A1%E4%BB%B6%E6%8A%95%E9%99%8D%E6%9C%89%E5%93%AA%E4%BA%9B%E7%9B%AE%E7%9A%84)
 1. [伊以开打消耗战](https://www.zhihu.com/search?q=%E4%BC%8A%E4%BB%A5%E5%BC%80%E6%89%93%E6%B6%88%E8%80%97%E6%88%98)
 1. [多所高校明确不招复读生](https://www.zhihu.com/search?q=%E5%A4%9A%E6%89%80%E9%AB%98%E6%A0%A1%E6%98%8E%E7%A1%AE%E4%B8%8D%E6%8B%9B%E5%A4%8D%E8%AF%BB%E7%94%9F)
 1. [京东正式进军酒旅市场](https://www.zhihu.com/search?q=%E4%BA%AC%E4%B8%9C%E6%AD%A3%E5%BC%8F%E8%BF%9B%E5%86%9B%E9%85%92%E6%97%85%E5%B8%82%E5%9C%BA)
@@ -37,7 +38,6 @@
 1. [王长田称「哪吒 2」票房分账最不公平](https://www.zhihu.com/search?q=%E7%8E%8B%E9%95%BF%E7%94%B0%E7%A7%B0%E3%80%8C%E5%93%AA%E5%90%92%202%E3%80%8D%E7%A5%A8%E6%88%BF%E5%88%86%E8%B4%A6%E6%9C%80%E4%B8%8D%E5%85%AC%E5%B9%B3)
 1. [哪吒汽车正式被申请破产](https://www.zhihu.com/search?q=%E5%93%AA%E5%90%92%E6%B1%BD%E8%BD%A6%E6%AD%A3%E5%BC%8F%E8%A2%AB%E7%94%B3%E8%AF%B7%E7%A0%B4%E4%BA%A7)
 1. [「剑星」登顶 Steam 全球热销榜](https://www.zhihu.com/search?q=%E3%80%8C%E5%89%91%E6%98%9F%E3%80%8D%E7%99%BB%E9%A1%B6%20Steam%20%E5%85%A8%E7%90%83%E7%83%AD%E9%94%80%E6%A6%9C)
-1. [你在部队捅过最大的娄子是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E5%9C%A8%E9%83%A8%E9%98%9F%E6%8D%85%E8%BF%87%E6%9C%80%E5%A4%A7%E7%9A%84%E5%A8%84%E5%AD%90%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [为何罗马仕充电宝有安全隐患还能上市](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E7%BD%97%E9%A9%AC%E4%BB%95%E5%85%85%E7%94%B5%E5%AE%9D%E6%9C%89%E5%AE%89%E5%85%A8%E9%9A%90%E6%82%A3%E8%BF%98%E8%83%BD%E4%B8%8A%E5%B8%82)
 1. [美军会参与空袭伊朗吗](https://www.zhihu.com/search?q=%E7%BE%8E%E5%86%9B%E4%BC%9A%E5%8F%82%E4%B8%8E%E7%A9%BA%E8%A2%AD%E4%BC%8A%E6%9C%97%E5%90%97)
 1. [1 胎 99 子剧情反映短剧市场哪些问题](https://www.zhihu.com/search?q=1%20%E8%83%8E%2099%20%E5%AD%90%E5%89%A7%E6%83%85%E5%8F%8D%E6%98%A0%E7%9F%AD%E5%89%A7%E5%B8%82%E5%9C%BA%E5%93%AA%E4%BA%9B%E9%97%AE%E9%A2%98)
