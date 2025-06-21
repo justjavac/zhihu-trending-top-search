@@ -14,18 +14,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jun 21 2025 13:20:20 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jun 21 2025 14:29:17 GMT+0800 (China Standard Time) -->
 
 1. [多所高校明确不招复读生](https://www.zhihu.com/search?q=%E5%A4%9A%E6%89%80%E9%AB%98%E6%A0%A1%E6%98%8E%E7%A1%AE%E4%B8%8D%E6%8B%9B%E5%A4%8D%E8%AF%BB%E7%94%9F)
 1. [怀集赵一鸣](https://www.zhihu.com/search?q=%E6%80%80%E9%9B%86%E8%B5%B5%E4%B8%80%E9%B8%A3)
 1. [内蒙古教育厅回应那尔那茜定向委培事件](https://www.zhihu.com/search?q=%E5%86%85%E8%92%99%E5%8F%A4%E6%95%99%E8%82%B2%E5%8E%85%E5%9B%9E%E5%BA%94%E9%82%A3%E5%B0%94%E9%82%A3%E8%8C%9C%E5%AE%9A%E5%90%91%E5%A7%94%E5%9F%B9%E4%BA%8B%E4%BB%B6)
-1. [伊朗国家电视台大楼遭以色列袭击](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%9B%BD%E5%AE%B6%E7%94%B5%E8%A7%86%E5%8F%B0%E5%A4%A7%E6%A5%BC%E9%81%AD%E4%BB%A5%E8%89%B2%E5%88%97%E8%A2%AD%E5%87%BB)
-1. [伊朗9名核科学家被特殊武器暗杀](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%979%E5%90%8D%E6%A0%B8%E7%A7%91%E5%AD%A6%E5%AE%B6%E8%A2%AB%E7%89%B9%E6%AE%8A%E6%AD%A6%E5%99%A8%E6%9A%97%E6%9D%80)
-1. [以方已摧毁伊朗铀浓缩设施](https://www.zhihu.com/search?q=%E4%BB%A5%E6%96%B9%E5%B7%B2%E6%91%A7%E6%AF%81%E4%BC%8A%E6%9C%97%E9%93%80%E6%B5%93%E7%BC%A9%E8%AE%BE%E6%96%BD)
+1. [京东正式进军酒旅市场](https://www.zhihu.com/search?q=%E4%BA%AC%E4%B8%9C%E6%AD%A3%E5%BC%8F%E8%BF%9B%E5%86%9B%E9%85%92%E6%97%85%E5%B8%82%E5%9C%BA)
 1. [张爱玲教授逝世](https://www.zhihu.com/search?q=%E5%BC%A0%E7%88%B1%E7%8E%B2%E6%95%99%E6%8E%88%E9%80%9D%E4%B8%96)
+1. [以方已摧毁伊朗铀浓缩设施](https://www.zhihu.com/search?q=%E4%BB%A5%E6%96%B9%E5%B7%B2%E6%91%A7%E6%AF%81%E4%BC%8A%E6%9C%97%E9%93%80%E6%B5%93%E7%BC%A9%E8%AE%BE%E6%96%BD)
+1. [伊朗9名核科学家被特殊武器暗杀](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%979%E5%90%8D%E6%A0%B8%E7%A7%91%E5%AD%A6%E5%AE%B6%E8%A2%AB%E7%89%B9%E6%AE%8A%E6%AD%A6%E5%99%A8%E6%9A%97%E6%9D%80)
 1. [夫妻开饭店双双确诊乳腺癌](https://www.zhihu.com/search?q=%E5%A4%AB%E5%A6%BB%E5%BC%80%E9%A5%AD%E5%BA%97%E5%8F%8C%E5%8F%8C%E7%A1%AE%E8%AF%8A%E4%B9%B3%E8%85%BA%E7%99%8C)
-1. [王长田称「哪吒 2」票房分账最不公平](https://www.zhihu.com/search?q=%E7%8E%8B%E9%95%BF%E7%94%B0%E7%A7%B0%E3%80%8C%E5%93%AA%E5%90%92%202%E3%80%8D%E7%A5%A8%E6%88%BF%E5%88%86%E8%B4%A6%E6%9C%80%E4%B8%8D%E5%85%AC%E5%B9%B3)
+1. [特朗普要求伊朗无条件投降有哪些目的](https://www.zhihu.com/search?q=%E7%89%B9%E6%9C%97%E6%99%AE%E8%A6%81%E6%B1%82%E4%BC%8A%E6%9C%97%E6%97%A0%E6%9D%A1%E4%BB%B6%E6%8A%95%E9%99%8D%E6%9C%89%E5%93%AA%E4%BA%9B%E7%9B%AE%E7%9A%84)
 1. [以军要求以全境民众进避难所](https://www.zhihu.com/search?q=%E4%BB%A5%E5%86%9B%E8%A6%81%E6%B1%82%E4%BB%A5%E5%85%A8%E5%A2%83%E6%B0%91%E4%BC%97%E8%BF%9B%E9%81%BF%E9%9A%BE%E6%89%80)
+1. [捞女游戏](https://www.zhihu.com/search?q=%E6%8D%9E%E5%A5%B3%E6%B8%B8%E6%88%8F)
+1. [一万六千光年外每四十四分钟眨一次眼是何物](https://www.zhihu.com/search?q=%E4%B8%80%E4%B8%87%E5%85%AD%E5%8D%83%E5%85%89%E5%B9%B4%E5%A4%96%E6%AF%8F%E5%9B%9B%E5%8D%81%E5%9B%9B%E5%88%86%E9%92%9F%E7%9C%A8%E4%B8%80%E6%AC%A1%E7%9C%BC%E6%98%AF%E4%BD%95%E7%89%A9)
+1. [伊朗国家电视台大楼遭以色列袭击](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%9B%BD%E5%AE%B6%E7%94%B5%E8%A7%86%E5%8F%B0%E5%A4%A7%E6%A5%BC%E9%81%AD%E4%BB%A5%E8%89%B2%E5%88%97%E8%A2%AD%E5%87%BB)
+1. [王长田称「哪吒 2」票房分账最不公平](https://www.zhihu.com/search?q=%E7%8E%8B%E9%95%BF%E7%94%B0%E7%A7%B0%E3%80%8C%E5%93%AA%E5%90%92%202%E3%80%8D%E7%A5%A8%E6%88%BF%E5%88%86%E8%B4%A6%E6%9C%80%E4%B8%8D%E5%85%AC%E5%B9%B3)
 1. [哪吒汽车正式被申请破产](https://www.zhihu.com/search?q=%E5%93%AA%E5%90%92%E6%B1%BD%E8%BD%A6%E6%AD%A3%E5%BC%8F%E8%A2%AB%E7%94%B3%E8%AF%B7%E7%A0%B4%E4%BA%A7)
 1. [「剑星」登顶 Steam 全球热销榜](https://www.zhihu.com/search?q=%E3%80%8C%E5%89%91%E6%98%9F%E3%80%8D%E7%99%BB%E9%A1%B6%20Steam%20%E5%85%A8%E7%90%83%E7%83%AD%E9%94%80%E6%A6%9C)
 1. [你在部队捅过最大的娄子是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E5%9C%A8%E9%83%A8%E9%98%9F%E6%8D%85%E8%BF%87%E6%9C%80%E5%A4%A7%E7%9A%84%E5%A8%84%E5%AD%90%E6%98%AF%E4%BB%80%E4%B9%88)
