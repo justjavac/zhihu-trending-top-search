@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jun 22 2025 20:40:07 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jun 22 2025 21:28:18 GMT+0800 (China Standard Time) -->
 
 1. [那尔那茜涉嫌高考报名材料造假](https://www.zhihu.com/search?q=%E9%82%A3%E5%B0%94%E9%82%A3%E8%8C%9C%E6%B6%89%E5%AB%8C%E9%AB%98%E8%80%83%E6%8A%A5%E5%90%8D%E6%9D%90%E6%96%99%E9%80%A0%E5%81%87)
 1. [美国袭击伊朗核设施](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97%E6%A0%B8%E8%AE%BE%E6%96%BD)
@@ -22,8 +22,8 @@
 1. [王欣瑜对阵万卓索娃](https://www.zhihu.com/search?q=%E7%8E%8B%E6%AC%A3%E7%91%9C%E5%AF%B9%E9%98%B5%E4%B8%87%E5%8D%93%E7%B4%A2%E5%A8%83)
 1. [特朗普称打击伊朗3处核设施](https://www.zhihu.com/search?q=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%89%93%E5%87%BB%E4%BC%8A%E6%9C%973%E5%A4%84%E6%A0%B8%E8%AE%BE%E6%96%BD)
 1. [你见过最不会点菜的人是什么样子的](https://www.zhihu.com/search?q=%E4%BD%A0%E8%A7%81%E8%BF%87%E6%9C%80%E4%B8%8D%E4%BC%9A%E7%82%B9%E8%8F%9C%E7%9A%84%E4%BA%BA%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E5%AD%90%E7%9A%84)
-1. [英舰过航台湾海峡](https://www.zhihu.com/search?q=%E8%8B%B1%E8%88%B0%E8%BF%87%E8%88%AA%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1)
 1. [特朗普称伊朗核设施已彻底摧毁](https://www.zhihu.com/search?q=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%BC%8A%E6%9C%97%E6%A0%B8%E8%AE%BE%E6%96%BD%E5%B7%B2%E5%BD%BB%E5%BA%95%E6%91%A7%E6%AF%81)
+1. [英舰过航台湾海峡](https://www.zhihu.com/search?q=%E8%8B%B1%E8%88%B0%E8%BF%87%E8%88%AA%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1)
 1. [伊朗与英法德密谈3小时](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E4%B8%8E%E8%8B%B1%E6%B3%95%E5%BE%B7%E5%AF%86%E8%B0%883%E5%B0%8F%E6%97%B6)
 1. [「泥石」导弹的威力有多大](https://www.zhihu.com/search?q=%E3%80%8C%E6%B3%A5%E7%9F%B3%E3%80%8D%E5%AF%BC%E5%BC%B9%E7%9A%84%E5%A8%81%E5%8A%9B%E6%9C%89%E5%A4%9A%E5%A4%A7)
 1. [陈楚生第一](https://www.zhihu.com/search?q=%E9%99%88%E6%A5%9A%E7%94%9F%E7%AC%AC%E4%B8%80)
