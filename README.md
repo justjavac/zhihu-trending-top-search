@@ -14,21 +14,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jun 23 2025 03:16:27 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jun 23 2025 04:22:21 GMT+0800 (China Standard Time) -->
 
 1. [那尔那茜涉嫌高考报名材料造假](https://www.zhihu.com/search?q=%E9%82%A3%E5%B0%94%E9%82%A3%E8%8C%9C%E6%B6%89%E5%AB%8C%E9%AB%98%E8%80%83%E6%8A%A5%E5%90%8D%E6%9D%90%E6%96%99%E9%80%A0%E5%81%87)
 1. [美国袭击伊朗核设施](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97%E6%A0%B8%E8%AE%BE%E6%96%BD)
 1. [美防长称美国摧毁了伊朗核计划](https://www.zhihu.com/search?q=%E7%BE%8E%E9%98%B2%E9%95%BF%E7%A7%B0%E7%BE%8E%E5%9B%BD%E6%91%A7%E6%AF%81%E4%BA%86%E4%BC%8A%E6%9C%97%E6%A0%B8%E8%AE%A1%E5%88%92)
 1. [王欣瑜柏林赛亚军](https://www.zhihu.com/search?q=%E7%8E%8B%E6%AC%A3%E7%91%9C%E6%9F%8F%E6%9E%97%E8%B5%9B%E4%BA%9A%E5%86%9B)
 1. [美军轰炸伊朗福尔多核设施](https://www.zhihu.com/search?q=%E7%BE%8E%E5%86%9B%E8%BD%B0%E7%82%B8%E4%BC%8A%E6%9C%97%E7%A6%8F%E5%B0%94%E5%A4%9A%E6%A0%B8%E8%AE%BE%E6%96%BD)
-1. [特朗普称打击伊朗3处核设施](https://www.zhihu.com/search?q=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%89%93%E5%87%BB%E4%BC%8A%E6%9C%973%E5%A4%84%E6%A0%B8%E8%AE%BE%E6%96%BD)
+1. [你在部队捅过最大的娄子是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E5%9C%A8%E9%83%A8%E9%98%9F%E6%8D%85%E8%BF%87%E6%9C%80%E5%A4%A7%E7%9A%84%E5%A8%84%E5%AD%90%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [浙江一大学学费每人每学年9.6万](https://www.zhihu.com/search?q=%E6%B5%99%E6%B1%9F%E4%B8%80%E5%A4%A7%E5%AD%A6%E5%AD%A6%E8%B4%B9%E6%AF%8F%E4%BA%BA%E6%AF%8F%E5%AD%A6%E5%B9%B49.6%E4%B8%87)
 1. [韩红痛斥歌手耳机里都是提示音](https://www.zhihu.com/search?q=%E9%9F%A9%E7%BA%A2%E7%97%9B%E6%96%A5%E6%AD%8C%E6%89%8B%E8%80%B3%E6%9C%BA%E9%87%8C%E9%83%BD%E6%98%AF%E6%8F%90%E7%A4%BA%E9%9F%B3)
-1. [「泥石」导弹的威力有多大](https://www.zhihu.com/search?q=%E3%80%8C%E6%B3%A5%E7%9F%B3%E3%80%8D%E5%AF%BC%E5%BC%B9%E7%9A%84%E5%A8%81%E5%8A%9B%E6%9C%89%E5%A4%9A%E5%A4%A7)
+1. [特朗普称打击伊朗3处核设施](https://www.zhihu.com/search?q=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%89%93%E5%87%BB%E4%BC%8A%E6%9C%973%E5%A4%84%E6%A0%B8%E8%AE%BE%E6%96%BD)
 1. [盐城17岁门将贡献多次满分扑救](https://www.zhihu.com/search?q=%E7%9B%90%E5%9F%8E17%E5%B2%81%E9%97%A8%E5%B0%86%E8%B4%A1%E7%8C%AE%E5%A4%9A%E6%AC%A1%E6%BB%A1%E5%88%86%E6%89%91%E6%95%91)
 1. [特朗普称伊朗核设施已彻底摧毁](https://www.zhihu.com/search?q=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%BC%8A%E6%9C%97%E6%A0%B8%E8%AE%BE%E6%96%BD%E5%B7%B2%E5%BD%BB%E5%BA%95%E6%91%A7%E6%AF%81)
 1. [英舰过航台湾海峡](https://www.zhihu.com/search?q=%E8%8B%B1%E8%88%B0%E8%BF%87%E8%88%AA%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1)
-1. [你在部队捅过最大的娄子是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E5%9C%A8%E9%83%A8%E9%98%9F%E6%8D%85%E8%BF%87%E6%9C%80%E5%A4%A7%E7%9A%84%E5%A8%84%E5%AD%90%E6%98%AF%E4%BB%80%E4%B9%88)
+1. [「泥石」导弹的威力有多大](https://www.zhihu.com/search?q=%E3%80%8C%E6%B3%A5%E7%9F%B3%E3%80%8D%E5%AF%BC%E5%BC%B9%E7%9A%84%E5%A8%81%E5%8A%9B%E6%9C%89%E5%A4%9A%E5%A4%A7)
 
 <!-- END -->
 
