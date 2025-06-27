@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jun 27 2025 14:32:48 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jun 27 2025 15:21:21 GMT+0800 (China Standard Time) -->
 
 1. [小米首款 SUV YU7 发布](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%E9%A6%96%E6%AC%BE%20SUV%20YU7%20%E5%8F%91%E5%B8%83)
 1. [新一代国产通用处理器发布](https://www.zhihu.com/search?q=%E6%96%B0%E4%B8%80%E4%BB%A3%E5%9B%BD%E4%BA%A7%E9%80%9A%E7%94%A8%E5%A4%84%E7%90%86%E5%99%A8%E5%8F%91%E5%B8%83)
