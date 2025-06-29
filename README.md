@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jun 30 2025 03:16:37 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jun 30 2025 04:22:50 GMT+0800 (China Standard Time) -->
 
 1. [成都的雨下到了全国第一](https://www.zhihu.com/search?q=%E6%88%90%E9%83%BD%E7%9A%84%E9%9B%A8%E4%B8%8B%E5%88%B0%E4%BA%86%E5%85%A8%E5%9B%BD%E7%AC%AC%E4%B8%80)
 1. [南京可口可乐博物馆60岁以上禁入](https://www.zhihu.com/search?q=%E5%8D%97%E4%BA%AC%E5%8F%AF%E5%8F%A3%E5%8F%AF%E4%B9%90%E5%8D%9A%E7%89%A9%E9%A6%8660%E5%B2%81%E4%BB%A5%E4%B8%8A%E7%A6%81%E5%85%A5)
