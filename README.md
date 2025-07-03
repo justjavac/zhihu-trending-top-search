@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jul 03 2025 21:32:59 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jul 03 2025 22:21:28 GMT+0800 (China Standard Time) -->
 
 1. [成都暴雨](https://www.zhihu.com/search?q=%E6%88%90%E9%83%BD%E6%9A%B4%E9%9B%A8)
 1. [洛阳一景区附近雨后满街粪便](https://www.zhihu.com/search?q=%E6%B4%9B%E9%98%B3%E4%B8%80%E6%99%AF%E5%8C%BA%E9%99%84%E8%BF%91%E9%9B%A8%E5%90%8E%E6%BB%A1%E8%A1%97%E7%B2%AA%E4%BE%BF)
@@ -26,8 +26,9 @@
 1. [南航吉林分公司内被曝突发伤人事件](https://www.zhihu.com/search?q=%E5%8D%97%E8%88%AA%E5%90%89%E6%9E%97%E5%88%86%E5%85%AC%E5%8F%B8%E5%86%85%E8%A2%AB%E6%9B%9D%E7%AA%81%E5%8F%91%E4%BC%A4%E4%BA%BA%E4%BA%8B%E4%BB%B6)
 1. [保时捷女销冠又成半年度销冠](https://www.zhihu.com/search?q=%E4%BF%9D%E6%97%B6%E6%8D%B7%E5%A5%B3%E9%94%80%E5%86%A0%E5%8F%88%E6%88%90%E5%8D%8A%E5%B9%B4%E5%BA%A6%E9%94%80%E5%86%A0)
 1. [国外旅游租车时应如何正确选择保险](https://www.zhihu.com/search?q=%E5%9B%BD%E5%A4%96%E6%97%85%E6%B8%B8%E7%A7%9F%E8%BD%A6%E6%97%B6%E5%BA%94%E5%A6%82%E4%BD%95%E6%AD%A3%E7%A1%AE%E9%80%89%E6%8B%A9%E4%BF%9D%E9%99%A9)
-1. [香港四大才子均已去世](https://www.zhihu.com/search?q=%E9%A6%99%E6%B8%AF%E5%9B%9B%E5%A4%A7%E6%89%8D%E5%AD%90%E5%9D%87%E5%B7%B2%E5%8E%BB%E4%B8%96)
+1. [美国取消对中国芯片设计软件出口限制](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E5%8F%96%E6%B6%88%E5%AF%B9%E4%B8%AD%E5%9B%BD%E8%8A%AF%E7%89%87%E8%AE%BE%E8%AE%A1%E8%BD%AF%E4%BB%B6%E5%87%BA%E5%8F%A3%E9%99%90%E5%88%B6)
 1. [蔡澜去世](https://www.zhihu.com/search?q=%E8%94%A1%E6%BE%9C%E5%8E%BB%E4%B8%96)
+1. [香港四大才子均已去世](https://www.zhihu.com/search?q=%E9%A6%99%E6%B8%AF%E5%9B%9B%E5%A4%A7%E6%89%8D%E5%AD%90%E5%9D%87%E5%B7%B2%E5%8E%BB%E4%B8%96)
 1. [工业克苏鲁什么意思](https://www.zhihu.com/search?q=%E5%B7%A5%E4%B8%9A%E5%85%8B%E8%8B%8F%E9%B2%81%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D)
 1. [新华字典例句「小孩是累赘」引争议](https://www.zhihu.com/search?q=%E6%96%B0%E5%8D%8E%E5%AD%97%E5%85%B8%E4%BE%8B%E5%8F%A5%E3%80%8C%E5%B0%8F%E5%AD%A9%E6%98%AF%E7%B4%AF%E8%B5%98%E3%80%8D%E5%BC%95%E4%BA%89%E8%AE%AE)
 1. [网传上海交大学生遭校外人员殴打](https://www.zhihu.com/search?q=%E7%BD%91%E4%BC%A0%E4%B8%8A%E6%B5%B7%E4%BA%A4%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%81%AD%E6%A0%A1%E5%A4%96%E4%BA%BA%E5%91%98%E6%AE%B4%E6%89%93)
