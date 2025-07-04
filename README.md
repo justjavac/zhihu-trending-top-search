@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jul 05 2025 00:26:53 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jul 05 2025 01:18:52 GMT+0800 (China Standard Time) -->
 
 1. [列车停运三小时乘客砸车窗通风被民警带走](https://www.zhihu.com/search?q=%E5%88%97%E8%BD%A6%E5%81%9C%E8%BF%90%E4%B8%89%E5%B0%8F%E6%97%B6%E4%B9%98%E5%AE%A2%E7%A0%B8%E8%BD%A6%E7%AA%97%E9%80%9A%E9%A3%8E%E8%A2%AB%E6%B0%91%E8%AD%A6%E5%B8%A6%E8%B5%B0)
 1. [12306回应充电宝上高铁规定](https://www.zhihu.com/search?q=12306%E5%9B%9E%E5%BA%94%E5%85%85%E7%94%B5%E5%AE%9D%E4%B8%8A%E9%AB%98%E9%93%81%E8%A7%84%E5%AE%9A)
