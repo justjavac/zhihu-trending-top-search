@@ -14,18 +14,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jul 05 2025 21:28:58 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jul 05 2025 22:20:31 GMT+0800 (China Standard Time) -->
 
 1. [列车脱线滞留小伙砸窗通风 官方通报](https://www.zhihu.com/search?q=%E5%88%97%E8%BD%A6%E8%84%B1%E7%BA%BF%E6%BB%9E%E7%95%99%E5%B0%8F%E4%BC%99%E7%A0%B8%E7%AA%97%E9%80%9A%E9%A3%8E%20%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5)
-1. [日本气象厅驳斥「地震预言」称其为骗局](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E6%B0%94%E8%B1%A1%E5%8E%85%E9%A9%B3%E6%96%A5%E3%80%8C%E5%9C%B0%E9%9C%87%E9%A2%84%E8%A8%80%E3%80%8D%E7%A7%B0%E5%85%B6%E4%B8%BA%E9%AA%97%E5%B1%80)
+1. [苏超南京队0比0苏州队](https://www.zhihu.com/search?q=%E8%8B%8F%E8%B6%85%E5%8D%97%E4%BA%AC%E9%98%9F0%E6%AF%940%E8%8B%8F%E5%B7%9E%E9%98%9F)
+1. [南通队2-1徐州队领跑苏超](https://www.zhihu.com/search?q=%E5%8D%97%E9%80%9A%E9%98%9F2-1%E5%BE%90%E5%B7%9E%E9%98%9F%E9%A2%86%E8%B7%91%E8%8B%8F%E8%B6%85)
+1. [扬州不敌0:2落败无锡](https://www.zhihu.com/search?q=%E6%89%AC%E5%B7%9E%E4%B8%8D%E6%95%8C0%3A2%E8%90%BD%E8%B4%A5%E6%97%A0%E9%94%A1)
 1. [日本无事发生](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E6%97%A0%E4%BA%8B%E5%8F%91%E7%94%9F)
+1. [江苏一哥之争](https://www.zhihu.com/search?q=%E6%B1%9F%E8%8B%8F%E4%B8%80%E5%93%A5%E4%B9%8B%E4%BA%89)
 1. [烟台海面变「草原」了](https://www.zhihu.com/search?q=%E7%83%9F%E5%8F%B0%E6%B5%B7%E9%9D%A2%E5%8F%98%E3%80%8C%E8%8D%89%E5%8E%9F%E3%80%8D%E4%BA%86)
-1. [罗马仕否认「倒闭」传言](https://www.zhihu.com/search?q=%E7%BD%97%E9%A9%AC%E4%BB%95%E5%90%A6%E8%AE%A4%E3%80%8C%E5%80%92%E9%97%AD%E3%80%8D%E4%BC%A0%E8%A8%80)
-1. [日本末世预言](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E6%9C%AB%E4%B8%96%E9%A2%84%E8%A8%80)
-1. [充电宝容量篡改会带来哪些影响](https://www.zhihu.com/search?q=%E5%85%85%E7%94%B5%E5%AE%9D%E5%AE%B9%E9%87%8F%E7%AF%A1%E6%94%B9%E4%BC%9A%E5%B8%A6%E6%9D%A5%E5%93%AA%E4%BA%9B%E5%BD%B1%E5%93%8D)
-1. [12306回应充电宝上高铁规定](https://www.zhihu.com/search?q=12306%E5%9B%9E%E5%BA%94%E5%85%85%E7%94%B5%E5%AE%9D%E4%B8%8A%E9%AB%98%E9%93%81%E8%A7%84%E5%AE%9A)
 1. [耐克中国销售大跌](https://www.zhihu.com/search?q=%E8%80%90%E5%85%8B%E4%B8%AD%E5%9B%BD%E9%94%80%E5%94%AE%E5%A4%A7%E8%B7%8C)
 1. [南航吉林分公司内被曝突发伤人事件](https://www.zhihu.com/search?q=%E5%8D%97%E8%88%AA%E5%90%89%E6%9E%97%E5%88%86%E5%85%AC%E5%8F%B8%E5%86%85%E8%A2%AB%E6%9B%9D%E7%AA%81%E5%8F%91%E4%BC%A4%E4%BA%BA%E4%BA%8B%E4%BB%B6)
+1. [日本气象厅驳斥「地震预言」称其为骗局](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E6%B0%94%E8%B1%A1%E5%8E%85%E9%A9%B3%E6%96%A5%E3%80%8C%E5%9C%B0%E9%9C%87%E9%A2%84%E8%A8%80%E3%80%8D%E7%A7%B0%E5%85%B6%E4%B8%BA%E9%AA%97%E5%B1%80)
+1. [充电宝容量篡改会带来哪些影响](https://www.zhihu.com/search?q=%E5%85%85%E7%94%B5%E5%AE%9D%E5%AE%B9%E9%87%8F%E7%AF%A1%E6%94%B9%E4%BC%9A%E5%B8%A6%E6%9D%A5%E5%93%AA%E4%BA%9B%E5%BD%B1%E5%93%8D)
+1. [罗马仕否认「倒闭」传言](https://www.zhihu.com/search?q=%E7%BD%97%E9%A9%AC%E4%BB%95%E5%90%A6%E8%AE%A4%E3%80%8C%E5%80%92%E9%97%AD%E3%80%8D%E4%BC%A0%E8%A8%80)
+1. [日本末世预言](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E6%9C%AB%E4%B8%96%E9%A2%84%E8%A8%80)
+1. [12306回应充电宝上高铁规定](https://www.zhihu.com/search?q=12306%E5%9B%9E%E5%BA%94%E5%85%85%E7%94%B5%E5%AE%9D%E4%B8%8A%E9%AB%98%E9%93%81%E8%A7%84%E5%AE%9A)
 1. [「大而美」法案会加剧美国债务危机吗](https://www.zhihu.com/search?q=%E3%80%8C%E5%A4%A7%E8%80%8C%E7%BE%8E%E3%80%8D%E6%B3%95%E6%A1%88%E4%BC%9A%E5%8A%A0%E5%89%A7%E7%BE%8E%E5%9B%BD%E5%80%BA%E5%8A%A1%E5%8D%B1%E6%9C%BA%E5%90%97)
 1. [员工曝罗马仕已通知全面停工停产](https://www.zhihu.com/search?q=%E5%91%98%E5%B7%A5%E6%9B%9D%E7%BD%97%E9%A9%AC%E4%BB%95%E5%B7%B2%E9%80%9A%E7%9F%A5%E5%85%A8%E9%9D%A2%E5%81%9C%E5%B7%A5%E5%81%9C%E4%BA%A7)
 1. [你卡过最厉害的 bug 是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E5%8D%A1%E8%BF%87%E6%9C%80%E5%8E%89%E5%AE%B3%E7%9A%84%20bug%20%E6%98%AF%E4%BB%80%E4%B9%88)
