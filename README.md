@@ -14,19 +14,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jul 06 2025 09:59:19 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jul 06 2025 11:37:45 GMT+0800 (China Standard Time) -->
 
+1. [罗马仕正式宣布将停工6个月](https://www.zhihu.com/search?q=%E7%BD%97%E9%A9%AC%E4%BB%95%E6%AD%A3%E5%BC%8F%E5%AE%A3%E5%B8%83%E5%B0%86%E5%81%9C%E5%B7%A56%E4%B8%AA%E6%9C%88)
 1. [列车脱线滞留小伙砸窗通风 官方通报](https://www.zhihu.com/search?q=%E5%88%97%E8%BD%A6%E8%84%B1%E7%BA%BF%E6%BB%9E%E7%95%99%E5%B0%8F%E4%BC%99%E7%A0%B8%E7%AA%97%E9%80%9A%E9%A3%8E%20%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5)
-1. [耐克中国销售大跌](https://www.zhihu.com/search?q=%E8%80%90%E5%85%8B%E4%B8%AD%E5%9B%BD%E9%94%80%E5%94%AE%E5%A4%A7%E8%B7%8C)
-1. [官方通报杭州东站卧轨事件](https://www.zhihu.com/search?q=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E6%9D%AD%E5%B7%9E%E4%B8%9C%E7%AB%99%E5%8D%A7%E8%BD%A8%E4%BA%8B%E4%BB%B6)
-1. [马斯克宣布「美国党」成立](https://www.zhihu.com/search?q=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%AE%A3%E5%B8%83%E3%80%8C%E7%BE%8E%E5%9B%BD%E5%85%9A%E3%80%8D%E6%88%90%E7%AB%8B)
 1. [日本无事发生](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E6%97%A0%E4%BA%8B%E5%8F%91%E7%94%9F)
-1. [罗马仕否认「倒闭」传言](https://www.zhihu.com/search?q=%E7%BD%97%E9%A9%AC%E4%BB%95%E5%90%A6%E8%AE%A4%E3%80%8C%E5%80%92%E9%97%AD%E3%80%8D%E4%BC%A0%E8%A8%80)
+1. [马斯克宣布「美国党」成立](https://www.zhihu.com/search?q=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%AE%A3%E5%B8%83%E3%80%8C%E7%BE%8E%E5%9B%BD%E5%85%9A%E3%80%8D%E6%88%90%E7%AB%8B)
+1. [官方通报杭州东站卧轨事件](https://www.zhihu.com/search?q=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E6%9D%AD%E5%B7%9E%E4%B8%9C%E7%AB%99%E5%8D%A7%E8%BD%A8%E4%BA%8B%E4%BB%B6)
+1. [耐克中国销售大跌](https://www.zhihu.com/search?q=%E8%80%90%E5%85%8B%E4%B8%AD%E5%9B%BD%E9%94%80%E5%94%AE%E5%A4%A7%E8%B7%8C)
 1. [江苏一哥之争](https://www.zhihu.com/search?q=%E6%B1%9F%E8%8B%8F%E4%B8%80%E5%93%A5%E4%B9%8B%E4%BA%89)
-1. [「爱情虫」对人体有危害吗](https://www.zhihu.com/search?q=%E3%80%8C%E7%88%B1%E6%83%85%E8%99%AB%E3%80%8D%E5%AF%B9%E4%BA%BA%E4%BD%93%E6%9C%89%E5%8D%B1%E5%AE%B3%E5%90%97)
-1. [苏超南京队0比0苏州队](https://www.zhihu.com/search?q=%E8%8B%8F%E8%B6%85%E5%8D%97%E4%BA%AC%E9%98%9F0%E6%AF%940%E8%8B%8F%E5%B7%9E%E9%98%9F)
+1. [罗马仕否认「倒闭」传言](https://www.zhihu.com/search?q=%E7%BD%97%E9%A9%AC%E4%BB%95%E5%90%A6%E8%AE%A4%E3%80%8C%E5%80%92%E9%97%AD%E3%80%8D%E4%BC%A0%E8%A8%80)
+1. [「大而美」法案会加剧美国债务危机吗](https://www.zhihu.com/search?q=%E3%80%8C%E5%A4%A7%E8%80%8C%E7%BE%8E%E3%80%8D%E6%B3%95%E6%A1%88%E4%BC%9A%E5%8A%A0%E5%89%A7%E7%BE%8E%E5%9B%BD%E5%80%BA%E5%8A%A1%E5%8D%B1%E6%9C%BA%E5%90%97)
 1. [日本末世预言](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E6%9C%AB%E4%B8%96%E9%A2%84%E8%A8%80)
 1. [日本气象厅驳斥「地震预言」称其为骗局](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E6%B0%94%E8%B1%A1%E5%8E%85%E9%A9%B3%E6%96%A5%E3%80%8C%E5%9C%B0%E9%9C%87%E9%A2%84%E8%A8%80%E3%80%8D%E7%A7%B0%E5%85%B6%E4%B8%BA%E9%AA%97%E5%B1%80)
+1. [苏超南京队0比0苏州队](https://www.zhihu.com/search?q=%E8%8B%8F%E8%B6%85%E5%8D%97%E4%BA%AC%E9%98%9F0%E6%AF%940%E8%8B%8F%E5%B7%9E%E9%98%9F)
+1. [「爱情虫」对人体有危害吗](https://www.zhihu.com/search?q=%E3%80%8C%E7%88%B1%E6%83%85%E8%99%AB%E3%80%8D%E5%AF%B9%E4%BA%BA%E4%BD%93%E6%9C%89%E5%8D%B1%E5%AE%B3%E5%90%97)
 1. [列车脱轨致乘客滞留3小时暂无补偿](https://www.zhihu.com/search?q=%E5%88%97%E8%BD%A6%E8%84%B1%E8%BD%A8%E8%87%B4%E4%B9%98%E5%AE%A2%E6%BB%9E%E7%95%993%E5%B0%8F%E6%97%B6%E6%9A%82%E6%97%A0%E8%A1%A5%E5%81%BF)
 1. [00后女子白吃白喝2个月被刑拘](https://www.zhihu.com/search?q=00%E5%90%8E%E5%A5%B3%E5%AD%90%E7%99%BD%E5%90%83%E7%99%BD%E5%96%9D2%E4%B8%AA%E6%9C%88%E8%A2%AB%E5%88%91%E6%8B%98)
 1. [你卡过最厉害的 bug 是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E5%8D%A1%E8%BF%87%E6%9C%80%E5%8E%89%E5%AE%B3%E7%9A%84%20bug%20%E6%98%AF%E4%BB%80%E4%B9%88)
