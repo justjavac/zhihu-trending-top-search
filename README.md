@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jul 07 2025 06:21:02 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jul 07 2025 07:20:24 GMT+0800 (China Standard Time) -->
 
 1. [华为盘古大模型被曝抄袭](https://www.zhihu.com/search?q=%E5%8D%8E%E4%B8%BA%E7%9B%98%E5%8F%A4%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%A2%AB%E6%9B%9D%E6%8A%84%E8%A2%AD)
 1. [青岛大学回应一宿管人员离世](https://www.zhihu.com/search?q=%E9%9D%92%E5%B2%9B%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E4%B8%80%E5%AE%BF%E7%AE%A1%E4%BA%BA%E5%91%98%E7%A6%BB%E4%B8%96)
