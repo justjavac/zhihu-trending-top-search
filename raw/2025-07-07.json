@@ -1,15 +1,17 @@
 [
   { "query_display": "华为盘古大模型被曝抄袭", "real_query": "华为盘古大模型被曝抄袭" },
   { "query_display": "官方通报杭州东站卧轨事件", "real_query": "官方通报杭州东站卧轨事件" },
-  { "query_display": "青岛大学回应一宿管人员离世", "real_query": "青岛大学回应一宿管人员离世" },
-  { "query_display": "常州队收获苏超首个积分", "real_query": "常州队收获苏超首个积分" },
   { "query_display": "马斯克宣布「美国党」成立", "real_query": "马斯克宣布「美国党」成立" },
+  { "query_display": "常州队收获苏超首个积分", "real_query": "常州队收获苏超首个积分" },
   { "query_display": "罗马仕正式宣布将停工6个月", "real_query": "罗马仕正式宣布将停工6个月" },
-  { "query_display": "保时捷销冠又成半年度销冠是如何做到的", "real_query": "保时捷销冠又成半年度销冠是如何做到的" },
+  { "query_display": "你卡过最厉害的 bug 是什么", "real_query": "你卡过最厉害的 bug 是什么" },
+  { "query_display": "青岛大学回应一宿管人员离世", "real_query": "青岛大学回应一宿管人员离世" },
   { "query_display": "列车脱线滞留小伙砸窗通风 官方通报", "real_query": "列车脱线滞留小伙砸窗通风 官方通报" },
   { "query_display": "杭州东站有人卧轨已被送医", "real_query": "杭州东站有人卧轨已被送医" },
   { "query_display": "日本气象厅驳斥「地震预言」称其为骗局", "real_query": "日本气象厅驳斥「地震预言」称其为骗局" },
   { "query_display": "15 位数的电话号码即将启用", "real_query": "15 位数的电话号码即将启用" },
+  { "query_display": "如何看待小米上线青年公寓", "real_query": "如何看待小米上线青年公寓" },
+  { "query_display": "保时捷销冠又成半年度销冠是如何做到的", "real_query": "保时捷销冠又成半年度销冠是如何做到的" },
   { "query_display": "江苏一哥之争", "real_query": "江苏一哥之争" },
   { "query_display": "美团客服回应无法下单", "real_query": "美团客服回应无法下单" }
 ]
