@@ -14,20 +14,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jul 07 2025 21:34:35 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jul 07 2025 22:22:19 GMT+0800 (China Standard Time) -->
 
+1. [南京红老头被抓](https://www.zhihu.com/search?q=%E5%8D%97%E4%BA%AC%E7%BA%A2%E8%80%81%E5%A4%B4%E8%A2%AB%E6%8A%93)
 1. [华为盘古大模型被曝抄袭](https://www.zhihu.com/search?q=%E5%8D%8E%E4%B8%BA%E7%9B%98%E5%8F%A4%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%A2%AB%E6%9B%9D%E6%8A%84%E8%A2%AD)
-1. [杭州南站有人坠楼](https://www.zhihu.com/search?q=%E6%9D%AD%E5%B7%9E%E5%8D%97%E7%AB%99%E6%9C%89%E4%BA%BA%E5%9D%A0%E6%A5%BC)
-1. [中百万大奖女子与摊主协商达成一致](https://www.zhihu.com/search?q=%E4%B8%AD%E7%99%BE%E4%B8%87%E5%A4%A7%E5%A5%96%E5%A5%B3%E5%AD%90%E4%B8%8E%E6%91%8A%E4%B8%BB%E5%8D%8F%E5%95%86%E8%BE%BE%E6%88%90%E4%B8%80%E8%87%B4)
 1. [国足0比3韩国队](https://www.zhihu.com/search?q=%E5%9B%BD%E8%B6%B30%E6%AF%943%E9%9F%A9%E5%9B%BD%E9%98%9F)
+1. [杭州南站有人坠楼](https://www.zhihu.com/search?q=%E6%9D%AD%E5%B7%9E%E5%8D%97%E7%AB%99%E6%9C%89%E4%BA%BA%E5%9D%A0%E6%A5%BC)
 1. [盘古之殇长文](https://www.zhihu.com/search?q=%E7%9B%98%E5%8F%A4%E4%B9%8B%E6%AE%87%E9%95%BF%E6%96%87)
-1. [李斌称蔚来钱都亏在明处财报非常干净](https://www.zhihu.com/search?q=%E6%9D%8E%E6%96%8C%E7%A7%B0%E8%94%9A%E6%9D%A5%E9%92%B1%E9%83%BD%E4%BA%8F%E5%9C%A8%E6%98%8E%E5%A4%84%E8%B4%A2%E6%8A%A5%E9%9D%9E%E5%B8%B8%E5%B9%B2%E5%87%80)
 1. [观众“烦”了的其实不是雷佳音](https://www.zhihu.com/search?q=%E8%A7%82%E4%BC%97%E2%80%9C%E7%83%A6%E2%80%9D%E4%BA%86%E7%9A%84%E5%85%B6%E5%AE%9E%E4%B8%8D%E6%98%AF%E9%9B%B7%E4%BD%B3%E9%9F%B3)
 1. [华为盘古大模型被指抄袭Qwen](https://www.zhihu.com/search?q=%E5%8D%8E%E4%B8%BA%E7%9B%98%E5%8F%A4%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%A2%AB%E6%8C%87%E6%8A%84%E8%A2%ADQwen)
 1. [幼童躺街上被快递货车碾压身亡](https://www.zhihu.com/search?q=%E5%B9%BC%E7%AB%A5%E8%BA%BA%E8%A1%97%E4%B8%8A%E8%A2%AB%E5%BF%AB%E9%80%92%E8%B4%A7%E8%BD%A6%E7%A2%BE%E5%8E%8B%E8%BA%AB%E4%BA%A1)
-1. [青岛大学回应一宿管人员离世](https://www.zhihu.com/search?q=%E9%9D%92%E5%B2%9B%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E4%B8%80%E5%AE%BF%E7%AE%A1%E4%BA%BA%E5%91%98%E7%A6%BB%E4%B8%96)
 1. [列车脱线滞留小伙砸窗通风 官方通报](https://www.zhihu.com/search?q=%E5%88%97%E8%BD%A6%E8%84%B1%E7%BA%BF%E6%BB%9E%E7%95%99%E5%B0%8F%E4%BC%99%E7%A0%B8%E7%AA%97%E9%80%9A%E9%A3%8E%20%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5)
+1. [青岛大学回应一宿管人员离世](https://www.zhihu.com/search?q=%E9%9D%92%E5%B2%9B%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E4%B8%80%E5%AE%BF%E7%AE%A1%E4%BA%BA%E5%91%98%E7%A6%BB%E4%B8%96)
+1. [腿粗屁股大是种长寿身材](https://www.zhihu.com/search?q=%E8%85%BF%E7%B2%97%E5%B1%81%E8%82%A1%E5%A4%A7%E6%98%AF%E7%A7%8D%E9%95%BF%E5%AF%BF%E8%BA%AB%E6%9D%90)
 1. [马斯克宣布「美国党」成立](https://www.zhihu.com/search?q=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%AE%A3%E5%B8%83%E3%80%8C%E7%BE%8E%E5%9B%BD%E5%85%9A%E3%80%8D%E6%88%90%E7%AB%8B)
+1. [中百万大奖女子与摊主协商达成一致](https://www.zhihu.com/search?q=%E4%B8%AD%E7%99%BE%E4%B8%87%E5%A4%A7%E5%A5%96%E5%A5%B3%E5%AD%90%E4%B8%8E%E6%91%8A%E4%B8%BB%E5%8D%8F%E5%95%86%E8%BE%BE%E6%88%90%E4%B8%80%E8%87%B4)
+1. [李斌称蔚来钱都亏在明处财报非常干净](https://www.zhihu.com/search?q=%E6%9D%8E%E6%96%8C%E7%A7%B0%E8%94%9A%E6%9D%A5%E9%92%B1%E9%83%BD%E4%BA%8F%E5%9C%A8%E6%98%8E%E5%A4%84%E8%B4%A2%E6%8A%A5%E9%9D%9E%E5%B8%B8%E5%B9%B2%E5%87%80)
 1. [国足vs韩国](https://www.zhihu.com/search?q=%E5%9B%BD%E8%B6%B3vs%E9%9F%A9%E5%9B%BD)
 1. [网传青岛大学宿管中暑去世](https://www.zhihu.com/search?q=%E7%BD%91%E4%BC%A0%E9%9D%92%E5%B2%9B%E5%A4%A7%E5%AD%A6%E5%AE%BF%E7%AE%A1%E4%B8%AD%E6%9A%91%E5%8E%BB%E4%B8%96)
 1. [青岛大学](https://www.zhihu.com/search?q=%E9%9D%92%E5%B2%9B%E5%A4%A7%E5%AD%A6)
