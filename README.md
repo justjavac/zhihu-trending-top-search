@@ -14,12 +14,12 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jul 08 2025 04:24:42 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jul 08 2025 05:20:26 GMT+0800 (China Standard Time) -->
 
-1. [青岛大学回应一宿管人员离世](https://www.zhihu.com/search?q=%E9%9D%92%E5%B2%9B%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E4%B8%80%E5%AE%BF%E7%AE%A1%E4%BA%BA%E5%91%98%E7%A6%BB%E4%B8%96)
 1. [华为盘古大模型被曝抄袭](https://www.zhihu.com/search?q=%E5%8D%8E%E4%B8%BA%E7%9B%98%E5%8F%A4%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%A2%AB%E6%9B%9D%E6%8A%84%E8%A2%AD)
-1. [杭州南站有人坠楼](https://www.zhihu.com/search?q=%E6%9D%AD%E5%B7%9E%E5%8D%97%E7%AB%99%E6%9C%89%E4%BA%BA%E5%9D%A0%E6%A5%BC)
+1. [青岛大学回应一宿管人员离世](https://www.zhihu.com/search?q=%E9%9D%92%E5%B2%9B%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E4%B8%80%E5%AE%BF%E7%AE%A1%E4%BA%BA%E5%91%98%E7%A6%BB%E4%B8%96)
 1. [南京红老头被抓](https://www.zhihu.com/search?q=%E5%8D%97%E4%BA%AC%E7%BA%A2%E8%80%81%E5%A4%B4%E8%A2%AB%E6%8A%93)
+1. [杭州南站有人坠楼](https://www.zhihu.com/search?q=%E6%9D%AD%E5%B7%9E%E5%8D%97%E7%AB%99%E6%9C%89%E4%BA%BA%E5%9D%A0%E6%A5%BC)
 1. [观众“烦”了的其实不是雷佳音](https://www.zhihu.com/search?q=%E8%A7%82%E4%BC%97%E2%80%9C%E7%83%A6%E2%80%9D%E4%BA%86%E7%9A%84%E5%85%B6%E5%AE%9E%E4%B8%8D%E6%98%AF%E9%9B%B7%E4%BD%B3%E9%9F%B3)
 1. [盘古之殇长文](https://www.zhihu.com/search?q=%E7%9B%98%E5%8F%A4%E4%B9%8B%E6%AE%87%E9%95%BF%E6%96%87)
 1. [网传青岛大学宿管中暑去世](https://www.zhihu.com/search?q=%E7%BD%91%E4%BC%A0%E9%9D%92%E5%B2%9B%E5%A4%A7%E5%AD%A6%E5%AE%BF%E7%AE%A1%E4%B8%AD%E6%9A%91%E5%8E%BB%E4%B8%96)
