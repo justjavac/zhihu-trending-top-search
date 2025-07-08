@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jul 08 2025 20:46:43 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jul 08 2025 21:35:34 GMT+0800 (China Standard Time) -->
 
 1. [南京红老头系38岁男子 已被刑拘](https://www.zhihu.com/search?q=%E5%8D%97%E4%BA%AC%E7%BA%A2%E8%80%81%E5%A4%B4%E7%B3%BB38%E5%B2%81%E7%94%B7%E5%AD%90%20%E5%B7%B2%E8%A2%AB%E5%88%91%E6%8B%98)
 1. [漠河气温超35℃北极村开始装空调](https://www.zhihu.com/search?q=%E6%BC%A0%E6%B2%B3%E6%B0%94%E6%B8%A9%E8%B6%8535%E2%84%83%E5%8C%97%E6%9E%81%E6%9D%91%E5%BC%80%E5%A7%8B%E8%A3%85%E7%A9%BA%E8%B0%83)
