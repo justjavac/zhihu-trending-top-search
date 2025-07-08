@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jul 08 2025 12:31:51 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jul 08 2025 13:22:58 GMT+0800 (China Standard Time) -->
 
 1. [天水幼儿血铅异常事件8人被刑拘](https://www.zhihu.com/search?q=%E5%A4%A9%E6%B0%B4%E5%B9%BC%E5%84%BF%E8%A1%80%E9%93%85%E5%BC%82%E5%B8%B8%E4%BA%8B%E4%BB%B68%E4%BA%BA%E8%A2%AB%E5%88%91%E6%8B%98)
 1. [南京红老头系38岁男子 已被刑拘](https://www.zhihu.com/search?q=%E5%8D%97%E4%BA%AC%E7%BA%A2%E8%80%81%E5%A4%B4%E7%B3%BB38%E5%B2%81%E7%94%B7%E5%AD%90%20%E5%B7%B2%E8%A2%AB%E5%88%91%E6%8B%98)
