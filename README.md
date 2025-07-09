@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jul 09 2025 19:19:33 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jul 09 2025 20:46:34 GMT+0800 (China Standard Time) -->
 
 1. [南京红老头系38岁男子 已被刑拘](https://www.zhihu.com/search?q=%E5%8D%97%E4%BA%AC%E7%BA%A2%E8%80%81%E5%A4%B4%E7%B3%BB38%E5%B2%81%E7%94%B7%E5%AD%90%20%E5%B7%B2%E8%A2%AB%E5%88%91%E6%8B%98)
 1. [华为盘古大模型被曝抄袭](https://www.zhihu.com/search?q=%E5%8D%8E%E4%B8%BA%E7%9B%98%E5%8F%A4%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%A2%AB%E6%9B%9D%E6%8A%84%E8%A2%AD)
@@ -24,10 +24,11 @@
 1. [南京女装大叔网传信息有夸大成分](https://www.zhihu.com/search?q=%E5%8D%97%E4%BA%AC%E5%A5%B3%E8%A3%85%E5%A4%A7%E5%8F%94%E7%BD%91%E4%BC%A0%E4%BF%A1%E6%81%AF%E6%9C%89%E5%A4%B8%E5%A4%A7%E6%88%90%E5%88%86)
 1. [警方通报大三女生和男友双双坠亡](https://www.zhihu.com/search?q=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A4%A7%E4%B8%89%E5%A5%B3%E7%94%9F%E5%92%8C%E7%94%B7%E5%8F%8B%E5%8F%8C%E5%8F%8C%E5%9D%A0%E4%BA%A1)
 1. [新疆草莓音乐节现场可登记结婚](https://www.zhihu.com/search?q=%E6%96%B0%E7%96%86%E8%8D%89%E8%8E%93%E9%9F%B3%E4%B9%90%E8%8A%82%E7%8E%B0%E5%9C%BA%E5%8F%AF%E7%99%BB%E8%AE%B0%E7%BB%93%E5%A9%9A)
-1. [男子扛140斤硬币存银行遭拒收](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%90%E6%89%9B140%E6%96%A4%E7%A1%AC%E5%B8%81%E5%AD%98%E9%93%B6%E8%A1%8C%E9%81%AD%E6%8B%92%E6%94%B6)
 1. [商务部将8家台湾地区实体列入管制名单](https://www.zhihu.com/search?q=%E5%95%86%E5%8A%A1%E9%83%A8%E5%B0%868%E5%AE%B6%E5%8F%B0%E6%B9%BE%E5%9C%B0%E5%8C%BA%E5%AE%9E%E4%BD%93%E5%88%97%E5%85%A5%E7%AE%A1%E5%88%B6%E5%90%8D%E5%8D%95)
 1. [女子被造黄谣3年维权](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E8%A2%AB%E9%80%A0%E9%BB%84%E8%B0%A33%E5%B9%B4%E7%BB%B4%E6%9D%83)
 1. [国足0比3韩国队](https://www.zhihu.com/search?q=%E5%9B%BD%E8%B6%B30%E6%AF%943%E9%9F%A9%E5%9B%BD%E9%98%9F)
+1. [GitHub持续爆料华为盘古大模型开发乱象](https://www.zhihu.com/search?q=GitHub%E6%8C%81%E7%BB%AD%E7%88%86%E6%96%99%E5%8D%8E%E4%B8%BA%E7%9B%98%E5%8F%A4%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BC%80%E5%8F%91%E4%B9%B1%E8%B1%A1)
+1. [男子扛140斤硬币存银行遭拒收](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%90%E6%89%9B140%E6%96%A4%E7%A1%AC%E5%B8%81%E5%AD%98%E9%93%B6%E8%A1%8C%E9%81%AD%E6%8B%92%E6%94%B6)
 1. [为什么现在变成了飞行员过剩](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E5%8F%98%E6%88%90%E4%BA%86%E9%A3%9E%E8%A1%8C%E5%91%98%E8%BF%87%E5%89%A9)
 1. [漠河气温超35℃北极村开始装空调](https://www.zhihu.com/search?q=%E6%BC%A0%E6%B2%B3%E6%B0%94%E6%B8%A9%E8%B6%8535%E2%84%83%E5%8C%97%E6%9E%81%E6%9D%91%E5%BC%80%E5%A7%8B%E8%A3%85%E7%A9%BA%E8%B0%83)
 1. [地铁上座位很多为何很多人选择站着](https://www.zhihu.com/search?q=%E5%9C%B0%E9%93%81%E4%B8%8A%E5%BA%A7%E4%BD%8D%E5%BE%88%E5%A4%9A%E4%B8%BA%E4%BD%95%E5%BE%88%E5%A4%9A%E4%BA%BA%E9%80%89%E6%8B%A9%E7%AB%99%E7%9D%80)
