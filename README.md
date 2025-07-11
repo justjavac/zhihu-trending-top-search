@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jul 11 2025 18:24:06 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jul 11 2025 19:19:26 GMT+0800 (China Standard Time) -->
 
 1. [退休人员基本养老金上调2%](https://www.zhihu.com/search?q=%E9%80%80%E4%BC%91%E4%BA%BA%E5%91%98%E5%9F%BA%E6%9C%AC%E5%85%BB%E8%80%81%E9%87%91%E4%B8%8A%E8%B0%832%25)
 1. [孙颖莎1-3不敌陈熠](https://www.zhihu.com/search?q=%E5%AD%99%E9%A2%96%E8%8E%8E1-3%E4%B8%8D%E6%95%8C%E9%99%88%E7%86%A0)
@@ -27,6 +27,7 @@
 1. [抑郁症不能做近视手术](https://www.zhihu.com/search?q=%E6%8A%91%E9%83%81%E7%97%87%E4%B8%8D%E8%83%BD%E5%81%9A%E8%BF%91%E8%A7%86%E6%89%8B%E6%9C%AF)
 1. [外卖补贴彻底疯狂](https://www.zhihu.com/search?q=%E5%A4%96%E5%8D%96%E8%A1%A5%E8%B4%B4%E5%BD%BB%E5%BA%95%E7%96%AF%E7%8B%82)
 1. [左氧氟沙星容易导致跟腱断裂](https://www.zhihu.com/search?q=%E5%B7%A6%E6%B0%A7%E6%B0%9F%E6%B2%99%E6%98%9F%E5%AE%B9%E6%98%93%E5%AF%BC%E8%87%B4%E8%B7%9F%E8%85%B1%E6%96%AD%E8%A3%82)
+1. [快递员因热射病去世](https://www.zhihu.com/search?q=%E5%BF%AB%E9%80%92%E5%91%98%E5%9B%A0%E7%83%AD%E5%B0%84%E7%97%85%E5%8E%BB%E4%B8%96)
 1. [比亚迪官宣实现媲美L4级智能泊车](https://www.zhihu.com/search?q=%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%AE%98%E5%AE%A3%E5%AE%9E%E7%8E%B0%E5%AA%B2%E7%BE%8EL4%E7%BA%A7%E6%99%BA%E8%83%BD%E6%B3%8A%E8%BD%A6)
 1. [警方通报大三女生和男友双双坠亡](https://www.zhihu.com/search?q=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A4%A7%E4%B8%89%E5%A5%B3%E7%94%9F%E5%92%8C%E7%94%B7%E5%8F%8B%E5%8F%8C%E5%8F%8C%E5%9D%A0%E4%BA%A1)
 1. [云南女子自曝怀孕期间摆烂不上班](https://www.zhihu.com/search?q=%E4%BA%91%E5%8D%97%E5%A5%B3%E5%AD%90%E8%87%AA%E6%9B%9D%E6%80%80%E5%AD%95%E6%9C%9F%E9%97%B4%E6%91%86%E7%83%82%E4%B8%8D%E4%B8%8A%E7%8F%AD)
