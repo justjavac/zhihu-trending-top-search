@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jul 13 2025 02:29:12 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jul 13 2025 03:16:53 GMT+0800 (China Standard Time) -->
 
 1. [甘肃提级调查幼儿血铅异常问题](https://www.zhihu.com/search?q=%E7%94%98%E8%82%83%E6%8F%90%E7%BA%A7%E8%B0%83%E6%9F%A5%E5%B9%BC%E5%84%BF%E8%A1%80%E9%93%85%E5%BC%82%E5%B8%B8%E9%97%AE%E9%A2%98)
 1. [国足东亚杯2连败](https://www.zhihu.com/search?q=%E5%9B%BD%E8%B6%B3%E4%B8%9C%E4%BA%9A%E6%9D%AF2%E8%BF%9E%E8%B4%A5)
@@ -26,8 +26,8 @@
 1. [DeepSeek用户使用率半年暴跌94%](https://www.zhihu.com/search?q=DeepSeek%E7%94%A8%E6%88%B7%E4%BD%BF%E7%94%A8%E7%8E%87%E5%8D%8A%E5%B9%B4%E6%9A%B4%E8%B7%8C94%25)
 1. [缅北白家集团21人被提起公诉](https://www.zhihu.com/search?q=%E7%BC%85%E5%8C%97%E7%99%BD%E5%AE%B6%E9%9B%86%E5%9B%A221%E4%BA%BA%E8%A2%AB%E6%8F%90%E8%B5%B7%E5%85%AC%E8%AF%89)
 1. [印度客机坠毁初步调查结果曝光](https://www.zhihu.com/search?q=%E5%8D%B0%E5%BA%A6%E5%AE%A2%E6%9C%BA%E5%9D%A0%E6%AF%81%E5%88%9D%E6%AD%A5%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C%E6%9B%9D%E5%85%89)
-1. [特朗普通俄门调查反转](https://www.zhihu.com/search?q=%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E4%BF%84%E9%97%A8%E8%B0%83%E6%9F%A5%E5%8F%8D%E8%BD%AC)
 1. [杨瀚森首秀](https://www.zhihu.com/search?q=%E6%9D%A8%E7%80%9A%E6%A3%AE%E9%A6%96%E7%A7%80)
+1. [特朗普通俄门调查反转](https://www.zhihu.com/search?q=%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E4%BF%84%E9%97%A8%E8%B0%83%E6%9F%A5%E5%8F%8D%E8%BD%AC)
 
 <!-- END -->
 
