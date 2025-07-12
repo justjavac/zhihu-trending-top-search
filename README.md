@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jul 13 2025 05:19:26 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jul 13 2025 06:20:23 GMT+0800 (China Standard Time) -->
 
 1. [甘肃提级调查幼儿血铅异常问题](https://www.zhihu.com/search?q=%E7%94%98%E8%82%83%E6%8F%90%E7%BA%A7%E8%B0%83%E6%9F%A5%E5%B9%BC%E5%84%BF%E8%A1%80%E9%93%85%E5%BC%82%E5%B8%B8%E9%97%AE%E9%A2%98)
 1. [国足东亚杯2连败](https://www.zhihu.com/search?q=%E5%9B%BD%E8%B6%B3%E4%B8%9C%E4%BA%9A%E6%9D%AF2%E8%BF%9E%E8%B4%A5)
