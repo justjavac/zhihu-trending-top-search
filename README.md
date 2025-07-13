@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jul 14 2025 04:22:58 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jul 14 2025 05:19:38 GMT+0800 (China Standard Time) -->
 
 1. [甘肃提级调查幼儿血铅异常问题](https://www.zhihu.com/search?q=%E7%94%98%E8%82%83%E6%8F%90%E7%BA%A7%E8%B0%83%E6%9F%A5%E5%B9%BC%E5%84%BF%E8%A1%80%E9%93%85%E5%BC%82%E5%B8%B8%E9%97%AE%E9%A2%98)
 1. [奶奶频繁亲吻孙子致其患亲吻病](https://www.zhihu.com/search?q=%E5%A5%B6%E5%A5%B6%E9%A2%91%E7%B9%81%E4%BA%B2%E5%90%BB%E5%AD%99%E5%AD%90%E8%87%B4%E5%85%B6%E6%82%A3%E4%BA%B2%E5%90%BB%E7%97%85)
