@@ -14,25 +14,26 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jul 17 2025 11:38:56 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jul 17 2025 12:39:05 GMT+0800 (China Standard Time) -->
 
 1. [误删微信聊天记录可以撤销了](https://www.zhihu.com/search?q=%E8%AF%AF%E5%88%A0%E5%BE%AE%E4%BF%A1%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%E5%8F%AF%E4%BB%A5%E6%92%A4%E9%94%80%E4%BA%86)
 1. [官方通报黄杨某甜事件：「天价耳环」系仿制](https://www.zhihu.com/search?q=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E9%BB%84%E6%9D%A8%E6%9F%90%E7%94%9C%E4%BA%8B%E4%BB%B6%EF%BC%9A%E3%80%8C%E5%A4%A9%E4%BB%B7%E8%80%B3%E7%8E%AF%E3%80%8D%E7%B3%BB%E4%BB%BF%E5%88%B6)
 1. [最高规格城市工作会议召开](https://www.zhihu.com/search?q=%E6%9C%80%E9%AB%98%E8%A7%84%E6%A0%BC%E5%9F%8E%E5%B8%82%E5%B7%A5%E4%BD%9C%E4%BC%9A%E8%AE%AE%E5%8F%AC%E5%BC%80)
 1. [官方通报黄杨某甜「天价耳环」调查处理结果](https://www.zhihu.com/search?q=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E9%BB%84%E6%9D%A8%E6%9F%90%E7%94%9C%E3%80%8C%E5%A4%A9%E4%BB%B7%E8%80%B3%E7%8E%AF%E3%80%8D%E8%B0%83%E6%9F%A5%E5%A4%84%E7%90%86%E7%BB%93%E6%9E%9C)
-1. [开轿车累还是 suv 累](https://www.zhihu.com/search?q=%E5%BC%80%E8%BD%BF%E8%BD%A6%E7%B4%AF%E8%BF%98%E6%98%AF%20suv%20%E7%B4%AF)
+1. [真实的战场是什么样的](https://www.zhihu.com/search?q=%E7%9C%9F%E5%AE%9E%E7%9A%84%E6%88%98%E5%9C%BA%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84)
 1. [网友怀疑气象部门刻意不报40度](https://www.zhihu.com/search?q=%E7%BD%91%E5%8F%8B%E6%80%80%E7%96%91%E6%B0%94%E8%B1%A1%E9%83%A8%E9%97%A8%E5%88%BB%E6%84%8F%E4%B8%8D%E6%8A%A540%E5%BA%A6)
 1. [山姆已下架好丽友派](https://www.zhihu.com/search?q=%E5%B1%B1%E5%A7%86%E5%B7%B2%E4%B8%8B%E6%9E%B6%E5%A5%BD%E4%B8%BD%E5%8F%8B%E6%B4%BE)
 1. [中国青年尼特率上升](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E9%9D%92%E5%B9%B4%E5%B0%BC%E7%89%B9%E7%8E%87%E4%B8%8A%E5%8D%87)
-1. [如何看待论文带提示词指示 AI 给好评](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E8%AE%BA%E6%96%87%E5%B8%A6%E6%8F%90%E7%A4%BA%E8%AF%8D%E6%8C%87%E7%A4%BA%20AI%20%E7%BB%99%E5%A5%BD%E8%AF%84)
+1. [如何评价欧盟希望中国满足其稀土出口需求](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E6%AC%A7%E7%9B%9F%E5%B8%8C%E6%9C%9B%E4%B8%AD%E5%9B%BD%E6%BB%A1%E8%B6%B3%E5%85%B6%E7%A8%80%E5%9C%9F%E5%87%BA%E5%8F%A3%E9%9C%80%E6%B1%82)
 1. [气象部门刻意不报40度是真的吗](https://www.zhihu.com/search?q=%E6%B0%94%E8%B1%A1%E9%83%A8%E9%97%A8%E5%88%BB%E6%84%8F%E4%B8%8D%E6%8A%A540%E5%BA%A6%E6%98%AF%E7%9C%9F%E7%9A%84%E5%90%97)
 1. [董璇官宣再婚](https://www.zhihu.com/search?q=%E8%91%A3%E7%92%87%E5%AE%98%E5%AE%A3%E5%86%8D%E5%A9%9A)
+1. [丰田吸金能力为何这么强](https://www.zhihu.com/search?q=%E4%B8%B0%E7%94%B0%E5%90%B8%E9%87%91%E8%83%BD%E5%8A%9B%E4%B8%BA%E4%BD%95%E8%BF%99%E4%B9%88%E5%BC%BA)
+1. [开轿车累还是 suv 累](https://www.zhihu.com/search?q=%E5%BC%80%E8%BD%BF%E8%BD%A6%E7%B4%AF%E8%BF%98%E6%98%AF%20suv%20%E7%B4%AF)
+1. [如何看待论文带提示词指示 AI 给好评](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E8%AE%BA%E6%96%87%E5%B8%A6%E6%8F%90%E7%A4%BA%E8%AF%8D%E6%8C%87%E7%A4%BA%20AI%20%E7%BB%99%E5%A5%BD%E8%AF%84)
 1. [小饭店老板随手拍视频被罚 45 万元](https://www.zhihu.com/search?q=%E5%B0%8F%E9%A5%AD%E5%BA%97%E8%80%81%E6%9D%BF%E9%9A%8F%E6%89%8B%E6%8B%8D%E8%A7%86%E9%A2%91%E8%A2%AB%E7%BD%9A%2045%20%E4%B8%87%E5%85%83)
 1. [曝杜建英和宗庆后领了结婚证](https://www.zhihu.com/search?q=%E6%9B%9D%E6%9D%9C%E5%BB%BA%E8%8B%B1%E5%92%8C%E5%AE%97%E5%BA%86%E5%90%8E%E9%A2%86%E4%BA%86%E7%BB%93%E5%A9%9A%E8%AF%81)
 1. [为什么杨少华葬礼相声界没来多少人](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9D%A8%E5%B0%91%E5%8D%8E%E8%91%AC%E7%A4%BC%E7%9B%B8%E5%A3%B0%E7%95%8C%E6%B2%A1%E6%9D%A5%E5%A4%9A%E5%B0%91%E4%BA%BA)
 1. [山西大同大学多名教师因长期旷工拟被解聘](https://www.zhihu.com/search?q=%E5%B1%B1%E8%A5%BF%E5%A4%A7%E5%90%8C%E5%A4%A7%E5%AD%A6%E5%A4%9A%E5%90%8D%E6%95%99%E5%B8%88%E5%9B%A0%E9%95%BF%E6%9C%9F%E6%97%B7%E5%B7%A5%E6%8B%9F%E8%A2%AB%E8%A7%A3%E8%81%98)
-1. [丰田吸金能力为何这么强](https://www.zhihu.com/search?q=%E4%B8%B0%E7%94%B0%E5%90%B8%E9%87%91%E8%83%BD%E5%8A%9B%E4%B8%BA%E4%BD%95%E8%BF%99%E4%B9%88%E5%BC%BA)
-1. [真实的战场是什么样的](https://www.zhihu.com/search?q=%E7%9C%9F%E5%AE%9E%E7%9A%84%E6%88%98%E5%9C%BA%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84)
 1. [为什么中国男性正在集体退出相亲市场](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%AD%E5%9B%BD%E7%94%B7%E6%80%A7%E6%AD%A3%E5%9C%A8%E9%9B%86%E4%BD%93%E9%80%80%E5%87%BA%E7%9B%B8%E4%BA%B2%E5%B8%82%E5%9C%BA)
 1. [为何不能按模板批量建造航母](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E4%B8%8D%E8%83%BD%E6%8C%89%E6%A8%A1%E6%9D%BF%E6%89%B9%E9%87%8F%E5%BB%BA%E9%80%A0%E8%88%AA%E6%AF%8D)
 1. [为何北方地区的肥胖率普遍高于南方](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E5%8C%97%E6%96%B9%E5%9C%B0%E5%8C%BA%E7%9A%84%E8%82%A5%E8%83%96%E7%8E%87%E6%99%AE%E9%81%8D%E9%AB%98%E4%BA%8E%E5%8D%97%E6%96%B9)
