@@ -14,16 +14,16 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jul 18 2025 04:25:34 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jul 18 2025 05:21:24 GMT+0800 (China Standard Time) -->
 
 1. [官方通报黄杨某甜事件：「天价耳环」系仿制](https://www.zhihu.com/search?q=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E9%BB%84%E6%9D%A8%E6%9F%90%E7%94%9C%E4%BA%8B%E4%BB%B6%EF%BC%9A%E3%80%8C%E5%A4%A9%E4%BB%B7%E8%80%B3%E7%8E%AF%E3%80%8D%E7%B3%BB%E4%BB%BF%E5%88%B6)
 1. [黄仁勋称中国 AI 模型已达世界级水平](https://www.zhihu.com/search?q=%E9%BB%84%E4%BB%81%E5%8B%8B%E7%A7%B0%E4%B8%AD%E5%9B%BD%20AI%20%E6%A8%A1%E5%9E%8B%E5%B7%B2%E8%BE%BE%E4%B8%96%E7%95%8C%E7%BA%A7%E6%B0%B4%E5%B9%B3)
 1. [宗氏三兄妹起诉宗馥莉文书曝光](https://www.zhihu.com/search?q=%E5%AE%97%E6%B0%8F%E4%B8%89%E5%85%84%E5%A6%B9%E8%B5%B7%E8%AF%89%E5%AE%97%E9%A6%A5%E8%8E%89%E6%96%87%E4%B9%A6%E6%9B%9D%E5%85%89)
 1. [官方通报黄杨某甜「天价耳环」调查处理结果](https://www.zhihu.com/search?q=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E9%BB%84%E6%9D%A8%E6%9F%90%E7%94%9C%E3%80%8C%E5%A4%A9%E4%BB%B7%E8%80%B3%E7%8E%AF%E3%80%8D%E8%B0%83%E6%9F%A5%E5%A4%84%E7%90%86%E7%BB%93%E6%9E%9C)
 1. [网友怀疑气象部门刻意不报40度](https://www.zhihu.com/search?q=%E7%BD%91%E5%8F%8B%E6%80%80%E7%96%91%E6%B0%94%E8%B1%A1%E9%83%A8%E9%97%A8%E5%88%BB%E6%84%8F%E4%B8%8D%E6%8A%A540%E5%BA%A6)
-1. [宗馥莉叔叔称没必要赶尽杀绝](https://www.zhihu.com/search?q=%E5%AE%97%E9%A6%A5%E8%8E%89%E5%8F%94%E5%8F%94%E7%A7%B0%E6%B2%A1%E5%BF%85%E8%A6%81%E8%B5%B6%E5%B0%BD%E6%9D%80%E7%BB%9D)
-1. [翠鸟嘴插在芒果里「无法自拔」是怎么回事](https://www.zhihu.com/search?q=%E7%BF%A0%E9%B8%9F%E5%98%B4%E6%8F%92%E5%9C%A8%E8%8A%92%E6%9E%9C%E9%87%8C%E3%80%8C%E6%97%A0%E6%B3%95%E8%87%AA%E6%8B%94%E3%80%8D%E6%98%AF%E6%80%8E%E4%B9%88%E5%9B%9E%E4%BA%8B)
 1. [杭州成立专班介入处理宗庆后遗产纠纷](https://www.zhihu.com/search?q=%E6%9D%AD%E5%B7%9E%E6%88%90%E7%AB%8B%E4%B8%93%E7%8F%AD%E4%BB%8B%E5%85%A5%E5%A4%84%E7%90%86%E5%AE%97%E5%BA%86%E5%90%8E%E9%81%97%E4%BA%A7%E7%BA%A0%E7%BA%B7)
+1. [翠鸟嘴插在芒果里「无法自拔」是怎么回事](https://www.zhihu.com/search?q=%E7%BF%A0%E9%B8%9F%E5%98%B4%E6%8F%92%E5%9C%A8%E8%8A%92%E6%9E%9C%E9%87%8C%E3%80%8C%E6%97%A0%E6%B3%95%E8%87%AA%E6%8B%94%E3%80%8D%E6%98%AF%E6%80%8E%E4%B9%88%E5%9B%9E%E4%BA%8B)
+1. [宗馥莉叔叔称没必要赶尽杀绝](https://www.zhihu.com/search?q=%E5%AE%97%E9%A6%A5%E8%8E%89%E5%8F%94%E5%8F%94%E7%A7%B0%E6%B2%A1%E5%BF%85%E8%A6%81%E8%B5%B6%E5%B0%BD%E6%9D%80%E7%BB%9D)
 1. [警方通报3名高中生赴西双版纳后失联](https://www.zhihu.com/search?q=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A53%E5%90%8D%E9%AB%98%E4%B8%AD%E7%94%9F%E8%B5%B4%E8%A5%BF%E5%8F%8C%E7%89%88%E7%BA%B3%E5%90%8E%E5%A4%B1%E8%81%94)
 1. [最高规格城市工作会议召开](https://www.zhihu.com/search?q=%E6%9C%80%E9%AB%98%E8%A7%84%E6%A0%BC%E5%9F%8E%E5%B8%82%E5%B7%A5%E4%BD%9C%E4%BC%9A%E8%AE%AE%E5%8F%AC%E5%BC%80)
 1. [西藏为何能建造庞大的布达拉宫](https://www.zhihu.com/search?q=%E8%A5%BF%E8%97%8F%E4%B8%BA%E4%BD%95%E8%83%BD%E5%BB%BA%E9%80%A0%E5%BA%9E%E5%A4%A7%E7%9A%84%E5%B8%83%E8%BE%BE%E6%8B%89%E5%AE%AB)
