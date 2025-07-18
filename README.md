@@ -14,20 +14,20 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jul 18 2025 22:22:31 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jul 18 2025 23:24:27 GMT+0800 (China Standard Time) -->
 
 1. [杭州通报多小区自来水现臭味](https://www.zhihu.com/search?q=%E6%9D%AD%E5%B7%9E%E9%80%9A%E6%8A%A5%E5%A4%9A%E5%B0%8F%E5%8C%BA%E8%87%AA%E6%9D%A5%E6%B0%B4%E7%8E%B0%E8%87%AD%E5%91%B3)
 1. [市场监管总局要求外卖平台企业理性竞争](https://www.zhihu.com/search?q=%E5%B8%82%E5%9C%BA%E7%9B%91%E7%AE%A1%E6%80%BB%E5%B1%80%E8%A6%81%E6%B1%82%E5%A4%96%E5%8D%96%E5%B9%B3%E5%8F%B0%E4%BC%81%E4%B8%9A%E7%90%86%E6%80%A7%E7%AB%9E%E4%BA%89)
-1. [老年暴走团逼停救护车消防车](https://www.zhihu.com/search?q=%E8%80%81%E5%B9%B4%E6%9A%B4%E8%B5%B0%E5%9B%A2%E9%80%BC%E5%81%9C%E6%95%91%E6%8A%A4%E8%BD%A6%E6%B6%88%E9%98%B2%E8%BD%A6)
 1. [男子摸知了猴一晚收入上万元](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%90%E6%91%B8%E7%9F%A5%E4%BA%86%E7%8C%B4%E4%B8%80%E6%99%9A%E6%94%B6%E5%85%A5%E4%B8%8A%E4%B8%87%E5%85%83)
 1. [宗氏三兄妹起诉宗馥莉文书曝光](https://www.zhihu.com/search?q=%E5%AE%97%E6%B0%8F%E4%B8%89%E5%85%84%E5%A6%B9%E8%B5%B7%E8%AF%89%E5%AE%97%E9%A6%A5%E8%8E%89%E6%96%87%E4%B9%A6%E6%9B%9D%E5%85%89)
-1. [宇树科技开启上市辅导](https://www.zhihu.com/search?q=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E5%BC%80%E5%90%AF%E4%B8%8A%E5%B8%82%E8%BE%85%E5%AF%BC)
 1. [杭州成立专班介入处理宗庆后遗产纠纷](https://www.zhihu.com/search?q=%E6%9D%AD%E5%B7%9E%E6%88%90%E7%AB%8B%E4%B8%93%E7%8F%AD%E4%BB%8B%E5%85%A5%E5%A4%84%E7%90%86%E5%AE%97%E5%BA%86%E5%90%8E%E9%81%97%E4%BA%A7%E7%BA%A0%E7%BA%B7)
+1. [宇树科技开启上市辅导](https://www.zhihu.com/search?q=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E5%BC%80%E5%90%AF%E4%B8%8A%E5%B8%82%E8%BE%85%E5%AF%BC)
 1. [特朗普为俄乌和谈设 50 天期限](https://www.zhihu.com/search?q=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E4%BF%84%E4%B9%8C%E5%92%8C%E8%B0%88%E8%AE%BE%2050%20%E5%A4%A9%E6%9C%9F%E9%99%90)
+1. [老年暴走团逼停救护车消防车](https://www.zhihu.com/search?q=%E8%80%81%E5%B9%B4%E6%9A%B4%E8%B5%B0%E5%9B%A2%E9%80%BC%E5%81%9C%E6%95%91%E6%8A%A4%E8%BD%A6%E6%B6%88%E9%98%B2%E8%BD%A6)
 1. [黄仁勋称中国 AI 模型已达世界级水平](https://www.zhihu.com/search?q=%E9%BB%84%E4%BB%81%E5%8B%8B%E7%A7%B0%E4%B8%AD%E5%9B%BD%20AI%20%E6%A8%A1%E5%9E%8B%E5%B7%B2%E8%BE%BE%E4%B8%96%E7%95%8C%E7%BA%A7%E6%B0%B4%E5%B9%B3)
 1. [知情人士：宗庆后不止这四个孩子](https://www.zhihu.com/search?q=%E7%9F%A5%E6%83%85%E4%BA%BA%E5%A3%AB%EF%BC%9A%E5%AE%97%E5%BA%86%E5%90%8E%E4%B8%8D%E6%AD%A2%E8%BF%99%E5%9B%9B%E4%B8%AA%E5%AD%A9%E5%AD%90)
-1. [川北医学院惊现顶级本科生](https://www.zhihu.com/search?q=%E5%B7%9D%E5%8C%97%E5%8C%BB%E5%AD%A6%E9%99%A2%E6%83%8A%E7%8E%B0%E9%A1%B6%E7%BA%A7%E6%9C%AC%E7%A7%91%E7%94%9F)
 1. [发现男朋友离不了游戏正常吗](https://www.zhihu.com/search?q=%E5%8F%91%E7%8E%B0%E7%94%B7%E6%9C%8B%E5%8F%8B%E7%A6%BB%E4%B8%8D%E4%BA%86%E6%B8%B8%E6%88%8F%E6%AD%A3%E5%B8%B8%E5%90%97)
+1. [川北医学院惊现顶级本科生](https://www.zhihu.com/search?q=%E5%B7%9D%E5%8C%97%E5%8C%BB%E5%AD%A6%E9%99%A2%E6%83%8A%E7%8E%B0%E9%A1%B6%E7%BA%A7%E6%9C%AC%E7%A7%91%E7%94%9F)
 1. [官方通报黄杨某甜事件：「天价耳环」系仿制](https://www.zhihu.com/search?q=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E9%BB%84%E6%9D%A8%E6%9F%90%E7%94%9C%E4%BA%8B%E4%BB%B6%EF%BC%9A%E3%80%8C%E5%A4%A9%E4%BB%B7%E8%80%B3%E7%8E%AF%E3%80%8D%E7%B3%BB%E4%BB%BF%E5%88%B6)
 1. [山姆已下架好丽友派](https://www.zhihu.com/search?q=%E5%B1%B1%E5%A7%86%E5%B7%B2%E4%B8%8B%E6%9E%B6%E5%A5%BD%E4%B8%BD%E5%8F%8B%E6%B4%BE)
 1. [杭州就娃哈哈事件成立专班](https://www.zhihu.com/search?q=%E6%9D%AD%E5%B7%9E%E5%B0%B1%E5%A8%83%E5%93%88%E5%93%88%E4%BA%8B%E4%BB%B6%E6%88%90%E7%AB%8B%E4%B8%93%E7%8F%AD)
