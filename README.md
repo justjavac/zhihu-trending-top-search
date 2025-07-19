@@ -14,22 +14,24 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jul 20 2025 03:16:53 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jul 20 2025 04:24:24 GMT+0800 (China Standard Time) -->
 
 1. [雅鲁藏布江下游水电工程开工](https://www.zhihu.com/search?q=%E9%9B%85%E9%B2%81%E8%97%8F%E5%B8%83%E6%B1%9F%E4%B8%8B%E6%B8%B8%E6%B0%B4%E7%94%B5%E5%B7%A5%E7%A8%8B%E5%BC%80%E5%B7%A5)
 1. [官方通报杭州自来水异味](https://www.zhihu.com/search?q=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E6%9D%AD%E5%B7%9E%E8%87%AA%E6%9D%A5%E6%B0%B4%E5%BC%82%E5%91%B3)
 1. [丽江徒步失联女生坠亡地遍地蚂蟥](https://www.zhihu.com/search?q=%E4%B8%BD%E6%B1%9F%E5%BE%92%E6%AD%A5%E5%A4%B1%E8%81%94%E5%A5%B3%E7%94%9F%E5%9D%A0%E4%BA%A1%E5%9C%B0%E9%81%8D%E5%9C%B0%E8%9A%82%E8%9F%A5)
+1. [老年暴走团逼停救护车消防车](https://www.zhihu.com/search?q=%E8%80%81%E5%B9%B4%E6%9A%B4%E8%B5%B0%E5%9B%A2%E9%80%BC%E5%81%9C%E6%95%91%E6%8A%A4%E8%BD%A6%E6%B6%88%E9%98%B2%E8%BD%A6)
+1. [警方立案高中生赴西双版纳后失联事件](https://www.zhihu.com/search?q=%E8%AD%A6%E6%96%B9%E7%AB%8B%E6%A1%88%E9%AB%98%E4%B8%AD%E7%94%9F%E8%B5%B4%E8%A5%BF%E5%8F%8C%E7%89%88%E7%BA%B3%E5%90%8E%E5%A4%B1%E8%81%94%E4%BA%8B%E4%BB%B6)
+1. [川北医学院惊现顶级本科生](https://www.zhihu.com/search?q=%E5%B7%9D%E5%8C%97%E5%8C%BB%E5%AD%A6%E9%99%A2%E6%83%8A%E7%8E%B0%E9%A1%B6%E7%BA%A7%E6%9C%AC%E7%A7%91%E7%94%9F)
+1. [杭州通报多小区自来水现臭味](https://www.zhihu.com/search?q=%E6%9D%AD%E5%B7%9E%E9%80%9A%E6%8A%A5%E5%A4%9A%E5%B0%8F%E5%8C%BA%E8%87%AA%E6%9D%A5%E6%B0%B4%E7%8E%B0%E8%87%AD%E5%91%B3)
+1. [越南前总理阮春福被解除党内职务](https://www.zhihu.com/search?q=%E8%B6%8A%E5%8D%97%E5%89%8D%E6%80%BB%E7%90%86%E9%98%AE%E6%98%A5%E7%A6%8F%E8%A2%AB%E8%A7%A3%E9%99%A4%E5%85%9A%E5%86%85%E8%81%8C%E5%8A%A1)
+1. [市场监管总局要求外卖平台企业理性竞争](https://www.zhihu.com/search?q=%E5%B8%82%E5%9C%BA%E7%9B%91%E7%AE%A1%E6%80%BB%E5%B1%80%E8%A6%81%E6%B1%82%E5%A4%96%E5%8D%96%E5%B9%B3%E5%8F%B0%E4%BC%81%E4%B8%9A%E7%90%86%E6%80%A7%E7%AB%9E%E4%BA%89)
+1. [杭州水务公司辟谣粪水管接错](https://www.zhihu.com/search?q=%E6%9D%AD%E5%B7%9E%E6%B0%B4%E5%8A%A1%E5%85%AC%E5%8F%B8%E8%BE%9F%E8%B0%A3%E7%B2%AA%E6%B0%B4%E7%AE%A1%E6%8E%A5%E9%94%99)
+1. [电影「你行！你上！」观感怎么样](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1%E3%80%8C%E4%BD%A0%E8%A1%8C%EF%BC%81%E4%BD%A0%E4%B8%8A%EF%BC%81%E3%80%8D%E8%A7%82%E6%84%9F%E6%80%8E%E4%B9%88%E6%A0%B7)
+1. [高校通报大三本科生逆天学术](https://www.zhihu.com/search?q=%E9%AB%98%E6%A0%A1%E9%80%9A%E6%8A%A5%E5%A4%A7%E4%B8%89%E6%9C%AC%E7%A7%91%E7%94%9F%E9%80%86%E5%A4%A9%E5%AD%A6%E6%9C%AF)
 1. [中国女篮无缘亚洲杯决赛](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E6%97%A0%E7%BC%98%E4%BA%9A%E6%B4%B2%E6%9D%AF%E5%86%B3%E8%B5%9B)
 1. [苏超南通六连胜](https://www.zhihu.com/search?q=%E8%8B%8F%E8%B6%85%E5%8D%97%E9%80%9A%E5%85%AD%E8%BF%9E%E8%83%9C)
-1. [老年暴走团逼停救护车消防车](https://www.zhihu.com/search?q=%E8%80%81%E5%B9%B4%E6%9A%B4%E8%B5%B0%E5%9B%A2%E9%80%BC%E5%81%9C%E6%95%91%E6%8A%A4%E8%BD%A6%E6%B6%88%E9%98%B2%E8%BD%A6)
 1. [苏超泰州1比0宿迁](https://www.zhihu.com/search?q=%E8%8B%8F%E8%B6%85%E6%B3%B0%E5%B7%9E1%E6%AF%940%E5%AE%BF%E8%BF%81)
-1. [杭州通报多小区自来水现臭味](https://www.zhihu.com/search?q=%E6%9D%AD%E5%B7%9E%E9%80%9A%E6%8A%A5%E5%A4%9A%E5%B0%8F%E5%8C%BA%E8%87%AA%E6%9D%A5%E6%B0%B4%E7%8E%B0%E8%87%AD%E5%91%B3)
 1. [你是什么时候发现上班是没有意义的](https://www.zhihu.com/search?q=%E4%BD%A0%E6%98%AF%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E5%8F%91%E7%8E%B0%E4%B8%8A%E7%8F%AD%E6%98%AF%E6%B2%A1%E6%9C%89%E6%84%8F%E4%B9%89%E7%9A%84)
-1. [杭州水务公司辟谣粪水管接错](https://www.zhihu.com/search?q=%E6%9D%AD%E5%B7%9E%E6%B0%B4%E5%8A%A1%E5%85%AC%E5%8F%B8%E8%BE%9F%E8%B0%A3%E7%B2%AA%E6%B0%B4%E7%AE%A1%E6%8E%A5%E9%94%99)
-1. [川北医学院惊现顶级本科生](https://www.zhihu.com/search?q=%E5%B7%9D%E5%8C%97%E5%8C%BB%E5%AD%A6%E9%99%A2%E6%83%8A%E7%8E%B0%E9%A1%B6%E7%BA%A7%E6%9C%AC%E7%A7%91%E7%94%9F)
-1. [越南前总理阮春福被解除党内职务](https://www.zhihu.com/search?q=%E8%B6%8A%E5%8D%97%E5%89%8D%E6%80%BB%E7%90%86%E9%98%AE%E6%98%A5%E7%A6%8F%E8%A2%AB%E8%A7%A3%E9%99%A4%E5%85%9A%E5%86%85%E8%81%8C%E5%8A%A1)
-1. [警方立案高中生赴西双版纳后失联事件](https://www.zhihu.com/search?q=%E8%AD%A6%E6%96%B9%E7%AB%8B%E6%A1%88%E9%AB%98%E4%B8%AD%E7%94%9F%E8%B5%B4%E8%A5%BF%E5%8F%8C%E7%89%88%E7%BA%B3%E5%90%8E%E5%A4%B1%E8%81%94%E4%BA%8B%E4%BB%B6)
-1. [市场监管总局要求外卖平台企业理性竞争](https://www.zhihu.com/search?q=%E5%B8%82%E5%9C%BA%E7%9B%91%E7%AE%A1%E6%80%BB%E5%B1%80%E8%A6%81%E6%B1%82%E5%A4%96%E5%8D%96%E5%B9%B3%E5%8F%B0%E4%BC%81%E4%B8%9A%E7%90%86%E6%80%A7%E7%AB%9E%E4%BA%89)
 
 <!-- END -->
 
