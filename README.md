@@ -14,18 +14,19 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jul 20 2025 21:32:14 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jul 20 2025 22:19:53 GMT+0800 (China Standard Time) -->
 
 1. [天水幼儿血铅异常问题调查最新通报](https://www.zhihu.com/search?q=%E5%A4%A9%E6%B0%B4%E5%B9%BC%E5%84%BF%E8%A1%80%E9%93%85%E5%BC%82%E5%B8%B8%E9%97%AE%E9%A2%98%E8%B0%83%E6%9F%A5%E6%9C%80%E6%96%B0%E9%80%9A%E6%8A%A5)
 1. [雅鲁藏布江下游水电工程开工](https://www.zhihu.com/search?q=%E9%9B%85%E9%B2%81%E8%97%8F%E5%B8%83%E6%B1%9F%E4%B8%8B%E6%B8%B8%E6%B0%B4%E7%94%B5%E5%B7%A5%E7%A8%8B%E5%BC%80%E5%B7%A5)
-1. [杭州余杭区政府致歉](https://www.zhihu.com/search?q=%E6%9D%AD%E5%B7%9E%E4%BD%99%E6%9D%AD%E5%8C%BA%E6%94%BF%E5%BA%9C%E8%87%B4%E6%AD%89)
+1. [常州0比2徐州7轮不胜](https://www.zhihu.com/search?q=%E5%B8%B8%E5%B7%9E0%E6%AF%942%E5%BE%90%E5%B7%9E7%E8%BD%AE%E4%B8%8D%E8%83%9C)
 1. [韩国申遗全面溃败](https://www.zhihu.com/search?q=%E9%9F%A9%E5%9B%BD%E7%94%B3%E9%81%97%E5%85%A8%E9%9D%A2%E6%BA%83%E8%B4%A5)
 1. [台风韦帕](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E%E9%9F%A6%E5%B8%95)
 1. [你行你上隐喻](https://www.zhihu.com/search?q=%E4%BD%A0%E8%A1%8C%E4%BD%A0%E4%B8%8A%E9%9A%90%E5%96%BB)
+1. [杭州余杭区政府致歉](https://www.zhihu.com/search?q=%E6%9D%AD%E5%B7%9E%E4%BD%99%E6%9D%AD%E5%8C%BA%E6%94%BF%E5%BA%9C%E8%87%B4%E6%AD%89)
 1. [警方立案高中生赴西双版纳后失联事件](https://www.zhihu.com/search?q=%E8%AD%A6%E6%96%B9%E7%AB%8B%E6%A1%88%E9%AB%98%E4%B8%AD%E7%94%9F%E8%B5%B4%E8%A5%BF%E5%8F%8C%E7%89%88%E7%BA%B3%E5%90%8E%E5%A4%B1%E8%81%94%E4%BA%8B%E4%BB%B6)
-1. [中国女篮无缘亚洲杯决赛](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E6%97%A0%E7%BC%98%E4%BA%9A%E6%B4%B2%E6%9D%AF%E5%86%B3%E8%B5%9B)
 1. [血铅事件27人被追责问责](https://www.zhihu.com/search?q=%E8%A1%80%E9%93%85%E4%BA%8B%E4%BB%B627%E4%BA%BA%E8%A2%AB%E8%BF%BD%E8%B4%A3%E9%97%AE%E8%B4%A3)
 1. [甘肃幼儿血铅6人被逮捕](https://www.zhihu.com/search?q=%E7%94%98%E8%82%83%E5%B9%BC%E5%84%BF%E8%A1%80%E9%93%856%E4%BA%BA%E8%A2%AB%E9%80%AE%E6%8D%95)
+1. [中国女篮无缘亚洲杯决赛](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E6%97%A0%E7%BC%98%E4%BA%9A%E6%B4%B2%E6%9D%AF%E5%86%B3%E8%B5%9B)
 1. [广东佛山已确诊 1199 例基孔肯雅热](https://www.zhihu.com/search?q=%E5%B9%BF%E4%B8%9C%E4%BD%9B%E5%B1%B1%E5%B7%B2%E7%A1%AE%E8%AF%8A%201199%20%E4%BE%8B%E5%9F%BA%E5%AD%94%E8%82%AF%E9%9B%85%E7%83%AD)
 1. [今年三伏天会更热吗？](https://www.zhihu.com/search?q=%E4%BB%8A%E5%B9%B4%E4%B8%89%E4%BC%8F%E5%A4%A9%E4%BC%9A%E6%9B%B4%E7%83%AD%E5%90%97%EF%BC%9F)
 1. [天水第二医院修改血铅检验数据被查](https://www.zhihu.com/search?q=%E5%A4%A9%E6%B0%B4%E7%AC%AC%E4%BA%8C%E5%8C%BB%E9%99%A2%E4%BF%AE%E6%94%B9%E8%A1%80%E9%93%85%E6%A3%80%E9%AA%8C%E6%95%B0%E6%8D%AE%E8%A2%AB%E6%9F%A5)
