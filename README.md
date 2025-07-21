@@ -14,20 +14,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jul 22 2025 00:29:53 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jul 22 2025 01:22:28 GMT+0800 (China Standard Time) -->
 
 1. [昆明通报西山区机动车撞人致2死9伤](https://www.zhihu.com/search?q=%E6%98%86%E6%98%8E%E9%80%9A%E6%8A%A5%E8%A5%BF%E5%B1%B1%E5%8C%BA%E6%9C%BA%E5%8A%A8%E8%BD%A6%E6%92%9E%E4%BA%BA%E8%87%B42%E6%AD%BB9%E4%BC%A4)
 1. [住房租赁条例9月15日施行](https://www.zhihu.com/search?q=%E4%BD%8F%E6%88%BF%E7%A7%9F%E8%B5%81%E6%9D%A1%E4%BE%8B9%E6%9C%8815%E6%97%A5%E6%96%BD%E8%A1%8C)
 1. [沈腾林允恋情瓜疑添新证据](https://www.zhihu.com/search?q=%E6%B2%88%E8%85%BE%E6%9E%97%E5%85%81%E6%81%8B%E6%83%85%E7%93%9C%E7%96%91%E6%B7%BB%E6%96%B0%E8%AF%81%E6%8D%AE)
 1. [天水幼儿血铅异常问题调查最新通报](https://www.zhihu.com/search?q=%E5%A4%A9%E6%B0%B4%E5%B9%BC%E5%84%BF%E8%A1%80%E9%93%85%E5%BC%82%E5%B8%B8%E9%97%AE%E9%A2%98%E8%B0%83%E6%9F%A5%E6%9C%80%E6%96%B0%E9%80%9A%E6%8A%A5)
-1. [雅鲁藏布江下游水电工程开工](https://www.zhihu.com/search?q=%E9%9B%85%E9%B2%81%E8%97%8F%E5%B8%83%E6%B1%9F%E4%B8%8B%E6%B8%B8%E6%B0%B4%E7%94%B5%E5%B7%A5%E7%A8%8B%E5%BC%80%E5%B7%A5)
-1. [丽江古城将面向游客征收维护费](https://www.zhihu.com/search?q=%E4%B8%BD%E6%B1%9F%E5%8F%A4%E5%9F%8E%E5%B0%86%E9%9D%A2%E5%90%91%E6%B8%B8%E5%AE%A2%E5%BE%81%E6%94%B6%E7%BB%B4%E6%8A%A4%E8%B4%B9)
 1. [杭州余杭区政府致歉](https://www.zhihu.com/search?q=%E6%9D%AD%E5%B7%9E%E4%BD%99%E6%9D%AD%E5%8C%BA%E6%94%BF%E5%BA%9C%E8%87%B4%E6%AD%89)
+1. [被蚊子叮咬后用热风吹能止痒是真的吗](https://www.zhihu.com/search?q=%E8%A2%AB%E8%9A%8A%E5%AD%90%E5%8F%AE%E5%92%AC%E5%90%8E%E7%94%A8%E7%83%AD%E9%A3%8E%E5%90%B9%E8%83%BD%E6%AD%A2%E7%97%92%E6%98%AF%E7%9C%9F%E7%9A%84%E5%90%97)
+1. [雅鲁藏布江下游水电工程开工](https://www.zhihu.com/search?q=%E9%9B%85%E9%B2%81%E8%97%8F%E5%B8%83%E6%B1%9F%E4%B8%8B%E6%B8%B8%E6%B0%B4%E7%94%B5%E5%B7%A5%E7%A8%8B%E5%BC%80%E5%B7%A5)
 1. [韩国申遗全面溃败](https://www.zhihu.com/search?q=%E9%9F%A9%E5%9B%BD%E7%94%B3%E9%81%97%E5%85%A8%E9%9D%A2%E6%BA%83%E8%B4%A5)
-1. [甘肃幼儿血铅6人被逮捕](https://www.zhihu.com/search?q=%E7%94%98%E8%82%83%E5%B9%BC%E5%84%BF%E8%A1%80%E9%93%856%E4%BA%BA%E8%A2%AB%E9%80%AE%E6%8D%95)
-1. [如何看待高管私德管理](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E9%AB%98%E7%AE%A1%E7%A7%81%E5%BE%B7%E7%AE%A1%E7%90%86)
-1. [福耀科大投档线超多所双一流名校](https://www.zhihu.com/search?q=%E7%A6%8F%E8%80%80%E7%A7%91%E5%A4%A7%E6%8A%95%E6%A1%A3%E7%BA%BF%E8%B6%85%E5%A4%9A%E6%89%80%E5%8F%8C%E4%B8%80%E6%B5%81%E5%90%8D%E6%A0%A1)
 1. [甘肃省人民医院全面托管天水二院](https://www.zhihu.com/search?q=%E7%94%98%E8%82%83%E7%9C%81%E4%BA%BA%E6%B0%91%E5%8C%BB%E9%99%A2%E5%85%A8%E9%9D%A2%E6%89%98%E7%AE%A1%E5%A4%A9%E6%B0%B4%E4%BA%8C%E9%99%A2)
+1. [如何看待高管私德管理](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E9%AB%98%E7%AE%A1%E7%A7%81%E5%BE%B7%E7%AE%A1%E7%90%86)
+1. [甘肃幼儿血铅6人被逮捕](https://www.zhihu.com/search?q=%E7%94%98%E8%82%83%E5%B9%BC%E5%84%BF%E8%A1%80%E9%93%856%E4%BA%BA%E8%A2%AB%E9%80%AE%E6%8D%95)
+1. [天水通报疑似写错涉案幼儿园名称](https://www.zhihu.com/search?q=%E5%A4%A9%E6%B0%B4%E9%80%9A%E6%8A%A5%E7%96%91%E4%BC%BC%E5%86%99%E9%94%99%E6%B6%89%E6%A1%88%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%90%8D%E7%A7%B0)
+1. [丽江古城将面向游客征收维护费](https://www.zhihu.com/search?q=%E4%B8%BD%E6%B1%9F%E5%8F%A4%E5%9F%8E%E5%B0%86%E9%9D%A2%E5%90%91%E6%B8%B8%E5%AE%A2%E5%BE%81%E6%94%B6%E7%BB%B4%E6%8A%A4%E8%B4%B9)
+1. [福耀科大投档线超多所双一流名校](https://www.zhihu.com/search?q=%E7%A6%8F%E8%80%80%E7%A7%91%E5%A4%A7%E6%8A%95%E6%A1%A3%E7%BA%BF%E8%B6%85%E5%A4%9A%E6%89%80%E5%8F%8C%E4%B8%80%E6%B5%81%E5%90%8D%E6%A0%A1)
 
 <!-- END -->
 
