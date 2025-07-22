@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jul 22 2025 15:25:00 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jul 22 2025 16:32:14 GMT+0800 (China Standard Time) -->
 
 1. [济南莱芜强降雨致2人死亡10人失联](https://www.zhihu.com/search?q=%E6%B5%8E%E5%8D%97%E8%8E%B1%E8%8A%9C%E5%BC%BA%E9%99%8D%E9%9B%A8%E8%87%B42%E4%BA%BA%E6%AD%BB%E4%BA%A110%E4%BA%BA%E5%A4%B1%E8%81%94)
 1. [老人为乘凉挤满肯德基](https://www.zhihu.com/search?q=%E8%80%81%E4%BA%BA%E4%B8%BA%E4%B9%98%E5%87%89%E6%8C%A4%E6%BB%A1%E8%82%AF%E5%BE%B7%E5%9F%BA)
@@ -23,11 +23,12 @@
 1. [沈腾林允恋情瓜疑添新证据](https://www.zhihu.com/search?q=%E6%B2%88%E8%85%BE%E6%9E%97%E5%85%81%E6%81%8B%E6%83%85%E7%93%9C%E7%96%91%E6%B7%BB%E6%96%B0%E8%AF%81%E6%8D%AE)
 1. [杭州余杭区政府致歉](https://www.zhihu.com/search?q=%E6%9D%AD%E5%B7%9E%E4%BD%99%E6%9D%AD%E5%8C%BA%E6%94%BF%E5%BA%9C%E8%87%B4%E6%AD%89)
 1. [公积金是否能视为收入](https://www.zhihu.com/search?q=%E5%85%AC%E7%A7%AF%E9%87%91%E6%98%AF%E5%90%A6%E8%83%BD%E8%A7%86%E4%B8%BA%E6%94%B6%E5%85%A5)
-1. [天水幼儿血铅异常问题调查最新通报](https://www.zhihu.com/search?q=%E5%A4%A9%E6%B0%B4%E5%B9%BC%E5%84%BF%E8%A1%80%E9%93%85%E5%BC%82%E5%B8%B8%E9%97%AE%E9%A2%98%E8%B0%83%E6%9F%A5%E6%9C%80%E6%96%B0%E9%80%9A%E6%8A%A5)
 1. [住房租赁条例9月15日施行](https://www.zhihu.com/search?q=%E4%BD%8F%E6%88%BF%E7%A7%9F%E8%B5%81%E6%9D%A1%E4%BE%8B9%E6%9C%8815%E6%97%A5%E6%96%BD%E8%A1%8C)
 1. [下肢是人体自带的血糖仪](https://www.zhihu.com/search?q=%E4%B8%8B%E8%82%A2%E6%98%AF%E4%BA%BA%E4%BD%93%E8%87%AA%E5%B8%A6%E7%9A%84%E8%A1%80%E7%B3%96%E4%BB%AA)
+1. [天水市委书记市长被立案问责](https://www.zhihu.com/search?q=%E5%A4%A9%E6%B0%B4%E5%B8%82%E5%A7%94%E4%B9%A6%E8%AE%B0%E5%B8%82%E9%95%BF%E8%A2%AB%E7%AB%8B%E6%A1%88%E9%97%AE%E8%B4%A3)
 1. [男女力量差距真的那么大么](https://www.zhihu.com/search?q=%E7%94%B7%E5%A5%B3%E5%8A%9B%E9%87%8F%E5%B7%AE%E8%B7%9D%E7%9C%9F%E7%9A%84%E9%82%A3%E4%B9%88%E5%A4%A7%E4%B9%88)
 1. [普通人仿照琦玉老师锻炼会怎么样](https://www.zhihu.com/search?q=%E6%99%AE%E9%80%9A%E4%BA%BA%E4%BB%BF%E7%85%A7%E7%90%A6%E7%8E%89%E8%80%81%E5%B8%88%E9%94%BB%E7%82%BC%E4%BC%9A%E6%80%8E%E4%B9%88%E6%A0%B7)
+1. [天水幼儿血铅异常问题调查最新通报](https://www.zhihu.com/search?q=%E5%A4%A9%E6%B0%B4%E5%B9%BC%E5%84%BF%E8%A1%80%E9%93%85%E5%BC%82%E5%B8%B8%E9%97%AE%E9%A2%98%E8%B0%83%E6%9F%A5%E6%9C%80%E6%96%B0%E9%80%9A%E6%8A%A5)
 1. [为什么鲸能下潜万米深度而潜艇不行](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E9%B2%B8%E8%83%BD%E4%B8%8B%E6%BD%9C%E4%B8%87%E7%B1%B3%E6%B7%B1%E5%BA%A6%E8%80%8C%E6%BD%9C%E8%89%87%E4%B8%8D%E8%A1%8C)
 1. [韩国申遗全面溃败](https://www.zhihu.com/search?q=%E9%9F%A9%E5%9B%BD%E7%94%B3%E9%81%97%E5%85%A8%E9%9D%A2%E6%BA%83%E8%B4%A5)
 1. [如何看待最近爆火的「鸿蒙大饭店」](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E6%9C%80%E8%BF%91%E7%88%86%E7%81%AB%E7%9A%84%E3%80%8C%E9%B8%BF%E8%92%99%E5%A4%A7%E9%A5%AD%E5%BA%97%E3%80%8D)
