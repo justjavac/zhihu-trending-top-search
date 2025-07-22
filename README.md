@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jul 22 2025 11:41:06 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jul 22 2025 12:40:36 GMT+0800 (China Standard Time) -->
 
 1. [昆明通报西山区机动车撞人致2死9伤](https://www.zhihu.com/search?q=%E6%98%86%E6%98%8E%E9%80%9A%E6%8A%A5%E8%A5%BF%E5%B1%B1%E5%8C%BA%E6%9C%BA%E5%8A%A8%E8%BD%A6%E6%92%9E%E4%BA%BA%E8%87%B42%E6%AD%BB9%E4%BC%A4)
 1. [雅鲁藏布江下游水电工程开工](https://www.zhihu.com/search?q=%E9%9B%85%E9%B2%81%E8%97%8F%E5%B8%83%E6%B1%9F%E4%B8%8B%E6%B8%B8%E6%B0%B4%E7%94%B5%E5%B7%A5%E7%A8%8B%E5%BC%80%E5%B7%A5)
