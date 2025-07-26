@@ -14,20 +14,23 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jul 26 2025 07:22:24 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jul 26 2025 09:53:56 GMT+0800 (China Standard Time) -->
 
 1. [6名大学生在企业参观学习时溺亡](https://www.zhihu.com/search?q=6%E5%90%8D%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9C%A8%E4%BC%81%E4%B8%9A%E5%8F%82%E8%A7%82%E5%AD%A6%E4%B9%A0%E6%97%B6%E6%BA%BA%E4%BA%A1)
 1. [6名大学生溺亡涉事矿企3人被抓](https://www.zhihu.com/search?q=6%E5%90%8D%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%BA%BA%E4%BA%A1%E6%B6%89%E4%BA%8B%E7%9F%BF%E4%BC%813%E4%BA%BA%E8%A2%AB%E6%8A%93)
 1. [汪苏泷张碧晨《年轮》原唱之争](https://www.zhihu.com/search?q=%E6%B1%AA%E8%8B%8F%E6%B3%B7%E5%BC%A0%E7%A2%A7%E6%99%A8%E3%80%8A%E5%B9%B4%E8%BD%AE%E3%80%8B%E5%8E%9F%E5%94%B1%E4%B9%8B%E4%BA%89)
-1. [间谍一般是怎么暴露的](https://www.zhihu.com/search?q=%E9%97%B4%E8%B0%8D%E4%B8%80%E8%88%AC%E6%98%AF%E6%80%8E%E4%B9%88%E6%9A%B4%E9%9C%B2%E7%9A%84)
+1. [拒绝 offer 被威胁业内封杀该怎么办](https://www.zhihu.com/search?q=%E6%8B%92%E7%BB%9D%20offer%20%E8%A2%AB%E5%A8%81%E8%83%81%E4%B8%9A%E5%86%85%E5%B0%81%E6%9D%80%E8%AF%A5%E6%80%8E%E4%B9%88%E5%8A%9E)
 1. [张碧晨方称享有年轮永久演唱权利](https://www.zhihu.com/search?q=%E5%BC%A0%E7%A2%A7%E6%99%A8%E6%96%B9%E7%A7%B0%E4%BA%AB%E6%9C%89%E5%B9%B4%E8%BD%AE%E6%B0%B8%E4%B9%85%E6%BC%94%E5%94%B1%E6%9D%83%E5%88%A9)
 1. [懂车帝封闭高速辅助驾驶测试](https://www.zhihu.com/search?q=%E6%87%82%E8%BD%A6%E5%B8%9D%E5%B0%81%E9%97%AD%E9%AB%98%E9%80%9F%E8%BE%85%E5%8A%A9%E9%A9%BE%E9%A9%B6%E6%B5%8B%E8%AF%95)
 1. [于正称没有再联系街拍女孩七七了](https://www.zhihu.com/search?q=%E4%BA%8E%E6%AD%A3%E7%A7%B0%E6%B2%A1%E6%9C%89%E5%86%8D%E8%81%94%E7%B3%BB%E8%A1%97%E6%8B%8D%E5%A5%B3%E5%AD%A9%E4%B8%83%E4%B8%83%E4%BA%86)
-1. [怎么理解「租房租赁条例」](https://www.zhihu.com/search?q=%E6%80%8E%E4%B9%88%E7%90%86%E8%A7%A3%E3%80%8C%E7%A7%9F%E6%88%BF%E7%A7%9F%E8%B5%81%E6%9D%A1%E4%BE%8B%E3%80%8D)
+1. [为何山上彻也刺杀案至今没有判决结果](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E5%B1%B1%E4%B8%8A%E5%BD%BB%E4%B9%9F%E5%88%BA%E6%9D%80%E6%A1%88%E8%87%B3%E4%BB%8A%E6%B2%A1%E6%9C%89%E5%88%A4%E5%86%B3%E7%BB%93%E6%9E%9C)
 1. [撞脸张柏芝女孩商场站台2小时8千元](https://www.zhihu.com/search?q=%E6%92%9E%E8%84%B8%E5%BC%A0%E6%9F%8F%E8%8A%9D%E5%A5%B3%E5%AD%A9%E5%95%86%E5%9C%BA%E7%AB%99%E5%8F%B02%E5%B0%8F%E6%97%B68%E5%8D%83%E5%85%83)
-1. [泰国与柬埔寨发生交火](https://www.zhihu.com/search?q=%E6%B3%B0%E5%9B%BD%E4%B8%8E%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%8F%91%E7%94%9F%E4%BA%A4%E7%81%AB)
-1. [男童拔乳牙身亡是哪些环节有问题](https://www.zhihu.com/search?q=%E7%94%B7%E7%AB%A5%E6%8B%94%E4%B9%B3%E7%89%99%E8%BA%AB%E4%BA%A1%E6%98%AF%E5%93%AA%E4%BA%9B%E7%8E%AF%E8%8A%82%E6%9C%89%E9%97%AE%E9%A2%98)
 1. [马斯克转发懂车帝测试](https://www.zhihu.com/search?q=%E9%A9%AC%E6%96%AF%E5%85%8B%E8%BD%AC%E5%8F%91%E6%87%82%E8%BD%A6%E5%B8%9D%E6%B5%8B%E8%AF%95)
+1. [美国众议院通过「天才法案」和「清晰法案」](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E4%BC%97%E8%AE%AE%E9%99%A2%E9%80%9A%E8%BF%87%E3%80%8C%E5%A4%A9%E6%89%8D%E6%B3%95%E6%A1%88%E3%80%8D%E5%92%8C%E3%80%8C%E6%B8%85%E6%99%B0%E6%B3%95%E6%A1%88%E3%80%8D)
+1. [泰国与柬埔寨发生交火](https://www.zhihu.com/search?q=%E6%B3%B0%E5%9B%BD%E4%B8%8E%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%8F%91%E7%94%9F%E4%BA%A4%E7%81%AB)
+1. [间谍一般是怎么暴露的](https://www.zhihu.com/search?q=%E9%97%B4%E8%B0%8D%E4%B8%80%E8%88%AC%E6%98%AF%E6%80%8E%E4%B9%88%E6%9A%B4%E9%9C%B2%E7%9A%84)
+1. [怎么理解「租房租赁条例」](https://www.zhihu.com/search?q=%E6%80%8E%E4%B9%88%E7%90%86%E8%A7%A3%E3%80%8C%E7%A7%9F%E6%88%BF%E7%A7%9F%E8%B5%81%E6%9D%A1%E4%BE%8B%E3%80%8D)
+1. [男童拔乳牙身亡是哪些环节有问题](https://www.zhihu.com/search?q=%E7%94%B7%E7%AB%A5%E6%8B%94%E4%B9%B3%E7%89%99%E8%BA%AB%E4%BA%A1%E6%98%AF%E5%93%AA%E4%BA%9B%E7%8E%AF%E8%8A%82%E6%9C%89%E9%97%AE%E9%A2%98)
 1. [美国将退出联合国教科文组织意味什么](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E5%B0%86%E9%80%80%E5%87%BA%E8%81%94%E5%90%88%E5%9B%BD%E6%95%99%E7%A7%91%E6%96%87%E7%BB%84%E7%BB%87%E6%84%8F%E5%91%B3%E4%BB%80%E4%B9%88)
 1. [为何多家俄罗斯商品馆一年就闭店](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E5%A4%9A%E5%AE%B6%E4%BF%84%E7%BD%97%E6%96%AF%E5%95%86%E5%93%81%E9%A6%86%E4%B8%80%E5%B9%B4%E5%B0%B1%E9%97%AD%E5%BA%97)
 1. [华东理工大学被指抄袭南昌大学录取通知书](https://www.zhihu.com/search?q=%E5%8D%8E%E4%B8%9C%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6%E8%A2%AB%E6%8C%87%E6%8A%84%E8%A2%AD%E5%8D%97%E6%98%8C%E5%A4%A7%E5%AD%A6%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6)
@@ -36,7 +39,6 @@
 1. [樊振东 3-0 林诗栋](https://www.zhihu.com/search?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%203-0%20%E6%9E%97%E8%AF%97%E6%A0%8B)
 1. [为什么明知领导能力不行但还被提拔](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%98%8E%E7%9F%A5%E9%A2%86%E5%AF%BC%E8%83%BD%E5%8A%9B%E4%B8%8D%E8%A1%8C%E4%BD%86%E8%BF%98%E8%A2%AB%E6%8F%90%E6%8B%94)
 1. [如何看待堂主 lee 成功挑战埼玉训练法](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%A0%82%E4%B8%BB%20lee%20%E6%88%90%E5%8A%9F%E6%8C%91%E6%88%98%E5%9F%BC%E7%8E%89%E8%AE%AD%E7%BB%83%E6%B3%95)
-1. [拒绝 offer 被威胁业内封杀该怎么办](https://www.zhihu.com/search?q=%E6%8B%92%E7%BB%9D%20offer%20%E8%A2%AB%E5%A8%81%E8%83%81%E4%B8%9A%E5%86%85%E5%B0%81%E6%9D%80%E8%AF%A5%E6%80%8E%E4%B9%88%E5%8A%9E)
 1. [张碧晨不会再唱年轮](https://www.zhihu.com/search?q=%E5%BC%A0%E7%A2%A7%E6%99%A8%E4%B8%8D%E4%BC%9A%E5%86%8D%E5%94%B1%E5%B9%B4%E8%BD%AE)
 1. [国务院部署逐步推行免费学前教育](https://www.zhihu.com/search?q=%E5%9B%BD%E5%8A%A1%E9%99%A2%E9%83%A8%E7%BD%B2%E9%80%90%E6%AD%A5%E6%8E%A8%E8%A1%8C%E5%85%8D%E8%B4%B9%E5%AD%A6%E5%89%8D%E6%95%99%E8%82%B2)
 
