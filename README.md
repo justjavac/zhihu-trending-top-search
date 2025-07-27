@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jul 28 2025 05:20:46 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jul 28 2025 06:21:38 GMT+0800 (China Standard Time) -->
 
 1. [警方辟谣释永信携带34人潜逃](https://www.zhihu.com/search?q=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E9%87%8A%E6%B0%B8%E4%BF%A1%E6%90%BA%E5%B8%A634%E4%BA%BA%E6%BD%9C%E9%80%83)
 1. [释永信涉嫌刑事犯罪](https://www.zhihu.com/search?q=%E9%87%8A%E6%B0%B8%E4%BF%A1%E6%B6%89%E5%AB%8C%E5%88%91%E4%BA%8B%E7%8A%AF%E7%BD%AA)
@@ -27,6 +27,7 @@
 1. [李小龙死因或系癫痫](https://www.zhihu.com/search?q=%E6%9D%8E%E5%B0%8F%E9%BE%99%E6%AD%BB%E5%9B%A0%E6%88%96%E7%B3%BB%E7%99%AB%E7%97%AB)
 1. [张碧晨方称享有年轮永久演唱权利](https://www.zhihu.com/search?q=%E5%BC%A0%E7%A2%A7%E6%99%A8%E6%96%B9%E7%A7%B0%E4%BA%AB%E6%9C%89%E5%B9%B4%E8%BD%AE%E6%B0%B8%E4%B9%85%E6%BC%94%E5%94%B1%E6%9D%83%E5%88%A9)
 1. [马斯克转发懂车帝测试](https://www.zhihu.com/search?q=%E9%A9%AC%E6%96%AF%E5%85%8B%E8%BD%AC%E5%8F%91%E6%87%82%E8%BD%A6%E5%B8%9D%E6%B5%8B%E8%AF%95)
+1. [小米第三款车谍照曝光](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%E7%AC%AC%E4%B8%89%E6%AC%BE%E8%BD%A6%E8%B0%8D%E7%85%A7%E6%9B%9D%E5%85%89)
 1. [张碧晨不会再唱年轮](https://www.zhihu.com/search?q=%E5%BC%A0%E7%A2%A7%E6%99%A8%E4%B8%8D%E4%BC%9A%E5%86%8D%E5%94%B1%E5%B9%B4%E8%BD%AE)
 1. [北大将全面取消绩点](https://www.zhihu.com/search?q=%E5%8C%97%E5%A4%A7%E5%B0%86%E5%85%A8%E9%9D%A2%E5%8F%96%E6%B6%88%E7%BB%A9%E7%82%B9)
 1. [释永信与多名女性保持不正当关系](https://www.zhihu.com/search?q=%E9%87%8A%E6%B0%B8%E4%BF%A1%E4%B8%8E%E5%A4%9A%E5%90%8D%E5%A5%B3%E6%80%A7%E4%BF%9D%E6%8C%81%E4%B8%8D%E6%AD%A3%E5%BD%93%E5%85%B3%E7%B3%BB)
