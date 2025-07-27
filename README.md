@@ -14,20 +14,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jul 27 2025 15:21:03 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jul 27 2025 16:28:13 GMT+0800 (China Standard Time) -->
 
 1. [警方辟谣释永信携带34人潜逃](https://www.zhihu.com/search?q=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E9%87%8A%E6%B0%B8%E4%BF%A1%E6%90%BA%E5%B8%A634%E4%BA%BA%E6%BD%9C%E9%80%83)
 1. [北大将全面取消绩点](https://www.zhihu.com/search?q=%E5%8C%97%E5%A4%A7%E5%B0%86%E5%85%A8%E9%9D%A2%E5%8F%96%E6%B6%88%E7%BB%A9%E7%82%B9)
 1. [武大图书馆事件不认定性骚扰](https://www.zhihu.com/search?q=%E6%AD%A6%E5%A4%A7%E5%9B%BE%E4%B9%A6%E9%A6%86%E4%BA%8B%E4%BB%B6%E4%B8%8D%E8%AE%A4%E5%AE%9A%E6%80%A7%E9%AA%9A%E6%89%B0)
 1. [李小龙死因或系癫痫](https://www.zhihu.com/search?q=%E6%9D%8E%E5%B0%8F%E9%BE%99%E6%AD%BB%E5%9B%A0%E6%88%96%E7%B3%BB%E7%99%AB%E7%97%AB)
-1. [6名大学生溺亡涉事矿企3人被抓](https://www.zhihu.com/search?q=6%E5%90%8D%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%BA%BA%E4%BA%A1%E6%B6%89%E4%BA%8B%E7%9F%BF%E4%BC%813%E4%BA%BA%E8%A2%AB%E6%8A%93)
 1. [汪苏泷张碧晨《年轮》原唱之争](https://www.zhihu.com/search?q=%E6%B1%AA%E8%8B%8F%E6%B3%B7%E5%BC%A0%E7%A2%A7%E6%99%A8%E3%80%8A%E5%B9%B4%E8%BD%AE%E3%80%8B%E5%8E%9F%E5%94%B1%E4%B9%8B%E4%BA%89)
 1. [懂车帝封闭高速辅助驾驶测试](https://www.zhihu.com/search?q=%E6%87%82%E8%BD%A6%E5%B8%9D%E5%B0%81%E9%97%AD%E9%AB%98%E9%80%9F%E8%BE%85%E5%8A%A9%E9%A9%BE%E9%A9%B6%E6%B5%8B%E8%AF%95)
 1. [泰国与柬埔寨发生交火](https://www.zhihu.com/search?q=%E6%B3%B0%E5%9B%BD%E4%B8%8E%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%8F%91%E7%94%9F%E4%BA%A4%E7%81%AB)
 1. [台湾大罢免投票](https://www.zhihu.com/search?q=%E5%8F%B0%E6%B9%BE%E5%A4%A7%E7%BD%A2%E5%85%8D%E6%8A%95%E7%A5%A8)
-1. [6名大学生在企业参观学习时溺亡](https://www.zhihu.com/search?q=6%E5%90%8D%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9C%A8%E4%BC%81%E4%B8%9A%E5%8F%82%E8%A7%82%E5%AD%A6%E4%B9%A0%E6%97%B6%E6%BA%BA%E4%BA%A1)
+1. [网传释永信被带走调查](https://www.zhihu.com/search?q=%E7%BD%91%E4%BC%A0%E9%87%8A%E6%B0%B8%E4%BF%A1%E8%A2%AB%E5%B8%A6%E8%B5%B0%E8%B0%83%E6%9F%A5)
 1. [马斯克转发懂车帝测试](https://www.zhihu.com/search?q=%E9%A9%AC%E6%96%AF%E5%85%8B%E8%BD%AC%E5%8F%91%E6%87%82%E8%BD%A6%E5%B8%9D%E6%B5%8B%E8%AF%95)
 1. [张碧晨方称享有年轮永久演唱权利](https://www.zhihu.com/search?q=%E5%BC%A0%E7%A2%A7%E6%99%A8%E6%96%B9%E7%A7%B0%E4%BA%AB%E6%9C%89%E5%B9%B4%E8%BD%AE%E6%B0%B8%E4%B9%85%E6%BC%94%E5%94%B1%E6%9D%83%E5%88%A9)
+1. [张碧晨不会再唱年轮](https://www.zhihu.com/search?q=%E5%BC%A0%E7%A2%A7%E6%99%A8%E4%B8%8D%E4%BC%9A%E5%86%8D%E5%94%B1%E5%B9%B4%E8%BD%AE)
+1. [6名大学生溺亡涉事矿企3人被抓](https://www.zhihu.com/search?q=6%E5%90%8D%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%BA%BA%E4%BA%A1%E6%B6%89%E4%BA%8B%E7%9F%BF%E4%BC%813%E4%BA%BA%E8%A2%AB%E6%8A%93)
+1. [6名大学生在企业参观学习时溺亡](https://www.zhihu.com/search?q=6%E5%90%8D%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9C%A8%E4%BC%81%E4%B8%9A%E5%8F%82%E8%A7%82%E5%AD%A6%E4%B9%A0%E6%97%B6%E6%BA%BA%E4%BA%A1)
 1. [美日达成贸易协议关税税率为 15%](https://www.zhihu.com/search?q=%E7%BE%8E%E6%97%A5%E8%BE%BE%E6%88%90%E8%B4%B8%E6%98%93%E5%8D%8F%E8%AE%AE%E5%85%B3%E7%A8%8E%E7%A8%8E%E7%8E%87%E4%B8%BA%2015%25)
 1. [你认为最好的十款单机游戏是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E8%AE%A4%E4%B8%BA%E6%9C%80%E5%A5%BD%E7%9A%84%E5%8D%81%E6%AC%BE%E5%8D%95%E6%9C%BA%E6%B8%B8%E6%88%8F%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [如何看待堂主 lee 成功挑战埼玉训练法](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%A0%82%E4%B8%BB%20lee%20%E6%88%90%E5%8A%9F%E6%8C%91%E6%88%98%E5%9F%BC%E7%8E%89%E8%AE%AD%E7%BB%83%E6%B3%95)
