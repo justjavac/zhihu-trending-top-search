@@ -14,25 +14,25 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jul 28 2025 20:51:12 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jul 28 2025 21:41:01 GMT+0800 (China Standard Time) -->
 
 1. [国家育儿补贴方案公布](https://www.zhihu.com/search?q=%E5%9B%BD%E5%AE%B6%E8%82%B2%E5%84%BF%E8%A1%A5%E8%B4%B4%E6%96%B9%E6%A1%88%E5%85%AC%E5%B8%83)
 1. [3岁前每娃每年3600元](https://www.zhihu.com/search?q=3%E5%B2%81%E5%89%8D%E6%AF%8F%E5%A8%83%E6%AF%8F%E5%B9%B43600%E5%85%83)
 1. [警方辟谣释永信携带34人潜逃](https://www.zhihu.com/search?q=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E9%87%8A%E6%B0%B8%E4%BF%A1%E6%90%BA%E5%B8%A634%E4%BA%BA%E6%BD%9C%E9%80%83)
 1. [释永信涉嫌刑事犯罪](https://www.zhihu.com/search?q=%E9%87%8A%E6%B0%B8%E4%BF%A1%E6%B6%89%E5%AB%8C%E5%88%91%E4%BA%8B%E7%8A%AF%E7%BD%AA)
 1. [武大图书馆事件不认定性骚扰](https://www.zhihu.com/search?q=%E6%AD%A6%E5%A4%A7%E5%9B%BE%E4%B9%A6%E9%A6%86%E4%BA%8B%E4%BB%B6%E4%B8%8D%E8%AE%A4%E5%AE%9A%E6%80%A7%E9%AA%9A%E6%89%B0)
-1. [武大图书馆事件宣判不能认定性骚扰](https://www.zhihu.com/search?q=%E6%AD%A6%E5%A4%A7%E5%9B%BE%E4%B9%A6%E9%A6%86%E4%BA%8B%E4%BB%B6%E5%AE%A3%E5%88%A4%E4%B8%8D%E8%83%BD%E8%AE%A4%E5%AE%9A%E6%80%A7%E9%AA%9A%E6%89%B0)
-1. [少林寺主持释永信被查](https://www.zhihu.com/search?q=%E5%B0%91%E6%9E%97%E5%AF%BA%E4%B8%BB%E6%8C%81%E9%87%8A%E6%B0%B8%E4%BF%A1%E8%A2%AB%E6%9F%A5)
-1. [北大将全面取消绩点](https://www.zhihu.com/search?q=%E5%8C%97%E5%A4%A7%E5%B0%86%E5%85%A8%E9%9D%A2%E5%8F%96%E6%B6%88%E7%BB%A9%E7%82%B9)
-1. [张碧晨方称享有年轮永久演唱权利](https://www.zhihu.com/search?q=%E5%BC%A0%E7%A2%A7%E6%99%A8%E6%96%B9%E7%A7%B0%E4%BA%AB%E6%9C%89%E5%B9%B4%E8%BD%AE%E6%B0%B8%E4%B9%85%E6%BC%94%E5%94%B1%E6%9D%83%E5%88%A9)
 1. [为何中国文字两千年来都保持汉字不变](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E4%B8%AD%E5%9B%BD%E6%96%87%E5%AD%97%E4%B8%A4%E5%8D%83%E5%B9%B4%E6%9D%A5%E9%83%BD%E4%BF%9D%E6%8C%81%E6%B1%89%E5%AD%97%E4%B8%8D%E5%8F%98)
+1. [少林寺主持释永信被查](https://www.zhihu.com/search?q=%E5%B0%91%E6%9E%97%E5%AF%BA%E4%B8%BB%E6%8C%81%E9%87%8A%E6%B0%B8%E4%BF%A1%E8%A2%AB%E6%9F%A5)
+1. [张碧晨方称享有年轮永久演唱权利](https://www.zhihu.com/search?q=%E5%BC%A0%E7%A2%A7%E6%99%A8%E6%96%B9%E7%A7%B0%E4%BA%AB%E6%9C%89%E5%B9%B4%E8%BD%AE%E6%B0%B8%E4%B9%85%E6%BC%94%E5%94%B1%E6%9D%83%E5%88%A9)
+1. [北大将全面取消绩点](https://www.zhihu.com/search?q=%E5%8C%97%E5%A4%A7%E5%B0%86%E5%85%A8%E9%9D%A2%E5%8F%96%E6%B6%88%E7%BB%A9%E7%82%B9)
+1. [特朗普造访美联储施压降息](https://www.zhihu.com/search?q=%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%A0%E8%AE%BF%E7%BE%8E%E8%81%94%E5%82%A8%E6%96%BD%E5%8E%8B%E9%99%8D%E6%81%AF)
 1. [佛教协会：对释永信戒牒予以注销](https://www.zhihu.com/search?q=%E4%BD%9B%E6%95%99%E5%8D%8F%E4%BC%9A%EF%BC%9A%E5%AF%B9%E9%87%8A%E6%B0%B8%E4%BF%A1%E6%88%92%E7%89%92%E4%BA%88%E4%BB%A5%E6%B3%A8%E9%94%80)
+1. [懂车帝封闭高速辅助驾驶测试](https://www.zhihu.com/search?q=%E6%87%82%E8%BD%A6%E5%B8%9D%E5%B0%81%E9%97%AD%E9%AB%98%E9%80%9F%E8%BE%85%E5%8A%A9%E9%A9%BE%E9%A9%B6%E6%B5%8B%E8%AF%95)
+1. [武大图书馆事件宣判不能认定性骚扰](https://www.zhihu.com/search?q=%E6%AD%A6%E5%A4%A7%E5%9B%BE%E4%B9%A6%E9%A6%86%E4%BA%8B%E4%BB%B6%E5%AE%A3%E5%88%A4%E4%B8%8D%E8%83%BD%E8%AE%A4%E5%AE%9A%E6%80%A7%E9%AA%9A%E6%89%B0)
 1. [旺仔小乔道歉信](https://www.zhihu.com/search?q=%E6%97%BA%E4%BB%94%E5%B0%8F%E4%B9%94%E9%81%93%E6%AD%89%E4%BF%A1)
 1. [北京市发布暴雨红色预警](https://www.zhihu.com/search?q=%E5%8C%97%E4%BA%AC%E5%B8%82%E5%8F%91%E5%B8%83%E6%9A%B4%E9%9B%A8%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6)
 1. [图瓦卢成全球首个计划「全体移民」国家](https://www.zhihu.com/search?q=%E5%9B%BE%E7%93%A6%E5%8D%A2%E6%88%90%E5%85%A8%E7%90%83%E9%A6%96%E4%B8%AA%E8%AE%A1%E5%88%92%E3%80%8C%E5%85%A8%E4%BD%93%E7%A7%BB%E6%B0%91%E3%80%8D%E5%9B%BD%E5%AE%B6)
 1. [如何看待威海乳山海景房「1 元起拍」](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%A8%81%E6%B5%B7%E4%B9%B3%E5%B1%B1%E6%B5%B7%E6%99%AF%E6%88%BF%E3%80%8C1%20%E5%85%83%E8%B5%B7%E6%8B%8D%E3%80%8D)
-1. [懂车帝封闭高速辅助驾驶测试](https://www.zhihu.com/search?q=%E6%87%82%E8%BD%A6%E5%B8%9D%E5%B0%81%E9%97%AD%E9%AB%98%E9%80%9F%E8%BE%85%E5%8A%A9%E9%A9%BE%E9%A9%B6%E6%B5%8B%E8%AF%95)
-1. [特朗普造访美联储施压降息](https://www.zhihu.com/search?q=%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%A0%E8%AE%BF%E7%BE%8E%E8%81%94%E5%82%A8%E6%96%BD%E5%8E%8B%E9%99%8D%E6%81%AF)
 1. [延长研究生学制有必要吗](https://www.zhihu.com/search?q=%E5%BB%B6%E9%95%BF%E7%A0%94%E7%A9%B6%E7%94%9F%E5%AD%A6%E5%88%B6%E6%9C%89%E5%BF%85%E8%A6%81%E5%90%97)
 1. [女生未接挪车电话车子被砸](https://www.zhihu.com/search?q=%E5%A5%B3%E7%94%9F%E6%9C%AA%E6%8E%A5%E6%8C%AA%E8%BD%A6%E7%94%B5%E8%AF%9D%E8%BD%A6%E5%AD%90%E8%A2%AB%E7%A0%B8)
 1. [汪苏泷张碧晨《年轮》原唱之争](https://www.zhihu.com/search?q=%E6%B1%AA%E8%8B%8F%E6%B3%B7%E5%BC%A0%E7%A2%A7%E6%99%A8%E3%80%8A%E5%B9%B4%E8%BD%AE%E3%80%8B%E5%8E%9F%E5%94%B1%E4%B9%8B%E4%BA%89)
