@@ -14,22 +14,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jul 28 2025 07:22:29 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jul 28 2025 10:04:27 GMT+0800 (China Standard Time) -->
 
 1. [警方辟谣释永信携带34人潜逃](https://www.zhihu.com/search?q=%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E9%87%8A%E6%B0%B8%E4%BF%A1%E6%90%BA%E5%B8%A634%E4%BA%BA%E6%BD%9C%E9%80%83)
 1. [释永信涉嫌刑事犯罪](https://www.zhihu.com/search?q=%E9%87%8A%E6%B0%B8%E4%BF%A1%E6%B6%89%E5%AB%8C%E5%88%91%E4%BA%8B%E7%8A%AF%E7%BD%AA)
 1. [武大图书馆事件不认定性骚扰](https://www.zhihu.com/search?q=%E6%AD%A6%E5%A4%A7%E5%9B%BE%E4%B9%A6%E9%A6%86%E4%BA%8B%E4%BB%B6%E4%B8%8D%E8%AE%A4%E5%AE%9A%E6%80%A7%E9%AA%9A%E6%89%B0)
-1. [网传释永信被带走调查](https://www.zhihu.com/search?q=%E7%BD%91%E4%BC%A0%E9%87%8A%E6%B0%B8%E4%BF%A1%E8%A2%AB%E5%B8%A6%E8%B5%B0%E8%B0%83%E6%9F%A5)
-1. [汪苏泷张碧晨《年轮》原唱之争](https://www.zhihu.com/search?q=%E6%B1%AA%E8%8B%8F%E6%B3%B7%E5%BC%A0%E7%A2%A7%E6%99%A8%E3%80%8A%E5%B9%B4%E8%BD%AE%E3%80%8B%E5%8E%9F%E5%94%B1%E4%B9%8B%E4%BA%89)
-1. [懂车帝封闭高速辅助驾驶测试](https://www.zhihu.com/search?q=%E6%87%82%E8%BD%A6%E5%B8%9D%E5%B0%81%E9%97%AD%E9%AB%98%E9%80%9F%E8%BE%85%E5%8A%A9%E9%A9%BE%E9%A9%B6%E6%B5%8B%E8%AF%95)
-1. [少林寺主持释永信被查](https://www.zhihu.com/search?q=%E5%B0%91%E6%9E%97%E5%AF%BA%E4%B8%BB%E6%8C%81%E9%87%8A%E6%B0%B8%E4%BF%A1%E8%A2%AB%E6%9F%A5)
-1. [泰国与柬埔寨发生交火](https://www.zhihu.com/search?q=%E6%B3%B0%E5%9B%BD%E4%B8%8E%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%8F%91%E7%94%9F%E4%BA%A4%E7%81%AB)
-1. [李小龙死因或系癫痫](https://www.zhihu.com/search?q=%E6%9D%8E%E5%B0%8F%E9%BE%99%E6%AD%BB%E5%9B%A0%E6%88%96%E7%B3%BB%E7%99%AB%E7%97%AB)
-1. [张碧晨方称享有年轮永久演唱权利](https://www.zhihu.com/search?q=%E5%BC%A0%E7%A2%A7%E6%99%A8%E6%96%B9%E7%A7%B0%E4%BA%AB%E6%9C%89%E5%B9%B4%E8%BD%AE%E6%B0%B8%E4%B9%85%E6%BC%94%E5%94%B1%E6%9D%83%E5%88%A9)
-1. [马斯克转发懂车帝测试](https://www.zhihu.com/search?q=%E9%A9%AC%E6%96%AF%E5%85%8B%E8%BD%AC%E5%8F%91%E6%87%82%E8%BD%A6%E5%B8%9D%E6%B5%8B%E8%AF%95)
-1. [小米第三款车谍照曝光](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%E7%AC%AC%E4%B8%89%E6%AC%BE%E8%BD%A6%E8%B0%8D%E7%85%A7%E6%9B%9D%E5%85%89)
-1. [张碧晨不会再唱年轮](https://www.zhihu.com/search?q=%E5%BC%A0%E7%A2%A7%E6%99%A8%E4%B8%8D%E4%BC%9A%E5%86%8D%E5%94%B1%E5%B9%B4%E8%BD%AE)
 1. [北大将全面取消绩点](https://www.zhihu.com/search?q=%E5%8C%97%E5%A4%A7%E5%B0%86%E5%85%A8%E9%9D%A2%E5%8F%96%E6%B6%88%E7%BB%A9%E7%82%B9)
+1. [少林寺主持释永信被查](https://www.zhihu.com/search?q=%E5%B0%91%E6%9E%97%E5%AF%BA%E4%B8%BB%E6%8C%81%E9%87%8A%E6%B0%B8%E4%BF%A1%E8%A2%AB%E6%9F%A5)
+1. [网传释永信被带走调查](https://www.zhihu.com/search?q=%E7%BD%91%E4%BC%A0%E9%87%8A%E6%B0%B8%E4%BF%A1%E8%A2%AB%E5%B8%A6%E8%B5%B0%E8%B0%83%E6%9F%A5)
+1. [懂车帝封闭高速辅助驾驶测试](https://www.zhihu.com/search?q=%E6%87%82%E8%BD%A6%E5%B8%9D%E5%B0%81%E9%97%AD%E9%AB%98%E9%80%9F%E8%BE%85%E5%8A%A9%E9%A9%BE%E9%A9%B6%E6%B5%8B%E8%AF%95)
+1. [汪苏泷张碧晨《年轮》原唱之争](https://www.zhihu.com/search?q=%E6%B1%AA%E8%8B%8F%E6%B3%B7%E5%BC%A0%E7%A2%A7%E6%99%A8%E3%80%8A%E5%B9%B4%E8%BD%AE%E3%80%8B%E5%8E%9F%E5%94%B1%E4%B9%8B%E4%BA%89)
+1. [泰国与柬埔寨发生交火](https://www.zhihu.com/search?q=%E6%B3%B0%E5%9B%BD%E4%B8%8E%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%8F%91%E7%94%9F%E4%BA%A4%E7%81%AB)
+1. [张碧晨方称享有年轮永久演唱权利](https://www.zhihu.com/search?q=%E5%BC%A0%E7%A2%A7%E6%99%A8%E6%96%B9%E7%A7%B0%E4%BA%AB%E6%9C%89%E5%B9%B4%E8%BD%AE%E6%B0%B8%E4%B9%85%E6%BC%94%E5%94%B1%E6%9D%83%E5%88%A9)
+1. [李小龙死因或系癫痫](https://www.zhihu.com/search?q=%E6%9D%8E%E5%B0%8F%E9%BE%99%E6%AD%BB%E5%9B%A0%E6%88%96%E7%B3%BB%E7%99%AB%E7%97%AB)
+1. [小米第三款车谍照曝光](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%E7%AC%AC%E4%B8%89%E6%AC%BE%E8%BD%A6%E8%B0%8D%E7%85%A7%E6%9B%9D%E5%85%89)
+1. [马斯克转发懂车帝测试](https://www.zhihu.com/search?q=%E9%A9%AC%E6%96%AF%E5%85%8B%E8%BD%AC%E5%8F%91%E6%87%82%E8%BD%A6%E5%B8%9D%E6%B5%8B%E8%AF%95)
+1. [张碧晨不会再唱年轮](https://www.zhihu.com/search?q=%E5%BC%A0%E7%A2%A7%E6%99%A8%E4%B8%8D%E4%BC%9A%E5%86%8D%E5%94%B1%E5%B9%B4%E8%BD%AE)
 1. [释永信与多名女性保持不正当关系](https://www.zhihu.com/search?q=%E9%87%8A%E6%B0%B8%E4%BF%A1%E4%B8%8E%E5%A4%9A%E5%90%8D%E5%A5%B3%E6%80%A7%E4%BF%9D%E6%8C%81%E4%B8%8D%E6%AD%A3%E5%BD%93%E5%85%B3%E7%B3%BB)
 
 <!-- END -->
