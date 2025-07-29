@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jul 29 2025 20:51:29 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jul 29 2025 21:42:11 GMT+0800 (China Standard Time) -->
 
 1. [国家育儿补贴方案公布](https://www.zhihu.com/search?q=%E5%9B%BD%E5%AE%B6%E8%82%B2%E5%84%BF%E8%A1%A5%E8%B4%B4%E6%96%B9%E6%A1%88%E5%85%AC%E5%B8%83)
 1. [3岁前每娃每年3600元](https://www.zhihu.com/search?q=3%E5%B2%81%E5%89%8D%E6%AF%8F%E5%A8%83%E6%AF%8F%E5%B9%B43600%E5%85%83)
@@ -26,8 +26,8 @@
 1. [释永信涉嫌刑事犯罪](https://www.zhihu.com/search?q=%E9%87%8A%E6%B0%B8%E4%BF%A1%E6%B6%89%E5%AB%8C%E5%88%91%E4%BA%8B%E7%8A%AF%E7%BD%AA)
 1. [有没有可以笑一整天的笑话](https://www.zhihu.com/search?q=%E6%9C%89%E6%B2%A1%E6%9C%89%E5%8F%AF%E4%BB%A5%E7%AC%91%E4%B8%80%E6%95%B4%E5%A4%A9%E7%9A%84%E7%AC%91%E8%AF%9D)
 1. [医院称朱雀玄武敕令多次扬言自杀](https://www.zhihu.com/search?q=%E5%8C%BB%E9%99%A2%E7%A7%B0%E6%9C%B1%E9%9B%80%E7%8E%84%E6%AD%A6%E6%95%95%E4%BB%A4%E5%A4%9A%E6%AC%A1%E6%89%AC%E8%A8%80%E8%87%AA%E6%9D%80)
-1. [佛教协会：对释永信戒牒予以注销](https://www.zhihu.com/search?q=%E4%BD%9B%E6%95%99%E5%8D%8F%E4%BC%9A%EF%BC%9A%E5%AF%B9%E9%87%8A%E6%B0%B8%E4%BF%A1%E6%88%92%E7%89%92%E4%BA%88%E4%BB%A5%E6%B3%A8%E9%94%80)
 1. [网传居然之家汪林朋跳楼身亡](https://www.zhihu.com/search?q=%E7%BD%91%E4%BC%A0%E5%B1%85%E7%84%B6%E4%B9%8B%E5%AE%B6%E6%B1%AA%E6%9E%97%E6%9C%8B%E8%B7%B3%E6%A5%BC%E8%BA%AB%E4%BA%A1)
+1. [佛教协会：对释永信戒牒予以注销](https://www.zhihu.com/search?q=%E4%BD%9B%E6%95%99%E5%8D%8F%E4%BC%9A%EF%BC%9A%E5%AF%B9%E9%87%8A%E6%B0%B8%E4%BF%A1%E6%88%92%E7%89%92%E4%BA%88%E4%BB%A5%E6%B3%A8%E9%94%80)
 1. [翠萍为什么不会被人怀疑是卧底](https://www.zhihu.com/search?q=%E7%BF%A0%E8%90%8D%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E4%BC%9A%E8%A2%AB%E4%BA%BA%E6%80%80%E7%96%91%E6%98%AF%E5%8D%A7%E5%BA%95)
 1. [最高法支持烂尾楼业主退房退款](https://www.zhihu.com/search?q=%E6%9C%80%E9%AB%98%E6%B3%95%E6%94%AF%E6%8C%81%E7%83%82%E5%B0%BE%E6%A5%BC%E4%B8%9A%E4%B8%BB%E9%80%80%E6%88%BF%E9%80%80%E6%AC%BE)
 1. [数学是从什么时候开始反直觉的](https://www.zhihu.com/search?q=%E6%95%B0%E5%AD%A6%E6%98%AF%E4%BB%8E%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E5%BC%80%E5%A7%8B%E5%8F%8D%E7%9B%B4%E8%A7%89%E7%9A%84)
