@@ -14,20 +14,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Aug 01 2025 19:20:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Aug 01 2025 20:50:25 GMT+0800 (China Standard Time) -->
 
-1. [宗馥莉败诉](https://www.zhihu.com/search?q=%E5%AE%97%E9%A6%A5%E8%8E%89%E8%B4%A5%E8%AF%89)
-1. [武大将调查复核杨某某学位论文](https://www.zhihu.com/search?q=%E6%AD%A6%E5%A4%A7%E5%B0%86%E8%B0%83%E6%9F%A5%E5%A4%8D%E6%A0%B8%E6%9D%A8%E6%9F%90%E6%9F%90%E5%AD%A6%E4%BD%8D%E8%AE%BA%E6%96%87)
+1. [武汉大学复核对肖某某纪律处分](https://www.zhihu.com/search?q=%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6%E5%A4%8D%E6%A0%B8%E5%AF%B9%E8%82%96%E6%9F%90%E6%9F%90%E7%BA%AA%E5%BE%8B%E5%A4%84%E5%88%86)
+1. [香港高院对宗家信托案宣布决定](https://www.zhihu.com/search?q=%E9%A6%99%E6%B8%AF%E9%AB%98%E9%99%A2%E5%AF%B9%E5%AE%97%E5%AE%B6%E4%BF%A1%E6%89%98%E6%A1%88%E5%AE%A3%E5%B8%83%E5%86%B3%E5%AE%9A)
 1. [李明德被判有期徒刑六个月](https://www.zhihu.com/search?q=%E6%9D%8E%E6%98%8E%E5%BE%B7%E8%A2%AB%E5%88%A4%E6%9C%89%E6%9C%9F%E5%BE%92%E5%88%91%E5%85%AD%E4%B8%AA%E6%9C%88)
 1. [东风柳汽回应理想对撞卡车测试](https://www.zhihu.com/search?q=%E4%B8%9C%E9%A3%8E%E6%9F%B3%E6%B1%BD%E5%9B%9E%E5%BA%94%E7%90%86%E6%83%B3%E5%AF%B9%E6%92%9E%E5%8D%A1%E8%BD%A6%E6%B5%8B%E8%AF%95)
-1. [香港高院对宗家信托案宣布决定](https://www.zhihu.com/search?q=%E9%A6%99%E6%B8%AF%E9%AB%98%E9%99%A2%E5%AF%B9%E5%AE%97%E5%AE%B6%E4%BF%A1%E6%89%98%E6%A1%88%E5%AE%A3%E5%B8%83%E5%86%B3%E5%AE%9A)
-1. [武汉大学复核对肖某某纪律处分](https://www.zhihu.com/search?q=%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6%E5%A4%8D%E6%A0%B8%E5%AF%B9%E8%82%96%E6%9F%90%E6%9F%90%E7%BA%AA%E5%BE%8B%E5%A4%84%E5%88%86)
+1. [武大将调查复核杨某某学位论文](https://www.zhihu.com/search?q=%E6%AD%A6%E5%A4%A7%E5%B0%86%E8%B0%83%E6%9F%A5%E5%A4%8D%E6%A0%B8%E6%9D%A8%E6%9F%90%E6%9F%90%E5%AD%A6%E4%BD%8D%E8%AE%BA%E6%96%87)
+1. [宗馥莉败诉](https://www.zhihu.com/search?q=%E5%AE%97%E9%A6%A5%E8%8E%89%E8%B4%A5%E8%AF%89)
 1. [傅园慧回应蛙泳教学争议](https://www.zhihu.com/search?q=%E5%82%85%E5%9B%AD%E6%85%A7%E5%9B%9E%E5%BA%94%E8%9B%99%E6%B3%B3%E6%95%99%E5%AD%A6%E4%BA%89%E8%AE%AE)
+1. [哀牢山发现7株冥界之花](https://www.zhihu.com/search?q=%E5%93%80%E7%89%A2%E5%B1%B1%E5%8F%91%E7%8E%B07%E6%A0%AA%E5%86%A5%E7%95%8C%E4%B9%8B%E8%8A%B1)
 1. [武大杨景媛毕业论文被疑用AIGC完成](https://www.zhihu.com/search?q=%E6%AD%A6%E5%A4%A7%E6%9D%A8%E6%99%AF%E5%AA%9B%E6%AF%95%E4%B8%9A%E8%AE%BA%E6%96%87%E8%A2%AB%E7%96%91%E7%94%A8AIGC%E5%AE%8C%E6%88%90)
 1. [武大图书馆事件不认定性骚扰](https://www.zhihu.com/search?q=%E6%AD%A6%E5%A4%A7%E5%9B%BE%E4%B9%A6%E9%A6%86%E4%BA%8B%E4%BB%B6%E4%B8%8D%E8%AE%A4%E5%AE%9A%E6%80%A7%E9%AA%9A%E6%89%B0)
-1. [哀牢山发现7株冥界之花](https://www.zhihu.com/search?q=%E5%93%80%E7%89%A2%E5%B1%B1%E5%8F%91%E7%8E%B07%E6%A0%AA%E5%86%A5%E7%95%8C%E4%B9%8B%E8%8A%B1)
-1. [黄金加热到 1.9 万度还是固体](https://www.zhihu.com/search?q=%E9%BB%84%E9%87%91%E5%8A%A0%E7%83%AD%E5%88%B0%201.9%20%E4%B8%87%E5%BA%A6%E8%BF%98%E6%98%AF%E5%9B%BA%E4%BD%93)
+1. [NBA 连续七年无球队卫冕](https://www.zhihu.com/search?q=NBA%20%E8%BF%9E%E7%BB%AD%E4%B8%83%E5%B9%B4%E6%97%A0%E7%90%83%E9%98%9F%E5%8D%AB%E5%86%95)
 1. [答主发杨景媛论文造假视频被上门警告](https://www.zhihu.com/search?q=%E7%AD%94%E4%B8%BB%E5%8F%91%E6%9D%A8%E6%99%AF%E5%AA%9B%E8%AE%BA%E6%96%87%E9%80%A0%E5%81%87%E8%A7%86%E9%A2%91%E8%A2%AB%E4%B8%8A%E9%97%A8%E8%AD%A6%E5%91%8A)
+1. [黄金加热到 1.9 万度还是固体](https://www.zhihu.com/search?q=%E9%BB%84%E9%87%91%E5%8A%A0%E7%83%AD%E5%88%B0%201.9%20%E4%B8%87%E5%BA%A6%E8%BF%98%E6%98%AF%E5%9B%BA%E4%BD%93)
 1. [有什么地狱级的笑话](https://www.zhihu.com/search?q=%E6%9C%89%E4%BB%80%E4%B9%88%E5%9C%B0%E7%8B%B1%E7%BA%A7%E7%9A%84%E7%AC%91%E8%AF%9D)
 1. [武大回应法院驳回男生图书馆性骚扰指控](https://www.zhihu.com/search?q=%E6%AD%A6%E5%A4%A7%E5%9B%9E%E5%BA%94%E6%B3%95%E9%99%A2%E9%A9%B3%E5%9B%9E%E7%94%B7%E7%94%9F%E5%9B%BE%E4%B9%A6%E9%A6%86%E6%80%A7%E9%AA%9A%E6%89%B0%E6%8C%87%E6%8E%A7)
 1. [哪句话让你突然沉默了很久](https://www.zhihu.com/search?q=%E5%93%AA%E5%8F%A5%E8%AF%9D%E8%AE%A9%E4%BD%A0%E7%AA%81%E7%84%B6%E6%B2%89%E9%BB%98%E4%BA%86%E5%BE%88%E4%B9%85)
