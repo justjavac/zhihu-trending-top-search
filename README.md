@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Aug 03 2025 16:28:28 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Aug 03 2025 17:23:14 GMT+0800 (China Standard Time) -->
 
 1. [男子称遭奔驰「亮证姐」逼迫让路](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%90%E7%A7%B0%E9%81%AD%E5%A5%94%E9%A9%B0%E3%80%8C%E4%BA%AE%E8%AF%81%E5%A7%90%E3%80%8D%E9%80%BC%E8%BF%AB%E8%AE%A9%E8%B7%AF)
 1. [广西通报奔驰亮证女司机身份已查清](https://www.zhihu.com/search?q=%E5%B9%BF%E8%A5%BF%E9%80%9A%E6%8A%A5%E5%A5%94%E9%A9%B0%E4%BA%AE%E8%AF%81%E5%A5%B3%E5%8F%B8%E6%9C%BA%E8%BA%AB%E4%BB%BD%E5%B7%B2%E6%9F%A5%E6%B8%85)
