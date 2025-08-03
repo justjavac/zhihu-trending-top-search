@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Aug 04 2025 05:21:08 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Aug 04 2025 06:22:18 GMT+0800 (China Standard Time) -->
 
 1. [男子称遭奔驰「亮证姐」逼迫让路](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%90%E7%A7%B0%E9%81%AD%E5%A5%94%E9%A9%B0%E3%80%8C%E4%BA%AE%E8%AF%81%E5%A7%90%E3%80%8D%E9%80%BC%E8%BF%AB%E8%AE%A9%E8%B7%AF)
 1. [武大杨景媛毕业论文被疑用AIGC完成](https://www.zhihu.com/search?q=%E6%AD%A6%E5%A4%A7%E6%9D%A8%E6%99%AF%E5%AA%9B%E6%AF%95%E4%B8%9A%E8%AE%BA%E6%96%87%E8%A2%AB%E7%96%91%E7%94%A8AIGC%E5%AE%8C%E6%88%90)
@@ -25,8 +25,8 @@
 1. [宗馥莉败诉](https://www.zhihu.com/search?q=%E5%AE%97%E9%A6%A5%E8%8E%89%E8%B4%A5%E8%AF%89)
 1. [尹锡悦只穿内衣躺牢房地板上拒捕](https://www.zhihu.com/search?q=%E5%B0%B9%E9%94%A1%E6%82%A6%E5%8F%AA%E7%A9%BF%E5%86%85%E8%A1%A3%E8%BA%BA%E7%89%A2%E6%88%BF%E5%9C%B0%E6%9D%BF%E4%B8%8A%E6%8B%92%E6%8D%95)
 1. [武大回应法院驳回男生图书馆性骚扰指控](https://www.zhihu.com/search?q=%E6%AD%A6%E5%A4%A7%E5%9B%9E%E5%BA%94%E6%B3%95%E9%99%A2%E9%A9%B3%E5%9B%9E%E7%94%B7%E7%94%9F%E5%9B%BE%E4%B9%A6%E9%A6%86%E6%80%A7%E9%AA%9A%E6%89%B0%E6%8C%87%E6%8E%A7)
-1. [赵露思发文控诉经纪公司：我不干了](https://www.zhihu.com/search?q=%E8%B5%B5%E9%9C%B2%E6%80%9D%E5%8F%91%E6%96%87%E6%8E%A7%E8%AF%89%E7%BB%8F%E7%BA%AA%E5%85%AC%E5%8F%B8%EF%BC%9A%E6%88%91%E4%B8%8D%E5%B9%B2%E4%BA%86)
 1. [电影731定档918](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1731%E5%AE%9A%E6%A1%A3918)
+1. [赵露思发文控诉经纪公司：我不干了](https://www.zhihu.com/search?q=%E8%B5%B5%E9%9C%B2%E6%80%9D%E5%8F%91%E6%96%87%E6%8E%A7%E8%AF%89%E7%BB%8F%E7%BA%AA%E5%85%AC%E5%8F%B8%EF%BC%9A%E6%88%91%E4%B8%8D%E5%B9%B2%E4%BA%86)
 1. [亮证女司机非公职人员](https://www.zhihu.com/search?q=%E4%BA%AE%E8%AF%81%E5%A5%B3%E5%8F%B8%E6%9C%BA%E9%9D%9E%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98)
 
 <!-- END -->
