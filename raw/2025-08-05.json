@@ -3,7 +3,7 @@
   { "query_display": "武大图书馆事件不认定性骚扰", "real_query": "武大图书馆事件不认定性骚扰" },
   { "query_display": "许倬云去世", "real_query": "许倬云去世" },
   { "query_display": "14岁女孩遭殴打两人被送学校矫正", "real_query": "14岁女孩遭殴打两人被送学校矫正" },
-  { "query_display": "现实世界可能像裘千尺只靠枣树活十多年吗", "real_query": "现实世界可能像裘千尺只靠枣树活十多年吗" },
+  { "query_display": "印乐法师上任后取消少林寺收费项目", "real_query": "印乐法师上任后取消少林寺收费项目" },
   { "query_display": "电影731定档918", "real_query": "电影731定档918" },
   { "query_display": "赵露思称实在不行开个小面馆", "real_query": "赵露思称实在不行开个小面馆" },
   { "query_display": "理想回应和乘龙重卡碰撞测试", "real_query": "理想回应和乘龙重卡碰撞测试" },
@@ -13,5 +13,6 @@
   {
     "query_display": "为何银行大厅坐的人很多实际干活的只有一个",
     "real_query": "为何银行大厅坐的人很多实际干活的只有一个"
-  }
+  },
+  { "query_display": "现实世界可能像裘千尺只靠枣树活十多年吗", "real_query": "现实世界可能像裘千尺只靠枣树活十多年吗" }
 ]
