@@ -14,19 +14,19 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Aug 05 2025 02:35:50 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Aug 05 2025 03:21:14 GMT+0800 (China Standard Time) -->
 
 1. [赵露思](https://www.zhihu.com/search?q=%E8%B5%B5%E9%9C%B2%E6%80%9D)
 1. [许倬云去世](https://www.zhihu.com/search?q=%E8%AE%B8%E5%80%AC%E4%BA%91%E5%8E%BB%E4%B8%96)
-1. [电影731定档918](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1731%E5%AE%9A%E6%A1%A3918)
 1. [14岁女孩遭殴打两人被送学校矫正](https://www.zhihu.com/search?q=14%E5%B2%81%E5%A5%B3%E5%AD%A9%E9%81%AD%E6%AE%B4%E6%89%93%E4%B8%A4%E4%BA%BA%E8%A2%AB%E9%80%81%E5%AD%A6%E6%A0%A1%E7%9F%AB%E6%AD%A3)
+1. [电影731定档918](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1731%E5%AE%9A%E6%A1%A3918)
 1. [赵露思称实在不行开个小面馆](https://www.zhihu.com/search?q=%E8%B5%B5%E9%9C%B2%E6%80%9D%E7%A7%B0%E5%AE%9E%E5%9C%A8%E4%B8%8D%E8%A1%8C%E5%BC%80%E4%B8%AA%E5%B0%8F%E9%9D%A2%E9%A6%86)
 1. [理想回应和乘龙重卡碰撞测试](https://www.zhihu.com/search?q=%E7%90%86%E6%83%B3%E5%9B%9E%E5%BA%94%E5%92%8C%E4%B9%98%E9%BE%99%E9%87%8D%E5%8D%A1%E7%A2%B0%E6%92%9E%E6%B5%8B%E8%AF%95)
 1. [小朋友高铁被发试卷秒静音](https://www.zhihu.com/search?q=%E5%B0%8F%E6%9C%8B%E5%8F%8B%E9%AB%98%E9%93%81%E8%A2%AB%E5%8F%91%E8%AF%95%E5%8D%B7%E7%A7%92%E9%9D%99%E9%9F%B3)
 1. [赵露思称意外生病是自己赔钱](https://www.zhihu.com/search?q=%E8%B5%B5%E9%9C%B2%E6%80%9D%E7%A7%B0%E6%84%8F%E5%A4%96%E7%94%9F%E7%97%85%E6%98%AF%E8%87%AA%E5%B7%B1%E8%B5%94%E9%92%B1)
 1. [网传赵露思希望剧组赔偿她](https://www.zhihu.com/search?q=%E7%BD%91%E4%BC%A0%E8%B5%B5%E9%9C%B2%E6%80%9D%E5%B8%8C%E6%9C%9B%E5%89%A7%E7%BB%84%E8%B5%94%E5%81%BF%E5%A5%B9)
-1. [女子穿洛丽塔裙子遭上海一酒店驱赶](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E7%A9%BF%E6%B4%9B%E4%B8%BD%E5%A1%94%E8%A3%99%E5%AD%90%E9%81%AD%E4%B8%8A%E6%B5%B7%E4%B8%80%E9%85%92%E5%BA%97%E9%A9%B1%E8%B5%B6)
 1. [女子脚被扎伤后长出癌中之王](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E8%84%9A%E8%A2%AB%E6%89%8E%E4%BC%A4%E5%90%8E%E9%95%BF%E5%87%BA%E7%99%8C%E4%B8%AD%E4%B9%8B%E7%8E%8B)
+1. [女子穿洛丽塔裙子遭上海一酒店驱赶](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E7%A9%BF%E6%B4%9B%E4%B8%BD%E5%A1%94%E8%A3%99%E5%AD%90%E9%81%AD%E4%B8%8A%E6%B5%B7%E4%B8%80%E9%85%92%E5%BA%97%E9%A9%B1%E8%B5%B6)
 1. [云南发现最大天牛](https://www.zhihu.com/search?q=%E4%BA%91%E5%8D%97%E5%8F%91%E7%8E%B0%E6%9C%80%E5%A4%A7%E5%A4%A9%E7%89%9B)
 1. [武大图书馆事件不认定性骚扰](https://www.zhihu.com/search?q=%E6%AD%A6%E5%A4%A7%E5%9B%BE%E4%B9%A6%E9%A6%86%E4%BA%8B%E4%BB%B6%E4%B8%8D%E8%AE%A4%E5%AE%9A%E6%80%A7%E9%AA%9A%E6%89%B0)
 1. [印乐法师上任后取消少林寺收费项目](https://www.zhihu.com/search?q=%E5%8D%B0%E4%B9%90%E6%B3%95%E5%B8%88%E4%B8%8A%E4%BB%BB%E5%90%8E%E5%8F%96%E6%B6%88%E5%B0%91%E6%9E%97%E5%AF%BA%E6%94%B6%E8%B4%B9%E9%A1%B9%E7%9B%AE)
