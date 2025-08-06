@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Aug 06 2025 20:52:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Aug 06 2025 21:44:04 GMT+0800 (China Standard Time) -->
 
 1. [14岁女孩遭殴打两人被送学校矫正](https://www.zhihu.com/search?q=14%E5%B2%81%E5%A5%B3%E5%AD%A9%E9%81%AD%E6%AE%B4%E6%89%93%E4%B8%A4%E4%BA%BA%E8%A2%AB%E9%80%81%E5%AD%A6%E6%A0%A1%E7%9F%AB%E6%AD%A3)
 1. [官方通报周口六院医生坠楼身亡](https://www.zhihu.com/search?q=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%91%A8%E5%8F%A3%E5%85%AD%E9%99%A2%E5%8C%BB%E7%94%9F%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1)
@@ -22,12 +22,13 @@
 1. [尚九熙回应与何九华裂穴](https://www.zhihu.com/search?q=%E5%B0%9A%E4%B9%9D%E7%86%99%E5%9B%9E%E5%BA%94%E4%B8%8E%E4%BD%95%E4%B9%9D%E5%8D%8E%E8%A3%82%E7%A9%B4)
 1. [理想i8碰撞测试三方发联合声明](https://www.zhihu.com/search?q=%E7%90%86%E6%83%B3i8%E7%A2%B0%E6%92%9E%E6%B5%8B%E8%AF%95%E4%B8%89%E6%96%B9%E5%8F%91%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E)
 1. [奔驰亮证姐被行政拘留5日](https://www.zhihu.com/search?q=%E5%A5%94%E9%A9%B0%E4%BA%AE%E8%AF%81%E5%A7%90%E8%A2%AB%E8%A1%8C%E6%94%BF%E6%8B%98%E7%95%995%E6%97%A5)
-1. [人类作为杂食性高的动物为何却有个脆弱的胃](https://www.zhihu.com/search?q=%E4%BA%BA%E7%B1%BB%E4%BD%9C%E4%B8%BA%E6%9D%82%E9%A3%9F%E6%80%A7%E9%AB%98%E7%9A%84%E5%8A%A8%E7%89%A9%E4%B8%BA%E4%BD%95%E5%8D%B4%E6%9C%89%E4%B8%AA%E8%84%86%E5%BC%B1%E7%9A%84%E8%83%83)
+1. [古代皇帝画像可信度有多少](https://www.zhihu.com/search?q=%E5%8F%A4%E4%BB%A3%E7%9A%87%E5%B8%9D%E7%94%BB%E5%83%8F%E5%8F%AF%E4%BF%A1%E5%BA%A6%E6%9C%89%E5%A4%9A%E5%B0%91)
 1. [哈工大学硕直博化](https://www.zhihu.com/search?q=%E5%93%88%E5%B7%A5%E5%A4%A7%E5%AD%A6%E7%A1%95%E7%9B%B4%E5%8D%9A%E5%8C%96)
 1. [坠楼医生最后愿望是替自己正名](https://www.zhihu.com/search?q=%E5%9D%A0%E6%A5%BC%E5%8C%BB%E7%94%9F%E6%9C%80%E5%90%8E%E6%84%BF%E6%9C%9B%E6%98%AF%E6%9B%BF%E8%87%AA%E5%B7%B1%E6%AD%A3%E5%90%8D)
 1. [小朋友高铁被发试卷秒静音](https://www.zhihu.com/search?q=%E5%B0%8F%E6%9C%8B%E5%8F%8B%E9%AB%98%E9%93%81%E8%A2%AB%E5%8F%91%E8%AF%95%E5%8D%B7%E7%A7%92%E9%9D%99%E9%9F%B3)
-1. [古代皇帝画像可信度有多少](https://www.zhihu.com/search?q=%E5%8F%A4%E4%BB%A3%E7%9A%87%E5%B8%9D%E7%94%BB%E5%83%8F%E5%8F%AF%E4%BF%A1%E5%BA%A6%E6%9C%89%E5%A4%9A%E5%B0%91)
+1. [为何银行大厅坐的人很多实际干活的只有一个](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E9%93%B6%E8%A1%8C%E5%A4%A7%E5%8E%85%E5%9D%90%E7%9A%84%E4%BA%BA%E5%BE%88%E5%A4%9A%E5%AE%9E%E9%99%85%E5%B9%B2%E6%B4%BB%E7%9A%84%E5%8F%AA%E6%9C%89%E4%B8%80%E4%B8%AA)
 1. [女子吃桃咬开发现里面一堆树叶](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E5%90%83%E6%A1%83%E5%92%AC%E5%BC%80%E5%8F%91%E7%8E%B0%E9%87%8C%E9%9D%A2%E4%B8%80%E5%A0%86%E6%A0%91%E5%8F%B6)
+1. [人类作为杂食性高的动物为何却有个脆弱的胃](https://www.zhihu.com/search?q=%E4%BA%BA%E7%B1%BB%E4%BD%9C%E4%B8%BA%E6%9D%82%E9%A3%9F%E6%80%A7%E9%AB%98%E7%9A%84%E5%8A%A8%E7%89%A9%E4%B8%BA%E4%BD%95%E5%8D%B4%E6%9C%89%E4%B8%AA%E8%84%86%E5%BC%B1%E7%9A%84%E8%83%83)
 1. [你卡过最厉害的 bug 是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E5%8D%A1%E8%BF%87%E6%9C%80%E5%8E%89%E5%AE%B3%E7%9A%84%20bug%20%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [专家称高温热黑比紫外线更伤皮肤](https://www.zhihu.com/search?q=%E4%B8%93%E5%AE%B6%E7%A7%B0%E9%AB%98%E6%B8%A9%E7%83%AD%E9%BB%91%E6%AF%94%E7%B4%AB%E5%A4%96%E7%BA%BF%E6%9B%B4%E4%BC%A4%E7%9A%AE%E8%82%A4)
 1. [哈佛研究称生男生女并不随机](https://www.zhihu.com/search?q=%E5%93%88%E4%BD%9B%E7%A0%94%E7%A9%B6%E7%A7%B0%E7%94%9F%E7%94%B7%E7%94%9F%E5%A5%B3%E5%B9%B6%E4%B8%8D%E9%9A%8F%E6%9C%BA)
