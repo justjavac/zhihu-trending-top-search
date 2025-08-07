@@ -14,22 +14,23 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Aug 07 2025 20:51:32 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Aug 07 2025 21:42:11 GMT+0800 (China Standard Time) -->
 
 1. [郑州全市停产停业停课停运](https://www.zhihu.com/search?q=%E9%83%91%E5%B7%9E%E5%85%A8%E5%B8%82%E5%81%9C%E4%BA%A7%E5%81%9C%E4%B8%9A%E5%81%9C%E8%AF%BE%E5%81%9C%E8%BF%90)
 1. [14岁女孩遭殴打两人被送学校矫正](https://www.zhihu.com/search?q=14%E5%B2%81%E5%A5%B3%E5%AD%A9%E9%81%AD%E6%AE%B4%E6%89%93%E4%B8%A4%E4%BA%BA%E8%A2%AB%E9%80%81%E5%AD%A6%E6%A0%A1%E7%9F%AB%E6%AD%A3)
 1. [官方通报周口六院医生坠楼身亡](https://www.zhihu.com/search?q=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%91%A8%E5%8F%A3%E5%85%AD%E9%99%A2%E5%8C%BB%E7%94%9F%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1)
 1. [奔驰亮证姐被行政拘留5日](https://www.zhihu.com/search?q=%E5%A5%94%E9%A9%B0%E4%BA%AE%E8%AF%81%E5%A7%90%E8%A2%AB%E8%A1%8C%E6%94%BF%E6%8B%98%E7%95%995%E6%97%A5)
-1. [古代皇帝画像可信度有多少](https://www.zhihu.com/search?q=%E5%8F%A4%E4%BB%A3%E7%9A%87%E5%B8%9D%E7%94%BB%E5%83%8F%E5%8F%AF%E4%BF%A1%E5%BA%A6%E6%9C%89%E5%A4%9A%E5%B0%91)
+1. [你对朱龙广有哪些记忆](https://www.zhihu.com/search?q=%E4%BD%A0%E5%AF%B9%E6%9C%B1%E9%BE%99%E5%B9%BF%E6%9C%89%E5%93%AA%E4%BA%9B%E8%AE%B0%E5%BF%86)
 1. [哈工大学硕直博化](https://www.zhihu.com/search?q=%E5%93%88%E5%B7%A5%E5%A4%A7%E5%AD%A6%E7%A1%95%E7%9B%B4%E5%8D%9A%E5%8C%96)
 1. [坠楼医生最后愿望是替自己正名](https://www.zhihu.com/search?q=%E5%9D%A0%E6%A5%BC%E5%8C%BB%E7%94%9F%E6%9C%80%E5%90%8E%E6%84%BF%E6%9C%9B%E6%98%AF%E6%9B%BF%E8%87%AA%E5%B7%B1%E6%AD%A3%E5%90%8D)
+1. [陶白白官宣离婚](https://www.zhihu.com/search?q=%E9%99%B6%E7%99%BD%E7%99%BD%E5%AE%98%E5%AE%A3%E7%A6%BB%E5%A9%9A)
+1. [人类作为杂食性高的动物为何却有个脆弱的胃](https://www.zhihu.com/search?q=%E4%BA%BA%E7%B1%BB%E4%BD%9C%E4%B8%BA%E6%9D%82%E9%A3%9F%E6%80%A7%E9%AB%98%E7%9A%84%E5%8A%A8%E7%89%A9%E4%B8%BA%E4%BD%95%E5%8D%B4%E6%9C%89%E4%B8%AA%E8%84%86%E5%BC%B1%E7%9A%84%E8%83%83)
 1. [国务院：免除公办幼儿园学前一年保教费](https://www.zhihu.com/search?q=%E5%9B%BD%E5%8A%A1%E9%99%A2%EF%BC%9A%E5%85%8D%E9%99%A4%E5%85%AC%E5%8A%9E%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%AD%A6%E5%89%8D%E4%B8%80%E5%B9%B4%E4%BF%9D%E6%95%99%E8%B4%B9)
-1. [为何银行大厅坐的人很多实际干活的只有一个](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E9%93%B6%E8%A1%8C%E5%A4%A7%E5%8E%85%E5%9D%90%E7%9A%84%E4%BA%BA%E5%BE%88%E5%A4%9A%E5%AE%9E%E9%99%85%E5%B9%B2%E6%B4%BB%E7%9A%84%E5%8F%AA%E6%9C%89%E4%B8%80%E4%B8%AA)
 1. [尚九熙回应与何九华裂穴](https://www.zhihu.com/search?q=%E5%B0%9A%E4%B9%9D%E7%86%99%E5%9B%9E%E5%BA%94%E4%B8%8E%E4%BD%95%E4%B9%9D%E5%8D%8E%E8%A3%82%E7%A9%B4)
+1. [为何银行大厅坐的人很多实际干活的只有一个](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E9%93%B6%E8%A1%8C%E5%A4%A7%E5%8E%85%E5%9D%90%E7%9A%84%E4%BA%BA%E5%BE%88%E5%A4%9A%E5%AE%9E%E9%99%85%E5%B9%B2%E6%B4%BB%E7%9A%84%E5%8F%AA%E6%9C%89%E4%B8%80%E4%B8%AA)
+1. [古代皇帝画像可信度有多少](https://www.zhihu.com/search?q=%E5%8F%A4%E4%BB%A3%E7%9A%87%E5%B8%9D%E7%94%BB%E5%83%8F%E5%8F%AF%E4%BF%A1%E5%BA%A6%E6%9C%89%E5%A4%9A%E5%B0%91)
 1. [社保新规9月1日起实施](https://www.zhihu.com/search?q=%E7%A4%BE%E4%BF%9D%E6%96%B0%E8%A7%849%E6%9C%881%E6%97%A5%E8%B5%B7%E5%AE%9E%E6%96%BD)
 1. [为啥泰国会有泰拳这种凶狠的拳术](https://www.zhihu.com/search?q=%E4%B8%BA%E5%95%A5%E6%B3%B0%E5%9B%BD%E4%BC%9A%E6%9C%89%E6%B3%B0%E6%8B%B3%E8%BF%99%E7%A7%8D%E5%87%B6%E7%8B%A0%E7%9A%84%E6%8B%B3%E6%9C%AF)
-1. [你对朱龙广有哪些记忆](https://www.zhihu.com/search?q=%E4%BD%A0%E5%AF%B9%E6%9C%B1%E9%BE%99%E5%B9%BF%E6%9C%89%E5%93%AA%E4%BA%9B%E8%AE%B0%E5%BF%86)
-1. [人类作为杂食性高的动物为何却有个脆弱的胃](https://www.zhihu.com/search?q=%E4%BA%BA%E7%B1%BB%E4%BD%9C%E4%B8%BA%E6%9D%82%E9%A3%9F%E6%80%A7%E9%AB%98%E7%9A%84%E5%8A%A8%E7%89%A9%E4%B8%BA%E4%BD%95%E5%8D%B4%E6%9C%89%E4%B8%AA%E8%84%86%E5%BC%B1%E7%9A%84%E8%83%83)
 1. [藏语文被移出高考科目](https://www.zhihu.com/search?q=%E8%97%8F%E8%AF%AD%E6%96%87%E8%A2%AB%E7%A7%BB%E5%87%BA%E9%AB%98%E8%80%83%E7%A7%91%E7%9B%AE)
 1. [人均 70 以下的自助烤肉用的是什么肉](https://www.zhihu.com/search?q=%E4%BA%BA%E5%9D%87%2070%20%E4%BB%A5%E4%B8%8B%E7%9A%84%E8%87%AA%E5%8A%A9%E7%83%A4%E8%82%89%E7%94%A8%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88%E8%82%89)
 1. [陈佩斯斥资一亿拍「戏台」是情怀还是冒险](https://www.zhihu.com/search?q=%E9%99%88%E4%BD%A9%E6%96%AF%E6%96%A5%E8%B5%84%E4%B8%80%E4%BA%BF%E6%8B%8D%E3%80%8C%E6%88%8F%E5%8F%B0%E3%80%8D%E6%98%AF%E6%83%85%E6%80%80%E8%BF%98%E6%98%AF%E5%86%92%E9%99%A9)
