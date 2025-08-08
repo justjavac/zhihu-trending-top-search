@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Aug 09 2025 05:20:19 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Aug 09 2025 06:21:37 GMT+0800 (China Standard Time) -->
 
 1. [社保新规9月1日起实施](https://www.zhihu.com/search?q=%E7%A4%BE%E4%BF%9D%E6%96%B0%E8%A7%849%E6%9C%881%E6%97%A5%E8%B5%B7%E5%AE%9E%E6%96%BD)
 1. [OpenAI发布GPT-5](https://www.zhihu.com/search?q=OpenAI%E5%8F%91%E5%B8%83GPT-5)
