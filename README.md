@@ -14,10 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Aug 09 2025 03:17:35 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Aug 09 2025 04:25:07 GMT+0800 (China Standard Time) -->
 
-1. [OpenAI发布GPT-5](https://www.zhihu.com/search?q=OpenAI%E5%8F%91%E5%B8%83GPT-5)
 1. [社保新规9月1日起实施](https://www.zhihu.com/search?q=%E7%A4%BE%E4%BF%9D%E6%96%B0%E8%A7%849%E6%9C%881%E6%97%A5%E8%B5%B7%E5%AE%9E%E6%96%BD)
+1. [OpenAI发布GPT-5](https://www.zhihu.com/search?q=OpenAI%E5%8F%91%E5%B8%83GPT-5)
 1. [网传杨景媛答复论文调查审核文件](https://www.zhihu.com/search?q=%E7%BD%91%E4%BC%A0%E6%9D%A8%E6%99%AF%E5%AA%9B%E7%AD%94%E5%A4%8D%E8%AE%BA%E6%96%87%E8%B0%83%E6%9F%A5%E5%AE%A1%E6%A0%B8%E6%96%87%E4%BB%B6)
 1. [免除公办幼儿园学前一年保教费有哪些影响](https://www.zhihu.com/search?q=%E5%85%8D%E9%99%A4%E5%85%AC%E5%8A%9E%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%AD%A6%E5%89%8D%E4%B8%80%E5%B9%B4%E4%BF%9D%E6%95%99%E8%B4%B9%E6%9C%89%E5%93%AA%E4%BA%9B%E5%BD%B1%E5%93%8D)
 1. [陶白白官宣离婚](https://www.zhihu.com/search?q=%E9%99%B6%E7%99%BD%E7%99%BD%E5%AE%98%E5%AE%A3%E7%A6%BB%E5%A9%9A)
