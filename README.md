@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Aug 08 2025 21:40:10 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Aug 08 2025 22:24:48 GMT+0800 (China Standard Time) -->
 
 1. [网传杨景媛答复论文调查审核文件](https://www.zhihu.com/search?q=%E7%BD%91%E4%BC%A0%E6%9D%A8%E6%99%AF%E5%AA%9B%E7%AD%94%E5%A4%8D%E8%AE%BA%E6%96%87%E8%B0%83%E6%9F%A5%E5%AE%A1%E6%A0%B8%E6%96%87%E4%BB%B6)
 1. [甘肃兰州山洪致10死33失联](https://www.zhihu.com/search?q=%E7%94%98%E8%82%83%E5%85%B0%E5%B7%9E%E5%B1%B1%E6%B4%AA%E8%87%B410%E6%AD%BB33%E5%A4%B1%E8%81%94)
@@ -23,11 +23,12 @@
 1. [奇瑞校招生发邮件拒绝周六加班开会](https://www.zhihu.com/search?q=%E5%A5%87%E7%91%9E%E6%A0%A1%E6%8B%9B%E7%94%9F%E5%8F%91%E9%82%AE%E4%BB%B6%E6%8B%92%E7%BB%9D%E5%91%A8%E5%85%AD%E5%8A%A0%E7%8F%AD%E5%BC%80%E4%BC%9A)
 1. [社保新规9月1日起实施](https://www.zhihu.com/search?q=%E7%A4%BE%E4%BF%9D%E6%96%B0%E8%A7%849%E6%9C%881%E6%97%A5%E8%B5%B7%E5%AE%9E%E6%96%BD)
 1. [陶白白官宣离婚](https://www.zhihu.com/search?q=%E9%99%B6%E7%99%BD%E7%99%BD%E5%AE%98%E5%AE%A3%E7%A6%BB%E5%A9%9A)
-1. [潘长江演短剧是自降身价吗](https://www.zhihu.com/search?q=%E6%BD%98%E9%95%BF%E6%B1%9F%E6%BC%94%E7%9F%AD%E5%89%A7%E6%98%AF%E8%87%AA%E9%99%8D%E8%BA%AB%E4%BB%B7%E5%90%97)
+1. [为什么「hao123」退出视线了](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E3%80%8Chao123%E3%80%8D%E9%80%80%E5%87%BA%E8%A7%86%E7%BA%BF%E4%BA%86)
 1. [社保新规对普通人的影响](https://www.zhihu.com/search?q=%E7%A4%BE%E4%BF%9D%E6%96%B0%E8%A7%84%E5%AF%B9%E6%99%AE%E9%80%9A%E4%BA%BA%E7%9A%84%E5%BD%B1%E5%93%8D)
 1. [香港浸会大学疑似撤销杨某媛录取资格](https://www.zhihu.com/search?q=%E9%A6%99%E6%B8%AF%E6%B5%B8%E4%BC%9A%E5%A4%A7%E5%AD%A6%E7%96%91%E4%BC%BC%E6%92%A4%E9%94%80%E6%9D%A8%E6%9F%90%E5%AA%9B%E5%BD%95%E5%8F%96%E8%B5%84%E6%A0%BC)
 1. [贾冰暴瘦被说面相吓人不宜演喜剧](https://www.zhihu.com/search?q=%E8%B4%BE%E5%86%B0%E6%9A%B4%E7%98%A6%E8%A2%AB%E8%AF%B4%E9%9D%A2%E7%9B%B8%E5%90%93%E4%BA%BA%E4%B8%8D%E5%AE%9C%E6%BC%94%E5%96%9C%E5%89%A7)
-1. [为什么「hao123」退出视线了](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E3%80%8Chao123%E3%80%8D%E9%80%80%E5%87%BA%E8%A7%86%E7%BA%BF%E4%BA%86)
+1. [为什么好多人喜欢飞机刚停稳就站起来](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A5%BD%E5%A4%9A%E4%BA%BA%E5%96%9C%E6%AC%A2%E9%A3%9E%E6%9C%BA%E5%88%9A%E5%81%9C%E7%A8%B3%E5%B0%B1%E7%AB%99%E8%B5%B7%E6%9D%A5)
+1. [潘长江演短剧是自降身价吗](https://www.zhihu.com/search?q=%E6%BD%98%E9%95%BF%E6%B1%9F%E6%BC%94%E7%9F%AD%E5%89%A7%E6%98%AF%E8%87%AA%E9%99%8D%E8%BA%AB%E4%BB%B7%E5%90%97)
 1. [网传武大同意杨景媛修改论文](https://www.zhihu.com/search?q=%E7%BD%91%E4%BC%A0%E6%AD%A6%E5%A4%A7%E5%90%8C%E6%84%8F%E6%9D%A8%E6%99%AF%E5%AA%9B%E4%BF%AE%E6%94%B9%E8%AE%BA%E6%96%87)
 1. [若鱼太多导致水里没食物鱼会再次进化吗](https://www.zhihu.com/search?q=%E8%8B%A5%E9%B1%BC%E5%A4%AA%E5%A4%9A%E5%AF%BC%E8%87%B4%E6%B0%B4%E9%87%8C%E6%B2%A1%E9%A3%9F%E7%89%A9%E9%B1%BC%E4%BC%9A%E5%86%8D%E6%AC%A1%E8%BF%9B%E5%8C%96%E5%90%97)
 1. [嘉靖给儿子指定的可用人里为什么没有海瑞](https://www.zhihu.com/search?q=%E5%98%89%E9%9D%96%E7%BB%99%E5%84%BF%E5%AD%90%E6%8C%87%E5%AE%9A%E7%9A%84%E5%8F%AF%E7%94%A8%E4%BA%BA%E9%87%8C%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B2%A1%E6%9C%89%E6%B5%B7%E7%91%9E)
