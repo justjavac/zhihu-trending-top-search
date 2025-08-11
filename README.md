@@ -14,18 +14,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Aug 11 2025 13:29:31 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Aug 11 2025 14:37:00 GMT+0800 (China Standard Time) -->
 
 1. [陈奕迅演唱会疑出现焦虑症躯体化](https://www.zhihu.com/search?q=%E9%99%88%E5%A5%95%E8%BF%85%E6%BC%94%E5%94%B1%E4%BC%9A%E7%96%91%E5%87%BA%E7%8E%B0%E7%84%A6%E8%99%91%E7%97%87%E8%BA%AF%E4%BD%93%E5%8C%96)
 1. [远嫁妻子因鸡蛋崩溃掀桌](https://www.zhihu.com/search?q=%E8%BF%9C%E5%AB%81%E5%A6%BB%E5%AD%90%E5%9B%A0%E9%B8%A1%E8%9B%8B%E5%B4%A9%E6%BA%83%E6%8E%80%E6%A1%8C)
 1. [OpenAI发布GPT-5](https://www.zhihu.com/search?q=OpenAI%E5%8F%91%E5%B8%83GPT-5)
 1. [全球首个孕育机器人预计一年内面世](https://www.zhihu.com/search?q=%E5%85%A8%E7%90%83%E9%A6%96%E4%B8%AA%E5%AD%95%E8%82%B2%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%A2%84%E8%AE%A1%E4%B8%80%E5%B9%B4%E5%86%85%E9%9D%A2%E4%B8%96)
+1. [早期的的网红后来怎么样了](https://www.zhihu.com/search?q=%E6%97%A9%E6%9C%9F%E7%9A%84%E7%9A%84%E7%BD%91%E7%BA%A2%E5%90%8E%E6%9D%A5%E6%80%8E%E4%B9%88%E6%A0%B7%E4%BA%86)
 1. [徐杰被曝出轨](https://www.zhihu.com/search?q=%E5%BE%90%E6%9D%B0%E8%A2%AB%E6%9B%9D%E5%87%BA%E8%BD%A8)
 1. [小学语文教材现颠覆性修改](https://www.zhihu.com/search?q=%E5%B0%8F%E5%AD%A6%E8%AF%AD%E6%96%87%E6%95%99%E6%9D%90%E7%8E%B0%E9%A2%A0%E8%A6%86%E6%80%A7%E4%BF%AE%E6%94%B9)
 1. [山姆回应芝士牛肉卷吃出蟑螂](https://www.zhihu.com/search?q=%E5%B1%B1%E5%A7%86%E5%9B%9E%E5%BA%94%E8%8A%9D%E5%A3%AB%E7%89%9B%E8%82%89%E5%8D%B7%E5%90%83%E5%87%BA%E8%9F%91%E8%9E%82)
-1. [《歌手 2025》总决赛歌王之战](https://www.zhihu.com/search?q=%E3%80%8A%E6%AD%8C%E6%89%8B%202025%E3%80%8B%E6%80%BB%E5%86%B3%E8%B5%9B%E6%AD%8C%E7%8E%8B%E4%B9%8B%E6%88%98)
+1. [生煎店招退休工疑与社保新规有关](https://www.zhihu.com/search?q=%E7%94%9F%E7%85%8E%E5%BA%97%E6%8B%9B%E9%80%80%E4%BC%91%E5%B7%A5%E7%96%91%E4%B8%8E%E7%A4%BE%E4%BF%9D%E6%96%B0%E8%A7%84%E6%9C%89%E5%85%B3)
 1. [北京：五环外不再限制购房套数](https://www.zhihu.com/search?q=%E5%8C%97%E4%BA%AC%EF%BC%9A%E4%BA%94%E7%8E%AF%E5%A4%96%E4%B8%8D%E5%86%8D%E9%99%90%E5%88%B6%E8%B4%AD%E6%88%BF%E5%A5%97%E6%95%B0)
 1. [西安汉服店主被拘5天 女游客被拘6天](https://www.zhihu.com/search?q=%E8%A5%BF%E5%AE%89%E6%B1%89%E6%9C%8D%E5%BA%97%E4%B8%BB%E8%A2%AB%E6%8B%985%E5%A4%A9%20%E5%A5%B3%E6%B8%B8%E5%AE%A2%E8%A2%AB%E6%8B%986%E5%A4%A9)
+1. [包头人才引进被举报后又入围调查结果公布](https://www.zhihu.com/search?q=%E5%8C%85%E5%A4%B4%E4%BA%BA%E6%89%8D%E5%BC%95%E8%BF%9B%E8%A2%AB%E4%B8%BE%E6%8A%A5%E5%90%8E%E5%8F%88%E5%85%A5%E5%9B%B4%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C%E5%85%AC%E5%B8%83)
+1. [《歌手 2025》总决赛歌王之战](https://www.zhihu.com/search?q=%E3%80%8A%E6%AD%8C%E6%89%8B%202025%E3%80%8B%E6%80%BB%E5%86%B3%E8%B5%9B%E6%AD%8C%E7%8E%8B%E4%B9%8B%E6%88%98)
 1. [陈楚生歌王](https://www.zhihu.com/search?q=%E9%99%88%E6%A5%9A%E7%94%9F%E6%AD%8C%E7%8E%8B)
 1. [库克砸6000亿美元渡劫](https://www.zhihu.com/search?q=%E5%BA%93%E5%85%8B%E7%A0%B86000%E4%BA%BF%E7%BE%8E%E5%85%83%E6%B8%A1%E5%8A%AB)
 1. [血色海龟汤流入校园](https://www.zhihu.com/search?q=%E8%A1%80%E8%89%B2%E6%B5%B7%E9%BE%9F%E6%B1%A4%E6%B5%81%E5%85%A5%E6%A0%A1%E5%9B%AD)
