@@ -14,18 +14,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Aug 13 2025 01:20:40 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Aug 13 2025 02:33:48 GMT+0800 (China Standard Time) -->
 
 1. [张本智和4-2战胜王楚钦夺冠](https://www.zhihu.com/search?q=%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C4-2%E6%88%98%E8%83%9C%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%A4%BA%E5%86%A0)
 1. [中美再次暂停实施24%关税90天](https://www.zhihu.com/search?q=%E4%B8%AD%E7%BE%8E%E5%86%8D%E6%AC%A1%E6%9A%82%E5%81%9C%E5%AE%9E%E6%96%BD24%25%E5%85%B3%E7%A8%8E90%E5%A4%A9)
 1. [婚内强奸案男方律师：婚内强奸是伪罪名](https://www.zhihu.com/search?q=%E5%A9%9A%E5%86%85%E5%BC%BA%E5%A5%B8%E6%A1%88%E7%94%B7%E6%96%B9%E5%BE%8B%E5%B8%88%EF%BC%9A%E5%A9%9A%E5%86%85%E5%BC%BA%E5%A5%B8%E6%98%AF%E4%BC%AA%E7%BD%AA%E5%90%8D)
+1. [小伙与人刮蹭被诬告后全程说「我听交警的」](https://www.zhihu.com/search?q=%E5%B0%8F%E4%BC%99%E4%B8%8E%E4%BA%BA%E5%88%AE%E8%B9%AD%E8%A2%AB%E8%AF%AC%E5%91%8A%E5%90%8E%E5%85%A8%E7%A8%8B%E8%AF%B4%E3%80%8C%E6%88%91%E5%90%AC%E4%BA%A4%E8%AD%A6%E7%9A%84%E3%80%8D)
 1. [徐杰被曝出轨](https://www.zhihu.com/search?q=%E5%BE%90%E6%9D%B0%E8%A2%AB%E6%9B%9D%E5%87%BA%E8%BD%A8)
-1. [甘蔗便宜为何广西那么多地方现在还种着](https://www.zhihu.com/search?q=%E7%94%98%E8%94%97%E4%BE%BF%E5%AE%9C%E4%B8%BA%E4%BD%95%E5%B9%BF%E8%A5%BF%E9%82%A3%E4%B9%88%E5%A4%9A%E5%9C%B0%E6%96%B9%E7%8E%B0%E5%9C%A8%E8%BF%98%E7%A7%8D%E7%9D%80)
-1. [内蒙古婚内强奸案将开庭](https://www.zhihu.com/search?q=%E5%86%85%E8%92%99%E5%8F%A4%E5%A9%9A%E5%86%85%E5%BC%BA%E5%A5%B8%E6%A1%88%E5%B0%86%E5%BC%80%E5%BA%AD)
 1. [女子信偏方用螳螂吃脖子后的肉瘊](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E4%BF%A1%E5%81%8F%E6%96%B9%E7%94%A8%E8%9E%B3%E8%9E%82%E5%90%83%E8%84%96%E5%AD%90%E5%90%8E%E7%9A%84%E8%82%89%E7%98%8A)
+1. [内蒙古婚内强奸案将开庭](https://www.zhihu.com/search?q=%E5%86%85%E8%92%99%E5%8F%A4%E5%A9%9A%E5%86%85%E5%BC%BA%E5%A5%B8%E6%A1%88%E5%B0%86%E5%BC%80%E5%BA%AD)
+1. [上级的上级直接向你安排事该怎么办](https://www.zhihu.com/search?q=%E4%B8%8A%E7%BA%A7%E7%9A%84%E4%B8%8A%E7%BA%A7%E7%9B%B4%E6%8E%A5%E5%90%91%E4%BD%A0%E5%AE%89%E6%8E%92%E4%BA%8B%E8%AF%A5%E6%80%8E%E4%B9%88%E5%8A%9E)
 1. [南昌景区持剪刀伤人男子被刑拘](https://www.zhihu.com/search?q=%E5%8D%97%E6%98%8C%E6%99%AF%E5%8C%BA%E6%8C%81%E5%89%AA%E5%88%80%E4%BC%A4%E4%BA%BA%E7%94%B7%E5%AD%90%E8%A2%AB%E5%88%91%E6%8B%98)
-1. [黄奕女儿因父亲有前科被网友抗议出道](https://www.zhihu.com/search?q=%E9%BB%84%E5%A5%95%E5%A5%B3%E5%84%BF%E5%9B%A0%E7%88%B6%E4%BA%B2%E6%9C%89%E5%89%8D%E7%A7%91%E8%A2%AB%E7%BD%91%E5%8F%8B%E6%8A%97%E8%AE%AE%E5%87%BA%E9%81%93)
 1. [网传外交学院一女生拒绝搭讪被杀](https://www.zhihu.com/search?q=%E7%BD%91%E4%BC%A0%E5%A4%96%E4%BA%A4%E5%AD%A6%E9%99%A2%E4%B8%80%E5%A5%B3%E7%94%9F%E6%8B%92%E7%BB%9D%E6%90%AD%E8%AE%AA%E8%A2%AB%E6%9D%80)
+1. [为什么一年读了近三百本书却没什么长进](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%80%E5%B9%B4%E8%AF%BB%E4%BA%86%E8%BF%91%E4%B8%89%E7%99%BE%E6%9C%AC%E4%B9%A6%E5%8D%B4%E6%B2%A1%E4%BB%80%E4%B9%88%E9%95%BF%E8%BF%9B)
+1. [女大学生在江西一景区被男子杀害](https://www.zhihu.com/search?q=%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9C%A8%E6%B1%9F%E8%A5%BF%E4%B8%80%E6%99%AF%E5%8C%BA%E8%A2%AB%E7%94%B7%E5%AD%90%E6%9D%80%E5%AE%B3)
+1. [甘蔗便宜为何广西那么多地方现在还种着](https://www.zhihu.com/search?q=%E7%94%98%E8%94%97%E4%BE%BF%E5%AE%9C%E4%B8%BA%E4%BD%95%E5%B9%BF%E8%A5%BF%E9%82%A3%E4%B9%88%E5%A4%9A%E5%9C%B0%E6%96%B9%E7%8E%B0%E5%9C%A8%E8%BF%98%E7%A7%8D%E7%9D%80)
+1. [黄奕女儿因父亲有前科被网友抗议出道](https://www.zhihu.com/search?q=%E9%BB%84%E5%A5%95%E5%A5%B3%E5%84%BF%E5%9B%A0%E7%88%B6%E4%BA%B2%E6%9C%89%E5%89%8D%E7%A7%91%E8%A2%AB%E7%BD%91%E5%8F%8B%E6%8A%97%E8%AE%AE%E5%87%BA%E9%81%93)
 1. [年轻人开始请临时保镖](https://www.zhihu.com/search?q=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BC%80%E5%A7%8B%E8%AF%B7%E4%B8%B4%E6%97%B6%E4%BF%9D%E9%95%96)
 1. [陕西用大碗盛半碗面的做法有什么说辞](https://www.zhihu.com/search?q=%E9%99%95%E8%A5%BF%E7%94%A8%E5%A4%A7%E7%A2%97%E7%9B%9B%E5%8D%8A%E7%A2%97%E9%9D%A2%E7%9A%84%E5%81%9A%E6%B3%95%E6%9C%89%E4%BB%80%E4%B9%88%E8%AF%B4%E8%BE%9E)
 1. [中公教育退款难背后暴露出哪些问题](https://www.zhihu.com/search?q=%E4%B8%AD%E5%85%AC%E6%95%99%E8%82%B2%E9%80%80%E6%AC%BE%E9%9A%BE%E8%83%8C%E5%90%8E%E6%9A%B4%E9%9C%B2%E5%87%BA%E5%93%AA%E4%BA%9B%E9%97%AE%E9%A2%98)
