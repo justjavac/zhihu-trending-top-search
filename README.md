@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Aug 14 2025 04:25:07 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Aug 14 2025 05:20:18 GMT+0800 (China Standard Time) -->
 
 1. [女大学生在江西一景区被男子杀害](https://www.zhihu.com/search?q=%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9C%A8%E6%B1%9F%E8%A5%BF%E4%B8%80%E6%99%AF%E5%8C%BA%E8%A2%AB%E7%94%B7%E5%AD%90%E6%9D%80%E5%AE%B3)
 1. [张本智和4-2战胜王楚钦夺冠](https://www.zhihu.com/search?q=%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C4-2%E6%88%98%E8%83%9C%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%A4%BA%E5%86%A0)
@@ -22,9 +22,9 @@
 1. [规培医生面临哪些困境](https://www.zhihu.com/search?q=%E8%A7%84%E5%9F%B9%E5%8C%BB%E7%94%9F%E9%9D%A2%E4%B8%B4%E5%93%AA%E4%BA%9B%E5%9B%B0%E5%A2%83)
 1. [中美再次暂停实施24%关税90天](https://www.zhihu.com/search?q=%E4%B8%AD%E7%BE%8E%E5%86%8D%E6%AC%A1%E6%9A%82%E5%81%9C%E5%AE%9E%E6%96%BD24%25%E5%85%B3%E7%A8%8E90%E5%A4%A9)
 1. [朱令骨灰已安葬](https://www.zhihu.com/search?q=%E6%9C%B1%E4%BB%A4%E9%AA%A8%E7%81%B0%E5%B7%B2%E5%AE%89%E8%91%AC)
-1. [南昌景区持剪刀伤人男子被刑拘](https://www.zhihu.com/search?q=%E5%8D%97%E6%98%8C%E6%99%AF%E5%8C%BA%E6%8C%81%E5%89%AA%E5%88%80%E4%BC%A4%E4%BA%BA%E7%94%B7%E5%AD%90%E8%A2%AB%E5%88%91%E6%8B%98)
-1. [陈奕迅疑出现焦虑症躯体化](https://www.zhihu.com/search?q=%E9%99%88%E5%A5%95%E8%BF%85%E7%96%91%E5%87%BA%E7%8E%B0%E7%84%A6%E8%99%91%E7%97%87%E8%BA%AF%E4%BD%93%E5%8C%96)
 1. [赵露思陷假助农风波](https://www.zhihu.com/search?q=%E8%B5%B5%E9%9C%B2%E6%80%9D%E9%99%B7%E5%81%87%E5%8A%A9%E5%86%9C%E9%A3%8E%E6%B3%A2)
+1. [陈奕迅疑出现焦虑症躯体化](https://www.zhihu.com/search?q=%E9%99%88%E5%A5%95%E8%BF%85%E7%96%91%E5%87%BA%E7%8E%B0%E7%84%A6%E8%99%91%E7%97%87%E8%BA%AF%E4%BD%93%E5%8C%96)
+1. [南昌景区持剪刀伤人男子被刑拘](https://www.zhihu.com/search?q=%E5%8D%97%E6%98%8C%E6%99%AF%E5%8C%BA%E6%8C%81%E5%89%AA%E5%88%80%E4%BC%A4%E4%BA%BA%E7%94%B7%E5%AD%90%E8%A2%AB%E5%88%91%E6%8B%98)
 1. [吃鸡蛋事件妇联称已初步掌握经过](https://www.zhihu.com/search?q=%E5%90%83%E9%B8%A1%E8%9B%8B%E4%BA%8B%E4%BB%B6%E5%A6%87%E8%81%94%E7%A7%B0%E5%B7%B2%E5%88%9D%E6%AD%A5%E6%8E%8C%E6%8F%A1%E7%BB%8F%E8%BF%87)
 1. [无法在赤道上走直线是真的吗](https://www.zhihu.com/search?q=%E6%97%A0%E6%B3%95%E5%9C%A8%E8%B5%A4%E9%81%93%E4%B8%8A%E8%B5%B0%E7%9B%B4%E7%BA%BF%E6%98%AF%E7%9C%9F%E7%9A%84%E5%90%97)
 1. [华盛顿进入紧急状态](https://www.zhihu.com/search?q=%E5%8D%8E%E7%9B%9B%E9%A1%BF%E8%BF%9B%E5%85%A5%E7%B4%A7%E6%80%A5%E7%8A%B6%E6%80%81)
