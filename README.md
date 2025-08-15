@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Aug 16 2025 04:24:19 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Aug 16 2025 05:18:00 GMT+0800 (China Standard Time) -->
 
 1. [傅首尔亲子言论引家长集体抵制](https://www.zhihu.com/search?q=%E5%82%85%E9%A6%96%E5%B0%94%E4%BA%B2%E5%AD%90%E8%A8%80%E8%AE%BA%E5%BC%95%E5%AE%B6%E9%95%BF%E9%9B%86%E4%BD%93%E6%8A%B5%E5%88%B6)
 1. [高铁去泡面化](https://www.zhihu.com/search?q=%E9%AB%98%E9%93%81%E5%8E%BB%E6%B3%A1%E9%9D%A2%E5%8C%96)
