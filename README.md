@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Aug 18 2025 03:17:00 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Aug 18 2025 04:23:38 GMT+0800 (China Standard Time) -->
 
 1. [傅首尔亲子言论引家长集体抵制](https://www.zhihu.com/search?q=%E5%82%85%E9%A6%96%E5%B0%94%E4%BA%B2%E5%AD%90%E8%A8%80%E8%AE%BA%E5%BC%95%E5%AE%B6%E9%95%BF%E9%9B%86%E4%BD%93%E6%8A%B5%E5%88%B6)
 1. [B站崩了](https://www.zhihu.com/search?q=B%E7%AB%99%E5%B4%A9%E4%BA%86)
@@ -27,6 +27,7 @@
 1. [大学教授收废品赚300亿](https://www.zhihu.com/search?q=%E5%A4%A7%E5%AD%A6%E6%95%99%E6%8E%88%E6%94%B6%E5%BA%9F%E5%93%81%E8%B5%9A300%E4%BA%BF)
 1. [常州队赢得苏超首胜](https://www.zhihu.com/search?q=%E5%B8%B8%E5%B7%9E%E9%98%9F%E8%B5%A2%E5%BE%97%E8%8B%8F%E8%B6%85%E9%A6%96%E8%83%9C)
 1. [中国男篮时隔10年再次闯入亚洲杯决赛](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E6%97%B6%E9%9A%9410%E5%B9%B4%E5%86%8D%E6%AC%A1%E9%97%AF%E5%85%A5%E4%BA%9A%E6%B4%B2%E6%9D%AF%E5%86%B3%E8%B5%9B)
+1. [续面女顾客将起诉面馆老板](https://www.zhihu.com/search?q=%E7%BB%AD%E9%9D%A2%E5%A5%B3%E9%A1%BE%E5%AE%A2%E5%B0%86%E8%B5%B7%E8%AF%89%E9%9D%A2%E9%A6%86%E8%80%81%E6%9D%BF)
 1. [女子给女儿取名「武雪丽莎芭蕊」](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E7%BB%99%E5%A5%B3%E5%84%BF%E5%8F%96%E5%90%8D%E3%80%8C%E6%AD%A6%E9%9B%AA%E4%B8%BD%E8%8E%8E%E8%8A%AD%E8%95%8A%E3%80%8D)
 1. [越野跑爱好者误食毒蘑菇去世](https://www.zhihu.com/search?q=%E8%B6%8A%E9%87%8E%E8%B7%91%E7%88%B1%E5%A5%BD%E8%80%85%E8%AF%AF%E9%A3%9F%E6%AF%92%E8%98%91%E8%8F%87%E5%8E%BB%E4%B8%96)
 
