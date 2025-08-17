@@ -14,20 +14,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Aug 17 2025 19:17:09 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Aug 17 2025 20:42:18 GMT+0800 (China Standard Time) -->
 
 1. [傅首尔亲子言论引家长集体抵制](https://www.zhihu.com/search?q=%E5%82%85%E9%A6%96%E5%B0%94%E4%BA%B2%E5%AD%90%E8%A8%80%E8%AE%BA%E5%BC%95%E5%AE%B6%E9%95%BF%E9%9B%86%E4%BD%93%E6%8A%B5%E5%88%B6)
 1. [B站崩了](https://www.zhihu.com/search?q=B%E7%AB%99%E5%B4%A9%E4%BA%86)
 1. [岳云鹏曾因帮女艺人挡酒被换掉](https://www.zhihu.com/search?q=%E5%B2%B3%E4%BA%91%E9%B9%8F%E6%9B%BE%E5%9B%A0%E5%B8%AE%E5%A5%B3%E8%89%BA%E4%BA%BA%E6%8C%A1%E9%85%92%E8%A2%AB%E6%8D%A2%E6%8E%89)
-1. [四川一高校宿舍收空调租赁费合理吗](https://www.zhihu.com/search?q=%E5%9B%9B%E5%B7%9D%E4%B8%80%E9%AB%98%E6%A0%A1%E5%AE%BF%E8%88%8D%E6%94%B6%E7%A9%BA%E8%B0%83%E7%A7%9F%E8%B5%81%E8%B4%B9%E5%90%88%E7%90%86%E5%90%97)
+1. [有没有老了反而比年轻时更好看的例子](https://www.zhihu.com/search?q=%E6%9C%89%E6%B2%A1%E6%9C%89%E8%80%81%E4%BA%86%E5%8F%8D%E8%80%8C%E6%AF%94%E5%B9%B4%E8%BD%BB%E6%97%B6%E6%9B%B4%E5%A5%BD%E7%9C%8B%E7%9A%84%E4%BE%8B%E5%AD%90)
 1. [美俄元首历史性会晤](https://www.zhihu.com/search?q=%E7%BE%8E%E4%BF%84%E5%85%83%E9%A6%96%E5%8E%86%E5%8F%B2%E6%80%A7%E4%BC%9A%E6%99%A4)
 1. [《凡人修仙传》韩立结婴致B站崩了](https://www.zhihu.com/search?q=%E3%80%8A%E5%87%A1%E4%BA%BA%E4%BF%AE%E4%BB%99%E4%BC%A0%E3%80%8B%E9%9F%A9%E7%AB%8B%E7%BB%93%E5%A9%B4%E8%87%B4B%E7%AB%99%E5%B4%A9%E4%BA%86)
 1. [87岁书画家范曾疑被妻子卷走20亿](https://www.zhihu.com/search?q=87%E5%B2%81%E4%B9%A6%E7%94%BB%E5%AE%B6%E8%8C%83%E6%9B%BE%E7%96%91%E8%A2%AB%E5%A6%BB%E5%AD%90%E5%8D%B7%E8%B5%B020%E4%BA%BF)
-1. [如何看待新华社影射武大校长「向上甩锅」](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E6%96%B0%E5%8D%8E%E7%A4%BE%E5%BD%B1%E5%B0%84%E6%AD%A6%E5%A4%A7%E6%A0%A1%E9%95%BF%E3%80%8C%E5%90%91%E4%B8%8A%E7%94%A9%E9%94%85%E3%80%8D)
+1. [美国国债会「爆雷」吗](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%80%BA%E4%BC%9A%E3%80%8C%E7%88%86%E9%9B%B7%E3%80%8D%E5%90%97)
 1. [普京特朗普未达成协议](https://www.zhihu.com/search?q=%E6%99%AE%E4%BA%AC%E7%89%B9%E6%9C%97%E6%99%AE%E6%9C%AA%E8%BE%BE%E6%88%90%E5%8D%8F%E8%AE%AE)
-1. [常州队赢得苏超首胜](https://www.zhihu.com/search?q=%E5%B8%B8%E5%B7%9E%E9%98%9F%E8%B5%A2%E5%BE%97%E8%8B%8F%E8%B6%85%E9%A6%96%E8%83%9C)
-1. [有没有老了反而比年轻时更好看的例子](https://www.zhihu.com/search?q=%E6%9C%89%E6%B2%A1%E6%9C%89%E8%80%81%E4%BA%86%E5%8F%8D%E8%80%8C%E6%AF%94%E5%B9%B4%E8%BD%BB%E6%97%B6%E6%9B%B4%E5%A5%BD%E7%9C%8B%E7%9A%84%E4%BE%8B%E5%AD%90)
 1. [男孩掰断艺术品监控被播放12年](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%A9%E6%8E%B0%E6%96%AD%E8%89%BA%E6%9C%AF%E5%93%81%E7%9B%91%E6%8E%A7%E8%A2%AB%E6%92%AD%E6%94%BE12%E5%B9%B4)
+1. [你最狂的一次做了什么](https://www.zhihu.com/search?q=%E4%BD%A0%E6%9C%80%E7%8B%82%E7%9A%84%E4%B8%80%E6%AC%A1%E5%81%9A%E4%BA%86%E4%BB%80%E4%B9%88)
+1. [常州队赢得苏超首胜](https://www.zhihu.com/search?q=%E5%B8%B8%E5%B7%9E%E9%98%9F%E8%B5%A2%E5%BE%97%E8%8B%8F%E8%B6%85%E9%A6%96%E8%83%9C)
+1. [四川一高校宿舍收空调租赁费合理吗](https://www.zhihu.com/search?q=%E5%9B%9B%E5%B7%9D%E4%B8%80%E9%AB%98%E6%A0%A1%E5%AE%BF%E8%88%8D%E6%94%B6%E7%A9%BA%E8%B0%83%E7%A7%9F%E8%B5%81%E8%B4%B9%E5%90%88%E7%90%86%E5%90%97)
+1. [如何看待新华社影射武大校长「向上甩锅」](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E6%96%B0%E5%8D%8E%E7%A4%BE%E5%BD%B1%E5%B0%84%E6%AD%A6%E5%A4%A7%E6%A0%A1%E9%95%BF%E3%80%8C%E5%90%91%E4%B8%8A%E7%94%A9%E9%94%85%E3%80%8D)
 1. [长得漂亮真的很重要吗](https://www.zhihu.com/search?q=%E9%95%BF%E5%BE%97%E6%BC%82%E4%BA%AE%E7%9C%9F%E7%9A%84%E5%BE%88%E9%87%8D%E8%A6%81%E5%90%97)
 1. [「奔驰亮证姐」丈夫被党内警告处分](https://www.zhihu.com/search?q=%E3%80%8C%E5%A5%94%E9%A9%B0%E4%BA%AE%E8%AF%81%E5%A7%90%E3%80%8D%E4%B8%88%E5%A4%AB%E8%A2%AB%E5%85%9A%E5%86%85%E8%AD%A6%E5%91%8A%E5%A4%84%E5%88%86)
 1. [如何看待上海的机场撤销航站楼入口安检](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E4%B8%8A%E6%B5%B7%E7%9A%84%E6%9C%BA%E5%9C%BA%E6%92%A4%E9%94%80%E8%88%AA%E7%AB%99%E6%A5%BC%E5%85%A5%E5%8F%A3%E5%AE%89%E6%A3%80)
