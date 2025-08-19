@@ -14,18 +14,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Aug 19 2025 22:21:15 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Aug 19 2025 23:23:15 GMT+0800 (China Standard Time) -->
 
 1. [中国医生救回身首离断患者](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E5%8C%BB%E7%94%9F%E6%95%91%E5%9B%9E%E8%BA%AB%E9%A6%96%E7%A6%BB%E6%96%AD%E6%82%A3%E8%80%85)
 1. [律师称女孩卖男友不构成人口拐卖](https://www.zhihu.com/search?q=%E5%BE%8B%E5%B8%88%E7%A7%B0%E5%A5%B3%E5%AD%A9%E5%8D%96%E7%94%B7%E5%8F%8B%E4%B8%8D%E6%9E%84%E6%88%90%E4%BA%BA%E5%8F%A3%E6%8B%90%E5%8D%96)
 1. [郑州餐馆续面事件](https://www.zhihu.com/search?q=%E9%83%91%E5%B7%9E%E9%A4%90%E9%A6%86%E7%BB%AD%E9%9D%A2%E4%BA%8B%E4%BB%B6)
 1. [坐高铁遇400斤邻座](https://www.zhihu.com/search?q=%E5%9D%90%E9%AB%98%E9%93%81%E9%81%87400%E6%96%A4%E9%82%BB%E5%BA%A7)
-1. [有什么是你去了西北才知道的](https://www.zhihu.com/search?q=%E6%9C%89%E4%BB%80%E4%B9%88%E6%98%AF%E4%BD%A0%E5%8E%BB%E4%BA%86%E8%A5%BF%E5%8C%97%E6%89%8D%E7%9F%A5%E9%81%93%E7%9A%84)
+1. [如何评价中国男篮时隔十年再进亚洲杯决赛](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E6%97%B6%E9%9A%94%E5%8D%81%E5%B9%B4%E5%86%8D%E8%BF%9B%E4%BA%9A%E6%B4%B2%E6%9D%AF%E5%86%B3%E8%B5%9B)
 1. [戚薇承认医美过度](https://www.zhihu.com/search?q=%E6%88%9A%E8%96%87%E6%89%BF%E8%AE%A4%E5%8C%BB%E7%BE%8E%E8%BF%87%E5%BA%A6)
 1. [中国男篮89-90惜败澳大利亚男篮](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE89-90%E6%83%9C%E8%B4%A5%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E7%94%B7%E7%AF%AE)
 1. [中国男篮亚军](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%BA%9A%E5%86%9B)
-1. [如何评价中国男篮时隔十年再进亚洲杯决赛](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E6%97%B6%E9%9A%94%E5%8D%81%E5%B9%B4%E5%86%8D%E8%BF%9B%E4%BA%9A%E6%B4%B2%E6%9D%AF%E5%86%B3%E8%B5%9B)
+1. [男子游玩时向人借宿遭拒后将其杀害](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%90%E6%B8%B8%E7%8E%A9%E6%97%B6%E5%90%91%E4%BA%BA%E5%80%9F%E5%AE%BF%E9%81%AD%E6%8B%92%E5%90%8E%E5%B0%86%E5%85%B6%E6%9D%80%E5%AE%B3)
+1. [爸爸带两娃从深圳徒步回长沙](https://www.zhihu.com/search?q=%E7%88%B8%E7%88%B8%E5%B8%A6%E4%B8%A4%E5%A8%83%E4%BB%8E%E6%B7%B1%E5%9C%B3%E5%BE%92%E6%AD%A5%E5%9B%9E%E9%95%BF%E6%B2%99)
 1. [42岁孕妇因公交车急刹流产索赔](https://www.zhihu.com/search?q=42%E5%B2%81%E5%AD%95%E5%A6%87%E5%9B%A0%E5%85%AC%E4%BA%A4%E8%BD%A6%E6%80%A5%E5%88%B9%E6%B5%81%E4%BA%A7%E7%B4%A2%E8%B5%94)
+1. [如何看待「捕风追影」开分 8.1](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E3%80%8C%E6%8D%95%E9%A3%8E%E8%BF%BD%E5%BD%B1%E3%80%8D%E5%BC%80%E5%88%86%208.1)
+1. [有什么是你去了西北才知道的](https://www.zhihu.com/search?q=%E6%9C%89%E4%BB%80%E4%B9%88%E6%98%AF%E4%BD%A0%E5%8E%BB%E4%BA%86%E8%A5%BF%E5%8C%97%E6%89%8D%E7%9F%A5%E9%81%93%E7%9A%84)
 1. [小米汽车超速逆行致4死司机称没钱](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E8%B6%85%E9%80%9F%E9%80%86%E8%A1%8C%E8%87%B44%E6%AD%BB%E5%8F%B8%E6%9C%BA%E7%A7%B0%E6%B2%A1%E9%92%B1)
 1. [女子被锁咬破手指写求救信](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E8%A2%AB%E9%94%81%E5%92%AC%E7%A0%B4%E6%89%8B%E6%8C%87%E5%86%99%E6%B1%82%E6%95%91%E4%BF%A1)
 1. [四川一蜜雪冰橙模仿蜜雪冰城](https://www.zhihu.com/search?q=%E5%9B%9B%E5%B7%9D%E4%B8%80%E8%9C%9C%E9%9B%AA%E5%86%B0%E6%A9%99%E6%A8%A1%E4%BB%BF%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E)
