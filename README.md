@@ -14,19 +14,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Aug 22 2025 19:17:37 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Aug 22 2025 20:42:20 GMT+0800 (China Standard Time) -->
 
 1. [游戏科学发布《黑神话：钟馗》预告](https://www.zhihu.com/search?q=%E6%B8%B8%E6%88%8F%E7%A7%91%E5%AD%A6%E5%8F%91%E5%B8%83%E3%80%8A%E9%BB%91%E7%A5%9E%E8%AF%9D%EF%BC%9A%E9%92%9F%E9%A6%97%E3%80%8B%E9%A2%84%E5%91%8A)
 1. [川青铁路在建大桥绳索断裂致12死4失联](https://www.zhihu.com/search?q=%E5%B7%9D%E9%9D%92%E9%93%81%E8%B7%AF%E5%9C%A8%E5%BB%BA%E5%A4%A7%E6%A1%A5%E7%BB%B3%E7%B4%A2%E6%96%AD%E8%A3%82%E8%87%B412%E6%AD%BB4%E5%A4%B1%E8%81%94)
 1. [罗永浩宣布将做泡面](https://www.zhihu.com/search?q=%E7%BD%97%E6%B0%B8%E6%B5%A9%E5%AE%A3%E5%B8%83%E5%B0%86%E5%81%9A%E6%B3%A1%E9%9D%A2)
 1. [12306回应站台等候区禁烟](https://www.zhihu.com/search?q=12306%E5%9B%9E%E5%BA%94%E7%AB%99%E5%8F%B0%E7%AD%89%E5%80%99%E5%8C%BA%E7%A6%81%E7%83%9F)
-1. [九三阅兵将有装备首次公开亮相](https://www.zhihu.com/search?q=%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5%E5%B0%86%E6%9C%89%E8%A3%85%E5%A4%87%E9%A6%96%E6%AC%A1%E5%85%AC%E5%BC%80%E4%BA%AE%E7%9B%B8)
 1. [DeepSeek更新V3.1](https://www.zhihu.com/search?q=DeepSeek%E6%9B%B4%E6%96%B0V3.1)
-1. [富豪刘伟红收购门店遭房东集体起诉](https://www.zhihu.com/search?q=%E5%AF%8C%E8%B1%AA%E5%88%98%E4%BC%9F%E7%BA%A2%E6%94%B6%E8%B4%AD%E9%97%A8%E5%BA%97%E9%81%AD%E6%88%BF%E4%B8%9C%E9%9B%86%E4%BD%93%E8%B5%B7%E8%AF%89)
+1. [九三阅兵将有装备首次公开亮相](https://www.zhihu.com/search?q=%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5%E5%B0%86%E6%9C%89%E8%A3%85%E5%A4%87%E9%A6%96%E6%AC%A1%E5%85%AC%E5%BC%80%E4%BA%AE%E7%9B%B8)
+1. [乘客质疑售票未考虑乘客体型差异](https://www.zhihu.com/search?q=%E4%B9%98%E5%AE%A2%E8%B4%A8%E7%96%91%E5%94%AE%E7%A5%A8%E6%9C%AA%E8%80%83%E8%99%91%E4%B9%98%E5%AE%A2%E4%BD%93%E5%9E%8B%E5%B7%AE%E5%BC%82)
 1. [年轻人怀念经济上行时期的美](https://www.zhihu.com/search?q=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%80%80%E5%BF%B5%E7%BB%8F%E6%B5%8E%E4%B8%8A%E8%A1%8C%E6%97%B6%E6%9C%9F%E7%9A%84%E7%BE%8E)
 1. [网传一国外老太吹生日蜡烛后去世](https://www.zhihu.com/search?q=%E7%BD%91%E4%BC%A0%E4%B8%80%E5%9B%BD%E5%A4%96%E8%80%81%E5%A4%AA%E5%90%B9%E7%94%9F%E6%97%A5%E8%9C%A1%E7%83%9B%E5%90%8E%E5%8E%BB%E4%B8%96)
+1. [越来越多的年轻人拒绝升职](https://www.zhihu.com/search?q=%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%8B%92%E7%BB%9D%E5%8D%87%E8%81%8C)
+1. [辛巴自创品牌卫生巾被曝有致癌风险](https://www.zhihu.com/search?q=%E8%BE%9B%E5%B7%B4%E8%87%AA%E5%88%9B%E5%93%81%E7%89%8C%E5%8D%AB%E7%94%9F%E5%B7%BE%E8%A2%AB%E6%9B%9D%E6%9C%89%E8%87%B4%E7%99%8C%E9%A3%8E%E9%99%A9)
 1. [歌手千百惠去世](https://www.zhihu.com/search?q=%E6%AD%8C%E6%89%8B%E5%8D%83%E7%99%BE%E6%83%A0%E5%8E%BB%E4%B8%96)
-1. [乘客质疑售票未考虑乘客体型差异](https://www.zhihu.com/search?q=%E4%B9%98%E5%AE%A2%E8%B4%A8%E7%96%91%E5%94%AE%E7%A5%A8%E6%9C%AA%E8%80%83%E8%99%91%E4%B9%98%E5%AE%A2%E4%BD%93%E5%9E%8B%E5%B7%AE%E5%BC%82)
+1. [富豪刘伟红收购门店遭房东集体起诉](https://www.zhihu.com/search?q=%E5%AF%8C%E8%B1%AA%E5%88%98%E4%BC%9F%E7%BA%A2%E6%94%B6%E8%B4%AD%E9%97%A8%E5%BA%97%E9%81%AD%E6%88%BF%E4%B8%9C%E9%9B%86%E4%BD%93%E8%B5%B7%E8%AF%89)
 1. [四川非婚生子领补贴需结婚证](https://www.zhihu.com/search?q=%E5%9B%9B%E5%B7%9D%E9%9D%9E%E5%A9%9A%E7%94%9F%E5%AD%90%E9%A2%86%E8%A1%A5%E8%B4%B4%E9%9C%80%E7%BB%93%E5%A9%9A%E8%AF%81)
 1. [川青铁路在建大桥绳索断裂致10死4失联](https://www.zhihu.com/search?q=%E5%B7%9D%E9%9D%92%E9%93%81%E8%B7%AF%E5%9C%A8%E5%BB%BA%E5%A4%A7%E6%A1%A5%E7%BB%B3%E7%B4%A2%E6%96%AD%E8%A3%82%E8%87%B410%E6%AD%BB4%E5%A4%B1%E8%81%94)
 1. [为什么公司一定要办年会](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%85%AC%E5%8F%B8%E4%B8%80%E5%AE%9A%E8%A6%81%E5%8A%9E%E5%B9%B4%E4%BC%9A)
