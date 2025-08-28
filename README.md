@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Aug 28 2025 20:42:23 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Aug 28 2025 21:30:12 GMT+0800 (China Standard Time) -->
 
 1. [普京、金正恩将出席九三阅兵](https://www.zhihu.com/search?q=%E6%99%AE%E4%BA%AC%E3%80%81%E9%87%91%E6%AD%A3%E6%81%A9%E5%B0%86%E5%87%BA%E5%B8%AD%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5)
 1. [中国足协发布新规](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E8%B6%B3%E5%8D%8F%E5%8F%91%E5%B8%83%E6%96%B0%E8%A7%84)
