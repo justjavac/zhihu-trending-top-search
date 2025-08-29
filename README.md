@@ -14,19 +14,23 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Aug 29 2025 07:18:47 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Aug 29 2025 09:41:08 GMT+0800 (China Standard Time) -->
 
 1. [普京、金正恩将出席九三阅兵](https://www.zhihu.com/search?q=%E6%99%AE%E4%BA%AC%E3%80%81%E9%87%91%E6%AD%A3%E6%81%A9%E5%B0%86%E5%87%BA%E5%B8%AD%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5)
-1. [中国足协发布新规](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E8%B6%B3%E5%8D%8F%E5%8F%91%E5%B8%83%E6%96%B0%E8%A7%84)
+1. [七夕](https://www.zhihu.com/search?q=%E4%B8%83%E5%A4%95)
+1. [迷你版 LABUBU 开售秒空](https://www.zhihu.com/search?q=%E8%BF%B7%E4%BD%A0%E7%89%88%20LABUBU%20%E5%BC%80%E5%94%AE%E7%A7%92%E7%A9%BA)
 1. [特朗普回应霉霉订婚](https://www.zhihu.com/search?q=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E9%9C%89%E9%9C%89%E8%AE%A2%E5%A9%9A)
 1. [北京邮电大学采购巡飞弹](https://www.zhihu.com/search?q=%E5%8C%97%E4%BA%AC%E9%82%AE%E7%94%B5%E5%A4%A7%E5%AD%A6%E9%87%87%E8%B4%AD%E5%B7%A1%E9%A3%9E%E5%BC%B9)
-1. [高速戴恐怖面具男子为外籍老师](https://www.zhihu.com/search?q=%E9%AB%98%E9%80%9F%E6%88%B4%E6%81%90%E6%80%96%E9%9D%A2%E5%85%B7%E7%94%B7%E5%AD%90%E4%B8%BA%E5%A4%96%E7%B1%8D%E8%80%81%E5%B8%88)
-1. [寒武纪能否超越茅台成为新股王](https://www.zhihu.com/search?q=%E5%AF%92%E6%AD%A6%E7%BA%AA%E8%83%BD%E5%90%A6%E8%B6%85%E8%B6%8A%E8%8C%85%E5%8F%B0%E6%88%90%E4%B8%BA%E6%96%B0%E8%82%A1%E7%8E%8B)
+1. [中国足协发布新规](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E8%B6%B3%E5%8D%8F%E5%8F%91%E5%B8%83%E6%96%B0%E8%A7%84)
 1. [网传南京大学青年教师东思嘉离世](https://www.zhihu.com/search?q=%E7%BD%91%E4%BC%A0%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E9%9D%92%E5%B9%B4%E6%95%99%E5%B8%88%E4%B8%9C%E6%80%9D%E5%98%89%E7%A6%BB%E4%B8%96)
+1. [你去过最离谱的景区是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E5%8E%BB%E8%BF%87%E6%9C%80%E7%A6%BB%E8%B0%B1%E7%9A%84%E6%99%AF%E5%8C%BA%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [南京大学青年教师东思嘉离世](https://www.zhihu.com/search?q=%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E9%9D%92%E5%B9%B4%E6%95%99%E5%B8%88%E4%B8%9C%E6%80%9D%E5%98%89%E7%A6%BB%E4%B8%96)
 1. [东思嘉 南京大学](https://www.zhihu.com/search?q=%E4%B8%9C%E6%80%9D%E5%98%89%20%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6)
-1. [把茄子和辣椒混种结出「茄椒」是真的吗](https://www.zhihu.com/search?q=%E6%8A%8A%E8%8C%84%E5%AD%90%E5%92%8C%E8%BE%A3%E6%A4%92%E6%B7%B7%E7%A7%8D%E7%BB%93%E5%87%BA%E3%80%8C%E8%8C%84%E6%A4%92%E3%80%8D%E6%98%AF%E7%9C%9F%E7%9A%84%E5%90%97)
 1. [安徽最大蝗虫现身合肥](https://www.zhihu.com/search?q=%E5%AE%89%E5%BE%BD%E6%9C%80%E5%A4%A7%E8%9D%97%E8%99%AB%E7%8E%B0%E8%BA%AB%E5%90%88%E8%82%A5)
+1. [体制内你见到最狠的是什么样](https://www.zhihu.com/search?q=%E4%BD%93%E5%88%B6%E5%86%85%E4%BD%A0%E8%A7%81%E5%88%B0%E6%9C%80%E7%8B%A0%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7)
+1. [高速戴恐怖面具男子为外籍老师](https://www.zhihu.com/search?q=%E9%AB%98%E9%80%9F%E6%88%B4%E6%81%90%E6%80%96%E9%9D%A2%E5%85%B7%E7%94%B7%E5%AD%90%E4%B8%BA%E5%A4%96%E7%B1%8D%E8%80%81%E5%B8%88)
+1. [寒武纪能否超越茅台成为新股王](https://www.zhihu.com/search?q=%E5%AF%92%E6%AD%A6%E7%BA%AA%E8%83%BD%E5%90%A6%E8%B6%85%E8%B6%8A%E8%8C%85%E5%8F%B0%E6%88%90%E4%B8%BA%E6%96%B0%E8%82%A1%E7%8E%8B)
+1. [把茄子和辣椒混种结出「茄椒」是真的吗](https://www.zhihu.com/search?q=%E6%8A%8A%E8%8C%84%E5%AD%90%E5%92%8C%E8%BE%A3%E6%A4%92%E6%B7%B7%E7%A7%8D%E7%BB%93%E5%87%BA%E3%80%8C%E8%8C%84%E6%A4%92%E3%80%8D%E6%98%AF%E7%9C%9F%E7%9A%84%E5%90%97)
 1. [上海一小学今年仅招到22人](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E4%B8%80%E5%B0%8F%E5%AD%A6%E4%BB%8A%E5%B9%B4%E4%BB%85%E6%8B%9B%E5%88%B022%E4%BA%BA)
 1. [主办方称票房回不了本曾轶可苏州演唱会取消](https://www.zhihu.com/search?q=%E4%B8%BB%E5%8A%9E%E6%96%B9%E7%A7%B0%E7%A5%A8%E6%88%BF%E5%9B%9E%E4%B8%8D%E4%BA%86%E6%9C%AC%E6%9B%BE%E8%BD%B6%E5%8F%AF%E8%8B%8F%E5%B7%9E%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8F%96%E6%B6%88)
 1. [你觉得鲁迅夹烟画会误导青少年吗](https://www.zhihu.com/search?q=%E4%BD%A0%E8%A7%89%E5%BE%97%E9%B2%81%E8%BF%85%E5%A4%B9%E7%83%9F%E7%94%BB%E4%BC%9A%E8%AF%AF%E5%AF%BC%E9%9D%92%E5%B0%91%E5%B9%B4%E5%90%97)
