@@ -1,14 +1,15 @@
 [
   { "query_display": "上海一小学今年仅招到22人", "real_query": "上海一小学今年仅招到22人" },
   { "query_display": "三亚酒店浴缸不断冒出红线虫", "real_query": "三亚酒店浴缸不断冒出红线虫" },
-  { "query_display": "南京大学青年教师东思嘉离世", "real_query": "南京大学青年教师东思嘉离世" },
-  { "query_display": "人的大脑会不会出现「过拟合」病", "real_query": "人的大脑会不会出现「过拟合」病" },
   { "query_display": "蓬莱二中通报教师与学生不文明聊天", "real_query": "蓬莱二中通报教师与学生不文明聊天" },
+  { "query_display": "为啥西瓜这么好成活", "real_query": "为啥西瓜这么好成活" },
+  { "query_display": "南京大学青年教师东思嘉离世", "real_query": "南京大学青年教师东思嘉离世" },
   { "query_display": "韩国知名歌手鸟叔接受警方调查", "real_query": "韩国知名歌手鸟叔接受警方调查" },
   { "query_display": "宗馥莉向最高法院举报杭州法院", "real_query": "宗馥莉向最高法院举报杭州法院" },
   { "query_display": "国乒做什么才能挽回颓势", "real_query": "国乒做什么才能挽回颓势" },
   { "query_display": "美团将取消骑手超时罚款", "real_query": "美团将取消骑手超时罚款" },
   { "query_display": "中芯国际停牌", "real_query": "中芯国际停牌" },
   { "query_display": "为什么时代少年团一开演唱会就出问题", "real_query": "为什么时代少年团一开演唱会就出问题" },
-  { "query_display": "多家银行宣布下调人民币存款利率", "real_query": "多家银行宣布下调人民币存款利率" }
+  { "query_display": "多家银行宣布下调人民币存款利率", "real_query": "多家银行宣布下调人民币存款利率" },
+  { "query_display": "人的大脑会不会出现「过拟合」病", "real_query": "人的大脑会不会出现「过拟合」病" }
 ]
