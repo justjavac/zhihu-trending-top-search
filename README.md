@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Aug 31 2025 03:14:39 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Aug 31 2025 04:20:22 GMT+0800 (China Standard Time) -->
 
 1. [上海一小学今年仅招到22人](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E4%B8%80%E5%B0%8F%E5%AD%A6%E4%BB%8A%E5%B9%B4%E4%BB%85%E6%8B%9B%E5%88%B022%E4%BA%BA)
 1. [三亚酒店浴缸不断冒出红线虫](https://www.zhihu.com/search?q=%E4%B8%89%E4%BA%9A%E9%85%92%E5%BA%97%E6%B5%B4%E7%BC%B8%E4%B8%8D%E6%96%AD%E5%86%92%E5%87%BA%E7%BA%A2%E7%BA%BF%E8%99%AB)
@@ -26,8 +26,9 @@
 1. [成都车展 8 大豪华品牌集体缺席](https://www.zhihu.com/search?q=%E6%88%90%E9%83%BD%E8%BD%A6%E5%B1%95%208%20%E5%A4%A7%E8%B1%AA%E5%8D%8E%E5%93%81%E7%89%8C%E9%9B%86%E4%BD%93%E7%BC%BA%E5%B8%AD)
 1. [美团将取消骑手超时罚款](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%A2%E5%B0%86%E5%8F%96%E6%B6%88%E9%AA%91%E6%89%8B%E8%B6%85%E6%97%B6%E7%BD%9A%E6%AC%BE)
 1. [中芯国际停牌](https://www.zhihu.com/search?q=%E4%B8%AD%E8%8A%AF%E5%9B%BD%E9%99%85%E5%81%9C%E7%89%8C)
-1. [老漂族吐槽自己是「不花钱保姆」](https://www.zhihu.com/search?q=%E8%80%81%E6%BC%82%E6%97%8F%E5%90%90%E6%A7%BD%E8%87%AA%E5%B7%B1%E6%98%AF%E3%80%8C%E4%B8%8D%E8%8A%B1%E9%92%B1%E4%BF%9D%E5%A7%86%E3%80%8D)
+1. [如何看待蝉在地下四年出来七天就死](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E8%9D%89%E5%9C%A8%E5%9C%B0%E4%B8%8B%E5%9B%9B%E5%B9%B4%E5%87%BA%E6%9D%A5%E4%B8%83%E5%A4%A9%E5%B0%B1%E6%AD%BB)
 1. [多家银行宣布下调人民币存款利率](https://www.zhihu.com/search?q=%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E5%AE%A3%E5%B8%83%E4%B8%8B%E8%B0%83%E4%BA%BA%E6%B0%91%E5%B8%81%E5%AD%98%E6%AC%BE%E5%88%A9%E7%8E%87)
+1. [老漂族吐槽自己是「不花钱保姆」](https://www.zhihu.com/search?q=%E8%80%81%E6%BC%82%E6%97%8F%E5%90%90%E6%A7%BD%E8%87%AA%E5%B7%B1%E6%98%AF%E3%80%8C%E4%B8%8D%E8%8A%B1%E9%92%B1%E4%BF%9D%E5%A7%86%E3%80%8D)
 1. [你去过最离谱的景区是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E5%8E%BB%E8%BF%87%E6%9C%80%E7%A6%BB%E8%B0%B1%E7%9A%84%E6%99%AF%E5%8C%BA%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [如何评价女明星 Lisa](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%A5%B3%E6%98%8E%E6%98%9F%20Lisa)
 1. [国乒做什么才能挽回颓势](https://www.zhihu.com/search?q=%E5%9B%BD%E4%B9%92%E5%81%9A%E4%BB%80%E4%B9%88%E6%89%8D%E8%83%BD%E6%8C%BD%E5%9B%9E%E9%A2%93%E5%8A%BF)
