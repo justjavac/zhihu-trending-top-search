@@ -14,18 +14,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Sep 02 2025 00:25:17 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Sep 02 2025 01:16:43 GMT+0800 (China Standard Time) -->
 
 1. [宗馥莉向最高法院举报杭州法院](https://www.zhihu.com/search?q=%E5%AE%97%E9%A6%A5%E8%8E%89%E5%90%91%E6%9C%80%E9%AB%98%E6%B3%95%E9%99%A2%E4%B8%BE%E6%8A%A5%E6%9D%AD%E5%B7%9E%E6%B3%95%E9%99%A2)
 1. [蓬莱二中通报教师与学生不文明聊天](https://www.zhihu.com/search?q=%E8%93%AC%E8%8E%B1%E4%BA%8C%E4%B8%AD%E9%80%9A%E6%8A%A5%E6%95%99%E5%B8%88%E4%B8%8E%E5%AD%A6%E7%94%9F%E4%B8%8D%E6%96%87%E6%98%8E%E8%81%8A%E5%A4%A9)
 1. [几乎绝迹床虱又出现了](https://www.zhihu.com/search?q=%E5%87%A0%E4%B9%8E%E7%BB%9D%E8%BF%B9%E5%BA%8A%E8%99%B1%E5%8F%88%E5%87%BA%E7%8E%B0%E4%BA%86)
-1. [男子每天从张家口去北京上班通勤 6 小时](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%90%E6%AF%8F%E5%A4%A9%E4%BB%8E%E5%BC%A0%E5%AE%B6%E5%8F%A3%E5%8E%BB%E5%8C%97%E4%BA%AC%E4%B8%8A%E7%8F%AD%E9%80%9A%E5%8B%A4%206%20%E5%B0%8F%E6%97%B6)
+1. [良品铺子「花生上树」的宣传引争议后道歉](https://www.zhihu.com/search?q=%E8%89%AF%E5%93%81%E9%93%BA%E5%AD%90%E3%80%8C%E8%8A%B1%E7%94%9F%E4%B8%8A%E6%A0%91%E3%80%8D%E7%9A%84%E5%AE%A3%E4%BC%A0%E5%BC%95%E4%BA%89%E8%AE%AE%E5%90%8E%E9%81%93%E6%AD%89)
 1. [刘强东现身宿迁街头夜市摊](https://www.zhihu.com/search?q=%E5%88%98%E5%BC%BA%E4%B8%9C%E7%8E%B0%E8%BA%AB%E5%AE%BF%E8%BF%81%E8%A1%97%E5%A4%B4%E5%A4%9C%E5%B8%82%E6%91%8A)
 1. [「子涵梓萱」时代已经过去了](https://www.zhihu.com/search?q=%E3%80%8C%E5%AD%90%E6%B6%B5%E6%A2%93%E8%90%B1%E3%80%8D%E6%97%B6%E4%BB%A3%E5%B7%B2%E7%BB%8F%E8%BF%87%E5%8E%BB%E4%BA%86)
 1. [樊振东德甲首秀](https://www.zhihu.com/search?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%BE%B7%E7%94%B2%E9%A6%96%E7%A7%80)
-1. [良品铺子「花生上树」的宣传引争议后道歉](https://www.zhihu.com/search?q=%E8%89%AF%E5%93%81%E9%93%BA%E5%AD%90%E3%80%8C%E8%8A%B1%E7%94%9F%E4%B8%8A%E6%A0%91%E3%80%8D%E7%9A%84%E5%AE%A3%E4%BC%A0%E5%BC%95%E4%BA%89%E8%AE%AE%E5%90%8E%E9%81%93%E6%AD%89)
+1. [学费五千家里让贷一万还让我自己还怎么办](https://www.zhihu.com/search?q=%E5%AD%A6%E8%B4%B9%E4%BA%94%E5%8D%83%E5%AE%B6%E9%87%8C%E8%AE%A9%E8%B4%B7%E4%B8%80%E4%B8%87%E8%BF%98%E8%AE%A9%E6%88%91%E8%87%AA%E5%B7%B1%E8%BF%98%E6%80%8E%E4%B9%88%E5%8A%9E)
 1. [普京、金正恩将出席九三阅兵](https://www.zhihu.com/search?q=%E6%99%AE%E4%BA%AC%E3%80%81%E9%87%91%E6%AD%A3%E6%81%A9%E5%B0%86%E5%87%BA%E5%B8%AD%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5)
 1. [京城四少汪雨结婚](https://www.zhihu.com/search?q=%E4%BA%AC%E5%9F%8E%E5%9B%9B%E5%B0%91%E6%B1%AA%E9%9B%A8%E7%BB%93%E5%A9%9A)
+1. [你见过什么毁三观的事](https://www.zhihu.com/search?q=%E4%BD%A0%E8%A7%81%E8%BF%87%E4%BB%80%E4%B9%88%E6%AF%81%E4%B8%89%E8%A7%82%E7%9A%84%E4%BA%8B)
+1. [印尼为什么暴乱](https://www.zhihu.com/search?q=%E5%8D%B0%E5%B0%BC%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9A%B4%E4%B9%B1)
+1. [男子每天从张家口去北京上班通勤 6 小时](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%90%E6%AF%8F%E5%A4%A9%E4%BB%8E%E5%BC%A0%E5%AE%B6%E5%8F%A3%E5%8E%BB%E5%8C%97%E4%BA%AC%E4%B8%8A%E7%8F%AD%E9%80%9A%E5%8B%A4%206%20%E5%B0%8F%E6%97%B6)
 1. [钉钉一项目团队成员每天睡眠不超 5h](https://www.zhihu.com/search?q=%E9%92%89%E9%92%89%E4%B8%80%E9%A1%B9%E7%9B%AE%E5%9B%A2%E9%98%9F%E6%88%90%E5%91%98%E6%AF%8F%E5%A4%A9%E7%9D%A1%E7%9C%A0%E4%B8%8D%E8%B6%85%205h)
 1. [多地七夕结婚登记同比大幅上升](https://www.zhihu.com/search?q=%E5%A4%9A%E5%9C%B0%E4%B8%83%E5%A4%95%E7%BB%93%E5%A9%9A%E7%99%BB%E8%AE%B0%E5%90%8C%E6%AF%94%E5%A4%A7%E5%B9%85%E4%B8%8A%E5%8D%87)
 
