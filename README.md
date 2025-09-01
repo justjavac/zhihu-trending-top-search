@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Sep 02 2025 04:21:10 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Sep 02 2025 05:17:42 GMT+0800 (China Standard Time) -->
 
 1. [宗馥莉向最高法院举报杭州法院](https://www.zhihu.com/search?q=%E5%AE%97%E9%A6%A5%E8%8E%89%E5%90%91%E6%9C%80%E9%AB%98%E6%B3%95%E9%99%A2%E4%B8%BE%E6%8A%A5%E6%9D%AD%E5%B7%9E%E6%B3%95%E9%99%A2)
 1. [蓬莱二中通报教师与学生不文明聊天](https://www.zhihu.com/search?q=%E8%93%AC%E8%8E%B1%E4%BA%8C%E4%B8%AD%E9%80%9A%E6%8A%A5%E6%95%99%E5%B8%88%E4%B8%8E%E5%AD%A6%E7%94%9F%E4%B8%8D%E6%96%87%E6%98%8E%E8%81%8A%E5%A4%A9)
