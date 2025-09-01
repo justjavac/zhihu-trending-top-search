@@ -14,19 +14,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Sep 01 2025 21:29:49 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Sep 01 2025 22:19:38 GMT+0800 (China Standard Time) -->
 
 1. [蓬莱二中通报教师与学生不文明聊天](https://www.zhihu.com/search?q=%E8%93%AC%E8%8E%B1%E4%BA%8C%E4%B8%AD%E9%80%9A%E6%8A%A5%E6%95%99%E5%B8%88%E4%B8%8E%E5%AD%A6%E7%94%9F%E4%B8%8D%E6%96%87%E6%98%8E%E8%81%8A%E5%A4%A9)
 1. [宗馥莉向最高法院举报杭州法院](https://www.zhihu.com/search?q=%E5%AE%97%E9%A6%A5%E8%8E%89%E5%90%91%E6%9C%80%E9%AB%98%E6%B3%95%E9%99%A2%E4%B8%BE%E6%8A%A5%E6%9D%AD%E5%B7%9E%E6%B3%95%E9%99%A2)
 1. [几乎绝迹床虱又出现了](https://www.zhihu.com/search?q=%E5%87%A0%E4%B9%8E%E7%BB%9D%E8%BF%B9%E5%BA%8A%E8%99%B1%E5%8F%88%E5%87%BA%E7%8E%B0%E4%BA%86)
-1. [如何看待有商家公开出售清华食堂餐具](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E6%9C%89%E5%95%86%E5%AE%B6%E5%85%AC%E5%BC%80%E5%87%BA%E5%94%AE%E6%B8%85%E5%8D%8E%E9%A3%9F%E5%A0%82%E9%A4%90%E5%85%B7)
+1. [王晶的导演水平是不是被严重高估了](https://www.zhihu.com/search?q=%E7%8E%8B%E6%99%B6%E7%9A%84%E5%AF%BC%E6%BC%94%E6%B0%B4%E5%B9%B3%E6%98%AF%E4%B8%8D%E6%98%AF%E8%A2%AB%E4%B8%A5%E9%87%8D%E9%AB%98%E4%BC%B0%E4%BA%86)
 1. [樊振东德甲首秀](https://www.zhihu.com/search?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%BE%B7%E7%94%B2%E9%A6%96%E7%A7%80)
 1. [「子涵梓萱」时代已经过去了](https://www.zhihu.com/search?q=%E3%80%8C%E5%AD%90%E6%B6%B5%E6%A2%93%E8%90%B1%E3%80%8D%E6%97%B6%E4%BB%A3%E5%B7%B2%E7%BB%8F%E8%BF%87%E5%8E%BB%E4%BA%86)
 1. [刘强东现身宿迁街头夜市摊](https://www.zhihu.com/search?q=%E5%88%98%E5%BC%BA%E4%B8%9C%E7%8E%B0%E8%BA%AB%E5%AE%BF%E8%BF%81%E8%A1%97%E5%A4%B4%E5%A4%9C%E5%B8%82%E6%91%8A)
-1. [春秋航空否认故意调低客舱温度售卖毛毯](https://www.zhihu.com/search?q=%E6%98%A5%E7%A7%8B%E8%88%AA%E7%A9%BA%E5%90%A6%E8%AE%A4%E6%95%85%E6%84%8F%E8%B0%83%E4%BD%8E%E5%AE%A2%E8%88%B1%E6%B8%A9%E5%BA%A6%E5%94%AE%E5%8D%96%E6%AF%9B%E6%AF%AF)
+1. [第一次去男朋友家感觉被羞辱了怎么办](https://www.zhihu.com/search?q=%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%8E%BB%E7%94%B7%E6%9C%8B%E5%8F%8B%E5%AE%B6%E6%84%9F%E8%A7%89%E8%A2%AB%E7%BE%9E%E8%BE%B1%E4%BA%86%E6%80%8E%E4%B9%88%E5%8A%9E)
 1. [普京、金正恩将出席九三阅兵](https://www.zhihu.com/search?q=%E6%99%AE%E4%BA%AC%E3%80%81%E9%87%91%E6%AD%A3%E6%81%A9%E5%B0%86%E5%87%BA%E5%B8%AD%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5)
 1. [京城四少汪雨结婚](https://www.zhihu.com/search?q=%E4%BA%AC%E5%9F%8E%E5%9B%9B%E5%B0%91%E6%B1%AA%E9%9B%A8%E7%BB%93%E5%A9%9A)
-1. [王晶的导演水平是不是被严重高估了](https://www.zhihu.com/search?q=%E7%8E%8B%E6%99%B6%E7%9A%84%E5%AF%BC%E6%BC%94%E6%B0%B4%E5%B9%B3%E6%98%AF%E4%B8%8D%E6%98%AF%E8%A2%AB%E4%B8%A5%E9%87%8D%E9%AB%98%E4%BC%B0%E4%BA%86)
+1. [通缩可以通过印钱来解决吗](https://www.zhihu.com/search?q=%E9%80%9A%E7%BC%A9%E5%8F%AF%E4%BB%A5%E9%80%9A%E8%BF%87%E5%8D%B0%E9%92%B1%E6%9D%A5%E8%A7%A3%E5%86%B3%E5%90%97)
+1. [多地七夕结婚登记同比大幅上升](https://www.zhihu.com/search?q=%E5%A4%9A%E5%9C%B0%E4%B8%83%E5%A4%95%E7%BB%93%E5%A9%9A%E7%99%BB%E8%AE%B0%E5%90%8C%E6%AF%94%E5%A4%A7%E5%B9%85%E4%B8%8A%E5%8D%87)
+1. [如何看待有商家公开出售清华食堂餐具](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E6%9C%89%E5%95%86%E5%AE%B6%E5%85%AC%E5%BC%80%E5%87%BA%E5%94%AE%E6%B8%85%E5%8D%8E%E9%A3%9F%E5%A0%82%E9%A4%90%E5%85%B7)
+1. [春秋航空否认故意调低客舱温度售卖毛毯](https://www.zhihu.com/search?q=%E6%98%A5%E7%A7%8B%E8%88%AA%E7%A9%BA%E5%90%A6%E8%AE%A4%E6%95%85%E6%84%8F%E8%B0%83%E4%BD%8E%E5%AE%A2%E8%88%B1%E6%B8%A9%E5%BA%A6%E5%94%AE%E5%8D%96%E6%AF%9B%E6%AF%AF)
 1. [樊振东德甲首战不敌鲁伊斯](https://www.zhihu.com/search?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%BE%B7%E7%94%B2%E9%A6%96%E6%88%98%E4%B8%8D%E6%95%8C%E9%B2%81%E4%BC%8A%E6%96%AF)
 1. [有哪些反人类的科技发明或设计](https://www.zhihu.com/search?q=%E6%9C%89%E5%93%AA%E4%BA%9B%E5%8F%8D%E4%BA%BA%E7%B1%BB%E7%9A%84%E7%A7%91%E6%8A%80%E5%8F%91%E6%98%8E%E6%88%96%E8%AE%BE%E8%AE%A1)
 1. [《南京照相馆》成暑期档票房冠军](https://www.zhihu.com/search?q=%E3%80%8A%E5%8D%97%E4%BA%AC%E7%85%A7%E7%9B%B8%E9%A6%86%E3%80%8B%E6%88%90%E6%9A%91%E6%9C%9F%E6%A1%A3%E7%A5%A8%E6%88%BF%E5%86%A0%E5%86%9B)
