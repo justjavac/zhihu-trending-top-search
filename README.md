@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Sep 02 2025 15:20:30 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Sep 02 2025 16:28:38 GMT+0800 (China Standard Time) -->
 
 1. [九三阅兵](https://www.zhihu.com/search?q=%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5)
 1. [「子涵梓萱」时代已经过去了](https://www.zhihu.com/search?q=%E3%80%8C%E5%AD%90%E6%B6%B5%E6%A2%93%E8%90%B1%E3%80%8D%E6%97%B6%E4%BB%A3%E5%B7%B2%E7%BB%8F%E8%BF%87%E5%8E%BB%E4%BA%86)
@@ -23,12 +23,13 @@
 1. [宗馥莉向最高法院举报杭州法院](https://www.zhihu.com/search?q=%E5%AE%97%E9%A6%A5%E8%8E%89%E5%90%91%E6%9C%80%E9%AB%98%E6%B3%95%E9%99%A2%E4%B8%BE%E6%8A%A5%E6%9D%AD%E5%B7%9E%E6%B3%95%E9%99%A2)
 1. [蓬莱二中通报教师与学生不文明聊天](https://www.zhihu.com/search?q=%E8%93%AC%E8%8E%B1%E4%BA%8C%E4%B8%AD%E9%80%9A%E6%8A%A5%E6%95%99%E5%B8%88%E4%B8%8E%E5%AD%A6%E7%94%9F%E4%B8%8D%E6%96%87%E6%98%8E%E8%81%8A%E5%A4%A9)
 1. [刘强东现身宿迁街头夜市摊](https://www.zhihu.com/search?q=%E5%88%98%E5%BC%BA%E4%B8%9C%E7%8E%B0%E8%BA%AB%E5%AE%BF%E8%BF%81%E8%A1%97%E5%A4%B4%E5%A4%9C%E5%B8%82%E6%91%8A)
-1. [良品铺子「花生上树」的宣传引争议后道歉](https://www.zhihu.com/search?q=%E8%89%AF%E5%93%81%E9%93%BA%E5%AD%90%E3%80%8C%E8%8A%B1%E7%94%9F%E4%B8%8A%E6%A0%91%E3%80%8D%E7%9A%84%E5%AE%A3%E4%BC%A0%E5%BC%95%E4%BA%89%E8%AE%AE%E5%90%8E%E9%81%93%E6%AD%89)
+1. [有哪些常人不知道的「常识」](https://www.zhihu.com/search?q=%E6%9C%89%E5%93%AA%E4%BA%9B%E5%B8%B8%E4%BA%BA%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E3%80%8C%E5%B8%B8%E8%AF%86%E3%80%8D)
 1. [印尼为什么暴乱](https://www.zhihu.com/search?q=%E5%8D%B0%E5%B0%BC%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9A%B4%E4%B9%B1)
 1. [普京、金正恩将出席九三阅兵](https://www.zhihu.com/search?q=%E6%99%AE%E4%BA%AC%E3%80%81%E9%87%91%E6%AD%A3%E6%81%A9%E5%B0%86%E5%87%BA%E5%B8%AD%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5)
 1. [樊振东德甲首战不敌鲁伊斯](https://www.zhihu.com/search?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%BE%B7%E7%94%B2%E9%A6%96%E6%88%98%E4%B8%8D%E6%95%8C%E9%B2%81%E4%BC%8A%E6%96%AF)
+1. [你心目中的排名第一的饮料是哪一款](https://www.zhihu.com/search?q=%E4%BD%A0%E5%BF%83%E7%9B%AE%E4%B8%AD%E7%9A%84%E6%8E%92%E5%90%8D%E7%AC%AC%E4%B8%80%E7%9A%84%E9%A5%AE%E6%96%99%E6%98%AF%E5%93%AA%E4%B8%80%E6%AC%BE)
+1. [良品铺子「花生上树」的宣传引争议后道歉](https://www.zhihu.com/search?q=%E8%89%AF%E5%93%81%E9%93%BA%E5%AD%90%E3%80%8C%E8%8A%B1%E7%94%9F%E4%B8%8A%E6%A0%91%E3%80%8D%E7%9A%84%E5%AE%A3%E4%BC%A0%E5%BC%95%E4%BA%89%E8%AE%AE%E5%90%8E%E9%81%93%E6%AD%89)
 1. [女子试驾新车发生交通事故被 4S 店起诉](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E8%AF%95%E9%A9%BE%E6%96%B0%E8%BD%A6%E5%8F%91%E7%94%9F%E4%BA%A4%E9%80%9A%E4%BA%8B%E6%95%85%E8%A2%AB%204S%20%E5%BA%97%E8%B5%B7%E8%AF%89)
-1. [有哪些常人不知道的「常识」](https://www.zhihu.com/search?q=%E6%9C%89%E5%93%AA%E4%BA%9B%E5%B8%B8%E4%BA%BA%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E3%80%8C%E5%B8%B8%E8%AF%86%E3%80%8D)
 1. [京城四少汪雨结婚](https://www.zhihu.com/search?q=%E4%BA%AC%E5%9F%8E%E5%9B%9B%E5%B0%91%E6%B1%AA%E9%9B%A8%E7%BB%93%E5%A9%9A)
 1. [几乎绝迹床虱又出现了](https://www.zhihu.com/search?q=%E5%87%A0%E4%B9%8E%E7%BB%9D%E8%BF%B9%E5%BA%8A%E8%99%B1%E5%8F%88%E5%87%BA%E7%8E%B0%E4%BA%86)
 1. [我不明白大学到底在学什么](https://www.zhihu.com/search?q=%E6%88%91%E4%B8%8D%E6%98%8E%E7%99%BD%E5%A4%A7%E5%AD%A6%E5%88%B0%E5%BA%95%E5%9C%A8%E5%AD%A6%E4%BB%80%E4%B9%88)
