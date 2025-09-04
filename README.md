@@ -14,20 +14,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Sep 04 2025 21:28:39 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Sep 04 2025 22:19:09 GMT+0800 (China Standard Time) -->
 
 1. [东风61导弹亮相阅兵场](https://www.zhihu.com/search?q=%E4%B8%9C%E9%A3%8E61%E5%AF%BC%E5%BC%B9%E4%BA%AE%E7%9B%B8%E9%98%85%E5%85%B5%E5%9C%BA)
 1. [东风5C打击范围覆盖全球](https://www.zhihu.com/search?q=%E4%B8%9C%E9%A3%8E5C%E6%89%93%E5%87%BB%E8%8C%83%E5%9B%B4%E8%A6%86%E7%9B%96%E5%85%A8%E7%90%83)
 1. [阅兵时五角大楼附近披萨订单激增](https://www.zhihu.com/search?q=%E9%98%85%E5%85%B5%E6%97%B6%E4%BA%94%E8%A7%92%E5%A4%A7%E6%A5%BC%E9%99%84%E8%BF%91%E6%8A%AB%E8%90%A8%E8%AE%A2%E5%8D%95%E6%BF%80%E5%A2%9E)
 1. [岳云鹏因灶台脏淘汰588元扬州炒饭](https://www.zhihu.com/search?q=%E5%B2%B3%E4%BA%91%E9%B9%8F%E5%9B%A0%E7%81%B6%E5%8F%B0%E8%84%8F%E6%B7%98%E6%B1%B0588%E5%85%83%E6%89%AC%E5%B7%9E%E7%82%92%E9%A5%AD)
-1. [为什么人们通常不相信漂亮女孩是一个工程师](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BA%BA%E4%BB%AC%E9%80%9A%E5%B8%B8%E4%B8%8D%E7%9B%B8%E4%BF%A1%E6%BC%82%E4%BA%AE%E5%A5%B3%E5%AD%A9%E6%98%AF%E4%B8%80%E4%B8%AA%E5%B7%A5%E7%A8%8B%E5%B8%88)
-1. [阅兵装备方队亮相](https://www.zhihu.com/search?q=%E9%98%85%E5%85%B5%E8%A3%85%E5%A4%87%E6%96%B9%E9%98%9F%E4%BA%AE%E7%9B%B8)
+1. [如何看待子女为父母举办「彩色葬礼」](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%AD%90%E5%A5%B3%E4%B8%BA%E7%88%B6%E6%AF%8D%E4%B8%BE%E5%8A%9E%E3%80%8C%E5%BD%A9%E8%89%B2%E8%91%AC%E7%A4%BC%E3%80%8D)
 1. [郭帆：改改剧本又何妨](https://www.zhihu.com/search?q=%E9%83%AD%E5%B8%86%EF%BC%9A%E6%94%B9%E6%94%B9%E5%89%A7%E6%9C%AC%E5%8F%88%E4%BD%95%E5%A6%A8)
 1. [杨靖宇支队战旗光荣受阅](https://www.zhihu.com/search?q=%E6%9D%A8%E9%9D%96%E5%AE%87%E6%94%AF%E9%98%9F%E6%88%98%E6%97%97%E5%85%89%E8%8D%A3%E5%8F%97%E9%98%85)
-1. [如何看待子女为父母举办「彩色葬礼」](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%AD%90%E5%A5%B3%E4%B8%BA%E7%88%B6%E6%AF%8D%E4%B8%BE%E5%8A%9E%E3%80%8C%E5%BD%A9%E8%89%B2%E8%91%AC%E7%A4%BC%E3%80%8D)
+1. [阅兵装备方队亮相](https://www.zhihu.com/search?q=%E9%98%85%E5%85%B5%E8%A3%85%E5%A4%87%E6%96%B9%E9%98%9F%E4%BA%AE%E7%9B%B8)
+1. [意大利时装设计师乔治·阿玛尼离世](https://www.zhihu.com/search?q=%E6%84%8F%E5%A4%A7%E5%88%A9%E6%97%B6%E8%A3%85%E8%AE%BE%E8%AE%A1%E5%B8%88%E4%B9%94%E6%B2%BB%C2%B7%E9%98%BF%E7%8E%9B%E5%B0%BC%E7%A6%BB%E4%B8%96)
 1. [阅兵舰载激光武器](https://www.zhihu.com/search?q=%E9%98%85%E5%85%B5%E8%88%B0%E8%BD%BD%E6%BF%80%E5%85%89%E6%AD%A6%E5%99%A8)
-1. [军迷变军盲](https://www.zhihu.com/search?q=%E5%86%9B%E8%BF%B7%E5%8F%98%E5%86%9B%E7%9B%B2)
 1. [知乎有哪些被证实的神预言](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E6%9C%89%E5%93%AA%E4%BA%9B%E8%A2%AB%E8%AF%81%E5%AE%9E%E7%9A%84%E7%A5%9E%E9%A2%84%E8%A8%80)
+1. [军迷变军盲](https://www.zhihu.com/search?q=%E5%86%9B%E8%BF%B7%E5%8F%98%E5%86%9B%E7%9B%B2)
+1. [为什么人们通常不相信漂亮女孩是一个工程师](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BA%BA%E4%BB%AC%E9%80%9A%E5%B8%B8%E4%B8%8D%E7%9B%B8%E4%BF%A1%E6%BC%82%E4%BA%AE%E5%A5%B3%E5%AD%A9%E6%98%AF%E4%B8%80%E4%B8%AA%E5%B7%A5%E7%A8%8B%E5%B8%88)
 1. [专家所说的「房价软着陆」是什么意思](https://www.zhihu.com/search?q=%E4%B8%93%E5%AE%B6%E6%89%80%E8%AF%B4%E7%9A%84%E3%80%8C%E6%88%BF%E4%BB%B7%E8%BD%AF%E7%9D%80%E9%99%86%E3%80%8D%E6%98%AF%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D)
 1. [网传山东师宿舍门锁要看广告是真的吗](https://www.zhihu.com/search?q=%E7%BD%91%E4%BC%A0%E5%B1%B1%E4%B8%9C%E5%B8%88%E5%AE%BF%E8%88%8D%E9%97%A8%E9%94%81%E8%A6%81%E7%9C%8B%E5%B9%BF%E5%91%8A%E6%98%AF%E7%9C%9F%E7%9A%84%E5%90%97)
 1. [金正恩抵京](https://www.zhihu.com/search?q=%E9%87%91%E6%AD%A3%E6%81%A9%E6%8A%B5%E4%BA%AC)
