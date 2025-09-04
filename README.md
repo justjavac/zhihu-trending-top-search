@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Sep 05 2025 05:17:59 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Sep 05 2025 06:18:42 GMT+0800 (China Standard Time) -->
 
 1. [阅兵时五角大楼附近披萨订单激增](https://www.zhihu.com/search?q=%E9%98%85%E5%85%B5%E6%97%B6%E4%BA%94%E8%A7%92%E5%A4%A7%E6%A5%BC%E9%99%84%E8%BF%91%E6%8A%AB%E8%90%A8%E8%AE%A2%E5%8D%95%E6%BF%80%E5%A2%9E)
 1. [东风61导弹亮相阅兵场](https://www.zhihu.com/search?q=%E4%B8%9C%E9%A3%8E61%E5%AF%BC%E5%BC%B9%E4%BA%AE%E7%9B%B8%E9%98%85%E5%85%B5%E5%9C%BA)
