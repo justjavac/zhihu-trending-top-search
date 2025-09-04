@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Sep 05 2025 04:21:58 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Sep 05 2025 05:17:59 GMT+0800 (China Standard Time) -->
 
 1. [阅兵时五角大楼附近披萨订单激增](https://www.zhihu.com/search?q=%E9%98%85%E5%85%B5%E6%97%B6%E4%BA%94%E8%A7%92%E5%A4%A7%E6%A5%BC%E9%99%84%E8%BF%91%E6%8A%AB%E8%90%A8%E8%AE%A2%E5%8D%95%E6%BF%80%E5%A2%9E)
 1. [东风61导弹亮相阅兵场](https://www.zhihu.com/search?q=%E4%B8%9C%E9%A3%8E61%E5%AF%BC%E5%BC%B9%E4%BA%AE%E7%9B%B8%E9%98%85%E5%85%B5%E5%9C%BA)
@@ -27,6 +27,7 @@
 1. [专家说东风61改变了命名规则](https://www.zhihu.com/search?q=%E4%B8%93%E5%AE%B6%E8%AF%B4%E4%B8%9C%E9%A3%8E61%E6%94%B9%E5%8F%98%E4%BA%86%E5%91%BD%E5%90%8D%E8%A7%84%E5%88%99)
 1. [九三阅兵现场关注](https://www.zhihu.com/search?q=%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5%E7%8E%B0%E5%9C%BA%E5%85%B3%E6%B3%A8)
 1. [DF61 导弹威力有多大](https://www.zhihu.com/search?q=DF61%20%E5%AF%BC%E5%BC%B9%E5%A8%81%E5%8A%9B%E6%9C%89%E5%A4%9A%E5%A4%A7)
+1. [丝之歌](https://www.zhihu.com/search?q=%E4%B8%9D%E4%B9%8B%E6%AD%8C)
 1. [9月4日A股行情](https://www.zhihu.com/search?q=9%E6%9C%884%E6%97%A5A%E8%82%A1%E8%A1%8C%E6%83%85)
 1. [意大利时装设计师乔治·阿玛尼离世](https://www.zhihu.com/search?q=%E6%84%8F%E5%A4%A7%E5%88%A9%E6%97%B6%E8%A3%85%E8%AE%BE%E8%AE%A1%E5%B8%88%E4%B9%94%E6%B2%BB%C2%B7%E9%98%BF%E7%8E%9B%E5%B0%BC%E7%A6%BB%E4%B8%96)
 1. [军迷变军盲](https://www.zhihu.com/search?q=%E5%86%9B%E8%BF%B7%E5%8F%98%E5%86%9B%E7%9B%B2)
