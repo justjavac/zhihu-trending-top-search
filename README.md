@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Sep 06 2025 16:22:28 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Sep 06 2025 17:17:58 GMT+0800 (China Standard Time) -->
 
 1. [央行开展 1 万亿买断式逆回购](https://www.zhihu.com/search?q=%E5%A4%AE%E8%A1%8C%E5%BC%80%E5%B1%95%201%20%E4%B8%87%E4%BA%BF%E4%B9%B0%E6%96%AD%E5%BC%8F%E9%80%86%E5%9B%9E%E8%B4%AD)
 1. [北京杜莎夫人蜡像馆将永久关停](https://www.zhihu.com/search?q=%E5%8C%97%E4%BA%AC%E6%9D%9C%E8%8E%8E%E5%A4%AB%E4%BA%BA%E8%9C%A1%E5%83%8F%E9%A6%86%E5%B0%86%E6%B0%B8%E4%B9%85%E5%85%B3%E5%81%9C)
