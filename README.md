@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Sep 10 2025 04:21:49 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Sep 10 2025 05:17:25 GMT+0800 (China Standard Time) -->
 
 1. [卡塔尔首都多哈发生爆炸](https://www.zhihu.com/search?q=%E5%8D%A1%E5%A1%94%E5%B0%94%E9%A6%96%E9%83%BD%E5%A4%9A%E5%93%88%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8)
 1. [小米王腾因泄密被辞退](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%E7%8E%8B%E8%85%BE%E5%9B%A0%E6%B3%84%E5%AF%86%E8%A2%AB%E8%BE%9E%E9%80%80)
