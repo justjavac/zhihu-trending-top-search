@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Sep 11 2025 06:18:28 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Sep 11 2025 07:18:27 GMT+0800 (China Standard Time) -->
 
 1. [iPhone17系列价格](https://www.zhihu.com/search?q=iPhone17%E7%B3%BB%E5%88%97%E4%BB%B7%E6%A0%BC)
 1. [iPhone 17 Pro 丑](https://www.zhihu.com/search?q=iPhone%2017%20Pro%20%E4%B8%91)
@@ -23,13 +23,14 @@
 1. [2025苹果秋季新品发布会](https://www.zhihu.com/search?q=2025%E8%8B%B9%E6%9E%9C%E7%A7%8B%E5%AD%A3%E6%96%B0%E5%93%81%E5%8F%91%E5%B8%83%E4%BC%9A)
 1. [卡塔尔首都多哈发生爆炸](https://www.zhihu.com/search?q=%E5%8D%A1%E5%A1%94%E5%B0%94%E9%A6%96%E9%83%BD%E5%A4%9A%E5%93%88%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8)
 1. [教师节祝福语](https://www.zhihu.com/search?q=%E6%95%99%E5%B8%88%E8%8A%82%E7%A5%9D%E7%A6%8F%E8%AF%AD)
-1. [如何评价在麦当劳办婚礼](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%9C%A8%E9%BA%A6%E5%BD%93%E5%8A%B3%E5%8A%9E%E5%A9%9A%E7%A4%BC)
-1. [王腾回应被小米辞退](https://www.zhihu.com/search?q=%E7%8E%8B%E8%85%BE%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%B0%8F%E7%B1%B3%E8%BE%9E%E9%80%80)
+1. [你住过最贵的酒店是哪家](https://www.zhihu.com/search?q=%E4%BD%A0%E4%BD%8F%E8%BF%87%E6%9C%80%E8%B4%B5%E7%9A%84%E9%85%92%E5%BA%97%E6%98%AF%E5%93%AA%E5%AE%B6)
 1. [广州廖爸爸质疑学校家委会操作违规事件](https://www.zhihu.com/search?q=%E5%B9%BF%E5%B7%9E%E5%BB%96%E7%88%B8%E7%88%B8%E8%B4%A8%E7%96%91%E5%AD%A6%E6%A0%A1%E5%AE%B6%E5%A7%94%E4%BC%9A%E6%93%8D%E4%BD%9C%E8%BF%9D%E8%A7%84%E4%BA%8B%E4%BB%B6)
 1. [以军承认对多哈袭击事件负责](https://www.zhihu.com/search?q=%E4%BB%A5%E5%86%9B%E6%89%BF%E8%AE%A4%E5%AF%B9%E5%A4%9A%E5%93%88%E8%A2%AD%E5%87%BB%E4%BA%8B%E4%BB%B6%E8%B4%9F%E8%B4%A3)
+1. [王腾回应被小米辞退](https://www.zhihu.com/search?q=%E7%8E%8B%E8%85%BE%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%B0%8F%E7%B1%B3%E8%BE%9E%E9%80%80)
+1. [一个人可以蠢到什么程度](https://www.zhihu.com/search?q=%E4%B8%80%E4%B8%AA%E4%BA%BA%E5%8F%AF%E4%BB%A5%E8%A0%A2%E5%88%B0%E4%BB%80%E4%B9%88%E7%A8%8B%E5%BA%A6)
+1. [如何评价在麦当劳办婚礼](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%9C%A8%E9%BA%A6%E5%BD%93%E5%8A%B3%E5%8A%9E%E5%A9%9A%E7%A4%BC)
 1. [钟点工干活 6 年持续盗窃 4 年](https://www.zhihu.com/search?q=%E9%92%9F%E7%82%B9%E5%B7%A5%E5%B9%B2%E6%B4%BB%206%20%E5%B9%B4%E6%8C%81%E7%BB%AD%E7%9B%97%E7%AA%83%204%20%E5%B9%B4)
 1. [为什么现在商场都是聚酯纤维的衣服](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E5%95%86%E5%9C%BA%E9%83%BD%E6%98%AF%E8%81%9A%E9%85%AF%E7%BA%A4%E7%BB%B4%E7%9A%84%E8%A1%A3%E6%9C%8D)
-1. [你住过最贵的酒店是哪家](https://www.zhihu.com/search?q=%E4%BD%A0%E4%BD%8F%E8%BF%87%E6%9C%80%E8%B4%B5%E7%9A%84%E9%85%92%E5%BA%97%E6%98%AF%E5%93%AA%E5%AE%B6)
 
 <!-- END -->
 
