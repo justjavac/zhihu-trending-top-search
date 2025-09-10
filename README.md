@@ -14,20 +14,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Sep 10 2025 22:19:08 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Sep 10 2025 23:21:06 GMT+0800 (China Standard Time) -->
 
 1. [iPhone17系列价格](https://www.zhihu.com/search?q=iPhone17%E7%B3%BB%E5%88%97%E4%BB%B7%E6%A0%BC)
 1. [iPhone 17 Pro 丑](https://www.zhihu.com/search?q=iPhone%2017%20Pro%20%E4%B8%91)
 1. [那英老公被曝疑似出轨](https://www.zhihu.com/search?q=%E9%82%A3%E8%8B%B1%E8%80%81%E5%85%AC%E8%A2%AB%E6%9B%9D%E7%96%91%E4%BC%BC%E5%87%BA%E8%BD%A8)
 1. [教师节祝福](https://www.zhihu.com/search?q=%E6%95%99%E5%B8%88%E8%8A%82%E7%A5%9D%E7%A6%8F)
 1. [2025苹果秋季新品发布会](https://www.zhihu.com/search?q=2025%E8%8B%B9%E6%9E%9C%E7%A7%8B%E5%AD%A3%E6%96%B0%E5%93%81%E5%8F%91%E5%B8%83%E4%BC%9A)
-1. [教师节](https://www.zhihu.com/search?q=%E6%95%99%E5%B8%88%E8%8A%82)
 1. [小米王腾因泄密被辞退](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%E7%8E%8B%E8%85%BE%E5%9B%A0%E6%B3%84%E5%AF%86%E8%A2%AB%E8%BE%9E%E9%80%80)
 1. [卡塔尔首都多哈发生爆炸](https://www.zhihu.com/search?q=%E5%8D%A1%E5%A1%94%E5%B0%94%E9%A6%96%E9%83%BD%E5%A4%9A%E5%93%88%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8)
-1. [王腾回应被小米辞退](https://www.zhihu.com/search?q=%E7%8E%8B%E8%85%BE%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%B0%8F%E7%B1%B3%E8%BE%9E%E9%80%80)
-1. [如何看待辛芷蕾获威尼斯电影节最佳女演员](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E8%BE%9B%E8%8A%B7%E8%95%BE%E8%8E%B7%E5%A8%81%E5%B0%BC%E6%96%AF%E7%94%B5%E5%BD%B1%E8%8A%82%E6%9C%80%E4%BD%B3%E5%A5%B3%E6%BC%94%E5%91%98)
 1. [教师节祝福语](https://www.zhihu.com/search?q=%E6%95%99%E5%B8%88%E8%8A%82%E7%A5%9D%E7%A6%8F%E8%AF%AD)
+1. [如何评价在麦当劳办婚礼](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%9C%A8%E9%BA%A6%E5%BD%93%E5%8A%B3%E5%8A%9E%E5%A9%9A%E7%A4%BC)
+1. [王腾回应被小米辞退](https://www.zhihu.com/search?q=%E7%8E%8B%E8%85%BE%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%B0%8F%E7%B1%B3%E8%BE%9E%E9%80%80)
 1. [广州廖爸爸质疑学校家委会操作违规事件](https://www.zhihu.com/search?q=%E5%B9%BF%E5%B7%9E%E5%BB%96%E7%88%B8%E7%88%B8%E8%B4%A8%E7%96%91%E5%AD%A6%E6%A0%A1%E5%AE%B6%E5%A7%94%E4%BC%9A%E6%93%8D%E4%BD%9C%E8%BF%9D%E8%A7%84%E4%BA%8B%E4%BB%B6)
+1. [以军承认对多哈袭击事件负责](https://www.zhihu.com/search?q=%E4%BB%A5%E5%86%9B%E6%89%BF%E8%AE%A4%E5%AF%B9%E5%A4%9A%E5%93%88%E8%A2%AD%E5%87%BB%E4%BA%8B%E4%BB%B6%E8%B4%9F%E8%B4%A3)
+1. [教师节](https://www.zhihu.com/search?q=%E6%95%99%E5%B8%88%E8%8A%82)
+1. [如何看待辛芷蕾获威尼斯电影节最佳女演员](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E8%BE%9B%E8%8A%B7%E8%95%BE%E8%8E%B7%E5%A8%81%E5%B0%BC%E6%96%AF%E7%94%B5%E5%BD%B1%E8%8A%82%E6%9C%80%E4%BD%B3%E5%A5%B3%E6%BC%94%E5%91%98)
 1. [面相长的凶是什么体验](https://www.zhihu.com/search?q=%E9%9D%A2%E7%9B%B8%E9%95%BF%E7%9A%84%E5%87%B6%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C)
 1. [五常的一票否决权是否存在 bug](https://www.zhihu.com/search?q=%E4%BA%94%E5%B8%B8%E7%9A%84%E4%B8%80%E7%A5%A8%E5%90%A6%E5%86%B3%E6%9D%83%E6%98%AF%E5%90%A6%E5%AD%98%E5%9C%A8%20bug)
 1. [游客在涠洲岛捡到采血管](https://www.zhihu.com/search?q=%E6%B8%B8%E5%AE%A2%E5%9C%A8%E6%B6%A0%E6%B4%B2%E5%B2%9B%E6%8D%A1%E5%88%B0%E9%87%87%E8%A1%80%E7%AE%A1)
@@ -43,7 +45,6 @@
 1. [辛芷蕾夺威尼斯电影节影后](https://www.zhihu.com/search?q=%E8%BE%9B%E8%8A%B7%E8%95%BE%E5%A4%BA%E5%A8%81%E5%B0%BC%E6%96%AF%E7%94%B5%E5%BD%B1%E8%8A%82%E5%BD%B1%E5%90%8E)
 1. [河南多地惊现南方会飞大蟑螂](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8D%97%E5%A4%9A%E5%9C%B0%E6%83%8A%E7%8E%B0%E5%8D%97%E6%96%B9%E4%BC%9A%E9%A3%9E%E5%A4%A7%E8%9F%91%E8%9E%82)
 1. [领导安排过量的工作承受不了怎么办](https://www.zhihu.com/search?q=%E9%A2%86%E5%AF%BC%E5%AE%89%E6%8E%92%E8%BF%87%E9%87%8F%E7%9A%84%E5%B7%A5%E4%BD%9C%E6%89%BF%E5%8F%97%E4%B8%8D%E4%BA%86%E6%80%8E%E4%B9%88%E5%8A%9E)
-1. [如何评价在麦当劳办婚礼](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%9C%A8%E9%BA%A6%E5%BD%93%E5%8A%B3%E5%8A%9E%E5%A9%9A%E7%A4%BC)
 1. [钟点工干活 6 年持续盗窃 4 年](https://www.zhihu.com/search?q=%E9%92%9F%E7%82%B9%E5%B7%A5%E5%B9%B2%E6%B4%BB%206%20%E5%B9%B4%E6%8C%81%E7%BB%AD%E7%9B%97%E7%AA%83%204%20%E5%B9%B4)
 1. [中方反制日本参议员石平](https://www.zhihu.com/search?q=%E4%B8%AD%E6%96%B9%E5%8F%8D%E5%88%B6%E6%97%A5%E6%9C%AC%E5%8F%82%E8%AE%AE%E5%91%98%E7%9F%B3%E5%B9%B3)
 
