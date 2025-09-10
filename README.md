@@ -14,14 +14,14 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Sep 10 2025 17:21:21 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Sep 10 2025 18:20:56 GMT+0800 (China Standard Time) -->
 
 1. [iPhone17系列价格](https://www.zhihu.com/search?q=iPhone17%E7%B3%BB%E5%88%97%E4%BB%B7%E6%A0%BC)
 1. [iPhone 17 Pro 丑](https://www.zhihu.com/search?q=iPhone%2017%20Pro%20%E4%B8%91)
-1. [那英老公被曝疑似出轨](https://www.zhihu.com/search?q=%E9%82%A3%E8%8B%B1%E8%80%81%E5%85%AC%E8%A2%AB%E6%9B%9D%E7%96%91%E4%BC%BC%E5%87%BA%E8%BD%A8)
+1. [教师节](https://www.zhihu.com/search?q=%E6%95%99%E5%B8%88%E8%8A%82)
 1. [教师节祝福](https://www.zhihu.com/search?q=%E6%95%99%E5%B8%88%E8%8A%82%E7%A5%9D%E7%A6%8F)
 1. [2025苹果秋季新品发布会](https://www.zhihu.com/search?q=2025%E8%8B%B9%E6%9E%9C%E7%A7%8B%E5%AD%A3%E6%96%B0%E5%93%81%E5%8F%91%E5%B8%83%E4%BC%9A)
-1. [教师节](https://www.zhihu.com/search?q=%E6%95%99%E5%B8%88%E8%8A%82)
+1. [那英老公被曝疑似出轨](https://www.zhihu.com/search?q=%E9%82%A3%E8%8B%B1%E8%80%81%E5%85%AC%E8%A2%AB%E6%9B%9D%E7%96%91%E4%BC%BC%E5%87%BA%E8%BD%A8)
 1. [小米王腾因泄密被辞退](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%E7%8E%8B%E8%85%BE%E5%9B%A0%E6%B3%84%E5%AF%86%E8%A2%AB%E8%BE%9E%E9%80%80)
 1. [卡塔尔首都多哈发生爆炸](https://www.zhihu.com/search?q=%E5%8D%A1%E5%A1%94%E5%B0%94%E9%A6%96%E9%83%BD%E5%A4%9A%E5%93%88%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8)
 1. [王腾回应被小米辞退](https://www.zhihu.com/search?q=%E7%8E%8B%E8%85%BE%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%B0%8F%E7%B1%B3%E8%BE%9E%E9%80%80)
