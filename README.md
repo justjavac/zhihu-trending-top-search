@@ -14,15 +14,16 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Sep 11 2025 21:24:53 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Sep 11 2025 22:20:11 GMT+0800 (China Standard Time) -->
 
 1. [于朦胧确认去世](https://www.zhihu.com/search?q=%E4%BA%8E%E6%9C%A6%E8%83%A7%E7%A1%AE%E8%AE%A4%E5%8E%BB%E4%B8%96)
+1. [西贝创始人贾国龙称将起诉罗永浩](https://www.zhihu.com/search?q=%E8%A5%BF%E8%B4%9D%E5%88%9B%E5%A7%8B%E4%BA%BA%E8%B4%BE%E5%9B%BD%E9%BE%99%E7%A7%B0%E5%B0%86%E8%B5%B7%E8%AF%89%E7%BD%97%E6%B0%B8%E6%B5%A9)
 1. [小米王腾因泄密被辞退](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%E7%8E%8B%E8%85%BE%E5%9B%A0%E6%B3%84%E5%AF%86%E8%A2%AB%E8%BE%9E%E9%80%80)
-1. [iPhone17系列价格](https://www.zhihu.com/search?q=iPhone17%E7%B3%BB%E5%88%97%E4%BB%B7%E6%A0%BC)
-1. [王辰被免去中国工程院副院长职务](https://www.zhihu.com/search?q=%E7%8E%8B%E8%BE%B0%E8%A2%AB%E5%85%8D%E5%8E%BB%E4%B8%AD%E5%9B%BD%E5%B7%A5%E7%A8%8B%E9%99%A2%E5%89%AF%E9%99%A2%E9%95%BF%E8%81%8C%E5%8A%A1)
 1. [成都地铁诬告偷拍案二审维持原判](https://www.zhihu.com/search?q=%E6%88%90%E9%83%BD%E5%9C%B0%E9%93%81%E8%AF%AC%E5%91%8A%E5%81%B7%E6%8B%8D%E6%A1%88%E4%BA%8C%E5%AE%A1%E7%BB%B4%E6%8C%81%E5%8E%9F%E5%88%A4)
-1. [政治盟友遭枪击身亡 特朗普：降半旗](https://www.zhihu.com/search?q=%E6%94%BF%E6%B2%BB%E7%9B%9F%E5%8F%8B%E9%81%AD%E6%9E%AA%E5%87%BB%E8%BA%AB%E4%BA%A1%20%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E9%99%8D%E5%8D%8A%E6%97%97)
+1. [王辰被免去中国工程院副院长职务](https://www.zhihu.com/search?q=%E7%8E%8B%E8%BE%B0%E8%A2%AB%E5%85%8D%E5%8E%BB%E4%B8%AD%E5%9B%BD%E5%B7%A5%E7%A8%8B%E9%99%A2%E5%89%AF%E9%99%A2%E9%95%BF%E8%81%8C%E5%8A%A1)
+1. [iPhone17系列价格](https://www.zhihu.com/search?q=iPhone17%E7%B3%BB%E5%88%97%E4%BB%B7%E6%A0%BC)
 1. [于朦胧](https://www.zhihu.com/search?q=%E4%BA%8E%E6%9C%A6%E8%83%A7)
+1. [政治盟友遭枪击身亡 特朗普：降半旗](https://www.zhihu.com/search?q=%E6%94%BF%E6%B2%BB%E7%9B%9F%E5%8F%8B%E9%81%AD%E6%9E%AA%E5%87%BB%E8%BA%AB%E4%BA%A1%20%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E9%99%8D%E5%8D%8A%E6%97%97)
 1. [你的学校发生过最扯的事是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9A%84%E5%AD%A6%E6%A0%A1%E5%8F%91%E7%94%9F%E8%BF%87%E6%9C%80%E6%89%AF%E7%9A%84%E4%BA%8B%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [iPhone 17 Pro 丑](https://www.zhihu.com/search?q=iPhone%2017%20Pro%20%E4%B8%91)
 1. [卡塔尔首都多哈发生爆炸](https://www.zhihu.com/search?q=%E5%8D%A1%E5%A1%94%E5%B0%94%E9%A6%96%E9%83%BD%E5%A4%9A%E5%93%88%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8)
