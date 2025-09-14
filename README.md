@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Sep 15 2025 00:21:05 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Sep 15 2025 01:14:44 GMT+0800 (China Standard Time) -->
 
 1. [西贝创始人贾国龙道歉：改](https://www.zhihu.com/search?q=%E8%A5%BF%E8%B4%9D%E5%88%9B%E5%A7%8B%E4%BA%BA%E8%B4%BE%E5%9B%BD%E9%BE%99%E9%81%93%E6%AD%89%EF%BC%9A%E6%94%B9)
 1. [于朦胧](https://www.zhihu.com/search?q=%E4%BA%8E%E6%9C%A6%E8%83%A7)
@@ -26,8 +26,9 @@
 1. [于朦胧确认去世](https://www.zhihu.com/search?q=%E4%BA%8E%E6%9C%A6%E8%83%A7%E7%A1%AE%E8%AE%A4%E5%8E%BB%E4%B8%96)
 1. [共享单车骑行中突然被锁致用户骨折](https://www.zhihu.com/search?q=%E5%85%B1%E4%BA%AB%E5%8D%95%E8%BD%A6%E9%AA%91%E8%A1%8C%E4%B8%AD%E7%AA%81%E7%84%B6%E8%A2%AB%E9%94%81%E8%87%B4%E7%94%A8%E6%88%B7%E9%AA%A8%E6%8A%98)
 1. [罗永浩宣布与西贝停战](https://www.zhihu.com/search?q=%E7%BD%97%E6%B0%B8%E6%B5%A9%E5%AE%A3%E5%B8%83%E4%B8%8E%E8%A5%BF%E8%B4%9D%E5%81%9C%E6%88%98)
-1. [预制菜国标草案过审](https://www.zhihu.com/search?q=%E9%A2%84%E5%88%B6%E8%8F%9C%E5%9B%BD%E6%A0%87%E8%8D%89%E6%A1%88%E8%BF%87%E5%AE%A1)
 1. [唐嫣金熊猫最佳女主](https://www.zhihu.com/search?q=%E5%94%90%E5%AB%A3%E9%87%91%E7%86%8A%E7%8C%AB%E6%9C%80%E4%BD%B3%E5%A5%B3%E4%B8%BB)
+1. [罗永浩吐槽西贝几乎全是预制菜](https://www.zhihu.com/search?q=%E7%BD%97%E6%B0%B8%E6%B5%A9%E5%90%90%E6%A7%BD%E8%A5%BF%E8%B4%9D%E5%87%A0%E4%B9%8E%E5%85%A8%E6%98%AF%E9%A2%84%E5%88%B6%E8%8F%9C)
+1. [预制菜国标草案过审](https://www.zhihu.com/search?q=%E9%A2%84%E5%88%B6%E8%8F%9C%E5%9B%BD%E6%A0%87%E8%8D%89%E6%A1%88%E8%BF%87%E5%AE%A1)
 
 <!-- END -->
 
