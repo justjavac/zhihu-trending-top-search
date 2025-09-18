@@ -14,21 +14,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Sep 18 2025 10:58:14 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Sep 18 2025 11:34:12 GMT+0800 (China Standard Time) -->
 
 1. [九一八事变 94 周年](https://www.zhihu.com/search?q=%E4%B9%9D%E4%B8%80%E5%85%AB%E4%BA%8B%E5%8F%98%2094%20%E5%91%A8%E5%B9%B4)
 1. [12306 回应开票即候补](https://www.zhihu.com/search?q=12306%20%E5%9B%9E%E5%BA%94%E5%BC%80%E7%A5%A8%E5%8D%B3%E5%80%99%E8%A1%A5)
 1. [美联储宣布降息 25 个基点](https://www.zhihu.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8%E5%AE%A3%E5%B8%83%E9%99%8D%E6%81%AF%2025%20%E4%B8%AA%E5%9F%BA%E7%82%B9)
 1. [丝瓜汤文学为何引起共鸣](https://www.zhihu.com/search?q=%E4%B8%9D%E7%93%9C%E6%B1%A4%E6%96%87%E5%AD%A6%E4%B8%BA%E4%BD%95%E5%BC%95%E8%B5%B7%E5%85%B1%E9%B8%A3)
 1. [关于预制菜，你应该知道这些](https://www.zhihu.com/search?q=%E5%85%B3%E4%BA%8E%E9%A2%84%E5%88%B6%E8%8F%9C%EF%BC%8C%E4%BD%A0%E5%BA%94%E8%AF%A5%E7%9F%A5%E9%81%93%E8%BF%99%E4%BA%9B)
-1. [西贝致歉：多款餐品改为门店现做](https://www.zhihu.com/search?q=%E8%A5%BF%E8%B4%9D%E8%87%B4%E6%AD%89%EF%BC%9A%E5%A4%9A%E6%AC%BE%E9%A4%90%E5%93%81%E6%94%B9%E4%B8%BA%E9%97%A8%E5%BA%97%E7%8E%B0%E5%81%9A)
+1. [预制菜之王萨莉亚为啥没人骂](https://www.zhihu.com/search?q=%E9%A2%84%E5%88%B6%E8%8F%9C%E4%B9%8B%E7%8E%8B%E8%90%A8%E8%8E%89%E4%BA%9A%E4%B8%BA%E5%95%A5%E6%B2%A1%E4%BA%BA%E9%AA%82)
 1. [以色列面临全面孤立](https://www.zhihu.com/search?q=%E4%BB%A5%E8%89%B2%E5%88%97%E9%9D%A2%E4%B8%B4%E5%85%A8%E9%9D%A2%E5%AD%A4%E7%AB%8B)
+1. [西贝致歉：多款餐品改为门店现做](https://www.zhihu.com/search?q=%E8%A5%BF%E8%B4%9D%E8%87%B4%E6%AD%89%EF%BC%9A%E5%A4%9A%E6%AC%BE%E9%A4%90%E5%93%81%E6%94%B9%E4%B8%BA%E9%97%A8%E5%BA%97%E7%8E%B0%E5%81%9A)
 1. [北大副校长任羽中主动投案](https://www.zhihu.com/search?q=%E5%8C%97%E5%A4%A7%E5%89%AF%E6%A0%A1%E9%95%BF%E4%BB%BB%E7%BE%BD%E4%B8%AD%E4%B8%BB%E5%8A%A8%E6%8A%95%E6%A1%88)
-1. [中国完成了哪些在外国人看来难以完成的事](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E5%AE%8C%E6%88%90%E4%BA%86%E5%93%AA%E4%BA%9B%E5%9C%A8%E5%A4%96%E5%9B%BD%E4%BA%BA%E7%9C%8B%E6%9D%A5%E9%9A%BE%E4%BB%A5%E5%AE%8C%E6%88%90%E7%9A%84%E4%BA%8B)
+1. [对「岁月是把杀猪刀」有什么好的诠释](https://www.zhihu.com/search?q=%E5%AF%B9%E3%80%8C%E5%B2%81%E6%9C%88%E6%98%AF%E6%8A%8A%E6%9D%80%E7%8C%AA%E5%88%80%E3%80%8D%E6%9C%89%E4%BB%80%E4%B9%88%E5%A5%BD%E7%9A%84%E8%AF%A0%E9%87%8A)
 1. [于朦胧母亲发声](https://www.zhihu.com/search?q=%E4%BA%8E%E6%9C%A6%E8%83%A7%E6%AF%8D%E4%BA%B2%E5%8F%91%E5%A3%B0)
 1. [重庆理工大学多名男性留学生混住在女生宿舍楼](https://www.zhihu.com/search?q=%E9%87%8D%E5%BA%86%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6%E5%A4%9A%E5%90%8D%E7%94%B7%E6%80%A7%E7%95%99%E5%AD%A6%E7%94%9F%E6%B7%B7%E4%BD%8F%E5%9C%A8%E5%A5%B3%E7%94%9F%E5%AE%BF%E8%88%8D%E6%A5%BC)
+1. [中国完成了哪些在外国人看来难以完成的事](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E5%AE%8C%E6%88%90%E4%BA%86%E5%93%AA%E4%BA%9B%E5%9C%A8%E5%A4%96%E5%9B%BD%E4%BA%BA%E7%9C%8B%E6%9D%A5%E9%9A%BE%E4%BB%A5%E5%AE%8C%E6%88%90%E7%9A%84%E4%BA%8B)
 1. [水贝料商卷走胖东来90万黄金](https://www.zhihu.com/search?q=%E6%B0%B4%E8%B4%9D%E6%96%99%E5%95%86%E5%8D%B7%E8%B5%B0%E8%83%96%E4%B8%9C%E6%9D%A590%E4%B8%87%E9%BB%84%E9%87%91)
-1. [对「岁月是把杀猪刀」有什么好的诠释](https://www.zhihu.com/search?q=%E5%AF%B9%E3%80%8C%E5%B2%81%E6%9C%88%E6%98%AF%E6%8A%8A%E6%9D%80%E7%8C%AA%E5%88%80%E3%80%8D%E6%9C%89%E4%BB%80%E4%B9%88%E5%A5%BD%E7%9A%84%E8%AF%A0%E9%87%8A)
 1. [于朦胧](https://www.zhihu.com/search?q=%E4%BA%8E%E6%9C%A6%E8%83%A7)
 1. [于朦胧系饮酒意外坠亡](https://www.zhihu.com/search?q=%E4%BA%8E%E6%9C%A6%E8%83%A7%E7%B3%BB%E9%A5%AE%E9%85%92%E6%84%8F%E5%A4%96%E5%9D%A0%E4%BA%A1)
 1. [「窜稀」酸奶为何爆火](https://www.zhihu.com/search?q=%E3%80%8C%E7%AA%9C%E7%A8%80%E3%80%8D%E9%85%B8%E5%A5%B6%E4%B8%BA%E4%BD%95%E7%88%86%E7%81%AB)
