@@ -14,20 +14,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Sep 19 2025 02:30:04 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Sep 19 2025 03:16:48 GMT+0800 (China Standard Time) -->
 
 1. [美联储宣布降息 25 个基点](https://www.zhihu.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8%E5%AE%A3%E5%B8%83%E9%99%8D%E6%81%AF%2025%20%E4%B8%AA%E5%9F%BA%E7%82%B9)
 1. [丝瓜汤文学为何引起共鸣](https://www.zhihu.com/search?q=%E4%B8%9D%E7%93%9C%E6%B1%A4%E6%96%87%E5%AD%A6%E4%B8%BA%E4%BD%95%E5%BC%95%E8%B5%B7%E5%85%B1%E9%B8%A3)
 1. [预制菜之王萨莉亚为啥没人骂](https://www.zhihu.com/search?q=%E9%A2%84%E5%88%B6%E8%8F%9C%E4%B9%8B%E7%8E%8B%E8%90%A8%E8%8E%89%E4%BA%9A%E4%B8%BA%E5%95%A5%E6%B2%A1%E4%BA%BA%E9%AA%82)
-1. [对「岁月是把杀猪刀」有什么好的诠释](https://www.zhihu.com/search?q=%E5%AF%B9%E3%80%8C%E5%B2%81%E6%9C%88%E6%98%AF%E6%8A%8A%E6%9D%80%E7%8C%AA%E5%88%80%E3%80%8D%E6%9C%89%E4%BB%80%E4%B9%88%E5%A5%BD%E7%9A%84%E8%AF%A0%E9%87%8A)
+1. [海底捞小便事件判肇事者赔 220 万](https://www.zhihu.com/search?q=%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%B0%8F%E4%BE%BF%E4%BA%8B%E4%BB%B6%E5%88%A4%E8%82%87%E4%BA%8B%E8%80%85%E8%B5%94%20220%20%E4%B8%87)
 1. [九一八事变 94 周年](https://www.zhihu.com/search?q=%E4%B9%9D%E4%B8%80%E5%85%AB%E4%BA%8B%E5%8F%98%2094%20%E5%91%A8%E5%B9%B4)
 1. [户晨风账号疑似被封](https://www.zhihu.com/search?q=%E6%88%B7%E6%99%A8%E9%A3%8E%E8%B4%A6%E5%8F%B7%E7%96%91%E4%BC%BC%E8%A2%AB%E5%B0%81)
 1. [西贝致歉：多款餐品改为门店现做](https://www.zhihu.com/search?q=%E8%A5%BF%E8%B4%9D%E8%87%B4%E6%AD%89%EF%BC%9A%E5%A4%9A%E6%AC%BE%E9%A4%90%E5%93%81%E6%94%B9%E4%B8%BA%E9%97%A8%E5%BA%97%E7%8E%B0%E5%81%9A)
-1. [海底捞小便事件判肇事者赔 220 万](https://www.zhihu.com/search?q=%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%B0%8F%E4%BE%BF%E4%BA%8B%E4%BB%B6%E5%88%A4%E8%82%87%E4%BA%8B%E8%80%85%E8%B5%94%20220%20%E4%B8%87)
+1. [作为西贝公关公司华与华这次表现合格吗](https://www.zhihu.com/search?q=%E4%BD%9C%E4%B8%BA%E8%A5%BF%E8%B4%9D%E5%85%AC%E5%85%B3%E5%85%AC%E5%8F%B8%E5%8D%8E%E4%B8%8E%E5%8D%8E%E8%BF%99%E6%AC%A1%E8%A1%A8%E7%8E%B0%E5%90%88%E6%A0%BC%E5%90%97)
 1. [北大副校长任羽中主动投案](https://www.zhihu.com/search?q=%E5%8C%97%E5%A4%A7%E5%89%AF%E6%A0%A1%E9%95%BF%E4%BB%BB%E7%BE%BD%E4%B8%AD%E4%B8%BB%E5%8A%A8%E6%8A%95%E6%A1%88)
 1. [于朦胧母亲发声](https://www.zhihu.com/search?q=%E4%BA%8E%E6%9C%A6%E8%83%A7%E6%AF%8D%E4%BA%B2%E5%8F%91%E5%A3%B0)
-1. [作为西贝公关公司华与华这次表现合格吗](https://www.zhihu.com/search?q=%E4%BD%9C%E4%B8%BA%E8%A5%BF%E8%B4%9D%E5%85%AC%E5%85%B3%E5%85%AC%E5%8F%B8%E5%8D%8E%E4%B8%8E%E5%8D%8E%E8%BF%99%E6%AC%A1%E8%A1%A8%E7%8E%B0%E5%90%88%E6%A0%BC%E5%90%97)
+1. [保镖团队转型为丁克老人当假儿子月入过万](https://www.zhihu.com/search?q=%E4%BF%9D%E9%95%96%E5%9B%A2%E9%98%9F%E8%BD%AC%E5%9E%8B%E4%B8%BA%E4%B8%81%E5%85%8B%E8%80%81%E4%BA%BA%E5%BD%93%E5%81%87%E5%84%BF%E5%AD%90%E6%9C%88%E5%85%A5%E8%BF%87%E4%B8%87)
 1. [女子踩「化骨水」身亡事件涉案者被抓](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E8%B8%A9%E3%80%8C%E5%8C%96%E9%AA%A8%E6%B0%B4%E3%80%8D%E8%BA%AB%E4%BA%A1%E4%BA%8B%E4%BB%B6%E6%B6%89%E6%A1%88%E8%80%85%E8%A2%AB%E6%8A%93)
+1. [对「岁月是把杀猪刀」有什么好的诠释](https://www.zhihu.com/search?q=%E5%AF%B9%E3%80%8C%E5%B2%81%E6%9C%88%E6%98%AF%E6%8A%8A%E6%9D%80%E7%8C%AA%E5%88%80%E3%80%8D%E6%9C%89%E4%BB%80%E4%B9%88%E5%A5%BD%E7%9A%84%E8%AF%A0%E9%87%8A)
 1. [如何评价小米跳过 16 直接发布 17](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%B0%8F%E7%B1%B3%E8%B7%B3%E8%BF%87%2016%20%E7%9B%B4%E6%8E%A5%E5%8F%91%E5%B8%83%2017)
 
 <!-- END -->
