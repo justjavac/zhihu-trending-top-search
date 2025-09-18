@@ -14,20 +14,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Sep 18 2025 20:41:41 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Sep 18 2025 21:28:27 GMT+0800 (China Standard Time) -->
 
 1. [九一八事变 94 周年](https://www.zhihu.com/search?q=%E4%B9%9D%E4%B8%80%E5%85%AB%E4%BA%8B%E5%8F%98%2094%20%E5%91%A8%E5%B9%B4)
 1. [美联储宣布降息 25 个基点](https://www.zhihu.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8%E5%AE%A3%E5%B8%83%E9%99%8D%E6%81%AF%2025%20%E4%B8%AA%E5%9F%BA%E7%82%B9)
 1. [丝瓜汤文学为何引起共鸣](https://www.zhihu.com/search?q=%E4%B8%9D%E7%93%9C%E6%B1%A4%E6%96%87%E5%AD%A6%E4%B8%BA%E4%BD%95%E5%BC%95%E8%B5%B7%E5%85%B1%E9%B8%A3)
 1. [女子踩「化骨水」身亡事件涉案者被抓](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E8%B8%A9%E3%80%8C%E5%8C%96%E9%AA%A8%E6%B0%B4%E3%80%8D%E8%BA%AB%E4%BA%A1%E4%BA%8B%E4%BB%B6%E6%B6%89%E6%A1%88%E8%80%85%E8%A2%AB%E6%8A%93)
 1. [户晨风账号疑似被封](https://www.zhihu.com/search?q=%E6%88%B7%E6%99%A8%E9%A3%8E%E8%B4%A6%E5%8F%B7%E7%96%91%E4%BC%BC%E8%A2%AB%E5%B0%81)
-1. [西贝致歉：多款餐品改为门店现做](https://www.zhihu.com/search?q=%E8%A5%BF%E8%B4%9D%E8%87%B4%E6%AD%89%EF%BC%9A%E5%A4%9A%E6%AC%BE%E9%A4%90%E5%93%81%E6%94%B9%E4%B8%BA%E9%97%A8%E5%BA%97%E7%8E%B0%E5%81%9A)
-1. [你会偷偷给孩子做亲子鉴定吗](https://www.zhihu.com/search?q=%E4%BD%A0%E4%BC%9A%E5%81%B7%E5%81%B7%E7%BB%99%E5%AD%A9%E5%AD%90%E5%81%9A%E4%BA%B2%E5%AD%90%E9%89%B4%E5%AE%9A%E5%90%97)
 1. [预制菜之王萨莉亚为啥没人骂](https://www.zhihu.com/search?q=%E9%A2%84%E5%88%B6%E8%8F%9C%E4%B9%8B%E7%8E%8B%E8%90%A8%E8%8E%89%E4%BA%9A%E4%B8%BA%E5%95%A5%E6%B2%A1%E4%BA%BA%E9%AA%82)
+1. [哪里人才是吃辣界的「扛把子」](https://www.zhihu.com/search?q=%E5%93%AA%E9%87%8C%E4%BA%BA%E6%89%8D%E6%98%AF%E5%90%83%E8%BE%A3%E7%95%8C%E7%9A%84%E3%80%8C%E6%89%9B%E6%8A%8A%E5%AD%90%E3%80%8D)
+1. [西贝致歉：多款餐品改为门店现做](https://www.zhihu.com/search?q=%E8%A5%BF%E8%B4%9D%E8%87%B4%E6%AD%89%EF%BC%9A%E5%A4%9A%E6%AC%BE%E9%A4%90%E5%93%81%E6%94%B9%E4%B8%BA%E9%97%A8%E5%BA%97%E7%8E%B0%E5%81%9A)
 1. [北大副校长任羽中主动投案](https://www.zhihu.com/search?q=%E5%8C%97%E5%A4%A7%E5%89%AF%E6%A0%A1%E9%95%BF%E4%BB%BB%E7%BE%BD%E4%B8%AD%E4%B8%BB%E5%8A%A8%E6%8A%95%E6%A1%88)
 1. [于朦胧母亲发声](https://www.zhihu.com/search?q=%E4%BA%8E%E6%9C%A6%E8%83%A7%E6%AF%8D%E4%BA%B2%E5%8F%91%E5%A3%B0)
 1. [海南悬赏 10 万搜寻迫降无人机](https://www.zhihu.com/search?q=%E6%B5%B7%E5%8D%97%E6%82%AC%E8%B5%8F%2010%20%E4%B8%87%E6%90%9C%E5%AF%BB%E8%BF%AB%E9%99%8D%E6%97%A0%E4%BA%BA%E6%9C%BA)
 1. [嘎子哥被行政拘留7天](https://www.zhihu.com/search?q=%E5%98%8E%E5%AD%90%E5%93%A5%E8%A2%AB%E8%A1%8C%E6%94%BF%E6%8B%98%E7%95%997%E5%A4%A9)
+1. [你会偷偷给孩子做亲子鉴定吗](https://www.zhihu.com/search?q=%E4%BD%A0%E4%BC%9A%E5%81%B7%E5%81%B7%E7%BB%99%E5%AD%A9%E5%AD%90%E5%81%9A%E4%BA%B2%E5%AD%90%E9%89%B4%E5%AE%9A%E5%90%97)
 1. [电影《731》](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1%E3%80%8A731%E3%80%8B)
 1. [12306 回应开票即候补](https://www.zhihu.com/search?q=12306%20%E5%9B%9E%E5%BA%94%E5%BC%80%E7%A5%A8%E5%8D%B3%E5%80%99%E8%A1%A5)
 1. [什么是顶级的思维](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E6%98%AF%E9%A1%B6%E7%BA%A7%E7%9A%84%E6%80%9D%E7%BB%B4)
@@ -46,7 +47,6 @@
 1. [如何看待学校对学生的发型管束](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%AD%A6%E6%A0%A1%E5%AF%B9%E5%AD%A6%E7%94%9F%E7%9A%84%E5%8F%91%E5%9E%8B%E7%AE%A1%E6%9D%9F)
 1. [黄鳝泥鳅为啥在西方餐桌上几乎绝迹](https://www.zhihu.com/search?q=%E9%BB%84%E9%B3%9D%E6%B3%A5%E9%B3%85%E4%B8%BA%E5%95%A5%E5%9C%A8%E8%A5%BF%E6%96%B9%E9%A4%90%E6%A1%8C%E4%B8%8A%E5%87%A0%E4%B9%8E%E7%BB%9D%E8%BF%B9)
 1. [经纪人称林书豪打 CBA 时常遭对手恐吓](https://www.zhihu.com/search?q=%E7%BB%8F%E7%BA%AA%E4%BA%BA%E7%A7%B0%E6%9E%97%E4%B9%A6%E8%B1%AA%E6%89%93%20CBA%20%E6%97%B6%E5%B8%B8%E9%81%AD%E5%AF%B9%E6%89%8B%E6%81%90%E5%90%93)
-1. [哪里人才是吃辣界的「扛把子」](https://www.zhihu.com/search?q=%E5%93%AA%E9%87%8C%E4%BA%BA%E6%89%8D%E6%98%AF%E5%90%83%E8%BE%A3%E7%95%8C%E7%9A%84%E3%80%8C%E6%89%9B%E6%8A%8A%E5%AD%90%E3%80%8D)
 1. [为什么西贝不冷处理罗永浩的吐槽](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A5%BF%E8%B4%9D%E4%B8%8D%E5%86%B7%E5%A4%84%E7%90%86%E7%BD%97%E6%B0%B8%E6%B5%A9%E7%9A%84%E5%90%90%E6%A7%BD)
 1. [小米16改名小米17](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B316%E6%94%B9%E5%90%8D%E5%B0%8F%E7%B1%B317)
 1. [目前我们处于什么样的经济周期中](https://www.zhihu.com/search?q=%E7%9B%AE%E5%89%8D%E6%88%91%E4%BB%AC%E5%A4%84%E4%BA%8E%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E7%BB%8F%E6%B5%8E%E5%91%A8%E6%9C%9F%E4%B8%AD)
