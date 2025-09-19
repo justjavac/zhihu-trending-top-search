@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Sep 19 2025 20:41:57 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Sep 19 2025 21:29:20 GMT+0800 (China Standard Time) -->
 
 1. [中美元首通电话](https://www.zhihu.com/search?q=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E9%80%9A%E7%94%B5%E8%AF%9D)
 1. [朱孔军任武汉大学党委书记](https://www.zhihu.com/search?q=%E6%9C%B1%E5%AD%94%E5%86%9B%E4%BB%BB%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6%E5%85%9A%E5%A7%94%E4%B9%A6%E8%AE%B0)
