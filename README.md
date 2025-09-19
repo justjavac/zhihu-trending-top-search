@@ -14,18 +14,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Sep 19 2025 22:19:29 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Sep 19 2025 23:20:39 GMT+0800 (China Standard Time) -->
 
 1. [中美元首通电话](https://www.zhihu.com/search?q=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E9%80%9A%E7%94%B5%E8%AF%9D)
-1. [朱孔军任武汉大学党委书记](https://www.zhihu.com/search?q=%E6%9C%B1%E5%AD%94%E5%86%9B%E4%BB%BB%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6%E5%85%9A%E5%A7%94%E4%B9%A6%E8%AE%B0)
 1. [预制菜之王萨莉亚为啥没人骂](https://www.zhihu.com/search?q=%E9%A2%84%E5%88%B6%E8%8F%9C%E4%B9%8B%E7%8E%8B%E8%90%A8%E8%8E%89%E4%BA%9A%E4%B8%BA%E5%95%A5%E6%B2%A1%E4%BA%BA%E9%AA%82)
+1. [朱孔军任武汉大学党委书记](https://www.zhihu.com/search?q=%E6%9C%B1%E5%AD%94%E5%86%9B%E4%BB%BB%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6%E5%85%9A%E5%A7%94%E4%B9%A6%E8%AE%B0)
 1. [美联储宣布降息 25 个基点](https://www.zhihu.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8%E5%AE%A3%E5%B8%83%E9%99%8D%E6%81%AF%2025%20%E4%B8%AA%E5%9F%BA%E7%82%B9)
+1. [月嫂喂奶致新生儿窒息月子公司不承担责任](https://www.zhihu.com/search?q=%E6%9C%88%E5%AB%82%E5%96%82%E5%A5%B6%E8%87%B4%E6%96%B0%E7%94%9F%E5%84%BF%E7%AA%92%E6%81%AF%E6%9C%88%E5%AD%90%E5%85%AC%E5%8F%B8%E4%B8%8D%E6%89%BF%E6%8B%85%E8%B4%A3%E4%BB%BB)
 1. [丝瓜汤文学为何引起共鸣](https://www.zhihu.com/search?q=%E4%B8%9D%E7%93%9C%E6%B1%A4%E6%96%87%E5%AD%A6%E4%B8%BA%E4%BD%95%E5%BC%95%E8%B5%B7%E5%85%B1%E9%B8%A3)
+1. [女子踩「化骨水」身亡事件涉案者被抓](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E8%B8%A9%E3%80%8C%E5%8C%96%E9%AA%A8%E6%B0%B4%E3%80%8D%E8%BA%AB%E4%BA%A1%E4%BA%8B%E4%BB%B6%E6%B6%89%E6%A1%88%E8%80%85%E8%A2%AB%E6%8A%93)
+1. [武大党委书记调整](https://www.zhihu.com/search?q=%E6%AD%A6%E5%A4%A7%E5%85%9A%E5%A7%94%E4%B9%A6%E8%AE%B0%E8%B0%83%E6%95%B4)
+1. [当兵最快立功的方法是什么](https://www.zhihu.com/search?q=%E5%BD%93%E5%85%B5%E6%9C%80%E5%BF%AB%E7%AB%8B%E5%8A%9F%E7%9A%84%E6%96%B9%E6%B3%95%E6%98%AF%E4%BB%80%E4%B9%88)
+1. [小米召回 116887 辆 SU7电动汽车](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%E5%8F%AC%E5%9B%9E%20116887%20%E8%BE%86%20SU7%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6)
+1. [马云被曝全面回归阿里](https://www.zhihu.com/search?q=%E9%A9%AC%E4%BA%91%E8%A2%AB%E6%9B%9D%E5%85%A8%E9%9D%A2%E5%9B%9E%E5%BD%92%E9%98%BF%E9%87%8C)
+1. [为什么刺杀重要人物没有人用迫击炮](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%88%BA%E6%9D%80%E9%87%8D%E8%A6%81%E4%BA%BA%E7%89%A9%E6%B2%A1%E6%9C%89%E4%BA%BA%E7%94%A8%E8%BF%AB%E5%87%BB%E7%82%AE)
 1. [释永信案多人协助调查](https://www.zhihu.com/search?q=%E9%87%8A%E6%B0%B8%E4%BF%A1%E6%A1%88%E5%A4%9A%E4%BA%BA%E5%8D%8F%E5%8A%A9%E8%B0%83%E6%9F%A5)
 1. [如果你是西贝的公关负责人会怎么做](https://www.zhihu.com/search?q=%E5%A6%82%E6%9E%9C%E4%BD%A0%E6%98%AF%E8%A5%BF%E8%B4%9D%E7%9A%84%E5%85%AC%E5%85%B3%E8%B4%9F%E8%B4%A3%E4%BA%BA%E4%BC%9A%E6%80%8E%E4%B9%88%E5%81%9A)
-1. [女子踩「化骨水」身亡事件涉案者被抓](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E8%B8%A9%E3%80%8C%E5%8C%96%E9%AA%A8%E6%B0%B4%E3%80%8D%E8%BA%AB%E4%BA%A1%E4%BA%8B%E4%BB%B6%E6%B6%89%E6%A1%88%E8%80%85%E8%A2%AB%E6%8A%93)
-1. [小米召回 116887 辆 SU7电动汽车](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%E5%8F%AC%E5%9B%9E%20116887%20%E8%BE%86%20SU7%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6)
-1. [武大党委书记调整](https://www.zhihu.com/search?q=%E6%AD%A6%E5%A4%A7%E5%85%9A%E5%A7%94%E4%B9%A6%E8%AE%B0%E8%B0%83%E6%95%B4)
 1. [中国为何连个世界二流软件公司都没有](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E4%B8%BA%E4%BD%95%E8%BF%9E%E4%B8%AA%E4%B8%96%E7%95%8C%E4%BA%8C%E6%B5%81%E8%BD%AF%E4%BB%B6%E5%85%AC%E5%8F%B8%E9%83%BD%E6%B2%A1%E6%9C%89)
 1. [重庆理工大学多名男性留学生混住在女生宿舍楼](https://www.zhihu.com/search?q=%E9%87%8D%E5%BA%86%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6%E5%A4%9A%E5%90%8D%E7%94%B7%E6%80%A7%E7%95%99%E5%AD%A6%E7%94%9F%E6%B7%B7%E4%BD%8F%E5%9C%A8%E5%A5%B3%E7%94%9F%E5%AE%BF%E8%88%8D%E6%A5%BC)
 1. [西贝应该向胖东来学什么](https://www.zhihu.com/search?q=%E8%A5%BF%E8%B4%9D%E5%BA%94%E8%AF%A5%E5%90%91%E8%83%96%E4%B8%9C%E6%9D%A5%E5%AD%A6%E4%BB%80%E4%B9%88)
