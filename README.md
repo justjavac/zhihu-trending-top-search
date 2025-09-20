@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Sep 21 2025 04:19:08 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Sep 21 2025 05:15:47 GMT+0800 (China Standard Time) -->
 
 1. [武大图书馆事件女生上诉被驳回](https://www.zhihu.com/search?q=%E6%AD%A6%E5%A4%A7%E5%9B%BE%E4%B9%A6%E9%A6%86%E4%BA%8B%E4%BB%B6%E5%A5%B3%E7%94%9F%E4%B8%8A%E8%AF%89%E8%A2%AB%E9%A9%B3%E5%9B%9E)
 1. [武汉大学图书馆案二审宣判](https://www.zhihu.com/search?q=%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6%E5%9B%BE%E4%B9%A6%E9%A6%86%E6%A1%88%E4%BA%8C%E5%AE%A1%E5%AE%A3%E5%88%A4)
@@ -25,9 +25,9 @@
 1. [香港闹市发现战时炸弹6000人疏散](https://www.zhihu.com/search?q=%E9%A6%99%E6%B8%AF%E9%97%B9%E5%B8%82%E5%8F%91%E7%8E%B0%E6%88%98%E6%97%B6%E7%82%B8%E5%BC%B96000%E4%BA%BA%E7%96%8F%E6%95%A3)
 1. [面包店将当日剩余面包扔掉被网友直呼太可惜](https://www.zhihu.com/search?q=%E9%9D%A2%E5%8C%85%E5%BA%97%E5%B0%86%E5%BD%93%E6%97%A5%E5%89%A9%E4%BD%99%E9%9D%A2%E5%8C%85%E6%89%94%E6%8E%89%E8%A2%AB%E7%BD%91%E5%8F%8B%E7%9B%B4%E5%91%BC%E5%A4%AA%E5%8F%AF%E6%83%9C)
 1. [蔡国强喜马拉雅山烟花艺术引争议](https://www.zhihu.com/search?q=%E8%94%A1%E5%9B%BD%E5%BC%BA%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85%E5%B1%B1%E7%83%9F%E8%8A%B1%E8%89%BA%E6%9C%AF%E5%BC%95%E4%BA%89%E8%AE%AE)
-1. [小米召回 116887 辆 SU7电动汽车](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%E5%8F%AC%E5%9B%9E%20116887%20%E8%BE%86%20SU7%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6)
-1. [如何评价小米 17 Pro 妙享背屏](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%B0%8F%E7%B1%B3%2017%20Pro%20%E5%A6%99%E4%BA%AB%E8%83%8C%E5%B1%8F)
 1. [杨某媛导师研究生招生资格被暂停](https://www.zhihu.com/search?q=%E6%9D%A8%E6%9F%90%E5%AA%9B%E5%AF%BC%E5%B8%88%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8B%9B%E7%94%9F%E8%B5%84%E6%A0%BC%E8%A2%AB%E6%9A%82%E5%81%9C)
+1. [如何评价小米 17 Pro 妙享背屏](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%B0%8F%E7%B1%B3%2017%20Pro%20%E5%A6%99%E4%BA%AB%E8%83%8C%E5%B1%8F)
+1. [小米召回 116887 辆 SU7电动汽车](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%E5%8F%AC%E5%9B%9E%20116887%20%E8%BE%86%20SU7%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6)
 1. [柴怼怼售卖的玉石没有鉴定价值被刑拘](https://www.zhihu.com/search?q=%E6%9F%B4%E6%80%BC%E6%80%BC%E5%94%AE%E5%8D%96%E7%9A%84%E7%8E%89%E7%9F%B3%E6%B2%A1%E6%9C%89%E9%89%B4%E5%AE%9A%E4%BB%B7%E5%80%BC%E8%A2%AB%E5%88%91%E6%8B%98)
 1. [胖东来酥饼生产日期比发货日期晚一天](https://www.zhihu.com/search?q=%E8%83%96%E4%B8%9C%E6%9D%A5%E9%85%A5%E9%A5%BC%E7%94%9F%E4%BA%A7%E6%97%A5%E6%9C%9F%E6%AF%94%E5%8F%91%E8%B4%A7%E6%97%A5%E6%9C%9F%E6%99%9A%E4%B8%80%E5%A4%A9)
 
