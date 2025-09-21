@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Sep 22 2025 01:16:11 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Sep 22 2025 02:26:39 GMT+0800 (China Standard Time) -->
 
 1. [官方推进预制菜国家标准制定](https://www.zhihu.com/search?q=%E5%AE%98%E6%96%B9%E6%8E%A8%E8%BF%9B%E9%A2%84%E5%88%B6%E8%8F%9C%E5%9B%BD%E5%AE%B6%E6%A0%87%E5%87%86%E5%88%B6%E5%AE%9A)
 1. [始祖鸟蔡国强就烟花秀道歉](https://www.zhihu.com/search?q=%E5%A7%8B%E7%A5%96%E9%B8%9F%E8%94%A1%E5%9B%BD%E5%BC%BA%E5%B0%B1%E7%83%9F%E8%8A%B1%E7%A7%80%E9%81%93%E6%AD%89)
@@ -27,6 +27,7 @@
 1. [武大称未发现杨某媛论文存在学术不端行为](https://www.zhihu.com/search?q=%E6%AD%A6%E5%A4%A7%E7%A7%B0%E6%9C%AA%E5%8F%91%E7%8E%B0%E6%9D%A8%E6%9F%90%E5%AA%9B%E8%AE%BA%E6%96%87%E5%AD%98%E5%9C%A8%E5%AD%A6%E6%9C%AF%E4%B8%8D%E7%AB%AF%E8%A1%8C%E4%B8%BA)
 1. [怎样看待绿茶餐厅隐去「现做」字样](https://www.zhihu.com/search?q=%E6%80%8E%E6%A0%B7%E7%9C%8B%E5%BE%85%E7%BB%BF%E8%8C%B6%E9%A4%90%E5%8E%85%E9%9A%90%E5%8E%BB%E3%80%8C%E7%8E%B0%E5%81%9A%E3%80%8D%E5%AD%97%E6%A0%B7)
 1. [全智贤《暴风圈》辱华风波](https://www.zhihu.com/search?q=%E5%85%A8%E6%99%BA%E8%B4%A4%E3%80%8A%E6%9A%B4%E9%A3%8E%E5%9C%88%E3%80%8B%E8%BE%B1%E5%8D%8E%E9%A3%8E%E6%B3%A2)
+1. [多人忘关闭自动续费被扣数千元](https://www.zhihu.com/search?q=%E5%A4%9A%E4%BA%BA%E5%BF%98%E5%85%B3%E9%97%AD%E8%87%AA%E5%8A%A8%E7%BB%AD%E8%B4%B9%E8%A2%AB%E6%89%A3%E6%95%B0%E5%8D%83%E5%85%83)
 1. [香港闹市发现战时炸弹6000人疏散](https://www.zhihu.com/search?q=%E9%A6%99%E6%B8%AF%E9%97%B9%E5%B8%82%E5%8F%91%E7%8E%B0%E6%88%98%E6%97%B6%E7%82%B8%E5%BC%B96000%E4%BA%BA%E7%96%8F%E6%95%A3)
 
 <!-- END -->
