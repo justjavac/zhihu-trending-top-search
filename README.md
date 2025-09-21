@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Sep 21 2025 12:23:45 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Sep 21 2025 13:18:55 GMT+0800 (China Standard Time) -->
 
 1. [始祖鸟蔡国强就烟花秀道歉](https://www.zhihu.com/search?q=%E5%A7%8B%E7%A5%96%E9%B8%9F%E8%94%A1%E5%9B%BD%E5%BC%BA%E5%B0%B1%E7%83%9F%E8%8A%B1%E7%A7%80%E9%81%93%E6%AD%89)
 1. [武大图书馆事件女生上诉被驳回](https://www.zhihu.com/search?q=%E6%AD%A6%E5%A4%A7%E5%9B%BE%E4%B9%A6%E9%A6%86%E4%BA%8B%E4%BB%B6%E5%A5%B3%E7%94%9F%E4%B8%8A%E8%AF%89%E8%A2%AB%E9%A9%B3%E5%9B%9E)
