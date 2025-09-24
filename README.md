@@ -14,19 +14,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Sep 24 2025 16:28:15 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Sep 24 2025 17:22:24 GMT+0800 (China Standard Time) -->
 
 1. [台风桦加沙](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E%E6%A1%A6%E5%8A%A0%E6%B2%99)
 1. [巴菲特清仓比亚迪](https://www.zhihu.com/search?q=%E5%B7%B4%E8%8F%B2%E7%89%B9%E6%B8%85%E4%BB%93%E6%AF%94%E4%BA%9A%E8%BF%AA)
-1. [中国在世贸组织谈判中将不寻求特殊和差别待遇](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E5%9C%A8%E4%B8%96%E8%B4%B8%E7%BB%84%E7%BB%87%E8%B0%88%E5%88%A4%E4%B8%AD%E5%B0%86%E4%B8%8D%E5%AF%BB%E6%B1%82%E7%89%B9%E6%AE%8A%E5%92%8C%E5%B7%AE%E5%88%AB%E5%BE%85%E9%81%87)
 1. [17级台风桦加沙将袭广东](https://www.zhihu.com/search?q=17%E7%BA%A7%E5%8F%B0%E9%A3%8E%E6%A1%A6%E5%8A%A0%E6%B2%99%E5%B0%86%E8%A2%AD%E5%B9%BF%E4%B8%9C)
 1. [歼-35 等三型舰载机在福建舰完成起降训练](https://www.zhihu.com/search?q=%E6%AD%BC-35%20%E7%AD%89%E4%B8%89%E5%9E%8B%E8%88%B0%E8%BD%BD%E6%9C%BA%E5%9C%A8%E7%A6%8F%E5%BB%BA%E8%88%B0%E5%AE%8C%E6%88%90%E8%B5%B7%E9%99%8D%E8%AE%AD%E7%BB%83)
-1. [你碰到过的最巧的事是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%A2%B0%E5%88%B0%E8%BF%87%E7%9A%84%E6%9C%80%E5%B7%A7%E7%9A%84%E4%BA%8B%E6%98%AF%E4%BB%80%E4%B9%88)
+1. [珠海沿海有高层住户被通知撤离](https://www.zhihu.com/search?q=%E7%8F%A0%E6%B5%B7%E6%B2%BF%E6%B5%B7%E6%9C%89%E9%AB%98%E5%B1%82%E4%BD%8F%E6%88%B7%E8%A2%AB%E9%80%9A%E7%9F%A5%E6%92%A4%E7%A6%BB)
+1. [中国的城堡是不是很少](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%9F%8E%E5%A0%A1%E6%98%AF%E4%B8%8D%E6%98%AF%E5%BE%88%E5%B0%91)
 1. [广东全面进入临战状态](https://www.zhihu.com/search?q=%E5%B9%BF%E4%B8%9C%E5%85%A8%E9%9D%A2%E8%BF%9B%E5%85%A5%E4%B8%B4%E6%88%98%E7%8A%B6%E6%80%81)
 1. [全国首例性侵工伤认定案开庭](https://www.zhihu.com/search?q=%E5%85%A8%E5%9B%BD%E9%A6%96%E4%BE%8B%E6%80%A7%E4%BE%B5%E5%B7%A5%E4%BC%A4%E8%AE%A4%E5%AE%9A%E6%A1%88%E5%BC%80%E5%BA%AD)
 1. [台风「桦加沙」已造成台湾 14 人死亡](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E%E3%80%8C%E6%A1%A6%E5%8A%A0%E6%B2%99%E3%80%8D%E5%B7%B2%E9%80%A0%E6%88%90%E5%8F%B0%E6%B9%BE%2014%20%E4%BA%BA%E6%AD%BB%E4%BA%A1)
-1. [中国的城堡是不是很少](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%9F%8E%E5%A0%A1%E6%98%AF%E4%B8%8D%E6%98%AF%E5%BE%88%E5%B0%91)
+1. [鸿蒙新版本好不好用](https://www.zhihu.com/search?q=%E9%B8%BF%E8%92%99%E6%96%B0%E7%89%88%E6%9C%AC%E5%A5%BD%E4%B8%8D%E5%A5%BD%E7%94%A8)
+1. [中国在世贸组织谈判中将不寻求特殊和差别待遇](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E5%9C%A8%E4%B8%96%E8%B4%B8%E7%BB%84%E7%BB%87%E8%B0%88%E5%88%A4%E4%B8%AD%E5%B0%86%E4%B8%8D%E5%AF%BB%E6%B1%82%E7%89%B9%E6%AE%8A%E5%92%8C%E5%B7%AE%E5%88%AB%E5%BE%85%E9%81%87)
 1. [台风桦加沙完成眼墙置换](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E%E6%A1%A6%E5%8A%A0%E6%B2%99%E5%AE%8C%E6%88%90%E7%9C%BC%E5%A2%99%E7%BD%AE%E6%8D%A2)
+1. [你碰到过的最巧的事是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%A2%B0%E5%88%B0%E8%BF%87%E7%9A%84%E6%9C%80%E5%B7%A7%E7%9A%84%E4%BA%8B%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [福建舰打击范围已覆盖第二岛链](https://www.zhihu.com/search?q=%E7%A6%8F%E5%BB%BA%E8%88%B0%E6%89%93%E5%87%BB%E8%8C%83%E5%9B%B4%E5%B7%B2%E8%A6%86%E7%9B%96%E7%AC%AC%E4%BA%8C%E5%B2%9B%E9%93%BE)
 1. [为什么在中国邮箱不流行](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%9C%A8%E4%B8%AD%E5%9B%BD%E9%82%AE%E7%AE%B1%E4%B8%8D%E6%B5%81%E8%A1%8C)
 1. [今天的你存款有多少](https://www.zhihu.com/search?q=%E4%BB%8A%E5%A4%A9%E7%9A%84%E4%BD%A0%E5%AD%98%E6%AC%BE%E6%9C%89%E5%A4%9A%E5%B0%91)
