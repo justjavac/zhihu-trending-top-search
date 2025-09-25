@@ -14,18 +14,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Sep 25 2025 19:17:59 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Sep 25 2025 20:43:49 GMT+0800 (China Standard Time) -->
 
 1. [台风「桦加沙」登陆广东](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E%E3%80%8C%E6%A1%A6%E5%8A%A0%E6%B2%99%E3%80%8D%E7%99%BB%E9%99%86%E5%B9%BF%E4%B8%9C)
-1. [广东全面进入临战状态](https://www.zhihu.com/search?q=%E5%B9%BF%E4%B8%9C%E5%85%A8%E9%9D%A2%E8%BF%9B%E5%85%A5%E4%B8%B4%E6%88%98%E7%8A%B6%E6%80%81)
+1. [雷军年度演讲](https://www.zhihu.com/search?q=%E9%9B%B7%E5%86%9B%E5%B9%B4%E5%BA%A6%E6%BC%94%E8%AE%B2)
 1. [北京大学教授俞孔坚在巴西坠机遇难](https://www.zhihu.com/search?q=%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E6%95%99%E6%8E%88%E4%BF%9E%E5%AD%94%E5%9D%9A%E5%9C%A8%E5%B7%B4%E8%A5%BF%E5%9D%A0%E6%9C%BA%E9%81%87%E9%9A%BE)
+1. [广东全面进入临战状态](https://www.zhihu.com/search?q=%E5%B9%BF%E4%B8%9C%E5%85%A8%E9%9D%A2%E8%BF%9B%E5%85%A5%E4%B8%B4%E6%88%98%E7%8A%B6%E6%80%81)
 1. [中国在世贸组织谈判中将不寻求特殊和差别待遇](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E5%9C%A8%E4%B8%96%E8%B4%B8%E7%BB%84%E7%BB%87%E8%B0%88%E5%88%A4%E4%B8%AD%E5%B0%86%E4%B8%8D%E5%AF%BB%E6%B1%82%E7%89%B9%E6%AE%8A%E5%92%8C%E5%B7%AE%E5%88%AB%E5%BE%85%E9%81%87)
 1. [上海再通报臭午餐事件](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E5%86%8D%E9%80%9A%E6%8A%A5%E8%87%AD%E5%8D%88%E9%A4%90%E4%BA%8B%E4%BB%B6)
-1. [为什么高铁 F 座最受欢迎](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E9%AB%98%E9%93%81%20F%20%E5%BA%A7%E6%9C%80%E5%8F%97%E6%AC%A2%E8%BF%8E)
+1. [面对超强台风「桦加沙」要做好哪些应对措施](https://www.zhihu.com/search?q=%E9%9D%A2%E5%AF%B9%E8%B6%85%E5%BC%BA%E5%8F%B0%E9%A3%8E%E3%80%8C%E6%A1%A6%E5%8A%A0%E6%B2%99%E3%80%8D%E8%A6%81%E5%81%9A%E5%A5%BD%E5%93%AA%E4%BA%9B%E5%BA%94%E5%AF%B9%E6%8E%AA%E6%96%BD)
 1. [选班长投票超132万人参与](https://www.zhihu.com/search?q=%E9%80%89%E7%8F%AD%E9%95%BF%E6%8A%95%E7%A5%A8%E8%B6%85132%E4%B8%87%E4%BA%BA%E5%8F%82%E4%B8%8E)
 1. [中欧班列中断](https://www.zhihu.com/search?q=%E4%B8%AD%E6%AC%A7%E7%8F%AD%E5%88%97%E4%B8%AD%E6%96%AD)
 1. [歼-35 等三型舰载机在福建舰完成起降训练](https://www.zhihu.com/search?q=%E6%AD%BC-35%20%E7%AD%89%E4%B8%89%E5%9E%8B%E8%88%B0%E8%BD%BD%E6%9C%BA%E5%9C%A8%E7%A6%8F%E5%BB%BA%E8%88%B0%E5%AE%8C%E6%88%90%E8%B5%B7%E9%99%8D%E8%AE%AD%E7%BB%83)
-1. [面对超强台风「桦加沙」要做好哪些应对措施](https://www.zhihu.com/search?q=%E9%9D%A2%E5%AF%B9%E8%B6%85%E5%BC%BA%E5%8F%B0%E9%A3%8E%E3%80%8C%E6%A1%A6%E5%8A%A0%E6%B2%99%E3%80%8D%E8%A6%81%E5%81%9A%E5%A5%BD%E5%93%AA%E4%BA%9B%E5%BA%94%E5%AF%B9%E6%8E%AA%E6%96%BD)
+1. [大学生没课就打游戏四年后会成为什么样的人](https://www.zhihu.com/search?q=%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%B2%A1%E8%AF%BE%E5%B0%B1%E6%89%93%E6%B8%B8%E6%88%8F%E5%9B%9B%E5%B9%B4%E5%90%8E%E4%BC%9A%E6%88%90%E4%B8%BA%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E4%BA%BA)
+1. [中欧班列将恢复通行](https://www.zhihu.com/search?q=%E4%B8%AD%E6%AC%A7%E7%8F%AD%E5%88%97%E5%B0%86%E6%81%A2%E5%A4%8D%E9%80%9A%E8%A1%8C)
+1. [为什么高铁 F 座最受欢迎](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E9%AB%98%E9%93%81%20F%20%E5%BA%A7%E6%9C%80%E5%8F%97%E6%AC%A2%E8%BF%8E)
 1. [台风「桦加沙」已造成台湾 14 人死亡](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E%E3%80%8C%E6%A1%A6%E5%8A%A0%E6%B2%99%E3%80%8D%E5%B7%B2%E9%80%A0%E6%88%90%E5%8F%B0%E6%B9%BE%2014%20%E4%BA%BA%E6%AD%BB%E4%BA%A1)
 1. [台风桦加沙造成广东阳江受灾](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E%E6%A1%A6%E5%8A%A0%E6%B2%99%E9%80%A0%E6%88%90%E5%B9%BF%E4%B8%9C%E9%98%B3%E6%B1%9F%E5%8F%97%E7%81%BE)
 1. [胖东来否认月饼礼盒设计费一千万](https://www.zhihu.com/search?q=%E8%83%96%E4%B8%9C%E6%9D%A5%E5%90%A6%E8%AE%A4%E6%9C%88%E9%A5%BC%E7%A4%BC%E7%9B%92%E8%AE%BE%E8%AE%A1%E8%B4%B9%E4%B8%80%E5%8D%83%E4%B8%87)
