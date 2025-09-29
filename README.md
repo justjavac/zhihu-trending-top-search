@@ -14,21 +14,23 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Sep 29 2025 15:21:08 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Sep 29 2025 16:31:07 GMT+0800 (China Standard Time) -->
 
 1. [重庆两地发现上百株冥界之花](https://www.zhihu.com/search?q=%E9%87%8D%E5%BA%86%E4%B8%A4%E5%9C%B0%E5%8F%91%E7%8E%B0%E4%B8%8A%E7%99%BE%E6%A0%AA%E5%86%A5%E7%95%8C%E4%B9%8B%E8%8A%B1)
-1. [上海娃哈哈改卖沪小娃](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E5%A8%83%E5%93%88%E5%93%88%E6%94%B9%E5%8D%96%E6%B2%AA%E5%B0%8F%E5%A8%83)
-1. [清华多师生参与黄牛活动牟利被查处](https://www.zhihu.com/search?q=%E6%B8%85%E5%8D%8E%E5%A4%9A%E5%B8%88%E7%94%9F%E5%8F%82%E4%B8%8E%E9%BB%84%E7%89%9B%E6%B4%BB%E5%8A%A8%E7%89%9F%E5%88%A9%E8%A2%AB%E6%9F%A5%E5%A4%84)
 1. [王健林限高措施已取消](https://www.zhihu.com/search?q=%E7%8E%8B%E5%81%A5%E6%9E%97%E9%99%90%E9%AB%98%E6%8E%AA%E6%96%BD%E5%B7%B2%E5%8F%96%E6%B6%88)
+1. [清华多师生参与黄牛活动牟利被查处](https://www.zhihu.com/search?q=%E6%B8%85%E5%8D%8E%E5%A4%9A%E5%B8%88%E7%94%9F%E5%8F%82%E4%B8%8E%E9%BB%84%E7%89%9B%E6%B4%BB%E5%8A%A8%E7%89%9F%E5%88%A9%E8%A2%AB%E6%9F%A5%E5%A4%84)
 1. [西贝回应一碗汤换顾客北京一套房](https://www.zhihu.com/search?q=%E8%A5%BF%E8%B4%9D%E5%9B%9E%E5%BA%94%E4%B8%80%E7%A2%97%E6%B1%A4%E6%8D%A2%E9%A1%BE%E5%AE%A2%E5%8C%97%E4%BA%AC%E4%B8%80%E5%A5%97%E6%88%BF)
 1. [30 万巨蟒席卷美国佛罗里达州](https://www.zhihu.com/search?q=30%20%E4%B8%87%E5%B7%A8%E8%9F%92%E5%B8%AD%E5%8D%B7%E7%BE%8E%E5%9B%BD%E4%BD%9B%E7%BD%97%E9%87%8C%E8%BE%BE%E5%B7%9E)
-1. [你会偷偷给孩子做亲子鉴定吗](https://www.zhihu.com/search?q=%E4%BD%A0%E4%BC%9A%E5%81%B7%E5%81%B7%E7%BB%99%E5%AD%A9%E5%AD%90%E5%81%9A%E4%BA%B2%E5%AD%90%E9%89%B4%E5%AE%9A%E5%90%97)
+1. [中国有哪些逆天的文物](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E6%9C%89%E5%93%AA%E4%BA%9B%E9%80%86%E5%A4%A9%E7%9A%84%E6%96%87%E7%89%A9)
 1. [华南理工大学校内发生车祸](https://www.zhihu.com/search?q=%E5%8D%8E%E5%8D%97%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6%E6%A0%A1%E5%86%85%E5%8F%91%E7%94%9F%E8%BD%A6%E7%A5%B8)
 1. [中国 K 字签证下月生效](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%20K%20%E5%AD%97%E7%AD%BE%E8%AF%81%E4%B8%8B%E6%9C%88%E7%94%9F%E6%95%88)
 1. [重庆发现冥界之花](https://www.zhihu.com/search?q=%E9%87%8D%E5%BA%86%E5%8F%91%E7%8E%B0%E5%86%A5%E7%95%8C%E4%B9%8B%E8%8A%B1)
-1. [中国有哪些逆天的文物](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E6%9C%89%E5%93%AA%E4%BA%9B%E9%80%86%E5%A4%A9%E7%9A%84%E6%96%87%E7%89%A9)
-1. [雷军年度演讲](https://www.zhihu.com/search?q=%E9%9B%B7%E5%86%9B%E5%B9%B4%E5%BA%A6%E6%BC%94%E8%AE%B2)
+1. [江西景德镇一酒店十一价格暴涨](https://www.zhihu.com/search?q=%E6%B1%9F%E8%A5%BF%E6%99%AF%E5%BE%B7%E9%95%87%E4%B8%80%E9%85%92%E5%BA%97%E5%8D%81%E4%B8%80%E4%BB%B7%E6%A0%BC%E6%9A%B4%E6%B6%A8)
+1. [安徽奸杀案再审改判：3 人无罪](https://www.zhihu.com/search?q=%E5%AE%89%E5%BE%BD%E5%A5%B8%E6%9D%80%E6%A1%88%E5%86%8D%E5%AE%A1%E6%94%B9%E5%88%A4%EF%BC%9A3%20%E4%BA%BA%E6%97%A0%E7%BD%AA)
 1. [柯洁卫冕棋圣](https://www.zhihu.com/search?q=%E6%9F%AF%E6%B4%81%E5%8D%AB%E5%86%95%E6%A3%8B%E5%9C%A3)
+1. [上海娃哈哈改卖沪小娃](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E5%A8%83%E5%93%88%E5%93%88%E6%94%B9%E5%8D%96%E6%B2%AA%E5%B0%8F%E5%A8%83)
+1. [你会偷偷给孩子做亲子鉴定吗](https://www.zhihu.com/search?q=%E4%BD%A0%E4%BC%9A%E5%81%B7%E5%81%B7%E7%BB%99%E5%AD%A9%E5%AD%90%E5%81%9A%E4%BA%B2%E5%AD%90%E9%89%B4%E5%AE%9A%E5%90%97)
+1. [雷军年度演讲](https://www.zhihu.com/search?q=%E9%9B%B7%E5%86%9B%E5%B9%B4%E5%BA%A6%E6%BC%94%E8%AE%B2)
 1. [数学是从什么时候开始反直觉的](https://www.zhihu.com/search?q=%E6%95%B0%E5%AD%A6%E6%98%AF%E4%BB%8E%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E5%BC%80%E5%A7%8B%E5%8F%8D%E7%9B%B4%E8%A7%89%E7%9A%84)
 1. [华南理工回应博士与已婚女同居](https://www.zhihu.com/search?q=%E5%8D%8E%E5%8D%97%E7%90%86%E5%B7%A5%E5%9B%9E%E5%BA%94%E5%8D%9A%E5%A3%AB%E4%B8%8E%E5%B7%B2%E5%A9%9A%E5%A5%B3%E5%90%8C%E5%B1%85)
 1. [王健林及万达集团被限制高消费](https://www.zhihu.com/search?q=%E7%8E%8B%E5%81%A5%E6%9E%97%E5%8F%8A%E4%B8%87%E8%BE%BE%E9%9B%86%E5%9B%A2%E8%A2%AB%E9%99%90%E5%88%B6%E9%AB%98%E6%B6%88%E8%B4%B9)
