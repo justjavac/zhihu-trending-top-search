@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Sep 30 2025 20:45:33 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Sep 30 2025 21:30:07 GMT+0800 (China Standard Time) -->
 
 1. [出城大军已经堵上了](https://www.zhihu.com/search?q=%E5%87%BA%E5%9F%8E%E5%A4%A7%E5%86%9B%E5%B7%B2%E7%BB%8F%E5%A0%B5%E4%B8%8A%E4%BA%86)
 1. [华南理工通报女生校内被撞身亡](https://www.zhihu.com/search?q=%E5%8D%8E%E5%8D%97%E7%90%86%E5%B7%A5%E9%80%9A%E6%8A%A5%E5%A5%B3%E7%94%9F%E6%A0%A1%E5%86%85%E8%A2%AB%E6%92%9E%E8%BA%AB%E4%BA%A1)
