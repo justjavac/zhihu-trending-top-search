@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Oct 01 2025 02:27:44 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Oct 01 2025 03:16:20 GMT+0800 (China Standard Time) -->
 
 1. [出城大军已经堵上了](https://www.zhihu.com/search?q=%E5%87%BA%E5%9F%8E%E5%A4%A7%E5%86%9B%E5%B7%B2%E7%BB%8F%E5%A0%B5%E4%B8%8A%E4%BA%86)
 1. [华南理工通报女生校内被撞身亡](https://www.zhihu.com/search?q=%E5%8D%8E%E5%8D%97%E7%90%86%E5%B7%A5%E9%80%9A%E6%8A%A5%E5%A5%B3%E7%94%9F%E6%A0%A1%E5%86%85%E8%A2%AB%E6%92%9E%E8%BA%AB%E4%BA%A1)
@@ -27,6 +27,7 @@
 1. [中老年网恋比偶像剧还猛](https://www.zhihu.com/search?q=%E4%B8%AD%E8%80%81%E5%B9%B4%E7%BD%91%E6%81%8B%E6%AF%94%E5%81%B6%E5%83%8F%E5%89%A7%E8%BF%98%E7%8C%9B)
 1. [奔跑时手电筒射的光是不是超过了光速](https://www.zhihu.com/search?q=%E5%A5%94%E8%B7%91%E6%97%B6%E6%89%8B%E7%94%B5%E7%AD%92%E5%B0%84%E7%9A%84%E5%85%89%E6%98%AF%E4%B8%8D%E6%98%AF%E8%B6%85%E8%BF%87%E4%BA%86%E5%85%89%E9%80%9F)
 1. [埃及失联6天中国女孩因参与电诈被捕](https://www.zhihu.com/search?q=%E5%9F%83%E5%8F%8A%E5%A4%B1%E8%81%946%E5%A4%A9%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%A9%E5%9B%A0%E5%8F%82%E4%B8%8E%E7%94%B5%E8%AF%88%E8%A2%AB%E6%8D%95)
+1. [日本引进5万印度人才多地爆发抗议](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E5%BC%95%E8%BF%9B5%E4%B8%87%E5%8D%B0%E5%BA%A6%E4%BA%BA%E6%89%8D%E5%A4%9A%E5%9C%B0%E7%88%86%E5%8F%91%E6%8A%97%E8%AE%AE)
 1. [王健林限高措施已取消](https://www.zhihu.com/search?q=%E7%8E%8B%E5%81%A5%E6%9E%97%E9%99%90%E9%AB%98%E6%8E%AA%E6%96%BD%E5%B7%B2%E5%8F%96%E6%B6%88)
 1. [哪些意想不到的历史人物其实还活着](https://www.zhihu.com/search?q=%E5%93%AA%E4%BA%9B%E6%84%8F%E6%83%B3%E4%B8%8D%E5%88%B0%E7%9A%84%E5%8E%86%E5%8F%B2%E4%BA%BA%E7%89%A9%E5%85%B6%E5%AE%9E%E8%BF%98%E6%B4%BB%E7%9D%80)
 1. [鸡排哥的哪一点戳中了大家](https://www.zhihu.com/search?q=%E9%B8%A1%E6%8E%92%E5%93%A5%E7%9A%84%E5%93%AA%E4%B8%80%E7%82%B9%E6%88%B3%E4%B8%AD%E4%BA%86%E5%A4%A7%E5%AE%B6)
