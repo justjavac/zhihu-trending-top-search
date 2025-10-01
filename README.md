@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Oct 01 2025 17:23:14 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Oct 01 2025 18:21:59 GMT+0800 (China Standard Time) -->
 
 1. [出城大军已经堵上了](https://www.zhihu.com/search?q=%E5%87%BA%E5%9F%8E%E5%A4%A7%E5%86%9B%E5%B7%B2%E7%BB%8F%E5%A0%B5%E4%B8%8A%E4%BA%86)
 1. [华南理工校内再出车祸](https://www.zhihu.com/search?q=%E5%8D%8E%E5%8D%97%E7%90%86%E5%B7%A5%E6%A0%A1%E5%86%85%E5%86%8D%E5%87%BA%E8%BD%A6%E7%A5%B8)
@@ -25,9 +25,9 @@
 1. [电磁弹射 30 吨舰载机消耗多少升燃油](https://www.zhihu.com/search?q=%E7%94%B5%E7%A3%81%E5%BC%B9%E5%B0%84%2030%20%E5%90%A8%E8%88%B0%E8%BD%BD%E6%9C%BA%E6%B6%88%E8%80%97%E5%A4%9A%E5%B0%91%E5%8D%87%E7%87%83%E6%B2%B9)
 1. [得力CEO就辞退跛脚员工道歉](https://www.zhihu.com/search?q=%E5%BE%97%E5%8A%9BCEO%E5%B0%B1%E8%BE%9E%E9%80%80%E8%B7%9B%E8%84%9A%E5%91%98%E5%B7%A5%E9%81%93%E6%AD%89)
 1. [日本计划引进印度技术人才](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E8%AE%A1%E5%88%92%E5%BC%95%E8%BF%9B%E5%8D%B0%E5%BA%A6%E6%8A%80%E6%9C%AF%E4%BA%BA%E6%89%8D)
-1. [明家犯罪集团案宣判 11人被判死刑](https://www.zhihu.com/search?q=%E6%98%8E%E5%AE%B6%E7%8A%AF%E7%BD%AA%E9%9B%86%E5%9B%A2%E6%A1%88%E5%AE%A3%E5%88%A4%2011%E4%BA%BA%E8%A2%AB%E5%88%A4%E6%AD%BB%E5%88%91)
-1. [你见过最冷静的人有多冷静](https://www.zhihu.com/search?q=%E4%BD%A0%E8%A7%81%E8%BF%87%E6%9C%80%E5%86%B7%E9%9D%99%E7%9A%84%E4%BA%BA%E6%9C%89%E5%A4%9A%E5%86%B7%E9%9D%99)
 1. [国庆节发朋友圈文案](https://www.zhihu.com/search?q=%E5%9B%BD%E5%BA%86%E8%8A%82%E5%8F%91%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%96%87%E6%A1%88)
+1. [你见过最冷静的人有多冷静](https://www.zhihu.com/search?q=%E4%BD%A0%E8%A7%81%E8%BF%87%E6%9C%80%E5%86%B7%E9%9D%99%E7%9A%84%E4%BA%BA%E6%9C%89%E5%A4%9A%E5%86%B7%E9%9D%99)
+1. [明家犯罪集团案宣判 11人被判死刑](https://www.zhihu.com/search?q=%E6%98%8E%E5%AE%B6%E7%8A%AF%E7%BD%AA%E9%9B%86%E5%9B%A2%E6%A1%88%E5%AE%A3%E5%88%A4%2011%E4%BA%BA%E8%A2%AB%E5%88%A4%E6%AD%BB%E5%88%91)
 1. [有哪些前半生荣耀后半生潦倒的真实人物](https://www.zhihu.com/search?q=%E6%9C%89%E5%93%AA%E4%BA%9B%E5%89%8D%E5%8D%8A%E7%94%9F%E8%8D%A3%E8%80%80%E5%90%8E%E5%8D%8A%E7%94%9F%E6%BD%A6%E5%80%92%E7%9A%84%E7%9C%9F%E5%AE%9E%E4%BA%BA%E7%89%A9)
 1. [你会偷偷给孩子做亲子鉴定吗](https://www.zhihu.com/search?q=%E4%BD%A0%E4%BC%9A%E5%81%B7%E5%81%B7%E7%BB%99%E5%AD%A9%E5%AD%90%E5%81%9A%E4%BA%B2%E5%AD%90%E9%89%B4%E5%AE%9A%E5%90%97)
 1. [怎样看待西贝近期的公关行为](https://www.zhihu.com/search?q=%E6%80%8E%E6%A0%B7%E7%9C%8B%E5%BE%85%E8%A5%BF%E8%B4%9D%E8%BF%91%E6%9C%9F%E7%9A%84%E5%85%AC%E5%85%B3%E8%A1%8C%E4%B8%BA)
