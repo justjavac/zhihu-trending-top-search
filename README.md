@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Oct 03 2025 17:20:21 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Oct 03 2025 18:20:56 GMT+0800 (China Standard Time) -->
 
 1. [我国有望2030年用核聚变发电](https://www.zhihu.com/search?q=%E6%88%91%E5%9B%BD%E6%9C%89%E6%9C%9B2030%E5%B9%B4%E7%94%A8%E6%A0%B8%E8%81%9A%E5%8F%98%E5%8F%91%E7%94%B5)
 1. [珍古道尔去世](https://www.zhihu.com/search?q=%E7%8F%8D%E5%8F%A4%E9%81%93%E5%B0%94%E5%8E%BB%E4%B8%96)
@@ -25,8 +25,8 @@
 1. [美国政府关停](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E5%85%B3%E5%81%9C)
 1. [嫁入豪门的尽头是直播带货](https://www.zhihu.com/search?q=%E5%AB%81%E5%85%A5%E8%B1%AA%E9%97%A8%E7%9A%84%E5%B0%BD%E5%A4%B4%E6%98%AF%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7)
 1. [凤雏庞统真的和卧龙诸葛亮一样厉害吗](https://www.zhihu.com/search?q=%E5%87%A4%E9%9B%8F%E5%BA%9E%E7%BB%9F%E7%9C%9F%E7%9A%84%E5%92%8C%E5%8D%A7%E9%BE%99%E8%AF%B8%E8%91%9B%E4%BA%AE%E4%B8%80%E6%A0%B7%E5%8E%89%E5%AE%B3%E5%90%97)
-1. [出城大军已经堵上了](https://www.zhihu.com/search?q=%E5%87%BA%E5%9F%8E%E5%A4%A7%E5%86%9B%E5%B7%B2%E7%BB%8F%E5%A0%B5%E4%B8%8A%E4%BA%86)
 1. [国庆第二天人人人我人人人](https://www.zhihu.com/search?q=%E5%9B%BD%E5%BA%86%E7%AC%AC%E4%BA%8C%E5%A4%A9%E4%BA%BA%E4%BA%BA%E4%BA%BA%E6%88%91%E4%BA%BA%E4%BA%BA%E4%BA%BA)
+1. [出城大军已经堵上了](https://www.zhihu.com/search?q=%E5%87%BA%E5%9F%8E%E5%A4%A7%E5%86%9B%E5%B7%B2%E7%BB%8F%E5%A0%B5%E4%B8%8A%E4%BA%86)
 1. [有哪些蕴含深意的图片](https://www.zhihu.com/search?q=%E6%9C%89%E5%93%AA%E4%BA%9B%E8%95%B4%E5%90%AB%E6%B7%B1%E6%84%8F%E7%9A%84%E5%9B%BE%E7%89%87)
 1. [中国有哪些逆天的文物](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E6%9C%89%E5%93%AA%E4%BA%9B%E9%80%86%E5%A4%A9%E7%9A%84%E6%96%87%E7%89%A9)
 1. [蒸汽弹射技术是否比电磁弹射更有优势](https://www.zhihu.com/search?q=%E8%92%B8%E6%B1%BD%E5%BC%B9%E5%B0%84%E6%8A%80%E6%9C%AF%E6%98%AF%E5%90%A6%E6%AF%94%E7%94%B5%E7%A3%81%E5%BC%B9%E5%B0%84%E6%9B%B4%E6%9C%89%E4%BC%98%E5%8A%BF)
