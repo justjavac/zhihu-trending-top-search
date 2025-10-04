@@ -14,19 +14,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Oct 04 2025 11:25:47 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Oct 04 2025 12:23:10 GMT+0800 (China Standard Time) -->
 
 1. [歼 16 倒飞吓走外军战机](https://www.zhihu.com/search?q=%E6%AD%BC%2016%20%E5%80%92%E9%A3%9E%E5%90%93%E8%B5%B0%E5%A4%96%E5%86%9B%E6%88%98%E6%9C%BA)
 1. [酒店一天办11场婚宴](https://www.zhihu.com/search?q=%E9%85%92%E5%BA%97%E4%B8%80%E5%A4%A9%E5%8A%9E11%E5%9C%BA%E5%A9%9A%E5%AE%B4)
-1. [北航 90 后美女副教授走红](https://www.zhihu.com/search?q=%E5%8C%97%E8%88%AA%2090%20%E5%90%8E%E7%BE%8E%E5%A5%B3%E5%89%AF%E6%95%99%E6%8E%88%E8%B5%B0%E7%BA%A2)
 1. [女子车停路边被狗啃到面目全非](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E8%BD%A6%E5%81%9C%E8%B7%AF%E8%BE%B9%E8%A2%AB%E7%8B%97%E5%95%83%E5%88%B0%E9%9D%A2%E7%9B%AE%E5%85%A8%E9%9D%9E)
+1. [北航 90 后美女副教授走红](https://www.zhihu.com/search?q=%E5%8C%97%E8%88%AA%2090%20%E5%90%8E%E7%BE%8E%E5%A5%B3%E5%89%AF%E6%95%99%E6%8E%88%E8%B5%B0%E7%BA%A2)
 1. [泰山降雨大风厕所挤满避雨人](https://www.zhihu.com/search?q=%E6%B3%B0%E5%B1%B1%E9%99%8D%E9%9B%A8%E5%A4%A7%E9%A3%8E%E5%8E%95%E6%89%80%E6%8C%A4%E6%BB%A1%E9%81%BF%E9%9B%A8%E4%BA%BA)
-1. [有哪些前半生荣耀后半生潦倒的真实人物](https://www.zhihu.com/search?q=%E6%9C%89%E5%93%AA%E4%BA%9B%E5%89%8D%E5%8D%8A%E7%94%9F%E8%8D%A3%E8%80%80%E5%90%8E%E5%8D%8A%E7%94%9F%E6%BD%A6%E5%80%92%E7%9A%84%E7%9C%9F%E5%AE%9E%E4%BA%BA%E7%89%A9)
+1. [怎样看待西贝近期的公关行为](https://www.zhihu.com/search?q=%E6%80%8E%E6%A0%B7%E7%9C%8B%E5%BE%85%E8%A5%BF%E8%B4%9D%E8%BF%91%E6%9C%9F%E7%9A%84%E5%85%AC%E5%85%B3%E8%A1%8C%E4%B8%BA)
 1. [我国有望2030年用核聚变发电](https://www.zhihu.com/search?q=%E6%88%91%E5%9B%BD%E6%9C%89%E6%9C%9B2030%E5%B9%B4%E7%94%A8%E6%A0%B8%E8%81%9A%E5%8F%98%E5%8F%91%E7%94%B5)
 1. [肯德基保密54年的炸鸡配方将公开](https://www.zhihu.com/search?q=%E8%82%AF%E5%BE%B7%E5%9F%BA%E4%BF%9D%E5%AF%8654%E5%B9%B4%E7%9A%84%E7%82%B8%E9%B8%A1%E9%85%8D%E6%96%B9%E5%B0%86%E5%85%AC%E5%BC%80)
 1. [交警回应陈震劳斯莱斯事故](https://www.zhihu.com/search?q=%E4%BA%A4%E8%AD%A6%E5%9B%9E%E5%BA%94%E9%99%88%E9%9C%87%E5%8A%B3%E6%96%AF%E8%8E%B1%E6%96%AF%E4%BA%8B%E6%95%85)
 1. [珍古道尔去世](https://www.zhihu.com/search?q=%E7%8F%8D%E5%8F%A4%E9%81%93%E5%B0%94%E5%8E%BB%E4%B8%96)
 1. [电磁弹射 30 吨舰载机消耗多少升燃油](https://www.zhihu.com/search?q=%E7%94%B5%E7%A3%81%E5%BC%B9%E5%B0%84%2030%20%E5%90%A8%E8%88%B0%E8%BD%BD%E6%9C%BA%E6%B6%88%E8%80%97%E5%A4%9A%E5%B0%91%E5%8D%87%E7%87%83%E6%B2%B9)
+1. [庞众望说结婚登记照是拍着玩的](https://www.zhihu.com/search?q=%E5%BA%9E%E4%BC%97%E6%9C%9B%E8%AF%B4%E7%BB%93%E5%A9%9A%E7%99%BB%E8%AE%B0%E7%85%A7%E6%98%AF%E6%8B%8D%E7%9D%80%E7%8E%A9%E7%9A%84)
+1. [有哪些前半生荣耀后半生潦倒的真实人物](https://www.zhihu.com/search?q=%E6%9C%89%E5%93%AA%E4%BA%9B%E5%89%8D%E5%8D%8A%E7%94%9F%E8%8D%A3%E8%80%80%E5%90%8E%E5%8D%8A%E7%94%9F%E6%BD%A6%E5%80%92%E7%9A%84%E7%9C%9F%E5%AE%9E%E4%BA%BA%E7%89%A9)
 1. [刺杀小说家2影评](https://www.zhihu.com/search?q=%E5%88%BA%E6%9D%80%E5%B0%8F%E8%AF%B4%E5%AE%B62%E5%BD%B1%E8%AF%84)
 1. [鸡排哥的哪一点戳中了大家](https://www.zhihu.com/search?q=%E9%B8%A1%E6%8E%92%E5%93%A5%E7%9A%84%E5%93%AA%E4%B8%80%E7%82%B9%E6%88%B3%E4%B8%AD%E4%BA%86%E5%A4%A7%E5%AE%B6)
 1. [老人去世留 8 套房给非亲生女儿最多](https://www.zhihu.com/search?q=%E8%80%81%E4%BA%BA%E5%8E%BB%E4%B8%96%E7%95%99%208%20%E5%A5%97%E6%88%BF%E7%BB%99%E9%9D%9E%E4%BA%B2%E7%94%9F%E5%A5%B3%E5%84%BF%E6%9C%80%E5%A4%9A)
