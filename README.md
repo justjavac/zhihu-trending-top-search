@@ -14,18 +14,23 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Oct 05 2025 07:17:54 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Oct 05 2025 09:46:01 GMT+0800 (China Standard Time) -->
 
-1. [女子车停路边被狗啃到面目全非](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E8%BD%A6%E5%81%9C%E8%B7%AF%E8%BE%B9%E8%A2%AB%E7%8B%97%E5%95%83%E5%88%B0%E9%9D%A2%E7%9B%AE%E5%85%A8%E9%9D%9E)
+1. [晓华理发店已没了爆火时的人潮](https://www.zhihu.com/search?q=%E6%99%93%E5%8D%8E%E7%90%86%E5%8F%91%E5%BA%97%E5%B7%B2%E6%B2%A1%E4%BA%86%E7%88%86%E7%81%AB%E6%97%B6%E7%9A%84%E4%BA%BA%E6%BD%AE)
 1. [王楚钦/林诗栋男双冠军](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%2F%E6%9E%97%E8%AF%97%E6%A0%8B%E7%94%B7%E5%8F%8C%E5%86%A0%E5%86%9B)
-1. [肯德基保密54年的炸鸡配方将公开](https://www.zhihu.com/search?q=%E8%82%AF%E5%BE%B7%E5%9F%BA%E4%BF%9D%E5%AF%8654%E5%B9%B4%E7%9A%84%E7%82%B8%E9%B8%A1%E9%85%8D%E6%96%B9%E5%B0%86%E5%85%AC%E5%BC%80)
+1. [台风麦德姆将在华南沿海登陆](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E%E9%BA%A6%E5%BE%B7%E5%A7%86%E5%B0%86%E5%9C%A8%E5%8D%8E%E5%8D%97%E6%B2%BF%E6%B5%B7%E7%99%BB%E9%99%86)
+1. [女子车停路边被狗啃到面目全非](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E8%BD%A6%E5%81%9C%E8%B7%AF%E8%BE%B9%E8%A2%AB%E7%8B%97%E5%95%83%E5%88%B0%E9%9D%A2%E7%9B%AE%E5%85%A8%E9%9D%9E)
 1. [歼 16 倒飞吓走外军战机](https://www.zhihu.com/search?q=%E6%AD%BC%2016%20%E5%80%92%E9%A3%9E%E5%90%93%E8%B5%B0%E5%A4%96%E5%86%9B%E6%88%98%E6%9C%BA)
-1. [你总结出的最大人生经验是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E6%80%BB%E7%BB%93%E5%87%BA%E7%9A%84%E6%9C%80%E5%A4%A7%E4%BA%BA%E7%94%9F%E7%BB%8F%E9%AA%8C%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [高市早苗当选自民党总裁](https://www.zhihu.com/search?q=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%BD%93%E9%80%89%E8%87%AA%E6%B0%91%E5%85%9A%E6%80%BB%E8%A3%81)
+1. [你会偷偷给孩子做亲子鉴定吗](https://www.zhihu.com/search?q=%E4%BD%A0%E4%BC%9A%E5%81%B7%E5%81%B7%E7%BB%99%E5%AD%A9%E5%AD%90%E5%81%9A%E4%BA%B2%E5%AD%90%E9%89%B4%E5%AE%9A%E5%90%97)
+1. [肯德基保密54年的炸鸡配方将公开](https://www.zhihu.com/search?q=%E8%82%AF%E5%BE%B7%E5%9F%BA%E4%BF%9D%E5%AF%8654%E5%B9%B4%E7%9A%84%E7%82%B8%E9%B8%A1%E9%85%8D%E6%96%B9%E5%B0%86%E5%85%AC%E5%BC%80)
 1. [珍古道尔去世](https://www.zhihu.com/search?q=%E7%8F%8D%E5%8F%A4%E9%81%93%E5%B0%94%E5%8E%BB%E4%B8%96)
+1. [交警回应陈震劳斯莱斯事故](https://www.zhihu.com/search?q=%E4%BA%A4%E8%AD%A6%E5%9B%9E%E5%BA%94%E9%99%88%E9%9C%87%E5%8A%B3%E6%96%AF%E8%8E%B1%E6%96%AF%E4%BA%8B%E6%95%85)
+1. [奔跑时手电筒射的光是不是超过了光速](https://www.zhihu.com/search?q=%E5%A5%94%E8%B7%91%E6%97%B6%E6%89%8B%E7%94%B5%E7%AD%92%E5%B0%84%E7%9A%84%E5%85%89%E6%98%AF%E4%B8%8D%E6%98%AF%E8%B6%85%E8%BF%87%E4%BA%86%E5%85%89%E9%80%9F)
+1. [网友为鸡排哥的用油吵翻了天](https://www.zhihu.com/search?q=%E7%BD%91%E5%8F%8B%E4%B8%BA%E9%B8%A1%E6%8E%92%E5%93%A5%E7%9A%84%E7%94%A8%E6%B2%B9%E5%90%B5%E7%BF%BB%E4%BA%86%E5%A4%A9)
+1. [你总结出的最大人生经验是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E6%80%BB%E7%BB%93%E5%87%BA%E7%9A%84%E6%9C%80%E5%A4%A7%E4%BA%BA%E7%94%9F%E7%BB%8F%E9%AA%8C%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [陕西一新郎结婚当天跳河失踪](https://www.zhihu.com/search?q=%E9%99%95%E8%A5%BF%E4%B8%80%E6%96%B0%E9%83%8E%E7%BB%93%E5%A9%9A%E5%BD%93%E5%A4%A9%E8%B7%B3%E6%B2%B3%E5%A4%B1%E8%B8%AA)
 1. [西医给人类带来了什么](https://www.zhihu.com/search?q=%E8%A5%BF%E5%8C%BB%E7%BB%99%E4%BA%BA%E7%B1%BB%E5%B8%A6%E6%9D%A5%E4%BA%86%E4%BB%80%E4%B9%88)
-1. [交警回应陈震劳斯莱斯事故](https://www.zhihu.com/search?q=%E4%BA%A4%E8%AD%A6%E5%9B%9E%E5%BA%94%E9%99%88%E9%9C%87%E5%8A%B3%E6%96%AF%E8%8E%B1%E6%96%AF%E4%BA%8B%E6%95%85)
 1. [酒店一天办11场婚宴](https://www.zhihu.com/search?q=%E9%85%92%E5%BA%97%E4%B8%80%E5%A4%A9%E5%8A%9E11%E5%9C%BA%E5%A9%9A%E5%AE%B4)
 1. [你有结账时发现太贵的尴尬经历吗](https://www.zhihu.com/search?q=%E4%BD%A0%E6%9C%89%E7%BB%93%E8%B4%A6%E6%97%B6%E5%8F%91%E7%8E%B0%E5%A4%AA%E8%B4%B5%E7%9A%84%E5%B0%B4%E5%B0%AC%E7%BB%8F%E5%8E%86%E5%90%97)
 1. [为什么很多人认为股票补仓是错误的](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BE%88%E5%A4%9A%E4%BA%BA%E8%AE%A4%E4%B8%BA%E8%82%A1%E7%A5%A8%E8%A1%A5%E4%BB%93%E6%98%AF%E9%94%99%E8%AF%AF%E7%9A%84)
