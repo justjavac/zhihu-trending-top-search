@@ -14,18 +14,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Oct 05 2025 18:19:09 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Oct 05 2025 19:14:46 GMT+0800 (China Standard Time) -->
 
 1. [台风「麦德姆」登陆广东](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E%E3%80%8C%E9%BA%A6%E5%BE%B7%E5%A7%86%E3%80%8D%E7%99%BB%E9%99%86%E5%B9%BF%E4%B8%9C)
-1. [王楚钦/林诗栋男双冠军](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%2F%E6%9E%97%E8%AF%97%E6%A0%8B%E7%94%B7%E5%8F%8C%E5%86%A0%E5%86%9B)
 1. [2025诺奖生理学或医学奖预测](https://www.zhihu.com/search?q=2025%E8%AF%BA%E5%A5%96%E7%94%9F%E7%90%86%E5%AD%A6%E6%88%96%E5%8C%BB%E5%AD%A6%E5%A5%96%E9%A2%84%E6%B5%8B)
+1. [王楚钦/林诗栋男双冠军](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%2F%E6%9E%97%E8%AF%97%E6%A0%8B%E7%94%B7%E5%8F%8C%E5%86%A0%E5%86%9B)
+1. [王曼昱夺冠](https://www.zhihu.com/search?q=%E7%8E%8B%E6%9B%BC%E6%98%B1%E5%A4%BA%E5%86%A0)
+1. [王楚钦4比0胜F勒布伦夺冠](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A64%E6%AF%940%E8%83%9CF%E5%8B%92%E5%B8%83%E4%BC%A6%E5%A4%BA%E5%86%A0)
 1. [肯德基保密54年的炸鸡配方将公开](https://www.zhihu.com/search?q=%E8%82%AF%E5%BE%B7%E5%9F%BA%E4%BF%9D%E5%AF%8654%E5%B9%B4%E7%9A%84%E7%82%B8%E9%B8%A1%E9%85%8D%E6%96%B9%E5%B0%86%E5%85%AC%E5%BC%80)
 1. [高市早苗当选自民党总裁](https://www.zhihu.com/search?q=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%BD%93%E9%80%89%E8%87%AA%E6%B0%91%E5%85%9A%E6%80%BB%E8%A3%81)
 1. [晓华理发店已没了爆火时的人潮](https://www.zhihu.com/search?q=%E6%99%93%E5%8D%8E%E7%90%86%E5%8F%91%E5%BA%97%E5%B7%B2%E6%B2%A1%E4%BA%86%E7%88%86%E7%81%AB%E6%97%B6%E7%9A%84%E4%BA%BA%E6%BD%AE)
-1. [中国有哪些逆天的文物](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E6%9C%89%E5%93%AA%E4%BA%9B%E9%80%86%E5%A4%A9%E7%9A%84%E6%96%87%E7%89%A9)
-1. [交警回应陈震劳斯莱斯事故](https://www.zhihu.com/search?q=%E4%BA%A4%E8%AD%A6%E5%9B%9E%E5%BA%94%E9%99%88%E9%9C%87%E5%8A%B3%E6%96%AF%E8%8E%B1%E6%96%AF%E4%BA%8B%E6%95%85)
+1. [鸡排哥的哪一点戳中了大家](https://www.zhihu.com/search?q=%E9%B8%A1%E6%8E%92%E5%93%A5%E7%9A%84%E5%93%AA%E4%B8%80%E7%82%B9%E6%88%B3%E4%B8%AD%E4%BA%86%E5%A4%A7%E5%AE%B6)
 1. [广州一市民家中惊现鼠条](https://www.zhihu.com/search?q=%E5%B9%BF%E5%B7%9E%E4%B8%80%E5%B8%82%E6%B0%91%E5%AE%B6%E4%B8%AD%E6%83%8A%E7%8E%B0%E9%BC%A0%E6%9D%A1)
 1. [狗被车碾压因太胖毫发无损](https://www.zhihu.com/search?q=%E7%8B%97%E8%A2%AB%E8%BD%A6%E7%A2%BE%E5%8E%8B%E5%9B%A0%E5%A4%AA%E8%83%96%E6%AF%AB%E5%8F%91%E6%97%A0%E6%8D%9F)
+1. [普京回应特朗普称俄为纸老虎](https://www.zhihu.com/search?q=%E6%99%AE%E4%BA%AC%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%BF%84%E4%B8%BA%E7%BA%B8%E8%80%81%E8%99%8E)
+1. [中国有哪些逆天的文物](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E6%9C%89%E5%93%AA%E4%BA%9B%E9%80%86%E5%A4%A9%E7%9A%84%E6%96%87%E7%89%A9)
+1. [交警回应陈震劳斯莱斯事故](https://www.zhihu.com/search?q=%E4%BA%A4%E8%AD%A6%E5%9B%9E%E5%BA%94%E9%99%88%E9%9C%87%E5%8A%B3%E6%96%AF%E8%8E%B1%E6%96%AF%E4%BA%8B%E6%95%85)
 1. [有哪些前半生荣耀后半生潦倒的真实人物](https://www.zhihu.com/search?q=%E6%9C%89%E5%93%AA%E4%BA%9B%E5%89%8D%E5%8D%8A%E7%94%9F%E8%8D%A3%E8%80%80%E5%90%8E%E5%8D%8A%E7%94%9F%E6%BD%A6%E5%80%92%E7%9A%84%E7%9C%9F%E5%AE%9E%E4%BA%BA%E7%89%A9)
 1. [陈震就车祸事件道歉](https://www.zhihu.com/search?q=%E9%99%88%E9%9C%87%E5%B0%B1%E8%BD%A6%E7%A5%B8%E4%BA%8B%E4%BB%B6%E9%81%93%E6%AD%89)
 1. [奔跑时手电筒射的光是不是超过了光速](https://www.zhihu.com/search?q=%E5%A5%94%E8%B7%91%E6%97%B6%E6%89%8B%E7%94%B5%E7%AD%92%E5%B0%84%E7%9A%84%E5%85%89%E6%98%AF%E4%B8%8D%E6%98%AF%E8%B6%85%E8%BF%87%E4%BA%86%E5%85%89%E9%80%9F)
