@@ -1,16 +1,23 @@
 [
   { "query_display": "2025 诺贝尔生理学或医学奖揭晓", "real_query": "2025 诺贝尔生理学或医学奖揭晓" },
+  { "query_display": "OpenAI DevDay", "real_query": "OpenAI DevDay" },
   { "query_display": "环保少女被曝在狱中遭以军虐待", "real_query": "环保少女被曝在狱中遭以军虐待" },
-  { "query_display": "狗被车碾压因太胖毫发无损", "real_query": "狗被车碾压因太胖毫发无损" },
   { "query_display": "坂口志文", "real_query": "坂口志文" },
+  { "query_display": "诺贝尔物理学奖", "real_query": "诺贝尔物理学奖" },
+  { "query_display": "狗被车碾压因太胖毫发无损", "real_query": "狗被车碾压因太胖毫发无损" },
+  { "query_display": "中秋节快乐", "real_query": "中秋节快乐" },
+  { "query_display": "蒸汽弹射技术是否比电磁弹射更有优势", "real_query": "蒸汽弹射技术是否比电磁弹射更有优势" },
+  { "query_display": "珠峰东坡营地近千人因暴雪被困", "real_query": "珠峰东坡营地近千人因暴雪被困" },
+  { "query_display": "三角洲行动发布平衡性调整公告", "real_query": "三角洲行动发布平衡性调整公告" },
+  { "query_display": "海南文昌发生海水倒灌", "real_query": "海南文昌发生海水倒灌" },
+  {
+    "query_display": "官方通报「法院警车在山姆购物」为公车私用",
+    "real_query": "官方通报「法院警车在山姆购物」为公车私用"
+  },
   { "query_display": "诺贝尔生理学或医学奖揭晓", "real_query": "诺贝尔生理学或医学奖揭晓" },
   { "query_display": "为什么很多人认为股票补仓是错误的", "real_query": "为什么很多人认为股票补仓是错误的" },
-  { "query_display": "中秋节快乐", "real_query": "中秋节快乐" },
-  { "query_display": "珠峰东坡营地近千人因暴雪被困", "real_query": "珠峰东坡营地近千人因暴雪被困" },
   { "query_display": "高市早苗当选自民党总裁", "real_query": "高市早苗当选自民党总裁" },
   { "query_display": "项羽对人恭敬为何人才都跑到刘邦那里去了", "real_query": "项羽对人恭敬为何人才都跑到刘邦那里去了" },
-  { "query_display": "三角洲行动发布平衡性调整公告", "real_query": "三角洲行动发布平衡性调整公告" },
-  { "query_display": "诺贝尔物理学奖", "real_query": "诺贝尔物理学奖" },
   {
     "query_display": "成为顶级体育明星要付出哪些不为人知的代价",
     "real_query": "成为顶级体育明星要付出哪些不为人知的代价"
@@ -19,9 +26,5 @@
   { "query_display": "王楚钦4比0胜F勒布伦夺冠", "real_query": "王楚钦4比0胜F勒布伦夺冠" },
   { "query_display": "中秋满月是超级月亮", "real_query": "中秋满月是超级月亮" },
   { "query_display": "有哪些蕴含深意的图片", "real_query": "有哪些蕴含深意的图片" },
-  {
-    "query_display": "官方通报「法院警车在山姆购物」为公车私用",
-    "real_query": "官方通报「法院警车在山姆购物」为公车私用"
-  },
   { "query_display": "凤雏庞统真的和卧龙诸葛亮一样厉害吗", "real_query": "凤雏庞统真的和卧龙诸葛亮一样厉害吗" }
 ]
