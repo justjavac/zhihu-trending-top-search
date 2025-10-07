@@ -14,20 +14,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Oct 07 2025 16:28:04 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Oct 07 2025 17:22:31 GMT+0800 (China Standard Time) -->
 
 1. [环保少女被曝在狱中遭以军虐待](https://www.zhihu.com/search?q=%E7%8E%AF%E4%BF%9D%E5%B0%91%E5%A5%B3%E8%A2%AB%E6%9B%9D%E5%9C%A8%E7%8B%B1%E4%B8%AD%E9%81%AD%E4%BB%A5%E5%86%9B%E8%99%90%E5%BE%85)
 1. [诺贝尔物理学奖](https://www.zhihu.com/search?q=%E8%AF%BA%E8%B4%9D%E5%B0%94%E7%89%A9%E7%90%86%E5%AD%A6%E5%A5%96)
 1. [珠峰东坡营地近千人因暴雪被困](https://www.zhihu.com/search?q=%E7%8F%A0%E5%B3%B0%E4%B8%9C%E5%9D%A1%E8%90%A5%E5%9C%B0%E8%BF%91%E5%8D%83%E4%BA%BA%E5%9B%A0%E6%9A%B4%E9%9B%AA%E8%A2%AB%E5%9B%B0)
 1. [坂口志文](https://www.zhihu.com/search?q=%E5%9D%82%E5%8F%A3%E5%BF%97%E6%96%87)
 1. [2025 诺贝尔生理学或医学奖揭晓](https://www.zhihu.com/search?q=2025%20%E8%AF%BA%E8%B4%9D%E5%B0%94%E7%94%9F%E7%90%86%E5%AD%A6%E6%88%96%E5%8C%BB%E5%AD%A6%E5%A5%96%E6%8F%AD%E6%99%93)
-1. [哪些意想不到的历史人物其实还活着](https://www.zhihu.com/search?q=%E5%93%AA%E4%BA%9B%E6%84%8F%E6%83%B3%E4%B8%8D%E5%88%B0%E7%9A%84%E5%8E%86%E5%8F%B2%E4%BA%BA%E7%89%A9%E5%85%B6%E5%AE%9E%E8%BF%98%E6%B4%BB%E7%9D%80)
+1. [绝味为什么卖不动了](https://www.zhihu.com/search?q=%E7%BB%9D%E5%91%B3%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86)
 1. [OpenAI DevDay](https://www.zhihu.com/search?q=OpenAI%20DevDay)
-1. [中秋节快乐](https://www.zhihu.com/search?q=%E4%B8%AD%E7%A7%8B%E8%8A%82%E5%BF%AB%E4%B9%90)
-1. [三角洲行动发布平衡性调整公告](https://www.zhihu.com/search?q=%E4%B8%89%E8%A7%92%E6%B4%B2%E8%A1%8C%E5%8A%A8%E5%8F%91%E5%B8%83%E5%B9%B3%E8%A1%A1%E6%80%A7%E8%B0%83%E6%95%B4%E5%85%AC%E5%91%8A)
-1. [数学是从什么时候开始反直觉的](https://www.zhihu.com/search?q=%E6%95%B0%E5%AD%A6%E6%98%AF%E4%BB%8E%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E5%BC%80%E5%A7%8B%E5%8F%8D%E7%9B%B4%E8%A7%89%E7%9A%84)
 1. [多名中国公民在澳徒步登山身亡](https://www.zhihu.com/search?q=%E5%A4%9A%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%9C%A8%E6%BE%B3%E5%BE%92%E6%AD%A5%E7%99%BB%E5%B1%B1%E8%BA%AB%E4%BA%A1)
+1. [中秋节快乐](https://www.zhihu.com/search?q=%E4%B8%AD%E7%A7%8B%E8%8A%82%E5%BF%AB%E4%B9%90)
+1. [演员当大学校长最大的优势是什么](https://www.zhihu.com/search?q=%E6%BC%94%E5%91%98%E5%BD%93%E5%A4%A7%E5%AD%A6%E6%A0%A1%E9%95%BF%E6%9C%80%E5%A4%A7%E7%9A%84%E4%BC%98%E5%8A%BF%E6%98%AF%E4%BB%80%E4%B9%88)
+1. [三角洲行动发布平衡性调整公告](https://www.zhihu.com/search?q=%E4%B8%89%E8%A7%92%E6%B4%B2%E8%A1%8C%E5%8A%A8%E5%8F%91%E5%B8%83%E5%B9%B3%E8%A1%A1%E6%80%A7%E8%B0%83%E6%95%B4%E5%85%AC%E5%91%8A)
 1. [海南文昌发生海水倒灌](https://www.zhihu.com/search?q=%E6%B5%B7%E5%8D%97%E6%96%87%E6%98%8C%E5%8F%91%E7%94%9F%E6%B5%B7%E6%B0%B4%E5%80%92%E7%81%8C)
+1. [哪些意想不到的历史人物其实还活着](https://www.zhihu.com/search?q=%E5%93%AA%E4%BA%9B%E6%84%8F%E6%83%B3%E4%B8%8D%E5%88%B0%E7%9A%84%E5%8E%86%E5%8F%B2%E4%BA%BA%E7%89%A9%E5%85%B6%E5%AE%9E%E8%BF%98%E6%B4%BB%E7%9D%80)
+1. [数学是从什么时候开始反直觉的](https://www.zhihu.com/search?q=%E6%95%B0%E5%AD%A6%E6%98%AF%E4%BB%8E%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E5%BC%80%E5%A7%8B%E5%8F%8D%E7%9B%B4%E8%A7%89%E7%9A%84)
 1. [狗被车碾压因太胖毫发无损](https://www.zhihu.com/search?q=%E7%8B%97%E8%A2%AB%E8%BD%A6%E7%A2%BE%E5%8E%8B%E5%9B%A0%E5%A4%AA%E8%83%96%E6%AF%AB%E5%8F%91%E6%97%A0%E6%8D%9F)
 1. [电车贬值整体幅度为什么比油车贬值更大](https://www.zhihu.com/search?q=%E7%94%B5%E8%BD%A6%E8%B4%AC%E5%80%BC%E6%95%B4%E4%BD%93%E5%B9%85%E5%BA%A6%E4%B8%BA%E4%BB%80%E4%B9%88%E6%AF%94%E6%B2%B9%E8%BD%A6%E8%B4%AC%E5%80%BC%E6%9B%B4%E5%A4%A7)
 1. [鸡排哥的哪一点戳中了大家](https://www.zhihu.com/search?q=%E9%B8%A1%E6%8E%92%E5%93%A5%E7%9A%84%E5%93%AA%E4%B8%80%E7%82%B9%E6%88%B3%E4%B8%AD%E4%BA%86%E5%A4%A7%E5%AE%B6)
@@ -38,7 +40,6 @@
 1. [老人去世留 8 套房给非亲生女儿最多](https://www.zhihu.com/search?q=%E8%80%81%E4%BA%BA%E5%8E%BB%E4%B8%96%E7%95%99%208%20%E5%A5%97%E6%88%BF%E7%BB%99%E9%9D%9E%E4%BA%B2%E7%94%9F%E5%A5%B3%E5%84%BF%E6%9C%80%E5%A4%9A)
 1. [苹果病靠什么传播](https://www.zhihu.com/search?q=%E8%8B%B9%E6%9E%9C%E7%97%85%E9%9D%A0%E4%BB%80%E4%B9%88%E4%BC%A0%E6%92%AD)
 1. [有哪些前半生荣耀后半生潦倒的真实人物](https://www.zhihu.com/search?q=%E6%9C%89%E5%93%AA%E4%BA%9B%E5%89%8D%E5%8D%8A%E7%94%9F%E8%8D%A3%E8%80%80%E5%90%8E%E5%8D%8A%E7%94%9F%E6%BD%A6%E5%80%92%E7%9A%84%E7%9C%9F%E5%AE%9E%E4%BA%BA%E7%89%A9)
-1. [演员当大学校长最大的优势是什么](https://www.zhihu.com/search?q=%E6%BC%94%E5%91%98%E5%BD%93%E5%A4%A7%E5%AD%A6%E6%A0%A1%E9%95%BF%E6%9C%80%E5%A4%A7%E7%9A%84%E4%BC%98%E5%8A%BF%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [蒸汽弹射技术是否比电磁弹射更有优势](https://www.zhihu.com/search?q=%E8%92%B8%E6%B1%BD%E5%BC%B9%E5%B0%84%E6%8A%80%E6%9C%AF%E6%98%AF%E5%90%A6%E6%AF%94%E7%94%B5%E7%A3%81%E5%BC%B9%E5%B0%84%E6%9B%B4%E6%9C%89%E4%BC%98%E5%8A%BF)
 1. [官方通报「法院警车在山姆购物」为公车私用](https://www.zhihu.com/search?q=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E3%80%8C%E6%B3%95%E9%99%A2%E8%AD%A6%E8%BD%A6%E5%9C%A8%E5%B1%B1%E5%A7%86%E8%B4%AD%E7%89%A9%E3%80%8D%E4%B8%BA%E5%85%AC%E8%BD%A6%E7%A7%81%E7%94%A8)
 1. [诺贝尔生理学或医学奖揭晓](https://www.zhihu.com/search?q=%E8%AF%BA%E8%B4%9D%E5%B0%94%E7%94%9F%E7%90%86%E5%AD%A6%E6%88%96%E5%8C%BB%E5%AD%A6%E5%A5%96%E6%8F%AD%E6%99%93)
