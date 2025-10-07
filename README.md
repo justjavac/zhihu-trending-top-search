@@ -14,20 +14,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Oct 08 2025 00:26:17 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Oct 08 2025 01:18:44 GMT+0800 (China Standard Time) -->
 
 1. [诺贝尔物理学奖揭晓](https://www.zhihu.com/search?q=%E8%AF%BA%E8%B4%9D%E5%B0%94%E7%89%A9%E7%90%86%E5%AD%A6%E5%A5%96%E6%8F%AD%E6%99%93)
 1. [环保少女被曝在狱中遭以军虐待](https://www.zhihu.com/search?q=%E7%8E%AF%E4%BF%9D%E5%B0%91%E5%A5%B3%E8%A2%AB%E6%9B%9D%E5%9C%A8%E7%8B%B1%E4%B8%AD%E9%81%AD%E4%BB%A5%E5%86%9B%E8%99%90%E5%BE%85)
 1. [珠峰东坡营地近千人因暴雪被困](https://www.zhihu.com/search?q=%E7%8F%A0%E5%B3%B0%E4%B8%9C%E5%9D%A1%E8%90%A5%E5%9C%B0%E8%BF%91%E5%8D%83%E4%BA%BA%E5%9B%A0%E6%9A%B4%E9%9B%AA%E8%A2%AB%E5%9B%B0)
 1. [OpenAI DevDay](https://www.zhihu.com/search?q=OpenAI%20DevDay)
-1. [西医给人类带来了什么](https://www.zhihu.com/search?q=%E8%A5%BF%E5%8C%BB%E7%BB%99%E4%BA%BA%E7%B1%BB%E5%B8%A6%E6%9D%A5%E4%BA%86%E4%BB%80%E4%B9%88)
+1. [你有结账时发现太贵的尴尬经历吗](https://www.zhihu.com/search?q=%E4%BD%A0%E6%9C%89%E7%BB%93%E8%B4%A6%E6%97%B6%E5%8F%91%E7%8E%B0%E5%A4%AA%E8%B4%B5%E7%9A%84%E5%B0%B4%E5%B0%AC%E7%BB%8F%E5%8E%86%E5%90%97)
 1. [坂口志文](https://www.zhihu.com/search?q=%E5%9D%82%E5%8F%A3%E5%BF%97%E6%96%87)
 1. [家长跪成一排让中学生踩过](https://www.zhihu.com/search?q=%E5%AE%B6%E9%95%BF%E8%B7%AA%E6%88%90%E4%B8%80%E6%8E%92%E8%AE%A9%E4%B8%AD%E5%AD%A6%E7%94%9F%E8%B8%A9%E8%BF%87)
 1. [海南文昌发生海水倒灌](https://www.zhihu.com/search?q=%E6%B5%B7%E5%8D%97%E6%96%87%E6%98%8C%E5%8F%91%E7%94%9F%E6%B5%B7%E6%B0%B4%E5%80%92%E7%81%8C)
-1. [你有结账时发现太贵的尴尬经历吗](https://www.zhihu.com/search?q=%E4%BD%A0%E6%9C%89%E7%BB%93%E8%B4%A6%E6%97%B6%E5%8F%91%E7%8E%B0%E5%A4%AA%E8%B4%B5%E7%9A%84%E5%B0%B4%E5%B0%AC%E7%BB%8F%E5%8E%86%E5%90%97)
-1. [三角洲行动发布平衡性调整公告](https://www.zhihu.com/search?q=%E4%B8%89%E8%A7%92%E6%B4%B2%E8%A1%8C%E5%8A%A8%E5%8F%91%E5%B8%83%E5%B9%B3%E8%A1%A1%E6%80%A7%E8%B0%83%E6%95%B4%E5%85%AC%E5%91%8A)
-1. [坂口志文获诺贝尔奖](https://www.zhihu.com/search?q=%E5%9D%82%E5%8F%A3%E5%BF%97%E6%96%87%E8%8E%B7%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%A5%96)
 1. [公司国庆前补班被举报后取消员工年假福利](https://www.zhihu.com/search?q=%E5%85%AC%E5%8F%B8%E5%9B%BD%E5%BA%86%E5%89%8D%E8%A1%A5%E7%8F%AD%E8%A2%AB%E4%B8%BE%E6%8A%A5%E5%90%8E%E5%8F%96%E6%B6%88%E5%91%98%E5%B7%A5%E5%B9%B4%E5%81%87%E7%A6%8F%E5%88%A9)
+1. [三角洲行动发布平衡性调整公告](https://www.zhihu.com/search?q=%E4%B8%89%E8%A7%92%E6%B4%B2%E8%A1%8C%E5%8A%A8%E5%8F%91%E5%B8%83%E5%B9%B3%E8%A1%A1%E6%80%A7%E8%B0%83%E6%95%B4%E5%85%AC%E5%91%8A)
+1. [女孩高铁上遭陌生男又亲又摸](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%A9%E9%AB%98%E9%93%81%E4%B8%8A%E9%81%AD%E9%99%8C%E7%94%9F%E7%94%B7%E5%8F%88%E4%BA%B2%E5%8F%88%E6%91%B8)
+1. [唐飞机坠机身亡的具体情况如何](https://www.zhihu.com/search?q=%E5%94%90%E9%A3%9E%E6%9C%BA%E5%9D%A0%E6%9C%BA%E8%BA%AB%E4%BA%A1%E7%9A%84%E5%85%B7%E4%BD%93%E6%83%85%E5%86%B5%E5%A6%82%E4%BD%95)
+1. [西医给人类带来了什么](https://www.zhihu.com/search?q=%E8%A5%BF%E5%8C%BB%E7%BB%99%E4%BA%BA%E7%B1%BB%E5%B8%A6%E6%9D%A5%E4%BA%86%E4%BB%80%E4%B9%88)
+1. [坂口志文获诺贝尔奖](https://www.zhihu.com/search?q=%E5%9D%82%E5%8F%A3%E5%BF%97%E6%96%87%E8%8E%B7%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%A5%96)
 
 <!-- END -->
 
