@@ -14,20 +14,23 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Oct 08 2025 17:22:47 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Oct 08 2025 18:21:35 GMT+0800 (China Standard Time) -->
 
-1. [诺贝尔物理学奖揭晓](https://www.zhihu.com/search?q=%E8%AF%BA%E8%B4%9D%E5%B0%94%E7%89%A9%E7%90%86%E5%AD%A6%E5%A5%96%E6%8F%AD%E6%99%93)
+1. [诺贝尔化学奖揭晓](https://www.zhihu.com/search?q=%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%8C%96%E5%AD%A6%E5%A5%96%E6%8F%AD%E6%99%93)
 1. [家长跪成一排让中学生踩过](https://www.zhihu.com/search?q=%E5%AE%B6%E9%95%BF%E8%B7%AA%E6%88%90%E4%B8%80%E6%8E%92%E8%AE%A9%E4%B8%AD%E5%AD%A6%E7%94%9F%E8%B8%A9%E8%BF%87)
 1. [女孩高铁上遭陌生男又亲又摸](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%A9%E9%AB%98%E9%93%81%E4%B8%8A%E9%81%AD%E9%99%8C%E7%94%9F%E7%94%B7%E5%8F%88%E4%BA%B2%E5%8F%88%E6%91%B8)
 1. [珠峰东坡营地近千人因暴雪被困](https://www.zhihu.com/search?q=%E7%8F%A0%E5%B3%B0%E4%B8%9C%E5%9D%A1%E8%90%A5%E5%9C%B0%E8%BF%91%E5%8D%83%E4%BA%BA%E5%9B%A0%E6%9A%B4%E9%9B%AA%E8%A2%AB%E5%9B%B0)
-1. [哪些意想不到的历史人物其实还活着](https://www.zhihu.com/search?q=%E5%93%AA%E4%BA%9B%E6%84%8F%E6%83%B3%E4%B8%8D%E5%88%B0%E7%9A%84%E5%8E%86%E5%8F%B2%E4%BA%BA%E7%89%A9%E5%85%B6%E5%AE%9E%E8%BF%98%E6%B4%BB%E7%9D%80)
-1. [詹姆斯的重大决定是广告](https://www.zhihu.com/search?q=%E8%A9%B9%E5%A7%86%E6%96%AF%E7%9A%84%E9%87%8D%E5%A4%A7%E5%86%B3%E5%AE%9A%E6%98%AF%E5%B9%BF%E5%91%8A)
+1. [绝味为什么卖不动了](https://www.zhihu.com/search?q=%E7%BB%9D%E5%91%B3%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86)
 1. [诺贝尔化学奖](https://www.zhihu.com/search?q=%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%8C%96%E5%AD%A6%E5%A5%96)
+1. [詹姆斯的重大决定是广告](https://www.zhihu.com/search?q=%E8%A9%B9%E5%A7%86%E6%96%AF%E7%9A%84%E9%87%8D%E5%A4%A7%E5%86%B3%E5%AE%9A%E6%98%AF%E5%B9%BF%E5%91%8A)
 1. [坂口志文](https://www.zhihu.com/search?q=%E5%9D%82%E5%8F%A3%E5%BF%97%E6%96%87)
-1. [人类是否无法想象出没见过的东西](https://www.zhihu.com/search?q=%E4%BA%BA%E7%B1%BB%E6%98%AF%E5%90%A6%E6%97%A0%E6%B3%95%E6%83%B3%E8%B1%A1%E5%87%BA%E6%B2%A1%E8%A7%81%E8%BF%87%E7%9A%84%E4%B8%9C%E8%A5%BF)
+1. [怎样看待西贝近期的公关行为](https://www.zhihu.com/search?q=%E6%80%8E%E6%A0%B7%E7%9C%8B%E5%BE%85%E8%A5%BF%E8%B4%9D%E8%BF%91%E6%9C%9F%E7%9A%84%E5%85%AC%E5%85%B3%E8%A1%8C%E4%B8%BA)
 1. [OpenAI DevDay](https://www.zhihu.com/search?q=OpenAI%20DevDay)
 1. [银川网友拍到不明飞行物](https://www.zhihu.com/search?q=%E9%93%B6%E5%B7%9D%E7%BD%91%E5%8F%8B%E6%8B%8D%E5%88%B0%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9)
 1. [有哪些前半生荣耀后半生潦倒的真实人物](https://www.zhihu.com/search?q=%E6%9C%89%E5%93%AA%E4%BA%9B%E5%89%8D%E5%8D%8A%E7%94%9F%E8%8D%A3%E8%80%80%E5%90%8E%E5%8D%8A%E7%94%9F%E6%BD%A6%E5%80%92%E7%9A%84%E7%9C%9F%E5%AE%9E%E4%BA%BA%E7%89%A9)
+1. [诺贝尔物理学奖揭晓](https://www.zhihu.com/search?q=%E8%AF%BA%E8%B4%9D%E5%B0%94%E7%89%A9%E7%90%86%E5%AD%A6%E5%A5%96%E6%8F%AD%E6%99%93)
+1. [哪些意想不到的历史人物其实还活着](https://www.zhihu.com/search?q=%E5%93%AA%E4%BA%9B%E6%84%8F%E6%83%B3%E4%B8%8D%E5%88%B0%E7%9A%84%E5%8E%86%E5%8F%B2%E4%BA%BA%E7%89%A9%E5%85%B6%E5%AE%9E%E8%BF%98%E6%B4%BB%E7%9D%80)
+1. [人类是否无法想象出没见过的东西](https://www.zhihu.com/search?q=%E4%BA%BA%E7%B1%BB%E6%98%AF%E5%90%A6%E6%97%A0%E6%B3%95%E6%83%B3%E8%B1%A1%E5%87%BA%E6%B2%A1%E8%A7%81%E8%BF%87%E7%9A%84%E4%B8%9C%E8%A5%BF)
 1. [电车贬值整体幅度为什么比油车贬值更大](https://www.zhihu.com/search?q=%E7%94%B5%E8%BD%A6%E8%B4%AC%E5%80%BC%E6%95%B4%E4%BD%93%E5%B9%85%E5%BA%A6%E4%B8%BA%E4%BB%80%E4%B9%88%E6%AF%94%E6%B2%B9%E8%BD%A6%E8%B4%AC%E5%80%BC%E6%9B%B4%E5%A4%A7)
 1. [好利来 27 元月饼被指太贵](https://www.zhihu.com/search?q=%E5%A5%BD%E5%88%A9%E6%9D%A5%2027%20%E5%85%83%E6%9C%88%E9%A5%BC%E8%A2%AB%E6%8C%87%E5%A4%AA%E8%B4%B5)
 1. [网友称夜晚被困五台山遇狐狸引路](https://www.zhihu.com/search?q=%E7%BD%91%E5%8F%8B%E7%A7%B0%E5%A4%9C%E6%99%9A%E8%A2%AB%E5%9B%B0%E4%BA%94%E5%8F%B0%E5%B1%B1%E9%81%87%E7%8B%90%E7%8B%B8%E5%BC%95%E8%B7%AF)
