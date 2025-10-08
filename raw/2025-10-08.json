@@ -1,17 +1,21 @@
 [
   { "query_display": "诺贝尔物理学奖揭晓", "real_query": "诺贝尔物理学奖揭晓" },
+  { "query_display": "詹姆斯的重大决定是广告", "real_query": "詹姆斯的重大决定是广告" },
+  { "query_display": "诺贝尔化学奖", "real_query": "诺贝尔化学奖" },
   { "query_display": "环保少女被曝在狱中遭以军虐待", "real_query": "环保少女被曝在狱中遭以军虐待" },
   { "query_display": "珠峰东坡营地近千人因暴雪被困", "real_query": "珠峰东坡营地近千人因暴雪被困" },
   { "query_display": "家长跪成一排让中学生踩过", "real_query": "家长跪成一排让中学生踩过" },
-  { "query_display": "哪些意想不到的历史人物其实还活着", "real_query": "哪些意想不到的历史人物其实还活着" },
-  { "query_display": "OpenAI DevDay", "real_query": "OpenAI DevDay" },
+  { "query_display": "电车贬值整体幅度为什么比油车贬值更大", "real_query": "电车贬值整体幅度为什么比油车贬值更大" },
   { "query_display": "女孩高铁上遭陌生男又亲又摸", "real_query": "女孩高铁上遭陌生男又亲又摸" },
+  { "query_display": "OpenAI DevDay", "real_query": "OpenAI DevDay" },
   { "query_display": "坂口志文", "real_query": "坂口志文" },
+  { "query_display": "人类是否无法想象出没见过的东西", "real_query": "人类是否无法想象出没见过的东西" },
+  { "query_display": "海南文昌发生海水倒灌", "real_query": "海南文昌发生海水倒灌" },
+  { "query_display": "哪些意想不到的历史人物其实还活着", "real_query": "哪些意想不到的历史人物其实还活着" },
   {
     "query_display": "官方通报「法院警车在山姆购物」为公车私用",
     "real_query": "官方通报「法院警车在山姆购物」为公车私用"
   },
-  { "query_display": "海南文昌发生海水倒灌", "real_query": "海南文昌发生海水倒灌" },
   { "query_display": "网友称夜晚被困五台山遇狐狸引路", "real_query": "网友称夜晚被困五台山遇狐狸引路" },
   { "query_display": "公司国庆前补班被举报后取消员工年假福利", "real_query": "公司国庆前补班被举报后取消员工年假福利" },
   {
