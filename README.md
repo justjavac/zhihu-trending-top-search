@@ -14,20 +14,23 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Oct 09 2025 21:31:29 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Oct 09 2025 22:21:22 GMT+0800 (China Standard Time) -->
 
 1. [假期综合征](https://www.zhihu.com/search?q=%E5%81%87%E6%9C%9F%E7%BB%BC%E5%90%88%E5%BE%81)
 1. [诺贝尔化学奖](https://www.zhihu.com/search?q=%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%8C%96%E5%AD%A6%E5%A5%96)
 1. [中国对稀土相关技术实施出口管制](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E5%AF%B9%E7%A8%80%E5%9C%9F%E7%9B%B8%E5%85%B3%E6%8A%80%E6%9C%AF%E5%AE%9E%E6%96%BD%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6)
 1. [匈牙利作家拉斯洛](https://www.zhihu.com/search?q=%E5%8C%88%E7%89%99%E5%88%A9%E4%BD%9C%E5%AE%B6%E6%8B%89%E6%96%AF%E6%B4%9B)
-1. [诺贝尔奖奖金 124 年没花完](https://www.zhihu.com/search?q=%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%A5%96%E5%A5%96%E9%87%91%20124%20%E5%B9%B4%E6%B2%A1%E8%8A%B1%E5%AE%8C)
-1. [鸡排哥的哪一点戳中了大家](https://www.zhihu.com/search?q=%E9%B8%A1%E6%8E%92%E5%93%A5%E7%9A%84%E5%93%AA%E4%B8%80%E7%82%B9%E6%88%B3%E4%B8%AD%E4%BA%86%E5%A4%A7%E5%AE%B6)
 1. [多地发布银龄教师招募计划](https://www.zhihu.com/search?q=%E5%A4%9A%E5%9C%B0%E5%8F%91%E5%B8%83%E9%93%B6%E9%BE%84%E6%95%99%E5%B8%88%E6%8B%9B%E5%8B%9F%E8%AE%A1%E5%88%92)
+1. [奔跑时手电筒射的光是不是超过了光速](https://www.zhihu.com/search?q=%E5%A5%94%E8%B7%91%E6%97%B6%E6%89%8B%E7%94%B5%E7%AD%92%E5%B0%84%E7%9A%84%E5%85%89%E6%98%AF%E4%B8%8D%E6%98%AF%E8%B6%85%E8%BF%87%E4%BA%86%E5%85%89%E9%80%9F)
 1. [男子喝3斤白酒用智驾开车](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%90%E5%96%9D3%E6%96%A4%E7%99%BD%E9%85%92%E7%94%A8%E6%99%BA%E9%A9%BE%E5%BC%80%E8%BD%A6)
 1. [苏超4强出炉 苏北五虎全军覆没](https://www.zhihu.com/search?q=%E8%8B%8F%E8%B6%854%E5%BC%BA%E5%87%BA%E7%82%89%20%E8%8B%8F%E5%8C%97%E4%BA%94%E8%99%8E%E5%85%A8%E5%86%9B%E8%A6%86%E6%B2%A1)
-1. [绝味为什么卖不动了](https://www.zhihu.com/search?q=%E7%BB%9D%E5%91%B3%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86)
 1. [香港知名歌手关淑怡传出病危抢救](https://www.zhihu.com/search?q=%E9%A6%99%E6%B8%AF%E7%9F%A5%E5%90%8D%E6%AD%8C%E6%89%8B%E5%85%B3%E6%B7%91%E6%80%A1%E4%BC%A0%E5%87%BA%E7%97%85%E5%8D%B1%E6%8A%A2%E6%95%91)
+1. [蒸汽弹射技术是否比电磁弹射更有优势](https://www.zhihu.com/search?q=%E8%92%B8%E6%B1%BD%E5%BC%B9%E5%B0%84%E6%8A%80%E6%9C%AF%E6%98%AF%E5%90%A6%E6%AF%94%E7%94%B5%E7%A3%81%E5%BC%B9%E5%B0%84%E6%9B%B4%E6%9C%89%E4%BC%98%E5%8A%BF)
 1. [博主称嫌西贝馒头贵不如努力挣钱](https://www.zhihu.com/search?q=%E5%8D%9A%E4%B8%BB%E7%A7%B0%E5%AB%8C%E8%A5%BF%E8%B4%9D%E9%A6%92%E5%A4%B4%E8%B4%B5%E4%B8%8D%E5%A6%82%E5%8A%AA%E5%8A%9B%E6%8C%A3%E9%92%B1)
+1. [坂口志文获诺贝尔奖](https://www.zhihu.com/search?q=%E5%9D%82%E5%8F%A3%E5%BF%97%E6%96%87%E8%8E%B7%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%A5%96)
+1. [诺贝尔奖奖金 124 年没花完](https://www.zhihu.com/search?q=%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%A5%96%E5%A5%96%E9%87%91%20124%20%E5%B9%B4%E6%B2%A1%E8%8A%B1%E5%AE%8C)
+1. [鸡排哥的哪一点戳中了大家](https://www.zhihu.com/search?q=%E9%B8%A1%E6%8E%92%E5%93%A5%E7%9A%84%E5%93%AA%E4%B8%80%E7%82%B9%E6%88%B3%E4%B8%AD%E4%BA%86%E5%A4%A7%E5%AE%B6)
+1. [绝味为什么卖不动了](https://www.zhihu.com/search?q=%E7%BB%9D%E5%91%B3%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86)
 1. [诺贝尔物理学奖揭晓](https://www.zhihu.com/search?q=%E8%AF%BA%E8%B4%9D%E5%B0%94%E7%89%A9%E7%90%86%E5%AD%A6%E5%A5%96%E6%8F%AD%E6%99%93)
 1. [人类是否无法想象出没见过的东西](https://www.zhihu.com/search?q=%E4%BA%BA%E7%B1%BB%E6%98%AF%E5%90%A6%E6%97%A0%E6%B3%95%E6%83%B3%E8%B1%A1%E5%87%BA%E6%B2%A1%E8%A7%81%E8%BF%87%E7%9A%84%E4%B8%9C%E8%A5%BF)
 1. [演员当大学校长最大的优势是什么](https://www.zhihu.com/search?q=%E6%BC%94%E5%91%98%E5%BD%93%E5%A4%A7%E5%AD%A6%E6%A0%A1%E9%95%BF%E6%9C%80%E5%A4%A7%E7%9A%84%E4%BC%98%E5%8A%BF%E6%98%AF%E4%BB%80%E4%B9%88)
