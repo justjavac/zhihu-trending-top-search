@@ -14,19 +14,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Oct 09 2025 15:19:48 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Oct 09 2025 16:28:11 GMT+0800 (China Standard Time) -->
 
 1. [假期综合征](https://www.zhihu.com/search?q=%E5%81%87%E6%9C%9F%E7%BB%BC%E5%90%88%E5%BE%81)
-1. [中国对稀土相关技术实施出口管制](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E5%AF%B9%E7%A8%80%E5%9C%9F%E7%9B%B8%E5%85%B3%E6%8A%80%E6%9C%AF%E5%AE%9E%E6%96%BD%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6)
-1. [四川甘孜新龙县5.4级地震](https://www.zhihu.com/search?q=%E5%9B%9B%E5%B7%9D%E7%94%98%E5%AD%9C%E6%96%B0%E9%BE%99%E5%8E%BF5.4%E7%BA%A7%E5%9C%B0%E9%9C%87)
 1. [诺贝尔化学奖](https://www.zhihu.com/search?q=%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%8C%96%E5%AD%A6%E5%A5%96)
-1. [苏超4强出炉 苏北五虎全军覆没](https://www.zhihu.com/search?q=%E8%8B%8F%E8%B6%854%E5%BC%BA%E5%87%BA%E7%82%89%20%E8%8B%8F%E5%8C%97%E4%BA%94%E8%99%8E%E5%85%A8%E5%86%9B%E8%A6%86%E6%B2%A1)
+1. [四川甘孜新龙县5.4级地震](https://www.zhihu.com/search?q=%E5%9B%9B%E5%B7%9D%E7%94%98%E5%AD%9C%E6%96%B0%E9%BE%99%E5%8E%BF5.4%E7%BA%A7%E5%9C%B0%E9%9C%87)
 1. [诺贝尔物理学奖揭晓](https://www.zhihu.com/search?q=%E8%AF%BA%E8%B4%9D%E5%B0%94%E7%89%A9%E7%90%86%E5%AD%A6%E5%A5%96%E6%8F%AD%E6%99%93)
 1. [詹姆斯的重大决定是广告](https://www.zhihu.com/search?q=%E8%A9%B9%E5%A7%86%E6%96%AF%E7%9A%84%E9%87%8D%E5%A4%A7%E5%86%B3%E5%AE%9A%E6%98%AF%E5%B9%BF%E5%91%8A)
-1. [演员知道自己正在拍一部烂片吗](https://www.zhihu.com/search?q=%E6%BC%94%E5%91%98%E7%9F%A5%E9%81%93%E8%87%AA%E5%B7%B1%E6%AD%A3%E5%9C%A8%E6%8B%8D%E4%B8%80%E9%83%A8%E7%83%82%E7%89%87%E5%90%97)
+1. [中国有哪些逆天的文物](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E6%9C%89%E5%93%AA%E4%BA%9B%E9%80%86%E5%A4%A9%E7%9A%84%E6%96%87%E7%89%A9)
+1. [中国对稀土相关技术实施出口管制](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E5%AF%B9%E7%A8%80%E5%9C%9F%E7%9B%B8%E5%85%B3%E6%8A%80%E6%9C%AF%E5%AE%9E%E6%96%BD%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6)
 1. [诺贝尔奖奖金 124 年没花完](https://www.zhihu.com/search?q=%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%A5%96%E5%A5%96%E9%87%91%20124%20%E5%B9%B4%E6%B2%A1%E8%8A%B1%E5%AE%8C)
 1. [多地发布银龄教师招募计划](https://www.zhihu.com/search?q=%E5%A4%9A%E5%9C%B0%E5%8F%91%E5%B8%83%E9%93%B6%E9%BE%84%E6%95%99%E5%B8%88%E6%8B%9B%E5%8B%9F%E8%AE%A1%E5%88%92)
+1. [鸡排哥的哪一点戳中了大家](https://www.zhihu.com/search?q=%E9%B8%A1%E6%8E%92%E5%93%A5%E7%9A%84%E5%93%AA%E4%B8%80%E7%82%B9%E6%88%B3%E4%B8%AD%E4%BA%86%E5%A4%A7%E5%AE%B6)
 1. [男子喝3斤白酒用智驾开车](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%90%E5%96%9D3%E6%96%A4%E7%99%BD%E9%85%92%E7%94%A8%E6%99%BA%E9%A9%BE%E5%BC%80%E8%BD%A6)
+1. [苏超4强出炉 苏北五虎全军覆没](https://www.zhihu.com/search?q=%E8%8B%8F%E8%B6%854%E5%BC%BA%E5%87%BA%E7%82%89%20%E8%8B%8F%E5%8C%97%E4%BA%94%E8%99%8E%E5%85%A8%E5%86%9B%E8%A6%86%E6%B2%A1)
+1. [演员知道自己正在拍一部烂片吗](https://www.zhihu.com/search?q=%E6%BC%94%E5%91%98%E7%9F%A5%E9%81%93%E8%87%AA%E5%B7%B1%E6%AD%A3%E5%9C%A8%E6%8B%8D%E4%B8%80%E9%83%A8%E7%83%82%E7%89%87%E5%90%97)
 1. [什么是人生的最顶级享受](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E6%98%AF%E4%BA%BA%E7%94%9F%E7%9A%84%E6%9C%80%E9%A1%B6%E7%BA%A7%E4%BA%AB%E5%8F%97)
 1. [诺贝尔文学奖](https://www.zhihu.com/search?q=%E8%AF%BA%E8%B4%9D%E5%B0%94%E6%96%87%E5%AD%A6%E5%A5%96)
 1. [早期的的网红后来怎么样了](https://www.zhihu.com/search?q=%E6%97%A9%E6%9C%9F%E7%9A%84%E7%9A%84%E7%BD%91%E7%BA%A2%E5%90%8E%E6%9D%A5%E6%80%8E%E4%B9%88%E6%A0%B7%E4%BA%86)
