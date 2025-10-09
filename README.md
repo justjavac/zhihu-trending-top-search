@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Oct 10 2025 05:18:15 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Oct 10 2025 06:18:52 GMT+0800 (China Standard Time) -->
 
 1. [假期综合征](https://www.zhihu.com/search?q=%E5%81%87%E6%9C%9F%E7%BB%BC%E5%90%88%E5%BE%81)
 1. [诺贝尔化学奖](https://www.zhihu.com/search?q=%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%8C%96%E5%AD%A6%E5%A5%96)
