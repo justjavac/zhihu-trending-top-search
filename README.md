@@ -14,17 +14,23 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Oct 12 2025 11:03:05 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Oct 12 2025 12:23:41 GMT+0800 (China Standard Time) -->
 
 1. [宗馥莉已辞职](https://www.zhihu.com/search?q=%E5%AE%97%E9%A6%A5%E8%8E%89%E5%B7%B2%E8%BE%9E%E8%81%8C)
 1. [恒大许家印离岸信托被击穿](https://www.zhihu.com/search?q=%E6%81%92%E5%A4%A7%E8%AE%B8%E5%AE%B6%E5%8D%B0%E7%A6%BB%E5%B2%B8%E4%BF%A1%E6%89%98%E8%A2%AB%E5%87%BB%E7%A9%BF)
-1. [小米SU7坠海 车主不幸身亡](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3SU7%E5%9D%A0%E6%B5%B7%20%E8%BD%A6%E4%B8%BB%E4%B8%8D%E5%B9%B8%E8%BA%AB%E4%BA%A1)
-1. [为什么都说消费降级了旅游时依旧人山人海](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E9%83%BD%E8%AF%B4%E6%B6%88%E8%B4%B9%E9%99%8D%E7%BA%A7%E4%BA%86%E6%97%85%E6%B8%B8%E6%97%B6%E4%BE%9D%E6%97%A7%E4%BA%BA%E5%B1%B1%E4%BA%BA%E6%B5%B7)
 1. [宗馥莉](https://www.zhihu.com/search?q=%E5%AE%97%E9%A6%A5%E8%8E%89)
+1. [万科董事长辛杰被曝失联](https://www.zhihu.com/search?q=%E4%B8%87%E7%A7%91%E8%91%A3%E4%BA%8B%E9%95%BF%E8%BE%9B%E6%9D%B0%E8%A2%AB%E6%9B%9D%E5%A4%B1%E8%81%94)
+1. [为什么大闸蟹「绳重」问题屡禁不止](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A4%A7%E9%97%B8%E8%9F%B9%E3%80%8C%E7%BB%B3%E9%87%8D%E3%80%8D%E9%97%AE%E9%A2%98%E5%B1%A1%E7%A6%81%E4%B8%8D%E6%AD%A2)
 1. [美股跳水](https://www.zhihu.com/search?q=%E7%BE%8E%E8%82%A1%E8%B7%B3%E6%B0%B4)
 1. [宗馥莉将独立经营娃小宗](https://www.zhihu.com/search?q=%E5%AE%97%E9%A6%A5%E8%8E%89%E5%B0%86%E7%8B%AC%E7%AB%8B%E7%BB%8F%E8%90%A5%E5%A8%83%E5%B0%8F%E5%AE%97)
-1. [如果高速路的小车全部换成摩托车还会堵吗](https://www.zhihu.com/search?q=%E5%A6%82%E6%9E%9C%E9%AB%98%E9%80%9F%E8%B7%AF%E7%9A%84%E5%B0%8F%E8%BD%A6%E5%85%A8%E9%83%A8%E6%8D%A2%E6%88%90%E6%91%A9%E6%89%98%E8%BD%A6%E8%BF%98%E4%BC%9A%E5%A0%B5%E5%90%97)
 1. [新加坡双尸案女儿是剑桥博士疑饿死](https://www.zhihu.com/search?q=%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%8F%8C%E5%B0%B8%E6%A1%88%E5%A5%B3%E5%84%BF%E6%98%AF%E5%89%91%E6%A1%A5%E5%8D%9A%E5%A3%AB%E7%96%91%E9%A5%BF%E6%AD%BB)
+1. [紫金红葫芦就能抓住孙悟空为何还要天兵天将](https://www.zhihu.com/search?q=%E7%B4%AB%E9%87%91%E7%BA%A2%E8%91%AB%E8%8A%A6%E5%B0%B1%E8%83%BD%E6%8A%93%E4%BD%8F%E5%AD%99%E6%82%9F%E7%A9%BA%E4%B8%BA%E4%BD%95%E8%BF%98%E8%A6%81%E5%A4%A9%E5%85%B5%E5%A4%A9%E5%B0%86)
+1. [中方对部分稀土设备和原辅料出口管制](https://www.zhihu.com/search?q=%E4%B8%AD%E6%96%B9%E5%AF%B9%E9%83%A8%E5%88%86%E7%A8%80%E5%9C%9F%E8%AE%BE%E5%A4%87%E5%92%8C%E5%8E%9F%E8%BE%85%E6%96%99%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6)
+1. [孕妇泰国坠崖离婚案法院判离](https://www.zhihu.com/search?q=%E5%AD%95%E5%A6%87%E6%B3%B0%E5%9B%BD%E5%9D%A0%E5%B4%96%E7%A6%BB%E5%A9%9A%E6%A1%88%E6%B3%95%E9%99%A2%E5%88%A4%E7%A6%BB)
+1. [伊朗货币面值「去掉四个零」会带来哪些影响](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E8%B4%A7%E5%B8%81%E9%9D%A2%E5%80%BC%E3%80%8C%E5%8E%BB%E6%8E%89%E5%9B%9B%E4%B8%AA%E9%9B%B6%E3%80%8D%E4%BC%9A%E5%B8%A6%E6%9D%A5%E5%93%AA%E4%BA%9B%E5%BD%B1%E5%93%8D)
+1. [小米SU7坠海 车主不幸身亡](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3SU7%E5%9D%A0%E6%B5%B7%20%E8%BD%A6%E4%B8%BB%E4%B8%8D%E5%B9%B8%E8%BA%AB%E4%BA%A1)
+1. [为什么都说消费降级了旅游时依旧人山人海](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E9%83%BD%E8%AF%B4%E6%B6%88%E8%B4%B9%E9%99%8D%E7%BA%A7%E4%BA%86%E6%97%85%E6%B8%B8%E6%97%B6%E4%BE%9D%E6%97%A7%E4%BA%BA%E5%B1%B1%E4%BA%BA%E6%B5%B7)
+1. [如果高速路的小车全部换成摩托车还会堵吗](https://www.zhihu.com/search?q=%E5%A6%82%E6%9E%9C%E9%AB%98%E9%80%9F%E8%B7%AF%E7%9A%84%E5%B0%8F%E8%BD%A6%E5%85%A8%E9%83%A8%E6%8D%A2%E6%88%90%E6%91%A9%E6%89%98%E8%BD%A6%E8%BF%98%E4%BC%9A%E5%A0%B5%E5%90%97)
 1. [宗泽后：水军害了宗馥莉](https://www.zhihu.com/search?q=%E5%AE%97%E6%B3%BD%E5%90%8E%EF%BC%9A%E6%B0%B4%E5%86%9B%E5%AE%B3%E4%BA%86%E5%AE%97%E9%A6%A5%E8%8E%89)
 1. [OpenAI DevDay 发布五件套](https://www.zhihu.com/search?q=OpenAI%20DevDay%20%E5%8F%91%E5%B8%83%E4%BA%94%E4%BB%B6%E5%A5%97)
 1. [宗馥莉接连注销名下公司](https://www.zhihu.com/search?q=%E5%AE%97%E9%A6%A5%E8%8E%89%E6%8E%A5%E8%BF%9E%E6%B3%A8%E9%94%80%E5%90%8D%E4%B8%8B%E5%85%AC%E5%8F%B8)
