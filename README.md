@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Oct 13 2025 22:21:43 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Oct 13 2025 23:21:54 GMT+0800 (China Standard Time) -->
 
 1. [2025 诺贝尔经济学奖](https://www.zhihu.com/search?q=2025%20%E8%AF%BA%E8%B4%9D%E5%B0%94%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%A5%96)
 1. [宗馥莉已辞职](https://www.zhihu.com/search?q=%E5%AE%97%E9%A6%A5%E8%8E%89%E5%B7%B2%E8%BE%9E%E8%81%8C)
