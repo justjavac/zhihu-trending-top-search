@@ -14,18 +14,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Oct 13 2025 18:24:39 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Oct 13 2025 19:17:35 GMT+0800 (China Standard Time) -->
 
 1. [2025 诺贝尔经济学奖](https://www.zhihu.com/search?q=2025%20%E8%AF%BA%E8%B4%9D%E5%B0%94%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%A5%96)
 1. [宗馥莉已辞职](https://www.zhihu.com/search?q=%E5%AE%97%E9%A6%A5%E8%8E%89%E5%B7%B2%E8%BE%9E%E8%81%8C)
 1. [中方回应美方威胁加征100%关税](https://www.zhihu.com/search?q=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BE%8E%E6%96%B9%E5%A8%81%E8%83%81%E5%8A%A0%E5%BE%81100%25%E5%85%B3%E7%A8%8E)
 1. [成都一车辆起火多人救援打不开门](https://www.zhihu.com/search?q=%E6%88%90%E9%83%BD%E4%B8%80%E8%BD%A6%E8%BE%86%E8%B5%B7%E7%81%AB%E5%A4%9A%E4%BA%BA%E6%95%91%E6%8F%B4%E6%89%93%E4%B8%8D%E5%BC%80%E9%97%A8)
-1. [哪些演员演什么像什么](https://www.zhihu.com/search?q=%E5%93%AA%E4%BA%9B%E6%BC%94%E5%91%98%E6%BC%94%E4%BB%80%E4%B9%88%E5%83%8F%E4%BB%80%E4%B9%88)
+1. [你去过最离谱的景区是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E5%8E%BB%E8%BF%87%E6%9C%80%E7%A6%BB%E8%B0%B1%E7%9A%84%E6%99%AF%E5%8C%BA%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [美股跳水](https://www.zhihu.com/search?q=%E7%BE%8E%E8%82%A1%E8%B7%B3%E6%B0%B4)
 1. [宗馥莉](https://www.zhihu.com/search?q=%E5%AE%97%E9%A6%A5%E8%8E%89)
 1. [浙江一居民楼出现空心菜瀑布](https://www.zhihu.com/search?q=%E6%B5%99%E6%B1%9F%E4%B8%80%E5%B1%85%E6%B0%91%E6%A5%BC%E5%87%BA%E7%8E%B0%E7%A9%BA%E5%BF%83%E8%8F%9C%E7%80%91%E5%B8%83)
-1. [你去过最离谱的景区是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E5%8E%BB%E8%BF%87%E6%9C%80%E7%A6%BB%E8%B0%B1%E7%9A%84%E6%99%AF%E5%8C%BA%E6%98%AF%E4%BB%80%E4%B9%88)
+1. [为什么当今社会单亲妈妈越来越多了](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BD%93%E4%BB%8A%E7%A4%BE%E4%BC%9A%E5%8D%95%E4%BA%B2%E5%A6%88%E5%A6%88%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E4%BA%86)
 1. [宗馥莉将独立经营娃小宗](https://www.zhihu.com/search?q=%E5%AE%97%E9%A6%A5%E8%8E%89%E5%B0%86%E7%8B%AC%E7%AB%8B%E7%BB%8F%E8%90%A5%E5%A8%83%E5%B0%8F%E5%AE%97)
+1. [闻泰科技147亿半导体资产被荷兰冻结](https://www.zhihu.com/search?q=%E9%97%BB%E6%B3%B0%E7%A7%91%E6%8A%80147%E4%BA%BF%E5%8D%8A%E5%AF%BC%E4%BD%93%E8%B5%84%E4%BA%A7%E8%A2%AB%E8%8D%B7%E5%85%B0%E5%86%BB%E7%BB%93)
+1. [听过领导最没水平的一句话是什么](https://www.zhihu.com/search?q=%E5%90%AC%E8%BF%87%E9%A2%86%E5%AF%BC%E6%9C%80%E6%B2%A1%E6%B0%B4%E5%B9%B3%E7%9A%84%E4%B8%80%E5%8F%A5%E8%AF%9D%E6%98%AF%E4%BB%80%E4%B9%88)
+1. [哪些演员演什么像什么](https://www.zhihu.com/search?q=%E5%93%AA%E4%BA%9B%E6%BC%94%E5%91%98%E6%BC%94%E4%BB%80%E4%B9%88%E5%83%8F%E4%BB%80%E4%B9%88)
 1. [过去24小时加密货币爆仓超190亿美元](https://www.zhihu.com/search?q=%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81%E7%88%86%E4%BB%93%E8%B6%85190%E4%BA%BF%E7%BE%8E%E5%85%83)
 1. [蜜雪冰城多地门店柠檬水缺货](https://www.zhihu.com/search?q=%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E5%A4%9A%E5%9C%B0%E9%97%A8%E5%BA%97%E6%9F%A0%E6%AA%AC%E6%B0%B4%E7%BC%BA%E8%B4%A7)
 1. [现实中出轨的人真的很多吗](https://www.zhihu.com/search?q=%E7%8E%B0%E5%AE%9E%E4%B8%AD%E5%87%BA%E8%BD%A8%E7%9A%84%E4%BA%BA%E7%9C%9F%E7%9A%84%E5%BE%88%E5%A4%9A%E5%90%97)
