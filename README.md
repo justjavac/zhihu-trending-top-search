@@ -14,12 +14,12 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Oct 13 2025 20:43:55 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Oct 13 2025 21:31:04 GMT+0800 (China Standard Time) -->
 
 1. [2025 诺贝尔经济学奖](https://www.zhihu.com/search?q=2025%20%E8%AF%BA%E8%B4%9D%E5%B0%94%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%A5%96)
 1. [宗馥莉已辞职](https://www.zhihu.com/search?q=%E5%AE%97%E9%A6%A5%E8%8E%89%E5%B7%B2%E8%BE%9E%E8%81%8C)
-1. [中方回应美方威胁加征100%关税](https://www.zhihu.com/search?q=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BE%8E%E6%96%B9%E5%A8%81%E8%83%81%E5%8A%A0%E5%BE%81100%25%E5%85%B3%E7%A8%8E)
 1. [成都一车辆起火多人救援打不开门](https://www.zhihu.com/search?q=%E6%88%90%E9%83%BD%E4%B8%80%E8%BD%A6%E8%BE%86%E8%B5%B7%E7%81%AB%E5%A4%9A%E4%BA%BA%E6%95%91%E6%8F%B4%E6%89%93%E4%B8%8D%E5%BC%80%E9%97%A8)
+1. [中方回应美方威胁加征100%关税](https://www.zhihu.com/search?q=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BE%8E%E6%96%B9%E5%A8%81%E8%83%81%E5%8A%A0%E5%BE%81100%25%E5%85%B3%E7%A8%8E)
 1. [听过领导最没水平的一句话是什么](https://www.zhihu.com/search?q=%E5%90%AC%E8%BF%87%E9%A2%86%E5%AF%BC%E6%9C%80%E6%B2%A1%E6%B0%B4%E5%B9%B3%E7%9A%84%E4%B8%80%E5%8F%A5%E8%AF%9D%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [美股跳水](https://www.zhihu.com/search?q=%E7%BE%8E%E8%82%A1%E8%B7%B3%E6%B0%B4)
 1. [宗馥莉](https://www.zhihu.com/search?q=%E5%AE%97%E9%A6%A5%E8%8E%89)
