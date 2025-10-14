@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Oct 14 2025 12:25:08 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Oct 14 2025 13:20:10 GMT+0800 (China Standard Time) -->
 
 1. [国考打破 35 岁年龄限制](https://www.zhihu.com/search?q=%E5%9B%BD%E8%80%83%E6%89%93%E7%A0%B4%2035%20%E5%B2%81%E5%B9%B4%E9%BE%84%E9%99%90%E5%88%B6)
 1. [成都一车辆起火多人救援打不开门](https://www.zhihu.com/search?q=%E6%88%90%E9%83%BD%E4%B8%80%E8%BD%A6%E8%BE%86%E8%B5%B7%E7%81%AB%E5%A4%9A%E4%BA%BA%E6%95%91%E6%8F%B4%E6%89%93%E4%B8%8D%E5%BC%80%E9%97%A8)
@@ -23,10 +23,11 @@
 1. [2025 诺贝尔经济学奖](https://www.zhihu.com/search?q=2025%20%E8%AF%BA%E8%B4%9D%E5%B0%94%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%A5%96)
 1. [万科董事长辛杰被曝失联](https://www.zhihu.com/search?q=%E4%B8%87%E7%A7%91%E8%91%A3%E4%BA%8B%E9%95%BF%E8%BE%9B%E6%9D%B0%E8%A2%AB%E6%9B%9D%E5%A4%B1%E8%81%94)
 1. [演员到底有多吃天赋](https://www.zhihu.com/search?q=%E6%BC%94%E5%91%98%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E5%90%83%E5%A4%A9%E8%B5%8B)
-1. [细嘴杓鹬正式宣布灭绝](https://www.zhihu.com/search?q=%E7%BB%86%E5%98%B4%E6%9D%93%E9%B9%AC%E6%AD%A3%E5%BC%8F%E5%AE%A3%E5%B8%83%E7%81%AD%E7%BB%9D)
 1. [小米客服回应成都事故车无法打开车门](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E6%88%90%E9%83%BD%E4%BA%8B%E6%95%85%E8%BD%A6%E6%97%A0%E6%B3%95%E6%89%93%E5%BC%80%E8%BD%A6%E9%97%A8)
+1. [细嘴杓鹬正式宣布灭绝](https://www.zhihu.com/search?q=%E7%BB%86%E5%98%B4%E6%9D%93%E9%B9%AC%E6%AD%A3%E5%BC%8F%E5%AE%A3%E5%B8%83%E7%81%AD%E7%BB%9D)
 1. [闻泰科技147亿半导体资产被荷兰冻结](https://www.zhihu.com/search?q=%E9%97%BB%E6%B3%B0%E7%A7%91%E6%8A%80147%E4%BA%BF%E5%8D%8A%E5%AF%BC%E4%BD%93%E8%B5%84%E4%BA%A7%E8%A2%AB%E8%8D%B7%E5%85%B0%E5%86%BB%E7%BB%93)
 1. [女朋友家很有钱是一种什么感觉](https://www.zhihu.com/search?q=%E5%A5%B3%E6%9C%8B%E5%8F%8B%E5%AE%B6%E5%BE%88%E6%9C%89%E9%92%B1%E6%98%AF%E4%B8%80%E7%A7%8D%E4%BB%80%E4%B9%88%E6%84%9F%E8%A7%89)
+1. [李行亮控诉遭长期网暴和开盒骚扰](https://www.zhihu.com/search?q=%E6%9D%8E%E8%A1%8C%E4%BA%AE%E6%8E%A7%E8%AF%89%E9%81%AD%E9%95%BF%E6%9C%9F%E7%BD%91%E6%9A%B4%E5%92%8C%E5%BC%80%E7%9B%92%E9%AA%9A%E6%89%B0)
 1. [过去24小时加密货币爆仓超190亿美元](https://www.zhihu.com/search?q=%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81%E7%88%86%E4%BB%93%E8%B6%85190%E4%BA%BF%E7%BE%8E%E5%85%83)
 1. [中方回应美方威胁加征100%关税](https://www.zhihu.com/search?q=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BE%8E%E6%96%B9%E5%A8%81%E8%83%81%E5%8A%A0%E5%BE%81100%25%E5%85%B3%E7%A8%8E)
 1. [若祁同伟最后对侯亮平开枪了剧情该怎么发展](https://www.zhihu.com/search?q=%E8%8B%A5%E7%A5%81%E5%90%8C%E4%BC%9F%E6%9C%80%E5%90%8E%E5%AF%B9%E4%BE%AF%E4%BA%AE%E5%B9%B3%E5%BC%80%E6%9E%AA%E4%BA%86%E5%89%A7%E6%83%85%E8%AF%A5%E6%80%8E%E4%B9%88%E5%8F%91%E5%B1%95)
