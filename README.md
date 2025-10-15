@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Oct 15 2025 20:46:11 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Oct 15 2025 21:33:09 GMT+0800 (China Standard Time) -->
 
 1. [官方通报蔡国强烟花秀调查情况](https://www.zhihu.com/search?q=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E8%94%A1%E5%9B%BD%E5%BC%BA%E7%83%9F%E8%8A%B1%E7%A7%80%E8%B0%83%E6%9F%A5%E6%83%85%E5%86%B5)
 1. [国乒女团复仇日本夺冠](https://www.zhihu.com/search?q=%E5%9B%BD%E4%B9%92%E5%A5%B3%E5%9B%A2%E5%A4%8D%E4%BB%87%E6%97%A5%E6%9C%AC%E5%A4%BA%E5%86%A0)
