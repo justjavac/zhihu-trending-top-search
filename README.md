@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Oct 16 2025 17:23:57 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Oct 16 2025 18:24:02 GMT+0800 (China Standard Time) -->
 
 1. [官方通报蔡国强烟花秀调查情况](https://www.zhihu.com/search?q=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E8%94%A1%E5%9B%BD%E5%BC%BA%E7%83%9F%E8%8A%B1%E7%A7%80%E8%B0%83%E6%9F%A5%E6%83%85%E5%86%B5)
 1. [美国知名精神病学家自杀](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E7%9F%A5%E5%90%8D%E7%B2%BE%E7%A5%9E%E7%97%85%E5%AD%A6%E5%AE%B6%E8%87%AA%E6%9D%80)
@@ -22,12 +22,14 @@
 1. [缅北魏家犯罪集团案侦破](https://www.zhihu.com/search?q=%E7%BC%85%E5%8C%97%E9%AD%8F%E5%AE%B6%E7%8A%AF%E7%BD%AA%E9%9B%86%E5%9B%A2%E6%A1%88%E4%BE%A6%E7%A0%B4)
 1. [国乒女团复仇日本夺冠](https://www.zhihu.com/search?q=%E5%9B%BD%E4%B9%92%E5%A5%B3%E5%9B%A2%E5%A4%8D%E4%BB%87%E6%97%A5%E6%9C%AC%E5%A4%BA%E5%86%A0)
 1. [你在家闯过最大的祸是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E5%9C%A8%E5%AE%B6%E9%97%AF%E8%BF%87%E6%9C%80%E5%A4%A7%E7%9A%84%E7%A5%B8%E6%98%AF%E4%BB%80%E4%B9%88)
-1. [南天门计划新机型紫火首次亮相](https://www.zhihu.com/search?q=%E5%8D%97%E5%A4%A9%E9%97%A8%E8%AE%A1%E5%88%92%E6%96%B0%E6%9C%BA%E5%9E%8B%E7%B4%AB%E7%81%AB%E9%A6%96%E6%AC%A1%E4%BA%AE%E7%9B%B8)
 1. [广东一牛市惊现五条腿的牛](https://www.zhihu.com/search?q=%E5%B9%BF%E4%B8%9C%E4%B8%80%E7%89%9B%E5%B8%82%E6%83%8A%E7%8E%B0%E4%BA%94%E6%9D%A1%E8%85%BF%E7%9A%84%E7%89%9B)
-1. [欧盟拟强制中国企业转让技术](https://www.zhihu.com/search?q=%E6%AC%A7%E7%9B%9F%E6%8B%9F%E5%BC%BA%E5%88%B6%E4%B8%AD%E5%9B%BD%E4%BC%81%E4%B8%9A%E8%BD%AC%E8%AE%A9%E6%8A%80%E6%9C%AF)
-1. [孩子出生当天你发了什么朋友圈](https://www.zhihu.com/search?q=%E5%AD%A9%E5%AD%90%E5%87%BA%E7%94%9F%E5%BD%93%E5%A4%A9%E4%BD%A0%E5%8F%91%E4%BA%86%E4%BB%80%E4%B9%88%E6%9C%8B%E5%8F%8B%E5%9C%88)
 1. [跑腿骑手取走万元手机后失联](https://www.zhihu.com/search?q=%E8%B7%91%E8%85%BF%E9%AA%91%E6%89%8B%E5%8F%96%E8%B5%B0%E4%B8%87%E5%85%83%E6%89%8B%E6%9C%BA%E5%90%8E%E5%A4%B1%E8%81%94)
 1. [BLG 0:1 爆冷不敌 100T](https://www.zhihu.com/search?q=BLG%200%3A1%20%E7%88%86%E5%86%B7%E4%B8%8D%E6%95%8C%20100T)
+1. [孩子出生当天你发了什么朋友圈](https://www.zhihu.com/search?q=%E5%AD%A9%E5%AD%90%E5%87%BA%E7%94%9F%E5%BD%93%E5%A4%A9%E4%BD%A0%E5%8F%91%E4%BA%86%E4%BB%80%E4%B9%88%E6%9C%8B%E5%8F%8B%E5%9C%88)
+1. [升龙烟花秀多人被处理](https://www.zhihu.com/search?q=%E5%8D%87%E9%BE%99%E7%83%9F%E8%8A%B1%E7%A7%80%E5%A4%9A%E4%BA%BA%E8%A2%AB%E5%A4%84%E7%90%86)
+1. [中国球员曾凡博被曝已被篮网裁掉](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E7%90%83%E5%91%98%E6%9B%BE%E5%87%A1%E5%8D%9A%E8%A2%AB%E6%9B%9D%E5%B7%B2%E8%A2%AB%E7%AF%AE%E7%BD%91%E8%A3%81%E6%8E%89)
+1. [南天门计划新机型紫火首次亮相](https://www.zhihu.com/search?q=%E5%8D%97%E5%A4%A9%E9%97%A8%E8%AE%A1%E5%88%92%E6%96%B0%E6%9C%BA%E5%9E%8B%E7%B4%AB%E7%81%AB%E9%A6%96%E6%AC%A1%E4%BA%AE%E7%9B%B8)
+1. [欧盟拟强制中国企业转让技术](https://www.zhihu.com/search?q=%E6%AC%A7%E7%9B%9F%E6%8B%9F%E5%BC%BA%E5%88%B6%E4%B8%AD%E5%9B%BD%E4%BC%81%E4%B8%9A%E8%BD%AC%E8%AE%A9%E6%8A%80%E6%9C%AF)
 1. [iG vs T1](https://www.zhihu.com/search?q=iG%20vs%20T1)
 1. [日本队集体凝固](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E9%98%9F%E9%9B%86%E4%BD%93%E5%87%9D%E5%9B%BA)
 1. [如何评价「片假名是翻译界的毒瘤」](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E3%80%8C%E7%89%87%E5%81%87%E5%90%8D%E6%98%AF%E7%BF%BB%E8%AF%91%E7%95%8C%E7%9A%84%E6%AF%92%E7%98%A4%E3%80%8D)
