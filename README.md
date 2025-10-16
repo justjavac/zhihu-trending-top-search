@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Oct 16 2025 12:24:38 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Oct 16 2025 13:20:40 GMT+0800 (China Standard Time) -->
 
 1. [官方通报蔡国强烟花秀调查情况](https://www.zhihu.com/search?q=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E8%94%A1%E5%9B%BD%E5%BC%BA%E7%83%9F%E8%8A%B1%E7%A7%80%E8%B0%83%E6%9F%A5%E6%83%85%E5%86%B5)
 1. [美国知名精神病学家自杀](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E7%9F%A5%E5%90%8D%E7%B2%BE%E7%A5%9E%E7%97%85%E5%AD%A6%E5%AE%B6%E8%87%AA%E6%9D%80)
