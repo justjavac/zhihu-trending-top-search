@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Oct 19 2025 05:16:56 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Oct 19 2025 06:17:59 GMT+0800 (China Standard Time) -->
 
 1. [沪上阿姨推出子宫形玩偶引争议](https://www.zhihu.com/search?q=%E6%B2%AA%E4%B8%8A%E9%98%BF%E5%A7%A8%E6%8E%A8%E5%87%BA%E5%AD%90%E5%AE%AB%E5%BD%A2%E7%8E%A9%E5%81%B6%E5%BC%95%E4%BA%89%E8%AE%AE)
 1. [杨振宁先生逝世](https://www.zhihu.com/search?q=%E6%9D%A8%E6%8C%AF%E5%AE%81%E5%85%88%E7%94%9F%E9%80%9D%E4%B8%96)
