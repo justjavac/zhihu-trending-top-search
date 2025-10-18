@@ -14,16 +14,17 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Oct 18 2025 20:39:04 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Oct 18 2025 21:23:30 GMT+0800 (China Standard Time) -->
 
 1. [杨振宁先生逝世](https://www.zhihu.com/search?q=%E6%9D%A8%E6%8C%AF%E5%AE%81%E5%85%88%E7%94%9F%E9%80%9D%E4%B8%96)
 1. [清华大学发文悼念杨振宁](https://www.zhihu.com/search?q=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E5%8F%91%E6%96%87%E6%82%BC%E5%BF%B5%E6%9D%A8%E6%8C%AF%E5%AE%81)
 1. [宇称不守恒](https://www.zhihu.com/search?q=%E5%AE%87%E7%A7%B0%E4%B8%8D%E5%AE%88%E6%81%92)
-1. [网友称航班行李架起火备降上海浦东](https://www.zhihu.com/search?q=%E7%BD%91%E5%8F%8B%E7%A7%B0%E8%88%AA%E7%8F%AD%E8%A1%8C%E6%9D%8E%E6%9E%B6%E8%B5%B7%E7%81%AB%E5%A4%87%E9%99%8D%E4%B8%8A%E6%B5%B7%E6%B5%A6%E4%B8%9C)
+1. [苏超半决赛：南京vs泰州](https://www.zhihu.com/search?q=%E8%8B%8F%E8%B6%85%E5%8D%8A%E5%86%B3%E8%B5%9B%EF%BC%9A%E5%8D%97%E4%BA%ACvs%E6%B3%B0%E5%B7%9E)
 1. [杨米尔斯规范场理论](https://www.zhihu.com/search?q=%E6%9D%A8%E7%B1%B3%E5%B0%94%E6%96%AF%E8%A7%84%E8%8C%83%E5%9C%BA%E7%90%86%E8%AE%BA)
-1. [杨振宁逝世](https://www.zhihu.com/search?q=%E6%9D%A8%E6%8C%AF%E5%AE%81%E9%80%9D%E4%B8%96)
+1. [网友称航班行李架起火备降上海浦东](https://www.zhihu.com/search?q=%E7%BD%91%E5%8F%8B%E7%A7%B0%E8%88%AA%E7%8F%AD%E8%A1%8C%E6%9D%8E%E6%9E%B6%E8%B5%B7%E7%81%AB%E5%A4%87%E9%99%8D%E4%B8%8A%E6%B5%B7%E6%B5%A6%E4%B8%9C)
 1. [沪上阿姨推出子宫形玩偶引争议](https://www.zhihu.com/search?q=%E6%B2%AA%E4%B8%8A%E9%98%BF%E5%A7%A8%E6%8E%A8%E5%87%BA%E5%AD%90%E5%AE%AB%E5%BD%A2%E7%8E%A9%E5%81%B6%E5%BC%95%E4%BA%89%E8%AE%AE)
 1. [陈伟霆何穗官宣生子](https://www.zhihu.com/search?q=%E9%99%88%E4%BC%9F%E9%9C%86%E4%BD%95%E7%A9%97%E5%AE%98%E5%AE%A3%E7%94%9F%E5%AD%90)
+1. [杨振宁逝世](https://www.zhihu.com/search?q=%E6%9D%A8%E6%8C%AF%E5%AE%81%E9%80%9D%E4%B8%96)
 1. [为什么消费者对过度营销这么反感](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B6%88%E8%B4%B9%E8%80%85%E5%AF%B9%E8%BF%87%E5%BA%A6%E8%90%A5%E9%94%80%E8%BF%99%E4%B9%88%E5%8F%8D%E6%84%9F)
 1. [网传高校副教授未过考核转岗保安](https://www.zhihu.com/search?q=%E7%BD%91%E4%BC%A0%E9%AB%98%E6%A0%A1%E5%89%AF%E6%95%99%E6%8E%88%E6%9C%AA%E8%BF%87%E8%80%83%E6%A0%B8%E8%BD%AC%E5%B2%97%E4%BF%9D%E5%AE%89)
 1. [警方通报演员荣梓杉被曝出轨打人](https://www.zhihu.com/search?q=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E6%BC%94%E5%91%98%E8%8D%A3%E6%A2%93%E6%9D%89%E8%A2%AB%E6%9B%9D%E5%87%BA%E8%BD%A8%E6%89%93%E4%BA%BA)
