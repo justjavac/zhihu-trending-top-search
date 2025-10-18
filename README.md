@@ -14,20 +14,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Oct 19 2025 01:15:58 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Oct 19 2025 02:26:52 GMT+0800 (China Standard Time) -->
 
 1. [沪上阿姨推出子宫形玩偶引争议](https://www.zhihu.com/search?q=%E6%B2%AA%E4%B8%8A%E9%98%BF%E5%A7%A8%E6%8E%A8%E5%87%BA%E5%AD%90%E5%AE%AB%E5%BD%A2%E7%8E%A9%E5%81%B6%E5%BC%95%E4%BA%89%E8%AE%AE)
 1. [杨振宁先生逝世](https://www.zhihu.com/search?q=%E6%9D%A8%E6%8C%AF%E5%AE%81%E5%85%88%E7%94%9F%E9%80%9D%E4%B8%96)
 1. [陈伟霆何穗官宣生子](https://www.zhihu.com/search?q=%E9%99%88%E4%BC%9F%E9%9C%86%E4%BD%95%E7%A9%97%E5%AE%98%E5%AE%A3%E7%94%9F%E5%AD%90)
 1. [苏超半决赛：南京vs泰州](https://www.zhihu.com/search?q=%E8%8B%8F%E8%B6%85%E5%8D%8A%E5%86%B3%E8%B5%9B%EF%BC%9A%E5%8D%97%E4%BA%ACvs%E6%B3%B0%E5%B7%9E)
-1. [杨米尔斯规范场理论](https://www.zhihu.com/search?q=%E6%9D%A8%E7%B1%B3%E5%B0%94%E6%96%AF%E8%A7%84%E8%8C%83%E5%9C%BA%E7%90%86%E8%AE%BA)
-1. [为何部分高校研究生费用大涨](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E9%83%A8%E5%88%86%E9%AB%98%E6%A0%A1%E7%A0%94%E7%A9%B6%E7%94%9F%E8%B4%B9%E7%94%A8%E5%A4%A7%E6%B6%A8)
+1. [你见过什么毁三观的事](https://www.zhihu.com/search?q=%E4%BD%A0%E8%A7%81%E8%BF%87%E4%BB%80%E4%B9%88%E6%AF%81%E4%B8%89%E8%A7%82%E7%9A%84%E4%BA%8B)
 1. [杨振宁逝世](https://www.zhihu.com/search?q=%E6%9D%A8%E6%8C%AF%E5%AE%81%E9%80%9D%E4%B8%96)
 1. [网传高校副教授未过考核转岗保安](https://www.zhihu.com/search?q=%E7%BD%91%E4%BC%A0%E9%AB%98%E6%A0%A1%E5%89%AF%E6%95%99%E6%8E%88%E6%9C%AA%E8%BF%87%E8%80%83%E6%A0%B8%E8%BD%AC%E5%B2%97%E4%BF%9D%E5%AE%89)
 1. [清华大学发文悼念杨振宁](https://www.zhihu.com/search?q=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E5%8F%91%E6%96%87%E6%82%BC%E5%BF%B5%E6%9D%A8%E6%8C%AF%E5%AE%81)
-1. [梅德韦杰夫为何被普京抛弃边缘化](https://www.zhihu.com/search?q=%E6%A2%85%E5%BE%B7%E9%9F%A6%E6%9D%B0%E5%A4%AB%E4%B8%BA%E4%BD%95%E8%A2%AB%E6%99%AE%E4%BA%AC%E6%8A%9B%E5%BC%83%E8%BE%B9%E7%BC%98%E5%8C%96)
+1. [为何部分高校研究生费用大涨](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E9%83%A8%E5%88%86%E9%AB%98%E6%A0%A1%E7%A0%94%E7%A9%B6%E7%94%9F%E8%B4%B9%E7%94%A8%E5%A4%A7%E6%B6%A8)
 1. [警方通报演员荣梓杉被曝出轨打人](https://www.zhihu.com/search?q=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E6%BC%94%E5%91%98%E8%8D%A3%E6%A2%93%E6%9D%89%E8%A2%AB%E6%9B%9D%E5%87%BA%E8%BD%A8%E6%89%93%E4%BA%BA)
 1. [南航宣布本科生不写论文也能毕业](https://www.zhihu.com/search?q=%E5%8D%97%E8%88%AA%E5%AE%A3%E5%B8%83%E6%9C%AC%E7%A7%91%E7%94%9F%E4%B8%8D%E5%86%99%E8%AE%BA%E6%96%87%E4%B9%9F%E8%83%BD%E6%AF%95%E4%B8%9A)
+1. [梅德韦杰夫为何被普京抛弃边缘化](https://www.zhihu.com/search?q=%E6%A2%85%E5%BE%B7%E9%9F%A6%E6%9D%B0%E5%A4%AB%E4%B8%BA%E4%BD%95%E8%A2%AB%E6%99%AE%E4%BA%AC%E6%8A%9B%E5%BC%83%E8%BE%B9%E7%BC%98%E5%8C%96)
+1. [杨米尔斯规范场理论](https://www.zhihu.com/search?q=%E6%9D%A8%E7%B1%B3%E5%B0%94%E6%96%AF%E8%A7%84%E8%8C%83%E5%9C%BA%E7%90%86%E8%AE%BA)
 
 <!-- END -->
 
