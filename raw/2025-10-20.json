@@ -1,8 +1,7 @@
 [
-  { "query_display": "杨振宁先生逝世", "real_query": "杨振宁先生逝世" },
   { "query_display": "郑丽文当选中国国民党主席", "real_query": "郑丽文当选中国国民党主席" },
-  { "query_display": "苏超半决赛南通vs无锡", "real_query": "苏超半决赛南通vs无锡" },
   { "query_display": "卢浮宫多件藏品被盗", "real_query": "卢浮宫多件藏品被盗" },
+  { "query_display": "杨振宁先生逝世", "real_query": "杨振宁先生逝世" },
   { "query_display": "警方：野人孩子和父母已在管控范围内", "real_query": "警方：野人孩子和父母已在管控范围内" },
   { "query_display": "杨振宁逝世", "real_query": "杨振宁逝世" },
   { "query_display": "网传高校副教授未过考核转岗保安", "real_query": "网传高校副教授未过考核转岗保安" },
@@ -10,5 +9,7 @@
   { "query_display": "男孩自查文献确诊罕见卟啉病", "real_query": "男孩自查文献确诊罕见卟啉病" },
   { "query_display": "高速服务区现「野人小孩」", "real_query": "高速服务区现「野人小孩」" },
   { "query_display": "杨振宁曾说自己最大贡献不是获诺奖", "real_query": "杨振宁曾说自己最大贡献不是获诺奖" },
-  { "query_display": "武汉小米SU7失控与货拉拉碰撞", "real_query": "武汉小米SU7失控与货拉拉碰撞" }
+  { "query_display": "卢浮宫持械抢劫事件", "real_query": "卢浮宫持械抢劫事件" },
+  { "query_display": "武汉小米SU7失控与货拉拉碰撞", "real_query": "武汉小米SU7失控与货拉拉碰撞" },
+  { "query_display": "苏超半决赛南通vs无锡", "real_query": "苏超半决赛南通vs无锡" }
 ]
