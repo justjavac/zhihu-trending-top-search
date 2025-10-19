@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Oct 20 2025 02:27:05 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Oct 20 2025 03:15:29 GMT+0800 (China Standard Time) -->
 
 1. [郑丽文当选中国国民党主席](https://www.zhihu.com/search?q=%E9%83%91%E4%B8%BD%E6%96%87%E5%BD%93%E9%80%89%E4%B8%AD%E5%9B%BD%E5%9B%BD%E6%B0%91%E5%85%9A%E4%B8%BB%E5%B8%AD)
 1. [卢浮宫多件藏品被盗](https://www.zhihu.com/search?q=%E5%8D%A2%E6%B5%AE%E5%AE%AB%E5%A4%9A%E4%BB%B6%E8%97%8F%E5%93%81%E8%A2%AB%E7%9B%97)
