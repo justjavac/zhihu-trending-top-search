@@ -4,13 +4,15 @@
   { "query_display": "双十一凑单", "real_query": "双十一凑单" },
   { "query_display": "农商行员工被要求退回三年过节费", "real_query": "农商行员工被要求退回三年过节费" },
   { "query_display": "沙溢曾吃了狗吃过的面发烧三天", "real_query": "沙溢曾吃了狗吃过的面发烧三天" },
-  { "query_display": "你见过最不会点菜的人是什么样子的", "real_query": "你见过最不会点菜的人是什么样子的" },
+  { "query_display": "为何战争中很少人将尸体压在自己身上装死", "real_query": "为何战争中很少人将尸体压在自己身上装死" },
   { "query_display": "杨振宁先生逝世", "real_query": "杨振宁先生逝世" },
   { "query_display": "卢浮宫持械抢劫事件", "real_query": "卢浮宫持械抢劫事件" },
   { "query_display": "男孩自查文献确诊罕见卟啉病", "real_query": "男孩自查文献确诊罕见卟啉病" },
-  { "query_display": "为什么杂鱼这个词在日本很有攻击力", "real_query": "为什么杂鱼这个词在日本很有攻击力" },
+  { "query_display": "破解固态电池充电关键难题有哪些重要意义", "real_query": "破解固态电池充电关键难题有哪些重要意义" },
   { "query_display": "年轻人把沙县吃成减肥餐", "real_query": "年轻人把沙县吃成减肥餐" },
   { "query_display": "男子遇东北虎大喊本地的求放过", "real_query": "男子遇东北虎大喊本地的求放过" },
+  { "query_display": "你见过最不会点菜的人是什么样子的", "real_query": "你见过最不会点菜的人是什么样子的" },
+  { "query_display": "为什么杂鱼这个词在日本很有攻击力", "real_query": "为什么杂鱼这个词在日本很有攻击力" },
   { "query_display": "你去过最离谱的景区是什么", "real_query": "你去过最离谱的景区是什么" },
   { "query_display": "贝莱德、英伟达等牵头收购 Aligned", "real_query": "贝莱德、英伟达等牵头收购 Aligned" },
   { "query_display": "国家拟规定「无堂食」外卖须有显著标识", "real_query": "国家拟规定「无堂食」外卖须有显著标识" },
@@ -22,6 +24,5 @@
     "query_display": "全球首款亚埃米级快照光谱成像芯片有何亮点",
     "real_query": "全球首款亚埃米级快照光谱成像芯片有何亮点"
   },
-  { "query_display": "卢浮宫被盗过程仅7分钟", "real_query": "卢浮宫被盗过程仅7分钟" },
-  { "query_display": "破解固态电池充电关键难题有哪些重要意义", "real_query": "破解固态电池充电关键难题有哪些重要意义" }
+  { "query_display": "卢浮宫被盗过程仅7分钟", "real_query": "卢浮宫被盗过程仅7分钟" }
 ]
