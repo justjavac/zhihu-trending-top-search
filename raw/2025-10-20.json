@@ -2,18 +2,23 @@
   { "query_display": "郑丽文当选中国国民党主席", "real_query": "郑丽文当选中国国民党主席" },
   { "query_display": "警方：野人孩子和父母已在管控范围内", "real_query": "警方：野人孩子和父母已在管控范围内" },
   { "query_display": "农商行员工被要求退回三年过节费", "real_query": "农商行员工被要求退回三年过节费" },
-  { "query_display": "破解固态电池充电关键难题有哪些重要意义", "real_query": "破解固态电池充电关键难题有哪些重要意义" },
-  { "query_display": "卢浮宫多件藏品被盗", "real_query": "卢浮宫多件藏品被盗" },
+  {
+    "query_display": "全球首款亚埃米级快照光谱成像芯片有何亮点",
+    "real_query": "全球首款亚埃米级快照光谱成像芯片有何亮点"
+  },
   { "query_display": "杨振宁先生逝世", "real_query": "杨振宁先生逝世" },
+  { "query_display": "卢浮宫多件藏品被盗", "real_query": "卢浮宫多件藏品被盗" },
   { "query_display": "卢浮宫被盗过程仅7分钟", "real_query": "卢浮宫被盗过程仅7分钟" },
   { "query_display": "卢浮宫 9 件拿破仑时期珠宝被盗", "real_query": "卢浮宫 9 件拿破仑时期珠宝被盗" },
   { "query_display": "沙溢曾吃了狗吃过的面发烧三天", "real_query": "沙溢曾吃了狗吃过的面发烧三天" },
   { "query_display": "卢浮宫持械抢劫事件", "real_query": "卢浮宫持械抢劫事件" },
+  { "query_display": "你离物理学家杨振宁最近的一刻是什么时候", "real_query": "你离物理学家杨振宁最近的一刻是什么时候" },
+  { "query_display": "男孩自查文献确诊罕见卟啉病", "real_query": "男孩自查文献确诊罕见卟啉病" },
+  { "query_display": "破解固态电池充电关键难题有哪些重要意义", "real_query": "破解固态电池充电关键难题有哪些重要意义" },
   {
     "query_display": "男子救落水女子后发视频上网被要求视频下架",
     "real_query": "男子救落水女子后发视频上网被要求视频下架"
   },
-  { "query_display": "男孩自查文献确诊罕见卟啉病", "real_query": "男孩自查文献确诊罕见卟啉病" },
   { "query_display": "为什么杂鱼这个词在日本很有攻击力", "real_query": "为什么杂鱼这个词在日本很有攻击力" },
   {
     "query_display": "怎样看待杨振宁称中国教育缺乏「渗透」学法",
@@ -25,10 +30,6 @@
   { "query_display": "南航宣布本科生不写论文也能毕业", "real_query": "南航宣布本科生不写论文也能毕业" },
   { "query_display": "如何看待女律师在家中被高一女儿勒死", "real_query": "如何看待女律师在家中被高一女儿勒死" },
   { "query_display": "朱元璋的长相真的很丑吗", "real_query": "朱元璋的长相真的很丑吗" },
-  {
-    "query_display": "全球首款亚埃米级快照光谱成像芯片有何亮点",
-    "real_query": "全球首款亚埃米级快照光谱成像芯片有何亮点"
-  },
   { "query_display": "有那种裁员裁到大动脉的事儿吗", "real_query": "有那种裁员裁到大动脉的事儿吗" },
   { "query_display": "贝莱德、英伟达等牵头收购 Aligned", "real_query": "贝莱德、英伟达等牵头收购 Aligned" },
   { "query_display": "哪个瞬间让你忽然下定决心买车了", "real_query": "哪个瞬间让你忽然下定决心买车了" },
