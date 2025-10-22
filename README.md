@@ -14,19 +14,23 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Oct 22 2025 17:25:06 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Oct 22 2025 18:24:14 GMT+0800 (China Standard Time) -->
 
 1. [高市早苗成为日本首位女首相](https://www.zhihu.com/search?q=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%88%90%E4%B8%BA%E6%97%A5%E6%9C%AC%E9%A6%96%E4%BD%8D%E5%A5%B3%E9%A6%96%E7%9B%B8)
 1. [高速服务区现「野人小孩」](https://www.zhihu.com/search?q=%E9%AB%98%E9%80%9F%E6%9C%8D%E5%8A%A1%E5%8C%BA%E7%8E%B0%E3%80%8C%E9%87%8E%E4%BA%BA%E5%B0%8F%E5%AD%A9%E3%80%8D)
 1. [卢浮宫持械抢劫事件](https://www.zhihu.com/search?q=%E5%8D%A2%E6%B5%AE%E5%AE%AB%E6%8C%81%E6%A2%B0%E6%8A%A2%E5%8A%AB%E4%BA%8B%E4%BB%B6)
-1. [导师给你的最后忠告是什么](https://www.zhihu.com/search?q=%E5%AF%BC%E5%B8%88%E7%BB%99%E4%BD%A0%E7%9A%84%E6%9C%80%E5%90%8E%E5%BF%A0%E5%91%8A%E6%98%AF%E4%BB%80%E4%B9%88)
+1. [美国治安已经差到这么离谱了吗](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E6%B2%BB%E5%AE%89%E5%B7%B2%E7%BB%8F%E5%B7%AE%E5%88%B0%E8%BF%99%E4%B9%88%E7%A6%BB%E8%B0%B1%E4%BA%86%E5%90%97)
 1. [被学生抢鸡排的校长病逝](https://www.zhihu.com/search?q=%E8%A2%AB%E5%AD%A6%E7%94%9F%E6%8A%A2%E9%B8%A1%E6%8E%92%E7%9A%84%E6%A0%A1%E9%95%BF%E7%97%85%E9%80%9D)
 1. [杨振宁先生逝世](https://www.zhihu.com/search?q=%E6%9D%A8%E6%8C%AF%E5%AE%81%E5%85%88%E7%94%9F%E9%80%9D%E4%B8%96)
-1. [双十一凑单](https://www.zhihu.com/search?q=%E5%8F%8C%E5%8D%81%E4%B8%80%E5%87%91%E5%8D%95)
-1. [为什么杂鱼这个词在日本很有攻击力](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9D%82%E9%B1%BC%E8%BF%99%E4%B8%AA%E8%AF%8D%E5%9C%A8%E6%97%A5%E6%9C%AC%E5%BE%88%E6%9C%89%E6%94%BB%E5%87%BB%E5%8A%9B)
 1. [金价银价急跌](https://www.zhihu.com/search?q=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E6%80%A5%E8%B7%8C)
+1. [国航回应行李架起火系锂电池自燃](https://www.zhihu.com/search?q=%E5%9B%BD%E8%88%AA%E5%9B%9E%E5%BA%94%E8%A1%8C%E6%9D%8E%E6%9E%B6%E8%B5%B7%E7%81%AB%E7%B3%BB%E9%94%82%E7%94%B5%E6%B1%A0%E8%87%AA%E7%87%83)
+1. [双十一凑单](https://www.zhihu.com/search?q=%E5%8F%8C%E5%8D%81%E4%B8%80%E5%87%91%E5%8D%95)
+1. [211 高校秋招现露骨海报](https://www.zhihu.com/search?q=211%20%E9%AB%98%E6%A0%A1%E7%A7%8B%E6%8B%9B%E7%8E%B0%E9%9C%B2%E9%AA%A8%E6%B5%B7%E6%8A%A5)
+1. [国家拟规定「无堂食」外卖须有显著标识](https://www.zhihu.com/search?q=%E5%9B%BD%E5%AE%B6%E6%8B%9F%E8%A7%84%E5%AE%9A%E3%80%8C%E6%97%A0%E5%A0%82%E9%A3%9F%E3%80%8D%E5%A4%96%E5%8D%96%E9%A1%BB%E6%9C%89%E6%98%BE%E8%91%97%E6%A0%87%E8%AF%86)
+1. [印度食脑虫感染病例数激增](https://www.zhihu.com/search?q=%E5%8D%B0%E5%BA%A6%E9%A3%9F%E8%84%91%E8%99%AB%E6%84%9F%E6%9F%93%E7%97%85%E4%BE%8B%E6%95%B0%E6%BF%80%E5%A2%9E)
+1. [导师给你的最后忠告是什么](https://www.zhihu.com/search?q=%E5%AF%BC%E5%B8%88%E7%BB%99%E4%BD%A0%E7%9A%84%E6%9C%80%E5%90%8E%E5%BF%A0%E5%91%8A%E6%98%AF%E4%BB%80%E4%B9%88)
+1. [为什么杂鱼这个词在日本很有攻击力](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9D%82%E9%B1%BC%E8%BF%99%E4%B8%AA%E8%AF%8D%E5%9C%A8%E6%97%A5%E6%9C%AC%E5%BE%88%E6%9C%89%E6%94%BB%E5%87%BB%E5%8A%9B)
 1. [金价](https://www.zhihu.com/search?q=%E9%87%91%E4%BB%B7)
-1. [美国治安已经差到这么离谱了吗](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E6%B2%BB%E5%AE%89%E5%B7%B2%E7%BB%8F%E5%B7%AE%E5%88%B0%E8%BF%99%E4%B9%88%E7%A6%BB%E8%B0%B1%E4%BA%86%E5%90%97)
 1. [闻泰科技147亿半导体资产被荷兰冻结](https://www.zhihu.com/search?q=%E9%97%BB%E6%B3%B0%E7%A7%91%E6%8A%80147%E4%BA%BF%E5%8D%8A%E5%AF%BC%E4%BD%93%E8%B5%84%E4%BA%A7%E8%A2%AB%E8%8D%B7%E5%85%B0%E5%86%BB%E7%BB%93)
 1. [卢浮宫劫案可能是粉红豹所为](https://www.zhihu.com/search?q=%E5%8D%A2%E6%B5%AE%E5%AE%AB%E5%8A%AB%E6%A1%88%E5%8F%AF%E8%83%BD%E6%98%AF%E7%B2%89%E7%BA%A2%E8%B1%B9%E6%89%80%E4%B8%BA)
 1. [你见过最不会点菜的人是什么样子的](https://www.zhihu.com/search?q=%E4%BD%A0%E8%A7%81%E8%BF%87%E6%9C%80%E4%B8%8D%E4%BC%9A%E7%82%B9%E8%8F%9C%E7%9A%84%E4%BA%BA%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E5%AD%90%E7%9A%84)
