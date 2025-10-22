@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Oct 22 2025 13:21:14 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Oct 22 2025 14:33:05 GMT+0800 (China Standard Time) -->
 
 1. [高市早苗成为日本首位女首相](https://www.zhihu.com/search?q=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%88%90%E4%B8%BA%E6%97%A5%E6%9C%AC%E9%A6%96%E4%BD%8D%E5%A5%B3%E9%A6%96%E7%9B%B8)
 1. [卢浮宫持械抢劫事件](https://www.zhihu.com/search?q=%E5%8D%A2%E6%B5%AE%E5%AE%AB%E6%8C%81%E6%A2%B0%E6%8A%A2%E5%8A%AB%E4%BA%8B%E4%BB%B6)
@@ -23,11 +23,12 @@
 1. [东北网友拍下燕子滞留未南飞](https://www.zhihu.com/search?q=%E4%B8%9C%E5%8C%97%E7%BD%91%E5%8F%8B%E6%8B%8D%E4%B8%8B%E7%87%95%E5%AD%90%E6%BB%9E%E7%95%99%E6%9C%AA%E5%8D%97%E9%A3%9E)
 1. [杨振宁先生逝世](https://www.zhihu.com/search?q=%E6%9D%A8%E6%8C%AF%E5%AE%81%E5%85%88%E7%94%9F%E9%80%9D%E4%B8%96)
 1. [双十一凑单](https://www.zhihu.com/search?q=%E5%8F%8C%E5%8D%81%E4%B8%80%E5%87%91%E5%8D%95)
-1. [你去过最离谱的景区是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E5%8E%BB%E8%BF%87%E6%9C%80%E7%A6%BB%E8%B0%B1%E7%9A%84%E6%99%AF%E5%8C%BA%E6%98%AF%E4%BB%80%E4%B9%88)
+1. [为什么有钱人的气质穷人模仿不来](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E9%92%B1%E4%BA%BA%E7%9A%84%E6%B0%94%E8%B4%A8%E7%A9%B7%E4%BA%BA%E6%A8%A1%E4%BB%BF%E4%B8%8D%E6%9D%A5)
 1. [卢浮宫劫案可能是粉红豹所为](https://www.zhihu.com/search?q=%E5%8D%A2%E6%B5%AE%E5%AE%AB%E5%8A%AB%E6%A1%88%E5%8F%AF%E8%83%BD%E6%98%AF%E7%B2%89%E7%BA%A2%E8%B1%B9%E6%89%80%E4%B8%BA)
 1. [被学生抢鸡排的校长病逝](https://www.zhihu.com/search?q=%E8%A2%AB%E5%AD%A6%E7%94%9F%E6%8A%A2%E9%B8%A1%E6%8E%92%E7%9A%84%E6%A0%A1%E9%95%BF%E7%97%85%E9%80%9D)
-1. [为什么有钱人的气质穷人模仿不来](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E9%92%B1%E4%BA%BA%E7%9A%84%E6%B0%94%E8%B4%A8%E7%A9%B7%E4%BA%BA%E6%A8%A1%E4%BB%BF%E4%B8%8D%E6%9D%A5)
+1. [不鸡娃的结果是什么](https://www.zhihu.com/search?q=%E4%B8%8D%E9%B8%A1%E5%A8%83%E7%9A%84%E7%BB%93%E6%9E%9C%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [荷兰寻求与中方会面 化解安世半导体僵局](https://www.zhihu.com/search?q=%E8%8D%B7%E5%85%B0%E5%AF%BB%E6%B1%82%E4%B8%8E%E4%B8%AD%E6%96%B9%E4%BC%9A%E9%9D%A2%20%E5%8C%96%E8%A7%A3%E5%AE%89%E4%B8%96%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%83%B5%E5%B1%80)
+1. [你去过最离谱的景区是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E5%8E%BB%E8%BF%87%E6%9C%80%E7%A6%BB%E8%B0%B1%E7%9A%84%E6%99%AF%E5%8C%BA%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [有个亲妹妹是什么感觉](https://www.zhihu.com/search?q=%E6%9C%89%E4%B8%AA%E4%BA%B2%E5%A6%B9%E5%A6%B9%E6%98%AF%E4%BB%80%E4%B9%88%E6%84%9F%E8%A7%89)
 1. [嫦娥六号月壤中发现「天外来物」](https://www.zhihu.com/search?q=%E5%AB%A6%E5%A8%A5%E5%85%AD%E5%8F%B7%E6%9C%88%E5%A3%A4%E4%B8%AD%E5%8F%91%E7%8E%B0%E3%80%8C%E5%A4%A9%E5%A4%96%E6%9D%A5%E7%89%A9%E3%80%8D)
 1. [央视曝光共享单车骑行中自动锁车](https://www.zhihu.com/search?q=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E5%85%B1%E4%BA%AB%E5%8D%95%E8%BD%A6%E9%AA%91%E8%A1%8C%E4%B8%AD%E8%87%AA%E5%8A%A8%E9%94%81%E8%BD%A6)
