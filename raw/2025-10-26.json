@@ -1,7 +1,6 @@
 [
   { "query_display": "10月25日设为台湾光复纪念日", "real_query": "10月25日设为台湾光复纪念日" },
   { "query_display": "多地中小学生11月喜提5天小长假", "real_query": "多地中小学生11月喜提5天小长假" },
-  { "query_display": "吉林延边发生5.5级地震", "real_query": "吉林延边发生5.5级地震" },
   { "query_display": "宗馥莉已回娃哈哈上班", "real_query": "宗馥莉已回娃哈哈上班" },
   { "query_display": "CSGO游戏更新导致游戏外市场崩溃", "real_query": "CSGO游戏更新导致游戏外市场崩溃" },
   { "query_display": "iPhone 18 或迎史上最大革新", "real_query": "iPhone 18 或迎史上最大革新" },
@@ -10,5 +9,7 @@
   { "query_display": "台湾光复 80 周年纪念日", "real_query": "台湾光复 80 周年纪念日" },
   { "query_display": "十五五目标", "real_query": "十五五目标" },
   { "query_display": "中国人民志愿军抗美援朝出国作战75周年", "real_query": "中国人民志愿军抗美援朝出国作战75周年" },
-  { "query_display": "女子应聘被要求注册陌陌", "real_query": "女子应聘被要求注册陌陌" }
+  { "query_display": "BLG 不敌 TES 无缘八强赛", "real_query": "BLG 不敌 TES 无缘八强赛" },
+  { "query_display": "女子应聘被要求注册陌陌", "real_query": "女子应聘被要求注册陌陌" },
+  { "query_display": "吉林延边发生5.5级地震", "real_query": "吉林延边发生5.5级地震" }
 ]
