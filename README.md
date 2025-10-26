@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Oct 27 2025 05:17:53 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Oct 27 2025 06:19:22 GMT+0800 (China Standard Time) -->
 
 1. [湘潭大学37岁教授刘昊霖去世](https://www.zhihu.com/search?q=%E6%B9%98%E6%BD%AD%E5%A4%A7%E5%AD%A637%E5%B2%81%E6%95%99%E6%8E%88%E5%88%98%E6%98%8A%E9%9C%96%E5%8E%BB%E4%B8%96)
 1. [中美双方就关税等多个议题形成初步共识](https://www.zhihu.com/search?q=%E4%B8%AD%E7%BE%8E%E5%8F%8C%E6%96%B9%E5%B0%B1%E5%85%B3%E7%A8%8E%E7%AD%89%E5%A4%9A%E4%B8%AA%E8%AE%AE%E9%A2%98%E5%BD%A2%E6%88%90%E5%88%9D%E6%AD%A5%E5%85%B1%E8%AF%86)
@@ -26,8 +26,8 @@
 1. [湖北十堰交通事故致 1 死 4 伤](https://www.zhihu.com/search?q=%E6%B9%96%E5%8C%97%E5%8D%81%E5%A0%B0%E4%BA%A4%E9%80%9A%E4%BA%8B%E6%95%85%E8%87%B4%201%20%E6%AD%BB%204%20%E4%BC%A4)
 1. [BLG 不敌 TES 无缘八强赛](https://www.zhihu.com/search?q=BLG%20%E4%B8%8D%E6%95%8C%20TES%20%E6%97%A0%E7%BC%98%E5%85%AB%E5%BC%BA%E8%B5%9B)
 1. [英伟达退出GPU市场](https://www.zhihu.com/search?q=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E9%80%80%E5%87%BAGPU%E5%B8%82%E5%9C%BA)
-1. [十五五目标](https://www.zhihu.com/search?q=%E5%8D%81%E4%BA%94%E4%BA%94%E7%9B%AE%E6%A0%87)
 1. [九寨沟成在逃人员克星](https://www.zhihu.com/search?q=%E4%B9%9D%E5%AF%A8%E6%B2%9F%E6%88%90%E5%9C%A8%E9%80%83%E4%BA%BA%E5%91%98%E5%85%8B%E6%98%9F)
+1. [十五五目标](https://www.zhihu.com/search?q=%E5%8D%81%E4%BA%94%E4%BA%94%E7%9B%AE%E6%A0%87)
 1. [6岁女童与哥哥争抢手机后突发脑梗](https://www.zhihu.com/search?q=6%E5%B2%81%E5%A5%B3%E7%AB%A5%E4%B8%8E%E5%93%A5%E5%93%A5%E4%BA%89%E6%8A%A2%E6%89%8B%E6%9C%BA%E5%90%8E%E7%AA%81%E5%8F%91%E8%84%91%E6%A2%97)
 
 <!-- END -->
