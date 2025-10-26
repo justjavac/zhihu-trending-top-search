@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Oct 26 2025 19:15:44 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Oct 26 2025 20:39:50 GMT+0800 (China Standard Time) -->
 
 1. [中美双方就关税等多个议题形成初步共识](https://www.zhihu.com/search?q=%E4%B8%AD%E7%BE%8E%E5%8F%8C%E6%96%B9%E5%B0%B1%E5%85%B3%E7%A8%8E%E7%AD%89%E5%A4%9A%E4%B8%AA%E8%AE%AE%E9%A2%98%E5%BD%A2%E6%88%90%E5%88%9D%E6%AD%A5%E5%85%B1%E8%AF%86)
 1. [多地中小学生11月喜提5天小长假](https://www.zhihu.com/search?q=%E5%A4%9A%E5%9C%B0%E4%B8%AD%E5%B0%8F%E5%AD%A6%E7%94%9F11%E6%9C%88%E5%96%9C%E6%8F%905%E5%A4%A9%E5%B0%8F%E9%95%BF%E5%81%87)
@@ -24,10 +24,11 @@
 1. [湖北十堰交通事故致 1 死 4 伤](https://www.zhihu.com/search?q=%E6%B9%96%E5%8C%97%E5%8D%81%E5%A0%B0%E4%BA%A4%E9%80%9A%E4%BA%8B%E6%95%85%E8%87%B4%201%20%E6%AD%BB%204%20%E4%BC%A4)
 1. [BLG 不敌 TES 无缘八强赛](https://www.zhihu.com/search?q=BLG%20%E4%B8%8D%E6%95%8C%20TES%20%E6%97%A0%E7%BC%98%E5%85%AB%E5%BC%BA%E8%B5%9B)
 1. [台湾光复 80 周年纪念日](https://www.zhihu.com/search?q=%E5%8F%B0%E6%B9%BE%E5%85%89%E5%A4%8D%2080%20%E5%91%A8%E5%B9%B4%E7%BA%AA%E5%BF%B5%E6%97%A5)
-1. [男童喝珍珠奶茶窒息身亡](https://www.zhihu.com/search?q=%E7%94%B7%E7%AB%A5%E5%96%9D%E7%8F%8D%E7%8F%A0%E5%A5%B6%E8%8C%B6%E7%AA%92%E6%81%AF%E8%BA%AB%E4%BA%A1)
-1. [十五五目标](https://www.zhihu.com/search?q=%E5%8D%81%E4%BA%94%E4%BA%94%E7%9B%AE%E6%A0%87)
+1. [中美经贸磋商](https://www.zhihu.com/search?q=%E4%B8%AD%E7%BE%8E%E7%BB%8F%E8%B4%B8%E7%A3%8B%E5%95%86)
 1. [云南房子被外地人买爆](https://www.zhihu.com/search?q=%E4%BA%91%E5%8D%97%E6%88%BF%E5%AD%90%E8%A2%AB%E5%A4%96%E5%9C%B0%E4%BA%BA%E4%B9%B0%E7%88%86)
+1. [男童喝珍珠奶茶窒息身亡](https://www.zhihu.com/search?q=%E7%94%B7%E7%AB%A5%E5%96%9D%E7%8F%8D%E7%8F%A0%E5%A5%B6%E8%8C%B6%E7%AA%92%E6%81%AF%E8%BA%AB%E4%BA%A1)
 1. [安世中国驳斥荷兰安世不实言论](https://www.zhihu.com/search?q=%E5%AE%89%E4%B8%96%E4%B8%AD%E5%9B%BD%E9%A9%B3%E6%96%A5%E8%8D%B7%E5%85%B0%E5%AE%89%E4%B8%96%E4%B8%8D%E5%AE%9E%E8%A8%80%E8%AE%BA)
+1. [十五五目标](https://www.zhihu.com/search?q=%E5%8D%81%E4%BA%94%E4%BA%94%E7%9B%AE%E6%A0%87)
 1. [女子网购塑料凳拆出胶带固定活蛇](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E7%BD%91%E8%B4%AD%E5%A1%91%E6%96%99%E5%87%B3%E6%8B%86%E5%87%BA%E8%83%B6%E5%B8%A6%E5%9B%BA%E5%AE%9A%E6%B4%BB%E8%9B%87)
 1. [科学家称外星人或已懒得理人类](https://www.zhihu.com/search?q=%E7%A7%91%E5%AD%A6%E5%AE%B6%E7%A7%B0%E5%A4%96%E6%98%9F%E4%BA%BA%E6%88%96%E5%B7%B2%E6%87%92%E5%BE%97%E7%90%86%E4%BA%BA%E7%B1%BB)
 1. [中国人民志愿军抗美援朝出国作战75周年](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%BF%97%E6%84%BF%E5%86%9B%E6%8A%97%E7%BE%8E%E6%8F%B4%E6%9C%9D%E5%87%BA%E5%9B%BD%E4%BD%9C%E6%88%9875%E5%91%A8%E5%B9%B4)
