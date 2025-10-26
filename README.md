@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Oct 27 2025 02:28:24 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Oct 27 2025 03:15:46 GMT+0800 (China Standard Time) -->
 
 1. [湘潭大学37岁教授刘昊霖去世](https://www.zhihu.com/search?q=%E6%B9%98%E6%BD%AD%E5%A4%A7%E5%AD%A637%E5%B2%81%E6%95%99%E6%8E%88%E5%88%98%E6%98%8A%E9%9C%96%E5%8E%BB%E4%B8%96)
 1. [中美双方就关税等多个议题形成初步共识](https://www.zhihu.com/search?q=%E4%B8%AD%E7%BE%8E%E5%8F%8C%E6%96%B9%E5%B0%B1%E5%85%B3%E7%A8%8E%E7%AD%89%E5%A4%9A%E4%B8%AA%E8%AE%AE%E9%A2%98%E5%BD%A2%E6%88%90%E5%88%9D%E6%AD%A5%E5%85%B1%E8%AF%86)
