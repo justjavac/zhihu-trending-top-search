@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Oct 26 2025 07:17:41 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Oct 26 2025 09:47:39 GMT+0800 (China Standard Time) -->
 
 1. [10月25日设为台湾光复纪念日](https://www.zhihu.com/search?q=10%E6%9C%8825%E6%97%A5%E8%AE%BE%E4%B8%BA%E5%8F%B0%E6%B9%BE%E5%85%89%E5%A4%8D%E7%BA%AA%E5%BF%B5%E6%97%A5)
 1. [多地中小学生11月喜提5天小长假](https://www.zhihu.com/search?q=%E5%A4%9A%E5%9C%B0%E4%B8%AD%E5%B0%8F%E5%AD%A6%E7%94%9F11%E6%9C%88%E5%96%9C%E6%8F%905%E5%A4%A9%E5%B0%8F%E9%95%BF%E5%81%87)
