@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Oct 26 2025 21:25:05 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Oct 26 2025 22:17:49 GMT+0800 (China Standard Time) -->
 
 1. [中美双方就关税等多个议题形成初步共识](https://www.zhihu.com/search?q=%E4%B8%AD%E7%BE%8E%E5%8F%8C%E6%96%B9%E5%B0%B1%E5%85%B3%E7%A8%8E%E7%AD%89%E5%A4%9A%E4%B8%AA%E8%AE%AE%E9%A2%98%E5%BD%A2%E6%88%90%E5%88%9D%E6%AD%A5%E5%85%B1%E8%AF%86)
 1. [多地中小学生11月喜提5天小长假](https://www.zhihu.com/search?q=%E5%A4%9A%E5%9C%B0%E4%B8%AD%E5%B0%8F%E5%AD%A6%E7%94%9F11%E6%9C%88%E5%96%9C%E6%8F%905%E5%A4%A9%E5%B0%8F%E9%95%BF%E5%81%87)
@@ -27,6 +27,7 @@
 1. [云南房子被外地人买爆](https://www.zhihu.com/search?q=%E4%BA%91%E5%8D%97%E6%88%BF%E5%AD%90%E8%A2%AB%E5%A4%96%E5%9C%B0%E4%BA%BA%E4%B9%B0%E7%88%86)
 1. [中美经贸磋商](https://www.zhihu.com/search?q=%E4%B8%AD%E7%BE%8E%E7%BB%8F%E8%B4%B8%E7%A3%8B%E5%95%86)
 1. [十五五目标](https://www.zhihu.com/search?q=%E5%8D%81%E4%BA%94%E4%BA%94%E7%9B%AE%E6%A0%87)
+1. [英伟达退出GPU市场](https://www.zhihu.com/search?q=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E9%80%80%E5%87%BAGPU%E5%B8%82%E5%9C%BA)
 1. [TES对战BLG](https://www.zhihu.com/search?q=TES%E5%AF%B9%E6%88%98BLG)
 1. [男童喝珍珠奶茶窒息身亡](https://www.zhihu.com/search?q=%E7%94%B7%E7%AB%A5%E5%96%9D%E7%8F%8D%E7%8F%A0%E5%A5%B6%E8%8C%B6%E7%AA%92%E6%81%AF%E8%BA%AB%E4%BA%A1)
 1. [安世中国驳斥荷兰安世不实言论](https://www.zhihu.com/search?q=%E5%AE%89%E4%B8%96%E4%B8%AD%E5%9B%BD%E9%A9%B3%E6%96%A5%E8%8D%B7%E5%85%B0%E5%AE%89%E4%B8%96%E4%B8%8D%E5%AE%9E%E8%A8%80%E8%AE%BA)
