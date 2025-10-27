@@ -14,19 +14,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Oct 27 2025 20:47:26 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Oct 27 2025 21:33:31 GMT+0800 (China Standard Time) -->
 
 1. [2架美军机在南海相继坠毁](https://www.zhihu.com/search?q=2%E6%9E%B6%E7%BE%8E%E5%86%9B%E6%9C%BA%E5%9C%A8%E5%8D%97%E6%B5%B7%E7%9B%B8%E7%BB%A7%E5%9D%A0%E6%AF%81)
 1. [湘潭大学37岁教授刘昊霖去世](https://www.zhihu.com/search?q=%E6%B9%98%E6%BD%AD%E5%A4%A7%E5%AD%A637%E5%B2%81%E6%95%99%E6%8E%88%E5%88%98%E6%98%8A%E9%9C%96%E5%8E%BB%E4%B8%96)
 1. [德国爆破国内最强大核电站](https://www.zhihu.com/search?q=%E5%BE%B7%E5%9B%BD%E7%88%86%E7%A0%B4%E5%9B%BD%E5%86%85%E6%9C%80%E5%BC%BA%E5%A4%A7%E6%A0%B8%E7%94%B5%E7%AB%99)
 1. [美方不再考虑对中国加征100%关税](https://www.zhihu.com/search?q=%E7%BE%8E%E6%96%B9%E4%B8%8D%E5%86%8D%E8%80%83%E8%99%91%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%8A%A0%E5%BE%81100%25%E5%85%B3%E7%A8%8E)
-1. [有什么以前是穷人食物现在变得奢侈](https://www.zhihu.com/search?q=%E6%9C%89%E4%BB%80%E4%B9%88%E4%BB%A5%E5%89%8D%E6%98%AF%E7%A9%B7%E4%BA%BA%E9%A3%9F%E7%89%A9%E7%8E%B0%E5%9C%A8%E5%8F%98%E5%BE%97%E5%A5%A2%E4%BE%88)
+1. [历史上有哪些一语成谶的事](https://www.zhihu.com/search?q=%E5%8E%86%E5%8F%B2%E4%B8%8A%E6%9C%89%E5%93%AA%E4%BA%9B%E4%B8%80%E8%AF%AD%E6%88%90%E8%B0%B6%E7%9A%84%E4%BA%8B)
 1. [中美双方就关税等多个议题形成初步共识](https://www.zhihu.com/search?q=%E4%B8%AD%E7%BE%8E%E5%8F%8C%E6%96%B9%E5%B0%B1%E5%85%B3%E7%A8%8E%E7%AD%89%E5%A4%9A%E4%B8%AA%E8%AE%AE%E9%A2%98%E5%BD%A2%E6%88%90%E5%88%9D%E6%AD%A5%E5%85%B1%E8%AF%86)
 1. [吉林一号放出台湾岛高清卫星图](https://www.zhihu.com/search?q=%E5%90%89%E6%9E%97%E4%B8%80%E5%8F%B7%E6%94%BE%E5%87%BA%E5%8F%B0%E6%B9%BE%E5%B2%9B%E9%AB%98%E6%B8%85%E5%8D%AB%E6%98%9F%E5%9B%BE)
 1. [曝北京国安面临解散](https://www.zhihu.com/search?q=%E6%9B%9D%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89%E9%9D%A2%E4%B8%B4%E8%A7%A3%E6%95%A3)
-1. [如何看待富人不环保普通人为啥要环保的观念](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%AF%8C%E4%BA%BA%E4%B8%8D%E7%8E%AF%E4%BF%9D%E6%99%AE%E9%80%9A%E4%BA%BA%E4%B8%BA%E5%95%A5%E8%A6%81%E7%8E%AF%E4%BF%9D%E7%9A%84%E8%A7%82%E5%BF%B5)
+1. [炒股的爽点是什么](https://www.zhihu.com/search?q=%E7%82%92%E8%82%A1%E7%9A%84%E7%88%BD%E7%82%B9%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [青海一肉店疑似给生肉表面刷色](https://www.zhihu.com/search?q=%E9%9D%92%E6%B5%B7%E4%B8%80%E8%82%89%E5%BA%97%E7%96%91%E4%BC%BC%E7%BB%99%E7%94%9F%E8%82%89%E8%A1%A8%E9%9D%A2%E5%88%B7%E8%89%B2)
 1. [孕检低风险却生下唐氏儿保险拒赔](https://www.zhihu.com/search?q=%E5%AD%95%E6%A3%80%E4%BD%8E%E9%A3%8E%E9%99%A9%E5%8D%B4%E7%94%9F%E4%B8%8B%E5%94%90%E6%B0%8F%E5%84%BF%E4%BF%9D%E9%99%A9%E6%8B%92%E8%B5%94)
+1. [你对 iPhone 18 还有哪些期待](https://www.zhihu.com/search?q=%E4%BD%A0%E5%AF%B9%20iPhone%2018%20%E8%BF%98%E6%9C%89%E5%93%AA%E4%BA%9B%E6%9C%9F%E5%BE%85)
+1. [有什么以前是穷人食物现在变得奢侈](https://www.zhihu.com/search?q=%E6%9C%89%E4%BB%80%E4%B9%88%E4%BB%A5%E5%89%8D%E6%98%AF%E7%A9%B7%E4%BA%BA%E9%A3%9F%E7%89%A9%E7%8E%B0%E5%9C%A8%E5%8F%98%E5%BE%97%E5%A5%A2%E4%BE%88)
+1. [如何看待富人不环保普通人为啥要环保的观念](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%AF%8C%E4%BA%BA%E4%B8%8D%E7%8E%AF%E4%BF%9D%E6%99%AE%E9%80%9A%E4%BA%BA%E4%B8%BA%E5%95%A5%E8%A6%81%E7%8E%AF%E4%BF%9D%E7%9A%84%E8%A7%82%E5%BF%B5)
 1. [你有童年阴影吗](https://www.zhihu.com/search?q=%E4%BD%A0%E6%9C%89%E7%AB%A5%E5%B9%B4%E9%98%B4%E5%BD%B1%E5%90%97)
 1. [中美经贸磋商](https://www.zhihu.com/search?q=%E4%B8%AD%E7%BE%8E%E7%BB%8F%E8%B4%B8%E7%A3%8B%E5%95%86)
 1. [有什么震惊了你的名言](https://www.zhihu.com/search?q=%E6%9C%89%E4%BB%80%E4%B9%88%E9%9C%87%E6%83%8A%E4%BA%86%E4%BD%A0%E7%9A%84%E5%90%8D%E8%A8%80)
@@ -37,7 +40,6 @@
 1. [你见过的最神奇的朋友圈是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E8%A7%81%E8%BF%87%E7%9A%84%E6%9C%80%E7%A5%9E%E5%A5%87%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [乌鲁木齐适合定居吗](https://www.zhihu.com/search?q=%E4%B9%8C%E9%B2%81%E6%9C%A8%E9%BD%90%E9%80%82%E5%90%88%E5%AE%9A%E5%B1%85%E5%90%97)
 1. [雄安新区如何发展起来](https://www.zhihu.com/search?q=%E9%9B%84%E5%AE%89%E6%96%B0%E5%8C%BA%E5%A6%82%E4%BD%95%E5%8F%91%E5%B1%95%E8%B5%B7%E6%9D%A5)
-1. [历史上有哪些一语成谶的事](https://www.zhihu.com/search?q=%E5%8E%86%E5%8F%B2%E4%B8%8A%E6%9C%89%E5%93%AA%E4%BA%9B%E4%B8%80%E8%AF%AD%E6%88%90%E8%B0%B6%E7%9A%84%E4%BA%8B)
 1. [刘亦菲在娱乐圈的地位是什么样的](https://www.zhihu.com/search?q=%E5%88%98%E4%BA%A6%E8%8F%B2%E5%9C%A8%E5%A8%B1%E4%B9%90%E5%9C%88%E7%9A%84%E5%9C%B0%E4%BD%8D%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84)
 1. [九寨沟成在逃人员克星](https://www.zhihu.com/search?q=%E4%B9%9D%E5%AF%A8%E6%B2%9F%E6%88%90%E5%9C%A8%E9%80%83%E4%BA%BA%E5%91%98%E5%85%8B%E6%98%9F)
 1. [英伟达退出GPU市场](https://www.zhihu.com/search?q=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E9%80%80%E5%87%BAGPU%E5%B8%82%E5%9C%BA)
