@@ -14,13 +14,14 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Oct 28 2025 12:25:29 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Oct 28 2025 13:21:58 GMT+0800 (China Standard Time) -->
 
 1. [「欢喜哥」许绍雄病逝](https://www.zhihu.com/search?q=%E3%80%8C%E6%AC%A2%E5%96%9C%E5%93%A5%E3%80%8D%E8%AE%B8%E7%BB%8D%E9%9B%84%E7%97%85%E9%80%9D)
 1. [湘潭大学37岁教授刘昊霖去世](https://www.zhihu.com/search?q=%E6%B9%98%E6%BD%AD%E5%A4%A7%E5%AD%A637%E5%B2%81%E6%95%99%E6%8E%88%E5%88%98%E6%98%8A%E9%9C%96%E5%8E%BB%E4%B8%96)
 1. [2架美军机在南海相继坠毁](https://www.zhihu.com/search?q=2%E6%9E%B6%E7%BE%8E%E5%86%9B%E6%9C%BA%E5%9C%A8%E5%8D%97%E6%B5%B7%E7%9B%B8%E7%BB%A7%E5%9D%A0%E6%AF%81)
-1. [美方不再考虑对中国加征100%关税](https://www.zhihu.com/search?q=%E7%BE%8E%E6%96%B9%E4%B8%8D%E5%86%8D%E8%80%83%E8%99%91%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%8A%A0%E5%BE%81100%25%E5%85%B3%E7%A8%8E)
 1. [德国爆破国内最强大核电站](https://www.zhihu.com/search?q=%E5%BE%B7%E5%9B%BD%E7%88%86%E7%A0%B4%E5%9B%BD%E5%86%85%E6%9C%80%E5%BC%BA%E5%A4%A7%E6%A0%B8%E7%94%B5%E7%AB%99)
+1. [美方不再考虑对中国加征100%关税](https://www.zhihu.com/search?q=%E7%BE%8E%E6%96%B9%E4%B8%8D%E5%86%8D%E8%80%83%E8%99%91%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%8A%A0%E5%BE%81100%25%E5%85%B3%E7%A8%8E)
+1. [许绍雄的姑爷爷是鲁迅](https://www.zhihu.com/search?q=%E8%AE%B8%E7%BB%8D%E9%9B%84%E7%9A%84%E5%A7%91%E7%88%B7%E7%88%B7%E6%98%AF%E9%B2%81%E8%BF%85)
 1. [中年男人最大的悲哀是什么](https://www.zhihu.com/search?q=%E4%B8%AD%E5%B9%B4%E7%94%B7%E4%BA%BA%E6%9C%80%E5%A4%A7%E7%9A%84%E6%82%B2%E5%93%80%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [曝北京国安面临解散](https://www.zhihu.com/search?q=%E6%9B%9D%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89%E9%9D%A2%E4%B8%B4%E8%A7%A3%E6%95%A3)
 1. [吉林一号放出台湾岛高清卫星图](https://www.zhihu.com/search?q=%E5%90%89%E6%9E%97%E4%B8%80%E5%8F%B7%E6%94%BE%E5%87%BA%E5%8F%B0%E6%B9%BE%E5%B2%9B%E9%AB%98%E6%B8%85%E5%8D%AB%E6%98%9F%E5%9B%BE)
