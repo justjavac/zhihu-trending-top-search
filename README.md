@@ -14,24 +14,24 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Oct 29 2025 03:17:29 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Oct 29 2025 04:25:05 GMT+0800 (China Standard Time) -->
 
 1. [女子徒步误将蛇窝当野生蹦床](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E5%BE%92%E6%AD%A5%E8%AF%AF%E5%B0%86%E8%9B%87%E7%AA%9D%E5%BD%93%E9%87%8E%E7%94%9F%E8%B9%A6%E5%BA%8A)
 1. [安倍晋三遇刺案嫌疑人认罪](https://www.zhihu.com/search?q=%E5%AE%89%E5%80%8D%E6%99%8B%E4%B8%89%E9%81%87%E5%88%BA%E6%A1%88%E5%AB%8C%E7%96%91%E4%BA%BA%E8%AE%A4%E7%BD%AA)
+1. [赵一鸣被曝用糖找零](https://www.zhihu.com/search?q=%E8%B5%B5%E4%B8%80%E9%B8%A3%E8%A2%AB%E6%9B%9D%E7%94%A8%E7%B3%96%E6%89%BE%E9%9B%B6)
+1. [穷可以让一个人卑微成什么样](https://www.zhihu.com/search?q=%E7%A9%B7%E5%8F%AF%E4%BB%A5%E8%AE%A9%E4%B8%80%E4%B8%AA%E4%BA%BA%E5%8D%91%E5%BE%AE%E6%88%90%E4%BB%80%E4%B9%88%E6%A0%B7)
+1. [新华社发表钟台文署名文章](https://www.zhihu.com/search?q=%E6%96%B0%E5%8D%8E%E7%A4%BE%E5%8F%91%E8%A1%A8%E9%92%9F%E5%8F%B0%E6%96%87%E7%BD%B2%E5%90%8D%E6%96%87%E7%AB%A0)
+1. [湘潭大学37岁教授刘昊霖去世](https://www.zhihu.com/search?q=%E6%B9%98%E6%BD%AD%E5%A4%A7%E5%AD%A637%E5%B2%81%E6%95%99%E6%8E%88%E5%88%98%E6%98%8A%E9%9C%96%E5%8E%BB%E4%B8%96)
 1. [2架美军机在南海相继坠毁](https://www.zhihu.com/search?q=2%E6%9E%B6%E7%BE%8E%E5%86%9B%E6%9C%BA%E5%9C%A8%E5%8D%97%E6%B5%B7%E7%9B%B8%E7%BB%A7%E5%9D%A0%E6%AF%81)
 1. [苏丹红为什么会出现在护肤品里](https://www.zhihu.com/search?q=%E8%8B%8F%E4%B8%B9%E7%BA%A2%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E5%87%BA%E7%8E%B0%E5%9C%A8%E6%8A%A4%E8%82%A4%E5%93%81%E9%87%8C)
-1. [湘潭大学37岁教授刘昊霖去世](https://www.zhihu.com/search?q=%E6%B9%98%E6%BD%AD%E5%A4%A7%E5%AD%A637%E5%B2%81%E6%95%99%E6%8E%88%E5%88%98%E6%98%8A%E9%9C%96%E5%8E%BB%E4%B8%96)
-1. [赵一鸣被曝用糖找零](https://www.zhihu.com/search?q=%E8%B5%B5%E4%B8%80%E9%B8%A3%E8%A2%AB%E6%9B%9D%E7%94%A8%E7%B3%96%E6%89%BE%E9%9B%B6)
-1. [新华社发表钟台文署名文章](https://www.zhihu.com/search?q=%E6%96%B0%E5%8D%8E%E7%A4%BE%E5%8F%91%E8%A1%A8%E9%92%9F%E5%8F%B0%E6%96%87%E7%BD%B2%E5%90%8D%E6%96%87%E7%AB%A0)
-1. [乌鲁木齐适合定居吗](https://www.zhihu.com/search?q=%E4%B9%8C%E9%B2%81%E6%9C%A8%E9%BD%90%E9%80%82%E5%90%88%E5%AE%9A%E5%B1%85%E5%90%97)
 1. [中国汽车出口第一国易主](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E5%87%BA%E5%8F%A3%E7%AC%AC%E4%B8%80%E5%9B%BD%E6%98%93%E4%B8%BB)
 1. [吉林一号放出台湾岛高清卫星图](https://www.zhihu.com/search?q=%E5%90%89%E6%9E%97%E4%B8%80%E5%8F%B7%E6%94%BE%E5%87%BA%E5%8F%B0%E6%B9%BE%E5%B2%9B%E9%AB%98%E6%B8%85%E5%8D%AB%E6%98%9F%E5%9B%BE)
-1. [猪每天吃糠为什么还能长这么肥](https://www.zhihu.com/search?q=%E7%8C%AA%E6%AF%8F%E5%A4%A9%E5%90%83%E7%B3%A0%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%98%E8%83%BD%E9%95%BF%E8%BF%99%E4%B9%88%E8%82%A5)
+1. [乌鲁木齐适合定居吗](https://www.zhihu.com/search?q=%E4%B9%8C%E9%B2%81%E6%9C%A8%E9%BD%90%E9%80%82%E5%90%88%E5%AE%9A%E5%B1%85%E5%90%97)
 1. [许绍雄的姑爷爷是鲁迅](https://www.zhihu.com/search?q=%E8%AE%B8%E7%BB%8D%E9%9B%84%E7%9A%84%E5%A7%91%E7%88%B7%E7%88%B7%E6%98%AF%E9%B2%81%E8%BF%85)
+1. [猪每天吃糠为什么还能长这么肥](https://www.zhihu.com/search?q=%E7%8C%AA%E6%AF%8F%E5%A4%A9%E5%90%83%E7%B3%A0%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%98%E8%83%BD%E9%95%BF%E8%BF%99%E4%B9%88%E8%82%A5)
 1. [三元锂是怎么树立起的高端形象](https://www.zhihu.com/search?q=%E4%B8%89%E5%85%83%E9%94%82%E6%98%AF%E6%80%8E%E4%B9%88%E6%A0%91%E7%AB%8B%E8%B5%B7%E7%9A%84%E9%AB%98%E7%AB%AF%E5%BD%A2%E8%B1%A1)
 1. [德国爆破国内最强大核电站](https://www.zhihu.com/search?q=%E5%BE%B7%E5%9B%BD%E7%88%86%E7%A0%B4%E5%9B%BD%E5%86%85%E6%9C%80%E5%BC%BA%E5%A4%A7%E6%A0%B8%E7%94%B5%E7%AB%99)
 1. [你见过的最神奇的朋友圈是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E8%A7%81%E8%BF%87%E7%9A%84%E6%9C%80%E7%A5%9E%E5%A5%87%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%98%AF%E4%BB%80%E4%B9%88)
-1. [穷可以让一个人卑微成什么样](https://www.zhihu.com/search?q=%E7%A9%B7%E5%8F%AF%E4%BB%A5%E8%AE%A9%E4%B8%80%E4%B8%AA%E4%BA%BA%E5%8D%91%E5%BE%AE%E6%88%90%E4%BB%80%E4%B9%88%E6%A0%B7)
 1. [双十一多个直播间预售遭退货潮](https://www.zhihu.com/search?q=%E5%8F%8C%E5%8D%81%E4%B8%80%E5%A4%9A%E4%B8%AA%E7%9B%B4%E6%92%AD%E9%97%B4%E9%A2%84%E5%94%AE%E9%81%AD%E9%80%80%E8%B4%A7%E6%BD%AE)
 1. [为什么吃小龙虾时手套没破却还是一手油](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%90%83%E5%B0%8F%E9%BE%99%E8%99%BE%E6%97%B6%E6%89%8B%E5%A5%97%E6%B2%A1%E7%A0%B4%E5%8D%B4%E8%BF%98%E6%98%AF%E4%B8%80%E6%89%8B%E6%B2%B9)
 
