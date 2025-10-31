@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Nov 01 2025 05:17:15 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Nov 01 2025 06:19:45 GMT+0800 (China Standard Time) -->
 
 1. [神舟二十一号发射成功](https://www.zhihu.com/search?q=%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E4%B8%80%E5%8F%B7%E5%8F%91%E5%B0%84%E6%88%90%E5%8A%9F)
 1. [中美元首在韩国举行会晤](https://www.zhihu.com/search?q=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E5%9C%A8%E9%9F%A9%E5%9B%BD%E4%B8%BE%E8%A1%8C%E4%BC%9A%E6%99%A4)
@@ -25,8 +25,8 @@
 1. [紫光灯意外照出全家人都冒荧光](https://www.zhihu.com/search?q=%E7%B4%AB%E5%85%89%E7%81%AF%E6%84%8F%E5%A4%96%E7%85%A7%E5%87%BA%E5%85%A8%E5%AE%B6%E4%BA%BA%E9%83%BD%E5%86%92%E8%8D%A7%E5%85%89)
 1. [理想就车辆起火道歉](https://www.zhihu.com/search?q=%E7%90%86%E6%83%B3%E5%B0%B1%E8%BD%A6%E8%BE%86%E8%B5%B7%E7%81%AB%E9%81%93%E6%AD%89)
 1. [钟楚曦 VOGUE 合照站位引热议](https://www.zhihu.com/search?q=%E9%92%9F%E6%A5%9A%E6%9B%A6%20VOGUE%20%E5%90%88%E7%85%A7%E7%AB%99%E4%BD%8D%E5%BC%95%E7%83%AD%E8%AE%AE)
-1. [多地出现假彩票兑奖事件](https://www.zhihu.com/search?q=%E5%A4%9A%E5%9C%B0%E5%87%BA%E7%8E%B0%E5%81%87%E5%BD%A9%E7%A5%A8%E5%85%91%E5%A5%96%E4%BA%8B%E4%BB%B6)
 1. [T1 3:2 击败 AL 晋级半决赛](https://www.zhihu.com/search?q=T1%203%3A2%20%E5%87%BB%E8%B4%A5%20AL%20%E6%99%8B%E7%BA%A7%E5%8D%8A%E5%86%B3%E8%B5%9B)
+1. [多地出现假彩票兑奖事件](https://www.zhihu.com/search?q=%E5%A4%9A%E5%9C%B0%E5%87%BA%E7%8E%B0%E5%81%87%E5%BD%A9%E7%A5%A8%E5%85%91%E5%A5%96%E4%BA%8B%E4%BB%B6)
 1. [为什么小学四年级后家长辅导不如培训班有效](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B0%8F%E5%AD%A6%E5%9B%9B%E5%B9%B4%E7%BA%A7%E5%90%8E%E5%AE%B6%E9%95%BF%E8%BE%85%E5%AF%BC%E4%B8%8D%E5%A6%82%E5%9F%B9%E8%AE%AD%E7%8F%AD%E6%9C%89%E6%95%88)
 1. [蔡磊研发的药物对病友起效对自己没用](https://www.zhihu.com/search?q=%E8%94%A1%E7%A3%8A%E7%A0%94%E5%8F%91%E7%9A%84%E8%8D%AF%E7%89%A9%E5%AF%B9%E7%97%85%E5%8F%8B%E8%B5%B7%E6%95%88%E5%AF%B9%E8%87%AA%E5%B7%B1%E6%B2%A1%E7%94%A8)
 1. [男生被同学一拳击中左胸后瘫痪](https://www.zhihu.com/search?q=%E7%94%B7%E7%94%9F%E8%A2%AB%E5%90%8C%E5%AD%A6%E4%B8%80%E6%8B%B3%E5%87%BB%E4%B8%AD%E5%B7%A6%E8%83%B8%E5%90%8E%E7%98%AB%E7%97%AA)
