@@ -2,13 +2,19 @@
   { "query_display": "T1战胜AL", "real_query": "T1战胜AL" },
   { "query_display": "GEN 爆冷不敌 KT 止步四强", "real_query": "GEN 爆冷不敌 KT 止步四强" },
   { "query_display": "中美元首在韩国举行会晤", "real_query": "中美元首在韩国举行会晤" },
-  { "query_display": "王暖暖前夫俞晓东疑似电诈头目", "real_query": "王暖暖前夫俞晓东疑似电诈头目" },
-  { "query_display": "蔡磊研发的药物对病友起效对自己没用", "real_query": "蔡磊研发的药物对病友起效对自己没用" },
-  { "query_display": "官方发布关于黄金有关税收政策公告", "real_query": "官方发布关于黄金有关税收政策公告" },
   { "query_display": "通背拳传人赵鸿刚参加扇耳光大赛", "real_query": "通背拳传人赵鸿刚参加扇耳光大赛" },
-  { "query_display": "理想就车辆起火道歉", "real_query": "理想就车辆起火道歉" },
-  { "query_display": "安倍晋三遇刺案嫌疑人将面临怎样的量刑", "real_query": "安倍晋三遇刺案嫌疑人将面临怎样的量刑" },
+  { "query_display": "为什么说男人至死都是少年", "real_query": "为什么说男人至死都是少年" },
+  { "query_display": "官方发布关于黄金有关税收政策公告", "real_query": "官方发布关于黄金有关税收政策公告" },
+  { "query_display": "王暖暖前夫俞晓东疑似电诈头目", "real_query": "王暖暖前夫俞晓东疑似电诈头目" },
   { "query_display": "王家卫秦雯录音事件", "real_query": "王家卫秦雯录音事件" },
+  {
+    "query_display": "为什么家长不自学辅导孩子而要花几万块补课",
+    "real_query": "为什么家长不自学辅导孩子而要花几万块补课"
+  },
+  { "query_display": "理想就车辆起火道歉", "real_query": "理想就车辆起火道歉" },
+  { "query_display": "展昭扮演者甄志强离世", "real_query": "展昭扮演者甄志强离世" },
+  { "query_display": "安倍晋三遇刺案嫌疑人将面临怎样的量刑", "real_query": "安倍晋三遇刺案嫌疑人将面临怎样的量刑" },
+  { "query_display": "蔡磊研发的药物对病友起效对自己没用", "real_query": "蔡磊研发的药物对病友起效对自己没用" },
   { "query_display": "神舟二十一号发射成功", "real_query": "神舟二十一号发射成功" },
   { "query_display": "你见过最惨的人生有多惨", "real_query": "你见过最惨的人生有多惨" },
   { "query_display": "喜人2《一颗螺丝钉》", "real_query": "喜人2《一颗螺丝钉》" },
@@ -20,14 +26,12 @@
   { "query_display": "T1 3:2 击败 AL 晋级半决赛", "real_query": "T1 3:2 击败 AL 晋级半决赛" },
   { "query_display": "大鹏半岛地质公园 80 天内 3 人遇难", "real_query": "大鹏半岛地质公园 80 天内 3 人遇难" },
   { "query_display": "蒸汽弹射与电磁弹射哪个更好", "real_query": "蒸汽弹射与电磁弹射哪个更好" },
-  { "query_display": "展昭扮演者甄志强离世", "real_query": "展昭扮演者甄志强离世" },
   { "query_display": "体制内比到最后拼的是什么", "real_query": "体制内比到最后拼的是什么" },
   { "query_display": "你认为最失败的 Logo 设计有哪些", "real_query": "你认为最失败的 Logo 设计有哪些" },
   { "query_display": "商务部回应安世半导体相关问题", "real_query": "商务部回应安世半导体相关问题" },
   { "query_display": "美方加征24%关税继续暂停一年", "real_query": "美方加征24%关税继续暂停一年" },
   { "query_display": "真正打动过你的一个设计是什么", "real_query": "真正打动过你的一个设计是什么" },
   { "query_display": "紫光灯意外照出全家人都冒荧光", "real_query": "紫光灯意外照出全家人都冒荧光" },
-  { "query_display": "为什么说男人至死都是少年", "real_query": "为什么说男人至死都是少年" },
   { "query_display": "男生被同学一拳击中左胸后瘫痪", "real_query": "男生被同学一拳击中左胸后瘫痪" },
   { "query_display": "为什么神雕电视剧的黄蓉选角都不太漂亮", "real_query": "为什么神雕电视剧的黄蓉选角都不太漂亮" },
   { "query_display": "为什么山姆的东西卖的这么贵", "real_query": "为什么山姆的东西卖的这么贵" },
@@ -37,10 +41,6 @@
   {
     "query_display": "为什么小学四年级后家长辅导不如培训班有效",
     "real_query": "为什么小学四年级后家长辅导不如培训班有效"
-  },
-  {
-    "query_display": "为什么家长不自学辅导孩子而要花几万块补课",
-    "real_query": "为什么家长不自学辅导孩子而要花几万块补课"
   },
   { "query_display": "理想召回万辆MEGA汽车", "real_query": "理想召回万辆MEGA汽车" }
 ]
