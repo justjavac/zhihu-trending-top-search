@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Nov 04 2025 03:16:57 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Nov 04 2025 04:24:22 GMT+0800 (China Standard Time) -->
 
 1. [官方发布关于黄金有关税收政策公告](https://www.zhihu.com/search?q=%E5%AE%98%E6%96%B9%E5%8F%91%E5%B8%83%E5%85%B3%E4%BA%8E%E9%BB%84%E9%87%91%E6%9C%89%E5%85%B3%E7%A8%8E%E6%94%B6%E6%94%BF%E7%AD%96%E5%85%AC%E5%91%8A)
 1. [王家卫秦雯录音事件](https://www.zhihu.com/search?q=%E7%8E%8B%E5%AE%B6%E5%8D%AB%E7%A7%A6%E9%9B%AF%E5%BD%95%E9%9F%B3%E4%BA%8B%E4%BB%B6)
@@ -24,10 +24,10 @@
 1. [TES 遭 T1 零封淘汰](https://www.zhihu.com/search?q=TES%20%E9%81%AD%20T1%20%E9%9B%B6%E5%B0%81%E6%B7%98%E6%B1%B0)
 1. [通背拳传人赵鸿刚参加扇耳光大赛](https://www.zhihu.com/search?q=%E9%80%9A%E8%83%8C%E6%8B%B3%E4%BC%A0%E4%BA%BA%E8%B5%B5%E9%B8%BF%E5%88%9A%E5%8F%82%E5%8A%A0%E6%89%87%E8%80%B3%E5%85%89%E5%A4%A7%E8%B5%9B)
 1. [安世中国郑重声明](https://www.zhihu.com/search?q=%E5%AE%89%E4%B8%96%E4%B8%AD%E5%9B%BD%E9%83%91%E9%87%8D%E5%A3%B0%E6%98%8E)
-1. [王家卫说陈道明是极品](https://www.zhihu.com/search?q=%E7%8E%8B%E5%AE%B6%E5%8D%AB%E8%AF%B4%E9%99%88%E9%81%93%E6%98%8E%E6%98%AF%E6%9E%81%E5%93%81)
 1. [河南一胖东来突发伤人事件](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8D%97%E4%B8%80%E8%83%96%E4%B8%9C%E6%9D%A5%E7%AA%81%E5%8F%91%E4%BC%A4%E4%BA%BA%E4%BA%8B%E4%BB%B6)
-1. [S15 淘汰赛 T1 vs TES](https://www.zhihu.com/search?q=S15%20%E6%B7%98%E6%B1%B0%E8%B5%9B%20T1%20vs%20TES)
+1. [王家卫说陈道明是极品](https://www.zhihu.com/search?q=%E7%8E%8B%E5%AE%B6%E5%8D%AB%E8%AF%B4%E9%99%88%E9%81%93%E6%98%8E%E6%98%AF%E6%9E%81%E5%93%81)
 1. [全红婵复出首秀夺冠](https://www.zhihu.com/search?q=%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%A4%8D%E5%87%BA%E9%A6%96%E7%A7%80%E5%A4%BA%E5%86%A0)
+1. [S15 淘汰赛 T1 vs TES](https://www.zhihu.com/search?q=S15%20%E6%B7%98%E6%B1%B0%E8%B5%9B%20T1%20vs%20TES)
 1. [有什么尴尬到爆的经历](https://www.zhihu.com/search?q=%E6%9C%89%E4%BB%80%E4%B9%88%E5%B0%B4%E5%B0%AC%E5%88%B0%E7%88%86%E7%9A%84%E7%BB%8F%E5%8E%86)
 1. [古二发布王家卫和秦雯录音算侵犯隐私吗](https://www.zhihu.com/search?q=%E5%8F%A4%E4%BA%8C%E5%8F%91%E5%B8%83%E7%8E%8B%E5%AE%B6%E5%8D%AB%E5%92%8C%E7%A7%A6%E9%9B%AF%E5%BD%95%E9%9F%B3%E7%AE%97%E4%BE%B5%E7%8A%AF%E9%9A%90%E7%A7%81%E5%90%97)
 1. [学生答不出题指责老师媚男刻薄](https://www.zhihu.com/search?q=%E5%AD%A6%E7%94%9F%E7%AD%94%E4%B8%8D%E5%87%BA%E9%A2%98%E6%8C%87%E8%B4%A3%E8%80%81%E5%B8%88%E5%AA%9A%E7%94%B7%E5%88%BB%E8%96%84)
