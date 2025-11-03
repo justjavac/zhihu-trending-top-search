@@ -14,13 +14,13 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Nov 03 2025 14:34:17 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Nov 03 2025 15:21:18 GMT+0800 (China Standard Time) -->
 
 1. [官方发布关于黄金有关税收政策公告](https://www.zhihu.com/search?q=%E5%AE%98%E6%96%B9%E5%8F%91%E5%B8%83%E5%85%B3%E4%BA%8E%E9%BB%84%E9%87%91%E6%9C%89%E5%85%B3%E7%A8%8E%E6%94%B6%E6%94%BF%E7%AD%96%E5%85%AC%E5%91%8A)
 1. [王家卫秦雯录音事件](https://www.zhihu.com/search?q=%E7%8E%8B%E5%AE%B6%E5%8D%AB%E7%A7%A6%E9%9B%AF%E5%BD%95%E9%9F%B3%E4%BA%8B%E4%BB%B6)
+1. [上海交大招5000名博士](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E4%BA%A4%E5%A4%A7%E6%8B%9B5000%E5%90%8D%E5%8D%9A%E5%A3%AB)
 1. [S15 淘汰赛 T1 vs TES](https://www.zhihu.com/search?q=S15%20%E6%B7%98%E6%B1%B0%E8%B5%9B%20T1%20vs%20TES)
 1. [TES 遭 T1 零封淘汰](https://www.zhihu.com/search?q=TES%20%E9%81%AD%20T1%20%E9%9B%B6%E5%B0%81%E6%B7%98%E6%B1%B0)
-1. [上海交大招5000名博士](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E4%BA%A4%E5%A4%A7%E6%8B%9B5000%E5%90%8D%E5%8D%9A%E5%A3%AB)
 1. [通背拳传人赵鸿刚参加扇耳光大赛](https://www.zhihu.com/search?q=%E9%80%9A%E8%83%8C%E6%8B%B3%E4%BC%A0%E4%BA%BA%E8%B5%B5%E9%B8%BF%E5%88%9A%E5%8F%82%E5%8A%A0%E6%89%87%E8%80%B3%E5%85%89%E5%A4%A7%E8%B5%9B)
 1. [河北一医院全体医护下班后跑操](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8C%97%E4%B8%80%E5%8C%BB%E9%99%A2%E5%85%A8%E4%BD%93%E5%8C%BB%E6%8A%A4%E4%B8%8B%E7%8F%AD%E5%90%8E%E8%B7%91%E6%93%8D)
 1. [全红婵复出首秀夺冠](https://www.zhihu.com/search?q=%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%A4%8D%E5%87%BA%E9%A6%96%E7%A7%80%E5%A4%BA%E5%86%A0)
