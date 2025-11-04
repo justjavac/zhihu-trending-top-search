@@ -14,14 +14,14 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Nov 04 2025 13:21:26 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Nov 04 2025 14:33:27 GMT+0800 (China Standard Time) -->
 
 1. [王家卫秦雯录音事件](https://www.zhihu.com/search?q=%E7%8E%8B%E5%AE%B6%E5%8D%AB%E7%A7%A6%E9%9B%AF%E5%BD%95%E9%9F%B3%E4%BA%8B%E4%BB%B6)
 1. [饿了么内测版本更名为淘宝闪购](https://www.zhihu.com/search?q=%E9%A5%BF%E4%BA%86%E4%B9%88%E5%86%85%E6%B5%8B%E7%89%88%E6%9C%AC%E6%9B%B4%E5%90%8D%E4%B8%BA%E6%B7%98%E5%AE%9D%E9%97%AA%E8%B4%AD)
 1. [金永南逝世](https://www.zhihu.com/search?q=%E9%87%91%E6%B0%B8%E5%8D%97%E9%80%9D%E4%B8%96)
 1. [缅北白家犯罪集团主案一审宣判](https://www.zhihu.com/search?q=%E7%BC%85%E5%8C%97%E7%99%BD%E5%AE%B6%E7%8A%AF%E7%BD%AA%E9%9B%86%E5%9B%A2%E4%B8%BB%E6%A1%88%E4%B8%80%E5%AE%A1%E5%AE%A3%E5%88%A4)
-1. [官方发布关于黄金有关税收政策公告](https://www.zhihu.com/search?q=%E5%AE%98%E6%96%B9%E5%8F%91%E5%B8%83%E5%85%B3%E4%BA%8E%E9%BB%84%E9%87%91%E6%9C%89%E5%85%B3%E7%A8%8E%E6%94%B6%E6%94%BF%E7%AD%96%E5%85%AC%E5%91%8A)
 1. [上海交大招5000名博士](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E4%BA%A4%E5%A4%A7%E6%8B%9B5000%E5%90%8D%E5%8D%9A%E5%A3%AB)
+1. [官方发布关于黄金有关税收政策公告](https://www.zhihu.com/search?q=%E5%AE%98%E6%96%B9%E5%8F%91%E5%B8%83%E5%85%B3%E4%BA%8E%E9%BB%84%E9%87%91%E6%9C%89%E5%85%B3%E7%A8%8E%E6%94%B6%E6%94%BF%E7%AD%96%E5%85%AC%E5%91%8A)
 1. [星巴克中国易主](https://www.zhihu.com/search?q=%E6%98%9F%E5%B7%B4%E5%85%8B%E4%B8%AD%E5%9B%BD%E6%98%93%E4%B8%BB)
 1. [缅北白家5人死刑](https://www.zhihu.com/search?q=%E7%BC%85%E5%8C%97%E7%99%BD%E5%AE%B65%E4%BA%BA%E6%AD%BB%E5%88%91)
 1. [你见过的狠人有多绝](https://www.zhihu.com/search?q=%E4%BD%A0%E8%A7%81%E8%BF%87%E7%9A%84%E7%8B%A0%E4%BA%BA%E6%9C%89%E5%A4%9A%E7%BB%9D)
