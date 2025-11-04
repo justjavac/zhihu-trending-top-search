@@ -14,20 +14,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Nov 04 2025 22:22:42 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Nov 04 2025 23:24:21 GMT+0800 (China Standard Time) -->
 
-1. [2026 年春节连放 9 天](https://www.zhihu.com/search?q=2026%20%E5%B9%B4%E6%98%A5%E8%8A%82%E8%BF%9E%E6%94%BE%209%20%E5%A4%A9)
 1. [王家卫秦雯录音事件](https://www.zhihu.com/search?q=%E7%8E%8B%E5%AE%B6%E5%8D%AB%E7%A7%A6%E9%9B%AF%E5%BD%95%E9%9F%B3%E4%BA%8B%E4%BB%B6)
-1. [官方发布关于黄金有关税收政策公告](https://www.zhihu.com/search?q=%E5%AE%98%E6%96%B9%E5%8F%91%E5%B8%83%E5%85%B3%E4%BA%8E%E9%BB%84%E9%87%91%E6%9C%89%E5%85%B3%E7%A8%8E%E6%94%B6%E6%94%BF%E7%AD%96%E5%85%AC%E5%91%8A)
 1. [前阿里高管加入山姆被网友抵制](https://www.zhihu.com/search?q=%E5%89%8D%E9%98%BF%E9%87%8C%E9%AB%98%E7%AE%A1%E5%8A%A0%E5%85%A5%E5%B1%B1%E5%A7%86%E8%A2%AB%E7%BD%91%E5%8F%8B%E6%8A%B5%E5%88%B6)
-1. [哪句话让你突然沉默了很久](https://www.zhihu.com/search?q=%E5%93%AA%E5%8F%A5%E8%AF%9D%E8%AE%A9%E4%BD%A0%E7%AA%81%E7%84%B6%E6%B2%89%E9%BB%98%E4%BA%86%E5%BE%88%E4%B9%85)
+1. [2026 年春节连放 9 天](https://www.zhihu.com/search?q=2026%20%E5%B9%B4%E6%98%A5%E8%8A%82%E8%BF%9E%E6%94%BE%209%20%E5%A4%A9)
+1. [你有结账时发现太贵的尴尬经历吗](https://www.zhihu.com/search?q=%E4%BD%A0%E6%9C%89%E7%BB%93%E8%B4%A6%E6%97%B6%E5%8F%91%E7%8E%B0%E5%A4%AA%E8%B4%B5%E7%9A%84%E5%B0%B4%E5%B0%AC%E7%BB%8F%E5%8E%86%E5%90%97)
+1. [官方发布关于黄金有关税收政策公告](https://www.zhihu.com/search?q=%E5%AE%98%E6%96%B9%E5%8F%91%E5%B8%83%E5%85%B3%E4%BA%8E%E9%BB%84%E9%87%91%E6%9C%89%E5%85%B3%E7%A8%8E%E6%94%B6%E6%94%BF%E7%AD%96%E5%85%AC%E5%91%8A)
 1. [高校规定学生没课也不能待宿舍](https://www.zhihu.com/search?q=%E9%AB%98%E6%A0%A1%E8%A7%84%E5%AE%9A%E5%AD%A6%E7%94%9F%E6%B2%A1%E8%AF%BE%E4%B9%9F%E4%B8%8D%E8%83%BD%E5%BE%85%E5%AE%BF%E8%88%8D)
 1. [饿了么内测版本更名为淘宝闪购](https://www.zhihu.com/search?q=%E9%A5%BF%E4%BA%86%E4%B9%88%E5%86%85%E6%B5%8B%E7%89%88%E6%9C%AC%E6%9B%B4%E5%90%8D%E4%B8%BA%E6%B7%98%E5%AE%9D%E9%97%AA%E8%B4%AD)
-1. [王家卫说陈道明是极品](https://www.zhihu.com/search?q=%E7%8E%8B%E5%AE%B6%E5%8D%AB%E8%AF%B4%E9%99%88%E9%81%93%E6%98%8E%E6%98%AF%E6%9E%81%E5%93%81)
-1. [你有结账时发现太贵的尴尬经历吗](https://www.zhihu.com/search?q=%E4%BD%A0%E6%9C%89%E7%BB%93%E8%B4%A6%E6%97%B6%E5%8F%91%E7%8E%B0%E5%A4%AA%E8%B4%B5%E7%9A%84%E5%B0%B4%E5%B0%AC%E7%BB%8F%E5%8E%86%E5%90%97)
-1. [TES 遭 T1 零封淘汰](https://www.zhihu.com/search?q=TES%20%E9%81%AD%20T1%20%E9%9B%B6%E5%B0%81%E6%B7%98%E6%B1%B0)
-1. [缅北白家犯罪集团主案一审宣判](https://www.zhihu.com/search?q=%E7%BC%85%E5%8C%97%E7%99%BD%E5%AE%B6%E7%8A%AF%E7%BD%AA%E9%9B%86%E5%9B%A2%E4%B8%BB%E6%A1%88%E4%B8%80%E5%AE%A1%E5%AE%A3%E5%88%A4)
 1. [二维码会不会很快被用完](https://www.zhihu.com/search?q=%E4%BA%8C%E7%BB%B4%E7%A0%81%E4%BC%9A%E4%B8%8D%E4%BC%9A%E5%BE%88%E5%BF%AB%E8%A2%AB%E7%94%A8%E5%AE%8C)
+1. [王家卫说陈道明是极品](https://www.zhihu.com/search?q=%E7%8E%8B%E5%AE%B6%E5%8D%AB%E8%AF%B4%E9%99%88%E9%81%93%E6%98%8E%E6%98%AF%E6%9E%81%E5%93%81)
+1. [TES 遭 T1 零封淘汰](https://www.zhihu.com/search?q=TES%20%E9%81%AD%20T1%20%E9%9B%B6%E5%B0%81%E6%B7%98%E6%B1%B0)
+1. [赵鸿刚扇耳光大赛输了是因为什么](https://www.zhihu.com/search?q=%E8%B5%B5%E9%B8%BF%E5%88%9A%E6%89%87%E8%80%B3%E5%85%89%E5%A4%A7%E8%B5%9B%E8%BE%93%E4%BA%86%E6%98%AF%E5%9B%A0%E4%B8%BA%E4%BB%80%E4%B9%88)
+1. [缅北白家犯罪集团主案一审宣判](https://www.zhihu.com/search?q=%E7%BC%85%E5%8C%97%E7%99%BD%E5%AE%B6%E7%8A%AF%E7%BD%AA%E9%9B%86%E5%9B%A2%E4%B8%BB%E6%A1%88%E4%B8%80%E5%AE%A1%E5%AE%A3%E5%88%A4)
+1. [哪句话让你突然沉默了很久](https://www.zhihu.com/search?q=%E5%93%AA%E5%8F%A5%E8%AF%9D%E8%AE%A9%E4%BD%A0%E7%AA%81%E7%84%B6%E6%B2%89%E9%BB%98%E4%BA%86%E5%BE%88%E4%B9%85)
 1. [李新野新作《人妻约会指南》](https://www.zhihu.com/search?q=%E6%9D%8E%E6%96%B0%E9%87%8E%E6%96%B0%E4%BD%9C%E3%80%8A%E4%BA%BA%E5%A6%BB%E7%BA%A6%E4%BC%9A%E6%8C%87%E5%8D%97%E3%80%8B)
 1. [你住酒店时有过哪些奇葩经历](https://www.zhihu.com/search?q=%E4%BD%A0%E4%BD%8F%E9%85%92%E5%BA%97%E6%97%B6%E6%9C%89%E8%BF%87%E5%93%AA%E4%BA%9B%E5%A5%87%E8%91%A9%E7%BB%8F%E5%8E%86)
 1. [有什么尴尬到爆的经历](https://www.zhihu.com/search?q=%E6%9C%89%E4%BB%80%E4%B9%88%E5%B0%B4%E5%B0%AC%E5%88%B0%E7%88%86%E7%9A%84%E7%BB%8F%E5%8E%86)
