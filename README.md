@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Nov 07 2025 03:17:20 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Nov 07 2025 04:24:31 GMT+0800 (China Standard Time) -->
 
 1. [小鹏机器人被质疑是真人扮演](https://www.zhihu.com/search?q=%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A2%AB%E8%B4%A8%E7%96%91%E6%98%AF%E7%9C%9F%E4%BA%BA%E6%89%AE%E6%BC%94)
 1. [小鹏首款女性机器人正式亮相](https://www.zhihu.com/search?q=%E5%B0%8F%E9%B9%8F%E9%A6%96%E6%AC%BE%E5%A5%B3%E6%80%A7%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%AD%A3%E5%BC%8F%E4%BA%AE%E7%9B%B8)
