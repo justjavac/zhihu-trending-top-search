@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Nov 08 2025 06:19:39 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Nov 08 2025 07:18:58 GMT+0800 (China Standard Time) -->
 
 1. [福建舰入列](https://www.zhihu.com/search?q=%E7%A6%8F%E5%BB%BA%E8%88%B0%E5%85%A5%E5%88%97)
 1. [湖南通报医院副院长出轨眼科主任](https://www.zhihu.com/search?q=%E6%B9%96%E5%8D%97%E9%80%9A%E6%8A%A5%E5%8C%BB%E9%99%A2%E5%89%AF%E9%99%A2%E9%95%BF%E5%87%BA%E8%BD%A8%E7%9C%BC%E7%A7%91%E4%B8%BB%E4%BB%BB)
@@ -22,12 +22,13 @@
 1. [何小鹏再回应机器人里藏真人质疑](https://www.zhihu.com/search?q=%E4%BD%95%E5%B0%8F%E9%B9%8F%E5%86%8D%E5%9B%9E%E5%BA%94%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%87%8C%E8%97%8F%E7%9C%9F%E4%BA%BA%E8%B4%A8%E7%96%91)
 1. [小鹏机器人被质疑是真人扮演](https://www.zhihu.com/search?q=%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A2%AB%E8%B4%A8%E7%96%91%E6%98%AF%E7%9C%9F%E4%BA%BA%E6%89%AE%E6%BC%94)
 1. [小鹏首款女性机器人正式亮相](https://www.zhihu.com/search?q=%E5%B0%8F%E9%B9%8F%E9%A6%96%E6%AC%BE%E5%A5%B3%E6%80%A7%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%AD%A3%E5%BC%8F%E4%BA%AE%E7%9B%B8)
-1. [翁青雅犯的哪些错误值得职场新人吸取教训](https://www.zhihu.com/search?q=%E7%BF%81%E9%9D%92%E9%9B%85%E7%8A%AF%E7%9A%84%E5%93%AA%E4%BA%9B%E9%94%99%E8%AF%AF%E5%80%BC%E5%BE%97%E8%81%8C%E5%9C%BA%E6%96%B0%E4%BA%BA%E5%90%B8%E5%8F%96%E6%95%99%E8%AE%AD)
+1. [法制节目主持人被骗 1000 元买茶叶](https://www.zhihu.com/search?q=%E6%B3%95%E5%88%B6%E8%8A%82%E7%9B%AE%E4%B8%BB%E6%8C%81%E4%BA%BA%E8%A2%AB%E9%AA%97%201000%20%E5%85%83%E4%B9%B0%E8%8C%B6%E5%8F%B6)
 1. [女子引产被拒诞下女婴被医生抱走](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E5%BC%95%E4%BA%A7%E8%A2%AB%E6%8B%92%E8%AF%9E%E4%B8%8B%E5%A5%B3%E5%A9%B4%E8%A2%AB%E5%8C%BB%E7%94%9F%E6%8A%B1%E8%B5%B0)
 1. [西游记「沙僧」扮演者刘大刚病逝](https://www.zhihu.com/search?q=%E8%A5%BF%E6%B8%B8%E8%AE%B0%E3%80%8C%E6%B2%99%E5%83%A7%E3%80%8D%E6%89%AE%E6%BC%94%E8%80%85%E5%88%98%E5%A4%A7%E5%88%9A%E7%97%85%E9%80%9D)
 1. [女子迷上奶皮子糖葫芦吃出糖化脸](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E8%BF%B7%E4%B8%8A%E5%A5%B6%E7%9A%AE%E5%AD%90%E7%B3%96%E8%91%AB%E8%8A%A6%E5%90%83%E5%87%BA%E7%B3%96%E5%8C%96%E8%84%B8)
-1. [法制节目主持人被骗 1000 元买茶叶](https://www.zhihu.com/search?q=%E6%B3%95%E5%88%B6%E8%8A%82%E7%9B%AE%E4%B8%BB%E6%8C%81%E4%BA%BA%E8%A2%AB%E9%AA%97%201000%20%E5%85%83%E4%B9%B0%E8%8C%B6%E5%8F%B6)
+1. [贫困生真的不能出去旅游吗](https://www.zhihu.com/search?q=%E8%B4%AB%E5%9B%B0%E7%94%9F%E7%9C%9F%E7%9A%84%E4%B8%8D%E8%83%BD%E5%87%BA%E5%8E%BB%E6%97%85%E6%B8%B8%E5%90%97)
 1. [石家庄警方通报男子持刀扎伤同事](https://www.zhihu.com/search?q=%E7%9F%B3%E5%AE%B6%E5%BA%84%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E5%AD%90%E6%8C%81%E5%88%80%E6%89%8E%E4%BC%A4%E5%90%8C%E4%BA%8B)
+1. [翁青雅犯的哪些错误值得职场新人吸取教训](https://www.zhihu.com/search?q=%E7%BF%81%E9%9D%92%E9%9B%85%E7%8A%AF%E7%9A%84%E5%93%AA%E4%BA%9B%E9%94%99%E8%AF%AF%E5%80%BC%E5%BE%97%E8%81%8C%E5%9C%BA%E6%96%B0%E4%BA%BA%E5%90%B8%E5%8F%96%E6%95%99%E8%AE%AD)
 1. [警界发生过哪些有趣的事](https://www.zhihu.com/search?q=%E8%AD%A6%E7%95%8C%E5%8F%91%E7%94%9F%E8%BF%87%E5%93%AA%E4%BA%9B%E6%9C%89%E8%B6%A3%E7%9A%84%E4%BA%8B)
 1. [孩子穿便宜衣服被同学嘲笑该怎么做](https://www.zhihu.com/search?q=%E5%AD%A9%E5%AD%90%E7%A9%BF%E4%BE%BF%E5%AE%9C%E8%A1%A3%E6%9C%8D%E8%A2%AB%E5%90%8C%E5%AD%A6%E5%98%B2%E7%AC%91%E8%AF%A5%E6%80%8E%E4%B9%88%E5%81%9A)
 1. [为什么有人喜欢频繁发朋友圈](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%BA%E5%96%9C%E6%AC%A2%E9%A2%91%E7%B9%81%E5%8F%91%E6%9C%8B%E5%8F%8B%E5%9C%88)
