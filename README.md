@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Nov 09 2025 02:28:09 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Nov 09 2025 03:15:29 GMT+0800 (China Standard Time) -->
 
 1. [福建舰入列](https://www.zhihu.com/search?q=%E7%A6%8F%E5%BB%BA%E8%88%B0%E5%85%A5%E5%88%97)
 1. [KPL 总决赛](https://www.zhihu.com/search?q=KPL%20%E6%80%BB%E5%86%B3%E8%B5%9B)
@@ -23,10 +23,12 @@
 1. [繁花剧组回应古二录音](https://www.zhihu.com/search?q=%E7%B9%81%E8%8A%B1%E5%89%A7%E7%BB%84%E5%9B%9E%E5%BA%94%E5%8F%A4%E4%BA%8C%E5%BD%95%E9%9F%B3)
 1. [赵鸿刚参加扇耳光大赛后仍在治疗](https://www.zhihu.com/search?q=%E8%B5%B5%E9%B8%BF%E5%88%9A%E5%8F%82%E5%8A%A0%E6%89%87%E8%80%B3%E5%85%89%E5%A4%A7%E8%B5%9B%E5%90%8E%E4%BB%8D%E5%9C%A8%E6%B2%BB%E7%96%97)
 1. [女子迷上奶皮子糖葫芦吃出糖化脸](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E8%BF%B7%E4%B8%8A%E5%A5%B6%E7%9A%AE%E5%AD%90%E7%B3%96%E8%91%AB%E8%8A%A6%E5%90%83%E5%87%BA%E7%B3%96%E5%8C%96%E8%84%B8)
-1. [你们见过最离谱的事是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E4%BB%AC%E8%A7%81%E8%BF%87%E6%9C%80%E7%A6%BB%E8%B0%B1%E7%9A%84%E4%BA%8B%E6%98%AF%E4%BB%80%E4%B9%88)
+1. [为什么有些领导气场都特别强](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%9B%E9%A2%86%E5%AF%BC%E6%B0%94%E5%9C%BA%E9%83%BD%E7%89%B9%E5%88%AB%E5%BC%BA)
 1. [新娘换完敬酒服发现宾客全走了](https://www.zhihu.com/search?q=%E6%96%B0%E5%A8%98%E6%8D%A2%E5%AE%8C%E6%95%AC%E9%85%92%E6%9C%8D%E5%8F%91%E7%8E%B0%E5%AE%BE%E5%AE%A2%E5%85%A8%E8%B5%B0%E4%BA%86)
 1. [DNA 双螺旋结构发现者沃森去世](https://www.zhihu.com/search?q=DNA%20%E5%8F%8C%E8%9E%BA%E6%97%8B%E7%BB%93%E6%9E%84%E5%8F%91%E7%8E%B0%E8%80%85%E6%B2%83%E6%A3%AE%E5%8E%BB%E4%B8%96)
 1. [福建舰舰载机可满油满弹起飞](https://www.zhihu.com/search?q=%E7%A6%8F%E5%BB%BA%E8%88%B0%E8%88%B0%E8%BD%BD%E6%9C%BA%E5%8F%AF%E6%BB%A1%E6%B2%B9%E6%BB%A1%E5%BC%B9%E8%B5%B7%E9%A3%9E)
+1. [报道称「全球投资者正从印度撤资」实际如何](https://www.zhihu.com/search?q=%E6%8A%A5%E9%81%93%E7%A7%B0%E3%80%8C%E5%85%A8%E7%90%83%E6%8A%95%E8%B5%84%E8%80%85%E6%AD%A3%E4%BB%8E%E5%8D%B0%E5%BA%A6%E6%92%A4%E8%B5%84%E3%80%8D%E5%AE%9E%E9%99%85%E5%A6%82%E4%BD%95)
+1. [你们见过最离谱的事是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E4%BB%AC%E8%A7%81%E8%BF%87%E6%9C%80%E7%A6%BB%E8%B0%B1%E7%9A%84%E4%BA%8B%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [孩子穿便宜衣服被同学嘲笑该怎么做](https://www.zhihu.com/search?q=%E5%AD%A9%E5%AD%90%E7%A9%BF%E4%BE%BF%E5%AE%9C%E8%A1%A3%E6%9C%8D%E8%A2%AB%E5%90%8C%E5%AD%A6%E5%98%B2%E7%AC%91%E8%AF%A5%E6%80%8E%E4%B9%88%E5%81%9A)
 1. [为什么家用电动车起火屡见不鲜](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%AE%B6%E7%94%A8%E7%94%B5%E5%8A%A8%E8%BD%A6%E8%B5%B7%E7%81%AB%E5%B1%A1%E8%A7%81%E4%B8%8D%E9%B2%9C)
 1. [西游记「沙僧」扮演者刘大刚病逝](https://www.zhihu.com/search?q=%E8%A5%BF%E6%B8%B8%E8%AE%B0%E3%80%8C%E6%B2%99%E5%83%A7%E3%80%8D%E6%89%AE%E6%BC%94%E8%80%85%E5%88%98%E5%A4%A7%E5%88%9A%E7%97%85%E9%80%9D)
