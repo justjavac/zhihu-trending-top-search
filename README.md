@@ -14,20 +14,20 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Nov 10 2025 06:18:57 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Nov 10 2025 07:19:01 GMT+0800 (China Standard Time) -->
 
 1. [繁花剧组回应古二录音](https://www.zhihu.com/search?q=%E7%B9%81%E8%8A%B1%E5%89%A7%E7%BB%84%E5%9B%9E%E5%BA%94%E5%8F%A4%E4%BA%8C%E5%BD%95%E9%9F%B3)
 1. [湖南通报医院副院长出轨眼科主任](https://www.zhihu.com/search?q=%E6%B9%96%E5%8D%97%E9%80%9A%E6%8A%A5%E5%8C%BB%E9%99%A2%E5%89%AF%E9%99%A2%E9%95%BF%E5%87%BA%E8%BD%A8%E7%9C%BC%E7%A7%91%E4%B8%BB%E4%BB%BB)
-1. [T1 夺得 S15 全球总决赛冠军](https://www.zhihu.com/search?q=T1%20%E5%A4%BA%E5%BE%97%20S15%20%E5%85%A8%E7%90%83%E6%80%BB%E5%86%B3%E8%B5%9B%E5%86%A0%E5%86%9B)
 1. [全运会开幕式](https://www.zhihu.com/search?q=%E5%85%A8%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F)
+1. [S15总决赛KT对战T1](https://www.zhihu.com/search?q=S15%E6%80%BB%E5%86%B3%E8%B5%9BKT%E5%AF%B9%E6%88%98T1)
+1. [T1 夺得 S15 全球总决赛冠军](https://www.zhihu.com/search?q=T1%20%E5%A4%BA%E5%BE%97%20S15%20%E5%85%A8%E7%90%83%E6%80%BB%E5%86%B3%E8%B5%9B%E5%86%A0%E5%86%9B)
 1. [大学生网购钥匙关掉百部电梯广告](https://www.zhihu.com/search?q=%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%BD%91%E8%B4%AD%E9%92%A5%E5%8C%99%E5%85%B3%E6%8E%89%E7%99%BE%E9%83%A8%E7%94%B5%E6%A2%AF%E5%B9%BF%E5%91%8A)
 1. [陈睿卸任哔哩哔哩科技总经理](https://www.zhihu.com/search?q=%E9%99%88%E7%9D%BF%E5%8D%B8%E4%BB%BB%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E7%A7%91%E6%8A%80%E6%80%BB%E7%BB%8F%E7%90%86)
 1. [赵鸿刚参加扇耳光大赛后仍在治疗](https://www.zhihu.com/search?q=%E8%B5%B5%E9%B8%BF%E5%88%9A%E5%8F%82%E5%8A%A0%E6%89%87%E8%80%B3%E5%85%89%E5%A4%A7%E8%B5%9B%E5%90%8E%E4%BB%8D%E5%9C%A8%E6%B2%BB%E7%96%97)
 1. [T1夺冠](https://www.zhihu.com/search?q=T1%E5%A4%BA%E5%86%A0)
 1. [30岁小伙智力退回3岁](https://www.zhihu.com/search?q=30%E5%B2%81%E5%B0%8F%E4%BC%99%E6%99%BA%E5%8A%9B%E9%80%80%E5%9B%9E3%E5%B2%81)
-1. [DNA 双螺旋结构发现者沃森去世](https://www.zhihu.com/search?q=DNA%20%E5%8F%8C%E8%9E%BA%E6%97%8B%E7%BB%93%E6%9E%84%E5%8F%91%E7%8E%B0%E8%80%85%E6%B2%83%E6%A3%AE%E5%8E%BB%E4%B8%96)
 1. [内蒙古包头现蝴蝶形不明飞行物](https://www.zhihu.com/search?q=%E5%86%85%E8%92%99%E5%8F%A4%E5%8C%85%E5%A4%B4%E7%8E%B0%E8%9D%B4%E8%9D%B6%E5%BD%A2%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9)
-1. [S15总决赛KT对战T1](https://www.zhihu.com/search?q=S15%E6%80%BB%E5%86%B3%E8%B5%9BKT%E5%AF%B9%E6%88%98T1)
+1. [DNA 双螺旋结构发现者沃森去世](https://www.zhihu.com/search?q=DNA%20%E5%8F%8C%E8%9E%BA%E6%97%8B%E7%BB%93%E6%9E%84%E5%8F%91%E7%8E%B0%E8%80%85%E6%B2%83%E6%A3%AE%E5%8E%BB%E4%B8%96)
 1. [小伙长期熬夜患上脑膜炎 智力退回到3岁](https://www.zhihu.com/search?q=%E5%B0%8F%E4%BC%99%E9%95%BF%E6%9C%9F%E7%86%AC%E5%A4%9C%E6%82%A3%E4%B8%8A%E8%84%91%E8%86%9C%E7%82%8E%20%E6%99%BA%E5%8A%9B%E9%80%80%E5%9B%9E%E5%88%B03%E5%B2%81)
 1. [KPL 总决赛](https://www.zhihu.com/search?q=KPL%20%E6%80%BB%E5%86%B3%E8%B5%9B)
 1. [十五运开幕式演出阵容](https://www.zhihu.com/search?q=%E5%8D%81%E4%BA%94%E8%BF%90%E5%BC%80%E5%B9%95%E5%BC%8F%E6%BC%94%E5%87%BA%E9%98%B5%E5%AE%B9)
