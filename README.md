@@ -14,19 +14,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Nov 09 2025 18:19:59 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Nov 09 2025 19:16:01 GMT+0800 (China Standard Time) -->
 
 1. [福建舰入列](https://www.zhihu.com/search?q=%E7%A6%8F%E5%BB%BA%E8%88%B0%E5%85%A5%E5%88%97)
 1. [湖南通报医院副院长出轨眼科主任](https://www.zhihu.com/search?q=%E6%B9%96%E5%8D%97%E9%80%9A%E6%8A%A5%E5%8C%BB%E9%99%A2%E5%89%AF%E9%99%A2%E9%95%BF%E5%87%BA%E8%BD%A8%E7%9C%BC%E7%A7%91%E4%B8%BB%E4%BB%BB)
 1. [S15总决赛KT对战T1](https://www.zhihu.com/search?q=S15%E6%80%BB%E5%86%B3%E8%B5%9BKT%E5%AF%B9%E6%88%98T1)
-1. [繁花剧组回应古二录音](https://www.zhihu.com/search?q=%E7%B9%81%E8%8A%B1%E5%89%A7%E7%BB%84%E5%9B%9E%E5%BA%94%E5%8F%A4%E4%BA%8C%E5%BD%95%E9%9F%B3)
 1. [女子迷上奶皮子糖葫芦吃出糖化脸](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E8%BF%B7%E4%B8%8A%E5%A5%B6%E7%9A%AE%E5%AD%90%E7%B3%96%E8%91%AB%E8%8A%A6%E5%90%83%E5%87%BA%E7%B3%96%E5%8C%96%E8%84%B8)
-1. [什么东西大学生最该学却没人教](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E4%B8%9C%E8%A5%BF%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%9C%80%E8%AF%A5%E5%AD%A6%E5%8D%B4%E6%B2%A1%E4%BA%BA%E6%95%99)
+1. [为什么有些领导气场都特别强](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%9B%E9%A2%86%E5%AF%BC%E6%B0%94%E5%9C%BA%E9%83%BD%E7%89%B9%E5%88%AB%E5%BC%BA)
+1. [繁花剧组回应古二录音](https://www.zhihu.com/search?q=%E7%B9%81%E8%8A%B1%E5%89%A7%E7%BB%84%E5%9B%9E%E5%BA%94%E5%8F%A4%E4%BA%8C%E5%BD%95%E9%9F%B3)
 1. [赵鸿刚参加扇耳光大赛后仍在治疗](https://www.zhihu.com/search?q=%E8%B5%B5%E9%B8%BF%E5%88%9A%E5%8F%82%E5%8A%A0%E6%89%87%E8%80%B3%E5%85%89%E5%A4%A7%E8%B5%9B%E5%90%8E%E4%BB%8D%E5%9C%A8%E6%B2%BB%E7%96%97)
 1. [泡泡玛特直播「翻车」](https://www.zhihu.com/search?q=%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E7%9B%B4%E6%92%AD%E3%80%8C%E7%BF%BB%E8%BD%A6%E3%80%8D)
+1. [如何看待「伴游」这种旅游模式](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E3%80%8C%E4%BC%B4%E6%B8%B8%E3%80%8D%E8%BF%99%E7%A7%8D%E6%97%85%E6%B8%B8%E6%A8%A1%E5%BC%8F)
 1. [陈睿卸任哔哩哔哩科技总经理](https://www.zhihu.com/search?q=%E9%99%88%E7%9D%BF%E5%8D%B8%E4%BB%BB%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E7%A7%91%E6%8A%80%E6%80%BB%E7%BB%8F%E7%90%86)
-1. [如何看待王家卫在剧本争议中保持沉默](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E7%8E%8B%E5%AE%B6%E5%8D%AB%E5%9C%A8%E5%89%A7%E6%9C%AC%E4%BA%89%E8%AE%AE%E4%B8%AD%E4%BF%9D%E6%8C%81%E6%B2%89%E9%BB%98)
 1. [DNA 双螺旋结构发现者沃森去世](https://www.zhihu.com/search?q=DNA%20%E5%8F%8C%E8%9E%BA%E6%97%8B%E7%BB%93%E6%9E%84%E5%8F%91%E7%8E%B0%E8%80%85%E6%B2%83%E6%A3%AE%E5%8E%BB%E4%B8%96)
+1. [社会上有哪些人是不能招惹的](https://www.zhihu.com/search?q=%E7%A4%BE%E4%BC%9A%E4%B8%8A%E6%9C%89%E5%93%AA%E4%BA%9B%E4%BA%BA%E6%98%AF%E4%B8%8D%E8%83%BD%E6%8B%9B%E6%83%B9%E7%9A%84)
+1. [什么东西大学生最该学却没人教](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E4%B8%9C%E8%A5%BF%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%9C%80%E8%AF%A5%E5%AD%A6%E5%8D%B4%E6%B2%A1%E4%BA%BA%E6%95%99)
+1. [如何看待王家卫在剧本争议中保持沉默](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E7%8E%8B%E5%AE%B6%E5%8D%AB%E5%9C%A8%E5%89%A7%E6%9C%AC%E4%BA%89%E8%AE%AE%E4%B8%AD%E4%BF%9D%E6%8C%81%E6%B2%89%E9%BB%98)
 1. [大学生网购钥匙关掉百部电梯广告](https://www.zhihu.com/search?q=%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%BD%91%E8%B4%AD%E9%92%A5%E5%8C%99%E5%85%B3%E6%8E%89%E7%99%BE%E9%83%A8%E7%94%B5%E6%A2%AF%E5%B9%BF%E5%91%8A)
 1. [十五运开幕式演出阵容](https://www.zhihu.com/search?q=%E5%8D%81%E4%BA%94%E8%BF%90%E5%BC%80%E5%B9%95%E5%BC%8F%E6%BC%94%E5%87%BA%E9%98%B5%E5%AE%B9)
 1. [你知道的最震惊的冷知识是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9F%A5%E9%81%93%E7%9A%84%E6%9C%80%E9%9C%87%E6%83%8A%E7%9A%84%E5%86%B7%E7%9F%A5%E8%AF%86%E6%98%AF%E4%BB%80%E4%B9%88)
@@ -49,7 +52,6 @@
 1. [法制节目主持人被骗 1000 元买茶叶](https://www.zhihu.com/search?q=%E6%B3%95%E5%88%B6%E8%8A%82%E7%9B%AE%E4%B8%BB%E6%8C%81%E4%BA%BA%E8%A2%AB%E9%AA%97%201000%20%E5%85%83%E4%B9%B0%E8%8C%B6%E5%8F%B6)
 1. [你们见过最离谱的事是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E4%BB%AC%E8%A7%81%E8%BF%87%E6%9C%80%E7%A6%BB%E8%B0%B1%E7%9A%84%E4%BA%8B%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [把郭芙蓉放在现代她能干长久吗](https://www.zhihu.com/search?q=%E6%8A%8A%E9%83%AD%E8%8A%99%E8%93%89%E6%94%BE%E5%9C%A8%E7%8E%B0%E4%BB%A3%E5%A5%B9%E8%83%BD%E5%B9%B2%E9%95%BF%E4%B9%85%E5%90%97)
-1. [为什么有些领导气场都特别强](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%9B%E9%A2%86%E5%AF%BC%E6%B0%94%E5%9C%BA%E9%83%BD%E7%89%B9%E5%88%AB%E5%BC%BA)
 1. [为什么家用电动车起火屡见不鲜](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%AE%B6%E7%94%A8%E7%94%B5%E5%8A%A8%E8%BD%A6%E8%B5%B7%E7%81%AB%E5%B1%A1%E8%A7%81%E4%B8%8D%E9%B2%9C)
 
 <!-- END -->
