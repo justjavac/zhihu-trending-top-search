@@ -14,11 +14,12 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Nov 09 2025 14:29:54 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Nov 09 2025 15:19:07 GMT+0800 (China Standard Time) -->
 
 1. [福建舰入列](https://www.zhihu.com/search?q=%E7%A6%8F%E5%BB%BA%E8%88%B0%E5%85%A5%E5%88%97)
 1. [十五运开幕式演出阵容](https://www.zhihu.com/search?q=%E5%8D%81%E4%BA%94%E8%BF%90%E5%BC%80%E5%B9%95%E5%BC%8F%E6%BC%94%E5%87%BA%E9%98%B5%E5%AE%B9)
 1. [泡泡玛特直播「翻车」](https://www.zhihu.com/search?q=%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E7%9B%B4%E6%92%AD%E3%80%8C%E7%BF%BB%E8%BD%A6%E3%80%8D)
+1. [S15总决赛KT对战T1](https://www.zhihu.com/search?q=S15%E6%80%BB%E5%86%B3%E8%B5%9BKT%E5%AF%B9%E6%88%98T1)
 1. [湖南通报医院副院长出轨眼科主任](https://www.zhihu.com/search?q=%E6%B9%96%E5%8D%97%E9%80%9A%E6%8A%A5%E5%8C%BB%E9%99%A2%E5%89%AF%E9%99%A2%E9%95%BF%E5%87%BA%E8%BD%A8%E7%9C%BC%E7%A7%91%E4%B8%BB%E4%BB%BB)
 1. [繁花剧组回应古二录音](https://www.zhihu.com/search?q=%E7%B9%81%E8%8A%B1%E5%89%A7%E7%BB%84%E5%9B%9E%E5%BA%94%E5%8F%A4%E4%BA%8C%E5%BD%95%E9%9F%B3)
 1. [女子迷上奶皮子糖葫芦吃出糖化脸](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E8%BF%B7%E4%B8%8A%E5%A5%B6%E7%9A%AE%E5%AD%90%E7%B3%96%E8%91%AB%E8%8A%A6%E5%90%83%E5%87%BA%E7%B3%96%E5%8C%96%E8%84%B8)
