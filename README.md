@@ -14,20 +14,24 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Nov 11 2025 11:15:04 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Nov 11 2025 13:22:16 GMT+0800 (China Standard Time) -->
 
 1. [云南通报「赤裸小孩」调查情况](https://www.zhihu.com/search?q=%E4%BA%91%E5%8D%97%E9%80%9A%E6%8A%A5%E3%80%8C%E8%B5%A4%E8%A3%B8%E5%B0%8F%E5%AD%A9%E3%80%8D%E8%B0%83%E6%9F%A5%E6%83%85%E5%86%B5)
-1. [30岁小伙智力退回3岁](https://www.zhihu.com/search?q=30%E5%B2%81%E5%B0%8F%E4%BC%99%E6%99%BA%E5%8A%9B%E9%80%80%E5%9B%9E3%E5%B2%81)
-1. [上海警方通报秦雯袭警](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%A7%A6%E9%9B%AF%E8%A2%AD%E8%AD%A6)
 1. [李连杰脱衣辟谣换心脏传言](https://www.zhihu.com/search?q=%E6%9D%8E%E8%BF%9E%E6%9D%B0%E8%84%B1%E8%A1%A3%E8%BE%9F%E8%B0%A3%E6%8D%A2%E5%BF%83%E8%84%8F%E4%BC%A0%E8%A8%80)
-1. [T1 夺得 S15 全球总决赛冠军](https://www.zhihu.com/search?q=T1%20%E5%A4%BA%E5%BE%97%20S15%20%E5%85%A8%E7%90%83%E6%80%BB%E5%86%B3%E8%B5%9B%E5%86%A0%E5%86%9B)
-1. [你知道的最震惊的冷知识是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9F%A5%E9%81%93%E7%9A%84%E6%9C%80%E9%9C%87%E6%83%8A%E7%9A%84%E5%86%B7%E7%9F%A5%E8%AF%86%E6%98%AF%E4%BB%80%E4%B9%88)
+1. [上海警方通报秦雯袭警](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%A7%A6%E9%9B%AF%E8%A2%AD%E8%AD%A6)
 1. [秦始皇祖母陵墓出土长臂猿](https://www.zhihu.com/search?q=%E7%A7%A6%E5%A7%8B%E7%9A%87%E7%A5%96%E6%AF%8D%E9%99%B5%E5%A2%93%E5%87%BA%E5%9C%9F%E9%95%BF%E8%87%82%E7%8C%BF)
-1. [美国政府即将结束停摆](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E5%8D%B3%E5%B0%86%E7%BB%93%E6%9D%9F%E5%81%9C%E6%91%86)
-1. [西贝一个月闭店近 10 家](https://www.zhihu.com/search?q=%E8%A5%BF%E8%B4%9D%E4%B8%80%E4%B8%AA%E6%9C%88%E9%97%AD%E5%BA%97%E8%BF%91%2010%20%E5%AE%B6)
-1. [为什么越来越多的阿里人选择去山姆](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E7%9A%84%E9%98%BF%E9%87%8C%E4%BA%BA%E9%80%89%E6%8B%A9%E5%8E%BB%E5%B1%B1%E5%A7%86)
+1. [T1 夺得 S15 全球总决赛冠军](https://www.zhihu.com/search?q=T1%20%E5%A4%BA%E5%BE%97%20S15%20%E5%85%A8%E7%90%83%E6%80%BB%E5%86%B3%E8%B5%9B%E5%86%A0%E5%86%9B)
+1. [你最讨厌微信朋友圈什么行为](https://www.zhihu.com/search?q=%E4%BD%A0%E6%9C%80%E8%AE%A8%E5%8E%8C%E5%BE%AE%E4%BF%A1%E6%9C%8B%E5%8F%8B%E5%9C%88%E4%BB%80%E4%B9%88%E8%A1%8C%E4%B8%BA)
 1. [泫雅一个月晕倒 12 次](https://www.zhihu.com/search?q=%E6%B3%AB%E9%9B%85%E4%B8%80%E4%B8%AA%E6%9C%88%E6%99%95%E5%80%92%2012%20%E6%AC%A1)
+1. [西贝一个月闭店近 10 家](https://www.zhihu.com/search?q=%E8%A5%BF%E8%B4%9D%E4%B8%80%E4%B8%AA%E6%9C%88%E9%97%AD%E5%BA%97%E8%BF%91%2010%20%E5%AE%B6)
 1. [女孩每天跳绳3000下结果瘸了](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%A9%E6%AF%8F%E5%A4%A9%E8%B7%B3%E7%BB%B33000%E4%B8%8B%E7%BB%93%E6%9E%9C%E7%98%B8%E4%BA%86)
+1. [工业克苏鲁什么意思](https://www.zhihu.com/search?q=%E5%B7%A5%E4%B8%9A%E5%85%8B%E8%8B%8F%E9%B2%81%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D)
+1. [低价银行直供房激增](https://www.zhihu.com/search?q=%E4%BD%8E%E4%BB%B7%E9%93%B6%E8%A1%8C%E7%9B%B4%E4%BE%9B%E6%88%BF%E6%BF%80%E5%A2%9E)
+1. [小伙长期熬夜患上脑膜炎 智力退回到3岁](https://www.zhihu.com/search?q=%E5%B0%8F%E4%BC%99%E9%95%BF%E6%9C%9F%E7%86%AC%E5%A4%9C%E6%82%A3%E4%B8%8A%E8%84%91%E8%86%9C%E7%82%8E%20%E6%99%BA%E5%8A%9B%E9%80%80%E5%9B%9E%E5%88%B03%E5%B2%81)
+1. [30岁小伙智力退回3岁](https://www.zhihu.com/search?q=30%E5%B2%81%E5%B0%8F%E4%BC%99%E6%99%BA%E5%8A%9B%E9%80%80%E5%9B%9E3%E5%B2%81)
+1. [你知道的最震惊的冷知识是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9F%A5%E9%81%93%E7%9A%84%E6%9C%80%E9%9C%87%E6%83%8A%E7%9A%84%E5%86%B7%E7%9F%A5%E8%AF%86%E6%98%AF%E4%BB%80%E4%B9%88)
+1. [美国政府即将结束停摆](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E5%8D%B3%E5%B0%86%E7%BB%93%E6%9D%9F%E5%81%9C%E6%91%86)
+1. [为什么越来越多的阿里人选择去山姆](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E7%9A%84%E9%98%BF%E9%87%8C%E4%BA%BA%E9%80%89%E6%8B%A9%E5%8E%BB%E5%B1%B1%E5%A7%86)
 1. [科学家称发现「吃塑料」细菌](https://www.zhihu.com/search?q=%E7%A7%91%E5%AD%A6%E5%AE%B6%E7%A7%B0%E5%8F%91%E7%8E%B0%E3%80%8C%E5%90%83%E5%A1%91%E6%96%99%E3%80%8D%E7%BB%86%E8%8F%8C)
 1. [T1夺冠](https://www.zhihu.com/search?q=T1%E5%A4%BA%E5%86%A0)
 1. [牛油火锅配麻酱为何容易拉肚子](https://www.zhihu.com/search?q=%E7%89%9B%E6%B2%B9%E7%81%AB%E9%94%85%E9%85%8D%E9%BA%BB%E9%85%B1%E4%B8%BA%E4%BD%95%E5%AE%B9%E6%98%93%E6%8B%89%E8%82%9A%E5%AD%90)
