@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Nov 13 2025 04:24:54 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Nov 13 2025 05:20:26 GMT+0800 (China Standard Time) -->
 
 1. [李连杰脱衣辟谣换心脏传言](https://www.zhihu.com/search?q=%E6%9D%8E%E8%BF%9E%E6%9D%B0%E8%84%B1%E8%A1%A3%E8%BE%9F%E8%B0%A3%E6%8D%A2%E5%BF%83%E8%84%8F%E4%BC%A0%E8%A8%80)
 1. [女孩每天跳绳3000下结果瘸了](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%A9%E6%AF%8F%E5%A4%A9%E8%B7%B3%E7%BB%B33000%E4%B8%8B%E7%BB%93%E6%9E%9C%E7%98%B8%E4%BA%86)
