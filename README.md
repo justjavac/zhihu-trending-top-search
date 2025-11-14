@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Nov 15 2025 05:20:00 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Nov 15 2025 06:20:54 GMT+0800 (China Standard Time) -->
 
 1. [医生收入被曝断崖式下跌](https://www.zhihu.com/search?q=%E5%8C%BB%E7%94%9F%E6%94%B6%E5%85%A5%E8%A2%AB%E6%9B%9D%E6%96%AD%E5%B4%96%E5%BC%8F%E4%B8%8B%E8%B7%8C)
 1. [小天才灰色产业链曝光](https://www.zhihu.com/search?q=%E5%B0%8F%E5%A4%A9%E6%89%8D%E7%81%B0%E8%89%B2%E4%BA%A7%E4%B8%9A%E9%93%BE%E6%9B%9D%E5%85%89)
