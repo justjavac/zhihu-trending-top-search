@@ -14,26 +14,27 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Nov 15 2025 09:42:45 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Nov 15 2025 11:08:39 GMT+0800 (China Standard Time) -->
 
-1. [医生收入被曝断崖式下跌](https://www.zhihu.com/search?q=%E5%8C%BB%E7%94%9F%E6%94%B6%E5%85%A5%E8%A2%AB%E6%9B%9D%E6%96%AD%E5%B4%96%E5%BC%8F%E4%B8%8B%E8%B7%8C)
 1. [小天才灰色产业链曝光](https://www.zhihu.com/search?q=%E5%B0%8F%E5%A4%A9%E6%89%8D%E7%81%B0%E8%89%B2%E4%BA%A7%E4%B8%9A%E9%93%BE%E6%9B%9D%E5%85%89)
 1. [神舟二十号乘组返回](https://www.zhihu.com/search?q=%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E5%8F%B7%E4%B9%98%E7%BB%84%E8%BF%94%E5%9B%9E)
-1. [你们闻过最臭的是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E4%BB%AC%E9%97%BB%E8%BF%87%E6%9C%80%E8%87%AD%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88)
-1. [荒野求生 5 名选手血钾超标](https://www.zhihu.com/search?q=%E8%8D%92%E9%87%8E%E6%B1%82%E7%94%9F%205%20%E5%90%8D%E9%80%89%E6%89%8B%E8%A1%80%E9%92%BE%E8%B6%85%E6%A0%87)
 1. [上海通报学校午餐发臭事件](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E9%80%9A%E6%8A%A5%E5%AD%A6%E6%A0%A1%E5%8D%88%E9%A4%90%E5%8F%91%E8%87%AD%E4%BA%8B%E4%BB%B6)
+1. [海昏侯墓发现《诗经》有何重要意义](https://www.zhihu.com/search?q=%E6%B5%B7%E6%98%8F%E4%BE%AF%E5%A2%93%E5%8F%91%E7%8E%B0%E3%80%8A%E8%AF%97%E7%BB%8F%E3%80%8B%E6%9C%89%E4%BD%95%E9%87%8D%E8%A6%81%E6%84%8F%E4%B9%89)
+1. [荒野求生 5 名选手血钾超标](https://www.zhihu.com/search?q=%E8%8D%92%E9%87%8E%E6%B1%82%E7%94%9F%205%20%E5%90%8D%E9%80%89%E6%89%8B%E8%A1%80%E9%92%BE%E8%B6%85%E6%A0%87)
 1. [海军四川舰开展首次航行试验](https://www.zhihu.com/search?q=%E6%B5%B7%E5%86%9B%E5%9B%9B%E5%B7%9D%E8%88%B0%E5%BC%80%E5%B1%95%E9%A6%96%E6%AC%A1%E8%88%AA%E8%A1%8C%E8%AF%95%E9%AA%8C)
-1. [为什么在中国邮箱不流行](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%9C%A8%E4%B8%AD%E5%9B%BD%E9%82%AE%E7%AE%B1%E4%B8%8D%E6%B5%81%E8%A1%8C)
 1. [神22飞船择机发射](https://www.zhihu.com/search?q=%E7%A5%9E22%E9%A3%9E%E8%88%B9%E6%8B%A9%E6%9C%BA%E5%8F%91%E5%B0%84)
+1. [老师是如何一眼看出学生作业是在抄答案](https://www.zhihu.com/search?q=%E8%80%81%E5%B8%88%E6%98%AF%E5%A6%82%E4%BD%95%E4%B8%80%E7%9C%BC%E7%9C%8B%E5%87%BA%E5%AD%A6%E7%94%9F%E4%BD%9C%E4%B8%9A%E6%98%AF%E5%9C%A8%E6%8A%84%E7%AD%94%E6%A1%88)
 1. [樊振东3-1孙闻](https://www.zhihu.com/search?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C3-1%E5%AD%99%E9%97%BB)
-1. [工业克苏鲁什么意思](https://www.zhihu.com/search?q=%E5%B7%A5%E4%B8%9A%E5%85%8B%E8%8B%8F%E9%B2%81%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D)
 1. [男子持刀拒捕被路虎车撞翻](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%90%E6%8C%81%E5%88%80%E6%8B%92%E6%8D%95%E8%A2%AB%E8%B7%AF%E8%99%8E%E8%BD%A6%E6%92%9E%E7%BF%BB)
+1. [奥赛生只能保送至对应的基础学科专业](https://www.zhihu.com/search?q=%E5%A5%A5%E8%B5%9B%E7%94%9F%E5%8F%AA%E8%83%BD%E4%BF%9D%E9%80%81%E8%87%B3%E5%AF%B9%E5%BA%94%E7%9A%84%E5%9F%BA%E7%A1%80%E5%AD%A6%E7%A7%91%E4%B8%93%E4%B8%9A)
 1. [林高远刘诗雯逆转夺冠](https://www.zhihu.com/search?q=%E6%9E%97%E9%AB%98%E8%BF%9C%E5%88%98%E8%AF%97%E9%9B%AF%E9%80%86%E8%BD%AC%E5%A4%BA%E5%86%A0)
+1. [医生收入被曝断崖式下跌](https://www.zhihu.com/search?q=%E5%8C%BB%E7%94%9F%E6%94%B6%E5%85%A5%E8%A2%AB%E6%9B%9D%E6%96%AD%E5%B4%96%E5%BC%8F%E4%B8%8B%E8%B7%8C)
+1. [你们闻过最臭的是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E4%BB%AC%E9%97%BB%E8%BF%87%E6%9C%80%E8%87%AD%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88)
+1. [为什么在中国邮箱不流行](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%9C%A8%E4%B8%AD%E5%9B%BD%E9%82%AE%E7%AE%B1%E4%B8%8D%E6%B5%81%E8%A1%8C)
+1. [工业克苏鲁什么意思](https://www.zhihu.com/search?q=%E5%B7%A5%E4%B8%9A%E5%85%8B%E8%8B%8F%E9%B2%81%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D)
 1. [是什么原因让你决定要辞职](https://www.zhihu.com/search?q=%E6%98%AF%E4%BB%80%E4%B9%88%E5%8E%9F%E5%9B%A0%E8%AE%A9%E4%BD%A0%E5%86%B3%E5%AE%9A%E8%A6%81%E8%BE%9E%E8%81%8C)
 1. [离婚证背面有囍字](https://www.zhihu.com/search?q=%E7%A6%BB%E5%A9%9A%E8%AF%81%E8%83%8C%E9%9D%A2%E6%9C%89%E5%9B%8D%E5%AD%97)
 1. [Faker 真的有传说中那么强吗](https://www.zhihu.com/search?q=Faker%20%E7%9C%9F%E7%9A%84%E6%9C%89%E4%BC%A0%E8%AF%B4%E4%B8%AD%E9%82%A3%E4%B9%88%E5%BC%BA%E5%90%97)
-1. [奥赛生只能保送至对应的基础学科专业](https://www.zhihu.com/search?q=%E5%A5%A5%E8%B5%9B%E7%94%9F%E5%8F%AA%E8%83%BD%E4%BF%9D%E9%80%81%E8%87%B3%E5%AF%B9%E5%BA%94%E7%9A%84%E5%9F%BA%E7%A1%80%E5%AD%A6%E7%A7%91%E4%B8%93%E4%B8%9A)
-1. [老师是如何一眼看出学生作业是在抄答案](https://www.zhihu.com/search?q=%E8%80%81%E5%B8%88%E6%98%AF%E5%A6%82%E4%BD%95%E4%B8%80%E7%9C%BC%E7%9C%8B%E5%87%BA%E5%AD%A6%E7%94%9F%E4%BD%9C%E4%B8%9A%E6%98%AF%E5%9C%A8%E6%8A%84%E7%AD%94%E6%A1%88)
 1. [为什么一些欧洲国家养懒汉社会却没有崩溃](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%80%E4%BA%9B%E6%AC%A7%E6%B4%B2%E5%9B%BD%E5%AE%B6%E5%85%BB%E6%87%92%E6%B1%89%E7%A4%BE%E4%BC%9A%E5%8D%B4%E6%B2%A1%E6%9C%89%E5%B4%A9%E6%BA%83)
 1. [九阳推出哈基米南北绿豆豆浆](https://www.zhihu.com/search?q=%E4%B9%9D%E9%98%B3%E6%8E%A8%E5%87%BA%E5%93%88%E5%9F%BA%E7%B1%B3%E5%8D%97%E5%8C%97%E7%BB%BF%E8%B1%86%E8%B1%86%E6%B5%86)
 1. [螺蛳粉店叫「Lusfěn 陆丝芬」引争议](https://www.zhihu.com/search?q=%E8%9E%BA%E8%9B%B3%E7%B2%89%E5%BA%97%E5%8F%AB%E3%80%8CLusf%C4%9Bn%20%E9%99%86%E4%B8%9D%E8%8A%AC%E3%80%8D%E5%BC%95%E4%BA%89%E8%AE%AE)
