@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Nov 15 2025 20:40:00 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Nov 15 2025 21:25:54 GMT+0800 (China Standard Time) -->
 
 1. [金鸡奖](https://www.zhihu.com/search?q=%E9%87%91%E9%B8%A1%E5%A5%96)
 1. [中国的愤怒在升级](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%84%A4%E6%80%92%E5%9C%A8%E5%8D%87%E7%BA%A7)
