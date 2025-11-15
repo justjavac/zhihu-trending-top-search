@@ -14,20 +14,23 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Nov 16 2025 01:16:11 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Nov 16 2025 02:27:57 GMT+0800 (China Standard Time) -->
 
 1. [易烊千玺获金鸡奖影帝](https://www.zhihu.com/search?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E8%8E%B7%E9%87%91%E9%B8%A1%E5%A5%96%E5%BD%B1%E5%B8%9D)
 1. [孙颖莎 4-1 朱雨玲](https://www.zhihu.com/search?q=%E5%AD%99%E9%A2%96%E8%8E%8E%204-1%20%E6%9C%B1%E9%9B%A8%E7%8E%B2)
-1. [多家航司:日本机票免费退改](https://www.zhihu.com/search?q=%E5%A4%9A%E5%AE%B6%E8%88%AA%E5%8F%B8%3A%E6%97%A5%E6%9C%AC%E6%9C%BA%E7%A5%A8%E5%85%8D%E8%B4%B9%E9%80%80%E6%94%B9)
+1. [中国的愤怒在升级](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%84%A4%E6%80%92%E5%9C%A8%E5%8D%87%E7%BA%A7)
 1. [王曼昱 4-0 陈梦](https://www.zhihu.com/search?q=%E7%8E%8B%E6%9B%BC%E6%98%B1%204-0%20%E9%99%88%E6%A2%A6)
 1. [宋佳获金鸡奖影后](https://www.zhihu.com/search?q=%E5%AE%8B%E4%BD%B3%E8%8E%B7%E9%87%91%E9%B8%A1%E5%A5%96%E5%BD%B1%E5%90%8E)
 1. [小天才灰色产业链曝光](https://www.zhihu.com/search?q=%E5%B0%8F%E5%A4%A9%E6%89%8D%E7%81%B0%E8%89%B2%E4%BA%A7%E4%B8%9A%E9%93%BE%E6%9B%9D%E5%85%89)
-1. [中国的愤怒在升级](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%84%A4%E6%80%92%E5%9C%A8%E5%8D%87%E7%BA%A7)
-1. [神舟二十号乘组返回](https://www.zhihu.com/search?q=%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E5%8F%B7%E4%B9%98%E7%BB%84%E8%BF%94%E5%9B%9E)
 1. [外交部提醒中国公民近期避免前往日本](https://www.zhihu.com/search?q=%E5%A4%96%E4%BA%A4%E9%83%A8%E6%8F%90%E9%86%92%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E8%BF%91%E6%9C%9F%E9%81%BF%E5%85%8D%E5%89%8D%E5%BE%80%E6%97%A5%E6%9C%AC)
+1. [你们闻过最臭的是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E4%BB%AC%E9%97%BB%E8%BF%87%E6%9C%80%E8%87%AD%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88)
+1. [神舟二十号乘组返回](https://www.zhihu.com/search?q=%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E5%8F%B7%E4%B9%98%E7%BB%84%E8%BF%94%E5%9B%9E)
+1. [林高远刘诗雯逆转夺冠](https://www.zhihu.com/search?q=%E6%9E%97%E9%AB%98%E8%BF%9C%E5%88%98%E8%AF%97%E9%9B%AF%E9%80%86%E8%BD%AC%E5%A4%BA%E5%86%A0)
+1. [唐朝诡事录之长安](https://www.zhihu.com/search?q=%E5%94%90%E6%9C%9D%E8%AF%A1%E4%BA%8B%E5%BD%95%E4%B9%8B%E9%95%BF%E5%AE%89)
+1. [知乎有哪些被证实的神预言](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E6%9C%89%E5%93%AA%E4%BA%9B%E8%A2%AB%E8%AF%81%E5%AE%9E%E7%9A%84%E7%A5%9E%E9%A2%84%E8%A8%80)
+1. [多家航司:日本机票免费退改](https://www.zhihu.com/search?q=%E5%A4%9A%E5%AE%B6%E8%88%AA%E5%8F%B8%3A%E6%97%A5%E6%9C%AC%E6%9C%BA%E7%A5%A8%E5%85%8D%E8%B4%B9%E9%80%80%E6%94%B9)
 1. [为什么现在鲍鱼这么便宜](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E9%B2%8D%E9%B1%BC%E8%BF%99%E4%B9%88%E4%BE%BF%E5%AE%9C)
 1. [港媒曝钟嘉欣在加拿大起诉丈夫](https://www.zhihu.com/search?q=%E6%B8%AF%E5%AA%92%E6%9B%9D%E9%92%9F%E5%98%89%E6%AC%A3%E5%9C%A8%E5%8A%A0%E6%8B%BF%E5%A4%A7%E8%B5%B7%E8%AF%89%E4%B8%88%E5%A4%AB)
-1. [林高远刘诗雯逆转夺冠](https://www.zhihu.com/search?q=%E6%9E%97%E9%AB%98%E8%BF%9C%E5%88%98%E8%AF%97%E9%9B%AF%E9%80%86%E8%BD%AC%E5%A4%BA%E5%86%A0)
 1. [演员知道自己正在拍一部烂片吗](https://www.zhihu.com/search?q=%E6%BC%94%E5%91%98%E7%9F%A5%E9%81%93%E8%87%AA%E5%B7%B1%E6%AD%A3%E5%9C%A8%E6%8B%8D%E4%B8%80%E9%83%A8%E7%83%82%E7%89%87%E5%90%97)
 1. [神22飞船择机发射](https://www.zhihu.com/search?q=%E7%A5%9E22%E9%A3%9E%E8%88%B9%E6%8B%A9%E6%9C%BA%E5%8F%91%E5%B0%84)
 
