@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Nov 16 2025 15:19:52 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Nov 16 2025 16:26:34 GMT+0800 (China Standard Time) -->
 
 1. [樊振东卫冕全运会男单冠军](https://www.zhihu.com/search?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%8D%AB%E5%86%95%E5%85%A8%E8%BF%90%E4%BC%9A%E7%94%B7%E5%8D%95%E5%86%A0%E5%86%9B)
 1. [释永信被批准逮捕](https://www.zhihu.com/search?q=%E9%87%8A%E6%B0%B8%E4%BF%A1%E8%A2%AB%E6%89%B9%E5%87%86%E9%80%AE%E6%8D%95)
