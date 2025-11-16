@@ -1,15 +1,16 @@
 [
   { "query_display": "王曼昱卫冕全运会女单冠军", "real_query": "王曼昱卫冕全运会女单冠军" },
-  { "query_display": "教育部建议谨慎规划赴日留学安排", "real_query": "教育部建议谨慎规划赴日留学安排" },
-  { "query_display": "外交部提醒中国公民近期避免前往日本", "real_query": "外交部提醒中国公民近期避免前往日本" },
-  { "query_display": "陈梦十五运会铜牌", "real_query": "陈梦十五运会铜牌" },
-  { "query_display": "潘展乐全运会50自获铜牌", "real_query": "潘展乐全运会50自获铜牌" },
   { "query_display": "樊振东卫冕全运会男单冠军", "real_query": "樊振东卫冕全运会男单冠军" },
+  { "query_display": "教育部建议谨慎规划赴日留学安排", "real_query": "教育部建议谨慎规划赴日留学安排" },
+  { "query_display": "陈梦十五运会铜牌", "real_query": "陈梦十五运会铜牌" },
+  { "query_display": "外交部提醒中国公民近期避免前往日本", "real_query": "外交部提醒中国公民近期避免前往日本" },
   { "query_display": "释永信被批准逮捕", "real_query": "释永信被批准逮捕" },
-  { "query_display": "徐嘉余打破全国纪录", "real_query": "徐嘉余打破全国纪录" },
   { "query_display": "易烊千玺获金鸡奖影帝", "real_query": "易烊千玺获金鸡奖影帝" },
   { "query_display": "樊振东 vs 林诗栋", "real_query": "樊振东 vs 林诗栋" },
   { "query_display": "嫦娥六号月球样品首次发现晶质赤铁矿", "real_query": "嫦娥六号月球样品首次发现晶质赤铁矿" },
   { "query_display": "伯克利大学爆发冲突", "real_query": "伯克利大学爆发冲突" },
-  { "query_display": "港媒曝钟嘉欣在加拿大起诉丈夫", "real_query": "港媒曝钟嘉欣在加拿大起诉丈夫" }
+  { "query_display": "港媒曝钟嘉欣在加拿大起诉丈夫", "real_query": "港媒曝钟嘉欣在加拿大起诉丈夫" },
+  { "query_display": "解放军报发文日本全国都可能沦为战场", "real_query": "解放军报发文日本全国都可能沦为战场" },
+  { "query_display": "潘展乐全运会50自获铜牌", "real_query": "潘展乐全运会50自获铜牌" },
+  { "query_display": "徐嘉余打破全国纪录", "real_query": "徐嘉余打破全国纪录" }
 ]
