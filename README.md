@@ -14,20 +14,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Nov 18 2025 20:47:00 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Nov 18 2025 21:33:39 GMT+0800 (China Standard Time) -->
 
 1. [大学教授涉嫌造假及侵占科研经费](https://www.zhihu.com/search?q=%E5%A4%A7%E5%AD%A6%E6%95%99%E6%8E%88%E6%B6%89%E5%AB%8C%E9%80%A0%E5%81%87%E5%8F%8A%E4%BE%B5%E5%8D%A0%E7%A7%91%E7%A0%94%E7%BB%8F%E8%B4%B9)
 1. [俞敏洪在南极给员工写信翻车](https://www.zhihu.com/search?q=%E4%BF%9E%E6%95%8F%E6%B4%AA%E5%9C%A8%E5%8D%97%E6%9E%81%E7%BB%99%E5%91%98%E5%B7%A5%E5%86%99%E4%BF%A1%E7%BF%BB%E8%BD%A6)
 1. [喻恩泰被曝处心积虑闹离婚](https://www.zhihu.com/search?q=%E5%96%BB%E6%81%A9%E6%B3%B0%E8%A2%AB%E6%9B%9D%E5%A4%84%E5%BF%83%E7%A7%AF%E8%99%91%E9%97%B9%E7%A6%BB%E5%A9%9A)
 1. [易烊千玺获金鸡奖影帝](https://www.zhihu.com/search?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E8%8E%B7%E9%87%91%E9%B8%A1%E5%A5%96%E5%BD%B1%E5%B8%9D)
-1. [男子背1岁孙子徒手爬巨石](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%90%E8%83%8C1%E5%B2%81%E5%AD%99%E5%AD%90%E5%BE%92%E6%89%8B%E7%88%AC%E5%B7%A8%E7%9F%B3)
-1. [一度君华发文求救是发生了什么](https://www.zhihu.com/search?q=%E4%B8%80%E5%BA%A6%E5%90%9B%E5%8D%8E%E5%8F%91%E6%96%87%E6%B1%82%E6%95%91%E6%98%AF%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88)
 1. [日本外务省官员离开中国外交部](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E5%A4%96%E5%8A%A1%E7%9C%81%E5%AE%98%E5%91%98%E7%A6%BB%E5%BC%80%E4%B8%AD%E5%9B%BD%E5%A4%96%E4%BA%A4%E9%83%A8)
+1. [女子将公用电梯厅私用合法吗](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E5%B0%86%E5%85%AC%E7%94%A8%E7%94%B5%E6%A2%AF%E5%8E%85%E7%A7%81%E7%94%A8%E5%90%88%E6%B3%95%E5%90%97)
+1. [男子背1岁孙子徒手爬巨石](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%90%E8%83%8C1%E5%B2%81%E5%AD%99%E5%AD%90%E5%BE%92%E6%89%8B%E7%88%AC%E5%B7%A8%E7%9F%B3)
 1. [唐朝诡事录之长安](https://www.zhihu.com/search?q=%E5%94%90%E6%9C%9D%E8%AF%A1%E4%BA%8B%E5%BD%95%E4%B9%8B%E9%95%BF%E5%AE%89)
-1. [哈工大两名学生因作弊被开除学籍](https://www.zhihu.com/search?q=%E5%93%88%E5%B7%A5%E5%A4%A7%E4%B8%A4%E5%90%8D%E5%AD%A6%E7%94%9F%E5%9B%A0%E4%BD%9C%E5%BC%8A%E8%A2%AB%E5%BC%80%E9%99%A4%E5%AD%A6%E7%B1%8D)
+1. [金鸡奖获奖名单](https://www.zhihu.com/search?q=%E9%87%91%E9%B8%A1%E5%A5%96%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95)
 1. [杀人蜂有多危险](https://www.zhihu.com/search?q=%E6%9D%80%E4%BA%BA%E8%9C%82%E6%9C%89%E5%A4%9A%E5%8D%B1%E9%99%A9)
-1. [杨瀚森21分](https://www.zhihu.com/search?q=%E6%9D%A8%E7%80%9A%E6%A3%AE21%E5%88%86)
+1. [哈工大两名学生因作弊被开除学籍](https://www.zhihu.com/search?q=%E5%93%88%E5%B7%A5%E5%A4%A7%E4%B8%A4%E5%90%8D%E5%AD%A6%E7%94%9F%E5%9B%A0%E4%BD%9C%E5%BC%8A%E8%A2%AB%E5%BC%80%E9%99%A4%E5%AD%A6%E7%B1%8D)
 1. [樊振东 3-2 逆转于何一](https://www.zhihu.com/search?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%203-2%20%E9%80%86%E8%BD%AC%E4%BA%8E%E4%BD%95%E4%B8%80)
+1. [一度君华发文求救是发生了什么](https://www.zhihu.com/search?q=%E4%B8%80%E5%BA%A6%E5%90%9B%E5%8D%8E%E5%8F%91%E6%96%87%E6%B1%82%E6%95%91%E6%98%AF%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88)
+1. [杨瀚森21分](https://www.zhihu.com/search?q=%E6%9D%A8%E7%80%9A%E6%A3%AE21%E5%88%86)
 1. [王曼昱卫冕全运会女单冠军](https://www.zhihu.com/search?q=%E7%8E%8B%E6%9B%BC%E6%98%B1%E5%8D%AB%E5%86%95%E5%85%A8%E8%BF%90%E4%BC%9A%E5%A5%B3%E5%8D%95%E5%86%A0%E5%86%9B)
 1. [如何看待普速列车车厢连接处允许吸烟](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E6%99%AE%E9%80%9F%E5%88%97%E8%BD%A6%E8%BD%A6%E5%8E%A2%E8%BF%9E%E6%8E%A5%E5%A4%84%E5%85%81%E8%AE%B8%E5%90%B8%E7%83%9F)
 1. [LPL官宣转会新规](https://www.zhihu.com/search?q=LPL%E5%AE%98%E5%AE%A3%E8%BD%AC%E4%BC%9A%E6%96%B0%E8%A7%84)
