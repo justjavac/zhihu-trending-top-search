@@ -14,12 +14,12 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Nov 20 2025 05:16:54 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Nov 20 2025 06:20:55 GMT+0800 (China Standard Time) -->
 
 1. [日本外务省官员离开中国外交部](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E5%A4%96%E5%8A%A1%E7%9C%81%E5%AE%98%E5%91%98%E7%A6%BB%E5%BC%80%E4%B8%AD%E5%9B%BD%E5%A4%96%E4%BA%A4%E9%83%A8)
 1. [日媒称中国向日方通报暂停进口日本水产品](https://www.zhihu.com/search?q=%E6%97%A5%E5%AA%92%E7%A7%B0%E4%B8%AD%E5%9B%BD%E5%90%91%E6%97%A5%E6%96%B9%E9%80%9A%E6%8A%A5%E6%9A%82%E5%81%9C%E8%BF%9B%E5%8F%A3%E6%97%A5%E6%9C%AC%E6%B0%B4%E4%BA%A7%E5%93%81)
 1. [郭某严重学术不端高校已报案](https://www.zhihu.com/search?q=%E9%83%AD%E6%9F%90%E4%B8%A5%E9%87%8D%E5%AD%A6%E6%9C%AF%E4%B8%8D%E7%AB%AF%E9%AB%98%E6%A0%A1%E5%B7%B2%E6%8A%A5%E6%A1%88)
-1. [如何看待普速列车车厢连接处允许吸烟](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E6%99%AE%E9%80%9F%E5%88%97%E8%BD%A6%E8%BD%A6%E5%8E%A2%E8%BF%9E%E6%8E%A5%E5%A4%84%E5%85%81%E8%AE%B8%E5%90%B8%E7%83%9F)
+1. [为何没有食肉动物吃骆驼](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E6%B2%A1%E6%9C%89%E9%A3%9F%E8%82%89%E5%8A%A8%E7%89%A9%E5%90%83%E9%AA%86%E9%A9%BC)
 1. [喻恩泰被曝处心积虑闹离婚](https://www.zhihu.com/search?q=%E5%96%BB%E6%81%A9%E6%B3%B0%E8%A2%AB%E6%9B%9D%E5%A4%84%E5%BF%83%E7%A7%AF%E8%99%91%E9%97%B9%E7%A6%BB%E5%A9%9A)
 1. [江苏科技大学通报郭某学术造假](https://www.zhihu.com/search?q=%E6%B1%9F%E8%8B%8F%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E9%80%9A%E6%8A%A5%E9%83%AD%E6%9F%90%E5%AD%A6%E6%9C%AF%E9%80%A0%E5%81%87)
 1. [国安部披露近年破获一批日本间谍案](https://www.zhihu.com/search?q=%E5%9B%BD%E5%AE%89%E9%83%A8%E6%8A%AB%E9%9C%B2%E8%BF%91%E5%B9%B4%E7%A0%B4%E8%8E%B7%E4%B8%80%E6%89%B9%E6%97%A5%E6%9C%AC%E9%97%B4%E8%B0%8D%E6%A1%88)
@@ -28,6 +28,7 @@
 1. [Cloudflare全球网络中断](https://www.zhihu.com/search?q=Cloudflare%E5%85%A8%E7%90%83%E7%BD%91%E7%BB%9C%E4%B8%AD%E6%96%AD)
 1. [为什么没人把《成龙历险记》拍成电影](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B2%A1%E4%BA%BA%E6%8A%8A%E3%80%8A%E6%88%90%E9%BE%99%E5%8E%86%E9%99%A9%E8%AE%B0%E3%80%8B%E6%8B%8D%E6%88%90%E7%94%B5%E5%BD%B1)
 1. [曝喻恩泰出轨律师](https://www.zhihu.com/search?q=%E6%9B%9D%E5%96%BB%E6%81%A9%E6%B3%B0%E5%87%BA%E8%BD%A8%E5%BE%8B%E5%B8%88)
+1. [如何看待普速列车车厢连接处允许吸烟](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E6%99%AE%E9%80%9F%E5%88%97%E8%BD%A6%E8%BD%A6%E5%8E%A2%E8%BF%9E%E6%8E%A5%E5%A4%84%E5%85%81%E8%AE%B8%E5%90%B8%E7%83%9F)
 1. [张博恒失误时鼓掌的裁判被终止执裁](https://www.zhihu.com/search?q=%E5%BC%A0%E5%8D%9A%E6%81%92%E5%A4%B1%E8%AF%AF%E6%97%B6%E9%BC%93%E6%8E%8C%E7%9A%84%E8%A3%81%E5%88%A4%E8%A2%AB%E7%BB%88%E6%AD%A2%E6%89%A7%E8%A3%81)
 1. [新华书店顾客只看不买为何没有倒闭](https://www.zhihu.com/search?q=%E6%96%B0%E5%8D%8E%E4%B9%A6%E5%BA%97%E9%A1%BE%E5%AE%A2%E5%8F%AA%E7%9C%8B%E4%B8%8D%E4%B9%B0%E4%B8%BA%E4%BD%95%E6%B2%A1%E6%9C%89%E5%80%92%E9%97%AD)
 1. [杭州一学校校服 970 元且年年换款](https://www.zhihu.com/search?q=%E6%9D%AD%E5%B7%9E%E4%B8%80%E5%AD%A6%E6%A0%A1%E6%A0%A1%E6%9C%8D%20970%20%E5%85%83%E4%B8%94%E5%B9%B4%E5%B9%B4%E6%8D%A2%E6%AC%BE)
