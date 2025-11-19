@@ -14,19 +14,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Nov 19 2025 19:19:07 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Nov 19 2025 20:47:25 GMT+0800 (China Standard Time) -->
 
-1. [日本外务省官员离开中国外交部](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E5%A4%96%E5%8A%A1%E7%9C%81%E5%AE%98%E5%91%98%E7%A6%BB%E5%BC%80%E4%B8%AD%E5%9B%BD%E5%A4%96%E4%BA%A4%E9%83%A8)
 1. [俞敏洪在南极给员工写信翻车](https://www.zhihu.com/search?q=%E4%BF%9E%E6%95%8F%E6%B4%AA%E5%9C%A8%E5%8D%97%E6%9E%81%E7%BB%99%E5%91%98%E5%B7%A5%E5%86%99%E4%BF%A1%E7%BF%BB%E8%BD%A6)
+1. [日本外务省官员离开中国外交部](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E5%A4%96%E5%8A%A1%E7%9C%81%E5%AE%98%E5%91%98%E7%A6%BB%E5%BC%80%E4%B8%AD%E5%9B%BD%E5%A4%96%E4%BA%A4%E9%83%A8)
 1. [喻恩泰被曝处心积虑闹离婚](https://www.zhihu.com/search?q=%E5%96%BB%E6%81%A9%E6%B3%B0%E8%A2%AB%E6%9B%9D%E5%A4%84%E5%BF%83%E7%A7%AF%E8%99%91%E9%97%B9%E7%A6%BB%E5%A9%9A)
+1. [为什么中国石化叫 SINOPEC](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%AD%E5%9B%BD%E7%9F%B3%E5%8C%96%E5%8F%AB%20SINOPEC)
 1. [郭某严重学术不端高校已报案](https://www.zhihu.com/search?q=%E9%83%AD%E6%9F%90%E4%B8%A5%E9%87%8D%E5%AD%A6%E6%9C%AF%E4%B8%8D%E7%AB%AF%E9%AB%98%E6%A0%A1%E5%B7%B2%E6%8A%A5%E6%A1%88)
-1. [胖东来招聘翻译助理年薪不低于 50 万元](https://www.zhihu.com/search?q=%E8%83%96%E4%B8%9C%E6%9D%A5%E6%8B%9B%E8%81%98%E7%BF%BB%E8%AF%91%E5%8A%A9%E7%90%86%E5%B9%B4%E8%96%AA%E4%B8%8D%E4%BD%8E%E4%BA%8E%2050%20%E4%B8%87%E5%85%83)
 1. [江苏科技大学通报郭某学术造假](https://www.zhihu.com/search?q=%E6%B1%9F%E8%8B%8F%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E9%80%9A%E6%8A%A5%E9%83%AD%E6%9F%90%E5%AD%A6%E6%9C%AF%E9%80%A0%E5%81%87)
-1. [易烊千玺获金鸡奖影帝](https://www.zhihu.com/search?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E8%8E%B7%E9%87%91%E9%B8%A1%E5%A5%96%E5%BD%B1%E5%B8%9D)
-1. [国安部披露近年破获一批日本间谍案](https://www.zhihu.com/search?q=%E5%9B%BD%E5%AE%89%E9%83%A8%E6%8A%AB%E9%9C%B2%E8%BF%91%E5%B9%B4%E7%A0%B4%E8%8E%B7%E4%B8%80%E6%89%B9%E6%97%A5%E6%9C%AC%E9%97%B4%E8%B0%8D%E6%A1%88)
-1. [苹果这家公司伟大之处在哪里](https://www.zhihu.com/search?q=%E8%8B%B9%E6%9E%9C%E8%BF%99%E5%AE%B6%E5%85%AC%E5%8F%B8%E4%BC%9F%E5%A4%A7%E4%B9%8B%E5%A4%84%E5%9C%A8%E5%93%AA%E9%87%8C)
 1. [日媒称中国向日方通报暂停进口日本水产品](https://www.zhihu.com/search?q=%E6%97%A5%E5%AA%92%E7%A7%B0%E4%B8%AD%E5%9B%BD%E5%90%91%E6%97%A5%E6%96%B9%E9%80%9A%E6%8A%A5%E6%9A%82%E5%81%9C%E8%BF%9B%E5%8F%A3%E6%97%A5%E6%9C%AC%E6%B0%B4%E4%BA%A7%E5%93%81)
+1. [像全红婵这样的家庭是怎么被跳水队发现的](https://www.zhihu.com/search?q=%E5%83%8F%E5%85%A8%E7%BA%A2%E5%A9%B5%E8%BF%99%E6%A0%B7%E7%9A%84%E5%AE%B6%E5%BA%AD%E6%98%AF%E6%80%8E%E4%B9%88%E8%A2%AB%E8%B7%B3%E6%B0%B4%E9%98%9F%E5%8F%91%E7%8E%B0%E7%9A%84)
+1. [国安部披露近年破获一批日本间谍案](https://www.zhihu.com/search?q=%E5%9B%BD%E5%AE%89%E9%83%A8%E6%8A%AB%E9%9C%B2%E8%BF%91%E5%B9%B4%E7%A0%B4%E8%8E%B7%E4%B8%80%E6%89%B9%E6%97%A5%E6%9C%AC%E9%97%B4%E8%B0%8D%E6%A1%88)
+1. [易烊千玺获金鸡奖影帝](https://www.zhihu.com/search?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E8%8E%B7%E9%87%91%E9%B8%A1%E5%A5%96%E5%BD%B1%E5%B8%9D)
+1. [有理工科博士没用过 LaTeX 么](https://www.zhihu.com/search?q=%E6%9C%89%E7%90%86%E5%B7%A5%E7%A7%91%E5%8D%9A%E5%A3%AB%E6%B2%A1%E7%94%A8%E8%BF%87%20LaTeX%20%E4%B9%88)
 1. [谷歌正式发布Gemini 3](https://www.zhihu.com/search?q=%E8%B0%B7%E6%AD%8C%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83Gemini%203)
+1. [胖东来招聘翻译助理年薪不低于 50 万元](https://www.zhihu.com/search?q=%E8%83%96%E4%B8%9C%E6%9D%A5%E6%8B%9B%E8%81%98%E7%BF%BB%E8%AF%91%E5%8A%A9%E7%90%86%E5%B9%B4%E8%96%AA%E4%B8%8D%E4%BD%8E%E4%BA%8E%2050%20%E4%B8%87%E5%85%83)
+1. [苹果这家公司伟大之处在哪里](https://www.zhihu.com/search?q=%E8%8B%B9%E6%9E%9C%E8%BF%99%E5%AE%B6%E5%85%AC%E5%8F%B8%E4%BC%9F%E5%A4%A7%E4%B9%8B%E5%A4%84%E5%9C%A8%E5%93%AA%E9%87%8C)
 1. [王者荣耀匹配机制将以段位为主能力分为辅](https://www.zhihu.com/search?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E5%8C%B9%E9%85%8D%E6%9C%BA%E5%88%B6%E5%B0%86%E4%BB%A5%E6%AE%B5%E4%BD%8D%E4%B8%BA%E4%B8%BB%E8%83%BD%E5%8A%9B%E5%88%86%E4%B8%BA%E8%BE%85)
 1. [《新闻女王 2》广告数量创纪录](https://www.zhihu.com/search?q=%E3%80%8A%E6%96%B0%E9%97%BB%E5%A5%B3%E7%8E%8B%202%E3%80%8B%E5%B9%BF%E5%91%8A%E6%95%B0%E9%87%8F%E5%88%9B%E7%BA%AA%E5%BD%95)
 1. [影视作品中哪个武器最奇葩](https://www.zhihu.com/search?q=%E5%BD%B1%E8%A7%86%E4%BD%9C%E5%93%81%E4%B8%AD%E5%93%AA%E4%B8%AA%E6%AD%A6%E5%99%A8%E6%9C%80%E5%A5%87%E8%91%A9)
@@ -45,7 +48,6 @@
 1. [哈工大两名学生因作弊被开除学籍](https://www.zhihu.com/search?q=%E5%93%88%E5%B7%A5%E5%A4%A7%E4%B8%A4%E5%90%8D%E5%AD%A6%E7%94%9F%E5%9B%A0%E4%BD%9C%E5%BC%8A%E8%A2%AB%E5%BC%80%E9%99%A4%E5%AD%A6%E7%B1%8D)
 1. [汽车开到报废和开 8 年卖掉哪个更划算](https://www.zhihu.com/search?q=%E6%B1%BD%E8%BD%A6%E5%BC%80%E5%88%B0%E6%8A%A5%E5%BA%9F%E5%92%8C%E5%BC%80%208%20%E5%B9%B4%E5%8D%96%E6%8E%89%E5%93%AA%E4%B8%AA%E6%9B%B4%E5%88%92%E7%AE%97)
 1. [Cloudflare全球网络中断](https://www.zhihu.com/search?q=Cloudflare%E5%85%A8%E7%90%83%E7%BD%91%E7%BB%9C%E4%B8%AD%E6%96%AD)
-1. [为什么中国石化叫 SINOPEC](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%AD%E5%9B%BD%E7%9F%B3%E5%8C%96%E5%8F%AB%20SINOPEC)
 1. [突然中奖一千万你要做什么](https://www.zhihu.com/search?q=%E7%AA%81%E7%84%B6%E4%B8%AD%E5%A5%96%E4%B8%80%E5%8D%83%E4%B8%87%E4%BD%A0%E8%A6%81%E5%81%9A%E4%BB%80%E4%B9%88)
 1. [杨瀚森21分](https://www.zhihu.com/search?q=%E6%9D%A8%E7%80%9A%E6%A3%AE21%E5%88%86)
 1. [可不可以扒一扒各个行业的潜规则](https://www.zhihu.com/search?q=%E5%8F%AF%E4%B8%8D%E5%8F%AF%E4%BB%A5%E6%89%92%E4%B8%80%E6%89%92%E5%90%84%E4%B8%AA%E8%A1%8C%E4%B8%9A%E7%9A%84%E6%BD%9C%E8%A7%84%E5%88%99)
