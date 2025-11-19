@@ -14,11 +14,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Nov 19 2025 13:22:09 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Nov 19 2025 14:33:22 GMT+0800 (China Standard Time) -->
 
-1. [大学教授涉嫌造假及侵占科研经费](https://www.zhihu.com/search?q=%E5%A4%A7%E5%AD%A6%E6%95%99%E6%8E%88%E6%B6%89%E5%AB%8C%E9%80%A0%E5%81%87%E5%8F%8A%E4%BE%B5%E5%8D%A0%E7%A7%91%E7%A0%94%E7%BB%8F%E8%B4%B9)
-1. [俞敏洪在南极给员工写信翻车](https://www.zhihu.com/search?q=%E4%BF%9E%E6%95%8F%E6%B4%AA%E5%9C%A8%E5%8D%97%E6%9E%81%E7%BB%99%E5%91%98%E5%B7%A5%E5%86%99%E4%BF%A1%E7%BF%BB%E8%BD%A6)
 1. [郭某严重学术不端高校已报案](https://www.zhihu.com/search?q=%E9%83%AD%E6%9F%90%E4%B8%A5%E9%87%8D%E5%AD%A6%E6%9C%AF%E4%B8%8D%E7%AB%AF%E9%AB%98%E6%A0%A1%E5%B7%B2%E6%8A%A5%E6%A1%88)
+1. [俞敏洪在南极给员工写信翻车](https://www.zhihu.com/search?q=%E4%BF%9E%E6%95%8F%E6%B4%AA%E5%9C%A8%E5%8D%97%E6%9E%81%E7%BB%99%E5%91%98%E5%B7%A5%E5%86%99%E4%BF%A1%E7%BF%BB%E8%BD%A6)
+1. [喻恩泰被曝处心积虑闹离婚](https://www.zhihu.com/search?q=%E5%96%BB%E6%81%A9%E6%B3%B0%E8%A2%AB%E6%9B%9D%E5%A4%84%E5%BF%83%E7%A7%AF%E8%99%91%E9%97%B9%E7%A6%BB%E5%A9%9A)
 1. [谷歌正式发布Gemini 3](https://www.zhihu.com/search?q=%E8%B0%B7%E6%AD%8C%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83Gemini%203)
 1. [江苏科技大学通报郭某学术造假](https://www.zhihu.com/search?q=%E6%B1%9F%E8%8B%8F%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E9%80%9A%E6%8A%A5%E9%83%AD%E6%9F%90%E5%AD%A6%E6%9C%AF%E9%80%A0%E5%81%87)
 1. [吴艳妮12秒98晋级决赛](https://www.zhihu.com/search?q=%E5%90%B4%E8%89%B3%E5%A6%AE12%E7%A7%9298%E6%99%8B%E7%BA%A7%E5%86%B3%E8%B5%9B)
@@ -27,8 +27,8 @@
 1. [四川男篮联名讨薪](https://www.zhihu.com/search?q=%E5%9B%9B%E5%B7%9D%E7%94%B7%E7%AF%AE%E8%81%94%E5%90%8D%E8%AE%A8%E8%96%AA)
 1. [中国琉球学学科项目获批启动](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E7%90%89%E7%90%83%E5%AD%A6%E5%AD%A6%E7%A7%91%E9%A1%B9%E7%9B%AE%E8%8E%B7%E6%89%B9%E5%90%AF%E5%8A%A8)
 1. [国安部披露近年破获一批日本间谍案](https://www.zhihu.com/search?q=%E5%9B%BD%E5%AE%89%E9%83%A8%E6%8A%AB%E9%9C%B2%E8%BF%91%E5%B9%B4%E7%A0%B4%E8%8E%B7%E4%B8%80%E6%89%B9%E6%97%A5%E6%9C%AC%E9%97%B4%E8%B0%8D%E6%A1%88)
-1. [喻恩泰被曝处心积虑闹离婚](https://www.zhihu.com/search?q=%E5%96%BB%E6%81%A9%E6%B3%B0%E8%A2%AB%E6%9B%9D%E5%A4%84%E5%BF%83%E7%A7%AF%E8%99%91%E9%97%B9%E7%A6%BB%E5%A9%9A)
 1. [易烊千玺获金鸡奖影帝](https://www.zhihu.com/search?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E8%8E%B7%E9%87%91%E9%B8%A1%E5%A5%96%E5%BD%B1%E5%B8%9D)
+1. [大学教授涉嫌造假及侵占科研经费](https://www.zhihu.com/search?q=%E5%A4%A7%E5%AD%A6%E6%95%99%E6%8E%88%E6%B6%89%E5%AB%8C%E9%80%A0%E5%81%87%E5%8F%8A%E4%BE%B5%E5%8D%A0%E7%A7%91%E7%A0%94%E7%BB%8F%E8%B4%B9)
 1. [男童高烧初诊感冒离世甲流诊疗存疑](https://www.zhihu.com/search?q=%E7%94%B7%E7%AB%A5%E9%AB%98%E7%83%A7%E5%88%9D%E8%AF%8A%E6%84%9F%E5%86%92%E7%A6%BB%E4%B8%96%E7%94%B2%E6%B5%81%E8%AF%8A%E7%96%97%E5%AD%98%E7%96%91)
 1. [男子背1岁孙子徒手爬巨石](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%90%E8%83%8C1%E5%B2%81%E5%AD%99%E5%AD%90%E5%BE%92%E6%89%8B%E7%88%AC%E5%B7%A8%E7%9F%B3)
 1. [唐朝诡事录之长安](https://www.zhihu.com/search?q=%E5%94%90%E6%9C%9D%E8%AF%A1%E4%BA%8B%E5%BD%95%E4%B9%8B%E9%95%BF%E5%AE%89)
