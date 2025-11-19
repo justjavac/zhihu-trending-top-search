@@ -14,11 +14,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Nov 19 2025 12:26:51 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Nov 19 2025 13:22:09 GMT+0800 (China Standard Time) -->
 
-1. [郭某严重学术不端高校已报案](https://www.zhihu.com/search?q=%E9%83%AD%E6%9F%90%E4%B8%A5%E9%87%8D%E5%AD%A6%E6%9C%AF%E4%B8%8D%E7%AB%AF%E9%AB%98%E6%A0%A1%E5%B7%B2%E6%8A%A5%E6%A1%88)
-1. [俞敏洪在南极给员工写信翻车](https://www.zhihu.com/search?q=%E4%BF%9E%E6%95%8F%E6%B4%AA%E5%9C%A8%E5%8D%97%E6%9E%81%E7%BB%99%E5%91%98%E5%B7%A5%E5%86%99%E4%BF%A1%E7%BF%BB%E8%BD%A6)
 1. [大学教授涉嫌造假及侵占科研经费](https://www.zhihu.com/search?q=%E5%A4%A7%E5%AD%A6%E6%95%99%E6%8E%88%E6%B6%89%E5%AB%8C%E9%80%A0%E5%81%87%E5%8F%8A%E4%BE%B5%E5%8D%A0%E7%A7%91%E7%A0%94%E7%BB%8F%E8%B4%B9)
+1. [俞敏洪在南极给员工写信翻车](https://www.zhihu.com/search?q=%E4%BF%9E%E6%95%8F%E6%B4%AA%E5%9C%A8%E5%8D%97%E6%9E%81%E7%BB%99%E5%91%98%E5%B7%A5%E5%86%99%E4%BF%A1%E7%BF%BB%E8%BD%A6)
+1. [郭某严重学术不端高校已报案](https://www.zhihu.com/search?q=%E9%83%AD%E6%9F%90%E4%B8%A5%E9%87%8D%E5%AD%A6%E6%9C%AF%E4%B8%8D%E7%AB%AF%E9%AB%98%E6%A0%A1%E5%B7%B2%E6%8A%A5%E6%A1%88)
 1. [谷歌正式发布Gemini 3](https://www.zhihu.com/search?q=%E8%B0%B7%E6%AD%8C%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83Gemini%203)
 1. [江苏科技大学通报郭某学术造假](https://www.zhihu.com/search?q=%E6%B1%9F%E8%8B%8F%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E9%80%9A%E6%8A%A5%E9%83%AD%E6%9F%90%E5%AD%A6%E6%9C%AF%E9%80%A0%E5%81%87)
 1. [吴艳妮12秒98晋级决赛](https://www.zhihu.com/search?q=%E5%90%B4%E8%89%B3%E5%A6%AE12%E7%A7%9298%E6%99%8B%E7%BA%A7%E5%86%B3%E8%B5%9B)
