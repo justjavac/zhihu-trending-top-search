@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Nov 20 2025 21:31:45 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Nov 20 2025 22:22:26 GMT+0800 (China Standard Time) -->
 
 1. [樊振东3-1王楚钦](https://www.zhihu.com/search?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C3-1%E7%8E%8B%E6%A5%9A%E9%92%A6)
 1. [乒乓球男团北京夺冠](https://www.zhihu.com/search?q=%E4%B9%92%E4%B9%93%E7%90%83%E7%94%B7%E5%9B%A2%E5%8C%97%E4%BA%AC%E5%A4%BA%E5%86%A0)
@@ -24,12 +24,13 @@
 1. [黄友政马龙vs许昕周恺](https://www.zhihu.com/search?q=%E9%BB%84%E5%8F%8B%E6%94%BF%E9%A9%AC%E9%BE%99vs%E8%AE%B8%E6%98%95%E5%91%A8%E6%81%BA)
 1. [苏炳添最后一舞](https://www.zhihu.com/search?q=%E8%8B%8F%E7%82%B3%E6%B7%BB%E6%9C%80%E5%90%8E%E4%B8%80%E8%88%9E)
 1. [郭某严重学术不端高校已报案](https://www.zhihu.com/search?q=%E9%83%AD%E6%9F%90%E4%B8%A5%E9%87%8D%E5%AD%A6%E6%9C%AF%E4%B8%8D%E7%AB%AF%E9%AB%98%E6%A0%A1%E5%B7%B2%E6%8A%A5%E6%A1%88)
+1. [山东队夺得全运会乒乓球女团金牌](https://www.zhihu.com/search?q=%E5%B1%B1%E4%B8%9C%E9%98%9F%E5%A4%BA%E5%BE%97%E5%85%A8%E8%BF%90%E4%BC%9A%E4%B9%92%E4%B9%93%E7%90%83%E5%A5%B3%E5%9B%A2%E9%87%91%E7%89%8C)
+1. [为什么中国选择发展高铁而不是廉价航空](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%AD%E5%9B%BD%E9%80%89%E6%8B%A9%E5%8F%91%E5%B1%95%E9%AB%98%E9%93%81%E8%80%8C%E4%B8%8D%E6%98%AF%E5%BB%89%E4%BB%B7%E8%88%AA%E7%A9%BA)
+1. [江苏科技大学通报郭某学术造假](https://www.zhihu.com/search?q=%E6%B1%9F%E8%8B%8F%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E9%80%9A%E6%8A%A5%E9%83%AD%E6%9F%90%E5%AD%A6%E6%9C%AF%E9%80%A0%E5%81%87)
+1. [曝喻恩泰出轨律师](https://www.zhihu.com/search?q=%E6%9B%9D%E5%96%BB%E6%81%A9%E6%B3%B0%E5%87%BA%E8%BD%A8%E5%BE%8B%E5%B8%88)
 1. [喻恩泰被曝处心积虑闹离婚](https://www.zhihu.com/search?q=%E5%96%BB%E6%81%A9%E6%B3%B0%E8%A2%AB%E6%9B%9D%E5%A4%84%E5%BF%83%E7%A7%AF%E8%99%91%E9%97%B9%E7%A6%BB%E5%A9%9A)
 1. [苹果这家公司伟大之处在哪里](https://www.zhihu.com/search?q=%E8%8B%B9%E6%9E%9C%E8%BF%99%E5%AE%B6%E5%85%AC%E5%8F%B8%E4%BC%9F%E5%A4%A7%E4%B9%8B%E5%A4%84%E5%9C%A8%E5%93%AA%E9%87%8C)
-1. [山东队夺得全运会乒乓球女团金牌](https://www.zhihu.com/search?q=%E5%B1%B1%E4%B8%9C%E9%98%9F%E5%A4%BA%E5%BE%97%E5%85%A8%E8%BF%90%E4%BC%9A%E4%B9%92%E4%B9%93%E7%90%83%E5%A5%B3%E5%9B%A2%E9%87%91%E7%89%8C)
-1. [江苏科技大学通报郭某学术造假](https://www.zhihu.com/search?q=%E6%B1%9F%E8%8B%8F%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E9%80%9A%E6%8A%A5%E9%83%AD%E6%9F%90%E5%AD%A6%E6%9C%AF%E9%80%A0%E5%81%87)
 1. [全运会乒乓球男团决赛对阵](https://www.zhihu.com/search?q=%E5%85%A8%E8%BF%90%E4%BC%9A%E4%B9%92%E4%B9%93%E7%90%83%E7%94%B7%E5%9B%A2%E5%86%B3%E8%B5%9B%E5%AF%B9%E9%98%B5)
-1. [曝喻恩泰出轨律师](https://www.zhihu.com/search?q=%E6%9B%9D%E5%96%BB%E6%81%A9%E6%B3%B0%E5%87%BA%E8%BD%A8%E5%BE%8B%E5%B8%88)
 1. [王者荣耀匹配机制将以段位为主能力分为辅](https://www.zhihu.com/search?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E5%8C%B9%E9%85%8D%E6%9C%BA%E5%88%B6%E5%B0%86%E4%BB%A5%E6%AE%B5%E4%BD%8D%E4%B8%BA%E4%B8%BB%E8%83%BD%E5%8A%9B%E5%88%86%E4%B8%BA%E8%BE%85)
 1. [国安部披露近年破获一批日本间谍案](https://www.zhihu.com/search?q=%E5%9B%BD%E5%AE%89%E9%83%A8%E6%8A%AB%E9%9C%B2%E8%BF%91%E5%B9%B4%E7%A0%B4%E8%8E%B7%E4%B8%80%E6%89%B9%E6%97%A5%E6%9C%AC%E9%97%B4%E8%B0%8D%E6%A1%88)
 1. [胖东来招聘翻译助理年薪不低于 50 万元](https://www.zhihu.com/search?q=%E8%83%96%E4%B8%9C%E6%9D%A5%E6%8B%9B%E8%81%98%E7%BF%BB%E8%AF%91%E5%8A%A9%E7%90%86%E5%B9%B4%E8%96%AA%E4%B8%8D%E4%BD%8E%E4%BA%8E%2050%20%E4%B8%87%E5%85%83)
