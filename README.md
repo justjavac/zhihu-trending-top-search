@@ -14,21 +14,23 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Nov 21 2025 03:17:31 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Nov 21 2025 04:25:47 GMT+0800 (China Standard Time) -->
 
 1. [日媒称中国向日方通报暂停进口日本水产品](https://www.zhihu.com/search?q=%E6%97%A5%E5%AA%92%E7%A7%B0%E4%B8%AD%E5%9B%BD%E5%90%91%E6%97%A5%E6%96%B9%E9%80%9A%E6%8A%A5%E6%9A%82%E5%81%9C%E8%BF%9B%E5%8F%A3%E6%97%A5%E6%9C%AC%E6%B0%B4%E4%BA%A7%E5%93%81)
-1. [乒乓球男团北京夺冠](https://www.zhihu.com/search?q=%E4%B9%92%E4%B9%93%E7%90%83%E7%94%B7%E5%9B%A2%E5%8C%97%E4%BA%AC%E5%A4%BA%E5%86%A0)
 1. [郭某严重学术不端高校已报案](https://www.zhihu.com/search?q=%E9%83%AD%E6%9F%90%E4%B8%A5%E9%87%8D%E5%AD%A6%E6%9C%AF%E4%B8%8D%E7%AB%AF%E9%AB%98%E6%A0%A1%E5%B7%B2%E6%8A%A5%E6%A1%88)
 1. [樊振东3-1王楚钦](https://www.zhihu.com/search?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C3-1%E7%8E%8B%E6%A5%9A%E9%92%A6)
-1. [上海男团银牌](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E7%94%B7%E5%9B%A2%E9%93%B6%E7%89%8C)
-1. [苏炳添最后一舞](https://www.zhihu.com/search?q=%E8%8B%8F%E7%82%B3%E6%B7%BB%E6%9C%80%E5%90%8E%E4%B8%80%E8%88%9E)
-1. [突然中奖一千万你要做什么](https://www.zhihu.com/search?q=%E7%AA%81%E7%84%B6%E4%B8%AD%E5%A5%96%E4%B8%80%E5%8D%83%E4%B8%87%E4%BD%A0%E8%A6%81%E5%81%9A%E4%BB%80%E4%B9%88)
+1. [杭州一学校校服 970 元且年年换款](https://www.zhihu.com/search?q=%E6%9D%AD%E5%B7%9E%E4%B8%80%E5%AD%A6%E6%A0%A1%E6%A0%A1%E6%9C%8D%20970%20%E5%85%83%E4%B8%94%E5%B9%B4%E5%B9%B4%E6%8D%A2%E6%AC%BE)
 1. [山东队夺得全运会乒乓球女团金牌](https://www.zhihu.com/search?q=%E5%B1%B1%E4%B8%9C%E9%98%9F%E5%A4%BA%E5%BE%97%E5%85%A8%E8%BF%90%E4%BC%9A%E4%B9%92%E4%B9%93%E7%90%83%E5%A5%B3%E5%9B%A2%E9%87%91%E7%89%8C)
 1. [王楚钦樊振东一单对决](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%A8%8A%E6%8C%AF%E4%B8%9C%E4%B8%80%E5%8D%95%E5%AF%B9%E5%86%B3)
 1. [江苏科技大学通报郭某学术造假](https://www.zhihu.com/search?q=%E6%B1%9F%E8%8B%8F%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E9%80%9A%E6%8A%A5%E9%83%AD%E6%9F%90%E5%AD%A6%E6%9C%AF%E9%80%A0%E5%81%87)
 1. [汽车开到报废和开 8 年卖掉哪个更划算](https://www.zhihu.com/search?q=%E6%B1%BD%E8%BD%A6%E5%BC%80%E5%88%B0%E6%8A%A5%E5%BA%9F%E5%92%8C%E5%BC%80%208%20%E5%B9%B4%E5%8D%96%E6%8E%89%E5%93%AA%E4%B8%AA%E6%9B%B4%E5%88%92%E7%AE%97)
+1. [乒乓球男团北京夺冠](https://www.zhihu.com/search?q=%E4%B9%92%E4%B9%93%E7%90%83%E7%94%B7%E5%9B%A2%E5%8C%97%E4%BA%AC%E5%A4%BA%E5%86%A0)
 1. [网红橙子姐姐在柬埔寨涉诈被抓](https://www.zhihu.com/search?q=%E7%BD%91%E7%BA%A2%E6%A9%99%E5%AD%90%E5%A7%90%E5%A7%90%E5%9C%A8%E6%9F%AC%E5%9F%94%E5%AF%A8%E6%B6%89%E8%AF%88%E8%A2%AB%E6%8A%93)
+1. [江科大首席科学家伪造履历费暴露了哪些问题](https://www.zhihu.com/search?q=%E6%B1%9F%E7%A7%91%E5%A4%A7%E9%A6%96%E5%B8%AD%E7%A7%91%E5%AD%A6%E5%AE%B6%E4%BC%AA%E9%80%A0%E5%B1%A5%E5%8E%86%E8%B4%B9%E6%9A%B4%E9%9C%B2%E4%BA%86%E5%93%AA%E4%BA%9B%E9%97%AE%E9%A2%98)
 1. [曝喻恩泰出轨律师](https://www.zhihu.com/search?q=%E6%9B%9D%E5%96%BB%E6%81%A9%E6%B3%B0%E5%87%BA%E8%BD%A8%E5%BE%8B%E5%B8%88)
+1. [上海男团银牌](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E7%94%B7%E5%9B%A2%E9%93%B6%E7%89%8C)
+1. [苏炳添最后一舞](https://www.zhihu.com/search?q=%E8%8B%8F%E7%82%B3%E6%B7%BB%E6%9C%80%E5%90%8E%E4%B8%80%E8%88%9E)
+1. [突然中奖一千万你要做什么](https://www.zhihu.com/search?q=%E7%AA%81%E7%84%B6%E4%B8%AD%E5%A5%96%E4%B8%80%E5%8D%83%E4%B8%87%E4%BD%A0%E8%A6%81%E5%81%9A%E4%BB%80%E4%B9%88)
 1. [黄友政马龙vs许昕周恺](https://www.zhihu.com/search?q=%E9%BB%84%E5%8F%8B%E6%94%BF%E9%A9%AC%E9%BE%99vs%E8%AE%B8%E6%98%95%E5%91%A8%E6%81%BA)
 1. [周迅演的黄蓉为何不出彩](https://www.zhihu.com/search?q=%E5%91%A8%E8%BF%85%E6%BC%94%E7%9A%84%E9%BB%84%E8%93%89%E4%B8%BA%E4%BD%95%E4%B8%8D%E5%87%BA%E5%BD%A9)
 
