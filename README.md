@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Nov 21 2025 20:43:54 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Nov 21 2025 21:29:47 GMT+0800 (China Standard Time) -->
 
 1. [全运会闭幕式举行](https://www.zhihu.com/search?q=%E5%85%A8%E8%BF%90%E4%BC%9A%E9%97%AD%E5%B9%95%E5%BC%8F%E4%B8%BE%E8%A1%8C)
 1. [中国驻日使馆重申《联合国宪章》敌国条款](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E9%A9%BB%E6%97%A5%E4%BD%BF%E9%A6%86%E9%87%8D%E7%94%B3%E3%80%8A%E8%81%94%E5%90%88%E5%9B%BD%E5%AE%AA%E7%AB%A0%E3%80%8B%E6%95%8C%E5%9B%BD%E6%9D%A1%E6%AC%BE)
@@ -23,10 +23,12 @@
 1. [樊振东3-1王楚钦](https://www.zhihu.com/search?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C3-1%E7%8E%8B%E6%A5%9A%E9%92%A6)
 1. [郭某严重学术不端高校已报案](https://www.zhihu.com/search?q=%E9%83%AD%E6%9F%90%E4%B8%A5%E9%87%8D%E5%AD%A6%E6%9C%AF%E4%B8%8D%E7%AB%AF%E9%AB%98%E6%A0%A1%E5%B7%B2%E6%8A%A5%E6%A1%88)
 1. [中日外交风波](https://www.zhihu.com/search?q=%E4%B8%AD%E6%97%A5%E5%A4%96%E4%BA%A4%E9%A3%8E%E6%B3%A2)
-1. [杭州一学校校服 970 元且年年换款](https://www.zhihu.com/search?q=%E6%9D%AD%E5%B7%9E%E4%B8%80%E5%AD%A6%E6%A0%A1%E6%A0%A1%E6%9C%8D%20970%20%E5%85%83%E4%B8%94%E5%B9%B4%E5%B9%B4%E6%8D%A2%E6%AC%BE)
+1. [俞敏洪在南极发全员信庆祝周年引发争议](https://www.zhihu.com/search?q=%E4%BF%9E%E6%95%8F%E6%B4%AA%E5%9C%A8%E5%8D%97%E6%9E%81%E5%8F%91%E5%85%A8%E5%91%98%E4%BF%A1%E5%BA%86%E7%A5%9D%E5%91%A8%E5%B9%B4%E5%BC%95%E5%8F%91%E4%BA%89%E8%AE%AE)
 1. [王楚钦樊振东一单对决](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%A8%8A%E6%8C%AF%E4%B8%9C%E4%B8%80%E5%8D%95%E5%AF%B9%E5%86%B3)
 1. [乒乓球男团北京夺冠](https://www.zhihu.com/search?q=%E4%B9%92%E4%B9%93%E7%90%83%E7%94%B7%E5%9B%A2%E5%8C%97%E4%BA%AC%E5%A4%BA%E5%86%A0)
 1. [江苏科技大学通报郭某学术造假](https://www.zhihu.com/search?q=%E6%B1%9F%E8%8B%8F%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E9%80%9A%E6%8A%A5%E9%83%AD%E6%9F%90%E5%AD%A6%E6%9C%AF%E9%80%A0%E5%81%87)
+1. [江科大首席科学家伪造履历费暴露了哪些问题](https://www.zhihu.com/search?q=%E6%B1%9F%E7%A7%91%E5%A4%A7%E9%A6%96%E5%B8%AD%E7%A7%91%E5%AD%A6%E5%AE%B6%E4%BC%AA%E9%80%A0%E5%B1%A5%E5%8E%86%E8%B4%B9%E6%9A%B4%E9%9C%B2%E4%BA%86%E5%93%AA%E4%BA%9B%E9%97%AE%E9%A2%98)
+1. [杭州一学校校服 970 元且年年换款](https://www.zhihu.com/search?q=%E6%9D%AD%E5%B7%9E%E4%B8%80%E5%AD%A6%E6%A0%A1%E6%A0%A1%E6%9C%8D%20970%20%E5%85%83%E4%B8%94%E5%B9%B4%E5%B9%B4%E6%8D%A2%E6%AC%BE)
 1. [为什么没人把《成龙历险记》拍成电影](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B2%A1%E4%BA%BA%E6%8A%8A%E3%80%8A%E6%88%90%E9%BE%99%E5%8E%86%E9%99%A9%E8%AE%B0%E3%80%8B%E6%8B%8D%E6%88%90%E7%94%B5%E5%BD%B1)
 1. [全运会闭幕式](https://www.zhihu.com/search?q=%E5%85%A8%E8%BF%90%E4%BC%9A%E9%97%AD%E5%B9%95%E5%BC%8F)
 1. [为什么中国选择发展高铁而不是廉价航空](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%AD%E5%9B%BD%E9%80%89%E6%8B%A9%E5%8F%91%E5%B1%95%E9%AB%98%E9%93%81%E8%80%8C%E4%B8%8D%E6%98%AF%E5%BB%89%E4%BB%B7%E8%88%AA%E7%A9%BA)
@@ -56,7 +58,6 @@
 1. [iPhone 17 Pro 被擦掉色](https://www.zhihu.com/search?q=iPhone%2017%20Pro%20%E8%A2%AB%E6%93%A6%E6%8E%89%E8%89%B2)
 1. [网红橙子姐姐在柬埔寨涉诈被抓](https://www.zhihu.com/search?q=%E7%BD%91%E7%BA%A2%E6%A9%99%E5%AD%90%E5%A7%90%E5%A7%90%E5%9C%A8%E6%9F%AC%E5%9F%94%E5%AF%A8%E6%B6%89%E8%AF%88%E8%A2%AB%E6%8A%93)
 1. [在中国搭讪有多难](https://www.zhihu.com/search?q=%E5%9C%A8%E4%B8%AD%E5%9B%BD%E6%90%AD%E8%AE%AA%E6%9C%89%E5%A4%9A%E9%9A%BE)
-1. [江科大首席科学家伪造履历费暴露了哪些问题](https://www.zhihu.com/search?q=%E6%B1%9F%E7%A7%91%E5%A4%A7%E9%A6%96%E5%B8%AD%E7%A7%91%E5%AD%A6%E5%AE%B6%E4%BC%AA%E9%80%A0%E5%B1%A5%E5%8E%86%E8%B4%B9%E6%9A%B4%E9%9C%B2%E4%BA%86%E5%93%AA%E4%BA%9B%E9%97%AE%E9%A2%98)
 1. [杀人蜂有多危险](https://www.zhihu.com/search?q=%E6%9D%80%E4%BA%BA%E8%9C%82%E6%9C%89%E5%A4%9A%E5%8D%B1%E9%99%A9)
 1. [11.11 元小米冰箱无法发货合理吗](https://www.zhihu.com/search?q=11.11%20%E5%85%83%E5%B0%8F%E7%B1%B3%E5%86%B0%E7%AE%B1%E6%97%A0%E6%B3%95%E5%8F%91%E8%B4%A7%E5%90%88%E7%90%86%E5%90%97)
 1. [日媒称中国向日方通报暂停进口日本水产品](https://www.zhihu.com/search?q=%E6%97%A5%E5%AA%92%E7%A7%B0%E4%B8%AD%E5%9B%BD%E5%90%91%E6%97%A5%E6%96%B9%E9%80%9A%E6%8A%A5%E6%9A%82%E5%81%9C%E8%BF%9B%E5%8F%A3%E6%97%A5%E6%9C%AC%E6%B0%B4%E4%BA%A7%E5%93%81)
