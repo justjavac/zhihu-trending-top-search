@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Nov 23 2025 02:29:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Nov 23 2025 03:16:15 GMT+0800 (China Standard Time) -->
 
 1. [中日外交风波](https://www.zhihu.com/search?q=%E4%B8%AD%E6%97%A5%E5%A4%96%E4%BA%A4%E9%A3%8E%E6%B3%A2)
 1. [中国驻日使馆重申《联合国宪章》敌国条款](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E9%A9%BB%E6%97%A5%E4%BD%BF%E9%A6%86%E9%87%8D%E7%94%B3%E3%80%8A%E8%81%94%E5%90%88%E5%9B%BD%E5%AE%AA%E7%AB%A0%E3%80%8B%E6%95%8C%E5%9B%BD%E6%9D%A1%E6%AC%BE)
