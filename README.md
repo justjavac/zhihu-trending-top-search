@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Nov 22 2025 14:30:02 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Nov 22 2025 15:19:29 GMT+0800 (China Standard Time) -->
 
 1. [中日外交风波](https://www.zhihu.com/search?q=%E4%B8%AD%E6%97%A5%E5%A4%96%E4%BA%A4%E9%A3%8E%E6%B3%A2)
 1. [中国驻日使馆重申《联合国宪章》敌国条款](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E9%A9%BB%E6%97%A5%E4%BD%BF%E9%A6%86%E9%87%8D%E7%94%B3%E3%80%8A%E8%81%94%E5%90%88%E5%9B%BD%E5%AE%AA%E7%AB%A0%E3%80%8B%E6%95%8C%E5%9B%BD%E6%9D%A1%E6%AC%BE)
@@ -27,6 +27,7 @@
 1. [你见过哪些神级翻译](https://www.zhihu.com/search?q=%E4%BD%A0%E8%A7%81%E8%BF%87%E5%93%AA%E4%BA%9B%E7%A5%9E%E7%BA%A7%E7%BF%BB%E8%AF%91)
 1. [印度国产「光辉」战机坠毁](https://www.zhihu.com/search?q=%E5%8D%B0%E5%BA%A6%E5%9B%BD%E4%BA%A7%E3%80%8C%E5%85%89%E8%BE%89%E3%80%8D%E6%88%98%E6%9C%BA%E5%9D%A0%E6%AF%81)
 1. [王楚钦樊振东一单对决](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%A8%8A%E6%8C%AF%E4%B8%9C%E4%B8%80%E5%8D%95%E5%AF%B9%E5%86%B3)
+1. [既然读完大学也是去送外卖那何必去读大学呢](https://www.zhihu.com/search?q=%E6%97%A2%E7%84%B6%E8%AF%BB%E5%AE%8C%E5%A4%A7%E5%AD%A6%E4%B9%9F%E6%98%AF%E5%8E%BB%E9%80%81%E5%A4%96%E5%8D%96%E9%82%A3%E4%BD%95%E5%BF%85%E5%8E%BB%E8%AF%BB%E5%A4%A7%E5%AD%A6%E5%91%A2)
 1. [如何看待电竞选手 Bin 去割了双眼皮](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E7%94%B5%E7%AB%9E%E9%80%89%E6%89%8B%20Bin%20%E5%8E%BB%E5%89%B2%E4%BA%86%E5%8F%8C%E7%9C%BC%E7%9A%AE)
 1. [有哪些信、达、不雅的翻译](https://www.zhihu.com/search?q=%E6%9C%89%E5%93%AA%E4%BA%9B%E4%BF%A1%E3%80%81%E8%BE%BE%E3%80%81%E4%B8%8D%E9%9B%85%E7%9A%84%E7%BF%BB%E8%AF%91)
 1. [京东外卖上线独立 App 并推出京东点评](https://www.zhihu.com/search?q=%E4%BA%AC%E4%B8%9C%E5%A4%96%E5%8D%96%E4%B8%8A%E7%BA%BF%E7%8B%AC%E7%AB%8B%20App%20%E5%B9%B6%E6%8E%A8%E5%87%BA%E4%BA%AC%E4%B8%9C%E7%82%B9%E8%AF%84)
