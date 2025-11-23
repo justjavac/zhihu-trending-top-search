@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Nov 24 2025 06:20:27 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Nov 24 2025 07:19:42 GMT+0800 (China Standard Time) -->
 
 1. [抛售日本开始了](https://www.zhihu.com/search?q=%E6%8A%9B%E5%94%AE%E6%97%A5%E6%9C%AC%E5%BC%80%E5%A7%8B%E4%BA%86)
 1. [三只松鼠员工的鼠名让网友上头](https://www.zhihu.com/search?q=%E4%B8%89%E5%8F%AA%E6%9D%BE%E9%BC%A0%E5%91%98%E5%B7%A5%E7%9A%84%E9%BC%A0%E5%90%8D%E8%AE%A9%E7%BD%91%E5%8F%8B%E4%B8%8A%E5%A4%B4)
@@ -22,8 +22,8 @@
 1. [2025 年院士增选结果公示](https://www.zhihu.com/search?q=2025%20%E5%B9%B4%E9%99%A2%E5%A3%AB%E5%A2%9E%E9%80%89%E7%BB%93%E6%9E%9C%E5%85%AC%E7%A4%BA)
 1. [男子花 8 万元网购 70 平海景房](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%90%E8%8A%B1%208%20%E4%B8%87%E5%85%83%E7%BD%91%E8%B4%AD%2070%20%E5%B9%B3%E6%B5%B7%E6%99%AF%E6%88%BF)
 1. [江科大回应骗子如何当上首席科学家](https://www.zhihu.com/search?q=%E6%B1%9F%E7%A7%91%E5%A4%A7%E5%9B%9E%E5%BA%94%E9%AA%97%E5%AD%90%E5%A6%82%E4%BD%95%E5%BD%93%E4%B8%8A%E9%A6%96%E5%B8%AD%E7%A7%91%E5%AD%A6%E5%AE%B6)
-1. [唐朝诡事录之长安](https://www.zhihu.com/search?q=%E5%94%90%E6%9C%9D%E8%AF%A1%E4%BA%8B%E5%BD%95%E4%B9%8B%E9%95%BF%E5%AE%89)
 1. [突然爱上香菜可能因为你老了](https://www.zhihu.com/search?q=%E7%AA%81%E7%84%B6%E7%88%B1%E4%B8%8A%E9%A6%99%E8%8F%9C%E5%8F%AF%E8%83%BD%E5%9B%A0%E4%B8%BA%E4%BD%A0%E8%80%81%E4%BA%86)
+1. [唐朝诡事录之长安](https://www.zhihu.com/search?q=%E5%94%90%E6%9C%9D%E8%AF%A1%E4%BA%8B%E5%BD%95%E4%B9%8B%E9%95%BF%E5%AE%89)
 1. [俞敏洪深夜再发全员信向员工道歉](https://www.zhihu.com/search?q=%E4%BF%9E%E6%95%8F%E6%B4%AA%E6%B7%B1%E5%A4%9C%E5%86%8D%E5%8F%91%E5%85%A8%E5%91%98%E4%BF%A1%E5%90%91%E5%91%98%E5%B7%A5%E9%81%93%E6%AD%89)
 1. [俄罗斯工程院回复郭某事件](https://www.zhihu.com/search?q=%E4%BF%84%E7%BD%97%E6%96%AF%E5%B7%A5%E7%A8%8B%E9%99%A2%E5%9B%9E%E5%A4%8D%E9%83%AD%E6%9F%90%E4%BA%8B%E4%BB%B6)
 1. [《哪吒2》不参评奥斯卡最佳动画长片](https://www.zhihu.com/search?q=%E3%80%8A%E5%93%AA%E5%90%922%E3%80%8B%E4%B8%8D%E5%8F%82%E8%AF%84%E5%A5%A5%E6%96%AF%E5%8D%A1%E6%9C%80%E4%BD%B3%E5%8A%A8%E7%94%BB%E9%95%BF%E7%89%87)
