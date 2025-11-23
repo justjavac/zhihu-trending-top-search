@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Nov 23 2025 16:27:10 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Nov 23 2025 17:20:50 GMT+0800 (China Standard Time) -->
 
 1. [中日外交风波](https://www.zhihu.com/search?q=%E4%B8%AD%E6%97%A5%E5%A4%96%E4%BA%A4%E9%A3%8E%E6%B3%A2)
 1. [抛售日本开始了](https://www.zhihu.com/search?q=%E6%8A%9B%E5%94%AE%E6%97%A5%E6%9C%AC%E5%BC%80%E5%A7%8B%E4%BA%86)
@@ -27,6 +27,7 @@
 1. [江科大回应骗子如何当上首席科学家](https://www.zhihu.com/search?q=%E6%B1%9F%E7%A7%91%E5%A4%A7%E5%9B%9E%E5%BA%94%E9%AA%97%E5%AD%90%E5%A6%82%E4%BD%95%E5%BD%93%E4%B8%8A%E9%A6%96%E5%B8%AD%E7%A7%91%E5%AD%A6%E5%AE%B6)
 1. [西安交大一附院再曝瓣膜谜团](https://www.zhihu.com/search?q=%E8%A5%BF%E5%AE%89%E4%BA%A4%E5%A4%A7%E4%B8%80%E9%99%84%E9%99%A2%E5%86%8D%E6%9B%9D%E7%93%A3%E8%86%9C%E8%B0%9C%E5%9B%A2)
 1. [为什么大家都不提中国空间站了](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A4%A7%E5%AE%B6%E9%83%BD%E4%B8%8D%E6%8F%90%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%E4%BA%86)
+1. [理想汽车被曝大反思](https://www.zhihu.com/search?q=%E7%90%86%E6%83%B3%E6%B1%BD%E8%BD%A6%E8%A2%AB%E6%9B%9D%E5%A4%A7%E5%8F%8D%E6%80%9D)
 1. [2026届高校毕业生预计达1270万人](https://www.zhihu.com/search?q=2026%E5%B1%8A%E9%AB%98%E6%A0%A1%E6%AF%95%E4%B8%9A%E7%94%9F%E9%A2%84%E8%AE%A1%E8%BE%BE1270%E4%B8%87%E4%BA%BA)
 1. [三只松鼠员工的鼠名让网友上头](https://www.zhihu.com/search?q=%E4%B8%89%E5%8F%AA%E6%9D%BE%E9%BC%A0%E5%91%98%E5%B7%A5%E7%9A%84%E9%BC%A0%E5%90%8D%E8%AE%A9%E7%BD%91%E5%8F%8B%E4%B8%8A%E5%A4%B4)
 1. [山西发现一座距今4300年「宫城」](https://www.zhihu.com/search?q=%E5%B1%B1%E8%A5%BF%E5%8F%91%E7%8E%B0%E4%B8%80%E5%BA%A7%E8%B7%9D%E4%BB%8A4300%E5%B9%B4%E3%80%8C%E5%AE%AB%E5%9F%8E%E3%80%8D)
