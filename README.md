@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Nov 24 2025 02:29:41 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Nov 24 2025 03:16:54 GMT+0800 (China Standard Time) -->
 
 1. [抛售日本开始了](https://www.zhihu.com/search?q=%E6%8A%9B%E5%94%AE%E6%97%A5%E6%9C%AC%E5%BC%80%E5%A7%8B%E4%BA%86)
 1. [三只松鼠员工的鼠名让网友上头](https://www.zhihu.com/search?q=%E4%B8%89%E5%8F%AA%E6%9D%BE%E9%BC%A0%E5%91%98%E5%B7%A5%E7%9A%84%E9%BC%A0%E5%90%8D%E8%AE%A9%E7%BD%91%E5%8F%8B%E4%B8%8A%E5%A4%B4)
@@ -27,6 +27,7 @@
 1. [俞敏洪深夜再发全员信向员工道歉](https://www.zhihu.com/search?q=%E4%BF%9E%E6%95%8F%E6%B4%AA%E6%B7%B1%E5%A4%9C%E5%86%8D%E5%8F%91%E5%85%A8%E5%91%98%E4%BF%A1%E5%90%91%E5%91%98%E5%B7%A5%E9%81%93%E6%AD%89)
 1. [俄罗斯工程院回复郭某事件](https://www.zhihu.com/search?q=%E4%BF%84%E7%BD%97%E6%96%AF%E5%B7%A5%E7%A8%8B%E9%99%A2%E5%9B%9E%E5%A4%8D%E9%83%AD%E6%9F%90%E4%BA%8B%E4%BB%B6)
 1. [《哪吒2》不参评奥斯卡最佳动画长片](https://www.zhihu.com/search?q=%E3%80%8A%E5%93%AA%E5%90%922%E3%80%8B%E4%B8%8D%E5%8F%82%E8%AF%84%E5%A5%A5%E6%96%AF%E5%8D%A1%E6%9C%80%E4%BD%B3%E5%8A%A8%E7%94%BB%E9%95%BF%E7%89%87)
+1. [大学生理发店剪发被收费1万](https://www.zhihu.com/search?q=%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%90%86%E5%8F%91%E5%BA%97%E5%89%AA%E5%8F%91%E8%A2%AB%E6%94%B6%E8%B4%B91%E4%B8%87)
 1. [理想汽车被曝大反思](https://www.zhihu.com/search?q=%E7%90%86%E6%83%B3%E6%B1%BD%E8%BD%A6%E8%A2%AB%E6%9B%9D%E5%A4%A7%E5%8F%8D%E6%80%9D)
 1. [中日外交风波](https://www.zhihu.com/search?q=%E4%B8%AD%E6%97%A5%E5%A4%96%E4%BA%A4%E9%A3%8E%E6%B3%A2)
 1. [日本多个行业为高市早苗买单](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E5%A4%9A%E4%B8%AA%E8%A1%8C%E4%B8%9A%E4%B8%BA%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E4%B9%B0%E5%8D%95)
