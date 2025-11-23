@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Nov 24 2025 05:19:09 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Nov 24 2025 06:20:27 GMT+0800 (China Standard Time) -->
 
 1. [抛售日本开始了](https://www.zhihu.com/search?q=%E6%8A%9B%E5%94%AE%E6%97%A5%E6%9C%AC%E5%BC%80%E5%A7%8B%E4%BA%86)
 1. [三只松鼠员工的鼠名让网友上头](https://www.zhihu.com/search?q=%E4%B8%89%E5%8F%AA%E6%9D%BE%E9%BC%A0%E5%91%98%E5%B7%A5%E7%9A%84%E9%BC%A0%E5%90%8D%E8%AE%A9%E7%BD%91%E5%8F%8B%E4%B8%8A%E5%A4%B4)
