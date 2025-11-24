@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Nov 25 2025 05:21:17 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Nov 25 2025 06:21:10 GMT+0800 (China Standard Time) -->
 
 1. [中美元首通话](https://www.zhihu.com/search?q=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E9%80%9A%E8%AF%9D)
 1. [海关在一女子裙内查获229条活鱼](https://www.zhihu.com/search?q=%E6%B5%B7%E5%85%B3%E5%9C%A8%E4%B8%80%E5%A5%B3%E5%AD%90%E8%A3%99%E5%86%85%E6%9F%A5%E8%8E%B7229%E6%9D%A1%E6%B4%BB%E9%B1%BC)
@@ -27,6 +27,7 @@
 1. [男孩发烧十几个小时退烧后脸变黑](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%A9%E5%8F%91%E7%83%A7%E5%8D%81%E5%87%A0%E4%B8%AA%E5%B0%8F%E6%97%B6%E9%80%80%E7%83%A7%E5%90%8E%E8%84%B8%E5%8F%98%E9%BB%91)
 1. [中日外交风波](https://www.zhihu.com/search?q=%E4%B8%AD%E6%97%A5%E5%A4%96%E4%BA%A4%E9%A3%8E%E6%B3%A2)
 1. [郭某外籍院士资格暂予中止](https://www.zhihu.com/search?q=%E9%83%AD%E6%9F%90%E5%A4%96%E7%B1%8D%E9%99%A2%E5%A3%AB%E8%B5%84%E6%A0%BC%E6%9A%82%E4%BA%88%E4%B8%AD%E6%AD%A2)
+1. [冬天咬人的蚊子已经出现了](https://www.zhihu.com/search?q=%E5%86%AC%E5%A4%A9%E5%92%AC%E4%BA%BA%E7%9A%84%E8%9A%8A%E5%AD%90%E5%B7%B2%E7%BB%8F%E5%87%BA%E7%8E%B0%E4%BA%86)
 1. [《哪吒2》不参评奥斯卡最佳动画长片](https://www.zhihu.com/search?q=%E3%80%8A%E5%93%AA%E5%90%922%E3%80%8B%E4%B8%8D%E5%8F%82%E8%AF%84%E5%A5%A5%E6%96%AF%E5%8D%A1%E6%9C%80%E4%BD%B3%E5%8A%A8%E7%94%BB%E9%95%BF%E7%89%87)
 1. [突然爱上香菜可能因为你老了](https://www.zhihu.com/search?q=%E7%AA%81%E7%84%B6%E7%88%B1%E4%B8%8A%E9%A6%99%E8%8F%9C%E5%8F%AF%E8%83%BD%E5%9B%A0%E4%B8%BA%E4%BD%A0%E8%80%81%E4%BA%86)
 1. [打野球时哪种对手最让你绝望](https://www.zhihu.com/search?q=%E6%89%93%E9%87%8E%E7%90%83%E6%97%B6%E5%93%AA%E7%A7%8D%E5%AF%B9%E6%89%8B%E6%9C%80%E8%AE%A9%E4%BD%A0%E7%BB%9D%E6%9C%9B)
