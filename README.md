@@ -14,20 +14,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Nov 26 2025 00:30:33 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Nov 26 2025 01:21:47 GMT+0800 (China Standard Time) -->
 
 1. [中美元首通话](https://www.zhihu.com/search?q=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E9%80%9A%E8%AF%9D)
 1. [史上最严充电宝新规将落地](https://www.zhihu.com/search?q=%E5%8F%B2%E4%B8%8A%E6%9C%80%E4%B8%A5%E5%85%85%E7%94%B5%E5%AE%9D%E6%96%B0%E8%A7%84%E5%B0%86%E8%90%BD%E5%9C%B0)
 1. [海关在一女子裙内查获229条活鱼](https://www.zhihu.com/search?q=%E6%B5%B7%E5%85%B3%E5%9C%A8%E4%B8%80%E5%A5%B3%E5%AD%90%E8%A3%99%E5%86%85%E6%9F%A5%E8%8E%B7229%E6%9D%A1%E6%B4%BB%E9%B1%BC)
 1. [特朗普要求与高市早苗通话](https://www.zhihu.com/search?q=%E7%89%B9%E6%9C%97%E6%99%AE%E8%A6%81%E6%B1%82%E4%B8%8E%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E9%80%9A%E8%AF%9D)
 1. [美结束俄乌冲突28点计划曝光](https://www.zhihu.com/search?q=%E7%BE%8E%E7%BB%93%E6%9D%9F%E4%BF%84%E4%B9%8C%E5%86%B2%E7%AA%8128%E7%82%B9%E8%AE%A1%E5%88%92%E6%9B%9D%E5%85%89)
-1. [如何评价证实外星人的纪录片《揭露时代》](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E8%AF%81%E5%AE%9E%E5%A4%96%E6%98%9F%E4%BA%BA%E7%9A%84%E7%BA%AA%E5%BD%95%E7%89%87%E3%80%8A%E6%8F%AD%E9%9C%B2%E6%97%B6%E4%BB%A3%E3%80%8B)
+1. [一颗金丝楠木能卖到上亿为什么没人肯种](https://www.zhihu.com/search?q=%E4%B8%80%E9%A2%97%E9%87%91%E4%B8%9D%E6%A5%A0%E6%9C%A8%E8%83%BD%E5%8D%96%E5%88%B0%E4%B8%8A%E4%BA%BF%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B2%A1%E4%BA%BA%E8%82%AF%E7%A7%8D)
+1. [华为发布会](https://www.zhihu.com/search?q=%E5%8D%8E%E4%B8%BA%E5%8F%91%E5%B8%83%E4%BC%9A)
 1. [中国将寻找第二颗地球](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E5%B0%86%E5%AF%BB%E6%89%BE%E7%AC%AC%E4%BA%8C%E9%A2%97%E5%9C%B0%E7%90%83)
 1. [特朗普称将于明年4月访华](https://www.zhihu.com/search?q=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E4%BA%8E%E6%98%8E%E5%B9%B44%E6%9C%88%E8%AE%BF%E5%8D%8E)
-1. [有人破解巨型吊牌继续蹭穿](https://www.zhihu.com/search?q=%E6%9C%89%E4%BA%BA%E7%A0%B4%E8%A7%A3%E5%B7%A8%E5%9E%8B%E5%90%8A%E7%89%8C%E7%BB%A7%E7%BB%AD%E8%B9%AD%E7%A9%BF)
 1. [如何婉拒同楼领导蹭车](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E5%A9%89%E6%8B%92%E5%90%8C%E6%A5%BC%E9%A2%86%E5%AF%BC%E8%B9%AD%E8%BD%A6)
-1. [华为发布会](https://www.zhihu.com/search?q=%E5%8D%8E%E4%B8%BA%E5%8F%91%E5%B8%83%E4%BC%9A)
+1. [有人破解巨型吊牌继续蹭穿](https://www.zhihu.com/search?q=%E6%9C%89%E4%BA%BA%E7%A0%B4%E8%A7%A3%E5%B7%A8%E5%9E%8B%E5%90%8A%E7%89%8C%E7%BB%A7%E7%BB%AD%E8%B9%AD%E7%A9%BF)
 1. [神舟二十二号发射](https://www.zhihu.com/search?q=%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E4%BA%8C%E5%8F%B7%E5%8F%91%E5%B0%84)
+1. [如何评价证实外星人的纪录片《揭露时代》](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E8%AF%81%E5%AE%9E%E5%A4%96%E6%98%9F%E4%BA%BA%E7%9A%84%E7%BA%AA%E5%BD%95%E7%89%87%E3%80%8A%E6%8F%AD%E9%9C%B2%E6%97%B6%E4%BB%A3%E3%80%8B)
 
 <!-- END -->
 
