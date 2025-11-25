@@ -14,22 +14,25 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Nov 25 2025 19:20:08 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Nov 25 2025 20:48:02 GMT+0800 (China Standard Time) -->
 
 1. [中美元首通话](https://www.zhihu.com/search?q=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E9%80%9A%E8%AF%9D)
 1. [海关在一女子裙内查获229条活鱼](https://www.zhihu.com/search?q=%E6%B5%B7%E5%85%B3%E5%9C%A8%E4%B8%80%E5%A5%B3%E5%AD%90%E8%A3%99%E5%86%85%E6%9F%A5%E8%8E%B7229%E6%9D%A1%E6%B4%BB%E9%B1%BC)
-1. [日本宣布部署导弹 距台湾110公里](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E5%AE%A3%E5%B8%83%E9%83%A8%E7%BD%B2%E5%AF%BC%E5%BC%B9%20%E8%B7%9D%E5%8F%B0%E6%B9%BE110%E5%85%AC%E9%87%8C)
-1. [华为发布会](https://www.zhihu.com/search?q=%E5%8D%8E%E4%B8%BA%E5%8F%91%E5%B8%83%E4%BC%9A)
 1. [特朗普要求与高市早苗通话](https://www.zhihu.com/search?q=%E7%89%B9%E6%9C%97%E6%99%AE%E8%A6%81%E6%B1%82%E4%B8%8E%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E9%80%9A%E8%AF%9D)
-1. [新疆到底有多干燥](https://www.zhihu.com/search?q=%E6%96%B0%E7%96%86%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E5%B9%B2%E7%87%A5)
+1. [华为发布会](https://www.zhihu.com/search?q=%E5%8D%8E%E4%B8%BA%E5%8F%91%E5%B8%83%E4%BC%9A)
 1. [美结束俄乌冲突28点计划曝光](https://www.zhihu.com/search?q=%E7%BE%8E%E7%BB%93%E6%9D%9F%E4%BF%84%E4%B9%8C%E5%86%B2%E7%AA%8128%E7%82%B9%E8%AE%A1%E5%88%92%E6%9B%9D%E5%85%89)
+1. [你见过哪些神补刀](https://www.zhihu.com/search?q=%E4%BD%A0%E8%A7%81%E8%BF%87%E5%93%AA%E4%BA%9B%E7%A5%9E%E8%A1%A5%E5%88%80)
 1. [中国将寻找第二颗地球](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E5%B0%86%E5%AF%BB%E6%89%BE%E7%AC%AC%E4%BA%8C%E9%A2%97%E5%9C%B0%E7%90%83)
 1. [特朗普称将于明年4月访华](https://www.zhihu.com/search?q=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E4%BA%8E%E6%98%8E%E5%B9%B44%E6%9C%88%E8%AE%BF%E5%8D%8E)
+1. [有人破解巨型吊牌继续蹭穿](https://www.zhihu.com/search?q=%E6%9C%89%E4%BA%BA%E7%A0%B4%E8%A7%A3%E5%B7%A8%E5%9E%8B%E5%90%8A%E7%89%8C%E7%BB%A7%E7%BB%AD%E8%B9%AD%E7%A9%BF)
+1. [小米汽车未交车催收尾款案一审宣判](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E6%9C%AA%E4%BA%A4%E8%BD%A6%E5%82%AC%E6%94%B6%E5%B0%BE%E6%AC%BE%E6%A1%88%E4%B8%80%E5%AE%A1%E5%AE%A3%E5%88%A4)
+1. [中日外交风波](https://www.zhihu.com/search?q=%E4%B8%AD%E6%97%A5%E5%A4%96%E4%BA%A4%E9%A3%8E%E6%B3%A2)
+1. [神舟二十二号发射](https://www.zhihu.com/search?q=%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E4%BA%8C%E5%8F%B7%E5%8F%91%E5%B0%84)
+1. [日本宣布部署导弹 距台湾110公里](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E5%AE%A3%E5%B8%83%E9%83%A8%E7%BD%B2%E5%AF%BC%E5%BC%B9%20%E8%B7%9D%E5%8F%B0%E6%B9%BE110%E5%85%AC%E9%87%8C)
+1. [新疆到底有多干燥](https://www.zhihu.com/search?q=%E6%96%B0%E7%96%86%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E5%B9%B2%E7%87%A5)
 1. [长得帅在生活中有多大优势](https://www.zhihu.com/search?q=%E9%95%BF%E5%BE%97%E5%B8%85%E5%9C%A8%E7%94%9F%E6%B4%BB%E4%B8%AD%E6%9C%89%E5%A4%9A%E5%A4%A7%E4%BC%98%E5%8A%BF)
 1. [男孩发烧十几个小时退烧后脸变黑](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%A9%E5%8F%91%E7%83%A7%E5%8D%81%E5%87%A0%E4%B8%AA%E5%B0%8F%E6%97%B6%E9%80%80%E7%83%A7%E5%90%8E%E8%84%B8%E5%8F%98%E9%BB%91)
-1. [中日外交风波](https://www.zhihu.com/search?q=%E4%B8%AD%E6%97%A5%E5%A4%96%E4%BA%A4%E9%A3%8E%E6%B3%A2)
 1. [你有哪些当初没听出来的弦外之音](https://www.zhihu.com/search?q=%E4%BD%A0%E6%9C%89%E5%93%AA%E4%BA%9B%E5%BD%93%E5%88%9D%E6%B2%A1%E5%90%AC%E5%87%BA%E6%9D%A5%E7%9A%84%E5%BC%A6%E5%A4%96%E4%B9%8B%E9%9F%B3)
-1. [神舟二十二号发射](https://www.zhihu.com/search?q=%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E4%BA%8C%E5%8F%B7%E5%8F%91%E5%B0%84)
 1. [12 条中日航线取消全部航班](https://www.zhihu.com/search?q=12%20%E6%9D%A1%E4%B8%AD%E6%97%A5%E8%88%AA%E7%BA%BF%E5%8F%96%E6%B6%88%E5%85%A8%E9%83%A8%E8%88%AA%E7%8F%AD)
 1. [为什么有些人的预判能力这么强](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%9B%E4%BA%BA%E7%9A%84%E9%A2%84%E5%88%A4%E8%83%BD%E5%8A%9B%E8%BF%99%E4%B9%88%E5%BC%BA)
 1. [男子花 8 万元网购 70 平海景房](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%90%E8%8A%B1%208%20%E4%B8%87%E5%85%83%E7%BD%91%E8%B4%AD%2070%20%E5%B9%B3%E6%B5%B7%E6%99%AF%E6%88%BF)
