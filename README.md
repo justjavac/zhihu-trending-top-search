@@ -14,20 +14,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Nov 28 2025 03:17:17 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Nov 28 2025 04:22:22 GMT+0800 (China Standard Time) -->
 
 1. [香港起火大楼内发现生还者](https://www.zhihu.com/search?q=%E9%A6%99%E6%B8%AF%E8%B5%B7%E7%81%AB%E5%A4%A7%E6%A5%BC%E5%86%85%E5%8F%91%E7%8E%B0%E7%94%9F%E8%BF%98%E8%80%85)
 1. [昆明一试验列车撞人致11死2伤](https://www.zhihu.com/search?q=%E6%98%86%E6%98%8E%E4%B8%80%E8%AF%95%E9%AA%8C%E5%88%97%E8%BD%A6%E6%92%9E%E4%BA%BA%E8%87%B411%E6%AD%BB2%E4%BC%A4)
 1. [香港火灾涉事小区保额超20亿港元](https://www.zhihu.com/search?q=%E9%A6%99%E6%B8%AF%E7%81%AB%E7%81%BE%E6%B6%89%E4%BA%8B%E5%B0%8F%E5%8C%BA%E4%BF%9D%E9%A2%9D%E8%B6%8520%E4%BA%BF%E6%B8%AF%E5%85%83)
 1. [香港火灾](https://www.zhihu.com/search?q=%E9%A6%99%E6%B8%AF%E7%81%AB%E7%81%BE)
 1. [婚前同居认定属于家庭成员](https://www.zhihu.com/search?q=%E5%A9%9A%E5%89%8D%E5%90%8C%E5%B1%85%E8%AE%A4%E5%AE%9A%E5%B1%9E%E4%BA%8E%E5%AE%B6%E5%BA%AD%E6%88%90%E5%91%98)
-1. [如何评价证实外星人的纪录片《揭露时代》](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E8%AF%81%E5%AE%9E%E5%A4%96%E6%98%9F%E4%BA%BA%E7%9A%84%E7%BA%AA%E5%BD%95%E7%89%87%E3%80%8A%E6%8F%AD%E9%9C%B2%E6%97%B6%E4%BB%A3%E3%80%8B)
+1. [新疆到底有多干燥](https://www.zhihu.com/search?q=%E6%96%B0%E7%96%86%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E5%B9%B2%E7%87%A5)
 1. [香港火灾附近住户发声](https://www.zhihu.com/search?q=%E9%A6%99%E6%B8%AF%E7%81%AB%E7%81%BE%E9%99%84%E8%BF%91%E4%BD%8F%E6%88%B7%E5%8F%91%E5%A3%B0)
 1. [香港火灾3人涉嫌误杀罪被拘捕](https://www.zhihu.com/search?q=%E9%A6%99%E6%B8%AF%E7%81%AB%E7%81%BE3%E4%BA%BA%E6%B6%89%E5%AB%8C%E8%AF%AF%E6%9D%80%E7%BD%AA%E8%A2%AB%E6%8B%98%E6%8D%95)
 1. [史上最严充电宝新规将落地](https://www.zhihu.com/search?q=%E5%8F%B2%E4%B8%8A%E6%9C%80%E4%B8%A5%E5%85%85%E7%94%B5%E5%AE%9D%E6%96%B0%E8%A7%84%E5%B0%86%E8%90%BD%E5%9C%B0)
-1. [快递纸箱易释放 TVOCs 有科学依据吗](https://www.zhihu.com/search?q=%E5%BF%AB%E9%80%92%E7%BA%B8%E7%AE%B1%E6%98%93%E9%87%8A%E6%94%BE%20TVOCs%20%E6%9C%89%E7%A7%91%E5%AD%A6%E4%BE%9D%E6%8D%AE%E5%90%97)
+1. [长得帅在生活中有多大优势](https://www.zhihu.com/search?q=%E9%95%BF%E5%BE%97%E5%B8%85%E5%9C%A8%E7%94%9F%E6%B4%BB%E4%B8%AD%E6%9C%89%E5%A4%9A%E5%A4%A7%E4%BC%98%E5%8A%BF)
 1. [华与华创始人称西贝被人算计](https://www.zhihu.com/search?q=%E5%8D%8E%E4%B8%8E%E5%8D%8E%E5%88%9B%E5%A7%8B%E4%BA%BA%E7%A7%B0%E8%A5%BF%E8%B4%9D%E8%A2%AB%E4%BA%BA%E7%AE%97%E8%AE%A1)
 1. [香港大楼起火从地面烧到楼顶](https://www.zhihu.com/search?q=%E9%A6%99%E6%B8%AF%E5%A4%A7%E6%A5%BC%E8%B5%B7%E7%81%AB%E4%BB%8E%E5%9C%B0%E9%9D%A2%E7%83%A7%E5%88%B0%E6%A5%BC%E9%A1%B6)
+1. [如何评价证实外星人的纪录片《揭露时代》](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E8%AF%81%E5%AE%9E%E5%A4%96%E6%98%9F%E4%BA%BA%E7%9A%84%E7%BA%AA%E5%BD%95%E7%89%87%E3%80%8A%E6%8F%AD%E9%9C%B2%E6%97%B6%E4%BB%A3%E3%80%8B)
+1. [快递纸箱易释放 TVOCs 有科学依据吗](https://www.zhihu.com/search?q=%E5%BF%AB%E9%80%92%E7%BA%B8%E7%AE%B1%E6%98%93%E9%87%8A%E6%94%BE%20TVOCs%20%E6%9C%89%E7%A7%91%E5%AD%A6%E4%BE%9D%E6%8D%AE%E5%90%97)
 1. [如何婉拒同楼领导蹭车](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E5%A9%89%E6%8B%92%E5%90%8C%E6%A5%BC%E9%A2%86%E5%AF%BC%E8%B9%AD%E8%BD%A6)
 1. [猪一生都被关在猪圈里为何没有抑郁症](https://www.zhihu.com/search?q=%E7%8C%AA%E4%B8%80%E7%94%9F%E9%83%BD%E8%A2%AB%E5%85%B3%E5%9C%A8%E7%8C%AA%E5%9C%88%E9%87%8C%E4%B8%BA%E4%BD%95%E6%B2%A1%E6%9C%89%E6%8A%91%E9%83%81%E7%97%87)
 
