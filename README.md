@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Nov 28 2025 19:19:36 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Nov 28 2025 20:46:27 GMT+0800 (China Standard Time) -->
 
 1. [香港火灾已致128人遇难](https://www.zhihu.com/search?q=%E9%A6%99%E6%B8%AF%E7%81%AB%E7%81%BE%E5%B7%B2%E8%87%B4128%E4%BA%BA%E9%81%87%E9%9A%BE)
 1. [DeepSeek发布新模型](https://www.zhihu.com/search?q=DeepSeek%E5%8F%91%E5%B8%83%E6%96%B0%E6%A8%A1%E5%9E%8B)
@@ -23,13 +23,13 @@
 1. [香港对火灾每名遇难者家属发20万港元](https://www.zhihu.com/search?q=%E9%A6%99%E6%B8%AF%E5%AF%B9%E7%81%AB%E7%81%BE%E6%AF%8F%E5%90%8D%E9%81%87%E9%9A%BE%E8%80%85%E5%AE%B6%E5%B1%9E%E5%8F%9120%E4%B8%87%E6%B8%AF%E5%85%83)
 1. [香港起火大楼内发现生还者](https://www.zhihu.com/search?q=%E9%A6%99%E6%B8%AF%E8%B5%B7%E7%81%AB%E5%A4%A7%E6%A5%BC%E5%86%85%E5%8F%91%E7%8E%B0%E7%94%9F%E8%BF%98%E8%80%85)
 1. [香港火灾附近住户发声](https://www.zhihu.com/search?q=%E9%A6%99%E6%B8%AF%E7%81%AB%E7%81%BE%E9%99%84%E8%BF%91%E4%BD%8F%E6%88%B7%E5%8F%91%E5%A3%B0)
-1. [如何评价证实外星人的纪录片《揭露时代》](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E8%AF%81%E5%AE%9E%E5%A4%96%E6%98%9F%E4%BA%BA%E7%9A%84%E7%BA%AA%E5%BD%95%E7%89%87%E3%80%8A%E6%8F%AD%E9%9C%B2%E6%97%B6%E4%BB%A3%E3%80%8B)
-1. [曝林俊杰女友疑似是网红七七](https://www.zhihu.com/search?q=%E6%9B%9D%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%A5%B3%E5%8F%8B%E7%96%91%E4%BC%BC%E6%98%AF%E7%BD%91%E7%BA%A2%E4%B8%83%E4%B8%83)
+1. [新疆到底有多干燥](https://www.zhihu.com/search?q=%E6%96%B0%E7%96%86%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E5%B9%B2%E7%87%A5)
 1. [深圳男生刺死同班女生一审获无期](https://www.zhihu.com/search?q=%E6%B7%B1%E5%9C%B3%E7%94%B7%E7%94%9F%E5%88%BA%E6%AD%BB%E5%90%8C%E7%8F%AD%E5%A5%B3%E7%94%9F%E4%B8%80%E5%AE%A1%E8%8E%B7%E6%97%A0%E6%9C%9F)
+1. [曝林俊杰女友疑似是网红七七](https://www.zhihu.com/search?q=%E6%9B%9D%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%A5%B3%E5%8F%8B%E7%96%91%E4%BC%BC%E6%98%AF%E7%BD%91%E7%BA%A2%E4%B8%83%E4%B8%83)
 1. [华与华创始人称西贝被人算计](https://www.zhihu.com/search?q=%E5%8D%8E%E4%B8%8E%E5%8D%8E%E5%88%9B%E5%A7%8B%E4%BA%BA%E7%A7%B0%E8%A5%BF%E8%B4%9D%E8%A2%AB%E4%BA%BA%E7%AE%97%E8%AE%A1)
 1. [香港火灾3人涉嫌误杀罪被拘捕](https://www.zhihu.com/search?q=%E9%A6%99%E6%B8%AF%E7%81%AB%E7%81%BE3%E4%BA%BA%E6%B6%89%E5%AB%8C%E8%AF%AF%E6%9D%80%E7%BD%AA%E8%A2%AB%E6%8B%98%E6%8D%95)
+1. [如何评价证实外星人的纪录片《揭露时代》](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E8%AF%81%E5%AE%9E%E5%A4%96%E6%98%9F%E4%BA%BA%E7%9A%84%E7%BA%AA%E5%BD%95%E7%89%87%E3%80%8A%E6%8F%AD%E9%9C%B2%E6%97%B6%E4%BB%A3%E3%80%8B)
 1. [香港廉政公署就大埔火灾拘捕2人](https://www.zhihu.com/search?q=%E9%A6%99%E6%B8%AF%E5%BB%89%E6%94%BF%E5%85%AC%E7%BD%B2%E5%B0%B1%E5%A4%A7%E5%9F%94%E7%81%AB%E7%81%BE%E6%8B%98%E6%8D%952%E4%BA%BA)
-1. [新疆到底有多干燥](https://www.zhihu.com/search?q=%E6%96%B0%E7%96%86%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E5%B9%B2%E7%87%A5)
 1. [如何婉拒同楼领导蹭车](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E5%A9%89%E6%8B%92%E5%90%8C%E6%A5%BC%E9%A2%86%E5%AF%BC%E8%B9%AD%E8%BD%A6)
 1. [昆明一试验列车撞人致11死2伤](https://www.zhihu.com/search?q=%E6%98%86%E6%98%8E%E4%B8%80%E8%AF%95%E9%AA%8C%E5%88%97%E8%BD%A6%E6%92%9E%E4%BA%BA%E8%87%B411%E6%AD%BB2%E4%BC%A4)
 1. [你从什么时候变得成熟并删掉游戏](https://www.zhihu.com/search?q=%E4%BD%A0%E4%BB%8E%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E5%8F%98%E5%BE%97%E6%88%90%E7%86%9F%E5%B9%B6%E5%88%A0%E6%8E%89%E6%B8%B8%E6%88%8F)
