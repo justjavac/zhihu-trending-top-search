@@ -14,15 +14,15 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Nov 29 2025 05:19:01 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Nov 29 2025 06:19:45 GMT+0800 (China Standard Time) -->
 
 1. [香港火灾](https://www.zhihu.com/search?q=%E9%A6%99%E6%B8%AF%E7%81%AB%E7%81%BE)
 1. [DeepSeek发布新模型](https://www.zhihu.com/search?q=DeepSeek%E5%8F%91%E5%B8%83%E6%96%B0%E6%A8%A1%E5%9E%8B)
 1. [open review泄漏审稿人身份](https://www.zhihu.com/search?q=open%20review%E6%B3%84%E6%BC%8F%E5%AE%A1%E7%A8%BF%E4%BA%BA%E8%BA%AB%E4%BB%BD)
-1. [香港火灾已致128人遇难](https://www.zhihu.com/search?q=%E9%A6%99%E6%B8%AF%E7%81%AB%E7%81%BE%E5%B7%B2%E8%87%B4128%E4%BA%BA%E9%81%87%E9%9A%BE)
+1. [南通文旅](https://www.zhihu.com/search?q=%E5%8D%97%E9%80%9A%E6%96%87%E6%97%85)
 1. [香港起火大楼内发现生还者](https://www.zhihu.com/search?q=%E9%A6%99%E6%B8%AF%E8%B5%B7%E7%81%AB%E5%A4%A7%E6%A5%BC%E5%86%85%E5%8F%91%E7%8E%B0%E7%94%9F%E8%BF%98%E8%80%85)
 1. [为什么国家要严打改装车](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%9B%BD%E5%AE%B6%E8%A6%81%E4%B8%A5%E6%89%93%E6%94%B9%E8%A3%85%E8%BD%A6)
-1. [南通文旅](https://www.zhihu.com/search?q=%E5%8D%97%E9%80%9A%E6%96%87%E6%97%85)
+1. [香港火灾已致128人遇难](https://www.zhihu.com/search?q=%E9%A6%99%E6%B8%AF%E7%81%AB%E7%81%BE%E5%B7%B2%E8%87%B4128%E4%BA%BA%E9%81%87%E9%9A%BE)
 1. [香港对火灾每名遇难者家属发20万港元](https://www.zhihu.com/search?q=%E9%A6%99%E6%B8%AF%E5%AF%B9%E7%81%AB%E7%81%BE%E6%AF%8F%E5%90%8D%E9%81%87%E9%9A%BE%E8%80%85%E5%AE%B6%E5%B1%9E%E5%8F%9120%E4%B8%87%E6%B8%AF%E5%85%83)
 1. [香港火灾附近住户发声](https://www.zhihu.com/search?q=%E9%A6%99%E6%B8%AF%E7%81%AB%E7%81%BE%E9%99%84%E8%BF%91%E4%BD%8F%E6%88%B7%E5%8F%91%E5%A3%B0)
 1. [古代为何要等「秋后」才问斩](https://www.zhihu.com/search?q=%E5%8F%A4%E4%BB%A3%E4%B8%BA%E4%BD%95%E8%A6%81%E7%AD%89%E3%80%8C%E7%A7%8B%E5%90%8E%E3%80%8D%E6%89%8D%E9%97%AE%E6%96%A9)
