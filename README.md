@@ -14,19 +14,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Nov 29 2025 18:21:46 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Nov 29 2025 19:17:29 GMT+0800 (China Standard Time) -->
 
 1. [香港火灾已致128人遇难](https://www.zhihu.com/search?q=%E9%A6%99%E6%B8%AF%E7%81%AB%E7%81%BE%E5%B7%B2%E8%87%B4128%E4%BA%BA%E9%81%87%E9%9A%BE)
 1. [DeepSeek发布新模型](https://www.zhihu.com/search?q=DeepSeek%E5%8F%91%E5%B8%83%E6%96%B0%E6%A8%A1%E5%9E%8B)
 1. [open review泄漏审稿人身份](https://www.zhihu.com/search?q=open%20review%E6%B3%84%E6%BC%8F%E5%AE%A1%E7%A8%BF%E4%BA%BA%E8%BA%AB%E4%BB%BD)
-1. [国考](https://www.zhihu.com/search?q=%E5%9B%BD%E8%80%83)
 1. [苏翊鸣夺大跳台世界杯金牌](https://www.zhihu.com/search?q=%E8%8B%8F%E7%BF%8A%E9%B8%A3%E5%A4%BA%E5%A4%A7%E8%B7%B3%E5%8F%B0%E4%B8%96%E7%95%8C%E6%9D%AF%E9%87%91%E7%89%8C)
+1. [国考](https://www.zhihu.com/search?q=%E5%9B%BD%E8%80%83)
+1. [俄罗斯洲际弹道导弹试射失败](https://www.zhihu.com/search?q=%E4%BF%84%E7%BD%97%E6%96%AF%E6%B4%B2%E9%99%85%E5%BC%B9%E9%81%93%E5%AF%BC%E5%BC%B9%E8%AF%95%E5%B0%84%E5%A4%B1%E8%B4%A5)
 1. [香港火灾](https://www.zhihu.com/search?q=%E9%A6%99%E6%B8%AF%E7%81%AB%E7%81%BE)
-1. [香港起火大楼内发现生还者](https://www.zhihu.com/search?q=%E9%A6%99%E6%B8%AF%E8%B5%B7%E7%81%AB%E5%A4%A7%E6%A5%BC%E5%86%85%E5%8F%91%E7%8E%B0%E7%94%9F%E8%BF%98%E8%80%85)
 1. [香港对火灾每名遇难者家属发20万港元](https://www.zhihu.com/search?q=%E9%A6%99%E6%B8%AF%E5%AF%B9%E7%81%AB%E7%81%BE%E6%AF%8F%E5%90%8D%E9%81%87%E9%9A%BE%E8%80%85%E5%AE%B6%E5%B1%9E%E5%8F%9120%E4%B8%87%E6%B8%AF%E5%85%83)
-1. [你无意中发现过别人的啥秘密](https://www.zhihu.com/search?q=%E4%BD%A0%E6%97%A0%E6%84%8F%E4%B8%AD%E5%8F%91%E7%8E%B0%E8%BF%87%E5%88%AB%E4%BA%BA%E7%9A%84%E5%95%A5%E7%A7%98%E5%AF%86)
 1. [老人偷偷剃光孩子胎发 宝妈崩溃大哭](https://www.zhihu.com/search?q=%E8%80%81%E4%BA%BA%E5%81%B7%E5%81%B7%E5%89%83%E5%85%89%E5%AD%A9%E5%AD%90%E8%83%8E%E5%8F%91%20%E5%AE%9D%E5%A6%88%E5%B4%A9%E6%BA%83%E5%A4%A7%E5%93%AD)
+1. [为什么国家要严打改装车](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%9B%BD%E5%AE%B6%E8%A6%81%E4%B8%A5%E6%89%93%E6%94%B9%E8%A3%85%E8%BD%A6)
+1. [2026年起吸毒记录可封存](https://www.zhihu.com/search?q=2026%E5%B9%B4%E8%B5%B7%E5%90%B8%E6%AF%92%E8%AE%B0%E5%BD%95%E5%8F%AF%E5%B0%81%E5%AD%98)
 1. [香港火灾附近住户发声](https://www.zhihu.com/search?q=%E9%A6%99%E6%B8%AF%E7%81%AB%E7%81%BE%E9%99%84%E8%BF%91%E4%BD%8F%E6%88%B7%E5%8F%91%E5%A3%B0)
+1. [香港起火大楼内发现生还者](https://www.zhihu.com/search?q=%E9%A6%99%E6%B8%AF%E8%B5%B7%E7%81%AB%E5%A4%A7%E6%A5%BC%E5%86%85%E5%8F%91%E7%8E%B0%E7%94%9F%E8%BF%98%E8%80%85)
+1. [你无意中发现过别人的啥秘密](https://www.zhihu.com/search?q=%E4%BD%A0%E6%97%A0%E6%84%8F%E4%B8%AD%E5%8F%91%E7%8E%B0%E8%BF%87%E5%88%AB%E4%BA%BA%E7%9A%84%E5%95%A5%E7%A7%98%E5%AF%86)
 1. [中国男篮76-80不敌韩国](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE76-80%E4%B8%8D%E6%95%8C%E9%9F%A9%E5%9B%BD)
 1. [AI 十分钟超越人三周成果十年经验何价](https://www.zhihu.com/search?q=AI%20%E5%8D%81%E5%88%86%E9%92%9F%E8%B6%85%E8%B6%8A%E4%BA%BA%E4%B8%89%E5%91%A8%E6%88%90%E6%9E%9C%E5%8D%81%E5%B9%B4%E7%BB%8F%E9%AA%8C%E4%BD%95%E4%BB%B7)
 1. [南通文旅](https://www.zhihu.com/search?q=%E5%8D%97%E9%80%9A%E6%96%87%E6%97%85)
@@ -43,7 +46,6 @@
 1. [孙悟空有长生术为何三百多岁就寿尽](https://www.zhihu.com/search?q=%E5%AD%99%E6%82%9F%E7%A9%BA%E6%9C%89%E9%95%BF%E7%94%9F%E6%9C%AF%E4%B8%BA%E4%BD%95%E4%B8%89%E7%99%BE%E5%A4%9A%E5%B2%81%E5%B0%B1%E5%AF%BF%E5%B0%BD)
 1. [香港火灾3人涉嫌误杀罪被拘捕](https://www.zhihu.com/search?q=%E9%A6%99%E6%B8%AF%E7%81%AB%E7%81%BE3%E4%BA%BA%E6%B6%89%E5%AB%8C%E8%AF%AF%E6%9D%80%E7%BD%AA%E8%A2%AB%E6%8B%98%E6%8D%95)
 1. [华与华创始人称西贝被人算计](https://www.zhihu.com/search?q=%E5%8D%8E%E4%B8%8E%E5%8D%8E%E5%88%9B%E5%A7%8B%E4%BA%BA%E7%A7%B0%E8%A5%BF%E8%B4%9D%E8%A2%AB%E4%BA%BA%E7%AE%97%E8%AE%A1)
-1. [为什么国家要严打改装车](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%9B%BD%E5%AE%B6%E8%A6%81%E4%B8%A5%E6%89%93%E6%94%B9%E8%A3%85%E8%BD%A6)
 1. [荒野求生选手藏细线被罚退赛](https://www.zhihu.com/search?q=%E8%8D%92%E9%87%8E%E6%B1%82%E7%94%9F%E9%80%89%E6%89%8B%E8%97%8F%E7%BB%86%E7%BA%BF%E8%A2%AB%E7%BD%9A%E9%80%80%E8%B5%9B)
 1. [「臭大姐」成下酒菜有何营养与风险](https://www.zhihu.com/search?q=%E3%80%8C%E8%87%AD%E5%A4%A7%E5%A7%90%E3%80%8D%E6%88%90%E4%B8%8B%E9%85%92%E8%8F%9C%E6%9C%89%E4%BD%95%E8%90%A5%E5%85%BB%E4%B8%8E%E9%A3%8E%E9%99%A9)
 1. [为什么明知是山寨山姆有溢价还买](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%98%8E%E7%9F%A5%E6%98%AF%E5%B1%B1%E5%AF%A8%E5%B1%B1%E5%A7%86%E6%9C%89%E6%BA%A2%E4%BB%B7%E8%BF%98%E4%B9%B0)
