@@ -14,17 +14,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Nov 29 2025 07:19:57 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Nov 29 2025 09:44:40 GMT+0800 (China Standard Time) -->
 
-1. [香港火灾](https://www.zhihu.com/search?q=%E9%A6%99%E6%B8%AF%E7%81%AB%E7%81%BE)
-1. [DeepSeek发布新模型](https://www.zhihu.com/search?q=DeepSeek%E5%8F%91%E5%B8%83%E6%96%B0%E6%A8%A1%E5%9E%8B)
-1. [open review泄漏审稿人身份](https://www.zhihu.com/search?q=open%20review%E6%B3%84%E6%BC%8F%E5%AE%A1%E7%A8%BF%E4%BA%BA%E8%BA%AB%E4%BB%BD)
 1. [南通文旅](https://www.zhihu.com/search?q=%E5%8D%97%E9%80%9A%E6%96%87%E6%97%85)
+1. [DeepSeek发布新模型](https://www.zhihu.com/search?q=DeepSeek%E5%8F%91%E5%B8%83%E6%96%B0%E6%A8%A1%E5%9E%8B)
+1. [中国男篮76-80不敌韩国](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE76-80%E4%B8%8D%E6%95%8C%E9%9F%A9%E5%9B%BD)
+1. [open review泄漏审稿人身份](https://www.zhihu.com/search?q=open%20review%E6%B3%84%E6%BC%8F%E5%AE%A1%E7%A8%BF%E4%BA%BA%E8%BA%AB%E4%BB%BD)
+1. [香港为火灾遇难者举行悼念活动](https://www.zhihu.com/search?q=%E9%A6%99%E6%B8%AF%E4%B8%BA%E7%81%AB%E7%81%BE%E9%81%87%E9%9A%BE%E8%80%85%E4%B8%BE%E8%A1%8C%E6%82%BC%E5%BF%B5%E6%B4%BB%E5%8A%A8)
+1. [香港火灾](https://www.zhihu.com/search?q=%E9%A6%99%E6%B8%AF%E7%81%AB%E7%81%BE)
 1. [香港起火大楼内发现生还者](https://www.zhihu.com/search?q=%E9%A6%99%E6%B8%AF%E8%B5%B7%E7%81%AB%E5%A4%A7%E6%A5%BC%E5%86%85%E5%8F%91%E7%8E%B0%E7%94%9F%E8%BF%98%E8%80%85)
-1. [古代为何要等「秋后」才问斩](https://www.zhihu.com/search?q=%E5%8F%A4%E4%BB%A3%E4%B8%BA%E4%BD%95%E8%A6%81%E7%AD%89%E3%80%8C%E7%A7%8B%E5%90%8E%E3%80%8D%E6%89%8D%E9%97%AE%E6%96%A9)
+1. [体制内的你见过什么样的小鞋](https://www.zhihu.com/search?q=%E4%BD%93%E5%88%B6%E5%86%85%E7%9A%84%E4%BD%A0%E8%A7%81%E8%BF%87%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E5%B0%8F%E9%9E%8B)
 1. [香港火灾已致128人遇难](https://www.zhihu.com/search?q=%E9%A6%99%E6%B8%AF%E7%81%AB%E7%81%BE%E5%B7%B2%E8%87%B4128%E4%BA%BA%E9%81%87%E9%9A%BE)
 1. [香港对火灾每名遇难者家属发20万港元](https://www.zhihu.com/search?q=%E9%A6%99%E6%B8%AF%E5%AF%B9%E7%81%AB%E7%81%BE%E6%AF%8F%E5%90%8D%E9%81%87%E9%9A%BE%E8%80%85%E5%AE%B6%E5%B1%9E%E5%8F%9120%E4%B8%87%E6%B8%AF%E5%85%83)
 1. [香港火灾附近住户发声](https://www.zhihu.com/search?q=%E9%A6%99%E6%B8%AF%E7%81%AB%E7%81%BE%E9%99%84%E8%BF%91%E4%BD%8F%E6%88%B7%E5%8F%91%E5%A3%B0)
+1. [《狂野时代》口碑两极分化](https://www.zhihu.com/search?q=%E3%80%8A%E7%8B%82%E9%87%8E%E6%97%B6%E4%BB%A3%E3%80%8B%E5%8F%A3%E7%A2%91%E4%B8%A4%E6%9E%81%E5%88%86%E5%8C%96)
+1. [古代为何要等「秋后」才问斩](https://www.zhihu.com/search?q=%E5%8F%A4%E4%BB%A3%E4%B8%BA%E4%BD%95%E8%A6%81%E7%AD%89%E3%80%8C%E7%A7%8B%E5%90%8E%E3%80%8D%E6%89%8D%E9%97%AE%E6%96%A9)
 1. [孙悟空有长生术为何三百多岁就寿尽](https://www.zhihu.com/search?q=%E5%AD%99%E6%82%9F%E7%A9%BA%E6%9C%89%E9%95%BF%E7%94%9F%E6%9C%AF%E4%B8%BA%E4%BD%95%E4%B8%89%E7%99%BE%E5%A4%9A%E5%B2%81%E5%B0%B1%E5%AF%BF%E5%B0%BD)
 1. [香港火灾3人涉嫌误杀罪被拘捕](https://www.zhihu.com/search?q=%E9%A6%99%E6%B8%AF%E7%81%AB%E7%81%BE3%E4%BA%BA%E6%B6%89%E5%AB%8C%E8%AF%AF%E6%9D%80%E7%BD%AA%E8%A2%AB%E6%8B%98%E6%8D%95)
 1. [华与华创始人称西贝被人算计](https://www.zhihu.com/search?q=%E5%8D%8E%E4%B8%8E%E5%8D%8E%E5%88%9B%E5%A7%8B%E4%BA%BA%E7%A7%B0%E8%A5%BF%E8%B4%9D%E8%A2%AB%E4%BA%BA%E7%AE%97%E8%AE%A1)
