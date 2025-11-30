@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Dec 01 2025 04:24:19 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Dec 01 2025 05:19:00 GMT+0800 (China Standard Time) -->
 
 1. [2026年国考](https://www.zhihu.com/search?q=2026%E5%B9%B4%E5%9B%BD%E8%80%83)
 1. [申论](https://www.zhihu.com/search?q=%E7%94%B3%E8%AE%BA)
