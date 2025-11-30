@@ -14,20 +14,23 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Nov 30 2025 19:17:25 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Nov 30 2025 20:41:40 GMT+0800 (China Standard Time) -->
 
 1. [2026年起吸毒记录可封存](https://www.zhihu.com/search?q=2026%E5%B9%B4%E8%B5%B7%E5%90%B8%E6%AF%92%E8%AE%B0%E5%BD%95%E5%8F%AF%E5%B0%81%E5%AD%98)
 1. [香港火灾](https://www.zhihu.com/search?q=%E9%A6%99%E6%B8%AF%E7%81%AB%E7%81%BE)
-1. [open review泄漏审稿人身份](https://www.zhihu.com/search?q=open%20review%E6%B3%84%E6%BC%8F%E5%AE%A1%E7%A8%BF%E4%BA%BA%E8%BA%AB%E4%BB%BD)
-1. [苏翊鸣夺大跳台世界杯金牌](https://www.zhihu.com/search?q=%E8%8B%8F%E7%BF%8A%E9%B8%A3%E5%A4%BA%E5%A4%A7%E8%B7%B3%E5%8F%B0%E4%B8%96%E7%95%8C%E6%9D%AF%E9%87%91%E7%89%8C)
 1. [申论](https://www.zhihu.com/search?q=%E7%94%B3%E8%AE%BA)
 1. [DeepSeek发布新模型](https://www.zhihu.com/search?q=DeepSeek%E5%8F%91%E5%B8%83%E6%96%B0%E6%A8%A1%E5%9E%8B)
-1. [《狂野时代》口碑两极分化](https://www.zhihu.com/search?q=%E3%80%8A%E7%8B%82%E9%87%8E%E6%97%B6%E4%BB%A3%E3%80%8B%E5%8F%A3%E7%A2%91%E4%B8%A4%E6%9E%81%E5%88%86%E5%8C%96)
+1. [你无意中发现过别人的啥秘密](https://www.zhihu.com/search?q=%E4%BD%A0%E6%97%A0%E6%84%8F%E4%B8%AD%E5%8F%91%E7%8E%B0%E8%BF%87%E5%88%AB%E4%BA%BA%E7%9A%84%E5%95%A5%E7%A7%98%E5%AF%86)
 1. [2026年国考](https://www.zhihu.com/search?q=2026%E5%B9%B4%E5%9B%BD%E8%80%83)
 1. [香港对火灾每名遇难者家属发20万港元](https://www.zhihu.com/search?q=%E9%A6%99%E6%B8%AF%E5%AF%B9%E7%81%AB%E7%81%BE%E6%AF%8F%E5%90%8D%E9%81%87%E9%9A%BE%E8%80%85%E5%AE%B6%E5%B1%9E%E5%8F%9120%E4%B8%87%E6%B8%AF%E5%85%83)
 1. [俄罗斯洲际弹道导弹试射失败](https://www.zhihu.com/search?q=%E4%BF%84%E7%BD%97%E6%96%AF%E6%B4%B2%E9%99%85%E5%BC%B9%E9%81%93%E5%AF%BC%E5%BC%B9%E8%AF%95%E5%B0%84%E5%A4%B1%E8%B4%A5)
-1. [外卖最后百米频受阻该为骑手办门禁吗](https://www.zhihu.com/search?q=%E5%A4%96%E5%8D%96%E6%9C%80%E5%90%8E%E7%99%BE%E7%B1%B3%E9%A2%91%E5%8F%97%E9%98%BB%E8%AF%A5%E4%B8%BA%E9%AA%91%E6%89%8B%E5%8A%9E%E9%97%A8%E7%A6%81%E5%90%97)
+1. [「野生手搓飞机」产销链条该如何监管](https://www.zhihu.com/search?q=%E3%80%8C%E9%87%8E%E7%94%9F%E6%89%8B%E6%90%93%E9%A3%9E%E6%9C%BA%E3%80%8D%E4%BA%A7%E9%94%80%E9%93%BE%E6%9D%A1%E8%AF%A5%E5%A6%82%E4%BD%95%E7%9B%91%E7%AE%A1)
 1. [女子生理期潜水被鲨鱼咬伤](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E7%94%9F%E7%90%86%E6%9C%9F%E6%BD%9C%E6%B0%B4%E8%A2%AB%E9%B2%A8%E9%B1%BC%E5%92%AC%E4%BC%A4)
+1. [苏翊鸣夺大跳台世界杯金牌](https://www.zhihu.com/search?q=%E8%8B%8F%E7%BF%8A%E9%B8%A3%E5%A4%BA%E5%A4%A7%E8%B7%B3%E5%8F%B0%E4%B8%96%E7%95%8C%E6%9D%AF%E9%87%91%E7%89%8C)
+1. [如何评价神舟二十二号应急处置过程](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E4%BA%8C%E5%8F%B7%E5%BA%94%E6%80%A5%E5%A4%84%E7%BD%AE%E8%BF%87%E7%A8%8B)
+1. [open review泄漏审稿人身份](https://www.zhihu.com/search?q=open%20review%E6%B3%84%E6%BC%8F%E5%AE%A1%E7%A8%BF%E4%BA%BA%E8%BA%AB%E4%BB%BD)
+1. [《狂野时代》口碑两极分化](https://www.zhihu.com/search?q=%E3%80%8A%E7%8B%82%E9%87%8E%E6%97%B6%E4%BB%A3%E3%80%8B%E5%8F%A3%E7%A2%91%E4%B8%A4%E6%9E%81%E5%88%86%E5%8C%96)
+1. [外卖最后百米频受阻该为骑手办门禁吗](https://www.zhihu.com/search?q=%E5%A4%96%E5%8D%96%E6%9C%80%E5%90%8E%E7%99%BE%E7%B1%B3%E9%A2%91%E5%8F%97%E9%98%BB%E8%AF%A5%E4%B8%BA%E9%AA%91%E6%89%8B%E5%8A%9E%E9%97%A8%E7%A6%81%E5%90%97)
 1. [为什么明知是山寨山姆有溢价还买](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%98%8E%E7%9F%A5%E6%98%AF%E5%B1%B1%E5%AF%A8%E5%B1%B1%E5%A7%86%E6%9C%89%E6%BA%A2%E4%BB%B7%E8%BF%98%E4%B9%B0)
 1. [王中磊夫妇涉足短视频](https://www.zhihu.com/search?q=%E7%8E%8B%E4%B8%AD%E7%A3%8A%E5%A4%AB%E5%A6%87%E6%B6%89%E8%B6%B3%E7%9F%AD%E8%A7%86%E9%A2%91)
 1. [男子肠道堵满肿瘤](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%90%E8%82%A0%E9%81%93%E5%A0%B5%E6%BB%A1%E8%82%BF%E7%98%A4)
