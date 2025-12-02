@@ -14,12 +14,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Dec 03 2025 00:32:30 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Dec 03 2025 01:24:42 GMT+0800 (China Standard Time) -->
 
 1. [明年起避孕药品用具征收增值税](https://www.zhihu.com/search?q=%E6%98%8E%E5%B9%B4%E8%B5%B7%E9%81%BF%E5%AD%95%E8%8D%AF%E5%93%81%E7%94%A8%E5%85%B7%E5%BE%81%E6%94%B6%E5%A2%9E%E5%80%BC%E7%A8%8E)
-1. [俄罗斯免签](https://www.zhihu.com/search?q=%E4%BF%84%E7%BD%97%E6%96%AF%E5%85%8D%E7%AD%BE)
-1. [中国男篮对阵韩国两连败](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E5%AF%B9%E9%98%B5%E9%9F%A9%E5%9B%BD%E4%B8%A4%E8%BF%9E%E8%B4%A5)
 1. [湖南烟花店主举报公职人员后轻生](https://www.zhihu.com/search?q=%E6%B9%96%E5%8D%97%E7%83%9F%E8%8A%B1%E5%BA%97%E4%B8%BB%E4%B8%BE%E6%8A%A5%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E5%90%8E%E8%BD%BB%E7%94%9F)
+1. [中国男篮对阵韩国两连败](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E5%AF%B9%E9%98%B5%E9%9F%A9%E5%9B%BD%E4%B8%A4%E8%BF%9E%E8%B4%A5)
 1. [2025 年十大流行语发布](https://www.zhihu.com/search?q=2025%20%E5%B9%B4%E5%8D%81%E5%A4%A7%E6%B5%81%E8%A1%8C%E8%AF%AD%E5%8F%91%E5%B8%83)
 1. [女子徒步想蹭饭反被教育](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E5%BE%92%E6%AD%A5%E6%83%B3%E8%B9%AD%E9%A5%AD%E5%8F%8D%E8%A2%AB%E6%95%99%E8%82%B2)
 1. [女子徒步想蹭饭被老板教育](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E5%BE%92%E6%AD%A5%E6%83%B3%E8%B9%AD%E9%A5%AD%E8%A2%AB%E8%80%81%E6%9D%BF%E6%95%99%E8%82%B2)
@@ -28,6 +27,8 @@
 1. [暨南大学要求回宿舍学生接受安检](https://www.zhihu.com/search?q=%E6%9A%A8%E5%8D%97%E5%A4%A7%E5%AD%A6%E8%A6%81%E6%B1%82%E5%9B%9E%E5%AE%BF%E8%88%8D%E5%AD%A6%E7%94%9F%E6%8E%A5%E5%8F%97%E5%AE%89%E6%A3%80)
 1. [爱马仕继承人 150 亿美元股份被骗](https://www.zhihu.com/search?q=%E7%88%B1%E9%A9%AC%E4%BB%95%E7%BB%A7%E6%89%BF%E4%BA%BA%20150%20%E4%BA%BF%E7%BE%8E%E5%85%83%E8%82%A1%E4%BB%BD%E8%A2%AB%E9%AA%97)
 1. [章莹颖被害 8 年父母未获 1 分钱赔偿](https://www.zhihu.com/search?q=%E7%AB%A0%E8%8E%B9%E9%A2%96%E8%A2%AB%E5%AE%B3%208%20%E5%B9%B4%E7%88%B6%E6%AF%8D%E6%9C%AA%E8%8E%B7%201%20%E5%88%86%E9%92%B1%E8%B5%94%E5%81%BF)
+1. [新能源汽车正进入下行周期](https://www.zhihu.com/search?q=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E6%AD%A3%E8%BF%9B%E5%85%A5%E4%B8%8B%E8%A1%8C%E5%91%A8%E6%9C%9F)
+1. [俄罗斯免签](https://www.zhihu.com/search?q=%E4%BF%84%E7%BD%97%E6%96%AF%E5%85%8D%E7%AD%BE)
 
 <!-- END -->
 
