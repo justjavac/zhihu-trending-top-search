@@ -14,20 +14,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Dec 03 2025 03:20:29 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Dec 03 2025 04:28:01 GMT+0800 (China Standard Time) -->
 
 1. [明年起避孕药品用具征收增值税](https://www.zhihu.com/search?q=%E6%98%8E%E5%B9%B4%E8%B5%B7%E9%81%BF%E5%AD%95%E8%8D%AF%E5%93%81%E7%94%A8%E5%85%B7%E5%BE%81%E6%94%B6%E5%A2%9E%E5%80%BC%E7%A8%8E)
 1. [2025 年十大流行语发布](https://www.zhihu.com/search?q=2025%20%E5%B9%B4%E5%8D%81%E5%A4%A7%E6%B5%81%E8%A1%8C%E8%AF%AD%E5%8F%91%E5%B8%83)
 1. [女子徒步想蹭饭反被教育](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E5%BE%92%E6%AD%A5%E6%83%B3%E8%B9%AD%E9%A5%AD%E5%8F%8D%E8%A2%AB%E6%95%99%E8%82%B2)
-1. [99 年程序员摆摊卖 10 元盒饭走红](https://www.zhihu.com/search?q=99%20%E5%B9%B4%E7%A8%8B%E5%BA%8F%E5%91%98%E6%91%86%E6%91%8A%E5%8D%96%2010%20%E5%85%83%E7%9B%92%E9%A5%AD%E8%B5%B0%E7%BA%A2)
-1. [香港特区将成立独立委员会调查火灾](https://www.zhihu.com/search?q=%E9%A6%99%E6%B8%AF%E7%89%B9%E5%8C%BA%E5%B0%86%E6%88%90%E7%AB%8B%E7%8B%AC%E7%AB%8B%E5%A7%94%E5%91%98%E4%BC%9A%E8%B0%83%E6%9F%A5%E7%81%AB%E7%81%BE)
-1. [湖南烟花店主举报公职人员后轻生](https://www.zhihu.com/search?q=%E6%B9%96%E5%8D%97%E7%83%9F%E8%8A%B1%E5%BA%97%E4%B8%BB%E4%B8%BE%E6%8A%A5%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E5%90%8E%E8%BD%BB%E7%94%9F)
-1. [中国男篮对阵韩国两连败](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E5%AF%B9%E9%98%B5%E9%9F%A9%E5%9B%BD%E4%B8%A4%E8%BF%9E%E8%B4%A5)
 1. [「老穷风」火的精髓在哪](https://www.zhihu.com/search?q=%E3%80%8C%E8%80%81%E7%A9%B7%E9%A3%8E%E3%80%8D%E7%81%AB%E7%9A%84%E7%B2%BE%E9%AB%93%E5%9C%A8%E5%93%AA)
+1. [湖南烟花店主举报公职人员后轻生](https://www.zhihu.com/search?q=%E6%B9%96%E5%8D%97%E7%83%9F%E8%8A%B1%E5%BA%97%E4%B8%BB%E4%B8%BE%E6%8A%A5%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E5%90%8E%E8%BD%BB%E7%94%9F)
+1. [香港特区将成立独立委员会调查火灾](https://www.zhihu.com/search?q=%E9%A6%99%E6%B8%AF%E7%89%B9%E5%8C%BA%E5%B0%86%E6%88%90%E7%AB%8B%E7%8B%AC%E7%AB%8B%E5%A7%94%E5%91%98%E4%BC%9A%E8%B0%83%E6%9F%A5%E7%81%AB%E7%81%BE)
+1. [中国男篮对阵韩国两连败](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E5%AF%B9%E9%98%B5%E9%9F%A9%E5%9B%BD%E4%B8%A4%E8%BF%9E%E8%B4%A5)
+1. [神二十返回舱贯穿还能修复吗](https://www.zhihu.com/search?q=%E7%A5%9E%E4%BA%8C%E5%8D%81%E8%BF%94%E5%9B%9E%E8%88%B1%E8%B4%AF%E7%A9%BF%E8%BF%98%E8%83%BD%E4%BF%AE%E5%A4%8D%E5%90%97)
 1. [实验猴价格大涨 30%](https://www.zhihu.com/search?q=%E5%AE%9E%E9%AA%8C%E7%8C%B4%E4%BB%B7%E6%A0%BC%E5%A4%A7%E6%B6%A8%2030%25)
 1. [暨南大学要求回宿舍学生接受安检](https://www.zhihu.com/search?q=%E6%9A%A8%E5%8D%97%E5%A4%A7%E5%AD%A6%E8%A6%81%E6%B1%82%E5%9B%9E%E5%AE%BF%E8%88%8D%E5%AD%A6%E7%94%9F%E6%8E%A5%E5%8F%97%E5%AE%89%E6%A3%80)
-1. [神二十返回舱贯穿还能修复吗](https://www.zhihu.com/search?q=%E7%A5%9E%E4%BA%8C%E5%8D%81%E8%BF%94%E5%9B%9E%E8%88%B1%E8%B4%AF%E7%A9%BF%E8%BF%98%E8%83%BD%E4%BF%AE%E5%A4%8D%E5%90%97)
+1. [如何向帮忙带娃十年的婆婆提出分开住](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E5%90%91%E5%B8%AE%E5%BF%99%E5%B8%A6%E5%A8%83%E5%8D%81%E5%B9%B4%E7%9A%84%E5%A9%86%E5%A9%86%E6%8F%90%E5%87%BA%E5%88%86%E5%BC%80%E4%BD%8F)
 1. [章莹颖被害 8 年父母未获 1 分钱赔偿](https://www.zhihu.com/search?q=%E7%AB%A0%E8%8E%B9%E9%A2%96%E8%A2%AB%E5%AE%B3%208%20%E5%B9%B4%E7%88%B6%E6%AF%8D%E6%9C%AA%E8%8E%B7%201%20%E5%88%86%E9%92%B1%E8%B5%94%E5%81%BF)
+1. [99 年程序员摆摊卖 10 元盒饭走红](https://www.zhihu.com/search?q=99%20%E5%B9%B4%E7%A8%8B%E5%BA%8F%E5%91%98%E6%91%86%E6%91%8A%E5%8D%96%2010%20%E5%85%83%E7%9B%92%E9%A5%AD%E8%B5%B0%E7%BA%A2)
 1. [女子徒步想蹭饭被老板教育](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E5%BE%92%E6%AD%A5%E6%83%B3%E8%B9%AD%E9%A5%AD%E8%A2%AB%E8%80%81%E6%9D%BF%E6%95%99%E8%82%B2)
 1. [爱马仕继承人 150 亿美元股份被骗](https://www.zhihu.com/search?q=%E7%88%B1%E9%A9%AC%E4%BB%95%E7%BB%A7%E6%89%BF%E4%BA%BA%20150%20%E4%BA%BF%E7%BE%8E%E5%85%83%E8%82%A1%E4%BB%BD%E8%A2%AB%E9%AA%97)
 1. [新能源汽车正进入下行周期](https://www.zhihu.com/search?q=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E6%AD%A3%E8%BF%9B%E5%85%A5%E4%B8%8B%E8%A1%8C%E5%91%A8%E6%9C%9F)
