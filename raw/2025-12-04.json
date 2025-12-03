@@ -1,14 +1,15 @@
 [
   { "query_display": "特朗普签署涉台法案 外交部回应", "real_query": "特朗普签署涉台法案 外交部回应" },
   { "query_display": "朱雀三号", "real_query": "朱雀三号" },
-  { "query_display": "甲型 H3N2 流感已达高流行水平", "real_query": "甲型 H3N2 流感已达高流行水平" },
   { "query_display": "高市早苗涉台最新表态", "real_query": "高市早苗涉台最新表态" },
   { "query_display": "马航MH370残骸搜寻重启", "real_query": "马航MH370残骸搜寻重启" },
+  { "query_display": "甲型 H3N2 流感已达高流行水平", "real_query": "甲型 H3N2 流感已达高流行水平" },
   { "query_display": "2025 年十大流行语发布", "real_query": "2025 年十大流行语发布" },
   { "query_display": "明年起避孕药品用具征收增值税", "real_query": "明年起避孕药品用具征收增值税" },
   { "query_display": "中俄就涉日本问题达成高度共识", "real_query": "中俄就涉日本问题达成高度共识" },
+  { "query_display": "为什么财不可外露", "real_query": "为什么财不可外露" },
   { "query_display": "12306 回应取消靠窗选座", "real_query": "12306 回应取消靠窗选座" },
-  { "query_display": "消费者为何不买单人造肉", "real_query": "消费者为何不买单人造肉" },
   { "query_display": "日本进行大规模战备建设", "real_query": "日本进行大规模战备建设" },
-  { "query_display": "暨南大学要求回宿舍学生接受安检", "real_query": "暨南大学要求回宿舍学生接受安检" }
+  { "query_display": "暨南大学要求回宿舍学生接受安检", "real_query": "暨南大学要求回宿舍学生接受安检" },
+  { "query_display": "消费者为何不买单人造肉", "real_query": "消费者为何不买单人造肉" }
 ]
