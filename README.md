@@ -14,19 +14,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Dec 03 2025 09:49:02 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Dec 03 2025 11:19:03 GMT+0800 (China Standard Time) -->
 
 1. [中俄就涉日本问题达成高度共识](https://www.zhihu.com/search?q=%E4%B8%AD%E4%BF%84%E5%B0%B1%E6%B6%89%E6%97%A5%E6%9C%AC%E9%97%AE%E9%A2%98%E8%BE%BE%E6%88%90%E9%AB%98%E5%BA%A6%E5%85%B1%E8%AF%86)
+1. [甲型 H3N2 流感已达高流行水平](https://www.zhihu.com/search?q=%E7%94%B2%E5%9E%8B%20H3N2%20%E6%B5%81%E6%84%9F%E5%B7%B2%E8%BE%BE%E9%AB%98%E6%B5%81%E8%A1%8C%E6%B0%B4%E5%B9%B3)
 1. [明年起避孕药品用具征收增值税](https://www.zhihu.com/search?q=%E6%98%8E%E5%B9%B4%E8%B5%B7%E9%81%BF%E5%AD%95%E8%8D%AF%E5%93%81%E7%94%A8%E5%85%B7%E5%BE%81%E6%94%B6%E5%A2%9E%E5%80%BC%E7%A8%8E)
 1. [2025 年十大流行语发布](https://www.zhihu.com/search?q=2025%20%E5%B9%B4%E5%8D%81%E5%A4%A7%E6%B5%81%E8%A1%8C%E8%AF%AD%E5%8F%91%E5%B8%83)
 1. [湖南烟花店主举报公职人员后轻生](https://www.zhihu.com/search?q=%E6%B9%96%E5%8D%97%E7%83%9F%E8%8A%B1%E5%BA%97%E4%B8%BB%E4%B8%BE%E6%8A%A5%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E5%90%8E%E8%BD%BB%E7%94%9F)
-1. [埃安交付遭退订问题可能出在哪里](https://www.zhihu.com/search?q=%E5%9F%83%E5%AE%89%E4%BA%A4%E4%BB%98%E9%81%AD%E9%80%80%E8%AE%A2%E9%97%AE%E9%A2%98%E5%8F%AF%E8%83%BD%E5%87%BA%E5%9C%A8%E5%93%AA%E9%87%8C)
+1. [有没有可以笑上一年的笑话](https://www.zhihu.com/search?q=%E6%9C%89%E6%B2%A1%E6%9C%89%E5%8F%AF%E4%BB%A5%E7%AC%91%E4%B8%8A%E4%B8%80%E5%B9%B4%E7%9A%84%E7%AC%91%E8%AF%9D)
 1. [女子徒步想蹭饭反被教育](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E5%BE%92%E6%AD%A5%E6%83%B3%E8%B9%AD%E9%A5%AD%E5%8F%8D%E8%A2%AB%E6%95%99%E8%82%B2)
 1. [香港特区将成立独立委员会调查火灾](https://www.zhihu.com/search?q=%E9%A6%99%E6%B8%AF%E7%89%B9%E5%8C%BA%E5%B0%86%E6%88%90%E7%AB%8B%E7%8B%AC%E7%AB%8B%E5%A7%94%E5%91%98%E4%BC%9A%E8%B0%83%E6%9F%A5%E7%81%AB%E7%81%BE)
-1. [中国男篮对阵韩国两连败](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E5%AF%B9%E9%98%B5%E9%9F%A9%E5%9B%BD%E4%B8%A4%E8%BF%9E%E8%B4%A5)
-1. [六千架 A320 因太阳辐射停飞](https://www.zhihu.com/search?q=%E5%85%AD%E5%8D%83%E6%9E%B6%20A320%20%E5%9B%A0%E5%A4%AA%E9%98%B3%E8%BE%90%E5%B0%84%E5%81%9C%E9%A3%9E)
 1. [实验猴价格大涨 30%](https://www.zhihu.com/search?q=%E5%AE%9E%E9%AA%8C%E7%8C%B4%E4%BB%B7%E6%A0%BC%E5%A4%A7%E6%B6%A8%2030%25)
+1. [为什么要远离社会底层](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E8%BF%9C%E7%A6%BB%E7%A4%BE%E4%BC%9A%E5%BA%95%E5%B1%82)
+1. [中国男篮对阵韩国两连败](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E5%AF%B9%E9%98%B5%E9%9F%A9%E5%9B%BD%E4%B8%A4%E8%BF%9E%E8%B4%A5)
 1. [暨南大学要求回宿舍学生接受安检](https://www.zhihu.com/search?q=%E6%9A%A8%E5%8D%97%E5%A4%A7%E5%AD%A6%E8%A6%81%E6%B1%82%E5%9B%9E%E5%AE%BF%E8%88%8D%E5%AD%A6%E7%94%9F%E6%8E%A5%E5%8F%97%E5%AE%89%E6%A3%80)
+1. [埃安交付遭退订问题可能出在哪里](https://www.zhihu.com/search?q=%E5%9F%83%E5%AE%89%E4%BA%A4%E4%BB%98%E9%81%AD%E9%80%80%E8%AE%A2%E9%97%AE%E9%A2%98%E5%8F%AF%E8%83%BD%E5%87%BA%E5%9C%A8%E5%93%AA%E9%87%8C)
+1. [六千架 A320 因太阳辐射停飞](https://www.zhihu.com/search?q=%E5%85%AD%E5%8D%83%E6%9E%B6%20A320%20%E5%9B%A0%E5%A4%AA%E9%98%B3%E8%BE%90%E5%B0%84%E5%81%9C%E9%A3%9E)
 1. [如何避免中间住户蹭暖](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E9%81%BF%E5%85%8D%E4%B8%AD%E9%97%B4%E4%BD%8F%E6%88%B7%E8%B9%AD%E6%9A%96)
 1. [《家有儿女》有什么细思恐极的情节](https://www.zhihu.com/search?q=%E3%80%8A%E5%AE%B6%E6%9C%89%E5%84%BF%E5%A5%B3%E3%80%8B%E6%9C%89%E4%BB%80%E4%B9%88%E7%BB%86%E6%80%9D%E6%81%90%E6%9E%81%E7%9A%84%E6%83%85%E8%8A%82)
 1. [神二十返回舱贯穿还能修复吗](https://www.zhihu.com/search?q=%E7%A5%9E%E4%BA%8C%E5%8D%81%E8%BF%94%E5%9B%9E%E8%88%B1%E8%B4%AF%E7%A9%BF%E8%BF%98%E8%83%BD%E4%BF%AE%E5%A4%8D%E5%90%97)
