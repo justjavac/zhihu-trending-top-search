@@ -14,20 +14,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Dec 03 2025 15:23:57 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Dec 03 2025 16:32:21 GMT+0800 (China Standard Time) -->
 
 1. [马航MH370残骸搜寻重启](https://www.zhihu.com/search?q=%E9%A9%AC%E8%88%AAMH370%E6%AE%8B%E9%AA%B8%E6%90%9C%E5%AF%BB%E9%87%8D%E5%90%AF)
 1. [朱雀三号](https://www.zhihu.com/search?q=%E6%9C%B1%E9%9B%80%E4%B8%89%E5%8F%B7)
-1. [甲型 H3N2 流感已达高流行水平](https://www.zhihu.com/search?q=%E7%94%B2%E5%9E%8B%20H3N2%20%E6%B5%81%E6%84%9F%E5%B7%B2%E8%BE%BE%E9%AB%98%E6%B5%81%E8%A1%8C%E6%B0%B4%E5%B9%B3)
 1. [明年起避孕药品用具征收增值税](https://www.zhihu.com/search?q=%E6%98%8E%E5%B9%B4%E8%B5%B7%E9%81%BF%E5%AD%95%E8%8D%AF%E5%93%81%E7%94%A8%E5%85%B7%E5%BE%81%E6%94%B6%E5%A2%9E%E5%80%BC%E7%A8%8E)
-1. [12306 回应取消靠窗选座](https://www.zhihu.com/search?q=12306%20%E5%9B%9E%E5%BA%94%E5%8F%96%E6%B6%88%E9%9D%A0%E7%AA%97%E9%80%89%E5%BA%A7)
 1. [中俄就涉日本问题达成高度共识](https://www.zhihu.com/search?q=%E4%B8%AD%E4%BF%84%E5%B0%B1%E6%B6%89%E6%97%A5%E6%9C%AC%E9%97%AE%E9%A2%98%E8%BE%BE%E6%88%90%E9%AB%98%E5%BA%A6%E5%85%B1%E8%AF%86)
+1. [12306 回应取消靠窗选座](https://www.zhihu.com/search?q=12306%20%E5%9B%9E%E5%BA%94%E5%8F%96%E6%B6%88%E9%9D%A0%E7%AA%97%E9%80%89%E5%BA%A7)
 1. [湖南烟花店主举报公职人员后轻生](https://www.zhihu.com/search?q=%E6%B9%96%E5%8D%97%E7%83%9F%E8%8A%B1%E5%BA%97%E4%B8%BB%E4%B8%BE%E6%8A%A5%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E5%90%8E%E8%BD%BB%E7%94%9F)
-1. [前两年冲动买房的人怎么样了](https://www.zhihu.com/search?q=%E5%89%8D%E4%B8%A4%E5%B9%B4%E5%86%B2%E5%8A%A8%E4%B9%B0%E6%88%BF%E7%9A%84%E4%BA%BA%E6%80%8E%E4%B9%88%E6%A0%B7%E4%BA%86)
+1. [真正打动过你的一个设计是什么](https://www.zhihu.com/search?q=%E7%9C%9F%E6%AD%A3%E6%89%93%E5%8A%A8%E8%BF%87%E4%BD%A0%E7%9A%84%E4%B8%80%E4%B8%AA%E8%AE%BE%E8%AE%A1%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [2025 年十大流行语发布](https://www.zhihu.com/search?q=2025%20%E5%B9%B4%E5%8D%81%E5%A4%A7%E6%B5%81%E8%A1%8C%E8%AF%AD%E5%8F%91%E5%B8%83)
 1. [女子徒步想蹭饭反被教育](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E5%BE%92%E6%AD%A5%E6%83%B3%E8%B9%AD%E9%A5%AD%E5%8F%8D%E8%A2%AB%E6%95%99%E8%82%B2)
+1. [甲型 H3N2 流感已达高流行水平](https://www.zhihu.com/search?q=%E7%94%B2%E5%9E%8B%20H3N2%20%E6%B5%81%E6%84%9F%E5%B7%B2%E8%BE%BE%E9%AB%98%E6%B5%81%E8%A1%8C%E6%B0%B4%E5%B9%B3)
+1. [你看过最感动的短篇漫画是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9C%8B%E8%BF%87%E6%9C%80%E6%84%9F%E5%8A%A8%E7%9A%84%E7%9F%AD%E7%AF%87%E6%BC%AB%E7%94%BB%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [香港特区将成立独立委员会调查火灾](https://www.zhihu.com/search?q=%E9%A6%99%E6%B8%AF%E7%89%B9%E5%8C%BA%E5%B0%86%E6%88%90%E7%AB%8B%E7%8B%AC%E7%AB%8B%E5%A7%94%E5%91%98%E4%BC%9A%E8%B0%83%E6%9F%A5%E7%81%AB%E7%81%BE)
-1. [真正打动过你的一个设计是什么](https://www.zhihu.com/search?q=%E7%9C%9F%E6%AD%A3%E6%89%93%E5%8A%A8%E8%BF%87%E4%BD%A0%E7%9A%84%E4%B8%80%E4%B8%AA%E8%AE%BE%E8%AE%A1%E6%98%AF%E4%BB%80%E4%B9%88)
+1. [前两年冲动买房的人怎么样了](https://www.zhihu.com/search?q=%E5%89%8D%E4%B8%A4%E5%B9%B4%E5%86%B2%E5%8A%A8%E4%B9%B0%E6%88%BF%E7%9A%84%E4%BA%BA%E6%80%8E%E4%B9%88%E6%A0%B7%E4%BA%86)
 1. [暨南大学要求回宿舍学生接受安检](https://www.zhihu.com/search?q=%E6%9A%A8%E5%8D%97%E5%A4%A7%E5%AD%A6%E8%A6%81%E6%B1%82%E5%9B%9E%E5%AE%BF%E8%88%8D%E5%AD%A6%E7%94%9F%E6%8E%A5%E5%8F%97%E5%AE%89%E6%A3%80)
 1. [如何看待美国网友咆哮物价太高](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E7%BE%8E%E5%9B%BD%E7%BD%91%E5%8F%8B%E5%92%86%E5%93%AE%E7%89%A9%E4%BB%B7%E5%A4%AA%E9%AB%98)
 1. [实验猴价格大涨 30%](https://www.zhihu.com/search?q=%E5%AE%9E%E9%AA%8C%E7%8C%B4%E4%BB%B7%E6%A0%BC%E5%A4%A7%E6%B6%A8%2030%25)
