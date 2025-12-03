@@ -14,20 +14,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Dec 03 2025 21:37:19 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Dec 03 2025 22:24:08 GMT+0800 (China Standard Time) -->
 
 1. [特朗普签署涉台法案 外交部回应](https://www.zhihu.com/search?q=%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E7%BD%B2%E6%B6%89%E5%8F%B0%E6%B3%95%E6%A1%88%20%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94)
 1. [朱雀三号](https://www.zhihu.com/search?q=%E6%9C%B1%E9%9B%80%E4%B8%89%E5%8F%B7)
 1. [2025 年十大流行语发布](https://www.zhihu.com/search?q=2025%20%E5%B9%B4%E5%8D%81%E5%A4%A7%E6%B5%81%E8%A1%8C%E8%AF%AD%E5%8F%91%E5%B8%83)
-1. [高市早苗涉台最新表态](https://www.zhihu.com/search?q=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%B6%89%E5%8F%B0%E6%9C%80%E6%96%B0%E8%A1%A8%E6%80%81)
 1. [马航MH370残骸搜寻重启](https://www.zhihu.com/search?q=%E9%A9%AC%E8%88%AAMH370%E6%AE%8B%E9%AA%B8%E6%90%9C%E5%AF%BB%E9%87%8D%E5%90%AF)
+1. [高市早苗涉台最新表态](https://www.zhihu.com/search?q=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%B6%89%E5%8F%B0%E6%9C%80%E6%96%B0%E8%A1%A8%E6%80%81)
 1. [甲型 H3N2 流感已达高流行水平](https://www.zhihu.com/search?q=%E7%94%B2%E5%9E%8B%20H3N2%20%E6%B5%81%E6%84%9F%E5%B7%B2%E8%BE%BE%E9%AB%98%E6%B5%81%E8%A1%8C%E6%B0%B4%E5%B9%B3)
 1. [明年起避孕药品用具征收增值税](https://www.zhihu.com/search?q=%E6%98%8E%E5%B9%B4%E8%B5%B7%E9%81%BF%E5%AD%95%E8%8D%AF%E5%93%81%E7%94%A8%E5%85%B7%E5%BE%81%E6%94%B6%E5%A2%9E%E5%80%BC%E7%A8%8E)
 1. [中俄就涉日本问题达成高度共识](https://www.zhihu.com/search?q=%E4%B8%AD%E4%BF%84%E5%B0%B1%E6%B6%89%E6%97%A5%E6%9C%AC%E9%97%AE%E9%A2%98%E8%BE%BE%E6%88%90%E9%AB%98%E5%BA%A6%E5%85%B1%E8%AF%86)
 1. [女子徒步想蹭饭反被教育](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E5%BE%92%E6%AD%A5%E6%83%B3%E8%B9%AD%E9%A5%AD%E5%8F%8D%E8%A2%AB%E6%95%99%E8%82%B2)
-1. [工作中你捅过多大的娄子](https://www.zhihu.com/search?q=%E5%B7%A5%E4%BD%9C%E4%B8%AD%E4%BD%A0%E6%8D%85%E8%BF%87%E5%A4%9A%E5%A4%A7%E7%9A%84%E5%A8%84%E5%AD%90)
+1. [有没有可以笑上一年的笑话](https://www.zhihu.com/search?q=%E6%9C%89%E6%B2%A1%E6%9C%89%E5%8F%AF%E4%BB%A5%E7%AC%91%E4%B8%8A%E4%B8%80%E5%B9%B4%E7%9A%84%E7%AC%91%E8%AF%9D)
 1. [12306 回应取消靠窗选座](https://www.zhihu.com/search?q=12306%20%E5%9B%9E%E5%BA%94%E5%8F%96%E6%B6%88%E9%9D%A0%E7%AA%97%E9%80%89%E5%BA%A7)
 1. [暨南大学要求回宿舍学生接受安检](https://www.zhihu.com/search?q=%E6%9A%A8%E5%8D%97%E5%A4%A7%E5%AD%A6%E8%A6%81%E6%B1%82%E5%9B%9E%E5%AE%BF%E8%88%8D%E5%AD%A6%E7%94%9F%E6%8E%A5%E5%8F%97%E5%AE%89%E6%A3%80)
+1. [工作中你捅过多大的娄子](https://www.zhihu.com/search?q=%E5%B7%A5%E4%BD%9C%E4%B8%AD%E4%BD%A0%E6%8D%85%E8%BF%87%E5%A4%9A%E5%A4%A7%E7%9A%84%E5%A8%84%E5%AD%90)
 1. [你看过最感动的短篇漫画是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9C%8B%E8%BF%87%E6%9C%80%E6%84%9F%E5%8A%A8%E7%9A%84%E7%9F%AD%E7%AF%87%E6%BC%AB%E7%94%BB%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [真正打动过你的一个设计是什么](https://www.zhihu.com/search?q=%E7%9C%9F%E6%AD%A3%E6%89%93%E5%8A%A8%E8%BF%87%E4%BD%A0%E7%9A%84%E4%B8%80%E4%B8%AA%E8%AE%BE%E8%AE%A1%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [实验猴价格大涨 30%](https://www.zhihu.com/search?q=%E5%AE%9E%E9%AA%8C%E7%8C%B4%E4%BB%B7%E6%A0%BC%E5%A4%A7%E6%B6%A8%2030%25)
@@ -39,7 +40,6 @@
 1. [黑大发 Nature 出现署名顺序争议](https://www.zhihu.com/search?q=%E9%BB%91%E5%A4%A7%E5%8F%91%20Nature%20%E5%87%BA%E7%8E%B0%E7%BD%B2%E5%90%8D%E9%A1%BA%E5%BA%8F%E4%BA%89%E8%AE%AE)
 1. [如何看待博主评测并质疑影视飓风冲锋衣](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%8D%9A%E4%B8%BB%E8%AF%84%E6%B5%8B%E5%B9%B6%E8%B4%A8%E7%96%91%E5%BD%B1%E8%A7%86%E9%A3%93%E9%A3%8E%E5%86%B2%E9%94%8B%E8%A1%A3)
 1. [中国男篮对阵韩国两连败](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E5%AF%B9%E9%98%B5%E9%9F%A9%E5%9B%BD%E4%B8%A4%E8%BF%9E%E8%B4%A5)
-1. [有没有可以笑上一年的笑话](https://www.zhihu.com/search?q=%E6%9C%89%E6%B2%A1%E6%9C%89%E5%8F%AF%E4%BB%A5%E7%AC%91%E4%B8%8A%E4%B8%80%E5%B9%B4%E7%9A%84%E7%AC%91%E8%AF%9D)
 1. [为什么要远离社会底层](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E8%BF%9C%E7%A6%BB%E7%A4%BE%E4%BC%9A%E5%BA%95%E5%B1%82)
 1. [埃安交付遭退订问题可能出在哪里](https://www.zhihu.com/search?q=%E5%9F%83%E5%AE%89%E4%BA%A4%E4%BB%98%E9%81%AD%E9%80%80%E8%AE%A2%E9%97%AE%E9%A2%98%E5%8F%AF%E8%83%BD%E5%87%BA%E5%9C%A8%E5%93%AA%E9%87%8C)
 1. [六千架 A320 因太阳辐射停飞](https://www.zhihu.com/search?q=%E5%85%AD%E5%8D%83%E6%9E%B6%20A320%20%E5%9B%A0%E5%A4%AA%E9%98%B3%E8%BE%90%E5%B0%84%E5%81%9C%E9%A3%9E)
