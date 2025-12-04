@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Dec 05 2025 05:21:41 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Dec 05 2025 06:19:58 GMT+0800 (China Standard Time) -->
 
 1. [新疆地震](https://www.zhihu.com/search?q=%E6%96%B0%E7%96%86%E5%9C%B0%E9%9C%87)
 1. [朱雀三号](https://www.zhihu.com/search?q=%E6%9C%B1%E9%9B%80%E4%B8%89%E5%8F%B7)
