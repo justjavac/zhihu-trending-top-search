@@ -14,19 +14,23 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Dec 05 2025 12:31:02 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Dec 05 2025 13:22:37 GMT+0800 (China Standard Time) -->
 
 1. [饿了么正式更名为淘宝闪购](https://www.zhihu.com/search?q=%E9%A5%BF%E4%BA%86%E4%B9%88%E6%AD%A3%E5%BC%8F%E6%9B%B4%E5%90%8D%E4%B8%BA%E6%B7%98%E5%AE%9D%E9%97%AA%E8%B4%AD)
-1. [朱雀三号](https://www.zhihu.com/search?q=%E6%9C%B1%E9%9B%80%E4%B8%89%E5%8F%B7)
+1. [陈震偷税追缴并罚共计247万元](https://www.zhihu.com/search?q=%E9%99%88%E9%9C%87%E5%81%B7%E7%A8%8E%E8%BF%BD%E7%BC%B4%E5%B9%B6%E7%BD%9A%E5%85%B1%E8%AE%A1247%E4%B8%87%E5%85%83)
 1. [新疆地震](https://www.zhihu.com/search?q=%E6%96%B0%E7%96%86%E5%9C%B0%E9%9C%87)
 1. [考编第1名却因学历重叠政审不合格](https://www.zhihu.com/search?q=%E8%80%83%E7%BC%96%E7%AC%AC1%E5%90%8D%E5%8D%B4%E5%9B%A0%E5%AD%A6%E5%8E%86%E9%87%8D%E5%8F%A0%E6%94%BF%E5%AE%A1%E4%B8%8D%E5%90%88%E6%A0%BC)
 1. [高市早苗涉台最新表态](https://www.zhihu.com/search?q=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%B6%89%E5%8F%B0%E6%9C%80%E6%96%B0%E8%A1%A8%E6%80%81)
-1. [工作中你捅过多大的娄子](https://www.zhihu.com/search?q=%E5%B7%A5%E4%BD%9C%E4%B8%AD%E4%BD%A0%E6%8D%85%E8%BF%87%E5%A4%9A%E5%A4%A7%E7%9A%84%E5%A8%84%E5%AD%90)
+1. [在北京处级和厅级真的很普通吗](https://www.zhihu.com/search?q=%E5%9C%A8%E5%8C%97%E4%BA%AC%E5%A4%84%E7%BA%A7%E5%92%8C%E5%8E%85%E7%BA%A7%E7%9C%9F%E7%9A%84%E5%BE%88%E6%99%AE%E9%80%9A%E5%90%97)
 1. [甲型 H3N2 流感已达高流行水平](https://www.zhihu.com/search?q=%E7%94%B2%E5%9E%8B%20H3N2%20%E6%B5%81%E6%84%9F%E5%B7%B2%E8%BE%BE%E9%AB%98%E6%B5%81%E8%A1%8C%E6%B0%B4%E5%B9%B3)
 1. [芳华最近火了](https://www.zhihu.com/search?q=%E8%8A%B3%E5%8D%8E%E6%9C%80%E8%BF%91%E7%81%AB%E4%BA%86)
 1. [良子公开最新体检报告](https://www.zhihu.com/search?q=%E8%89%AF%E5%AD%90%E5%85%AC%E5%BC%80%E6%9C%80%E6%96%B0%E4%BD%93%E6%A3%80%E6%8A%A5%E5%91%8A)
-1. [历史上有什么人物的结局是非常可惜的](https://www.zhihu.com/search?q=%E5%8E%86%E5%8F%B2%E4%B8%8A%E6%9C%89%E4%BB%80%E4%B9%88%E4%BA%BA%E7%89%A9%E7%9A%84%E7%BB%93%E5%B1%80%E6%98%AF%E9%9D%9E%E5%B8%B8%E5%8F%AF%E6%83%9C%E7%9A%84)
+1. [鳄鱼和鸟类不会衰老是真的吗](https://www.zhihu.com/search?q=%E9%B3%84%E9%B1%BC%E5%92%8C%E9%B8%9F%E7%B1%BB%E4%B8%8D%E4%BC%9A%E8%A1%B0%E8%80%81%E6%98%AF%E7%9C%9F%E7%9A%84%E5%90%97)
 1. [应届硕士偷偷参加国考](https://www.zhihu.com/search?q=%E5%BA%94%E5%B1%8A%E7%A1%95%E5%A3%AB%E5%81%B7%E5%81%B7%E5%8F%82%E5%8A%A0%E5%9B%BD%E8%80%83)
+1. [陈震多平台被禁言](https://www.zhihu.com/search?q=%E9%99%88%E9%9C%87%E5%A4%9A%E5%B9%B3%E5%8F%B0%E8%A2%AB%E7%A6%81%E8%A8%80)
+1. [朱雀三号](https://www.zhihu.com/search?q=%E6%9C%B1%E9%9B%80%E4%B8%89%E5%8F%B7)
+1. [工作中你捅过多大的娄子](https://www.zhihu.com/search?q=%E5%B7%A5%E4%BD%9C%E4%B8%AD%E4%BD%A0%E6%8D%85%E8%BF%87%E5%A4%9A%E5%A4%A7%E7%9A%84%E5%A8%84%E5%AD%90)
+1. [历史上有什么人物的结局是非常可惜的](https://www.zhihu.com/search?q=%E5%8E%86%E5%8F%B2%E4%B8%8A%E6%9C%89%E4%BB%80%E4%B9%88%E4%BA%BA%E7%89%A9%E7%9A%84%E7%BB%93%E5%B1%80%E6%98%AF%E9%9D%9E%E5%B8%B8%E5%8F%AF%E6%83%9C%E7%9A%84)
 1. [电动自行车新国标限速25公里/小时](https://www.zhihu.com/search?q=%E7%94%B5%E5%8A%A8%E8%87%AA%E8%A1%8C%E8%BD%A6%E6%96%B0%E5%9B%BD%E6%A0%87%E9%99%90%E9%80%9F25%E5%85%AC%E9%87%8C%2F%E5%B0%8F%E6%97%B6)
 1. [真正打动过你的一个设计是什么](https://www.zhihu.com/search?q=%E7%9C%9F%E6%AD%A3%E6%89%93%E5%8A%A8%E8%BF%87%E4%BD%A0%E7%9A%84%E4%B8%80%E4%B8%AA%E8%AE%BE%E8%AE%A1%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [教师编在未来真的还会吃香吗](https://www.zhihu.com/search?q=%E6%95%99%E5%B8%88%E7%BC%96%E5%9C%A8%E6%9C%AA%E6%9D%A5%E7%9C%9F%E7%9A%84%E8%BF%98%E4%BC%9A%E5%90%83%E9%A6%99%E5%90%97)
