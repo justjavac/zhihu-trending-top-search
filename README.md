@@ -14,20 +14,23 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Dec 06 2025 03:18:42 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Dec 06 2025 04:26:17 GMT+0800 (China Standard Time) -->
 
 1. [考编第1名却因学历重叠政审不合格](https://www.zhihu.com/search?q=%E8%80%83%E7%BC%96%E7%AC%AC1%E5%90%8D%E5%8D%B4%E5%9B%A0%E5%AD%A6%E5%8E%86%E9%87%8D%E5%8F%A0%E6%94%BF%E5%AE%A1%E4%B8%8D%E5%90%88%E6%A0%BC)
 1. [高市早苗涉台最新表态](https://www.zhihu.com/search?q=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%B6%89%E5%8F%B0%E6%9C%80%E6%96%B0%E8%A1%A8%E6%80%81)
-1. [Netflix正式官宣收购华纳兄弟](https://www.zhihu.com/search?q=Netflix%E6%AD%A3%E5%BC%8F%E5%AE%98%E5%AE%A3%E6%94%B6%E8%B4%AD%E5%8D%8E%E7%BA%B3%E5%85%84%E5%BC%9F)
-1. [饿了么正式更名为淘宝闪购](https://www.zhihu.com/search?q=%E9%A5%BF%E4%BA%86%E4%B9%88%E6%AD%A3%E5%BC%8F%E6%9B%B4%E5%90%8D%E4%B8%BA%E6%B7%98%E5%AE%9D%E9%97%AA%E8%B4%AD)
-1. [回收锅底有何危害](https://www.zhihu.com/search?q=%E5%9B%9E%E6%94%B6%E9%94%85%E5%BA%95%E6%9C%89%E4%BD%95%E5%8D%B1%E5%AE%B3)
-1. [香港就火灾进行全方位刑事调查](https://www.zhihu.com/search?q=%E9%A6%99%E6%B8%AF%E5%B0%B1%E7%81%AB%E7%81%BE%E8%BF%9B%E8%A1%8C%E5%85%A8%E6%96%B9%E4%BD%8D%E5%88%91%E4%BA%8B%E8%B0%83%E6%9F%A5)
 1. [陈震多平台被禁言](https://www.zhihu.com/search?q=%E9%99%88%E9%9C%87%E5%A4%9A%E5%B9%B3%E5%8F%B0%E8%A2%AB%E7%A6%81%E8%A8%80)
+1. [哪些演员因为饰演某一角色而被毁](https://www.zhihu.com/search?q=%E5%93%AA%E4%BA%9B%E6%BC%94%E5%91%98%E5%9B%A0%E4%B8%BA%E9%A5%B0%E6%BC%94%E6%9F%90%E4%B8%80%E8%A7%92%E8%89%B2%E8%80%8C%E8%A2%AB%E6%AF%81)
 1. [陈震偷税追缴并罚 247 万元](https://www.zhihu.com/search?q=%E9%99%88%E9%9C%87%E5%81%B7%E7%A8%8E%E8%BF%BD%E7%BC%B4%E5%B9%B6%E7%BD%9A%20247%20%E4%B8%87%E5%85%83)
+1. [香港就火灾进行全方位刑事调查](https://www.zhihu.com/search?q=%E9%A6%99%E6%B8%AF%E5%B0%B1%E7%81%AB%E7%81%BE%E8%BF%9B%E8%A1%8C%E5%85%A8%E6%96%B9%E4%BD%8D%E5%88%91%E4%BA%8B%E8%B0%83%E6%9F%A5)
+1. [饿了么正式更名为淘宝闪购](https://www.zhihu.com/search?q=%E9%A5%BF%E4%BA%86%E4%B9%88%E6%AD%A3%E5%BC%8F%E6%9B%B4%E5%90%8D%E4%B8%BA%E6%B7%98%E5%AE%9D%E9%97%AA%E8%B4%AD)
 1. [良子公开最新体检报告](https://www.zhihu.com/search?q=%E8%89%AF%E5%AD%90%E5%85%AC%E5%BC%80%E6%9C%80%E6%96%B0%E4%BD%93%E6%A3%80%E6%8A%A5%E5%91%8A)
-1. [若发动机效率超 90% 电动车还有必要吗](https://www.zhihu.com/search?q=%E8%8B%A5%E5%8F%91%E5%8A%A8%E6%9C%BA%E6%95%88%E7%8E%87%E8%B6%85%2090%25%20%E7%94%B5%E5%8A%A8%E8%BD%A6%E8%BF%98%E6%9C%89%E5%BF%85%E8%A6%81%E5%90%97)
+1. [为什么感觉川菜油大但四川人普遍不胖](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%84%9F%E8%A7%89%E5%B7%9D%E8%8F%9C%E6%B2%B9%E5%A4%A7%E4%BD%86%E5%9B%9B%E5%B7%9D%E4%BA%BA%E6%99%AE%E9%81%8D%E4%B8%8D%E8%83%96)
 1. [应届硕士偷偷参加国考](https://www.zhihu.com/search?q=%E5%BA%94%E5%B1%8A%E7%A1%95%E5%A3%AB%E5%81%B7%E5%81%B7%E5%8F%82%E5%8A%A0%E5%9B%BD%E8%80%83)
 1. [豆包手机](https://www.zhihu.com/search?q=%E8%B1%86%E5%8C%85%E6%89%8B%E6%9C%BA)
+1. [印度真的有新闻上说的那么落后吗](https://www.zhihu.com/search?q=%E5%8D%B0%E5%BA%A6%E7%9C%9F%E7%9A%84%E6%9C%89%E6%96%B0%E9%97%BB%E4%B8%8A%E8%AF%B4%E7%9A%84%E9%82%A3%E4%B9%88%E8%90%BD%E5%90%8E%E5%90%97)
+1. [Netflix正式官宣收购华纳兄弟](https://www.zhihu.com/search?q=Netflix%E6%AD%A3%E5%BC%8F%E5%AE%98%E5%AE%A3%E6%94%B6%E8%B4%AD%E5%8D%8E%E7%BA%B3%E5%85%84%E5%BC%9F)
+1. [回收锅底有何危害](https://www.zhihu.com/search?q=%E5%9B%9E%E6%94%B6%E9%94%85%E5%BA%95%E6%9C%89%E4%BD%95%E5%8D%B1%E5%AE%B3)
+1. [若发动机效率超 90% 电动车还有必要吗](https://www.zhihu.com/search?q=%E8%8B%A5%E5%8F%91%E5%8A%A8%E6%9C%BA%E6%95%88%E7%8E%87%E8%B6%85%2090%25%20%E7%94%B5%E5%8A%A8%E8%BD%A6%E8%BF%98%E6%9C%89%E5%BF%85%E8%A6%81%E5%90%97)
 1. [税务部门公布陈震偷税案件细节](https://www.zhihu.com/search?q=%E7%A8%8E%E5%8A%A1%E9%83%A8%E9%97%A8%E5%85%AC%E5%B8%83%E9%99%88%E9%9C%87%E5%81%B7%E7%A8%8E%E6%A1%88%E4%BB%B6%E7%BB%86%E8%8A%82)
 1. [新疆地震](https://www.zhihu.com/search?q=%E6%96%B0%E7%96%86%E5%9C%B0%E9%9C%87)
 1. [一单位电脑采购价近 3 亿回应称单位写错](https://www.zhihu.com/search?q=%E4%B8%80%E5%8D%95%E4%BD%8D%E7%94%B5%E8%84%91%E9%87%87%E8%B4%AD%E4%BB%B7%E8%BF%91%203%20%E4%BA%BF%E5%9B%9E%E5%BA%94%E7%A7%B0%E5%8D%95%E4%BD%8D%E5%86%99%E9%94%99)
