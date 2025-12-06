@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Dec 07 2025 04:23:48 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Dec 07 2025 05:18:44 GMT+0800 (China Standard Time) -->
 
 1. [饿了么正式更名为淘宝闪购](https://www.zhihu.com/search?q=%E9%A5%BF%E4%BA%86%E4%B9%88%E6%AD%A3%E5%BC%8F%E6%9B%B4%E5%90%8D%E4%B8%BA%E6%B7%98%E5%AE%9D%E9%97%AA%E8%B4%AD)
 1. [2026世界杯抽签](https://www.zhihu.com/search?q=2026%E4%B8%96%E7%95%8C%E6%9D%AF%E6%8A%BD%E7%AD%BE)
