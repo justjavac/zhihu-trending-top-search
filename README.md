@@ -14,12 +14,12 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Dec 07 2025 03:17:06 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Dec 07 2025 04:23:48 GMT+0800 (China Standard Time) -->
 
 1. [饿了么正式更名为淘宝闪购](https://www.zhihu.com/search?q=%E9%A5%BF%E4%BA%86%E4%B9%88%E6%AD%A3%E5%BC%8F%E6%9B%B4%E5%90%8D%E4%B8%BA%E6%B7%98%E5%AE%9D%E9%97%AA%E8%B4%AD)
 1. [2026世界杯抽签](https://www.zhihu.com/search?q=2026%E4%B8%96%E7%95%8C%E6%9D%AF%E6%8A%BD%E7%AD%BE)
-1. [陈震多平台被禁言](https://www.zhihu.com/search?q=%E9%99%88%E9%9C%87%E5%A4%9A%E5%B9%B3%E5%8F%B0%E8%A2%AB%E7%A6%81%E8%A8%80)
 1. [多家APP对豆包手机禁用](https://www.zhihu.com/search?q=%E5%A4%9A%E5%AE%B6APP%E5%AF%B9%E8%B1%86%E5%8C%85%E6%89%8B%E6%9C%BA%E7%A6%81%E7%94%A8)
+1. [陈震多平台被禁言](https://www.zhihu.com/search?q=%E9%99%88%E9%9C%87%E5%A4%9A%E5%B9%B3%E5%8F%B0%E8%A2%AB%E7%A6%81%E8%A8%80)
 1. [阿里系APP禁止豆包手机登陆](https://www.zhihu.com/search?q=%E9%98%BF%E9%87%8C%E7%B3%BBAPP%E7%A6%81%E6%AD%A2%E8%B1%86%E5%8C%85%E6%89%8B%E6%9C%BA%E7%99%BB%E9%99%86)
 1. [中法发表多份联合声明](https://www.zhihu.com/search?q=%E4%B8%AD%E6%B3%95%E5%8F%91%E8%A1%A8%E5%A4%9A%E4%BB%BD%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E)
 1. [豆包手机](https://www.zhihu.com/search?q=%E8%B1%86%E5%8C%85%E6%89%8B%E6%9C%BA)
