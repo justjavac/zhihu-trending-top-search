@@ -14,20 +14,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Dec 08 2025 03:16:54 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Dec 08 2025 04:23:32 GMT+0800 (China Standard Time) -->
 
-1. [混团世界杯决赛中国8-1日本](https://www.zhihu.com/search?q=%E6%B7%B7%E5%9B%A2%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B%E4%B8%AD%E5%9B%BD8-1%E6%97%A5%E6%9C%AC)
-1. [日本飞机多次抵近滋扰中国海军训练](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E9%A3%9E%E6%9C%BA%E5%A4%9A%E6%AC%A1%E6%8A%B5%E8%BF%91%E6%BB%8B%E6%89%B0%E4%B8%AD%E5%9B%BD%E6%B5%B7%E5%86%9B%E8%AE%AD%E7%BB%83)
-1. [多家APP对豆包手机禁用](https://www.zhihu.com/search?q=%E5%A4%9A%E5%AE%B6APP%E5%AF%B9%E8%B1%86%E5%8C%85%E6%89%8B%E6%9C%BA%E7%A6%81%E7%94%A8)
 1. [爱奇艺道歉](https://www.zhihu.com/search?q=%E7%88%B1%E5%A5%87%E8%89%BA%E9%81%93%E6%AD%89)
+1. [多家APP对豆包手机禁用](https://www.zhihu.com/search?q=%E5%A4%9A%E5%AE%B6APP%E5%AF%B9%E8%B1%86%E5%8C%85%E6%89%8B%E6%9C%BA%E7%A6%81%E7%94%A8)
 1. [马克龙访问四川大学](https://www.zhihu.com/search?q=%E9%A9%AC%E5%85%8B%E9%BE%99%E8%AE%BF%E9%97%AE%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6)
-1. [中法发表多份联合声明](https://www.zhihu.com/search?q=%E4%B8%AD%E6%B3%95%E5%8F%91%E8%A1%A8%E5%A4%9A%E4%BB%BD%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E)
 1. [阿里系APP禁止豆包手机登陆](https://www.zhihu.com/search?q=%E9%98%BF%E9%87%8C%E7%B3%BBAPP%E7%A6%81%E6%AD%A2%E8%B1%86%E5%8C%85%E6%89%8B%E6%9C%BA%E7%99%BB%E9%99%86)
-1. [美军承认:击落美军战机](https://www.zhihu.com/search?q=%E7%BE%8E%E5%86%9B%E6%89%BF%E8%AE%A4%3A%E5%87%BB%E8%90%BD%E7%BE%8E%E5%86%9B%E6%88%98%E6%9C%BA)
+1. [中法发表多份联合声明](https://www.zhihu.com/search?q=%E4%B8%AD%E6%B3%95%E5%8F%91%E8%A1%A8%E5%A4%9A%E4%BB%BD%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E)
 1. [省考](https://www.zhihu.com/search?q=%E7%9C%81%E8%80%83)
+1. [美军承认:击落美军战机](https://www.zhihu.com/search?q=%E7%BE%8E%E5%86%9B%E6%89%BF%E8%AE%A4%3A%E5%87%BB%E8%90%BD%E7%BE%8E%E5%86%9B%E6%88%98%E6%9C%BA)
+1. [混团世界杯决赛中国8-1日本](https://www.zhihu.com/search?q=%E6%B7%B7%E5%9B%A2%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B%E4%B8%AD%E5%9B%BD8-1%E6%97%A5%E6%9C%AC)
 1. [2025医保药品目录公布](https://www.zhihu.com/search?q=2025%E5%8C%BB%E4%BF%9D%E8%8D%AF%E5%93%81%E7%9B%AE%E5%BD%95%E5%85%AC%E5%B8%83)
-1. [陈震偷税追缴并罚 247 万元](https://www.zhihu.com/search?q=%E9%99%88%E9%9C%87%E5%81%B7%E7%A8%8E%E8%BF%BD%E7%BC%B4%E5%B9%B6%E7%BD%9A%20247%20%E4%B8%87%E5%85%83)
 1. [全网最忙五人组](https://www.zhihu.com/search?q=%E5%85%A8%E7%BD%91%E6%9C%80%E5%BF%99%E4%BA%94%E4%BA%BA%E7%BB%84)
+1. [陈震宣布全面停更，团队保留](https://www.zhihu.com/search?q=%E9%99%88%E9%9C%87%E5%AE%A3%E5%B8%83%E5%85%A8%E9%9D%A2%E5%81%9C%E6%9B%B4%EF%BC%8C%E5%9B%A2%E9%98%9F%E4%BF%9D%E7%95%99)
+1. [陈震偷税追缴并罚 247 万元](https://www.zhihu.com/search?q=%E9%99%88%E9%9C%87%E5%81%B7%E7%A8%8E%E8%BF%BD%E7%BC%B4%E5%B9%B6%E7%BD%9A%20247%20%E4%B8%87%E5%85%83)
+1. [日本飞机多次抵近滋扰中国海军训练](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E9%A3%9E%E6%9C%BA%E5%A4%9A%E6%AC%A1%E6%8A%B5%E8%BF%91%E6%BB%8B%E6%89%B0%E4%B8%AD%E5%9B%BD%E6%B5%B7%E5%86%9B%E8%AE%AD%E7%BB%83)
 1. [陈震多平台被禁言](https://www.zhihu.com/search?q=%E9%99%88%E9%9C%87%E5%A4%9A%E5%B9%B3%E5%8F%B0%E8%A2%AB%E7%A6%81%E8%A8%80)
 1. [《喜人奇妙夜》第二季五花八们夺冠](https://www.zhihu.com/search?q=%E3%80%8A%E5%96%9C%E4%BA%BA%E5%A5%87%E5%A6%99%E5%A4%9C%E3%80%8B%E7%AC%AC%E4%BA%8C%E5%AD%A3%E4%BA%94%E8%8A%B1%E5%85%AB%E4%BB%AC%E5%A4%BA%E5%86%A0)
 
