@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Dec 08 2025 04:23:32 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Dec 08 2025 05:18:04 GMT+0800 (China Standard Time) -->
 
 1. [爱奇艺道歉](https://www.zhihu.com/search?q=%E7%88%B1%E5%A5%87%E8%89%BA%E9%81%93%E6%AD%89)
 1. [多家APP对豆包手机禁用](https://www.zhihu.com/search?q=%E5%A4%9A%E5%AE%B6APP%E5%AF%B9%E8%B1%86%E5%8C%85%E6%89%8B%E6%9C%BA%E7%A6%81%E7%94%A8)
