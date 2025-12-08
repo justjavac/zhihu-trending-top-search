@@ -14,20 +14,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Dec 08 2025 20:49:14 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Dec 08 2025 21:36:20 GMT+0800 (China Standard Time) -->
 
-1. [马克龙访问四川大学](https://www.zhihu.com/search?q=%E9%A9%AC%E5%85%8B%E9%BE%99%E8%AE%BF%E9%97%AE%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6)
+1. [多家APP对豆包手机禁用](https://www.zhihu.com/search?q=%E5%A4%9A%E5%AE%B6APP%E5%AF%B9%E8%B1%86%E5%8C%85%E6%89%8B%E6%9C%BA%E7%A6%81%E7%94%A8)
 1. [苟仲文一审被判死缓](https://www.zhihu.com/search?q=%E8%8B%9F%E4%BB%B2%E6%96%87%E4%B8%80%E5%AE%A1%E8%A2%AB%E5%88%A4%E6%AD%BB%E7%BC%93)
 1. [马航 MH370 部分失联乘客家属索赔案宣判](https://www.zhihu.com/search?q=%E9%A9%AC%E8%88%AA%20MH370%20%E9%83%A8%E5%88%86%E5%A4%B1%E8%81%94%E4%B9%98%E5%AE%A2%E5%AE%B6%E5%B1%9E%E7%B4%A2%E8%B5%94%E6%A1%88%E5%AE%A3%E5%88%A4)
-1. [多家APP对豆包手机禁用](https://www.zhihu.com/search?q=%E5%A4%9A%E5%AE%B6APP%E5%AF%B9%E8%B1%86%E5%8C%85%E6%89%8B%E6%9C%BA%E7%A6%81%E7%94%A8)
 1. [阿里系APP禁止豆包手机登陆](https://www.zhihu.com/search?q=%E9%98%BF%E9%87%8C%E7%B3%BBAPP%E7%A6%81%E6%AD%A2%E8%B1%86%E5%8C%85%E6%89%8B%E6%9C%BA%E7%99%BB%E9%99%86)
-1. [为何国内做不出《星际争霸 2》这样的游戏](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E5%9B%BD%E5%86%85%E5%81%9A%E4%B8%8D%E5%87%BA%E3%80%8A%E6%98%9F%E9%99%85%E4%BA%89%E9%9C%B8%202%E3%80%8B%E8%BF%99%E6%A0%B7%E7%9A%84%E6%B8%B8%E6%88%8F)
 1. [中法发表多份联合声明](https://www.zhihu.com/search?q=%E4%B8%AD%E6%B3%95%E5%8F%91%E8%A1%A8%E5%A4%9A%E4%BB%BD%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E)
+1. [MacBook 为什么说最适合程序员使用](https://www.zhihu.com/search?q=MacBook%20%E4%B8%BA%E4%BB%80%E4%B9%88%E8%AF%B4%E6%9C%80%E9%80%82%E5%90%88%E7%A8%8B%E5%BA%8F%E5%91%98%E4%BD%BF%E7%94%A8)
 1. [全网最忙五人组](https://www.zhihu.com/search?q=%E5%85%A8%E7%BD%91%E6%9C%80%E5%BF%99%E4%BA%94%E4%BA%BA%E7%BB%84)
 1. [郭德纲被约谈](https://www.zhihu.com/search?q=%E9%83%AD%E5%BE%B7%E7%BA%B2%E8%A2%AB%E7%BA%A6%E8%B0%88)
-1. [MacBook 为什么说最适合程序员使用](https://www.zhihu.com/search?q=MacBook%20%E4%B8%BA%E4%BB%80%E4%B9%88%E8%AF%B4%E6%9C%80%E9%80%82%E5%90%88%E7%A8%8B%E5%BA%8F%E5%91%98%E4%BD%BF%E7%94%A8)
+1. [马克龙访问四川大学](https://www.zhihu.com/search?q=%E9%A9%AC%E5%85%8B%E9%BE%99%E8%AE%BF%E9%97%AE%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6)
+1. [为何科学不解答宇宙终极问题而留给哲学](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E7%A7%91%E5%AD%A6%E4%B8%8D%E8%A7%A3%E7%AD%94%E5%AE%87%E5%AE%99%E7%BB%88%E6%9E%81%E9%97%AE%E9%A2%98%E8%80%8C%E7%95%99%E7%BB%99%E5%93%B2%E5%AD%A6)
 1. [混团世界杯决赛中国8-1日本](https://www.zhihu.com/search?q=%E6%B7%B7%E5%9B%A2%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B%E4%B8%AD%E5%9B%BD8-1%E6%97%A5%E6%9C%AC)
 1. [美国发布最新《国家安全战略》](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E3%80%8A%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E6%88%98%E7%95%A5%E3%80%8B)
+1. [为何国内做不出《星际争霸 2》这样的游戏](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E5%9B%BD%E5%86%85%E5%81%9A%E4%B8%8D%E5%87%BA%E3%80%8A%E6%98%9F%E9%99%85%E4%BA%89%E9%9C%B8%202%E3%80%8B%E8%BF%99%E6%A0%B7%E7%9A%84%E6%B8%B8%E6%88%8F)
 1. [海贼王的霸气是设定的败笔吗](https://www.zhihu.com/search?q=%E6%B5%B7%E8%B4%BC%E7%8E%8B%E7%9A%84%E9%9C%B8%E6%B0%94%E6%98%AF%E8%AE%BE%E5%AE%9A%E7%9A%84%E8%B4%A5%E7%AC%94%E5%90%97)
 1. [马克龙为什么要去四川大学](https://www.zhihu.com/search?q=%E9%A9%AC%E5%85%8B%E9%BE%99%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%8E%BB%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6)
 1. [省考](https://www.zhihu.com/search?q=%E7%9C%81%E8%80%83)
