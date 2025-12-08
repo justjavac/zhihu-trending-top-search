@@ -14,20 +14,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Dec 08 2025 14:38:22 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Dec 08 2025 15:26:22 GMT+0800 (China Standard Time) -->
 
 1. [爱奇艺道歉](https://www.zhihu.com/search?q=%E7%88%B1%E5%A5%87%E8%89%BA%E9%81%93%E6%AD%89)
-1. [马克龙访问四川大学](https://www.zhihu.com/search?q=%E9%A9%AC%E5%85%8B%E9%BE%99%E8%AE%BF%E9%97%AE%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6)
 1. [多家APP对豆包手机禁用](https://www.zhihu.com/search?q=%E5%A4%9A%E5%AE%B6APP%E5%AF%B9%E8%B1%86%E5%8C%85%E6%89%8B%E6%9C%BA%E7%A6%81%E7%94%A8)
-1. [胖东来招年薪不低于百万的人才是什么定位](https://www.zhihu.com/search?q=%E8%83%96%E4%B8%9C%E6%9D%A5%E6%8B%9B%E5%B9%B4%E8%96%AA%E4%B8%8D%E4%BD%8E%E4%BA%8E%E7%99%BE%E4%B8%87%E7%9A%84%E4%BA%BA%E6%89%8D%E6%98%AF%E4%BB%80%E4%B9%88%E5%AE%9A%E4%BD%8D)
 1. [美军承认:击落美军战机](https://www.zhihu.com/search?q=%E7%BE%8E%E5%86%9B%E6%89%BF%E8%AE%A4%3A%E5%87%BB%E8%90%BD%E7%BE%8E%E5%86%9B%E6%88%98%E6%9C%BA)
+1. [多个品牌手机涨价影响会持续多久](https://www.zhihu.com/search?q=%E5%A4%9A%E4%B8%AA%E5%93%81%E7%89%8C%E6%89%8B%E6%9C%BA%E6%B6%A8%E4%BB%B7%E5%BD%B1%E5%93%8D%E4%BC%9A%E6%8C%81%E7%BB%AD%E5%A4%9A%E4%B9%85)
 1. [阿里系APP禁止豆包手机登陆](https://www.zhihu.com/search?q=%E9%98%BF%E9%87%8C%E7%B3%BBAPP%E7%A6%81%E6%AD%A2%E8%B1%86%E5%8C%85%E6%89%8B%E6%9C%BA%E7%99%BB%E9%99%86)
 1. [中法发表多份联合声明](https://www.zhihu.com/search?q=%E4%B8%AD%E6%B3%95%E5%8F%91%E8%A1%A8%E5%A4%9A%E4%BB%BD%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E)
-1. [多个品牌手机涨价影响会持续多久](https://www.zhihu.com/search?q=%E5%A4%9A%E4%B8%AA%E5%93%81%E7%89%8C%E6%89%8B%E6%9C%BA%E6%B6%A8%E4%BB%B7%E5%BD%B1%E5%93%8D%E4%BC%9A%E6%8C%81%E7%BB%AD%E5%A4%9A%E4%B9%85)
-1. [全网最忙五人组](https://www.zhihu.com/search?q=%E5%85%A8%E7%BD%91%E6%9C%80%E5%BF%99%E4%BA%94%E4%BA%BA%E7%BB%84)
-1. [混团世界杯决赛中国8-1日本](https://www.zhihu.com/search?q=%E6%B7%B7%E5%9B%A2%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B%E4%B8%AD%E5%9B%BD8-1%E6%97%A5%E6%9C%AC)
+1. [马克龙访问四川大学](https://www.zhihu.com/search?q=%E9%A9%AC%E5%85%8B%E9%BE%99%E8%AE%BF%E9%97%AE%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6)
 1. [坏死的肢体必须截掉吗](https://www.zhihu.com/search?q=%E5%9D%8F%E6%AD%BB%E7%9A%84%E8%82%A2%E4%BD%93%E5%BF%85%E9%A1%BB%E6%88%AA%E6%8E%89%E5%90%97)
+1. [全网最忙五人组](https://www.zhihu.com/search?q=%E5%85%A8%E7%BD%91%E6%9C%80%E5%BF%99%E4%BA%94%E4%BA%BA%E7%BB%84)
 1. [陈震宣布全面停更，团队保留](https://www.zhihu.com/search?q=%E9%99%88%E9%9C%87%E5%AE%A3%E5%B8%83%E5%85%A8%E9%9D%A2%E5%81%9C%E6%9B%B4%EF%BC%8C%E5%9B%A2%E9%98%9F%E4%BF%9D%E7%95%99)
+1. [99 年研究员任博导晋升速度引关注](https://www.zhihu.com/search?q=99%20%E5%B9%B4%E7%A0%94%E7%A9%B6%E5%91%98%E4%BB%BB%E5%8D%9A%E5%AF%BC%E6%99%8B%E5%8D%87%E9%80%9F%E5%BA%A6%E5%BC%95%E5%85%B3%E6%B3%A8)
+1. [混团世界杯决赛中国8-1日本](https://www.zhihu.com/search?q=%E6%B7%B7%E5%9B%A2%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B%E4%B8%AD%E5%9B%BD8-1%E6%97%A5%E6%9C%AC)
+1. [胖东来招年薪不低于百万的人才是什么定位](https://www.zhihu.com/search?q=%E8%83%96%E4%B8%9C%E6%9D%A5%E6%8B%9B%E5%B9%B4%E8%96%AA%E4%B8%8D%E4%BD%8E%E4%BA%8E%E7%99%BE%E4%B8%87%E7%9A%84%E4%BA%BA%E6%89%8D%E6%98%AF%E4%BB%80%E4%B9%88%E5%AE%9A%E4%BD%8D)
 1. [为什么在 35℃ 下人们觉得很热](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%9C%A8%2035%E2%84%83%20%E4%B8%8B%E4%BA%BA%E4%BB%AC%E8%A7%89%E5%BE%97%E5%BE%88%E7%83%AD)
 1. [比亚迪的护城河还在吗](https://www.zhihu.com/search?q=%E6%AF%94%E4%BA%9A%E8%BF%AA%E7%9A%84%E6%8A%A4%E5%9F%8E%E6%B2%B3%E8%BF%98%E5%9C%A8%E5%90%97)
 1. [iRobot 欠中国代工厂 25 亿元](https://www.zhihu.com/search?q=iRobot%20%E6%AC%A0%E4%B8%AD%E5%9B%BD%E4%BB%A3%E5%B7%A5%E5%8E%82%2025%20%E4%BA%BF%E5%85%83)
