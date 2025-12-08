@@ -14,20 +14,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Dec 08 2025 18:26:52 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Dec 08 2025 19:21:01 GMT+0800 (China Standard Time) -->
 
 1. [多家APP对豆包手机禁用](https://www.zhihu.com/search?q=%E5%A4%9A%E5%AE%B6APP%E5%AF%B9%E8%B1%86%E5%8C%85%E6%89%8B%E6%9C%BA%E7%A6%81%E7%94%A8)
 1. [苟仲文一审被判死缓](https://www.zhihu.com/search?q=%E8%8B%9F%E4%BB%B2%E6%96%87%E4%B8%80%E5%AE%A1%E8%A2%AB%E5%88%A4%E6%AD%BB%E7%BC%93)
 1. [马航 MH370 部分失联乘客家属索赔案宣判](https://www.zhihu.com/search?q=%E9%A9%AC%E8%88%AA%20MH370%20%E9%83%A8%E5%88%86%E5%A4%B1%E8%81%94%E4%B9%98%E5%AE%A2%E5%AE%B6%E5%B1%9E%E7%B4%A2%E8%B5%94%E6%A1%88%E5%AE%A3%E5%88%A4)
 1. [阿里系APP禁止豆包手机登陆](https://www.zhihu.com/search?q=%E9%98%BF%E9%87%8C%E7%B3%BBAPP%E7%A6%81%E6%AD%A2%E8%B1%86%E5%8C%85%E6%89%8B%E6%9C%BA%E7%99%BB%E9%99%86)
 1. [中法发表多份联合声明](https://www.zhihu.com/search?q=%E4%B8%AD%E6%B3%95%E5%8F%91%E8%A1%A8%E5%A4%9A%E4%BB%BD%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E)
-1. [终身监禁威慑力更强为何很多人反对废死](https://www.zhihu.com/search?q=%E7%BB%88%E8%BA%AB%E7%9B%91%E7%A6%81%E5%A8%81%E6%85%91%E5%8A%9B%E6%9B%B4%E5%BC%BA%E4%B8%BA%E4%BD%95%E5%BE%88%E5%A4%9A%E4%BA%BA%E5%8F%8D%E5%AF%B9%E5%BA%9F%E6%AD%BB)
-1. [马克龙访问四川大学](https://www.zhihu.com/search?q=%E9%A9%AC%E5%85%8B%E9%BE%99%E8%AE%BF%E9%97%AE%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6)
-1. [全网最忙五人组](https://www.zhihu.com/search?q=%E5%85%A8%E7%BD%91%E6%9C%80%E5%BF%99%E4%BA%94%E4%BA%BA%E7%BB%84)
-1. [郭德纲被约谈](https://www.zhihu.com/search?q=%E9%83%AD%E5%BE%B7%E7%BA%B2%E8%A2%AB%E7%BA%A6%E8%B0%88)
 1. [海贼王的霸气是设定的败笔吗](https://www.zhihu.com/search?q=%E6%B5%B7%E8%B4%BC%E7%8E%8B%E7%9A%84%E9%9C%B8%E6%B0%94%E6%98%AF%E8%AE%BE%E5%AE%9A%E7%9A%84%E8%B4%A5%E7%AC%94%E5%90%97)
+1. [全网最忙五人组](https://www.zhihu.com/search?q=%E5%85%A8%E7%BD%91%E6%9C%80%E5%BF%99%E4%BA%94%E4%BA%BA%E7%BB%84)
+1. [马克龙访问四川大学](https://www.zhihu.com/search?q=%E9%A9%AC%E5%85%8B%E9%BE%99%E8%AE%BF%E9%97%AE%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6)
+1. [郭德纲被约谈](https://www.zhihu.com/search?q=%E9%83%AD%E5%BE%B7%E7%BA%B2%E8%A2%AB%E7%BA%A6%E8%B0%88)
+1. [马克龙为什么要去四川大学](https://www.zhihu.com/search?q=%E9%A9%AC%E5%85%8B%E9%BE%99%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%8E%BB%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6)
 1. [混团世界杯决赛中国8-1日本](https://www.zhihu.com/search?q=%E6%B7%B7%E5%9B%A2%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B%E4%B8%AD%E5%9B%BD8-1%E6%97%A5%E6%9C%AC)
 1. [省考](https://www.zhihu.com/search?q=%E7%9C%81%E8%80%83)
+1. [终身监禁威慑力更强为何很多人反对废死](https://www.zhihu.com/search?q=%E7%BB%88%E8%BA%AB%E7%9B%91%E7%A6%81%E5%A8%81%E6%85%91%E5%8A%9B%E6%9B%B4%E5%BC%BA%E4%B8%BA%E4%BD%95%E5%BE%88%E5%A4%9A%E4%BA%BA%E5%8F%8D%E5%AF%B9%E5%BA%9F%E6%AD%BB)
 1. [美军承认:击落美军战机](https://www.zhihu.com/search?q=%E7%BE%8E%E5%86%9B%E6%89%BF%E8%AE%A4%3A%E5%87%BB%E8%90%BD%E7%BE%8E%E5%86%9B%E6%88%98%E6%9C%BA)
 1. [如何评价游戏《烽火十四》的先导片](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E6%B8%B8%E6%88%8F%E3%80%8A%E7%83%BD%E7%81%AB%E5%8D%81%E5%9B%9B%E3%80%8B%E7%9A%84%E5%85%88%E5%AF%BC%E7%89%87)
 1. [大湾区大学的定位和发展有哪些独特性](https://www.zhihu.com/search?q=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%A4%A7%E5%AD%A6%E7%9A%84%E5%AE%9A%E4%BD%8D%E5%92%8C%E5%8F%91%E5%B1%95%E6%9C%89%E5%93%AA%E4%BA%9B%E7%8B%AC%E7%89%B9%E6%80%A7)
