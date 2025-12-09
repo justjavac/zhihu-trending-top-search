@@ -14,20 +14,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Dec 09 2025 11:20:38 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Dec 09 2025 12:30:51 GMT+0800 (China Standard Time) -->
 
 1. [苏炳添宣布退役](https://www.zhihu.com/search?q=%E8%8B%8F%E7%82%B3%E6%B7%BB%E5%AE%A3%E5%B8%83%E9%80%80%E5%BD%B9)
 1. [蓝战非称被绑架](https://www.zhihu.com/search?q=%E8%93%9D%E6%88%98%E9%9D%9E%E7%A7%B0%E8%A2%AB%E7%BB%91%E6%9E%B6)
-1. [日本地震](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87)
-1. [梁文锋杜梦然入选自然杂志十大科学人物](https://www.zhihu.com/search?q=%E6%A2%81%E6%96%87%E9%94%8B%E6%9D%9C%E6%A2%A6%E7%84%B6%E5%85%A5%E9%80%89%E8%87%AA%E7%84%B6%E6%9D%82%E5%BF%97%E5%8D%81%E5%A4%A7%E7%A7%91%E5%AD%A6%E4%BA%BA%E7%89%A9)
-1. [河北沧州杀妻案一审宣判](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8C%97%E6%B2%A7%E5%B7%9E%E6%9D%80%E5%A6%BB%E6%A1%88%E4%B8%80%E5%AE%A1%E5%AE%A3%E5%88%A4)
-1. [河北沧州杀妻案男方被判死刑](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8C%97%E6%B2%A7%E5%B7%9E%E6%9D%80%E5%A6%BB%E6%A1%88%E7%94%B7%E6%96%B9%E8%A2%AB%E5%88%A4%E6%AD%BB%E5%88%91)
-1. [日本又发生6.6级地震](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E5%8F%88%E5%8F%91%E7%94%9F6.6%E7%BA%A7%E5%9C%B0%E9%9C%87)
-1. [QQ 经典版回归](https://www.zhihu.com/search?q=QQ%20%E7%BB%8F%E5%85%B8%E7%89%88%E5%9B%9E%E5%BD%92)
 1. [英伟达获准对华出售 H200 芯片](https://www.zhihu.com/search?q=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%8E%B7%E5%87%86%E5%AF%B9%E5%8D%8E%E5%87%BA%E5%94%AE%20H200%20%E8%8A%AF%E7%89%87)
+1. [日本又发生6.6级地震](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E5%8F%88%E5%8F%91%E7%94%9F6.6%E7%BA%A7%E5%9C%B0%E9%9C%87)
+1. [梁文锋杜梦然入选自然杂志十大科学人物](https://www.zhihu.com/search?q=%E6%A2%81%E6%96%87%E9%94%8B%E6%9D%9C%E6%A2%A6%E7%84%B6%E5%85%A5%E9%80%89%E8%87%AA%E7%84%B6%E6%9D%82%E5%BF%97%E5%8D%81%E5%A4%A7%E7%A7%91%E5%AD%A6%E4%BA%BA%E7%89%A9)
+1. [河北沧州杀妻案男方被判死刑](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8C%97%E6%B2%A7%E5%B7%9E%E6%9D%80%E5%A6%BB%E6%A1%88%E7%94%B7%E6%96%B9%E8%A2%AB%E5%88%A4%E6%AD%BB%E5%88%91)
+1. [日本地震](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87)
+1. [QQ 经典版回归](https://www.zhihu.com/search?q=QQ%20%E7%BB%8F%E5%85%B8%E7%89%88%E5%9B%9E%E5%BD%92)
 1. [多家APP对豆包手机禁用](https://www.zhihu.com/search?q=%E5%A4%9A%E5%AE%B6APP%E5%AF%B9%E8%B1%86%E5%8C%85%E6%89%8B%E6%9C%BA%E7%A6%81%E7%94%A8)
 1. [阿里系APP禁止豆包手机登陆](https://www.zhihu.com/search?q=%E9%98%BF%E9%87%8C%E7%B3%BBAPP%E7%A6%81%E6%AD%A2%E8%B1%86%E5%8C%85%E6%89%8B%E6%9C%BA%E7%99%BB%E9%99%86)
 1. [郭德纲被约谈](https://www.zhihu.com/search?q=%E9%83%AD%E5%BE%B7%E7%BA%B2%E8%A2%AB%E7%BA%A6%E8%B0%88)
+1. [昆汀选出 21 世纪最伟大电影片单](https://www.zhihu.com/search?q=%E6%98%86%E6%B1%80%E9%80%89%E5%87%BA%2021%20%E4%B8%96%E7%BA%AA%E6%9C%80%E4%BC%9F%E5%A4%A7%E7%94%B5%E5%BD%B1%E7%89%87%E5%8D%95)
+1. [河北沧州杀妻案一审宣判](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8C%97%E6%B2%A7%E5%B7%9E%E6%9D%80%E5%A6%BB%E6%A1%88%E4%B8%80%E5%AE%A1%E5%AE%A3%E5%88%A4)
 1. [如何评价游戏《烽火十四》的先导片](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E6%B8%B8%E6%88%8F%E3%80%8A%E7%83%BD%E7%81%AB%E5%8D%81%E5%9B%9B%E3%80%8B%E7%9A%84%E5%85%88%E5%AF%BC%E7%89%87)
 1. [全网最忙五人组](https://www.zhihu.com/search?q=%E5%85%A8%E7%BD%91%E6%9C%80%E5%BF%99%E4%BA%94%E4%BA%BA%E7%BB%84)
 1. [苟仲文一审被判死缓](https://www.zhihu.com/search?q=%E8%8B%9F%E4%BB%B2%E6%96%87%E4%B8%80%E5%AE%A1%E8%A2%AB%E5%88%A4%E6%AD%BB%E7%BC%93)
@@ -38,7 +39,6 @@
 1. [马航 MH370 部分失联乘客家属索赔案宣判](https://www.zhihu.com/search?q=%E9%A9%AC%E8%88%AA%20MH370%20%E9%83%A8%E5%88%86%E5%A4%B1%E8%81%94%E4%B9%98%E5%AE%A2%E5%AE%B6%E5%B1%9E%E7%B4%A2%E8%B5%94%E6%A1%88%E5%AE%A3%E5%88%A4)
 1. [俞敏洪称已要求调查员工反映的问题](https://www.zhihu.com/search?q=%E4%BF%9E%E6%95%8F%E6%B4%AA%E7%A7%B0%E5%B7%B2%E8%A6%81%E6%B1%82%E8%B0%83%E6%9F%A5%E5%91%98%E5%B7%A5%E5%8F%8D%E6%98%A0%E7%9A%84%E9%97%AE%E9%A2%98)
 1. [日本预测 1.8 万人遇难](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E9%A2%84%E6%B5%8B%20%201.8%20%E4%B8%87%E4%BA%BA%E9%81%87%E9%9A%BE)
-1. [昆汀选出 21 世纪最伟大电影片单](https://www.zhihu.com/search?q=%E6%98%86%E6%B1%80%E9%80%89%E5%87%BA%2021%20%E4%B8%96%E7%BA%AA%E6%9C%80%E4%BC%9F%E5%A4%A7%E7%94%B5%E5%BD%B1%E7%89%87%E5%8D%95)
 1. [为什么在 35℃ 下人们觉得很热](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%9C%A8%2035%E2%84%83%20%E4%B8%8B%E4%BA%BA%E4%BB%AC%E8%A7%89%E5%BE%97%E5%BE%88%E7%83%AD)
 1. [比亚迪的护城河还在吗](https://www.zhihu.com/search?q=%E6%AF%94%E4%BA%9A%E8%BF%AA%E7%9A%84%E6%8A%A4%E5%9F%8E%E6%B2%B3%E8%BF%98%E5%9C%A8%E5%90%97)
 1. [你认为最失败的 Logo 设计有哪些](https://www.zhihu.com/search?q=%E4%BD%A0%E8%AE%A4%E4%B8%BA%E6%9C%80%E5%A4%B1%E8%B4%A5%E7%9A%84%20Logo%20%E8%AE%BE%E8%AE%A1%E6%9C%89%E5%93%AA%E4%BA%9B)
