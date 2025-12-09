@@ -14,20 +14,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Dec 09 2025 15:24:19 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Dec 09 2025 16:33:34 GMT+0800 (China Standard Time) -->
 
 1. [苏炳添宣布退役](https://www.zhihu.com/search?q=%E8%8B%8F%E7%82%B3%E6%B7%BB%E5%AE%A3%E5%B8%83%E9%80%80%E5%BD%B9)
-1. [蓝战非称被绑架](https://www.zhihu.com/search?q=%E8%93%9D%E6%88%98%E9%9D%9E%E7%A7%B0%E8%A2%AB%E7%BB%91%E6%9E%B6)
 1. [多家APP对豆包手机禁用](https://www.zhihu.com/search?q=%E5%A4%9A%E5%AE%B6APP%E5%AF%B9%E8%B1%86%E5%8C%85%E6%89%8B%E6%9C%BA%E7%A6%81%E7%94%A8)
-1. [阿里系APP禁止豆包手机登陆](https://www.zhihu.com/search?q=%E9%98%BF%E9%87%8C%E7%B3%BBAPP%E7%A6%81%E6%AD%A2%E8%B1%86%E5%8C%85%E6%89%8B%E6%9C%BA%E7%99%BB%E9%99%86)
+1. [蓝战非称被绑架](https://www.zhihu.com/search?q=%E8%93%9D%E6%88%98%E9%9D%9E%E7%A7%B0%E8%A2%AB%E7%BB%91%E6%9E%B6)
 1. [蓝战非被绑架警方已立案](https://www.zhihu.com/search?q=%E8%93%9D%E6%88%98%E9%9D%9E%E8%A2%AB%E7%BB%91%E6%9E%B6%E8%AD%A6%E6%96%B9%E5%B7%B2%E7%AB%8B%E6%A1%88)
+1. [MacBook 为什么说最适合程序员使用](https://www.zhihu.com/search?q=MacBook%20%E4%B8%BA%E4%BB%80%E4%B9%88%E8%AF%B4%E6%9C%80%E9%80%82%E5%90%88%E7%A8%8B%E5%BA%8F%E5%91%98%E4%BD%BF%E7%94%A8)
 1. [河北沧州杀妻案男方被判死刑](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8C%97%E6%B2%A7%E5%B7%9E%E6%9D%80%E5%A6%BB%E6%A1%88%E7%94%B7%E6%96%B9%E8%A2%AB%E5%88%A4%E6%AD%BB%E5%88%91)
-1. [多个品牌手机涨价影响会持续多久](https://www.zhihu.com/search?q=%E5%A4%9A%E4%B8%AA%E5%93%81%E7%89%8C%E6%89%8B%E6%9C%BA%E6%B6%A8%E4%BB%B7%E5%BD%B1%E5%93%8D%E4%BC%9A%E6%8C%81%E7%BB%AD%E5%A4%9A%E4%B9%85)
+1. [阿里系APP禁止豆包手机登陆](https://www.zhihu.com/search?q=%E9%98%BF%E9%87%8C%E7%B3%BBAPP%E7%A6%81%E6%AD%A2%E8%B1%86%E5%8C%85%E6%89%8B%E6%9C%BA%E7%99%BB%E9%99%86)
 1. [全网最忙五人组](https://www.zhihu.com/search?q=%E5%85%A8%E7%BD%91%E6%9C%80%E5%BF%99%E4%BA%94%E4%BA%BA%E7%BB%84)
 1. [苟仲文一审被判死缓](https://www.zhihu.com/search?q=%E8%8B%9F%E4%BB%B2%E6%96%87%E4%B8%80%E5%AE%A1%E8%A2%AB%E5%88%A4%E6%AD%BB%E7%BC%93)
-1. [马航 MH370 部分失联乘客家属索赔案宣判](https://www.zhihu.com/search?q=%E9%A9%AC%E8%88%AA%20MH370%20%E9%83%A8%E5%88%86%E5%A4%B1%E8%81%94%E4%B9%98%E5%AE%A2%E5%AE%B6%E5%B1%9E%E7%B4%A2%E8%B5%94%E6%A1%88%E5%AE%A3%E5%88%A4)
-1. [为何国内做不出《星际争霸 2》这样的游戏](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E5%9B%BD%E5%86%85%E5%81%9A%E4%B8%8D%E5%87%BA%E3%80%8A%E6%98%9F%E9%99%85%E4%BA%89%E9%9C%B8%202%E3%80%8B%E8%BF%99%E6%A0%B7%E7%9A%84%E6%B8%B8%E6%88%8F)
+1. [为何科学不解答宇宙终极问题而留给哲学](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E7%A7%91%E5%AD%A6%E4%B8%8D%E8%A7%A3%E7%AD%94%E5%AE%87%E5%AE%99%E7%BB%88%E6%9E%81%E9%97%AE%E9%A2%98%E8%80%8C%E7%95%99%E7%BB%99%E5%93%B2%E5%AD%A6)
 1. [日本预测 1.8 万人遇难](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E9%A2%84%E6%B5%8B%20%201.8%20%E4%B8%87%E4%BA%BA%E9%81%87%E9%9A%BE)
+1. [马航 MH370 部分失联乘客家属索赔案宣判](https://www.zhihu.com/search?q=%E9%A9%AC%E8%88%AA%20MH370%20%E9%83%A8%E5%88%86%E5%A4%B1%E8%81%94%E4%B9%98%E5%AE%A2%E5%AE%B6%E5%B1%9E%E7%B4%A2%E8%B5%94%E6%A1%88%E5%AE%A3%E5%88%A4)
+1. [多个品牌手机涨价影响会持续多久](https://www.zhihu.com/search?q=%E5%A4%9A%E4%B8%AA%E5%93%81%E7%89%8C%E6%89%8B%E6%9C%BA%E6%B6%A8%E4%BB%B7%E5%BD%B1%E5%93%8D%E4%BC%9A%E6%8C%81%E7%BB%AD%E5%A4%9A%E4%B9%85)
+1. [为何国内做不出《星际争霸 2》这样的游戏](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E5%9B%BD%E5%86%85%E5%81%9A%E4%B8%8D%E5%87%BA%E3%80%8A%E6%98%9F%E9%99%85%E4%BA%89%E9%9C%B8%202%E3%80%8B%E8%BF%99%E6%A0%B7%E7%9A%84%E6%B8%B8%E6%88%8F)
 1. [英伟达获准对华出售 H200 芯片](https://www.zhihu.com/search?q=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%8E%B7%E5%87%86%E5%AF%B9%E5%8D%8E%E5%87%BA%E5%94%AE%20H200%20%E8%8A%AF%E7%89%87)
 1. [马克龙为什么要去四川大学](https://www.zhihu.com/search?q=%E9%A9%AC%E5%85%8B%E9%BE%99%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%8E%BB%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6)
 1. [巴奴「水性杨花」菜名引歧义实为何物](https://www.zhihu.com/search?q=%E5%B7%B4%E5%A5%B4%E3%80%8C%E6%B0%B4%E6%80%A7%E6%9D%A8%E8%8A%B1%E3%80%8D%E8%8F%9C%E5%90%8D%E5%BC%95%E6%AD%A7%E4%B9%89%E5%AE%9E%E4%B8%BA%E4%BD%95%E7%89%A9)
