@@ -14,20 +14,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Dec 10 2025 00:30:27 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Dec 10 2025 01:22:51 GMT+0800 (China Standard Time) -->
 
 1. [蓝战非称被绑架](https://www.zhihu.com/search?q=%E8%93%9D%E6%88%98%E9%9D%9E%E7%A7%B0%E8%A2%AB%E7%BB%91%E6%9E%B6)
 1. [多家APP对豆包手机禁用](https://www.zhihu.com/search?q=%E5%A4%9A%E5%AE%B6APP%E5%AF%B9%E8%B1%86%E5%8C%85%E6%89%8B%E6%9C%BA%E7%A6%81%E7%94%A8)
 1. [蓝战非被绑架警方已立案](https://www.zhihu.com/search?q=%E8%93%9D%E6%88%98%E9%9D%9E%E8%A2%AB%E7%BB%91%E6%9E%B6%E8%AD%A6%E6%96%B9%E5%B7%B2%E7%AB%8B%E6%A1%88)
-1. [男生培训 8 个月冲进数学奥赛国家集训队](https://www.zhihu.com/search?q=%E7%94%B7%E7%94%9F%E5%9F%B9%E8%AE%AD%208%20%E4%B8%AA%E6%9C%88%E5%86%B2%E8%BF%9B%E6%95%B0%E5%AD%A6%E5%A5%A5%E8%B5%9B%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F)
+1. [为什么人会在短期内多次反复感冒](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BA%BA%E4%BC%9A%E5%9C%A8%E7%9F%AD%E6%9C%9F%E5%86%85%E5%A4%9A%E6%AC%A1%E5%8F%8D%E5%A4%8D%E6%84%9F%E5%86%92)
 1. [阿里系APP禁止豆包手机登陆](https://www.zhihu.com/search?q=%E9%98%BF%E9%87%8C%E7%B3%BBAPP%E7%A6%81%E6%AD%A2%E8%B1%86%E5%8C%85%E6%89%8B%E6%9C%BA%E7%99%BB%E9%99%86)
 1. [日本预测 1.8 万人遇难](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E9%A2%84%E6%B5%8B%20%201.8%20%E4%B8%87%E4%BA%BA%E9%81%87%E9%9A%BE)
 1. [日本本州东部附近海域发生7.5级地震](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%B7%9E%E4%B8%9C%E9%83%A8%E9%99%84%E8%BF%91%E6%B5%B7%E5%9F%9F%E5%8F%91%E7%94%9F7.5%E7%BA%A7%E5%9C%B0%E9%9C%87)
 1. [你从《红与黑》中看出了什么](https://www.zhihu.com/search?q=%E4%BD%A0%E4%BB%8E%E3%80%8A%E7%BA%A2%E4%B8%8E%E9%BB%91%E3%80%8B%E4%B8%AD%E7%9C%8B%E5%87%BA%E4%BA%86%E4%BB%80%E4%B9%88)
 1. [英伟达获准对华出售 H200 芯片](https://www.zhihu.com/search?q=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%8E%B7%E5%87%86%E5%AF%B9%E5%8D%8E%E5%87%BA%E5%94%AE%20H200%20%E8%8A%AF%E7%89%87)
-1. [苟仲文一审被判死缓](https://www.zhihu.com/search?q=%E8%8B%9F%E4%BB%B2%E6%96%87%E4%B8%80%E5%AE%A1%E8%A2%AB%E5%88%A4%E6%AD%BB%E7%BC%93)
-1. [为何 postman 请求不会有跨域问题](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%20postman%20%E8%AF%B7%E6%B1%82%E4%B8%8D%E4%BC%9A%E6%9C%89%E8%B7%A8%E5%9F%9F%E9%97%AE%E9%A2%98)
 1. [红楼梦](https://www.zhihu.com/search?q=%E7%BA%A2%E6%A5%BC%E6%A2%A6)
+1. [为何 postman 请求不会有跨域问题](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%20postman%20%E8%AF%B7%E6%B1%82%E4%B8%8D%E4%BC%9A%E6%9C%89%E8%B7%A8%E5%9F%9F%E9%97%AE%E9%A2%98)
+1. [课本上朱元璋告别鞋拔子脸](https://www.zhihu.com/search?q=%E8%AF%BE%E6%9C%AC%E4%B8%8A%E6%9C%B1%E5%85%83%E7%92%8B%E5%91%8A%E5%88%AB%E9%9E%8B%E6%8B%94%E5%AD%90%E8%84%B8)
+1. [男生培训 8 个月冲进数学奥赛国家集训队](https://www.zhihu.com/search?q=%E7%94%B7%E7%94%9F%E5%9F%B9%E8%AE%AD%208%20%E4%B8%AA%E6%9C%88%E5%86%B2%E8%BF%9B%E6%95%B0%E5%AD%A6%E5%A5%A5%E8%B5%9B%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F)
+1. [苟仲文一审被判死缓](https://www.zhihu.com/search?q=%E8%8B%9F%E4%BB%B2%E6%96%87%E4%B8%80%E5%AE%A1%E8%A2%AB%E5%88%A4%E6%AD%BB%E7%BC%93)
 
 <!-- END -->
 
