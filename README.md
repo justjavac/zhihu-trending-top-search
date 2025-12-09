@@ -14,20 +14,23 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Dec 09 2025 16:33:34 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Dec 09 2025 17:26:53 GMT+0800 (China Standard Time) -->
 
-1. [苏炳添宣布退役](https://www.zhihu.com/search?q=%E8%8B%8F%E7%82%B3%E6%B7%BB%E5%AE%A3%E5%B8%83%E9%80%80%E5%BD%B9)
-1. [多家APP对豆包手机禁用](https://www.zhihu.com/search?q=%E5%A4%9A%E5%AE%B6APP%E5%AF%B9%E8%B1%86%E5%8C%85%E6%89%8B%E6%9C%BA%E7%A6%81%E7%94%A8)
 1. [蓝战非称被绑架](https://www.zhihu.com/search?q=%E8%93%9D%E6%88%98%E9%9D%9E%E7%A7%B0%E8%A2%AB%E7%BB%91%E6%9E%B6)
+1. [多家APP对豆包手机禁用](https://www.zhihu.com/search?q=%E5%A4%9A%E5%AE%B6APP%E5%AF%B9%E8%B1%86%E5%8C%85%E6%89%8B%E6%9C%BA%E7%A6%81%E7%94%A8)
 1. [蓝战非被绑架警方已立案](https://www.zhihu.com/search?q=%E8%93%9D%E6%88%98%E9%9D%9E%E8%A2%AB%E7%BB%91%E6%9E%B6%E8%AD%A6%E6%96%B9%E5%B7%B2%E7%AB%8B%E6%A1%88)
-1. [MacBook 为什么说最适合程序员使用](https://www.zhihu.com/search?q=MacBook%20%E4%B8%BA%E4%BB%80%E4%B9%88%E8%AF%B4%E6%9C%80%E9%80%82%E5%90%88%E7%A8%8B%E5%BA%8F%E5%91%98%E4%BD%BF%E7%94%A8)
-1. [河北沧州杀妻案男方被判死刑](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8C%97%E6%B2%A7%E5%B7%9E%E6%9D%80%E5%A6%BB%E6%A1%88%E7%94%B7%E6%96%B9%E8%A2%AB%E5%88%A4%E6%AD%BB%E5%88%91)
+1. [如何评价游戏《烽火十四》的先导片](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E6%B8%B8%E6%88%8F%E3%80%8A%E7%83%BD%E7%81%AB%E5%8D%81%E5%9B%9B%E3%80%8B%E7%9A%84%E5%85%88%E5%AF%BC%E7%89%87)
 1. [阿里系APP禁止豆包手机登陆](https://www.zhihu.com/search?q=%E9%98%BF%E9%87%8C%E7%B3%BBAPP%E7%A6%81%E6%AD%A2%E8%B1%86%E5%8C%85%E6%89%8B%E6%9C%BA%E7%99%BB%E9%99%86)
 1. [全网最忙五人组](https://www.zhihu.com/search?q=%E5%85%A8%E7%BD%91%E6%9C%80%E5%BF%99%E4%BA%94%E4%BA%BA%E7%BB%84)
+1. [河北沧州杀妻案男方被判死刑](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8C%97%E6%B2%A7%E5%B7%9E%E6%9D%80%E5%A6%BB%E6%A1%88%E7%94%B7%E6%96%B9%E8%A2%AB%E5%88%A4%E6%AD%BB%E5%88%91)
+1. [萨拉赫称自己成了利物浦的替罪羊](https://www.zhihu.com/search?q=%E8%90%A8%E6%8B%89%E8%B5%AB%E7%A7%B0%E8%87%AA%E5%B7%B1%E6%88%90%E4%BA%86%E5%88%A9%E7%89%A9%E6%B5%A6%E7%9A%84%E6%9B%BF%E7%BD%AA%E7%BE%8A)
 1. [苟仲文一审被判死缓](https://www.zhihu.com/search?q=%E8%8B%9F%E4%BB%B2%E6%96%87%E4%B8%80%E5%AE%A1%E8%A2%AB%E5%88%A4%E6%AD%BB%E7%BC%93)
-1. [为何科学不解答宇宙终极问题而留给哲学](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E7%A7%91%E5%AD%A6%E4%B8%8D%E8%A7%A3%E7%AD%94%E5%AE%87%E5%AE%99%E7%BB%88%E6%9E%81%E9%97%AE%E9%A2%98%E8%80%8C%E7%95%99%E7%BB%99%E5%93%B2%E5%AD%A6)
 1. [日本预测 1.8 万人遇难](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E9%A2%84%E6%B5%8B%20%201.8%20%E4%B8%87%E4%BA%BA%E9%81%87%E9%9A%BE)
+1. [詹姆斯连续 1297 场上双记录被中断](https://www.zhihu.com/search?q=%E8%A9%B9%E5%A7%86%E6%96%AF%E8%BF%9E%E7%BB%AD%201297%20%E5%9C%BA%E4%B8%8A%E5%8F%8C%E8%AE%B0%E5%BD%95%E8%A2%AB%E4%B8%AD%E6%96%AD)
 1. [马航 MH370 部分失联乘客家属索赔案宣判](https://www.zhihu.com/search?q=%E9%A9%AC%E8%88%AA%20MH370%20%E9%83%A8%E5%88%86%E5%A4%B1%E8%81%94%E4%B9%98%E5%AE%A2%E5%AE%B6%E5%B1%9E%E7%B4%A2%E8%B5%94%E6%A1%88%E5%AE%A3%E5%88%A4)
+1. [苏炳添宣布退役](https://www.zhihu.com/search?q=%E8%8B%8F%E7%82%B3%E6%B7%BB%E5%AE%A3%E5%B8%83%E9%80%80%E5%BD%B9)
+1. [MacBook 为什么说最适合程序员使用](https://www.zhihu.com/search?q=MacBook%20%E4%B8%BA%E4%BB%80%E4%B9%88%E8%AF%B4%E6%9C%80%E9%80%82%E5%90%88%E7%A8%8B%E5%BA%8F%E5%91%98%E4%BD%BF%E7%94%A8)
+1. [为何科学不解答宇宙终极问题而留给哲学](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E7%A7%91%E5%AD%A6%E4%B8%8D%E8%A7%A3%E7%AD%94%E5%AE%87%E5%AE%99%E7%BB%88%E6%9E%81%E9%97%AE%E9%A2%98%E8%80%8C%E7%95%99%E7%BB%99%E5%93%B2%E5%AD%A6)
 1. [多个品牌手机涨价影响会持续多久](https://www.zhihu.com/search?q=%E5%A4%9A%E4%B8%AA%E5%93%81%E7%89%8C%E6%89%8B%E6%9C%BA%E6%B6%A8%E4%BB%B7%E5%BD%B1%E5%93%8D%E4%BC%9A%E6%8C%81%E7%BB%AD%E5%A4%9A%E4%B9%85)
 1. [为何国内做不出《星际争霸 2》这样的游戏](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E5%9B%BD%E5%86%85%E5%81%9A%E4%B8%8D%E5%87%BA%E3%80%8A%E6%98%9F%E9%99%85%E4%BA%89%E9%9C%B8%202%E3%80%8B%E8%BF%99%E6%A0%B7%E7%9A%84%E6%B8%B8%E6%88%8F)
 1. [英伟达获准对华出售 H200 芯片](https://www.zhihu.com/search?q=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%8E%B7%E5%87%86%E5%AF%B9%E5%8D%8E%E5%87%BA%E5%94%AE%20H200%20%E8%8A%AF%E7%89%87)
@@ -41,7 +44,6 @@
 1. [你认为最失败的 Logo 设计有哪些](https://www.zhihu.com/search?q=%E4%BD%A0%E8%AE%A4%E4%B8%BA%E6%9C%80%E5%A4%B1%E8%B4%A5%E7%9A%84%20Logo%20%E8%AE%BE%E8%AE%A1%E6%9C%89%E5%93%AA%E4%BA%9B)
 1. [昆汀选出 21 世纪最伟大电影片单](https://www.zhihu.com/search?q=%E6%98%86%E6%B1%80%E9%80%89%E5%87%BA%2021%20%E4%B8%96%E7%BA%AA%E6%9C%80%E4%BC%9F%E5%A4%A7%E7%94%B5%E5%BD%B1%E7%89%87%E5%8D%95)
 1. [河北沧州杀妻案一审宣判](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8C%97%E6%B2%A7%E5%B7%9E%E6%9D%80%E5%A6%BB%E6%A1%88%E4%B8%80%E5%AE%A1%E5%AE%A3%E5%88%A4)
-1. [如何评价游戏《烽火十四》的先导片](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E6%B8%B8%E6%88%8F%E3%80%8A%E7%83%BD%E7%81%AB%E5%8D%81%E5%9B%9B%E3%80%8B%E7%9A%84%E5%85%88%E5%AF%BC%E7%89%87)
 1. [马克龙访问四川大学](https://www.zhihu.com/search?q=%E9%A9%AC%E5%85%8B%E9%BE%99%E8%AE%BF%E9%97%AE%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6)
 1. [坏死的肢体必须截掉吗](https://www.zhihu.com/search?q=%E5%9D%8F%E6%AD%BB%E7%9A%84%E8%82%A2%E4%BD%93%E5%BF%85%E9%A1%BB%E6%88%AA%E6%8E%89%E5%90%97)
 1. [中法发表多份联合声明](https://www.zhihu.com/search?q=%E4%B8%AD%E6%B3%95%E5%8F%91%E8%A1%A8%E5%A4%9A%E4%BB%BD%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E)
@@ -49,7 +51,6 @@
 1. [为什么在 35℃ 下人们觉得很热](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%9C%A8%2035%E2%84%83%20%E4%B8%8B%E4%BA%BA%E4%BB%AC%E8%A7%89%E5%BE%97%E5%BE%88%E7%83%AD)
 1. [比亚迪的护城河还在吗](https://www.zhihu.com/search?q=%E6%AF%94%E4%BA%9A%E8%BF%AA%E7%9A%84%E6%8A%A4%E5%9F%8E%E6%B2%B3%E8%BF%98%E5%9C%A8%E5%90%97)
 1. [贾雨村为什么娶了丫鬟娇杏还给扶正](https://www.zhihu.com/search?q=%E8%B4%BE%E9%9B%A8%E6%9D%91%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A8%B6%E4%BA%86%E4%B8%AB%E9%AC%9F%E5%A8%87%E6%9D%8F%E8%BF%98%E7%BB%99%E6%89%B6%E6%AD%A3)
-1. [萨拉赫称自己成了利物浦的替罪羊](https://www.zhihu.com/search?q=%E8%90%A8%E6%8B%89%E8%B5%AB%E7%A7%B0%E8%87%AA%E5%B7%B1%E6%88%90%E4%BA%86%E5%88%A9%E7%89%A9%E6%B5%A6%E7%9A%84%E6%9B%BF%E7%BD%AA%E7%BE%8A)
 1. [为什么哈利有钱却不给罗恩换根魔杖](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%93%88%E5%88%A9%E6%9C%89%E9%92%B1%E5%8D%B4%E4%B8%8D%E7%BB%99%E7%BD%97%E6%81%A9%E6%8D%A2%E6%A0%B9%E9%AD%94%E6%9D%96)
 1. [打游戏真的是件很浪费时间的事情吗](https://www.zhihu.com/search?q=%E6%89%93%E6%B8%B8%E6%88%8F%E7%9C%9F%E7%9A%84%E6%98%AF%E4%BB%B6%E5%BE%88%E6%B5%AA%E8%B4%B9%E6%97%B6%E9%97%B4%E7%9A%84%E4%BA%8B%E6%83%85%E5%90%97)
 1. [海贼王的霸气是设定的败笔吗](https://www.zhihu.com/search?q=%E6%B5%B7%E8%B4%BC%E7%8E%8B%E7%9A%84%E9%9C%B8%E6%B0%94%E6%98%AF%E8%AE%BE%E5%AE%9A%E7%9A%84%E8%B4%A5%E7%AC%94%E5%90%97)
