@@ -1,16 +1,17 @@
 [
-  { "query_display": "中央经济工作会议举行", "real_query": "中央经济工作会议举行" },
   { "query_display": "红楼梦", "real_query": "红楼梦" },
+  { "query_display": "中央经济工作会议举行", "real_query": "中央经济工作会议举行" },
   { "query_display": "美联储降息25个基点", "real_query": "美联储降息25个基点" },
   { "query_display": "bba车主最后的体面被盒饭击溃", "real_query": "bba车主最后的体面被盒饭击溃" },
-  { "query_display": "新国标电动车实测爬陡坡吃力得靠人推", "real_query": "新国标电动车实测爬陡坡吃力得靠人推" },
+  { "query_display": "特斯拉在印度只卖出 100 多辆", "real_query": "特斯拉在印度只卖出 100 多辆" },
   { "query_display": "中国贸易顺差首次超1万亿美元", "real_query": "中国贸易顺差首次超1万亿美元" },
   { "query_display": "范曾官宣得子 与女儿继子断绝关系", "real_query": "范曾官宣得子 与女儿继子断绝关系" },
-  { "query_display": "红楼梦索隐派", "real_query": "红楼梦索隐派" },
-  { "query_display": "特斯拉在印度只卖出 100 多辆", "real_query": "特斯拉在印度只卖出 100 多辆" },
   { "query_display": "多家APP对豆包手机禁用", "real_query": "多家APP对豆包手机禁用" },
-  { "query_display": "多校撤销外语专业", "real_query": "多校撤销外语专业" },
   { "query_display": "高铁面试未通过名单与网络人名库重合", "real_query": "高铁面试未通过名单与网络人名库重合" },
+  { "query_display": "红楼梦索隐派", "real_query": "红楼梦索隐派" },
+  { "query_display": "多校撤销外语专业", "real_query": "多校撤销外语专业" },
+  { "query_display": "最经典的广告植入是哪个", "real_query": "最经典的广告植入是哪个" },
+  { "query_display": "新国标电动车实测爬陡坡吃力得靠人推", "real_query": "新国标电动车实测爬陡坡吃力得靠人推" },
   {
     "query_display": "江浙菜加上油和辣椒能摆脱美食荒漠的帽子吗",
     "real_query": "江浙菜加上油和辣椒能摆脱美食荒漠的帽子吗"
