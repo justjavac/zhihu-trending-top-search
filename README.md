@@ -14,20 +14,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Dec 12 2025 11:25:40 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Dec 12 2025 12:35:44 GMT+0800 (China Standard Time) -->
 
-1. [红楼梦](https://www.zhihu.com/search?q=%E7%BA%A2%E6%A5%BC%E6%A2%A6)
+1. [中央经济工作会议举行](https://www.zhihu.com/search?q=%E4%B8%AD%E5%A4%AE%E7%BB%8F%E6%B5%8E%E5%B7%A5%E4%BD%9C%E4%BC%9A%E8%AE%AE%E4%B8%BE%E8%A1%8C)
 1. [OpenAI 正式发布 GPT-5.2](https://www.zhihu.com/search?q=OpenAI%20%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83%20GPT-5.2)
 1. [美联储降息25个基点](https://www.zhihu.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8%E9%99%8D%E6%81%AF25%E4%B8%AA%E5%9F%BA%E7%82%B9)
-1. [中央经济工作会议举行](https://www.zhihu.com/search?q=%E4%B8%AD%E5%A4%AE%E7%BB%8F%E6%B5%8E%E5%B7%A5%E4%BD%9C%E4%BC%9A%E8%AE%AE%E4%B8%BE%E8%A1%8C)
+1. [红楼梦](https://www.zhihu.com/search?q=%E7%BA%A2%E6%A5%BC%E6%A2%A6)
 1. [bba车主最后的体面被盒饭击溃](https://www.zhihu.com/search?q=bba%E8%BD%A6%E4%B8%BB%E6%9C%80%E5%90%8E%E7%9A%84%E4%BD%93%E9%9D%A2%E8%A2%AB%E7%9B%92%E9%A5%AD%E5%87%BB%E6%BA%83)
-1. [被热议的「锅气」究竟是什么](https://www.zhihu.com/search?q=%E8%A2%AB%E7%83%AD%E8%AE%AE%E7%9A%84%E3%80%8C%E9%94%85%E6%B0%94%E3%80%8D%E7%A9%B6%E7%AB%9F%E6%98%AF%E4%BB%80%E4%B9%88)
-1. [中国贸易顺差首次超1万亿美元](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E8%B4%B8%E6%98%93%E9%A1%BA%E5%B7%AE%E9%A6%96%E6%AC%A1%E8%B6%851%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83)
+1. [哪些演员的表演可以称为教科书式的演技](https://www.zhihu.com/search?q=%E5%93%AA%E4%BA%9B%E6%BC%94%E5%91%98%E7%9A%84%E8%A1%A8%E6%BC%94%E5%8F%AF%E4%BB%A5%E7%A7%B0%E4%B8%BA%E6%95%99%E7%A7%91%E4%B9%A6%E5%BC%8F%E7%9A%84%E6%BC%94%E6%8A%80)
 1. [多家APP对豆包手机禁用](https://www.zhihu.com/search?q=%E5%A4%9A%E5%AE%B6APP%E5%AF%B9%E8%B1%86%E5%8C%85%E6%89%8B%E6%9C%BA%E7%A6%81%E7%94%A8)
+1. [中国贸易顺差首次超1万亿美元](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E8%B4%B8%E6%98%93%E9%A1%BA%E5%B7%AE%E9%A6%96%E6%AC%A1%E8%B6%851%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83)
 1. [范曾官宣得子 与女儿继子断绝关系](https://www.zhihu.com/search?q=%E8%8C%83%E6%9B%BE%E5%AE%98%E5%AE%A3%E5%BE%97%E5%AD%90%20%E4%B8%8E%E5%A5%B3%E5%84%BF%E7%BB%A7%E5%AD%90%E6%96%AD%E7%BB%9D%E5%85%B3%E7%B3%BB)
-1. [如何看尖叫之夜奖项更换艺人官方致歉](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%E5%A5%96%E9%A1%B9%E6%9B%B4%E6%8D%A2%E8%89%BA%E4%BA%BA%E5%AE%98%E6%96%B9%E8%87%B4%E6%AD%89)
+1. [光伏真的不行了吗](https://www.zhihu.com/search?q=%E5%85%89%E4%BC%8F%E7%9C%9F%E7%9A%84%E4%B8%8D%E8%A1%8C%E4%BA%86%E5%90%97)
 1. [红楼梦索隐派](https://www.zhihu.com/search?q=%E7%BA%A2%E6%A5%BC%E6%A2%A6%E7%B4%A2%E9%9A%90%E6%B4%BE)
 1. [蓝战非作案人回应细节](https://www.zhihu.com/search?q=%E8%93%9D%E6%88%98%E9%9D%9E%E4%BD%9C%E6%A1%88%E4%BA%BA%E5%9B%9E%E5%BA%94%E7%BB%86%E8%8A%82)
+1. [被热议的「锅气」究竟是什么](https://www.zhihu.com/search?q=%E8%A2%AB%E7%83%AD%E8%AE%AE%E7%9A%84%E3%80%8C%E9%94%85%E6%B0%94%E3%80%8D%E7%A9%B6%E7%AB%9F%E6%98%AF%E4%BB%80%E4%B9%88)
+1. [如何看尖叫之夜奖项更换艺人官方致歉](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%E5%A5%96%E9%A1%B9%E6%9B%B4%E6%8D%A2%E8%89%BA%E4%BA%BA%E5%AE%98%E6%96%B9%E8%87%B4%E6%AD%89)
 1. [人类的恐惧感是后天习得还是本能反应](https://www.zhihu.com/search?q=%E4%BA%BA%E7%B1%BB%E7%9A%84%E6%81%90%E6%83%A7%E6%84%9F%E6%98%AF%E5%90%8E%E5%A4%A9%E4%B9%A0%E5%BE%97%E8%BF%98%E6%98%AF%E6%9C%AC%E8%83%BD%E5%8F%8D%E5%BA%94)
 1. [如何看待各大 APP 禁止豆包手机登陆](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%90%84%E5%A4%A7%20APP%20%E7%A6%81%E6%AD%A2%E8%B1%86%E5%8C%85%E6%89%8B%E6%9C%BA%E7%99%BB%E9%99%86)
 1. [多校撤销外语专业](https://www.zhihu.com/search?q=%E5%A4%9A%E6%A0%A1%E6%92%A4%E9%94%80%E5%A4%96%E8%AF%AD%E4%B8%93%E4%B8%9A)
