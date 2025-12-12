@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Dec 12 2025 18:26:22 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Dec 12 2025 19:22:24 GMT+0800 (China Standard Time) -->
 
 1. [北京下雪](https://www.zhihu.com/search?q=%E5%8C%97%E4%BA%AC%E4%B8%8B%E9%9B%AA)
 1. [OpenAI 正式发布 GPT-5.2](https://www.zhihu.com/search?q=OpenAI%20%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83%20GPT-5.2)
@@ -25,11 +25,12 @@
 1. [杭州野生动物园黑熊表演永久停止](https://www.zhihu.com/search?q=%E6%9D%AD%E5%B7%9E%E9%87%8E%E7%94%9F%E5%8A%A8%E7%89%A9%E5%9B%AD%E9%BB%91%E7%86%8A%E8%A1%A8%E6%BC%94%E6%B0%B8%E4%B9%85%E5%81%9C%E6%AD%A2)
 1. [红楼梦](https://www.zhihu.com/search?q=%E7%BA%A2%E6%A5%BC%E6%A2%A6)
 1. [多家APP对豆包手机禁用](https://www.zhihu.com/search?q=%E5%A4%9A%E5%AE%B6APP%E5%AF%B9%E8%B1%86%E5%8C%85%E6%89%8B%E6%9C%BA%E7%A6%81%E7%94%A8)
+1. [男子在路边发现疑似冬眠的眼镜蛇](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%90%E5%9C%A8%E8%B7%AF%E8%BE%B9%E5%8F%91%E7%8E%B0%E7%96%91%E4%BC%BC%E5%86%AC%E7%9C%A0%E7%9A%84%E7%9C%BC%E9%95%9C%E8%9B%87)
+1. [中国贸易顺差首次超1万亿美元](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E8%B4%B8%E6%98%93%E9%A1%BA%E5%B7%AE%E9%A6%96%E6%AC%A1%E8%B6%851%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83)
+1. [范曾官宣得子 与女儿继子断绝关系](https://www.zhihu.com/search?q=%E8%8C%83%E6%9B%BE%E5%AE%98%E5%AE%A3%E5%BE%97%E5%AD%90%20%E4%B8%8E%E5%A5%B3%E5%84%BF%E7%BB%A7%E5%AD%90%E6%96%AD%E7%BB%9D%E5%85%B3%E7%B3%BB)
 1. [众擎机器人完成踹人动作有哪些技术亮点](https://www.zhihu.com/search?q=%E4%BC%97%E6%93%8E%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AE%8C%E6%88%90%E8%B8%B9%E4%BA%BA%E5%8A%A8%E4%BD%9C%E6%9C%89%E5%93%AA%E4%BA%9B%E6%8A%80%E6%9C%AF%E4%BA%AE%E7%82%B9)
 1. [bba车主最后的体面被盒饭击溃](https://www.zhihu.com/search?q=bba%E8%BD%A6%E4%B8%BB%E6%9C%80%E5%90%8E%E7%9A%84%E4%BD%93%E9%9D%A2%E8%A2%AB%E7%9B%92%E9%A5%AD%E5%87%BB%E6%BA%83)
-1. [中国贸易顺差首次超1万亿美元](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E8%B4%B8%E6%98%93%E9%A1%BA%E5%B7%AE%E9%A6%96%E6%AC%A1%E8%B6%851%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83)
 1. [为何葡萄被用于酿酒其他水果却没有](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E8%91%A1%E8%90%84%E8%A2%AB%E7%94%A8%E4%BA%8E%E9%85%BF%E9%85%92%E5%85%B6%E4%BB%96%E6%B0%B4%E6%9E%9C%E5%8D%B4%E6%B2%A1%E6%9C%89)
-1. [范曾官宣得子 与女儿继子断绝关系](https://www.zhihu.com/search?q=%E8%8C%83%E6%9B%BE%E5%AE%98%E5%AE%A3%E5%BE%97%E5%AD%90%20%E4%B8%8E%E5%A5%B3%E5%84%BF%E7%BB%A7%E5%AD%90%E6%96%AD%E7%BB%9D%E5%85%B3%E7%B3%BB)
 1. [电动车不保值的根本原因是什么](https://www.zhihu.com/search?q=%E7%94%B5%E5%8A%A8%E8%BD%A6%E4%B8%8D%E4%BF%9D%E5%80%BC%E7%9A%84%E6%A0%B9%E6%9C%AC%E5%8E%9F%E5%9B%A0%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [贵州荒野求生涉性骚扰投诉待查](https://www.zhihu.com/search?q=%E8%B4%B5%E5%B7%9E%E8%8D%92%E9%87%8E%E6%B1%82%E7%94%9F%E6%B6%89%E6%80%A7%E9%AA%9A%E6%89%B0%E6%8A%95%E8%AF%89%E5%BE%85%E6%9F%A5)
 1. [《三十而已》为什么顾佳的结局最差](https://www.zhihu.com/search?q=%E3%80%8A%E4%B8%89%E5%8D%81%E8%80%8C%E5%B7%B2%E3%80%8B%E4%B8%BA%E4%BB%80%E4%B9%88%E9%A1%BE%E4%BD%B3%E7%9A%84%E7%BB%93%E5%B1%80%E6%9C%80%E5%B7%AE)
@@ -55,7 +56,6 @@
 1. [女子利用「仅退款」225 次被刑事立案](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E5%88%A9%E7%94%A8%E3%80%8C%E4%BB%85%E9%80%80%E6%AC%BE%E3%80%8D225%20%E6%AC%A1%E8%A2%AB%E5%88%91%E4%BA%8B%E7%AB%8B%E6%A1%88)
 1. [为何杭州野生动物园黑熊突然袭击饲养员](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E6%9D%AD%E5%B7%9E%E9%87%8E%E7%94%9F%E5%8A%A8%E7%89%A9%E5%9B%AD%E9%BB%91%E7%86%8A%E7%AA%81%E7%84%B6%E8%A2%AD%E5%87%BB%E9%A5%B2%E5%85%BB%E5%91%98)
 1. [孙颖莎4-0王艺迪](https://www.zhihu.com/search?q=%E5%AD%99%E9%A2%96%E8%8E%8E4-0%E7%8E%8B%E8%89%BA%E8%BF%AA)
-1. [男子在路边发现疑似冬眠的眼镜蛇](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%90%E5%9C%A8%E8%B7%AF%E8%BE%B9%E5%8F%91%E7%8E%B0%E7%96%91%E4%BC%BC%E5%86%AC%E7%9C%A0%E7%9A%84%E7%9C%BC%E9%95%9C%E8%9B%87)
 1. [你对马克龙在四川大学演讲中的建议有何感悟](https://www.zhihu.com/search?q=%E4%BD%A0%E5%AF%B9%E9%A9%AC%E5%85%8B%E9%BE%99%E5%9C%A8%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E6%BC%94%E8%AE%B2%E4%B8%AD%E7%9A%84%E5%BB%BA%E8%AE%AE%E6%9C%89%E4%BD%95%E6%84%9F%E6%82%9F)
 1. [2026春晚官宣](https://www.zhihu.com/search?q=2026%E6%98%A5%E6%99%9A%E5%AE%98%E5%AE%A3)
 1. [比利时 15 岁少年获量子物理学博士学位](https://www.zhihu.com/search?q=%E6%AF%94%E5%88%A9%E6%97%B6%2015%20%E5%B2%81%E5%B0%91%E5%B9%B4%E8%8E%B7%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%E5%AD%A6%E5%8D%9A%E5%A3%AB%E5%AD%A6%E4%BD%8D)
