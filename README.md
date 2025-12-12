@@ -14,19 +14,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Dec 13 2025 01:21:43 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Dec 13 2025 02:35:07 GMT+0800 (China Standard Time) -->
 
 1. [中央经济工作会议举行](https://www.zhihu.com/search?q=%E4%B8%AD%E5%A4%AE%E7%BB%8F%E6%B5%8E%E5%B7%A5%E4%BD%9C%E4%BC%9A%E8%AE%AE%E4%B8%BE%E8%A1%8C)
 1. [OpenAI 正式发布 GPT-5.2](https://www.zhihu.com/search?q=OpenAI%20%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83%20GPT-5.2)
 1. [美联储降息25个基点](https://www.zhihu.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8%E9%99%8D%E6%81%AF25%E4%B8%AA%E5%9F%BA%E7%82%B9)
-1. [中国海警对菲船只采取必要管控](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E6%B5%B7%E8%AD%A6%E5%AF%B9%E8%8F%B2%E8%88%B9%E5%8F%AA%E9%87%87%E5%8F%96%E5%BF%85%E8%A6%81%E7%AE%A1%E6%8E%A7)
 1. [红楼梦](https://www.zhihu.com/search?q=%E7%BA%A2%E6%A5%BC%E6%A2%A6)
+1. [北京下雪](https://www.zhihu.com/search?q=%E5%8C%97%E4%BA%AC%E4%B8%8B%E9%9B%AA)
+1. [陈政批部分车企拉低设计高度](https://www.zhihu.com/search?q=%E9%99%88%E6%94%BF%E6%89%B9%E9%83%A8%E5%88%86%E8%BD%A6%E4%BC%81%E6%8B%89%E4%BD%8E%E8%AE%BE%E8%AE%A1%E9%AB%98%E5%BA%A6)
 1. [中国贸易顺差首次超1万亿美元](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E8%B4%B8%E6%98%93%E9%A1%BA%E5%B7%AE%E9%A6%96%E6%AC%A1%E8%B6%851%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83)
-1. [如何评价盒马草莓蛋糕误将糖放成盐](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E7%9B%92%E9%A9%AC%E8%8D%89%E8%8E%93%E8%9B%8B%E7%B3%95%E8%AF%AF%E5%B0%86%E7%B3%96%E6%94%BE%E6%88%90%E7%9B%90)
 1. [摩尔线程拟花75亿投资理财](https://www.zhihu.com/search?q=%E6%91%A9%E5%B0%94%E7%BA%BF%E7%A8%8B%E6%8B%9F%E8%8A%B175%E4%BA%BF%E6%8A%95%E8%B5%84%E7%90%86%E8%B4%A2)
 1. [范曾官宣得子 与女儿继子断绝关系](https://www.zhihu.com/search?q=%E8%8C%83%E6%9B%BE%E5%AE%98%E5%AE%A3%E5%BE%97%E5%AD%90%20%E4%B8%8E%E5%A5%B3%E5%84%BF%E7%BB%A7%E5%AD%90%E6%96%AD%E7%BB%9D%E5%85%B3%E7%B3%BB)
 1. [罗翔谈吸毒入刑问题](https://www.zhihu.com/search?q=%E7%BD%97%E7%BF%94%E8%B0%88%E5%90%B8%E6%AF%92%E5%85%A5%E5%88%91%E9%97%AE%E9%A2%98)
-1. [北京下雪](https://www.zhihu.com/search?q=%E5%8C%97%E4%BA%AC%E4%B8%8B%E9%9B%AA)
+1. [苏炳添的哪个瞬间让你最难忘](https://www.zhihu.com/search?q=%E8%8B%8F%E7%82%B3%E6%B7%BB%E7%9A%84%E5%93%AA%E4%B8%AA%E7%9E%AC%E9%97%B4%E8%AE%A9%E4%BD%A0%E6%9C%80%E9%9A%BE%E5%BF%98)
+1. [为什么「你有没有可乐喝」会在全网刷屏](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E3%80%8C%E4%BD%A0%E6%9C%89%E6%B2%A1%E6%9C%89%E5%8F%AF%E4%B9%90%E5%96%9D%E3%80%8D%E4%BC%9A%E5%9C%A8%E5%85%A8%E7%BD%91%E5%88%B7%E5%B1%8F)
+1. [中国海警对菲船只采取必要管控](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E6%B5%B7%E8%AD%A6%E5%AF%B9%E8%8F%B2%E8%88%B9%E5%8F%AA%E9%87%87%E5%8F%96%E5%BF%85%E8%A6%81%E7%AE%A1%E6%8E%A7)
+1. [如何评价盒马草莓蛋糕误将糖放成盐](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E7%9B%92%E9%A9%AC%E8%8D%89%E8%8E%93%E8%9B%8B%E7%B3%95%E8%AF%AF%E5%B0%86%E7%B3%96%E6%94%BE%E6%88%90%E7%9B%90)
 1. [疯狂动物城 2 在俄罗斯遭遇盗版狂潮](https://www.zhihu.com/search?q=%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E%202%20%E5%9C%A8%E4%BF%84%E7%BD%97%E6%96%AF%E9%81%AD%E9%81%87%E7%9B%97%E7%89%88%E7%8B%82%E6%BD%AE)
 1. [课本上的朱元璋告别「鞋拔子脸」](https://www.zhihu.com/search?q=%E8%AF%BE%E6%9C%AC%E4%B8%8A%E7%9A%84%E6%9C%B1%E5%85%83%E7%92%8B%E5%91%8A%E5%88%AB%E3%80%8C%E9%9E%8B%E6%8B%94%E5%AD%90%E8%84%B8%E3%80%8D)
 1. [为什么化工厂晚上人少却要灯火通明](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8C%96%E5%B7%A5%E5%8E%82%E6%99%9A%E4%B8%8A%E4%BA%BA%E5%B0%91%E5%8D%B4%E8%A6%81%E7%81%AF%E7%81%AB%E9%80%9A%E6%98%8E)
