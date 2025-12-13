@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Dec 13 2025 11:17:25 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Dec 13 2025 12:28:23 GMT+0800 (China Standard Time) -->
 
 1. [国家公祭日](https://www.zhihu.com/search?q=%E5%9B%BD%E5%AE%B6%E5%85%AC%E7%A5%AD%E6%97%A5)
 1. [OpenAI 正式发布 GPT-5.2](https://www.zhihu.com/search?q=OpenAI%20%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83%20GPT-5.2)
@@ -22,17 +22,19 @@
 1. [中央经济工作会议举行](https://www.zhihu.com/search?q=%E4%B8%AD%E5%A4%AE%E7%BB%8F%E6%B5%8E%E5%B7%A5%E4%BD%9C%E4%BC%9A%E8%AE%AE%E4%B8%BE%E8%A1%8C)
 1. [红楼梦](https://www.zhihu.com/search?q=%E7%BA%A2%E6%A5%BC%E6%A2%A6)
 1. [范曾官宣得子 与女儿继子断绝关系](https://www.zhihu.com/search?q=%E8%8C%83%E6%9B%BE%E5%AE%98%E5%AE%A3%E5%BE%97%E5%AD%90%20%E4%B8%8E%E5%A5%B3%E5%84%BF%E7%BB%A7%E5%AD%90%E6%96%AD%E7%BB%9D%E5%85%B3%E7%B3%BB)
-1. [上班很闲领导不给安排工作怎么办](https://www.zhihu.com/search?q=%E4%B8%8A%E7%8F%AD%E5%BE%88%E9%97%B2%E9%A2%86%E5%AF%BC%E4%B8%8D%E7%BB%99%E5%AE%89%E6%8E%92%E5%B7%A5%E4%BD%9C%E6%80%8E%E4%B9%88%E5%8A%9E)
-1. [中国贸易顺差首次超1万亿美元](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E8%B4%B8%E6%98%93%E9%A1%BA%E5%B7%AE%E9%A6%96%E6%AC%A1%E8%B6%851%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83)
+1. [梁文锋、杜梦然入选《自然》年度十大人物](https://www.zhihu.com/search?q=%E6%A2%81%E6%96%87%E9%94%8B%E3%80%81%E6%9D%9C%E6%A2%A6%E7%84%B6%E5%85%A5%E9%80%89%E3%80%8A%E8%87%AA%E7%84%B6%E3%80%8B%E5%B9%B4%E5%BA%A6%E5%8D%81%E5%A4%A7%E4%BA%BA%E7%89%A9)
 1. [北京下雪](https://www.zhihu.com/search?q=%E5%8C%97%E4%BA%AC%E4%B8%8B%E9%9B%AA)
+1. [中国贸易顺差首次超1万亿美元](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E8%B4%B8%E6%98%93%E9%A1%BA%E5%B7%AE%E9%A6%96%E6%AC%A1%E8%B6%851%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83)
+1. [为什么「你有没有可乐喝」会在全网刷屏](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E3%80%8C%E4%BD%A0%E6%9C%89%E6%B2%A1%E6%9C%89%E5%8F%AF%E4%B9%90%E5%96%9D%E3%80%8D%E4%BC%9A%E5%9C%A8%E5%85%A8%E7%BD%91%E5%88%B7%E5%B1%8F)
+1. [增信方信用 AA+ 祥源系产品却无法兑付](https://www.zhihu.com/search?q=%E5%A2%9E%E4%BF%A1%E6%96%B9%E4%BF%A1%E7%94%A8%20AA%2B%20%E7%A5%A5%E6%BA%90%E7%B3%BB%E4%BA%A7%E5%93%81%E5%8D%B4%E6%97%A0%E6%B3%95%E5%85%91%E4%BB%98)
+1. [日本 2025 年度汉字为熊](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%202025%20%E5%B9%B4%E5%BA%A6%E6%B1%89%E5%AD%97%E4%B8%BA%E7%86%8A)
+1. [上班很闲领导不给安排工作怎么办](https://www.zhihu.com/search?q=%E4%B8%8A%E7%8F%AD%E5%BE%88%E9%97%B2%E9%A2%86%E5%AF%BC%E4%B8%8D%E7%BB%99%E5%AE%89%E6%8E%92%E5%B7%A5%E4%BD%9C%E6%80%8E%E4%B9%88%E5%8A%9E)
 1. [罗翔谈吸毒入刑问题](https://www.zhihu.com/search?q=%E7%BD%97%E7%BF%94%E8%B0%88%E5%90%B8%E6%AF%92%E5%85%A5%E5%88%91%E9%97%AE%E9%A2%98)
 1. [你对 QQ 经典版有哪些记忆](https://www.zhihu.com/search?q=%E4%BD%A0%E5%AF%B9%20QQ%20%E7%BB%8F%E5%85%B8%E7%89%88%E6%9C%89%E5%93%AA%E4%BA%9B%E8%AE%B0%E5%BF%86)
-1. [为什么「你有没有可乐喝」会在全网刷屏](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E3%80%8C%E4%BD%A0%E6%9C%89%E6%B2%A1%E6%9C%89%E5%8F%AF%E4%B9%90%E5%96%9D%E3%80%8D%E4%BC%9A%E5%9C%A8%E5%85%A8%E7%BD%91%E5%88%B7%E5%B1%8F)
 1. [为何有些农村的家族很多人都没上过大学](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E6%9C%89%E4%BA%9B%E5%86%9C%E6%9D%91%E7%9A%84%E5%AE%B6%E6%97%8F%E5%BE%88%E5%A4%9A%E4%BA%BA%E9%83%BD%E6%B2%A1%E4%B8%8A%E8%BF%87%E5%A4%A7%E5%AD%A6)
 1. [为什么将近亲结婚的判定门槛定为「三代」](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B0%86%E8%BF%91%E4%BA%B2%E7%BB%93%E5%A9%9A%E7%9A%84%E5%88%A4%E5%AE%9A%E9%97%A8%E6%A7%9B%E5%AE%9A%E4%B8%BA%E3%80%8C%E4%B8%89%E4%BB%A3%E3%80%8D)
 1. [为什么银行越来越少了](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E9%93%B6%E8%A1%8C%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%B0%91%E4%BA%86)
 1. [天庭为何能与大闹天宫的悟空冰释前嫌](https://www.zhihu.com/search?q=%E5%A4%A9%E5%BA%AD%E4%B8%BA%E4%BD%95%E8%83%BD%E4%B8%8E%E5%A4%A7%E9%97%B9%E5%A4%A9%E5%AE%AB%E7%9A%84%E6%82%9F%E7%A9%BA%E5%86%B0%E9%87%8A%E5%89%8D%E5%AB%8C)
-1. [日本 2025 年度汉字为熊](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%202025%20%E5%B9%B4%E5%BA%A6%E6%B1%89%E5%AD%97%E4%B8%BA%E7%86%8A)
 1. [苏炳添的哪个瞬间让你最难忘](https://www.zhihu.com/search?q=%E8%8B%8F%E7%82%B3%E6%B7%BB%E7%9A%84%E5%93%AA%E4%B8%AA%E7%9E%AC%E9%97%B4%E8%AE%A9%E4%BD%A0%E6%9C%80%E9%9A%BE%E5%BF%98)
 1. [红楼梦索隐派](https://www.zhihu.com/search?q=%E7%BA%A2%E6%A5%BC%E6%A2%A6%E7%B4%A2%E9%9A%90%E6%B4%BE)
 1. [摩尔线程拟花75亿投资理财](https://www.zhihu.com/search?q=%E6%91%A9%E5%B0%94%E7%BA%BF%E7%A8%8B%E6%8B%9F%E8%8A%B175%E4%BA%BF%E6%8A%95%E8%B5%84%E7%90%86%E8%B4%A2)
