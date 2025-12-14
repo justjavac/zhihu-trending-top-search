@@ -14,15 +14,15 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Dec 14 2025 13:22:47 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Dec 14 2025 14:33:24 GMT+0800 (China Standard Time) -->
 
 1. [演员何晴去世](https://www.zhihu.com/search?q=%E6%BC%94%E5%91%98%E4%BD%95%E6%99%B4%E5%8E%BB%E4%B8%96)
 1. [浙大博导闵超家庭背景曝光](https://www.zhihu.com/search?q=%E6%B5%99%E5%A4%A7%E5%8D%9A%E5%AF%BC%E9%97%B5%E8%B6%85%E5%AE%B6%E5%BA%AD%E8%83%8C%E6%99%AF%E6%9B%9D%E5%85%89)
 1. [四级](https://www.zhihu.com/search?q=%E5%9B%9B%E7%BA%A7)
 1. [中央经济工作会议举行](https://www.zhihu.com/search?q=%E4%B8%AD%E5%A4%AE%E7%BB%8F%E6%B5%8E%E5%B7%A5%E4%BD%9C%E4%BC%9A%E8%AE%AE%E4%B8%BE%E8%A1%8C)
 1. [范曾官宣得子 与女儿继子断绝关系](https://www.zhihu.com/search?q=%E8%8C%83%E6%9B%BE%E5%AE%98%E5%AE%A3%E5%BE%97%E5%AD%90%20%E4%B8%8E%E5%A5%B3%E5%84%BF%E7%BB%A7%E5%AD%90%E6%96%AD%E7%BB%9D%E5%85%B3%E7%B3%BB)
-1. [OpenAI 正式发布 GPT-5.2](https://www.zhihu.com/search?q=OpenAI%20%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83%20GPT-5.2)
 1. [罗翔谈吸毒入刑问题](https://www.zhihu.com/search?q=%E7%BD%97%E7%BF%94%E8%B0%88%E5%90%B8%E6%AF%92%E5%85%A5%E5%88%91%E9%97%AE%E9%A2%98)
+1. [OpenAI 正式发布 GPT-5.2](https://www.zhihu.com/search?q=OpenAI%20%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83%20GPT-5.2)
 1. [摩尔线程拟花75亿投资理财](https://www.zhihu.com/search?q=%E6%91%A9%E5%B0%94%E7%BA%BF%E7%A8%8B%E6%8B%9F%E8%8A%B175%E4%BA%BF%E6%8A%95%E8%B5%84%E7%90%86%E8%B4%A2)
 1. [10人聚餐9人逃单只剩1人](https://www.zhihu.com/search?q=10%E4%BA%BA%E8%81%9A%E9%A4%909%E4%BA%BA%E9%80%83%E5%8D%95%E5%8F%AA%E5%89%A91%E4%BA%BA)
 1. [罗翔谈吸毒入刑主张](https://www.zhihu.com/search?q=%E7%BD%97%E7%BF%94%E8%B0%88%E5%90%B8%E6%AF%92%E5%85%A5%E5%88%91%E4%B8%BB%E5%BC%A0)
