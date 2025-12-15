@@ -14,26 +14,28 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Dec 16 2025 03:21:36 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Dec 16 2025 04:27:20 GMT+0800 (China Standard Time) -->
 
 1. [我国已进入拉尼娜状态](https://www.zhihu.com/search?q=%E6%88%91%E5%9B%BD%E5%B7%B2%E8%BF%9B%E5%85%A5%E6%8B%89%E5%B0%BC%E5%A8%9C%E7%8A%B6%E6%80%81)
 1. [澳大利亚海滩枪击已致16死](https://www.zhihu.com/search?q=%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E6%B5%B7%E6%BB%A9%E6%9E%AA%E5%87%BB%E5%B7%B2%E8%87%B416%E6%AD%BB)
 1. [28岁高中女教师新婚当天坠楼身亡](https://www.zhihu.com/search?q=28%E5%B2%81%E9%AB%98%E4%B8%AD%E5%A5%B3%E6%95%99%E5%B8%88%E6%96%B0%E5%A9%9A%E5%BD%93%E5%A4%A9%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1)
-1. [为什么权游龙母的龙傲天之路无法让人激动](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9D%83%E6%B8%B8%E9%BE%99%E6%AF%8D%E7%9A%84%E9%BE%99%E5%82%B2%E5%A4%A9%E4%B9%8B%E8%B7%AF%E6%97%A0%E6%B3%95%E8%AE%A9%E4%BA%BA%E6%BF%80%E5%8A%A8)
 1. [演员何晴去世](https://www.zhihu.com/search?q=%E6%BC%94%E5%91%98%E4%BD%95%E6%99%B4%E5%8E%BB%E4%B8%96)
 1. [中方决定对岩崎茂采取反制措施](https://www.zhihu.com/search?q=%E4%B8%AD%E6%96%B9%E5%86%B3%E5%AE%9A%E5%AF%B9%E5%B2%A9%E5%B4%8E%E8%8C%82%E9%87%87%E5%8F%96%E5%8F%8D%E5%88%B6%E6%8E%AA%E6%96%BD)
 1. [卫健委通报女婴小洛熙手术离世事件](https://www.zhihu.com/search?q=%E5%8D%AB%E5%81%A5%E5%A7%94%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%A9%B4%E5%B0%8F%E6%B4%9B%E7%86%99%E6%89%8B%E6%9C%AF%E7%A6%BB%E4%B8%96%E4%BA%8B%E4%BB%B6)
-1. [早期互联网是一个「巴别塔」故事吗](https://www.zhihu.com/search?q=%E6%97%A9%E6%9C%9F%E4%BA%92%E8%81%94%E7%BD%91%E6%98%AF%E4%B8%80%E4%B8%AA%E3%80%8C%E5%B7%B4%E5%88%AB%E5%A1%94%E3%80%8D%E6%95%85%E4%BA%8B%E5%90%97)
 1. [澳大利亚邦迪海滩枪击事件](https://www.zhihu.com/search?q=%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E9%82%A6%E8%BF%AA%E6%B5%B7%E6%BB%A9%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6)
 1. [张本智和夺冠](https://www.zhihu.com/search?q=%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E5%A4%BA%E5%86%A0)
-1. [为什么医护人员都和不在乎我死活一样](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8C%BB%E6%8A%A4%E4%BA%BA%E5%91%98%E9%83%BD%E5%92%8C%E4%B8%8D%E5%9C%A8%E4%B9%8E%E6%88%91%E6%AD%BB%E6%B4%BB%E4%B8%80%E6%A0%B7)
 1. [泰柬冲突](https://www.zhihu.com/search?q=%E6%B3%B0%E6%9F%AC%E5%86%B2%E7%AA%81)
+1. [「亚运三金王」王莉举报被领导索要奖金](https://www.zhihu.com/search?q=%E3%80%8C%E4%BA%9A%E8%BF%90%E4%B8%89%E9%87%91%E7%8E%8B%E3%80%8D%E7%8E%8B%E8%8E%89%E4%B8%BE%E6%8A%A5%E8%A2%AB%E9%A2%86%E5%AF%BC%E7%B4%A2%E8%A6%81%E5%A5%96%E9%87%91)
+1. [WTT男单半决赛王楚钦因伤退赛](https://www.zhihu.com/search?q=WTT%E7%94%B7%E5%8D%95%E5%8D%8A%E5%86%B3%E8%B5%9B%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%9B%A0%E4%BC%A4%E9%80%80%E8%B5%9B)
+1. [宁波通报女婴术后离世医疗事件调查进展](https://www.zhihu.com/search?q=%E5%AE%81%E6%B3%A2%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%A9%B4%E6%9C%AF%E5%90%8E%E7%A6%BB%E4%B8%96%E5%8C%BB%E7%96%97%E4%BA%8B%E4%BB%B6%E8%B0%83%E6%9F%A5%E8%BF%9B%E5%B1%95)
+1. [为什么权游龙母的龙傲天之路无法让人激动](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9D%83%E6%B8%B8%E9%BE%99%E6%AF%8D%E7%9A%84%E9%BE%99%E5%82%B2%E5%A4%A9%E4%B9%8B%E8%B7%AF%E6%97%A0%E6%B3%95%E8%AE%A9%E4%BA%BA%E6%BF%80%E5%8A%A8)
+1. [早期互联网是一个「巴别塔」故事吗](https://www.zhihu.com/search?q=%E6%97%A9%E6%9C%9F%E4%BA%92%E8%81%94%E7%BD%91%E6%98%AF%E4%B8%80%E4%B8%AA%E3%80%8C%E5%B7%B4%E5%88%AB%E5%A1%94%E3%80%8D%E6%95%85%E4%BA%8B%E5%90%97)
+1. [为什么医护人员都和不在乎我死活一样](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8C%BB%E6%8A%A4%E4%BA%BA%E5%91%98%E9%83%BD%E5%92%8C%E4%B8%8D%E5%9C%A8%E4%B9%8E%E6%88%91%E6%AD%BB%E6%B4%BB%E4%B8%80%E6%A0%B7)
 1. [如何看待北方多地官宣「雪假」](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%8C%97%E6%96%B9%E5%A4%9A%E5%9C%B0%E5%AE%98%E5%AE%A3%E3%80%8C%E9%9B%AA%E5%81%87%E3%80%8D)
 1. [为什么不把垃圾倒在活火山里](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E6%8A%8A%E5%9E%83%E5%9C%BE%E5%80%92%E5%9C%A8%E6%B4%BB%E7%81%AB%E5%B1%B1%E9%87%8C)
 1. [你见过哪些当年很轰动但后来被打脸的神预言](https://www.zhihu.com/search?q=%E4%BD%A0%E8%A7%81%E8%BF%87%E5%93%AA%E4%BA%9B%E5%BD%93%E5%B9%B4%E5%BE%88%E8%BD%B0%E5%8A%A8%E4%BD%86%E5%90%8E%E6%9D%A5%E8%A2%AB%E6%89%93%E8%84%B8%E7%9A%84%E7%A5%9E%E9%A2%84%E8%A8%80)
 1. [朋友聚餐逃单责任与饭钱该如何分摊](https://www.zhihu.com/search?q=%E6%9C%8B%E5%8F%8B%E8%81%9A%E9%A4%90%E9%80%83%E5%8D%95%E8%B4%A3%E4%BB%BB%E4%B8%8E%E9%A5%AD%E9%92%B1%E8%AF%A5%E5%A6%82%E4%BD%95%E5%88%86%E6%91%8A)
 1. [为何被鞭打的马不攻击人](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E8%A2%AB%E9%9E%AD%E6%89%93%E7%9A%84%E9%A9%AC%E4%B8%8D%E6%94%BB%E5%87%BB%E4%BA%BA)
-1. [WTT男单半决赛王楚钦因伤退赛](https://www.zhihu.com/search?q=WTT%E7%94%B7%E5%8D%95%E5%8D%8A%E5%86%B3%E8%B5%9B%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%9B%A0%E4%BC%A4%E9%80%80%E8%B5%9B)
 
 <!-- END -->
 
