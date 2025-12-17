@@ -14,18 +14,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Dec 17 2025 16:33:53 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Dec 17 2025 17:30:42 GMT+0800 (China Standard Time) -->
 
+1. [泰柬冲突](https://www.zhihu.com/search?q=%E6%B3%B0%E6%9F%AC%E5%86%B2%E7%AA%81)
 1. [我国已进入拉尼娜状态](https://www.zhihu.com/search?q=%E6%88%91%E5%9B%BD%E5%B7%B2%E8%BF%9B%E5%85%A5%E6%8B%89%E5%B0%BC%E5%A8%9C%E7%8A%B6%E6%80%81)
 1. [小米用户提车未开出园区便撞人](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%E7%94%A8%E6%88%B7%E6%8F%90%E8%BD%A6%E6%9C%AA%E5%BC%80%E5%87%BA%E5%9B%AD%E5%8C%BA%E4%BE%BF%E6%92%9E%E4%BA%BA)
-1. [泰柬冲突](https://www.zhihu.com/search?q=%E6%B3%B0%E6%9F%AC%E5%86%B2%E7%AA%81)
 1. [丝芭称已支付鞠婧祎超1.39亿](https://www.zhihu.com/search?q=%E4%B8%9D%E8%8A%AD%E7%A7%B0%E5%B7%B2%E6%94%AF%E4%BB%98%E9%9E%A0%E5%A9%A7%E7%A5%8E%E8%B6%851.39%E4%BA%BF)
 1. [360回应前高管指控周鸿祎财务造假](https://www.zhihu.com/search?q=360%E5%9B%9E%E5%BA%94%E5%89%8D%E9%AB%98%E7%AE%A1%E6%8C%87%E6%8E%A7%E5%91%A8%E9%B8%BF%E7%A5%8E%E8%B4%A2%E5%8A%A1%E9%80%A0%E5%81%87)
-1. [你干过最牛的一件事是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E5%B9%B2%E8%BF%87%E6%9C%80%E7%89%9B%E7%9A%84%E4%B8%80%E4%BB%B6%E4%BA%8B%E6%98%AF%E4%BB%80%E4%B9%88)
+1. [为什么不把垃圾倒在活火山里](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E6%8A%8A%E5%9E%83%E5%9C%BE%E5%80%92%E5%9C%A8%E6%B4%BB%E7%81%AB%E5%B1%B1%E9%87%8C)
 1. [河南火灾致 13 死 25 名责任人被处分](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8D%97%E7%81%AB%E7%81%BE%E8%87%B4%2013%20%E6%AD%BB%2025%20%E5%90%8D%E8%B4%A3%E4%BB%BB%E4%BA%BA%E8%A2%AB%E5%A4%84%E5%88%86)
+1. [鞠婧祎丝芭传媒解约纠纷](https://www.zhihu.com/search?q=%E9%9E%A0%E5%A9%A7%E7%A5%8E%E4%B8%9D%E8%8A%AD%E4%BC%A0%E5%AA%92%E8%A7%A3%E7%BA%A6%E7%BA%A0%E7%BA%B7)
 1. [28岁高中女教师新婚当天坠楼身亡](https://www.zhihu.com/search?q=28%E5%B2%81%E9%AB%98%E4%B8%AD%E5%A5%B3%E6%95%99%E5%B8%88%E6%96%B0%E5%A9%9A%E5%BD%93%E5%A4%A9%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1)
-1. [卫健委通报女婴小洛熙手术离世事件](https://www.zhihu.com/search?q=%E5%8D%AB%E5%81%A5%E5%A7%94%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%A9%B4%E5%B0%8F%E6%B4%9B%E7%86%99%E6%89%8B%E6%9C%AF%E7%A6%BB%E4%B8%96%E4%BA%8B%E4%BB%B6)
 1. [人民币汇率创14个月以来新高](https://www.zhihu.com/search?q=%E4%BA%BA%E6%B0%91%E5%B8%81%E6%B1%87%E7%8E%87%E5%88%9B14%E4%B8%AA%E6%9C%88%E4%BB%A5%E6%9D%A5%E6%96%B0%E9%AB%98)
+1. [卫健委通报女婴小洛熙手术离世事件](https://www.zhihu.com/search?q=%E5%8D%AB%E5%81%A5%E5%A7%94%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%A9%B4%E5%B0%8F%E6%B4%9B%E7%86%99%E6%89%8B%E6%9C%AF%E7%A6%BB%E4%B8%96%E4%BA%8B%E4%BB%B6)
+1. [为什么权游龙母的龙傲天之路无法让人激动](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9D%83%E6%B8%B8%E9%BE%99%E6%AF%8D%E7%9A%84%E9%BE%99%E5%82%B2%E5%A4%A9%E4%B9%8B%E8%B7%AF%E6%97%A0%E6%B3%95%E8%AE%A9%E4%BA%BA%E6%BF%80%E5%8A%A8)
+1. [你干过最牛的一件事是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E5%B9%B2%E8%BF%87%E6%9C%80%E7%89%9B%E7%9A%84%E4%B8%80%E4%BB%B6%E4%BA%8B%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [丁元英为什么给卖馄饨的两次钱](https://www.zhihu.com/search?q=%E4%B8%81%E5%85%83%E8%8B%B1%E4%B8%BA%E4%BB%80%E4%B9%88%E7%BB%99%E5%8D%96%E9%A6%84%E9%A5%A8%E7%9A%84%E4%B8%A4%E6%AC%A1%E9%92%B1)
 1. [哈尔滨一男子冻到血管破裂](https://www.zhihu.com/search?q=%E5%93%88%E5%B0%94%E6%BB%A8%E4%B8%80%E7%94%B7%E5%AD%90%E5%86%BB%E5%88%B0%E8%A1%80%E7%AE%A1%E7%A0%B4%E8%A3%82)
 1. [有什么震惊了你的名言](https://www.zhihu.com/search?q=%E6%9C%89%E4%BB%80%E4%B9%88%E9%9C%87%E6%83%8A%E4%BA%86%E4%BD%A0%E7%9A%84%E5%90%8D%E8%A8%80)
