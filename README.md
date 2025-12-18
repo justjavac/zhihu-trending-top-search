@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Dec 18 2025 12:35:33 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Dec 18 2025 13:25:28 GMT+0800 (China Standard Time) -->
 
 1. [海南自贸港18日起正式启动全岛封关](https://www.zhihu.com/search?q=%E6%B5%B7%E5%8D%97%E8%87%AA%E8%B4%B8%E6%B8%AF18%E6%97%A5%E8%B5%B7%E6%AD%A3%E5%BC%8F%E5%90%AF%E5%8A%A8%E5%85%A8%E5%B2%9B%E5%B0%81%E5%85%B3)
 1. [丝芭喊话鞠婧祎再不收手将实名举报](https://www.zhihu.com/search?q=%E4%B8%9D%E8%8A%AD%E5%96%8A%E8%AF%9D%E9%9E%A0%E5%A9%A7%E7%A5%8E%E5%86%8D%E4%B8%8D%E6%94%B6%E6%89%8B%E5%B0%86%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5)
