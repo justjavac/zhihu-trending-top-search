@@ -14,19 +14,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Dec 18 2025 20:49:42 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Dec 18 2025 21:37:57 GMT+0800 (China Standard Time) -->
 
 1. [泰柬冲突](https://www.zhihu.com/search?q=%E6%B3%B0%E6%9F%AC%E5%86%B2%E7%AA%81)
 1. [中方回应「泰称从柬军缴获中国装备」](https://www.zhihu.com/search?q=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E3%80%8C%E6%B3%B0%E7%A7%B0%E4%BB%8E%E6%9F%AC%E5%86%9B%E7%BC%B4%E8%8E%B7%E4%B8%AD%E5%9B%BD%E8%A3%85%E5%A4%87%E3%80%8D)
 1. [海南自贸港18日起正式启动全岛封关](https://www.zhihu.com/search?q=%E6%B5%B7%E5%8D%97%E8%87%AA%E8%B4%B8%E6%B8%AF18%E6%97%A5%E8%B5%B7%E6%AD%A3%E5%BC%8F%E5%90%AF%E5%8A%A8%E5%85%A8%E5%B2%9B%E5%B0%81%E5%85%B3)
-1. [「小红卡」关停问题出在哪里](https://www.zhihu.com/search?q=%E3%80%8C%E5%B0%8F%E7%BA%A2%E5%8D%A1%E3%80%8D%E5%85%B3%E5%81%9C%E9%97%AE%E9%A2%98%E5%87%BA%E5%9C%A8%E5%93%AA%E9%87%8C)
+1. [你见过最恶心的邻居是什么样子](https://www.zhihu.com/search?q=%E4%BD%A0%E8%A7%81%E8%BF%87%E6%9C%80%E6%81%B6%E5%BF%83%E7%9A%84%E9%82%BB%E5%B1%85%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E5%AD%90)
 1. [丝芭称已支付鞠婧祎超1.39亿](https://www.zhihu.com/search?q=%E4%B8%9D%E8%8A%AD%E7%A7%B0%E5%B7%B2%E6%94%AF%E4%BB%98%E9%9E%A0%E5%A9%A7%E7%A5%8E%E8%B6%851.39%E4%BA%BF)
 1. [南京博物院藏明代仇英名作现身拍卖市场](https://www.zhihu.com/search?q=%E5%8D%97%E4%BA%AC%E5%8D%9A%E7%89%A9%E9%99%A2%E8%97%8F%E6%98%8E%E4%BB%A3%E4%BB%87%E8%8B%B1%E5%90%8D%E4%BD%9C%E7%8E%B0%E8%BA%AB%E6%8B%8D%E5%8D%96%E5%B8%82%E5%9C%BA)
 1. [南京博物院回应馆藏现身拍卖市场](https://www.zhihu.com/search?q=%E5%8D%97%E4%BA%AC%E5%8D%9A%E7%89%A9%E9%99%A2%E5%9B%9E%E5%BA%94%E9%A6%86%E8%97%8F%E7%8E%B0%E8%BA%AB%E6%8B%8D%E5%8D%96%E5%B8%82%E5%9C%BA)
-1. [丁元英为什么给卖馄饨的两次钱](https://www.zhihu.com/search?q=%E4%B8%81%E5%85%83%E8%8B%B1%E4%B8%BA%E4%BB%80%E4%B9%88%E7%BB%99%E5%8D%96%E9%A6%84%E9%A5%A8%E7%9A%84%E4%B8%A4%E6%AC%A1%E9%92%B1)
+1. [晴雯之死真是因为性格所致吗](https://www.zhihu.com/search?q=%E6%99%B4%E9%9B%AF%E4%B9%8B%E6%AD%BB%E7%9C%9F%E6%98%AF%E5%9B%A0%E4%B8%BA%E6%80%A7%E6%A0%BC%E6%89%80%E8%87%B4%E5%90%97)
 1. [麻省理工一核聚变专家遭枪杀](https://www.zhihu.com/search?q=%E9%BA%BB%E7%9C%81%E7%90%86%E5%B7%A5%E4%B8%80%E6%A0%B8%E8%81%9A%E5%8F%98%E4%B8%93%E5%AE%B6%E9%81%AD%E6%9E%AA%E6%9D%80)
 1. [人民币汇率创14个月以来新高](https://www.zhihu.com/search?q=%E4%BA%BA%E6%B0%91%E5%B8%81%E6%B1%87%E7%8E%87%E5%88%9B14%E4%B8%AA%E6%9C%88%E4%BB%A5%E6%9D%A5%E6%96%B0%E9%AB%98)
 1. [芬兰总理正式向中韩日民众道歉](https://www.zhihu.com/search?q=%E8%8A%AC%E5%85%B0%E6%80%BB%E7%90%86%E6%AD%A3%E5%BC%8F%E5%90%91%E4%B8%AD%E9%9F%A9%E6%97%A5%E6%B0%91%E4%BC%97%E9%81%93%E6%AD%89)
+1. [印度为梅西建雕像的见面会变成一场闹剧](https://www.zhihu.com/search?q=%E5%8D%B0%E5%BA%A6%E4%B8%BA%E6%A2%85%E8%A5%BF%E5%BB%BA%E9%9B%95%E5%83%8F%E7%9A%84%E8%A7%81%E9%9D%A2%E4%BC%9A%E5%8F%98%E6%88%90%E4%B8%80%E5%9C%BA%E9%97%B9%E5%89%A7)
+1. [「小红卡」关停问题出在哪里](https://www.zhihu.com/search?q=%E3%80%8C%E5%B0%8F%E7%BA%A2%E5%8D%A1%E3%80%8D%E5%85%B3%E5%81%9C%E9%97%AE%E9%A2%98%E5%87%BA%E5%9C%A8%E5%93%AA%E9%87%8C)
+1. [丁元英为什么给卖馄饨的两次钱](https://www.zhihu.com/search?q=%E4%B8%81%E5%85%83%E8%8B%B1%E4%B8%BA%E4%BB%80%E4%B9%88%E7%BB%99%E5%8D%96%E9%A6%84%E9%A5%A8%E7%9A%84%E4%B8%A4%E6%AC%A1%E9%92%B1)
 1. [你见过哪些当年很轰动但后来被打脸的神预言](https://www.zhihu.com/search?q=%E4%BD%A0%E8%A7%81%E8%BF%87%E5%93%AA%E4%BA%9B%E5%BD%93%E5%B9%B4%E5%BE%88%E8%BD%B0%E5%8A%A8%E4%BD%86%E5%90%8E%E6%9D%A5%E8%A2%AB%E6%89%93%E8%84%B8%E7%9A%84%E7%A5%9E%E9%A2%84%E8%A8%80)
 1. [朋友聚餐逃单责任与饭钱该如何分摊](https://www.zhihu.com/search?q=%E6%9C%8B%E5%8F%8B%E8%81%9A%E9%A4%90%E9%80%83%E5%8D%95%E8%B4%A3%E4%BB%BB%E4%B8%8E%E9%A5%AD%E9%92%B1%E8%AF%A5%E5%A6%82%E4%BD%95%E5%88%86%E6%91%8A)
 1. [你对何晴塑造的角色有哪些记忆](https://www.zhihu.com/search?q=%E4%BD%A0%E5%AF%B9%E4%BD%95%E6%99%B4%E5%A1%91%E9%80%A0%E7%9A%84%E8%A7%92%E8%89%B2%E6%9C%89%E5%93%AA%E4%BA%9B%E8%AE%B0%E5%BF%86)
