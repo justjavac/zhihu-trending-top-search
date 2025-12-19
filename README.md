@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Dec 20 2025 02:33:33 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Dec 20 2025 03:18:24 GMT+0800 (China Standard Time) -->
 
 1. [泰柬冲突](https://www.zhihu.com/search?q=%E6%B3%B0%E6%9F%AC%E5%86%B2%E7%AA%81)
 1. [考研](https://www.zhihu.com/search?q=%E8%80%83%E7%A0%94)
