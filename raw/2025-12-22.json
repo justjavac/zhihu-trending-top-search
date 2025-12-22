@@ -1,16 +1,22 @@
 [
   { "query_display": "宁波通报女婴术后离世医疗事件调查进展", "real_query": "宁波通报女婴术后离世医疗事件调查进展" },
   { "query_display": "央行宣布实施一次性信用修复政策", "real_query": "央行宣布实施一次性信用修复政策" },
-  { "query_display": "顺丰主动退出抖音电商退货业务", "real_query": "顺丰主动退出抖音电商退货业务" },
-  { "query_display": "内脏脂肪要怎么减", "real_query": "内脏脂肪要怎么减" },
   { "query_display": "福原爱宣布再婚并已怀孕", "real_query": "福原爱宣布再婚并已怀孕" },
+  { "query_display": "功夫中琛哥为什么能当上斧头帮的老大", "real_query": "功夫中琛哥为什么能当上斧头帮的老大" },
+  { "query_display": "顺丰主动退出抖音电商退货业务", "real_query": "顺丰主动退出抖音电商退货业务" },
   { "query_display": "网传山楂树下禁售", "real_query": "网传山楂树下禁售" },
   { "query_display": "2026考研初试结束", "real_query": "2026考研初试结束" },
-  { "query_display": "常请同事吃饭为何评优时她却没选我", "real_query": "常请同事吃饭为何评优时她却没选我" },
+  { "query_display": "年轻人为什么对工作失去了激情", "real_query": "年轻人为什么对工作失去了激情" },
   { "query_display": "OpenAI 被曝正寻求千亿美元融资", "real_query": "OpenAI 被曝正寻求千亿美元融资" },
-  { "query_display": "考研数学", "real_query": "考研数学" },
-  { "query_display": "美队确认回归主演《复联 5》", "real_query": "美队确认回归主演《复联 5》" },
   { "query_display": "丈夫全程喊「刹车」妻子仍撞上路人", "real_query": "丈夫全程喊「刹车」妻子仍撞上路人" },
+  {
+    "query_display": "《尼罗河上的惨案》男主为何不和富家女生活",
+    "real_query": "《尼罗河上的惨案》男主为何不和富家女生活"
+  },
+  { "query_display": "考研数学", "real_query": "考研数学" },
+  { "query_display": "内脏脂肪要怎么减", "real_query": "内脏脂肪要怎么减" },
+  { "query_display": "常请同事吃饭为何评优时她却没选我", "real_query": "常请同事吃饭为何评优时她却没选我" },
+  { "query_display": "美队确认回归主演《复联 5》", "real_query": "美队确认回归主演《复联 5》" },
   { "query_display": "《阿凡达 3：火与烬》值得推荐吗", "real_query": "《阿凡达 3：火与烬》值得推荐吗" },
   { "query_display": "假如长城用 C140 混凝土会如何", "real_query": "假如长城用 C140 混凝土会如何" },
   { "query_display": "台北车站攻击事件", "real_query": "台北车站攻击事件" },
@@ -22,7 +28,6 @@
   { "query_display": "日本H3火箭发射失败", "real_query": "日本H3火箭发射失败" },
   { "query_display": "你知道有哪些信息差", "real_query": "你知道有哪些信息差" },
   { "query_display": "独身女子去世存款无法支付医疗费", "real_query": "独身女子去世存款无法支付医疗费" },
-  { "query_display": "功夫中琛哥为什么能当上斧头帮的老大", "real_query": "功夫中琛哥为什么能当上斧头帮的老大" },
   { "query_display": "小型的地级市会有建地铁那天么", "real_query": "小型的地级市会有建地铁那天么" },
   { "query_display": "海南封关40克金饰能省1万多元", "real_query": "海南封关40克金饰能省1万多元" },
   { "query_display": "结账时发现东西很贵怎么办", "real_query": "结账时发现东西很贵怎么办" },
@@ -47,10 +52,6 @@
   { "query_display": "为什么新录用乡镇公务员有五年服务期", "real_query": "为什么新录用乡镇公务员有五年服务期" },
   { "query_display": "父母为什么不理解当代年轻人的绝望", "real_query": "父母为什么不理解当代年轻人的绝望" },
   { "query_display": "《西虹市首富》里钱越花越多现实中会有吗", "real_query": "《西虹市首富》里钱越花越多现实中会有吗" },
-  {
-    "query_display": "《尼罗河上的惨案》男主为何不和富家女生活",
-    "real_query": "《尼罗河上的惨案》男主为何不和富家女生活"
-  },
   { "query_display": "如何看待「国产 GPU 四小龙」的竞争力", "real_query": "如何看待「国产 GPU 四小龙」的竞争力" },
   { "query_display": "涉事医院回应小洛熙尸检报告", "real_query": "涉事医院回应小洛熙尸检报告" }
 ]
