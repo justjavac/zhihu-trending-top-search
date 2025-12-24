@@ -14,19 +14,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Dec 24 2025 22:22:29 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Dec 24 2025 23:24:26 GMT+0800 (China Standard Time) -->
 
 1. [强生爽身粉致癌案被判赔女子 110 亿元](https://www.zhihu.com/search?q=%E5%BC%BA%E7%94%9F%E7%88%BD%E8%BA%AB%E7%B2%89%E8%87%B4%E7%99%8C%E6%A1%88%E8%A2%AB%E5%88%A4%E8%B5%94%E5%A5%B3%E5%AD%90%20110%20%E4%BA%BF%E5%85%83)
 1. [台湾地震](https://www.zhihu.com/search?q=%E5%8F%B0%E6%B9%BE%E5%9C%B0%E9%9C%87)
-1. [全球首款2nm手机芯片诞生](https://www.zhihu.com/search?q=%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%BE2nm%E6%89%8B%E6%9C%BA%E8%8A%AF%E7%89%87%E8%AF%9E%E7%94%9F)
 1. [宁波通报女婴术后离世医疗事件调查进展](https://www.zhihu.com/search?q=%E5%AE%81%E6%B3%A2%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%A9%B4%E6%9C%AF%E5%90%8E%E7%A6%BB%E4%B8%96%E5%8C%BB%E7%96%97%E4%BA%8B%E4%BB%B6%E8%B0%83%E6%9F%A5%E8%BF%9B%E5%B1%95)
+1. [全球首款2nm手机芯片诞生](https://www.zhihu.com/search?q=%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%BE2nm%E6%89%8B%E6%9C%BA%E8%8A%AF%E7%89%87%E8%AF%9E%E7%94%9F)
 1. [阿房宫台基被发现建于湖底淤泥之上](https://www.zhihu.com/search?q=%E9%98%BF%E6%88%BF%E5%AE%AB%E5%8F%B0%E5%9F%BA%E8%A2%AB%E5%8F%91%E7%8E%B0%E5%BB%BA%E4%BA%8E%E6%B9%96%E5%BA%95%E6%B7%A4%E6%B3%A5%E4%B9%8B%E4%B8%8A)
-1. [生活中你们见过最愚蠢的设计是啥](https://www.zhihu.com/search?q=%E7%94%9F%E6%B4%BB%E4%B8%AD%E4%BD%A0%E4%BB%AC%E8%A7%81%E8%BF%87%E6%9C%80%E6%84%9A%E8%A0%A2%E7%9A%84%E8%AE%BE%E8%AE%A1%E6%98%AF%E5%95%A5)
+1. [你知道有哪些信息差](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9F%A5%E9%81%93%E6%9C%89%E5%93%AA%E4%BA%9B%E4%BF%A1%E6%81%AF%E5%B7%AE)
 1. [「宁波女婴术后离世」医疗事故鉴定启动](https://www.zhihu.com/search?q=%E3%80%8C%E5%AE%81%E6%B3%A2%E5%A5%B3%E5%A9%B4%E6%9C%AF%E5%90%8E%E7%A6%BB%E4%B8%96%E3%80%8D%E5%8C%BB%E7%96%97%E4%BA%8B%E6%95%85%E9%89%B4%E5%AE%9A%E5%90%AF%E5%8A%A8)
 1. [南京博物院藏明代仇英名作现身拍卖市场](https://www.zhihu.com/search?q=%E5%8D%97%E4%BA%AC%E5%8D%9A%E7%89%A9%E9%99%A2%E8%97%8F%E6%98%8E%E4%BB%A3%E4%BB%87%E8%8B%B1%E5%90%8D%E4%BD%9C%E7%8E%B0%E8%BA%AB%E6%8B%8D%E5%8D%96%E5%B8%82%E5%9C%BA)
 1. [烤鸡少年承认用肉宝王调味](https://www.zhihu.com/search?q=%E7%83%A4%E9%B8%A1%E5%B0%91%E5%B9%B4%E6%89%BF%E8%AE%A4%E7%94%A8%E8%82%89%E5%AE%9D%E7%8E%8B%E8%B0%83%E5%91%B3)
-1. [海南封关还有哪些东西值得买](https://www.zhihu.com/search?q=%E6%B5%B7%E5%8D%97%E5%B0%81%E5%85%B3%E8%BF%98%E6%9C%89%E5%93%AA%E4%BA%9B%E4%B8%9C%E8%A5%BF%E5%80%BC%E5%BE%97%E4%B9%B0)
+1. [健身房教练说不报课自己练会练废是真的吗](https://www.zhihu.com/search?q=%E5%81%A5%E8%BA%AB%E6%88%BF%E6%95%99%E7%BB%83%E8%AF%B4%E4%B8%8D%E6%8A%A5%E8%AF%BE%E8%87%AA%E5%B7%B1%E7%BB%83%E4%BC%9A%E7%BB%83%E5%BA%9F%E6%98%AF%E7%9C%9F%E7%9A%84%E5%90%97)
 1. [北京市优化调整住房限购政策](https://www.zhihu.com/search?q=%E5%8C%97%E4%BA%AC%E5%B8%82%E4%BC%98%E5%8C%96%E8%B0%83%E6%95%B4%E4%BD%8F%E6%88%BF%E9%99%90%E8%B4%AD%E6%94%BF%E7%AD%96)
+1. [博主考研北大睡过头](https://www.zhihu.com/search?q=%E5%8D%9A%E4%B8%BB%E8%80%83%E7%A0%94%E5%8C%97%E5%A4%A7%E7%9D%A1%E8%BF%87%E5%A4%B4)
+1. [生活中你们见过最愚蠢的设计是啥](https://www.zhihu.com/search?q=%E7%94%9F%E6%B4%BB%E4%B8%AD%E4%BD%A0%E4%BB%AC%E8%A7%81%E8%BF%87%E6%9C%80%E6%84%9A%E8%A0%A2%E7%9A%84%E8%AE%BE%E8%AE%A1%E6%98%AF%E5%95%A5)
+1. [海南封关还有哪些东西值得买](https://www.zhihu.com/search?q=%E6%B5%B7%E5%8D%97%E5%B0%81%E5%85%B3%E8%BF%98%E6%9C%89%E5%93%AA%E4%BA%9B%E4%B8%9C%E8%A5%BF%E5%80%BC%E5%BE%97%E4%B9%B0)
 1. [京东巴黎仓库遭盗窃损失超3亿元](https://www.zhihu.com/search?q=%E4%BA%AC%E4%B8%9C%E5%B7%B4%E9%BB%8E%E4%BB%93%E5%BA%93%E9%81%AD%E7%9B%97%E7%AA%83%E6%8D%9F%E5%A4%B1%E8%B6%853%E4%BA%BF%E5%85%83)
 1. [宇树机器人完成韦伯斯特空翻是如何做到的](https://www.zhihu.com/search?q=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AE%8C%E6%88%90%E9%9F%A6%E4%BC%AF%E6%96%AF%E7%89%B9%E7%A9%BA%E7%BF%BB%E6%98%AF%E5%A6%82%E4%BD%95%E5%81%9A%E5%88%B0%E7%9A%84)
 1. [顺丰退出抖音退货业务背后涉及哪些市场博弈](https://www.zhihu.com/search?q=%E9%A1%BA%E4%B8%B0%E9%80%80%E5%87%BA%E6%8A%96%E9%9F%B3%E9%80%80%E8%B4%A7%E4%B8%9A%E5%8A%A1%E8%83%8C%E5%90%8E%E6%B6%89%E5%8F%8A%E5%93%AA%E4%BA%9B%E5%B8%82%E5%9C%BA%E5%8D%9A%E5%BC%88)
@@ -45,7 +48,6 @@
 1. [那些过气的明星后来怎么样了](https://www.zhihu.com/search?q=%E9%82%A3%E4%BA%9B%E8%BF%87%E6%B0%94%E7%9A%84%E6%98%8E%E6%98%9F%E5%90%8E%E6%9D%A5%E6%80%8E%E4%B9%88%E6%A0%B7%E4%BA%86)
 1. [货车司机因两根松木框架被罚五千元](https://www.zhihu.com/search?q=%E8%B4%A7%E8%BD%A6%E5%8F%B8%E6%9C%BA%E5%9B%A0%E4%B8%A4%E6%A0%B9%E6%9D%BE%E6%9C%A8%E6%A1%86%E6%9E%B6%E8%A2%AB%E7%BD%9A%E4%BA%94%E5%8D%83%E5%85%83)
 1. [江苏成立调查组彻查南博文物管理](https://www.zhihu.com/search?q=%E6%B1%9F%E8%8B%8F%E6%88%90%E7%AB%8B%E8%B0%83%E6%9F%A5%E7%BB%84%E5%BD%BB%E6%9F%A5%E5%8D%97%E5%8D%9A%E6%96%87%E7%89%A9%E7%AE%A1%E7%90%86)
-1. [健身房教练说不报课自己练会练废是真的吗](https://www.zhihu.com/search?q=%E5%81%A5%E8%BA%AB%E6%88%BF%E6%95%99%E7%BB%83%E8%AF%B4%E4%B8%8D%E6%8A%A5%E8%AF%BE%E8%87%AA%E5%B7%B1%E7%BB%83%E4%BC%9A%E7%BB%83%E5%BA%9F%E6%98%AF%E7%9C%9F%E7%9A%84%E5%90%97)
 1. [中国古代画家为何不追求「画得像」](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E5%8F%A4%E4%BB%A3%E7%94%BB%E5%AE%B6%E4%B8%BA%E4%BD%95%E4%B8%8D%E8%BF%BD%E6%B1%82%E3%80%8C%E7%94%BB%E5%BE%97%E5%83%8F%E3%80%8D)
 1. [若 AI 真承担大部分工作该恐惧还是庆祝](https://www.zhihu.com/search?q=%E8%8B%A5%20AI%20%E7%9C%9F%E6%89%BF%E6%8B%85%E5%A4%A7%E9%83%A8%E5%88%86%E5%B7%A5%E4%BD%9C%E8%AF%A5%E6%81%90%E6%83%A7%E8%BF%98%E6%98%AF%E5%BA%86%E7%A5%9D)
 1. [小型的地级市会有建地铁那天么](https://www.zhihu.com/search?q=%E5%B0%8F%E5%9E%8B%E7%9A%84%E5%9C%B0%E7%BA%A7%E5%B8%82%E4%BC%9A%E6%9C%89%E5%BB%BA%E5%9C%B0%E9%93%81%E9%82%A3%E5%A4%A9%E4%B9%88)
