@@ -14,15 +14,15 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Dec 26 2025 05:20:42 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Dec 26 2025 06:22:03 GMT+0800 (China Standard Time) -->
 
 1. [全球首款2nm手机芯片诞生](https://www.zhihu.com/search?q=%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%BE2nm%E6%89%8B%E6%9C%BA%E8%8A%AF%E7%89%87%E8%AF%9E%E7%94%9F)
 1. [强生爽身粉致癌案被判赔女子 110 亿元](https://www.zhihu.com/search?q=%E5%BC%BA%E7%94%9F%E7%88%BD%E8%BA%AB%E7%B2%89%E8%87%B4%E7%99%8C%E6%A1%88%E8%A2%AB%E5%88%A4%E8%B5%94%E5%A5%B3%E5%AD%90%20110%20%E4%BA%BF%E5%85%83)
 1. [朱孝天举报五月天公司逃税洗钱](https://www.zhihu.com/search?q=%E6%9C%B1%E5%AD%9D%E5%A4%A9%E4%B8%BE%E6%8A%A5%E4%BA%94%E6%9C%88%E5%A4%A9%E5%85%AC%E5%8F%B8%E9%80%83%E7%A8%8E%E6%B4%97%E9%92%B1)
 1. [「广德三件套」炖锅奶茶桃酥带动当地旅游](https://www.zhihu.com/search?q=%E3%80%8C%E5%B9%BF%E5%BE%B7%E4%B8%89%E4%BB%B6%E5%A5%97%E3%80%8D%E7%82%96%E9%94%85%E5%A5%B6%E8%8C%B6%E6%A1%83%E9%85%A5%E5%B8%A6%E5%8A%A8%E5%BD%93%E5%9C%B0%E6%97%85%E6%B8%B8)
-1. [美国斩杀线是什么](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E6%96%A9%E6%9D%80%E7%BA%BF%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [小学火灾案班主任量刑依据披露](https://www.zhihu.com/search?q=%E5%B0%8F%E5%AD%A6%E7%81%AB%E7%81%BE%E6%A1%88%E7%8F%AD%E4%B8%BB%E4%BB%BB%E9%87%8F%E5%88%91%E4%BE%9D%E6%8D%AE%E6%8A%AB%E9%9C%B2)
 1. [阿房宫台基被发现建于湖底淤泥之上](https://www.zhihu.com/search?q=%E9%98%BF%E6%88%BF%E5%AE%AB%E5%8F%B0%E5%9F%BA%E8%A2%AB%E5%8F%91%E7%8E%B0%E5%BB%BA%E4%BA%8E%E6%B9%96%E5%BA%95%E6%B7%A4%E6%B3%A5%E4%B9%8B%E4%B8%8A)
+1. [美国斩杀线是什么](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E6%96%A9%E6%9D%80%E7%BA%BF%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [美团暂停「团好货」](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%A2%E6%9A%82%E5%81%9C%E3%80%8C%E5%9B%A2%E5%A5%BD%E8%B4%A7%E3%80%8D)
 1. [南京博物院藏明代仇英名作现身拍卖市场](https://www.zhihu.com/search?q=%E5%8D%97%E4%BA%AC%E5%8D%9A%E7%89%A9%E9%99%A2%E8%97%8F%E6%98%8E%E4%BB%A3%E4%BB%87%E8%8B%B1%E5%90%8D%E4%BD%9C%E7%8E%B0%E8%BA%AB%E6%8B%8D%E5%8D%96%E5%B8%82%E5%9C%BA)
 1. [京东年终奖投入涨幅超 70%](https://www.zhihu.com/search?q=%E4%BA%AC%E4%B8%9C%E5%B9%B4%E7%BB%88%E5%A5%96%E6%8A%95%E5%85%A5%E6%B6%A8%E5%B9%85%E8%B6%85%2070%25)
