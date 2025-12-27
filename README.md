@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Dec 28 2025 04:25:07 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Dec 28 2025 05:19:43 GMT+0800 (China Standard Time) -->
 
 1. [台湾地震](https://www.zhihu.com/search?q=%E5%8F%B0%E6%B9%BE%E5%9C%B0%E9%9C%87)
 1. [美国斩杀线是什么](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E6%96%A9%E6%9D%80%E7%BA%BF%E6%98%AF%E4%BB%80%E4%B9%88)
