@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Dec 30 2025 12:40:56 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Dec 30 2025 13:26:05 GMT+0800 (China Standard Time) -->
 
 1. [东部战区组织实弹射击](https://www.zhihu.com/search?q=%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%E7%BB%84%E7%BB%87%E5%AE%9E%E5%BC%B9%E5%B0%84%E5%87%BB)
 1. [我的摸鱼图鉴](https://www.zhihu.com/search?q=%E6%88%91%E7%9A%84%E6%91%B8%E9%B1%BC%E5%9B%BE%E9%89%B4)
@@ -23,6 +23,7 @@
 1. [解放军无人机俯瞰台北101](https://www.zhihu.com/search?q=%E8%A7%A3%E6%94%BE%E5%86%9B%E6%97%A0%E4%BA%BA%E6%9C%BA%E4%BF%AF%E7%9E%B0%E5%8F%B0%E5%8C%97101)
 1. [上海禁毒回应霸王茶姬咖啡因争议](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E7%A6%81%E6%AF%92%E5%9B%9E%E5%BA%94%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E5%92%96%E5%95%A1%E5%9B%A0%E4%BA%89%E8%AE%AE)
 1. [林俊杰官宣恋情](https://www.zhihu.com/search?q=%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%AE%98%E5%AE%A3%E6%81%8B%E6%83%85)
+1. [2025 年度知友辟谣榜](https://www.zhihu.com/search?q=2025%20%E5%B9%B4%E5%BA%A6%E7%9F%A5%E5%8F%8B%E8%BE%9F%E8%B0%A3%E6%A6%9C)
 1. [中柬泰三方抚仙会晤新闻公报发布](https://www.zhihu.com/search?q=%E4%B8%AD%E6%9F%AC%E6%B3%B0%E4%B8%89%E6%96%B9%E6%8A%9A%E4%BB%99%E4%BC%9A%E6%99%A4%E6%96%B0%E9%97%BB%E5%85%AC%E6%8A%A5%E5%8F%91%E5%B8%83)
 1. [霸王茶姬咖啡因含量遭质疑](https://www.zhihu.com/search?q=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E5%92%96%E5%95%A1%E5%9B%A0%E5%90%AB%E9%87%8F%E9%81%AD%E8%B4%A8%E7%96%91)
 1. [女子发现接触两根手指能调整呼吸](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E5%8F%91%E7%8E%B0%E6%8E%A5%E8%A7%A6%E4%B8%A4%E6%A0%B9%E6%89%8B%E6%8C%87%E8%83%BD%E8%B0%83%E6%95%B4%E5%91%BC%E5%90%B8)
