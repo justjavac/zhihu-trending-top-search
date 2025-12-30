@@ -14,13 +14,13 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Dec 30 2025 13:26:05 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Dec 30 2025 14:37:00 GMT+0800 (China Standard Time) -->
 
 1. [东部战区组织实弹射击](https://www.zhihu.com/search?q=%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%E7%BB%84%E7%BB%87%E5%AE%9E%E5%BC%B9%E5%B0%84%E5%87%BB)
 1. [我的摸鱼图鉴](https://www.zhihu.com/search?q=%E6%88%91%E7%9A%84%E6%91%B8%E9%B1%BC%E5%9B%BE%E9%89%B4)
-1. [美国斩杀线是什么](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E6%96%A9%E6%9D%80%E7%BA%BF%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [东部战区开展正义使命-2025演习](https://www.zhihu.com/search?q=%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%E5%BC%80%E5%B1%95%E6%AD%A3%E4%B9%89%E4%BD%BF%E5%91%BD-2025%E6%BC%94%E4%B9%A0)
 1. [解放军无人机俯瞰台北101](https://www.zhihu.com/search?q=%E8%A7%A3%E6%94%BE%E5%86%9B%E6%97%A0%E4%BA%BA%E6%9C%BA%E4%BF%AF%E7%9E%B0%E5%8F%B0%E5%8C%97101)
+1. [美国斩杀线是什么](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E6%96%A9%E6%9D%80%E7%BA%BF%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [上海禁毒回应霸王茶姬咖啡因争议](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E7%A6%81%E6%AF%92%E5%9B%9E%E5%BA%94%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E5%92%96%E5%95%A1%E5%9B%A0%E4%BA%89%E8%AE%AE)
 1. [林俊杰官宣恋情](https://www.zhihu.com/search?q=%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%AE%98%E5%AE%A3%E6%81%8B%E6%83%85)
 1. [2025 年度知友辟谣榜](https://www.zhihu.com/search?q=2025%20%E5%B9%B4%E5%BA%A6%E7%9F%A5%E5%8F%8B%E8%BE%9F%E8%B0%A3%E6%A6%9C)
