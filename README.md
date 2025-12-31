@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jan 01 2026 04:25:47 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jan 01 2026 05:20:51 GMT+0800 (China Standard Time) -->
 
 1. [2026新年贺词](https://www.zhihu.com/search?q=2026%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D)
 1. [央视跨年晚会](https://www.zhihu.com/search?q=%E5%A4%AE%E8%A7%86%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A)
@@ -24,10 +24,11 @@
 1. [Meta 数十亿美元收购 Manus](https://www.zhihu.com/search?q=Meta%20%E6%95%B0%E5%8D%81%E4%BA%BF%E7%BE%8E%E5%85%83%E6%94%B6%E8%B4%AD%20Manus)
 1. [东部战区组织实弹射击](https://www.zhihu.com/search?q=%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%E7%BB%84%E7%BB%87%E5%AE%9E%E5%BC%B9%E5%B0%84%E5%87%BB)
 1. [伊朗货币里亚尔暴跌](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E8%B4%A7%E5%B8%81%E9%87%8C%E4%BA%9A%E5%B0%94%E6%9A%B4%E8%B7%8C)
+1. [王自如直播写代码](https://www.zhihu.com/search?q=%E7%8E%8B%E8%87%AA%E5%A6%82%E7%9B%B4%E6%92%AD%E5%86%99%E4%BB%A3%E7%A0%81)
 1. [再见2025](https://www.zhihu.com/search?q=%E5%86%8D%E8%A7%812025)
 1. [元旦跨年朋友圈发什么](https://www.zhihu.com/search?q=%E5%85%83%E6%97%A6%E8%B7%A8%E5%B9%B4%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%8F%91%E4%BB%80%E4%B9%88)
-1. [韩国总统李在明将访华](https://www.zhihu.com/search?q=%E9%9F%A9%E5%9B%BD%E6%80%BB%E7%BB%9F%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%B0%86%E8%AE%BF%E5%8D%8E)
 1. [年度报告为啥不显示「熬穿了」](https://www.zhihu.com/search?q=%E5%B9%B4%E5%BA%A6%E6%8A%A5%E5%91%8A%E4%B8%BA%E5%95%A5%E4%B8%8D%E6%98%BE%E7%A4%BA%E3%80%8C%E7%86%AC%E7%A9%BF%E4%BA%86%E3%80%8D)
+1. [韩国总统李在明将访华](https://www.zhihu.com/search?q=%E9%9F%A9%E5%9B%BD%E6%80%BB%E7%BB%9F%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%B0%86%E8%AE%BF%E5%8D%8E)
 1. [跨年晚会](https://www.zhihu.com/search?q=%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A)
 1. [湖南卫视跨年晚会](https://www.zhihu.com/search?q=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A)
 
