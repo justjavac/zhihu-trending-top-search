@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jan 01 2026 02:33:56 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jan 01 2026 03:18:00 GMT+0800 (China Standard Time) -->
 
 1. [2026新年贺词](https://www.zhihu.com/search?q=2026%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D)
 1. [央视跨年晚会](https://www.zhihu.com/search?q=%E5%A4%AE%E8%A7%86%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A)
