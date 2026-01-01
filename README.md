@@ -14,12 +14,12 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jan 01 2026 18:26:16 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jan 01 2026 19:20:25 GMT+0800 (China Standard Time) -->
 
 1. [2026新年贺词](https://www.zhihu.com/search?q=2026%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D)
-1. [土耳其宣布对中国公民免签](https://www.zhihu.com/search?q=%E5%9C%9F%E8%80%B3%E5%85%B6%E5%AE%A3%E5%B8%83%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%85%8D%E7%AD%BE)
-1. [你好2026](https://www.zhihu.com/search?q=%E4%BD%A0%E5%A5%BD2026)
 1. [央视跨年晚会](https://www.zhihu.com/search?q=%E5%A4%AE%E8%A7%86%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A)
+1. [你好2026](https://www.zhihu.com/search?q=%E4%BD%A0%E5%A5%BD2026)
+1. [土耳其宣布对中国公民免签](https://www.zhihu.com/search?q=%E5%9C%9F%E8%80%B3%E5%85%B6%E5%AE%A3%E5%B8%83%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%85%8D%E7%AD%BE)
 1. [2026 年国补政策来了](https://www.zhihu.com/search?q=2026%20%E5%B9%B4%E5%9B%BD%E8%A1%A5%E6%94%BF%E7%AD%96%E6%9D%A5%E4%BA%86)
 1. [Meta 数十亿美元收购 Manus](https://www.zhihu.com/search?q=Meta%20%E6%95%B0%E5%8D%81%E4%BA%BF%E7%BE%8E%E5%85%83%E6%94%B6%E8%B4%AD%20Manus)
 1. [再见2025](https://www.zhihu.com/search?q=%E5%86%8D%E8%A7%812025)
