@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jan 01 2026 20:49:26 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jan 01 2026 21:34:47 GMT+0800 (China Standard Time) -->
 
 1. [2026新年贺词](https://www.zhihu.com/search?q=2026%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D)
 1. [央视跨年晚会](https://www.zhihu.com/search?q=%E5%A4%AE%E8%A7%86%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A)
@@ -25,9 +25,10 @@
 1. [2026 年元旦升国旗仪式举行](https://www.zhihu.com/search?q=2026%20%E5%B9%B4%E5%85%83%E6%97%A6%E5%8D%87%E5%9B%BD%E6%97%97%E4%BB%AA%E5%BC%8F%E4%B8%BE%E8%A1%8C)
 1. [元旦跨年朋友圈发什么](https://www.zhihu.com/search?q=%E5%85%83%E6%97%A6%E8%B7%A8%E5%B9%B4%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%8F%91%E4%BB%80%E4%B9%88)
 1. [土耳其宣布对中国公民免签](https://www.zhihu.com/search?q=%E5%9C%9F%E8%80%B3%E5%85%B6%E5%AE%A3%E5%B8%83%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%85%8D%E7%AD%BE)
-1. [跨年晚会](https://www.zhihu.com/search?q=%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A)
 1. [宝妈吐槽娃被公公满身酒气熏醉](https://www.zhihu.com/search?q=%E5%AE%9D%E5%A6%88%E5%90%90%E6%A7%BD%E5%A8%83%E8%A2%AB%E5%85%AC%E5%85%AC%E6%BB%A1%E8%BA%AB%E9%85%92%E6%B0%94%E7%86%8F%E9%86%89)
 1. [周深一天登四场跨年晚会](https://www.zhihu.com/search?q=%E5%91%A8%E6%B7%B1%E4%B8%80%E5%A4%A9%E7%99%BB%E5%9B%9B%E5%9C%BA%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A)
+1. [孟晚舟发表新年致辞](https://www.zhihu.com/search?q=%E5%AD%9F%E6%99%9A%E8%88%9F%E5%8F%91%E8%A1%A8%E6%96%B0%E5%B9%B4%E8%87%B4%E8%BE%9E)
+1. [跨年晚会](https://www.zhihu.com/search?q=%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A)
 1. [年度报告为啥不显示「熬穿了」](https://www.zhihu.com/search?q=%E5%B9%B4%E5%BA%A6%E6%8A%A5%E5%91%8A%E4%B8%BA%E5%95%A5%E4%B8%8D%E6%98%BE%E7%A4%BA%E3%80%8C%E7%86%AC%E7%A9%BF%E4%BA%86%E3%80%8D)
 1. [小米联合创始人林斌宣布将减持小米股票](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%E8%81%94%E5%90%88%E5%88%9B%E5%A7%8B%E4%BA%BA%E6%9E%97%E6%96%8C%E5%AE%A3%E5%B8%83%E5%B0%86%E5%87%8F%E6%8C%81%E5%B0%8F%E7%B1%B3%E8%82%A1%E7%A5%A8)
 1. [伊朗货币里亚尔暴跌](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E8%B4%A7%E5%B8%81%E9%87%8C%E4%BA%9A%E5%B0%94%E6%9A%B4%E8%B7%8C)
