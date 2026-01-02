@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jan 02 2026 20:47:51 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jan 02 2026 21:34:05 GMT+0800 (China Standard Time) -->
 
 1. [2026新年贺词](https://www.zhihu.com/search?q=2026%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D)
 1. [2026 年国补政策来了](https://www.zhihu.com/search?q=2026%20%E5%B9%B4%E5%9B%BD%E8%A1%A5%E6%94%BF%E7%AD%96%E6%9D%A5%E4%BA%86)
@@ -26,8 +26,9 @@
 1. [《再见爱人 5》第十二期](https://www.zhihu.com/search?q=%E3%80%8A%E5%86%8D%E8%A7%81%E7%88%B1%E4%BA%BA%205%E3%80%8B%E7%AC%AC%E5%8D%81%E4%BA%8C%E6%9C%9F)
 1. [DeepSeek 发布开年新论文](https://www.zhihu.com/search?q=DeepSeek%20%E5%8F%91%E5%B8%83%E5%BC%80%E5%B9%B4%E6%96%B0%E8%AE%BA%E6%96%87)
 1. [马斯克：将大规模生产脑机接口设备](https://www.zhihu.com/search?q=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E5%B0%86%E5%A4%A7%E8%A7%84%E6%A8%A1%E7%94%9F%E4%BA%A7%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3%E8%AE%BE%E5%A4%87)
-1. [商务部对进口牛肉实施保障措施](https://www.zhihu.com/search?q=%E5%95%86%E5%8A%A1%E9%83%A8%E5%AF%B9%E8%BF%9B%E5%8F%A3%E7%89%9B%E8%82%89%E5%AE%9E%E6%96%BD%E4%BF%9D%E9%9A%9C%E6%8E%AA%E6%96%BD)
+1. [海航空姐统一戴长发簪引安全讨论](https://www.zhihu.com/search?q=%E6%B5%B7%E8%88%AA%E7%A9%BA%E5%A7%90%E7%BB%9F%E4%B8%80%E6%88%B4%E9%95%BF%E5%8F%91%E7%B0%AA%E5%BC%95%E5%AE%89%E5%85%A8%E8%AE%A8%E8%AE%BA)
 1. [东北网友发现「小鼻嘎」老鼠](https://www.zhihu.com/search?q=%E4%B8%9C%E5%8C%97%E7%BD%91%E5%8F%8B%E5%8F%91%E7%8E%B0%E3%80%8C%E5%B0%8F%E9%BC%BB%E5%98%8E%E3%80%8D%E8%80%81%E9%BC%A0)
+1. [商务部对进口牛肉实施保障措施](https://www.zhihu.com/search?q=%E5%95%86%E5%8A%A1%E9%83%A8%E5%AF%B9%E8%BF%9B%E5%8F%A3%E7%89%9B%E8%82%89%E5%AE%9E%E6%96%BD%E4%BF%9D%E9%9A%9C%E6%8E%AA%E6%96%BD)
 1. [央视跨年晚会](https://www.zhihu.com/search?q=%E5%A4%AE%E8%A7%86%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A)
 1. [王心凌跨晚搭档竟是机器人](https://www.zhihu.com/search?q=%E7%8E%8B%E5%BF%83%E5%87%8C%E8%B7%A8%E6%99%9A%E6%90%AD%E6%A1%A3%E7%AB%9F%E6%98%AF%E6%9C%BA%E5%99%A8%E4%BA%BA)
 1. [土耳其宣布对中国公民免签](https://www.zhihu.com/search?q=%E5%9C%9F%E8%80%B3%E5%85%B6%E5%AE%A3%E5%B8%83%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%85%8D%E7%AD%BE)
