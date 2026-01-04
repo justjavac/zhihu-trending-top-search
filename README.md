@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jan 05 2026 00:28:04 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jan 05 2026 01:19:36 GMT+0800 (China Standard Time) -->
 
 1. [樊振东晋级德国杯决赛](https://www.zhihu.com/search?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E6%99%8B%E7%BA%A7%E5%BE%B7%E5%9B%BD%E6%9D%AF%E5%86%B3%E8%B5%9B)
 1. [住房公积金会越来越「香」吗](https://www.zhihu.com/search?q=%E4%BD%8F%E6%88%BF%E5%85%AC%E7%A7%AF%E9%87%91%E4%BC%9A%E8%B6%8A%E6%9D%A5%E8%B6%8A%E3%80%8C%E9%A6%99%E3%80%8D%E5%90%97)
@@ -27,6 +27,7 @@
 1. [雷军直播拆车小米 YU7](https://www.zhihu.com/search?q=%E9%9B%B7%E5%86%9B%E7%9B%B4%E6%92%AD%E6%8B%86%E8%BD%A6%E5%B0%8F%E7%B1%B3%20YU7)
 1. [适龄男性公民都应进行兵役登记](https://www.zhihu.com/search?q=%E9%80%82%E9%BE%84%E7%94%B7%E6%80%A7%E5%85%AC%E6%B0%91%E9%83%BD%E5%BA%94%E8%BF%9B%E8%A1%8C%E5%85%B5%E5%BD%B9%E7%99%BB%E8%AE%B0)
 1. [委内瑞拉发生了什么](https://www.zhihu.com/search?q=%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88)
+1. [美国活捉马杜罗细节](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E6%B4%BB%E6%8D%89%E9%A9%AC%E6%9D%9C%E7%BD%97%E7%BB%86%E8%8A%82)
 1. [特朗普称将占领管理委内瑞拉](https://www.zhihu.com/search?q=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E5%8D%A0%E9%A2%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89)
 
 <!-- END -->
