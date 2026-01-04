@@ -14,12 +14,12 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jan 05 2026 01:19:36 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jan 05 2026 02:32:33 GMT+0800 (China Standard Time) -->
 
 1. [樊振东晋级德国杯决赛](https://www.zhihu.com/search?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E6%99%8B%E7%BA%A7%E5%BE%B7%E5%9B%BD%E6%9D%AF%E5%86%B3%E8%B5%9B)
 1. [住房公积金会越来越「香」吗](https://www.zhihu.com/search?q=%E4%BD%8F%E6%88%BF%E5%85%AC%E7%A7%AF%E9%87%91%E4%BC%9A%E8%B6%8A%E6%9D%A5%E8%B6%8A%E3%80%8C%E9%A6%99%E3%80%8D%E5%90%97)
-1. [多地网友晒贷款逾期记录清零截图](https://www.zhihu.com/search?q=%E5%A4%9A%E5%9C%B0%E7%BD%91%E5%8F%8B%E6%99%92%E8%B4%B7%E6%AC%BE%E9%80%BE%E6%9C%9F%E8%AE%B0%E5%BD%95%E6%B8%85%E9%9B%B6%E6%88%AA%E5%9B%BE)
 1. [特朗普下令空袭委内瑞拉](https://www.zhihu.com/search?q=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E7%A9%BA%E8%A2%AD%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89)
+1. [多地网友晒贷款逾期记录清零截图](https://www.zhihu.com/search?q=%E5%A4%9A%E5%9C%B0%E7%BD%91%E5%8F%8B%E6%99%92%E8%B4%B7%E6%AC%BE%E9%80%BE%E6%9C%9F%E8%AE%B0%E5%BD%95%E6%B8%85%E9%9B%B6%E6%88%AA%E5%9B%BE)
 1. [「最快女护士」张水华宣布辞职](https://www.zhihu.com/search?q=%E3%80%8C%E6%9C%80%E5%BF%AB%E5%A5%B3%E6%8A%A4%E5%A3%AB%E3%80%8D%E5%BC%A0%E6%B0%B4%E5%8D%8E%E5%AE%A3%E5%B8%83%E8%BE%9E%E8%81%8C)
 1. [美军强掳马杜罗](https://www.zhihu.com/search?q=%E7%BE%8E%E5%86%9B%E5%BC%BA%E6%8E%B3%E9%A9%AC%E6%9D%9C%E7%BD%97)
 1. [伊朗2025年年末大规模骚乱](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%972025%E5%B9%B4%E5%B9%B4%E6%9C%AB%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%AA%9A%E4%B9%B1)
