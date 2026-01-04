@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jan 04 2026 18:23:02 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jan 04 2026 19:18:49 GMT+0800 (China Standard Time) -->
 
 1. [多地网友晒贷款逾期记录清零截图](https://www.zhihu.com/search?q=%E5%A4%9A%E5%9C%B0%E7%BD%91%E5%8F%8B%E6%99%92%E8%B4%B7%E6%AC%BE%E9%80%BE%E6%9C%9F%E8%AE%B0%E5%BD%95%E6%B8%85%E9%9B%B6%E6%88%AA%E5%9B%BE)
 1. [「最快女护士」张水华宣布辞职](https://www.zhihu.com/search?q=%E3%80%8C%E6%9C%80%E5%BF%AB%E5%A5%B3%E6%8A%A4%E5%A3%AB%E3%80%8D%E5%BC%A0%E6%B0%B4%E5%8D%8E%E5%AE%A3%E5%B8%83%E8%BE%9E%E8%81%8C)
