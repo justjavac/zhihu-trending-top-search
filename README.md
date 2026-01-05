@@ -14,25 +14,26 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jan 05 2026 14:42:20 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jan 05 2026 15:30:45 GMT+0800 (China Standard Time) -->
 
 1. [美军强掳马杜罗](https://www.zhihu.com/search?q=%E7%BE%8E%E5%86%9B%E5%BC%BA%E6%8E%B3%E9%A9%AC%E6%9D%9C%E7%BD%97)
-1. [多地网友晒贷款逾期记录清零截图](https://www.zhihu.com/search?q=%E5%A4%9A%E5%9C%B0%E7%BD%91%E5%8F%8B%E6%99%92%E8%B4%B7%E6%AC%BE%E9%80%BE%E6%9C%9F%E8%AE%B0%E5%BD%95%E6%B8%85%E9%9B%B6%E6%88%AA%E5%9B%BE)
 1. [特朗普下令空袭委内瑞拉](https://www.zhihu.com/search?q=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E7%A9%BA%E8%A2%AD%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89)
-1. [智界 R7 展车保险杠内现零食](https://www.zhihu.com/search?q=%E6%99%BA%E7%95%8C%20R7%20%E5%B1%95%E8%BD%A6%E4%BF%9D%E9%99%A9%E6%9D%A0%E5%86%85%E7%8E%B0%E9%9B%B6%E9%A3%9F)
 1. [「最快女护士」张水华宣布辞职](https://www.zhihu.com/search?q=%E3%80%8C%E6%9C%80%E5%BF%AB%E5%A5%B3%E6%8A%A4%E5%A3%AB%E3%80%8D%E5%BC%A0%E6%B0%B4%E5%8D%8E%E5%AE%A3%E5%B8%83%E8%BE%9E%E8%81%8C)
 1. [适龄男性公民都应进行兵役登记](https://www.zhihu.com/search?q=%E9%80%82%E9%BE%84%E7%94%B7%E6%80%A7%E5%85%AC%E6%B0%91%E9%83%BD%E5%BA%94%E8%BF%9B%E8%A1%8C%E5%85%B5%E5%BD%B9%E7%99%BB%E8%AE%B0)
-1. [伊朗2025年年末大规模骚乱](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%972025%E5%B9%B4%E5%B9%B4%E6%9C%AB%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%AA%9A%E4%B9%B1)
 1. [「资源型科研」造成了哪些问题](https://www.zhihu.com/search?q=%E3%80%8C%E8%B5%84%E6%BA%90%E5%9E%8B%E7%A7%91%E7%A0%94%E3%80%8D%E9%80%A0%E6%88%90%E4%BA%86%E5%93%AA%E4%BA%9B%E9%97%AE%E9%A2%98)
+1. [伊朗2025年年末大规模骚乱](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%972025%E5%B9%B4%E5%B9%B4%E6%9C%AB%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%AA%9A%E4%B9%B1)
 1. [雷军直播拆车小米 YU7](https://www.zhihu.com/search?q=%E9%9B%B7%E5%86%9B%E7%9B%B4%E6%92%AD%E6%8B%86%E8%BD%A6%E5%B0%8F%E7%B1%B3%20YU7)
 1. [住房公积金会越来越「香」吗](https://www.zhihu.com/search?q=%E4%BD%8F%E6%88%BF%E5%85%AC%E7%A7%AF%E9%87%91%E4%BC%9A%E8%B6%8A%E6%9D%A5%E8%B6%8A%E3%80%8C%E9%A6%99%E3%80%8D%E5%90%97)
+1. [农村不允许烧煤如何取暖](https://www.zhihu.com/search?q=%E5%86%9C%E6%9D%91%E4%B8%8D%E5%85%81%E8%AE%B8%E7%83%A7%E7%85%A4%E5%A6%82%E4%BD%95%E5%8F%96%E6%9A%96)
+1. [特朗普称抓获委内瑞拉总统及其夫人](https://www.zhihu.com/search?q=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%8A%93%E8%8E%B7%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E6%80%BB%E7%BB%9F%E5%8F%8A%E5%85%B6%E5%A4%AB%E4%BA%BA)
 1. [委内瑞拉发生了什么](https://www.zhihu.com/search?q=%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88)
 1. [知乎 AI 日历](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%20AI%20%E6%97%A5%E5%8E%86)
+1. [多地网友晒贷款逾期记录清零截图](https://www.zhihu.com/search?q=%E5%A4%9A%E5%9C%B0%E7%BD%91%E5%8F%8B%E6%99%92%E8%B4%B7%E6%AC%BE%E9%80%BE%E6%9C%9F%E8%AE%B0%E5%BD%95%E6%B8%85%E9%9B%B6%E6%88%AA%E5%9B%BE)
+1. [智界 R7 展车保险杠内现零食](https://www.zhihu.com/search?q=%E6%99%BA%E7%95%8C%20R7%20%E5%B1%95%E8%BD%A6%E4%BF%9D%E9%99%A9%E6%9D%A0%E5%86%85%E7%8E%B0%E9%9B%B6%E9%A3%9F)
 1. [库里会在什么情况下终身无冠](https://www.zhihu.com/search?q=%E5%BA%93%E9%87%8C%E4%BC%9A%E5%9C%A8%E4%BB%80%E4%B9%88%E6%83%85%E5%86%B5%E4%B8%8B%E7%BB%88%E8%BA%AB%E6%97%A0%E5%86%A0)
 1. [小米直播拆车回应争议能扭转舆论吗](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%E7%9B%B4%E6%92%AD%E6%8B%86%E8%BD%A6%E5%9B%9E%E5%BA%94%E4%BA%89%E8%AE%AE%E8%83%BD%E6%89%AD%E8%BD%AC%E8%88%86%E8%AE%BA%E5%90%97)
 1. [哪些演员演什么像什么](https://www.zhihu.com/search?q=%E5%93%AA%E4%BA%9B%E6%BC%94%E5%91%98%E6%BC%94%E4%BB%80%E4%B9%88%E5%83%8F%E4%BB%80%E4%B9%88)
 1. [为什么有很多人连基本的常识都没有](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E5%BE%88%E5%A4%9A%E4%BA%BA%E8%BF%9E%E5%9F%BA%E6%9C%AC%E7%9A%84%E5%B8%B8%E8%AF%86%E9%83%BD%E6%B2%A1%E6%9C%89)
-1. [特朗普称抓获委内瑞拉总统及其夫人](https://www.zhihu.com/search?q=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%8A%93%E8%8E%B7%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E6%80%BB%E7%BB%9F%E5%8F%8A%E5%85%B6%E5%A4%AB%E4%BA%BA)
 1. [美国活捉马杜罗细节](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E6%B4%BB%E6%8D%89%E9%A9%AC%E6%9D%9C%E7%BD%97%E7%BB%86%E8%8A%82)
 1. [樊振东晋级德国杯决赛](https://www.zhihu.com/search?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E6%99%8B%E7%BA%A7%E5%BE%B7%E5%9B%BD%E6%9D%AF%E5%86%B3%E8%B5%9B)
 1. [官方通报护士带男友进配药室](https://www.zhihu.com/search?q=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E6%8A%A4%E5%A3%AB%E5%B8%A6%E7%94%B7%E5%8F%8B%E8%BF%9B%E9%85%8D%E8%8D%AF%E5%AE%A4)
