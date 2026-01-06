@@ -14,20 +14,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jan 06 2026 21:39:15 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jan 06 2026 22:25:51 GMT+0800 (China Standard Time) -->
 
 1. [商务部加强对日两用物项出口管制](https://www.zhihu.com/search?q=%E5%95%86%E5%8A%A1%E9%83%A8%E5%8A%A0%E5%BC%BA%E5%AF%B9%E6%97%A5%E4%B8%A4%E7%94%A8%E7%89%A9%E9%A1%B9%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6)
 1. [适龄男性公民都应进行兵役登记](https://www.zhihu.com/search?q=%E9%80%82%E9%BE%84%E7%94%B7%E6%80%A7%E5%85%AC%E6%B0%91%E9%83%BD%E5%BA%94%E8%BF%9B%E8%A1%8C%E5%85%B5%E5%BD%B9%E7%99%BB%E8%AE%B0)
 1. [美军强掳马杜罗](https://www.zhihu.com/search?q=%E7%BE%8E%E5%86%9B%E5%BC%BA%E6%8E%B3%E9%A9%AC%E6%9D%9C%E7%BD%97)
 1. [霸王茶姬店员「手打」饮品](https://www.zhihu.com/search?q=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E5%BA%97%E5%91%98%E3%80%8C%E6%89%8B%E6%89%93%E3%80%8D%E9%A5%AE%E5%93%81)
-1. [小米公关部徐洁云发文致歉](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%E5%85%AC%E5%85%B3%E9%83%A8%E5%BE%90%E6%B4%81%E4%BA%91%E5%8F%91%E6%96%87%E8%87%B4%E6%AD%89)
-1. [2025年十大语文差错公布](https://www.zhihu.com/search?q=2025%E5%B9%B4%E5%8D%81%E5%A4%A7%E8%AF%AD%E6%96%87%E5%B7%AE%E9%94%99%E5%85%AC%E5%B8%83)
 1. [武大靖官宣退役](https://www.zhihu.com/search?q=%E6%AD%A6%E5%A4%A7%E9%9D%96%E5%AE%98%E5%AE%A3%E9%80%80%E5%BD%B9)
+1. [2025年十大语文差错公布](https://www.zhihu.com/search?q=2025%E5%B9%B4%E5%8D%81%E5%A4%A7%E8%AF%AD%E6%96%87%E5%B7%AE%E9%94%99%E5%85%AC%E5%B8%83)
+1. [小米公关部徐洁云发文致歉](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%E5%85%AC%E5%85%B3%E9%83%A8%E5%BE%90%E6%B4%81%E4%BA%91%E5%8F%91%E6%96%87%E8%87%B4%E6%AD%89)
 1. [特朗普下令空袭委内瑞拉](https://www.zhihu.com/search?q=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E7%A9%BA%E8%A2%AD%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89)
-1. [哪些演员演什么像什么](https://www.zhihu.com/search?q=%E5%93%AA%E4%BA%9B%E6%BC%94%E5%91%98%E6%BC%94%E4%BB%80%E4%B9%88%E5%83%8F%E4%BB%80%E4%B9%88)
+1. [零下 40℃ 住蒙古包里为啥不觉得冷](https://www.zhihu.com/search?q=%E9%9B%B6%E4%B8%8B%2040%E2%84%83%20%E4%BD%8F%E8%92%99%E5%8F%A4%E5%8C%85%E9%87%8C%E4%B8%BA%E5%95%A5%E4%B8%8D%E8%A7%89%E5%BE%97%E5%86%B7)
 1. [委内瑞拉发生了什么](https://www.zhihu.com/search?q=%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88)
 1. [24H 新年电台慢闪](https://www.zhihu.com/search?q=24H%20%E6%96%B0%E5%B9%B4%E7%94%B5%E5%8F%B0%E6%85%A2%E9%97%AA)
 1. [三体预言美国入侵委内瑞拉](https://www.zhihu.com/search?q=%E4%B8%89%E4%BD%93%E9%A2%84%E8%A8%80%E7%BE%8E%E5%9B%BD%E5%85%A5%E4%BE%B5%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89)
+1. [哪些演员演什么像什么](https://www.zhihu.com/search?q=%E5%93%AA%E4%BA%9B%E6%BC%94%E5%91%98%E6%BC%94%E4%BB%80%E4%B9%88%E5%83%8F%E4%BB%80%E4%B9%88)
 1. [为什么有很多人连基本的常识都没有](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E5%BE%88%E5%A4%9A%E4%BA%BA%E8%BF%9E%E5%9F%BA%E6%9C%AC%E7%9A%84%E5%B8%B8%E8%AF%86%E9%83%BD%E6%B2%A1%E6%9C%89)
 1. [中韩元首举行会谈](https://www.zhihu.com/search?q=%E4%B8%AD%E9%9F%A9%E5%85%83%E9%A6%96%E4%B8%BE%E8%A1%8C%E4%BC%9A%E8%B0%88)
 1. [青山刚昌确认《名侦探柯南》会继续做剧场版](https://www.zhihu.com/search?q=%E9%9D%92%E5%B1%B1%E5%88%9A%E6%98%8C%E7%A1%AE%E8%AE%A4%E3%80%8A%E5%90%8D%E4%BE%A6%E6%8E%A2%E6%9F%AF%E5%8D%97%E3%80%8B%E4%BC%9A%E7%BB%A7%E7%BB%AD%E5%81%9A%E5%89%A7%E5%9C%BA%E7%89%88)
@@ -42,7 +43,6 @@
 1. [「资源型科研」造成了哪些问题](https://www.zhihu.com/search?q=%E3%80%8C%E8%B5%84%E6%BA%90%E5%9E%8B%E7%A7%91%E7%A0%94%E3%80%8D%E9%80%A0%E6%88%90%E4%BA%86%E5%93%AA%E4%BA%9B%E9%97%AE%E9%A2%98)
 1. [网友称苹果手机电池健康度用到 0%](https://www.zhihu.com/search?q=%E7%BD%91%E5%8F%8B%E7%A7%B0%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E7%94%B5%E6%B1%A0%E5%81%A5%E5%BA%B7%E5%BA%A6%E7%94%A8%E5%88%B0%200%25)
 1. [日本岛根县东部地区发生 6.2 级地震](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E5%B2%9B%E6%A0%B9%E5%8E%BF%E4%B8%9C%E9%83%A8%E5%9C%B0%E5%8C%BA%E5%8F%91%E7%94%9F%206.2%20%E7%BA%A7%E5%9C%B0%E9%9C%87)
-1. [零下 40℃ 住蒙古包里为啥不觉得冷](https://www.zhihu.com/search?q=%E9%9B%B6%E4%B8%8B%2040%E2%84%83%20%E4%BD%8F%E8%92%99%E5%8F%A4%E5%8C%85%E9%87%8C%E4%B8%BA%E5%95%A5%E4%B8%8D%E8%A7%89%E5%BE%97%E5%86%B7)
 1. [王石与田朴珺再传婚变](https://www.zhihu.com/search?q=%E7%8E%8B%E7%9F%B3%E4%B8%8E%E7%94%B0%E6%9C%B4%E7%8F%BA%E5%86%8D%E4%BC%A0%E5%A9%9A%E5%8F%98)
 1. [智界 R7 展车保险杠内现零食](https://www.zhihu.com/search?q=%E6%99%BA%E7%95%8C%20R7%20%E5%B1%95%E8%BD%A6%E4%BF%9D%E9%99%A9%E6%9D%A0%E5%86%85%E7%8E%B0%E9%9B%B6%E9%A3%9F)
 1. [小米向自媒体万能的大熊投流](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%E5%90%91%E8%87%AA%E5%AA%92%E4%BD%93%E4%B8%87%E8%83%BD%E7%9A%84%E5%A4%A7%E7%86%8A%E6%8A%95%E6%B5%81)
