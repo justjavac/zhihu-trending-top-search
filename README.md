@@ -14,21 +14,24 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jan 06 2026 15:28:11 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jan 06 2026 16:35:28 GMT+0800 (China Standard Time) -->
 
 1. [美军强掳马杜罗](https://www.zhihu.com/search?q=%E7%BE%8E%E5%86%9B%E5%BC%BA%E6%8E%B3%E9%A9%AC%E6%9D%9C%E7%BD%97)
 1. [适龄男性公民都应进行兵役登记](https://www.zhihu.com/search?q=%E9%80%82%E9%BE%84%E7%94%B7%E6%80%A7%E5%85%AC%E6%B0%91%E9%83%BD%E5%BA%94%E8%BF%9B%E8%A1%8C%E5%85%B5%E5%BD%B9%E7%99%BB%E8%AE%B0)
-1. [新生儿剪脐带时被剪断手指](https://www.zhihu.com/search?q=%E6%96%B0%E7%94%9F%E5%84%BF%E5%89%AA%E8%84%90%E5%B8%A6%E6%97%B6%E8%A2%AB%E5%89%AA%E6%96%AD%E6%89%8B%E6%8C%87)
 1. [特朗普下令空袭委内瑞拉](https://www.zhihu.com/search?q=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E7%A9%BA%E8%A2%AD%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89)
+1. [「资源型科研」造成了哪些问题](https://www.zhihu.com/search?q=%E3%80%8C%E8%B5%84%E6%BA%90%E5%9E%8B%E7%A7%91%E7%A0%94%E3%80%8D%E9%80%A0%E6%88%90%E4%BA%86%E5%93%AA%E4%BA%9B%E9%97%AE%E9%A2%98)
 1. [小米公关部徐洁云发文致歉](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%E5%85%AC%E5%85%B3%E9%83%A8%E5%BE%90%E6%B4%81%E4%BA%91%E5%8F%91%E6%96%87%E8%87%B4%E6%AD%89)
+1. [委内瑞拉发生了什么](https://www.zhihu.com/search?q=%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88)
+1. [三体预言美国入侵委内瑞拉](https://www.zhihu.com/search?q=%E4%B8%89%E4%BD%93%E9%A2%84%E8%A8%80%E7%BE%8E%E5%9B%BD%E5%85%A5%E4%BE%B5%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89)
+1. [中韩元首举行会谈](https://www.zhihu.com/search?q=%E4%B8%AD%E9%9F%A9%E5%85%83%E9%A6%96%E4%B8%BE%E8%A1%8C%E4%BC%9A%E8%B0%88)
+1. [网友称苹果手机电池健康度用到 0%](https://www.zhihu.com/search?q=%E7%BD%91%E5%8F%8B%E7%A7%B0%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E7%94%B5%E6%B1%A0%E5%81%A5%E5%BA%B7%E5%BA%A6%E7%94%A8%E5%88%B0%200%25)
+1. [新生儿剪脐带时被剪断手指](https://www.zhihu.com/search?q=%E6%96%B0%E7%94%9F%E5%84%BF%E5%89%AA%E8%84%90%E5%B8%A6%E6%97%B6%E8%A2%AB%E5%89%AA%E6%96%AD%E6%89%8B%E6%8C%87)
+1. [24H 新年电台慢闪](https://www.zhihu.com/search?q=24H%20%E6%96%B0%E5%B9%B4%E7%94%B5%E5%8F%B0%E6%85%A2%E9%97%AA)
+1. [小洛熙爸爸回应病历真假认定](https://www.zhihu.com/search?q=%E5%B0%8F%E6%B4%9B%E7%86%99%E7%88%B8%E7%88%B8%E5%9B%9E%E5%BA%94%E7%97%85%E5%8E%86%E7%9C%9F%E5%81%87%E8%AE%A4%E5%AE%9A)
 1. [日本岛根县东部地区发生 6.2 级地震](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E5%B2%9B%E6%A0%B9%E5%8E%BF%E4%B8%9C%E9%83%A8%E5%9C%B0%E5%8C%BA%E5%8F%91%E7%94%9F%206.2%20%E7%BA%A7%E5%9C%B0%E9%9C%87)
 1. [零下 40℃ 住蒙古包里为啥不觉得冷](https://www.zhihu.com/search?q=%E9%9B%B6%E4%B8%8B%2040%E2%84%83%20%E4%BD%8F%E8%92%99%E5%8F%A4%E5%8C%85%E9%87%8C%E4%B8%BA%E5%95%A5%E4%B8%8D%E8%A7%89%E5%BE%97%E5%86%B7)
-1. [委内瑞拉发生了什么](https://www.zhihu.com/search?q=%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88)
 1. [王石与田朴珺再传婚变](https://www.zhihu.com/search?q=%E7%8E%8B%E7%9F%B3%E4%B8%8E%E7%94%B0%E6%9C%B4%E7%8F%BA%E5%86%8D%E4%BC%A0%E5%A9%9A%E5%8F%98)
-1. [三体预言美国入侵委内瑞拉](https://www.zhihu.com/search?q=%E4%B8%89%E4%BD%93%E9%A2%84%E8%A8%80%E7%BE%8E%E5%9B%BD%E5%85%A5%E4%BE%B5%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89)
-1. [24H 新年电台慢闪](https://www.zhihu.com/search?q=24H%20%E6%96%B0%E5%B9%B4%E7%94%B5%E5%8F%B0%E6%85%A2%E9%97%AA)
 1. [智界 R7 展车保险杠内现零食](https://www.zhihu.com/search?q=%E6%99%BA%E7%95%8C%20R7%20%E5%B1%95%E8%BD%A6%E4%BF%9D%E9%99%A9%E6%9D%A0%E5%86%85%E7%8E%B0%E9%9B%B6%E9%A3%9F)
-1. [中韩元首举行会谈](https://www.zhihu.com/search?q=%E4%B8%AD%E9%9F%A9%E5%85%83%E9%A6%96%E4%B8%BE%E8%A1%8C%E4%BC%9A%E8%B0%88)
 1. [小米向自媒体万能的大熊投流](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%E5%90%91%E8%87%AA%E5%AA%92%E4%BD%93%E4%B8%87%E8%83%BD%E7%9A%84%E5%A4%A7%E7%86%8A%E6%8A%95%E6%B5%81)
 1. [从技术上如何分析元宝辱骂用户](https://www.zhihu.com/search?q=%E4%BB%8E%E6%8A%80%E6%9C%AF%E4%B8%8A%E5%A6%82%E4%BD%95%E5%88%86%E6%9E%90%E5%85%83%E5%AE%9D%E8%BE%B1%E9%AA%82%E7%94%A8%E6%88%B7)
 1. [伊朗2025年年末大规模骚乱](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%972025%E5%B9%B4%E5%B9%B4%E6%9C%AB%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%AA%9A%E4%B9%B1)
@@ -37,7 +40,6 @@
 1. [有哪些瞬间你秒懂了别人的暗示](https://www.zhihu.com/search?q=%E6%9C%89%E5%93%AA%E4%BA%9B%E7%9E%AC%E9%97%B4%E4%BD%A0%E7%A7%92%E6%87%82%E4%BA%86%E5%88%AB%E4%BA%BA%E7%9A%84%E6%9A%97%E7%A4%BA)
 1. [住房公积金会越来越「香」吗](https://www.zhihu.com/search?q=%E4%BD%8F%E6%88%BF%E5%85%AC%E7%A7%AF%E9%87%91%E4%BC%9A%E8%B6%8A%E6%9D%A5%E8%B6%8A%E3%80%8C%E9%A6%99%E3%80%8D%E5%90%97)
 1. [委内瑞拉防空力量为何形同虚设](https://www.zhihu.com/search?q=%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E9%98%B2%E7%A9%BA%E5%8A%9B%E9%87%8F%E4%B8%BA%E4%BD%95%E5%BD%A2%E5%90%8C%E8%99%9A%E8%AE%BE)
-1. [小洛熙爸爸回应病历真假认定](https://www.zhihu.com/search?q=%E5%B0%8F%E6%B4%9B%E7%86%99%E7%88%B8%E7%88%B8%E5%9B%9E%E5%BA%94%E7%97%85%E5%8E%86%E7%9C%9F%E5%81%87%E8%AE%A4%E5%AE%9A)
 1. [雷军直播拆车小米 YU7](https://www.zhihu.com/search?q=%E9%9B%B7%E5%86%9B%E7%9B%B4%E6%92%AD%E6%8B%86%E8%BD%A6%E5%B0%8F%E7%B1%B3%20YU7)
 
 <!-- END -->
