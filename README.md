@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jan 07 2026 04:27:28 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jan 07 2026 05:23:37 GMT+0800 (China Standard Time) -->
 
 1. [商务部加强对日两用物项出口管制](https://www.zhihu.com/search?q=%E5%95%86%E5%8A%A1%E9%83%A8%E5%8A%A0%E5%BC%BA%E5%AF%B9%E6%97%A5%E4%B8%A4%E7%94%A8%E7%89%A9%E9%A1%B9%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6)
 1. [特朗普下令空袭委内瑞拉](https://www.zhihu.com/search?q=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E7%A9%BA%E8%A2%AD%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89)
@@ -22,12 +22,14 @@
 1. [霸王茶姬店员「手打」饮品](https://www.zhihu.com/search?q=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E5%BA%97%E5%91%98%E3%80%8C%E6%89%8B%E6%89%93%E3%80%8D%E9%A5%AE%E5%93%81)
 1. [武大靖官宣退役](https://www.zhihu.com/search?q=%E6%AD%A6%E5%A4%A7%E9%9D%96%E5%AE%98%E5%AE%A3%E9%80%80%E5%BD%B9)
 1. [2025年十大语文差错公布](https://www.zhihu.com/search?q=2025%E5%B9%B4%E5%8D%81%E5%A4%A7%E8%AF%AD%E6%96%87%E5%B7%AE%E9%94%99%E5%85%AC%E5%B8%83)
-1. [小米公关部徐洁云发文致歉](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%E5%85%AC%E5%85%B3%E9%83%A8%E5%BE%90%E6%B4%81%E4%BA%91%E5%8F%91%E6%96%87%E8%87%B4%E6%AD%89)
 1. [委内瑞拉发生了什么](https://www.zhihu.com/search?q=%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88)
-1. [雄霸为什么一定要杀掉风云](https://www.zhihu.com/search?q=%E9%9B%84%E9%9C%B8%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%80%E5%AE%9A%E8%A6%81%E6%9D%80%E6%8E%89%E9%A3%8E%E4%BA%91)
+1. [为什么《寻秦记》在内地表现平平](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E3%80%8A%E5%AF%BB%E7%A7%A6%E8%AE%B0%E3%80%8B%E5%9C%A8%E5%86%85%E5%9C%B0%E8%A1%A8%E7%8E%B0%E5%B9%B3%E5%B9%B3)
 1. [三体预言美国入侵委内瑞拉](https://www.zhihu.com/search?q=%E4%B8%89%E4%BD%93%E9%A2%84%E8%A8%80%E7%BE%8E%E5%9B%BD%E5%85%A5%E4%BE%B5%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89)
-1. [新生儿剪脐带时被剪断手指](https://www.zhihu.com/search?q=%E6%96%B0%E7%94%9F%E5%84%BF%E5%89%AA%E8%84%90%E5%B8%A6%E6%97%B6%E8%A2%AB%E5%89%AA%E6%96%AD%E6%89%8B%E6%8C%87)
 1. [小洛熙爸爸回应病历真假认定](https://www.zhihu.com/search?q=%E5%B0%8F%E6%B4%9B%E7%86%99%E7%88%B8%E7%88%B8%E5%9B%9E%E5%BA%94%E7%97%85%E5%8E%86%E7%9C%9F%E5%81%87%E8%AE%A4%E5%AE%9A)
+1. [新生儿剪脐带时被剪断手指](https://www.zhihu.com/search?q=%E6%96%B0%E7%94%9F%E5%84%BF%E5%89%AA%E8%84%90%E5%B8%A6%E6%97%B6%E8%A2%AB%E5%89%AA%E6%96%AD%E6%89%8B%E6%8C%87)
+1. [林俊杰恋爱后出歌的质量与速度会怎样](https://www.zhihu.com/search?q=%E6%9E%97%E4%BF%8A%E6%9D%B0%E6%81%8B%E7%88%B1%E5%90%8E%E5%87%BA%E6%AD%8C%E7%9A%84%E8%B4%A8%E9%87%8F%E4%B8%8E%E9%80%9F%E5%BA%A6%E4%BC%9A%E6%80%8E%E6%A0%B7)
+1. [小米公关部徐洁云发文致歉](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%E5%85%AC%E5%85%B3%E9%83%A8%E5%BE%90%E6%B4%81%E4%BA%91%E5%8F%91%E6%96%87%E8%87%B4%E6%AD%89)
+1. [雄霸为什么一定要杀掉风云](https://www.zhihu.com/search?q=%E9%9B%84%E9%9C%B8%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%80%E5%AE%9A%E8%A6%81%E6%9D%80%E6%8E%89%E9%A3%8E%E4%BA%91)
 1. [如何看待张杰在演唱会上与谢娜秀恩爱](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%BC%A0%E6%9D%B0%E5%9C%A8%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E4%B8%8E%E8%B0%A2%E5%A8%9C%E7%A7%80%E6%81%A9%E7%88%B1)
 1. [你最接受和理解不了的穿搭是哪种](https://www.zhihu.com/search?q=%E4%BD%A0%E6%9C%80%E6%8E%A5%E5%8F%97%E5%92%8C%E7%90%86%E8%A7%A3%E4%B8%8D%E4%BA%86%E7%9A%84%E7%A9%BF%E6%90%AD%E6%98%AF%E5%93%AA%E7%A7%8D)
 1. [农村不允许烧煤如何取暖](https://www.zhihu.com/search?q=%E5%86%9C%E6%9D%91%E4%B8%8D%E5%85%81%E8%AE%B8%E7%83%A7%E7%85%A4%E5%A6%82%E4%BD%95%E5%8F%96%E6%9A%96)
