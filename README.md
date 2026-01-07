@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jan 07 2026 11:42:28 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jan 07 2026 12:42:54 GMT+0800 (China Standard Time) -->
 
 1. [商务部加强对日两用物项出口管制](https://www.zhihu.com/search?q=%E5%95%86%E5%8A%A1%E9%83%A8%E5%8A%A0%E5%BC%BA%E5%AF%B9%E6%97%A5%E4%B8%A4%E7%94%A8%E7%89%A9%E9%A1%B9%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6)
 1. [美军强掳马杜罗](https://www.zhihu.com/search?q=%E7%BE%8E%E5%86%9B%E5%BC%BA%E6%8E%B3%E9%A9%AC%E6%9D%9C%E7%BD%97)
@@ -23,11 +23,12 @@
 1. [武大靖官宣退役](https://www.zhihu.com/search?q=%E6%AD%A6%E5%A4%A7%E9%9D%96%E5%AE%98%E5%AE%A3%E9%80%80%E5%BD%B9)
 1. [2025年十大语文差错公布](https://www.zhihu.com/search?q=2025%E5%B9%B4%E5%8D%81%E5%A4%A7%E8%AF%AD%E6%96%87%E5%B7%AE%E9%94%99%E5%85%AC%E5%B8%83)
 1. [委内瑞拉发生了什么](https://www.zhihu.com/search?q=%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88)
-1. [哪个角色小时候讨厌长大就理解了](https://www.zhihu.com/search?q=%E5%93%AA%E4%B8%AA%E8%A7%92%E8%89%B2%E5%B0%8F%E6%97%B6%E5%80%99%E8%AE%A8%E5%8E%8C%E9%95%BF%E5%A4%A7%E5%B0%B1%E7%90%86%E8%A7%A3%E4%BA%86)
+1. [如何看待大量水库改名为湖](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%A4%A7%E9%87%8F%E6%B0%B4%E5%BA%93%E6%94%B9%E5%90%8D%E4%B8%BA%E6%B9%96)
 1. [新生儿剪脐带时被剪断手指](https://www.zhihu.com/search?q=%E6%96%B0%E7%94%9F%E5%84%BF%E5%89%AA%E8%84%90%E5%B8%A6%E6%97%B6%E8%A2%AB%E5%89%AA%E6%96%AD%E6%89%8B%E6%8C%87)
 1. [小米公关部徐洁云发文致歉](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%E5%85%AC%E5%85%B3%E9%83%A8%E5%BE%90%E6%B4%81%E4%BA%91%E5%8F%91%E6%96%87%E8%87%B4%E6%AD%89)
 1. [河北农村煤改气后取暖成本飙升](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8C%97%E5%86%9C%E6%9D%91%E7%85%A4%E6%94%B9%E6%B0%94%E5%90%8E%E5%8F%96%E6%9A%96%E6%88%90%E6%9C%AC%E9%A3%99%E5%8D%87)
-1. [如何看待大量水库改名为湖](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%A4%A7%E9%87%8F%E6%B0%B4%E5%BA%93%E6%94%B9%E5%90%8D%E4%B8%BA%E6%B9%96)
+1. [巴菲特为什么清仓了比亚迪](https://www.zhihu.com/search?q=%E5%B7%B4%E8%8F%B2%E7%89%B9%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B8%85%E4%BB%93%E4%BA%86%E6%AF%94%E4%BA%9A%E8%BF%AA)
+1. [哪个角色小时候讨厌长大就理解了](https://www.zhihu.com/search?q=%E5%93%AA%E4%B8%AA%E8%A7%92%E8%89%B2%E5%B0%8F%E6%97%B6%E5%80%99%E8%AE%A8%E5%8E%8C%E9%95%BF%E5%A4%A7%E5%B0%B1%E7%90%86%E8%A7%A3%E4%BA%86)
 1. [特朗普下令空袭委内瑞拉](https://www.zhihu.com/search?q=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E7%A9%BA%E8%A2%AD%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89)
 1. [男子称 47 天的宝宝回答「我困了」](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%90%E7%A7%B0%2047%20%E5%A4%A9%E7%9A%84%E5%AE%9D%E5%AE%9D%E5%9B%9E%E7%AD%94%E3%80%8C%E6%88%91%E5%9B%B0%E4%BA%86%E3%80%8D)
 1. [小洛熙爸爸回应病历真假认定](https://www.zhihu.com/search?q=%E5%B0%8F%E6%B4%9B%E7%86%99%E7%88%B8%E7%88%B8%E5%9B%9E%E5%BA%94%E7%97%85%E5%8E%86%E7%9C%9F%E5%81%87%E8%AE%A4%E5%AE%9A)
