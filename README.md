@@ -14,20 +14,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jan 08 2026 14:38:14 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jan 08 2026 15:27:02 GMT+0800 (China Standard Time) -->
 
 1. [美国一口气退66个群](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E4%B8%80%E5%8F%A3%E6%B0%94%E9%80%8066%E4%B8%AA%E7%BE%A4)
 1. [商务部加强对日两用物项出口管制](https://www.zhihu.com/search?q=%E5%95%86%E5%8A%A1%E9%83%A8%E5%8A%A0%E5%BC%BA%E5%AF%B9%E6%97%A5%E4%B8%A4%E7%94%A8%E7%89%A9%E9%A1%B9%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6)
 1. [日本年轻人聚众晒梅毒](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%81%9A%E4%BC%97%E6%99%92%E6%A2%85%E6%AF%92)
 1. [长生种短命种理论](https://www.zhihu.com/search?q=%E9%95%BF%E7%94%9F%E7%A7%8D%E7%9F%AD%E5%91%BD%E7%A7%8D%E7%90%86%E8%AE%BA)
 1. [雷军回应KOL事件](https://www.zhihu.com/search?q=%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94KOL%E4%BA%8B%E4%BB%B6)
-1. [黑龙江景区「冰封鱼墙」是怎么产生的](https://www.zhihu.com/search?q=%E9%BB%91%E9%BE%99%E6%B1%9F%E6%99%AF%E5%8C%BA%E3%80%8C%E5%86%B0%E5%B0%81%E9%B1%BC%E5%A2%99%E3%80%8D%E6%98%AF%E6%80%8E%E4%B9%88%E4%BA%A7%E7%94%9F%E7%9A%84)
-1. [美军强掳马杜罗](https://www.zhihu.com/search?q=%E7%BE%8E%E5%86%9B%E5%BC%BA%E6%8E%B3%E9%A9%AC%E6%9D%9C%E7%BD%97)
+1. [为什么有很多人连基本的常识都没有](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E5%BE%88%E5%A4%9A%E4%BA%BA%E8%BF%9E%E5%9F%BA%E6%9C%AC%E7%9A%84%E5%B8%B8%E8%AF%86%E9%83%BD%E6%B2%A1%E6%9C%89)
 1. [日本梅毒感染扩散](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E6%A2%85%E6%AF%92%E6%84%9F%E6%9F%93%E6%89%A9%E6%95%A3)
-1. [特朗普下令空袭委内瑞拉](https://www.zhihu.com/search?q=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E7%A9%BA%E8%A2%AD%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89)
-1. [青山刚昌确认《名侦探柯南》会继续做剧场版](https://www.zhihu.com/search?q=%E9%9D%92%E5%B1%B1%E5%88%9A%E6%98%8C%E7%A1%AE%E8%AE%A4%E3%80%8A%E5%90%8D%E4%BE%A6%E6%8E%A2%E6%9F%AF%E5%8D%97%E3%80%8B%E4%BC%9A%E7%BB%A7%E7%BB%AD%E5%81%9A%E5%89%A7%E5%9C%BA%E7%89%88)
-1. [委内瑞拉发生了什么](https://www.zhihu.com/search?q=%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88)
+1. [美军强掳马杜罗](https://www.zhihu.com/search?q=%E7%BE%8E%E5%86%9B%E5%BC%BA%E6%8E%B3%E9%A9%AC%E6%9D%9C%E7%BD%97)
 1. [和府捞面回应「只有面是现煮的」](https://www.zhihu.com/search?q=%E5%92%8C%E5%BA%9C%E6%8D%9E%E9%9D%A2%E5%9B%9E%E5%BA%94%E3%80%8C%E5%8F%AA%E6%9C%89%E9%9D%A2%E6%98%AF%E7%8E%B0%E7%85%AE%E7%9A%84%E3%80%8D)
+1. [为什么《寻秦记》在内地表现平平](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E3%80%8A%E5%AF%BB%E7%A7%A6%E8%AE%B0%E3%80%8B%E5%9C%A8%E5%86%85%E5%9C%B0%E8%A1%A8%E7%8E%B0%E5%B9%B3%E5%B9%B3)
+1. [特朗普下令空袭委内瑞拉](https://www.zhihu.com/search?q=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E7%A9%BA%E8%A2%AD%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89)
+1. [委内瑞拉发生了什么](https://www.zhihu.com/search?q=%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88)
+1. [黑龙江景区「冰封鱼墙」是怎么产生的](https://www.zhihu.com/search?q=%E9%BB%91%E9%BE%99%E6%B1%9F%E6%99%AF%E5%8C%BA%E3%80%8C%E5%86%B0%E5%B0%81%E9%B1%BC%E5%A2%99%E3%80%8D%E6%98%AF%E6%80%8E%E4%B9%88%E4%BA%A7%E7%94%9F%E7%9A%84)
+1. [青山刚昌确认《名侦探柯南》会继续做剧场版](https://www.zhihu.com/search?q=%E9%9D%92%E5%B1%B1%E5%88%9A%E6%98%8C%E7%A1%AE%E8%AE%A4%E3%80%8A%E5%90%8D%E4%BE%A6%E6%8E%A2%E6%9F%AF%E5%8D%97%E3%80%8B%E4%BC%9A%E7%BB%A7%E7%BB%AD%E5%81%9A%E5%89%A7%E5%9C%BA%E7%89%88)
 1. [有哪些瞬间你秒懂了别人的暗示](https://www.zhihu.com/search?q=%E6%9C%89%E5%93%AA%E4%BA%9B%E7%9E%AC%E9%97%B4%E4%BD%A0%E7%A7%92%E6%87%82%E4%BA%86%E5%88%AB%E4%BA%BA%E7%9A%84%E6%9A%97%E7%A4%BA)
 1. [霸王茶姬店员「手打」饮品](https://www.zhihu.com/search?q=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E5%BA%97%E5%91%98%E3%80%8C%E6%89%8B%E6%89%93%E3%80%8D%E9%A5%AE%E5%93%81)
 1. [怎么在 40 岁成为副厅](https://www.zhihu.com/search?q=%E6%80%8E%E4%B9%88%E5%9C%A8%2040%20%E5%B2%81%E6%88%90%E4%B8%BA%E5%89%AF%E5%8E%85)
