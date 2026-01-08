@@ -1,13 +1,18 @@
 [
-  { "query_display": "美国一口气退66个群", "real_query": "美国一口气退66个群" },
-  { "query_display": "商务部加强对日两用物项出口管制", "real_query": "商务部加强对日两用物项出口管制" },
   { "query_display": "日本年轻人聚众晒梅毒", "real_query": "日本年轻人聚众晒梅毒" },
+  { "query_display": "商务部加强对日两用物项出口管制", "real_query": "商务部加强对日两用物项出口管制" },
   { "query_display": "长生种短命种理论", "real_query": "长生种短命种理论" },
+  { "query_display": "「资源型科研」造成了哪些问题", "real_query": "「资源型科研」造成了哪些问题" },
   { "query_display": "雷军回应KOL事件", "real_query": "雷军回应KOL事件" },
-  { "query_display": "为什么有很多人连基本的常识都没有", "real_query": "为什么有很多人连基本的常识都没有" },
   { "query_display": "日本梅毒感染扩散", "real_query": "日本梅毒感染扩散" },
+  { "query_display": "医生提醒秒睡可能是身体在报警", "real_query": "医生提醒秒睡可能是身体在报警" },
+  { "query_display": "女子以油养肤导致面部疯狂掉皮", "real_query": "女子以油养肤导致面部疯狂掉皮" },
+  { "query_display": "为何说职场最无声的悲剧是逼走最认真的人", "real_query": "为何说职场最无声的悲剧是逼走最认真的人" },
   { "query_display": "美军强掳马杜罗", "real_query": "美军强掳马杜罗" },
   { "query_display": "和府捞面回应「只有面是现煮的」", "real_query": "和府捞面回应「只有面是现煮的」" },
+  { "query_display": "学历越高的人其服从性是越高还是越低", "real_query": "学历越高的人其服从性是越高还是越低" },
+  { "query_display": "美国一口气退66个群", "real_query": "美国一口气退66个群" },
+  { "query_display": "为什么有很多人连基本的常识都没有", "real_query": "为什么有很多人连基本的常识都没有" },
   { "query_display": "为什么《寻秦记》在内地表现平平", "real_query": "为什么《寻秦记》在内地表现平平" },
   { "query_display": "特朗普下令空袭委内瑞拉", "real_query": "特朗普下令空袭委内瑞拉" },
   { "query_display": "委内瑞拉发生了什么", "real_query": "委内瑞拉发生了什么" },
@@ -34,8 +39,6 @@
   { "query_display": "住房公积金可能将拓宽使用范围", "real_query": "住房公积金可能将拓宽使用范围" },
   { "query_display": "鹅鸭杀手游正式公测", "real_query": "鹅鸭杀手游正式公测" },
   { "query_display": "雄霸为什么一定要杀掉风云", "real_query": "雄霸为什么一定要杀掉风云" },
-  { "query_display": "学历越高的人其服从性是越高还是越低", "real_query": "学历越高的人其服从性是越高还是越低" },
   { "query_display": "武大靖官宣退役", "real_query": "武大靖官宣退役" },
-  { "query_display": "三体预言美国入侵委内瑞拉", "real_query": "三体预言美国入侵委内瑞拉" },
-  { "query_display": "「资源型科研」造成了哪些问题", "real_query": "「资源型科研」造成了哪些问题" }
+  { "query_display": "三体预言美国入侵委内瑞拉", "real_query": "三体预言美国入侵委内瑞拉" }
 ]
