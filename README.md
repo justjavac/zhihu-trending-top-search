@@ -14,25 +14,28 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jan 08 2026 16:34:52 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jan 08 2026 17:31:08 GMT+0800 (China Standard Time) -->
 
-1. [日本年轻人聚众晒梅毒](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%81%9A%E4%BC%97%E6%99%92%E6%A2%85%E6%AF%92)
 1. [商务部加强对日两用物项出口管制](https://www.zhihu.com/search?q=%E5%95%86%E5%8A%A1%E9%83%A8%E5%8A%A0%E5%BC%BA%E5%AF%B9%E6%97%A5%E4%B8%A4%E7%94%A8%E7%89%A9%E9%A1%B9%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6)
+1. [日本年轻人聚众晒梅毒](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%81%9A%E4%BC%97%E6%99%92%E6%A2%85%E6%AF%92)
 1. [长生种短命种理论](https://www.zhihu.com/search?q=%E9%95%BF%E7%94%9F%E7%A7%8D%E7%9F%AD%E5%91%BD%E7%A7%8D%E7%90%86%E8%AE%BA)
-1. [「资源型科研」造成了哪些问题](https://www.zhihu.com/search?q=%E3%80%8C%E8%B5%84%E6%BA%90%E5%9E%8B%E7%A7%91%E7%A0%94%E3%80%8D%E9%80%A0%E6%88%90%E4%BA%86%E5%93%AA%E4%BA%9B%E9%97%AE%E9%A2%98)
-1. [雷军回应KOL事件](https://www.zhihu.com/search?q=%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94KOL%E4%BA%8B%E4%BB%B6)
+1. [农村不允许烧煤如何取暖](https://www.zhihu.com/search?q=%E5%86%9C%E6%9D%91%E4%B8%8D%E5%85%81%E8%AE%B8%E7%83%A7%E7%85%A4%E5%A6%82%E4%BD%95%E5%8F%96%E6%9A%96)
 1. [日本梅毒感染扩散](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E6%A2%85%E6%AF%92%E6%84%9F%E6%9F%93%E6%89%A9%E6%95%A3)
-1. [医生提醒秒睡可能是身体在报警](https://www.zhihu.com/search?q=%E5%8C%BB%E7%94%9F%E6%8F%90%E9%86%92%E7%A7%92%E7%9D%A1%E5%8F%AF%E8%83%BD%E6%98%AF%E8%BA%AB%E4%BD%93%E5%9C%A8%E6%8A%A5%E8%AD%A6)
 1. [女子以油养肤导致面部疯狂掉皮](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E4%BB%A5%E6%B2%B9%E5%85%BB%E8%82%A4%E5%AF%BC%E8%87%B4%E9%9D%A2%E9%83%A8%E7%96%AF%E7%8B%82%E6%8E%89%E7%9A%AE)
-1. [为何说职场最无声的悲剧是逼走最认真的人](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E8%AF%B4%E8%81%8C%E5%9C%BA%E6%9C%80%E6%97%A0%E5%A3%B0%E7%9A%84%E6%82%B2%E5%89%A7%E6%98%AF%E9%80%BC%E8%B5%B0%E6%9C%80%E8%AE%A4%E7%9C%9F%E7%9A%84%E4%BA%BA)
+1. [医生提醒秒睡可能是身体在报警](https://www.zhihu.com/search?q=%E5%8C%BB%E7%94%9F%E6%8F%90%E9%86%92%E7%A7%92%E7%9D%A1%E5%8F%AF%E8%83%BD%E6%98%AF%E8%BA%AB%E4%BD%93%E5%9C%A8%E6%8A%A5%E8%AD%A6)
+1. [林俊杰恋爱后出歌的质量与速度会怎样](https://www.zhihu.com/search?q=%E6%9E%97%E4%BF%8A%E6%9D%B0%E6%81%8B%E7%88%B1%E5%90%8E%E5%87%BA%E6%AD%8C%E7%9A%84%E8%B4%A8%E9%87%8F%E4%B8%8E%E9%80%9F%E5%BA%A6%E4%BC%9A%E6%80%8E%E6%A0%B7)
 1. [美军强掳马杜罗](https://www.zhihu.com/search?q=%E7%BE%8E%E5%86%9B%E5%BC%BA%E6%8E%B3%E9%A9%AC%E6%9D%9C%E7%BD%97)
 1. [和府捞面回应「只有面是现煮的」](https://www.zhihu.com/search?q=%E5%92%8C%E5%BA%9C%E6%8D%9E%E9%9D%A2%E5%9B%9E%E5%BA%94%E3%80%8C%E5%8F%AA%E6%9C%89%E9%9D%A2%E6%98%AF%E7%8E%B0%E7%85%AE%E7%9A%84%E3%80%8D)
+1. [有什么事是美甲后才知道的](https://www.zhihu.com/search?q=%E6%9C%89%E4%BB%80%E4%B9%88%E4%BA%8B%E6%98%AF%E7%BE%8E%E7%94%B2%E5%90%8E%E6%89%8D%E7%9F%A5%E9%81%93%E7%9A%84)
+1. [委内瑞拉发生了什么](https://www.zhihu.com/search?q=%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88)
+1. [「资源型科研」造成了哪些问题](https://www.zhihu.com/search?q=%E3%80%8C%E8%B5%84%E6%BA%90%E5%9E%8B%E7%A7%91%E7%A0%94%E3%80%8D%E9%80%A0%E6%88%90%E4%BA%86%E5%93%AA%E4%BA%9B%E9%97%AE%E9%A2%98)
+1. [雷军回应KOL事件](https://www.zhihu.com/search?q=%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94KOL%E4%BA%8B%E4%BB%B6)
+1. [为何说职场最无声的悲剧是逼走最认真的人](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E8%AF%B4%E8%81%8C%E5%9C%BA%E6%9C%80%E6%97%A0%E5%A3%B0%E7%9A%84%E6%82%B2%E5%89%A7%E6%98%AF%E9%80%BC%E8%B5%B0%E6%9C%80%E8%AE%A4%E7%9C%9F%E7%9A%84%E4%BA%BA)
 1. [学历越高的人其服从性是越高还是越低](https://www.zhihu.com/search?q=%E5%AD%A6%E5%8E%86%E8%B6%8A%E9%AB%98%E7%9A%84%E4%BA%BA%E5%85%B6%E6%9C%8D%E4%BB%8E%E6%80%A7%E6%98%AF%E8%B6%8A%E9%AB%98%E8%BF%98%E6%98%AF%E8%B6%8A%E4%BD%8E)
 1. [美国一口气退66个群](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E4%B8%80%E5%8F%A3%E6%B0%94%E9%80%8066%E4%B8%AA%E7%BE%A4)
 1. [为什么有很多人连基本的常识都没有](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E5%BE%88%E5%A4%9A%E4%BA%BA%E8%BF%9E%E5%9F%BA%E6%9C%AC%E7%9A%84%E5%B8%B8%E8%AF%86%E9%83%BD%E6%B2%A1%E6%9C%89)
 1. [为什么《寻秦记》在内地表现平平](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E3%80%8A%E5%AF%BB%E7%A7%A6%E8%AE%B0%E3%80%8B%E5%9C%A8%E5%86%85%E5%9C%B0%E8%A1%A8%E7%8E%B0%E5%B9%B3%E5%B9%B3)
 1. [特朗普下令空袭委内瑞拉](https://www.zhihu.com/search?q=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E7%A9%BA%E8%A2%AD%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89)
-1. [委内瑞拉发生了什么](https://www.zhihu.com/search?q=%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88)
 1. [黑龙江景区「冰封鱼墙」是怎么产生的](https://www.zhihu.com/search?q=%E9%BB%91%E9%BE%99%E6%B1%9F%E6%99%AF%E5%8C%BA%E3%80%8C%E5%86%B0%E5%B0%81%E9%B1%BC%E5%A2%99%E3%80%8D%E6%98%AF%E6%80%8E%E4%B9%88%E4%BA%A7%E7%94%9F%E7%9A%84)
 1. [青山刚昌确认《名侦探柯南》会继续做剧场版](https://www.zhihu.com/search?q=%E9%9D%92%E5%B1%B1%E5%88%9A%E6%98%8C%E7%A1%AE%E8%AE%A4%E3%80%8A%E5%90%8D%E4%BE%A6%E6%8E%A2%E6%9F%AF%E5%8D%97%E3%80%8B%E4%BC%9A%E7%BB%A7%E7%BB%AD%E5%81%9A%E5%89%A7%E5%9C%BA%E7%89%88)
 1. [有哪些瞬间你秒懂了别人的暗示](https://www.zhihu.com/search?q=%E6%9C%89%E5%93%AA%E4%BA%9B%E7%9E%AC%E9%97%B4%E4%BD%A0%E7%A7%92%E6%87%82%E4%BA%86%E5%88%AB%E4%BA%BA%E7%9A%84%E6%9A%97%E7%A4%BA)
@@ -46,7 +49,6 @@
 1. [走路久了大脚趾不舒服切了是不是就可以](https://www.zhihu.com/search?q=%E8%B5%B0%E8%B7%AF%E4%B9%85%E4%BA%86%E5%A4%A7%E8%84%9A%E8%B6%BE%E4%B8%8D%E8%88%92%E6%9C%8D%E5%88%87%E4%BA%86%E6%98%AF%E4%B8%8D%E6%98%AF%E5%B0%B1%E5%8F%AF%E4%BB%A5)
 1. [2025年十大语文差错公布](https://www.zhihu.com/search?q=2025%E5%B9%B4%E5%8D%81%E5%A4%A7%E8%AF%AD%E6%96%87%E5%B7%AE%E9%94%99%E5%85%AC%E5%B8%83)
 1. [山姆多款商品货源与小象趋同](https://www.zhihu.com/search?q=%E5%B1%B1%E5%A7%86%E5%A4%9A%E6%AC%BE%E5%95%86%E5%93%81%E8%B4%A7%E6%BA%90%E4%B8%8E%E5%B0%8F%E8%B1%A1%E8%B6%8B%E5%90%8C)
-1. [林俊杰恋爱后出歌的质量与速度会怎样](https://www.zhihu.com/search?q=%E6%9E%97%E4%BF%8A%E6%9D%B0%E6%81%8B%E7%88%B1%E5%90%8E%E5%87%BA%E6%AD%8C%E7%9A%84%E8%B4%A8%E9%87%8F%E4%B8%8E%E9%80%9F%E5%BA%A6%E4%BC%9A%E6%80%8E%E6%A0%B7)
 1. [你最接受和理解不了的穿搭是哪种](https://www.zhihu.com/search?q=%E4%BD%A0%E6%9C%80%E6%8E%A5%E5%8F%97%E5%92%8C%E7%90%86%E8%A7%A3%E4%B8%8D%E4%BA%86%E7%9A%84%E7%A9%BF%E6%90%AD%E6%98%AF%E5%93%AA%E7%A7%8D)
 1. [河北农村煤改气后取暖成本飙升](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8C%97%E5%86%9C%E6%9D%91%E7%85%A4%E6%94%B9%E6%B0%94%E5%90%8E%E5%8F%96%E6%9A%96%E6%88%90%E6%9C%AC%E9%A3%99%E5%8D%87)
 1. [从技术上如何分析元宝辱骂用户](https://www.zhihu.com/search?q=%E4%BB%8E%E6%8A%80%E6%9C%AF%E4%B8%8A%E5%A6%82%E4%BD%95%E5%88%86%E6%9E%90%E5%85%83%E5%AE%9D%E8%BE%B1%E9%AA%82%E7%94%A8%E6%88%B7)
