@@ -14,20 +14,20 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jan 10 2026 05:23:41 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jan 10 2026 06:23:58 GMT+0800 (China Standard Time) -->
 
 1. [商务部加强对日两用物项出口管制](https://www.zhihu.com/search?q=%E5%95%86%E5%8A%A1%E9%83%A8%E5%8A%A0%E5%BC%BA%E5%AF%B9%E6%97%A5%E4%B8%A4%E7%94%A8%E7%89%A9%E9%A1%B9%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6)
-1. [商务部回应Meta收购Manus](https://www.zhihu.com/search?q=%E5%95%86%E5%8A%A1%E9%83%A8%E5%9B%9E%E5%BA%94Meta%E6%94%B6%E8%B4%ADManus)
-1. [景德镇车祸肇事司机一审死缓](https://www.zhihu.com/search?q=%E6%99%AF%E5%BE%B7%E9%95%87%E8%BD%A6%E7%A5%B8%E8%82%87%E4%BA%8B%E5%8F%B8%E6%9C%BA%E4%B8%80%E5%AE%A1%E6%AD%BB%E7%BC%93)
 1. [中国石化中国航油重组官宣](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E7%9F%B3%E5%8C%96%E4%B8%AD%E5%9B%BD%E8%88%AA%E6%B2%B9%E9%87%8D%E7%BB%84%E5%AE%98%E5%AE%A3)
+1. [景德镇车祸肇事司机一审死缓](https://www.zhihu.com/search?q=%E6%99%AF%E5%BE%B7%E9%95%87%E8%BD%A6%E7%A5%B8%E8%82%87%E4%BA%8B%E5%8F%B8%E6%9C%BA%E4%B8%80%E5%AE%A1%E6%AD%BB%E7%BC%93)
+1. [商务部回应Meta收购Manus](https://www.zhihu.com/search?q=%E5%95%86%E5%8A%A1%E9%83%A8%E5%9B%9E%E5%BA%94Meta%E6%94%B6%E8%B4%ADManus)
 1. [长生种短命种理论](https://www.zhihu.com/search?q=%E9%95%BF%E7%94%9F%E7%A7%8D%E7%9F%AD%E5%91%BD%E7%A7%8D%E7%90%86%E8%AE%BA)
 1. [伊朗抗议席卷全国一半省份](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E6%8A%97%E8%AE%AE%E5%B8%AD%E5%8D%B7%E5%85%A8%E5%9B%BD%E4%B8%80%E5%8D%8A%E7%9C%81%E4%BB%BD)
 1. [太二为什么跑去做川菜](https://www.zhihu.com/search?q=%E5%A4%AA%E4%BA%8C%E4%B8%BA%E4%BB%80%E4%B9%88%E8%B7%91%E5%8E%BB%E5%81%9A%E5%B7%9D%E8%8F%9C)
 1. [委内瑞拉发生了什么](https://www.zhihu.com/search?q=%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88)
 1. [景德镇一家三口被撞案司机被判死缓](https://www.zhihu.com/search?q=%E6%99%AF%E5%BE%B7%E9%95%87%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E8%A2%AB%E6%92%9E%E6%A1%88%E5%8F%B8%E6%9C%BA%E8%A2%AB%E5%88%A4%E6%AD%BB%E7%BC%93)
-1. [女子以油养肤导致面部疯狂掉皮](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E4%BB%A5%E6%B2%B9%E5%85%BB%E8%82%A4%E5%AF%BC%E8%87%B4%E9%9D%A2%E9%83%A8%E7%96%AF%E7%8B%82%E6%8E%89%E7%9A%AE)
-1. [程序员在大厂干不长久为何还要去](https://www.zhihu.com/search?q=%E7%A8%8B%E5%BA%8F%E5%91%98%E5%9C%A8%E5%A4%A7%E5%8E%82%E5%B9%B2%E4%B8%8D%E9%95%BF%E4%B9%85%E4%B8%BA%E4%BD%95%E8%BF%98%E8%A6%81%E5%8E%BB)
 1. [伊朗大范围断网](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%A4%A7%E8%8C%83%E5%9B%B4%E6%96%AD%E7%BD%91)
+1. [程序员在大厂干不长久为何还要去](https://www.zhihu.com/search?q=%E7%A8%8B%E5%BA%8F%E5%91%98%E5%9C%A8%E5%A4%A7%E5%8E%82%E5%B9%B2%E4%B8%8D%E9%95%BF%E4%B9%85%E4%B8%BA%E4%BD%95%E8%BF%98%E8%A6%81%E5%8E%BB)
+1. [女子以油养肤导致面部疯狂掉皮](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E4%BB%A5%E6%B2%B9%E5%85%BB%E8%82%A4%E5%AF%BC%E8%87%B4%E9%9D%A2%E9%83%A8%E7%96%AF%E7%8B%82%E6%8E%89%E7%9A%AE)
 1. [计算机专业还有前途吗](https://www.zhihu.com/search?q=%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E8%BF%98%E6%9C%89%E5%89%8D%E9%80%94%E5%90%97)
 1. [新生儿剪脐带时被剪断手指是由于什么导致的](https://www.zhihu.com/search?q=%E6%96%B0%E7%94%9F%E5%84%BF%E5%89%AA%E8%84%90%E5%B8%A6%E6%97%B6%E8%A2%AB%E5%89%AA%E6%96%AD%E6%89%8B%E6%8C%87%E6%98%AF%E7%94%B1%E4%BA%8E%E4%BB%80%E4%B9%88%E5%AF%BC%E8%87%B4%E7%9A%84)
 1. [跟领导暗示自己摆烂还没被边缘化怎么办](https://www.zhihu.com/search?q=%E8%B7%9F%E9%A2%86%E5%AF%BC%E6%9A%97%E7%A4%BA%E8%87%AA%E5%B7%B1%E6%91%86%E7%83%82%E8%BF%98%E6%B2%A1%E8%A2%AB%E8%BE%B9%E7%BC%98%E5%8C%96%E6%80%8E%E4%B9%88%E5%8A%9E)
