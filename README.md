@@ -14,18 +14,23 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jan 09 2026 09:57:30 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jan 09 2026 11:44:24 GMT+0800 (China Standard Time) -->
 
-1. [女子以油养肤导致面部疯狂掉皮](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E4%BB%A5%E6%B2%B9%E5%85%BB%E8%82%A4%E5%AF%BC%E8%87%B4%E9%9D%A2%E9%83%A8%E7%96%AF%E7%8B%82%E6%8E%89%E7%9A%AE)
 1. [商务部加强对日两用物项出口管制](https://www.zhihu.com/search?q=%E5%95%86%E5%8A%A1%E9%83%A8%E5%8A%A0%E5%BC%BA%E5%AF%B9%E6%97%A5%E4%B8%A4%E7%94%A8%E7%89%A9%E9%A1%B9%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6)
+1. [中国石化中国航油重组官宣](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E7%9F%B3%E5%8C%96%E4%B8%AD%E5%9B%BD%E8%88%AA%E6%B2%B9%E9%87%8D%E7%BB%84%E5%AE%98%E5%AE%A3)
+1. [景德镇车祸肇事司机一审死缓](https://www.zhihu.com/search?q=%E6%99%AF%E5%BE%B7%E9%95%87%E8%BD%A6%E7%A5%B8%E8%82%87%E4%BA%8B%E5%8F%B8%E6%9C%BA%E4%B8%80%E5%AE%A1%E6%AD%BB%E7%BC%93)
+1. [商务部回应Meta收购Manus](https://www.zhihu.com/search?q=%E5%95%86%E5%8A%A1%E9%83%A8%E5%9B%9E%E5%BA%94Meta%E6%94%B6%E8%B4%ADManus)
 1. [长生种短命种理论](https://www.zhihu.com/search?q=%E9%95%BF%E7%94%9F%E7%A7%8D%E7%9F%AD%E5%91%BD%E7%A7%8D%E7%90%86%E8%AE%BA)
-1. [山姆多款商品货源与小象趋同](https://www.zhihu.com/search?q=%E5%B1%B1%E5%A7%86%E5%A4%9A%E6%AC%BE%E5%95%86%E5%93%81%E8%B4%A7%E6%BA%90%E4%B8%8E%E5%B0%8F%E8%B1%A1%E8%B6%8B%E5%90%8C)
 1. [陈志](https://www.zhihu.com/search?q=%E9%99%88%E5%BF%97)
-1. [日本年轻人聚众晒梅毒](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%81%9A%E4%BC%97%E6%99%92%E6%A2%85%E6%AF%92)
+1. [为什么琼瑶笔下唯独汪紫菱只能靠男人](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%90%BC%E7%91%B6%E7%AC%94%E4%B8%8B%E5%94%AF%E7%8B%AC%E6%B1%AA%E7%B4%AB%E8%8F%B1%E5%8F%AA%E8%83%BD%E9%9D%A0%E7%94%B7%E4%BA%BA)
 1. [美国一口气退 66 个群](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E4%B8%80%E5%8F%A3%E6%B0%94%E9%80%80%2066%20%E4%B8%AA%E7%BE%A4)
-1. [汪涵是内地反应最快的主持人吗](https://www.zhihu.com/search?q=%E6%B1%AA%E6%B6%B5%E6%98%AF%E5%86%85%E5%9C%B0%E5%8F%8D%E5%BA%94%E6%9C%80%E5%BF%AB%E7%9A%84%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%90%97)
+1. [日本年轻人聚众晒梅毒](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%81%9A%E4%BC%97%E6%99%92%E6%A2%85%E6%AF%92)
 1. [委内瑞拉发生了什么](https://www.zhihu.com/search?q=%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88)
+1. [认知低的人有哪些特征](https://www.zhihu.com/search?q=%E8%AE%A4%E7%9F%A5%E4%BD%8E%E7%9A%84%E4%BA%BA%E6%9C%89%E5%93%AA%E4%BA%9B%E7%89%B9%E5%BE%81)
 1. [跨境赌诈集团头目陈志被押解回国](https://www.zhihu.com/search?q=%E8%B7%A8%E5%A2%83%E8%B5%8C%E8%AF%88%E9%9B%86%E5%9B%A2%E5%A4%B4%E7%9B%AE%E9%99%88%E5%BF%97%E8%A2%AB%E6%8A%BC%E8%A7%A3%E5%9B%9E%E5%9B%BD)
+1. [女子以油养肤导致面部疯狂掉皮](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E4%BB%A5%E6%B2%B9%E5%85%BB%E8%82%A4%E5%AF%BC%E8%87%B4%E9%9D%A2%E9%83%A8%E7%96%AF%E7%8B%82%E6%8E%89%E7%9A%AE)
+1. [山姆多款商品货源与小象趋同](https://www.zhihu.com/search?q=%E5%B1%B1%E5%A7%86%E5%A4%9A%E6%AC%BE%E5%95%86%E5%93%81%E8%B4%A7%E6%BA%90%E4%B8%8E%E5%B0%8F%E8%B1%A1%E8%B6%8B%E5%90%8C)
+1. [汪涵是内地反应最快的主持人吗](https://www.zhihu.com/search?q=%E6%B1%AA%E6%B6%B5%E6%98%AF%E5%86%85%E5%9C%B0%E5%8F%8D%E5%BA%94%E6%9C%80%E5%BF%AB%E7%9A%84%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%90%97)
 1. [冰心为什么讨厌林徽因](https://www.zhihu.com/search?q=%E5%86%B0%E5%BF%83%E4%B8%BA%E4%BB%80%E4%B9%88%E8%AE%A8%E5%8E%8C%E6%9E%97%E5%BE%BD%E5%9B%A0)
 1. [5 人元旦穿越鳌太线 4 人失联](https://www.zhihu.com/search?q=5%20%E4%BA%BA%E5%85%83%E6%97%A6%E7%A9%BF%E8%B6%8A%E9%B3%8C%E5%A4%AA%E7%BA%BF%204%20%E4%BA%BA%E5%A4%B1%E8%81%94)
 1. [动物做坏事死后会不会下地狱](https://www.zhihu.com/search?q=%E5%8A%A8%E7%89%A9%E5%81%9A%E5%9D%8F%E4%BA%8B%E6%AD%BB%E5%90%8E%E4%BC%9A%E4%B8%8D%E4%BC%9A%E4%B8%8B%E5%9C%B0%E7%8B%B1)
