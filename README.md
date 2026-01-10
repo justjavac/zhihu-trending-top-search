@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jan 11 2026 03:17:45 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jan 11 2026 04:25:05 GMT+0800 (China Standard Time) -->
 
 1. [伊朗抗议席卷全国一半省份](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E6%8A%97%E8%AE%AE%E5%B8%AD%E5%8D%B7%E5%85%A8%E5%9B%BD%E4%B8%80%E5%8D%8A%E7%9C%81%E4%BB%BD)
 1. [死了吗App爆火](https://www.zhihu.com/search?q=%E6%AD%BB%E4%BA%86%E5%90%97App%E7%88%86%E7%81%AB)
