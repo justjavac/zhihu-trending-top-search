@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jan 10 2026 07:22:44 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jan 10 2026 09:53:39 GMT+0800 (China Standard Time) -->
 
 1. [商务部加强对日两用物项出口管制](https://www.zhihu.com/search?q=%E5%95%86%E5%8A%A1%E9%83%A8%E5%8A%A0%E5%BC%BA%E5%AF%B9%E6%97%A5%E4%B8%A4%E7%94%A8%E7%89%A9%E9%A1%B9%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6)
 1. [中国石化中国航油重组官宣](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E7%9F%B3%E5%8C%96%E4%B8%AD%E5%9B%BD%E8%88%AA%E6%B2%B9%E9%87%8D%E7%BB%84%E5%AE%98%E5%AE%A3)
@@ -22,10 +22,13 @@
 1. [商务部回应Meta收购Manus](https://www.zhihu.com/search?q=%E5%95%86%E5%8A%A1%E9%83%A8%E5%9B%9E%E5%BA%94Meta%E6%94%B6%E8%B4%ADManus)
 1. [长生种短命种理论](https://www.zhihu.com/search?q=%E9%95%BF%E7%94%9F%E7%A7%8D%E7%9F%AD%E5%91%BD%E7%A7%8D%E7%90%86%E8%AE%BA)
 1. [伊朗抗议席卷全国一半省份](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E6%8A%97%E8%AE%AE%E5%B8%AD%E5%8D%B7%E5%85%A8%E5%9B%BD%E4%B8%80%E5%8D%8A%E7%9C%81%E4%BB%BD)
-1. [程序员在大厂干不长久为何还要去](https://www.zhihu.com/search?q=%E7%A8%8B%E5%BA%8F%E5%91%98%E5%9C%A8%E5%A4%A7%E5%8E%82%E5%B9%B2%E4%B8%8D%E9%95%BF%E4%B9%85%E4%B8%BA%E4%BD%95%E8%BF%98%E8%A6%81%E5%8E%BB)
+1. [施工队在我办公桌下放了购物卡该怎么处理](https://www.zhihu.com/search?q=%E6%96%BD%E5%B7%A5%E9%98%9F%E5%9C%A8%E6%88%91%E5%8A%9E%E5%85%AC%E6%A1%8C%E4%B8%8B%E6%94%BE%E4%BA%86%E8%B4%AD%E7%89%A9%E5%8D%A1%E8%AF%A5%E6%80%8E%E4%B9%88%E5%A4%84%E7%90%86)
 1. [委内瑞拉发生了什么](https://www.zhihu.com/search?q=%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88)
 1. [景德镇一家三口被撞案司机被判死缓](https://www.zhihu.com/search?q=%E6%99%AF%E5%BE%B7%E9%95%87%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E8%A2%AB%E6%92%9E%E6%A1%88%E5%8F%B8%E6%9C%BA%E8%A2%AB%E5%88%A4%E6%AD%BB%E7%BC%93)
 1. [伊朗大范围断网](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%A4%A7%E8%8C%83%E5%9B%B4%E6%96%AD%E7%BD%91)
+1. [为什么微波炉无法作为主流的烹饪手段](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BE%AE%E6%B3%A2%E7%82%89%E6%97%A0%E6%B3%95%E4%BD%9C%E4%B8%BA%E4%B8%BB%E6%B5%81%E7%9A%84%E7%83%B9%E9%A5%AA%E6%89%8B%E6%AE%B5)
+1. [5 人元旦穿越鳌太线 4 人失联](https://www.zhihu.com/search?q=5%20%E4%BA%BA%E5%85%83%E6%97%A6%E7%A9%BF%E8%B6%8A%E9%B3%8C%E5%A4%AA%E7%BA%BF%204%20%E4%BA%BA%E5%A4%B1%E8%81%94)
+1. [程序员在大厂干不长久为何还要去](https://www.zhihu.com/search?q=%E7%A8%8B%E5%BA%8F%E5%91%98%E5%9C%A8%E5%A4%A7%E5%8E%82%E5%B9%B2%E4%B8%8D%E9%95%BF%E4%B9%85%E4%B8%BA%E4%BD%95%E8%BF%98%E8%A6%81%E5%8E%BB)
 1. [霸王茶姬辞退「手打」奶茶店员](https://www.zhihu.com/search?q=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E8%BE%9E%E9%80%80%E3%80%8C%E6%89%8B%E6%89%93%E3%80%8D%E5%A5%B6%E8%8C%B6%E5%BA%97%E5%91%98)
 1. [女子以油养肤导致面部疯狂掉皮](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E4%BB%A5%E6%B2%B9%E5%85%BB%E8%82%A4%E5%AF%BC%E8%87%B4%E9%9D%A2%E9%83%A8%E7%96%AF%E7%8B%82%E6%8E%89%E7%9A%AE)
 1. [太二为什么跑去做川菜](https://www.zhihu.com/search?q=%E5%A4%AA%E4%BA%8C%E4%B8%BA%E4%BB%80%E4%B9%88%E8%B7%91%E5%8E%BB%E5%81%9A%E5%B7%9D%E8%8F%9C)
