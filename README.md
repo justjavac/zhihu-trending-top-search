@@ -14,24 +14,24 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jan 11 2026 14:35:57 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jan 11 2026 15:23:14 GMT+0800 (China Standard Time) -->
 
 1. [伊朗抗议席卷全国一半省份](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E6%8A%97%E8%AE%AE%E5%B8%AD%E5%8D%B7%E5%85%A8%E5%9B%BD%E4%B8%80%E5%8D%8A%E7%9C%81%E4%BB%BD)
 1. [死了吗App爆火](https://www.zhihu.com/search?q=%E6%AD%BB%E4%BA%86%E5%90%97App%E7%88%86%E7%81%AB)
 1. [官方通报亚运冠军遭索要奖金事件](https://www.zhihu.com/search?q=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E4%BA%9A%E8%BF%90%E5%86%A0%E5%86%9B%E9%81%AD%E7%B4%A2%E8%A6%81%E5%A5%96%E9%87%91%E4%BA%8B%E4%BB%B6)
-1. [新蔡再通报13岁男生宿舍死亡](https://www.zhihu.com/search?q=%E6%96%B0%E8%94%A1%E5%86%8D%E9%80%9A%E6%8A%A513%E5%B2%81%E7%94%B7%E7%94%9F%E5%AE%BF%E8%88%8D%E6%AD%BB%E4%BA%A1)
 1. [闫学晶](https://www.zhihu.com/search?q=%E9%97%AB%E5%AD%A6%E6%99%B6)
 1. [委内瑞拉发生了什么](https://www.zhihu.com/search?q=%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88)
 1. [麦当劳汉堡被吐槽缩成马卡龙](https://www.zhihu.com/search?q=%E9%BA%A6%E5%BD%93%E5%8A%B3%E6%B1%89%E5%A0%A1%E8%A2%AB%E5%90%90%E6%A7%BD%E7%BC%A9%E6%88%90%E9%A9%AC%E5%8D%A1%E9%BE%99)
-1. [美军大规模空袭叙利亚](https://www.zhihu.com/search?q=%E7%BE%8E%E5%86%9B%E5%A4%A7%E8%A7%84%E6%A8%A1%E7%A9%BA%E8%A2%AD%E5%8F%99%E5%88%A9%E4%BA%9A)
 1. [伊朗大范围断网](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%A4%A7%E8%8C%83%E5%9B%B4%E6%96%AD%E7%BD%91)
 1. [女子因买洗碗机遭丈夫砸家](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E5%9B%A0%E4%B9%B0%E6%B4%97%E7%A2%97%E6%9C%BA%E9%81%AD%E4%B8%88%E5%A4%AB%E7%A0%B8%E5%AE%B6)
+1. [新蔡再通报13岁男生宿舍死亡](https://www.zhihu.com/search?q=%E6%96%B0%E8%94%A1%E5%86%8D%E9%80%9A%E6%8A%A513%E5%B2%81%E7%94%B7%E7%94%9F%E5%AE%BF%E8%88%8D%E6%AD%BB%E4%BA%A1)
 1. [柬埔寨国王颁令撤销陈志国籍](https://www.zhihu.com/search?q=%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%9B%BD%E7%8E%8B%E9%A2%81%E4%BB%A4%E6%92%A4%E9%94%80%E9%99%88%E5%BF%97%E5%9B%BD%E7%B1%8D)
+1. [一男孩校内身亡学校疑似转移遗体](https://www.zhihu.com/search?q=%E4%B8%80%E7%94%B7%E5%AD%A9%E6%A0%A1%E5%86%85%E8%BA%AB%E4%BA%A1%E5%AD%A6%E6%A0%A1%E7%96%91%E4%BC%BC%E8%BD%AC%E7%A7%BB%E9%81%97%E4%BD%93)
 1. [景德镇一家三口被撞案司机被判死缓](https://www.zhihu.com/search?q=%E6%99%AF%E5%BE%B7%E9%95%87%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E8%A2%AB%E6%92%9E%E6%A1%88%E5%8F%B8%E6%9C%BA%E8%A2%AB%E5%88%A4%E6%AD%BB%E7%BC%93)
+1. [美军大规模空袭叙利亚](https://www.zhihu.com/search?q=%E7%BE%8E%E5%86%9B%E5%A4%A7%E8%A7%84%E6%A8%A1%E7%A9%BA%E8%A2%AD%E5%8F%99%E5%88%A9%E4%BA%9A)
 1. [《流浪地球 3》刘德华杀青](https://www.zhihu.com/search?q=%E3%80%8A%E6%B5%81%E6%B5%AA%E5%9C%B0%E7%90%83%203%E3%80%8B%E5%88%98%E5%BE%B7%E5%8D%8E%E6%9D%80%E9%9D%92)
 1. [中国石化中国航油重组官宣](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E7%9F%B3%E5%8C%96%E4%B8%AD%E5%9B%BD%E8%88%AA%E6%B2%B9%E9%87%8D%E7%BB%84%E5%AE%98%E5%AE%A3)
 1. [闫学晶多个平台账号被禁止关注](https://www.zhihu.com/search?q=%E9%97%AB%E5%AD%A6%E6%99%B6%E5%A4%9A%E4%B8%AA%E5%B9%B3%E5%8F%B0%E8%B4%A6%E5%8F%B7%E8%A2%AB%E7%A6%81%E6%AD%A2%E5%85%B3%E6%B3%A8)
-1. [一男孩校内身亡学校疑似转移遗体](https://www.zhihu.com/search?q=%E4%B8%80%E7%94%B7%E5%AD%A9%E6%A0%A1%E5%86%85%E8%BA%AB%E4%BA%A1%E5%AD%A6%E6%A0%A1%E7%96%91%E4%BC%BC%E8%BD%AC%E7%A7%BB%E9%81%97%E4%BD%93)
 1. [司晓迪被王大发索赔 200 万](https://www.zhihu.com/search?q=%E5%8F%B8%E6%99%93%E8%BF%AA%E8%A2%AB%E7%8E%8B%E5%A4%A7%E5%8F%91%E7%B4%A2%E8%B5%94%20200%20%E4%B8%87)
 1. [林诗栋4:2梁靖崑](https://www.zhihu.com/search?q=%E6%9E%97%E8%AF%97%E6%A0%8B4%3A2%E6%A2%81%E9%9D%96%E5%B4%91)
 1. [长生种短命种理论](https://www.zhihu.com/search?q=%E9%95%BF%E7%94%9F%E7%A7%8D%E7%9F%AD%E5%91%BD%E7%A7%8D%E7%90%86%E8%AE%BA)
