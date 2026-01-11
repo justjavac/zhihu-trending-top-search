@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jan 12 2026 03:17:44 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jan 12 2026 04:26:20 GMT+0800 (China Standard Time) -->
 
 1. [美军大规模空袭叙利亚](https://www.zhihu.com/search?q=%E7%BE%8E%E5%86%9B%E5%A4%A7%E8%A7%84%E6%A8%A1%E7%A9%BA%E8%A2%AD%E5%8F%99%E5%88%A9%E4%BA%9A)
 1. [伊朗抗议席卷全国一半省份](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E6%8A%97%E8%AE%AE%E5%B8%AD%E5%8D%B7%E5%85%A8%E5%9B%BD%E4%B8%80%E5%8D%8A%E7%9C%81%E4%BB%BD)
@@ -27,6 +27,7 @@
 1. [委内瑞拉发生了什么](https://www.zhihu.com/search?q=%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88)
 1. [一男孩校内身亡学校疑似转移遗体](https://www.zhihu.com/search?q=%E4%B8%80%E7%94%B7%E5%AD%A9%E6%A0%A1%E5%86%85%E8%BA%AB%E4%BA%A1%E5%AD%A6%E6%A0%A1%E7%96%91%E4%BC%BC%E8%BD%AC%E7%A7%BB%E9%81%97%E4%BD%93)
 1. [伊朗大范围断网](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%A4%A7%E8%8C%83%E5%9B%B4%E6%96%AD%E7%BD%91)
+1. [古天乐被曝拍戏时每晚照美黑灯](https://www.zhihu.com/search?q=%E5%8F%A4%E5%A4%A9%E4%B9%90%E8%A2%AB%E6%9B%9D%E6%8B%8D%E6%88%8F%E6%97%B6%E6%AF%8F%E6%99%9A%E7%85%A7%E7%BE%8E%E9%BB%91%E7%81%AF)
 1. [马斯克预言白领与外科医生将被 AI 取代](https://www.zhihu.com/search?q=%E9%A9%AC%E6%96%AF%E5%85%8B%E9%A2%84%E8%A8%80%E7%99%BD%E9%A2%86%E4%B8%8E%E5%A4%96%E7%A7%91%E5%8C%BB%E7%94%9F%E5%B0%86%E8%A2%AB%20AI%20%E5%8F%96%E4%BB%A3)
 1. [陈幸同 4-0 蒯曼](https://www.zhihu.com/search?q=%E9%99%88%E5%B9%B8%E5%90%8C%204-0%20%E8%92%AF%E6%9B%BC)
 
