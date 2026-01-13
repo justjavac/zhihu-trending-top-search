@@ -14,12 +14,13 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jan 13 2026 22:28:24 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jan 13 2026 23:28:56 GMT+0800 (China Standard Time) -->
 
 1. [四位专家因送餐延误身体不适拒评标](https://www.zhihu.com/search?q=%E5%9B%9B%E4%BD%8D%E4%B8%93%E5%AE%B6%E5%9B%A0%E9%80%81%E9%A4%90%E5%BB%B6%E8%AF%AF%E8%BA%AB%E4%BD%93%E4%B8%8D%E9%80%82%E6%8B%92%E8%AF%84%E6%A0%87)
 1. [死了吗App爆火](https://www.zhihu.com/search?q=%E6%AD%BB%E4%BA%86%E5%90%97App%E7%88%86%E7%81%AB)
 1. [博主杀猪求助网友变百人刨猪盛宴](https://www.zhihu.com/search?q=%E5%8D%9A%E4%B8%BB%E6%9D%80%E7%8C%AA%E6%B1%82%E5%8A%A9%E7%BD%91%E5%8F%8B%E5%8F%98%E7%99%BE%E4%BA%BA%E5%88%A8%E7%8C%AA%E7%9B%9B%E5%AE%B4)
 1. [韩国检方要求判处尹锡悦死刑](https://www.zhihu.com/search?q=%E9%9F%A9%E5%9B%BD%E6%A3%80%E6%96%B9%E8%A6%81%E6%B1%82%E5%88%A4%E5%A4%84%E5%B0%B9%E9%94%A1%E6%82%A6%E6%AD%BB%E5%88%91)
+1. [死了么 App 改名 Demumu](https://www.zhihu.com/search?q=%E6%AD%BB%E4%BA%86%E4%B9%88%20App%20%E6%94%B9%E5%90%8D%20Demumu)
 1. [闫学晶](https://www.zhihu.com/search?q=%E9%97%AB%E5%AD%A6%E6%99%B6)
 1. [新蔡再通报13岁男生宿舍死亡](https://www.zhihu.com/search?q=%E6%96%B0%E8%94%A1%E5%86%8D%E9%80%9A%E6%8A%A513%E5%B2%81%E7%94%B7%E7%94%9F%E5%AE%BF%E8%88%8D%E6%AD%BB%E4%BA%A1)
 1. [日本第一代不婚族开始后悔](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E7%AC%AC%E4%B8%80%E4%BB%A3%E4%B8%8D%E5%A9%9A%E6%97%8F%E5%BC%80%E5%A7%8B%E5%90%8E%E6%82%94)
