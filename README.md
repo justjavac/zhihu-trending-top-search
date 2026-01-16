@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jan 16 2026 14:38:17 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jan 16 2026 15:27:22 GMT+0800 (China Standard Time) -->
 
 1. [博主牢 A 称已离开美国](https://www.zhihu.com/search?q=%E5%8D%9A%E4%B8%BB%E7%89%A2%20A%20%E7%A7%B0%E5%B7%B2%E7%A6%BB%E5%BC%80%E7%BE%8E%E5%9B%BD)
 1. [百万网红小澈被疑染艾滋病](https://www.zhihu.com/search?q=%E7%99%BE%E4%B8%87%E7%BD%91%E7%BA%A2%E5%B0%8F%E6%BE%88%E8%A2%AB%E7%96%91%E6%9F%93%E8%89%BE%E6%BB%8B%E7%97%85)
