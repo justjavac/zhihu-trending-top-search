@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jan 17 2026 05:24:27 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jan 17 2026 06:24:23 GMT+0800 (China Standard Time) -->
 
 1. [博主牢 A 称已离开美国](https://www.zhihu.com/search?q=%E5%8D%9A%E4%B8%BB%E7%89%A2%20A%20%E7%A7%B0%E5%B7%B2%E7%A6%BB%E5%BC%80%E7%BE%8E%E5%9B%BD)
 1. [百万网红小澈被疑染艾滋病](https://www.zhihu.com/search?q=%E7%99%BE%E4%B8%87%E7%BD%91%E7%BA%A2%E5%B0%8F%E6%BE%88%E8%A2%AB%E7%96%91%E6%9F%93%E8%89%BE%E6%BB%8B%E7%97%85)
@@ -27,8 +27,8 @@
 1. [携程被立案调查](https://www.zhihu.com/search?q=%E6%90%BA%E7%A8%8B%E8%A2%AB%E7%AB%8B%E6%A1%88%E8%B0%83%E6%9F%A5)
 1. [11岁女童演新娘引众怒](https://www.zhihu.com/search?q=11%E5%B2%81%E5%A5%B3%E7%AB%A5%E6%BC%94%E6%96%B0%E5%A8%98%E5%BC%95%E4%BC%97%E6%80%92)
 1. [尹锡悦涉内乱案一审被判 5 年](https://www.zhihu.com/search?q=%E5%B0%B9%E9%94%A1%E6%82%A6%E6%B6%89%E5%86%85%E4%B9%B1%E6%A1%88%E4%B8%80%E5%AE%A1%E8%A2%AB%E5%88%A4%205%20%E5%B9%B4)
-1. [贺娇龙坠马去世](https://www.zhihu.com/search?q=%E8%B4%BA%E5%A8%87%E9%BE%99%E5%9D%A0%E9%A9%AC%E5%8E%BB%E4%B8%96)
 1. [西贝将关闭102家门店](https://www.zhihu.com/search?q=%E8%A5%BF%E8%B4%9D%E5%B0%86%E5%85%B3%E9%97%AD102%E5%AE%B6%E9%97%A8%E5%BA%97)
+1. [贺娇龙坠马去世](https://www.zhihu.com/search?q=%E8%B4%BA%E5%A8%87%E9%BE%99%E5%9D%A0%E9%A9%AC%E5%8E%BB%E4%B8%96)
 
 <!-- END -->
 
