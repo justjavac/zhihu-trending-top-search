@@ -1,6 +1,5 @@
 [
   { "query_display": "贾国龙称将全面回应罗永浩污蔑诽谤", "real_query": "贾国龙称将全面回应罗永浩污蔑诽谤" },
-  { "query_display": "尹锡悦涉内乱案一审被判 5 年", "real_query": "尹锡悦涉内乱案一审被判 5 年" },
   { "query_display": "博主牢 A 称已离开美国", "real_query": "博主牢 A 称已离开美国" },
   { "query_display": "百万网红小澈被疑染艾滋病", "real_query": "百万网红小澈被疑染艾滋病" },
   { "query_display": "聂卫平去世", "real_query": "聂卫平去世" },
@@ -9,8 +8,9 @@
   { "query_display": "聂卫平", "real_query": "聂卫平" },
   { "query_display": "美国将暂停办理75国的所有签证", "real_query": "美国将暂停办理75国的所有签证" },
   { "query_display": "携程被立案调查", "real_query": "携程被立案调查" },
-  { "query_display": "贺娇龙坠马去世", "real_query": "贺娇龙坠马去世" },
   { "query_display": "西贝将关闭102家门店", "real_query": "西贝将关闭102家门店" },
+  { "query_display": "贺娇龙坠马去世", "real_query": "贺娇龙坠马去世" },
+  { "query_display": "尹锡悦涉内乱案一审被判 5 年", "real_query": "尹锡悦涉内乱案一审被判 5 年" },
   { "query_display": "李湘多平台账号被禁止关注", "real_query": "李湘多平台账号被禁止关注" },
   { "query_display": "伊朗关闭领空", "real_query": "伊朗关闭领空" },
   { "query_display": "伊朗抗议席卷全国一半省份", "real_query": "伊朗抗议席卷全国一半省份" },
