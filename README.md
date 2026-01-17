@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jan 18 2026 04:25:17 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jan 18 2026 05:20:07 GMT+0800 (China Standard Time) -->
 
 1. [李湘多平台账号被禁止关注](https://www.zhihu.com/search?q=%E6%9D%8E%E6%B9%98%E5%A4%9A%E5%B9%B3%E5%8F%B0%E8%B4%A6%E5%8F%B7%E8%A2%AB%E7%A6%81%E6%AD%A2%E5%85%B3%E6%B3%A8)
 1. [携程被立案调查](https://www.zhihu.com/search?q=%E6%90%BA%E7%A8%8B%E8%A2%AB%E7%AB%8B%E6%A1%88%E8%B0%83%E6%9F%A5)
