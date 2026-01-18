@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jan 19 2026 00:27:55 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jan 19 2026 01:20:14 GMT+0800 (China Standard Time) -->
 
 1. [包钢板材厂爆炸致 2 死 5 失联](https://www.zhihu.com/search?q=%E5%8C%85%E9%92%A2%E6%9D%BF%E6%9D%90%E5%8E%82%E7%88%86%E7%82%B8%E8%87%B4%202%20%E6%AD%BB%205%20%E5%A4%B1%E8%81%94)
 1. [李湘多平台账号被禁止关注](https://www.zhihu.com/search?q=%E6%9D%8E%E6%B9%98%E5%A4%9A%E5%B9%B3%E5%8F%B0%E8%B4%A6%E5%8F%B7%E8%A2%AB%E7%A6%81%E6%AD%A2%E5%85%B3%E6%B3%A8)
@@ -23,8 +23,8 @@
 1. [贾国龙第二篇回应](https://www.zhihu.com/search?q=%E8%B4%BE%E5%9B%BD%E9%BE%99%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%9B%9E%E5%BA%94)
 1. [中国U23男足进入亚洲杯四强](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BDU23%E7%94%B7%E8%B6%B3%E8%BF%9B%E5%85%A5%E4%BA%9A%E6%B4%B2%E6%9D%AF%E5%9B%9B%E5%BC%BA)
 1. [香港武打明星梁小龙离世](https://www.zhihu.com/search?q=%E9%A6%99%E6%B8%AF%E6%AD%A6%E6%89%93%E6%98%8E%E6%98%9F%E6%A2%81%E5%B0%8F%E9%BE%99%E7%A6%BB%E4%B8%96)
-1. [聂卫平去世](https://www.zhihu.com/search?q=%E8%81%82%E5%8D%AB%E5%B9%B3%E5%8E%BB%E4%B8%96)
 1. [家中凌晨进贼女子全程装睡](https://www.zhihu.com/search?q=%E5%AE%B6%E4%B8%AD%E5%87%8C%E6%99%A8%E8%BF%9B%E8%B4%BC%E5%A5%B3%E5%AD%90%E5%85%A8%E7%A8%8B%E8%A3%85%E7%9D%A1)
+1. [聂卫平去世](https://www.zhihu.com/search?q=%E8%81%82%E5%8D%AB%E5%B9%B3%E5%8E%BB%E4%B8%96)
 1. [北京下雪](https://www.zhihu.com/search?q=%E5%8C%97%E4%BA%AC%E4%B8%8B%E9%9B%AA)
 1. [尹锡悦涉内乱案一审被判 5 年](https://www.zhihu.com/search?q=%E5%B0%B9%E9%94%A1%E6%82%A6%E6%B6%89%E5%86%85%E4%B9%B1%E6%A1%88%E4%B8%80%E5%AE%A1%E8%A2%AB%E5%88%A4%205%20%E5%B9%B4)
 1. [10 款儿童面霜被曝违规添加](https://www.zhihu.com/search?q=10%20%E6%AC%BE%E5%84%BF%E7%AB%A5%E9%9D%A2%E9%9C%9C%E8%A2%AB%E6%9B%9D%E8%BF%9D%E8%A7%84%E6%B7%BB%E5%8A%A0)
