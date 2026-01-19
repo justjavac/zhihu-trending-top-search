@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jan 20 2026 02:36:00 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jan 20 2026 03:21:28 GMT+0800 (China Standard Time) -->
 
 1. [2025年中国GDP同比增长5%](https://www.zhihu.com/search?q=2025%E5%B9%B4%E4%B8%AD%E5%9B%BDGDP%E5%90%8C%E6%AF%94%E5%A2%9E%E9%95%BF5%25)
 1. [包头包钢一厂区发生爆炸事故](https://www.zhihu.com/search?q=%E5%8C%85%E5%A4%B4%E5%8C%85%E9%92%A2%E4%B8%80%E5%8E%82%E5%8C%BA%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85)
