@@ -14,10 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jan 19 2026 15:31:22 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jan 19 2026 16:36:54 GMT+0800 (China Standard Time) -->
 
-1. [包头包钢一厂区发生爆炸事故](https://www.zhihu.com/search?q=%E5%8C%85%E5%A4%B4%E5%8C%85%E9%92%A2%E4%B8%80%E5%8E%82%E5%8C%BA%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85)
 1. [2025年中国GDP同比增长5%](https://www.zhihu.com/search?q=2025%E5%B9%B4%E4%B8%AD%E5%9B%BDGDP%E5%90%8C%E6%AF%94%E5%A2%9E%E9%95%BF5%25)
+1. [包头包钢一厂区发生爆炸事故](https://www.zhihu.com/search?q=%E5%8C%85%E5%A4%B4%E5%8C%85%E9%92%A2%E4%B8%80%E5%8E%82%E5%8C%BA%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85)
 1. [李湘多平台账号被禁止关注](https://www.zhihu.com/search?q=%E6%9D%8E%E6%B9%98%E5%A4%9A%E5%B9%B3%E5%8F%B0%E8%B4%A6%E5%8F%B7%E8%A2%AB%E7%A6%81%E6%AD%A2%E5%85%B3%E6%B3%A8)
 1. [北京下雪](https://www.zhihu.com/search?q=%E5%8C%97%E4%BA%AC%E4%B8%8B%E9%9B%AA)
 1. [因涨薪20元致歉公司已连续37年涨薪](https://www.zhihu.com/search?q=%E5%9B%A0%E6%B6%A8%E8%96%AA20%E5%85%83%E8%87%B4%E6%AD%89%E5%85%AC%E5%8F%B8%E5%B7%B2%E8%BF%9E%E7%BB%AD37%E5%B9%B4%E6%B6%A8%E8%96%AA)
