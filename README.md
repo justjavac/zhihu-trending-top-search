@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jan 19 2026 14:42:18 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jan 19 2026 15:31:22 GMT+0800 (China Standard Time) -->
 
 1. [包头包钢一厂区发生爆炸事故](https://www.zhihu.com/search?q=%E5%8C%85%E5%A4%B4%E5%8C%85%E9%92%A2%E4%B8%80%E5%8E%82%E5%8C%BA%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85)
 1. [2025年中国GDP同比增长5%](https://www.zhihu.com/search?q=2025%E5%B9%B4%E4%B8%AD%E5%9B%BDGDP%E5%90%8C%E6%AF%94%E5%A2%9E%E9%95%BF5%25)
@@ -22,14 +22,14 @@
 1. [北京下雪](https://www.zhihu.com/search?q=%E5%8C%97%E4%BA%AC%E4%B8%8B%E9%9B%AA)
 1. [因涨薪20元致歉公司已连续37年涨薪](https://www.zhihu.com/search?q=%E5%9B%A0%E6%B6%A8%E8%96%AA20%E5%85%83%E8%87%B4%E6%AD%89%E5%85%AC%E5%8F%B8%E5%B7%B2%E8%BF%9E%E7%BB%AD37%E5%B9%B4%E6%B6%A8%E8%96%AA)
 1. [香港武打明星梁小龙离世](https://www.zhihu.com/search?q=%E9%A6%99%E6%B8%AF%E6%AD%A6%E6%89%93%E6%98%8E%E6%98%9F%E6%A2%81%E5%B0%8F%E9%BE%99%E7%A6%BB%E4%B8%96)
-1. [中国U23男足进入亚洲杯四强](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BDU23%E7%94%B7%E8%B6%B3%E8%BF%9B%E5%85%A5%E4%BA%9A%E6%B4%B2%E6%9D%AF%E5%9B%9B%E5%BC%BA)
 1. [两千万成年人患 ADHD](https://www.zhihu.com/search?q=%E4%B8%A4%E5%8D%83%E4%B8%87%E6%88%90%E5%B9%B4%E4%BA%BA%E6%82%A3%20ADHD)
+1. [中国U23男足进入亚洲杯四强](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BDU23%E7%94%B7%E8%B6%B3%E8%BF%9B%E5%85%A5%E4%BA%9A%E6%B4%B2%E6%9D%AF%E5%9B%9B%E5%BC%BA)
 1. [年轻人开始拒绝升职了](https://www.zhihu.com/search?q=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BC%80%E5%A7%8B%E6%8B%92%E7%BB%9D%E5%8D%87%E8%81%8C%E4%BA%86)
 1. [美因格陵兰岛对欧洲 8 国加税](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%A0%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E5%AF%B9%E6%AC%A7%E6%B4%B2%208%20%E5%9B%BD%E5%8A%A0%E7%A8%8E)
 1. [男孩凌晨 5 点起床写作业突然晕倒](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%A9%E5%87%8C%E6%99%A8%205%20%E7%82%B9%E8%B5%B7%E5%BA%8A%E5%86%99%E4%BD%9C%E4%B8%9A%E7%AA%81%E7%84%B6%E6%99%95%E5%80%92)
+1. [李亚鹏嫣然医院房租争议](https://www.zhihu.com/search?q=%E6%9D%8E%E4%BA%9A%E9%B9%8F%E5%AB%A3%E7%84%B6%E5%8C%BB%E9%99%A2%E6%88%BF%E7%A7%9F%E4%BA%89%E8%AE%AE)
 1. [包钢厂区发生爆炸事故](https://www.zhihu.com/search?q=%E5%8C%85%E9%92%A2%E5%8E%82%E5%8C%BA%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85)
 1. [聂卫平去世](https://www.zhihu.com/search?q=%E8%81%82%E5%8D%AB%E5%B9%B3%E5%8E%BB%E4%B8%96)
-1. [李亚鹏嫣然医院房租争议](https://www.zhihu.com/search?q=%E6%9D%8E%E4%BA%9A%E9%B9%8F%E5%AB%A3%E7%84%B6%E5%8C%BB%E9%99%A2%E6%88%BF%E7%A7%9F%E4%BA%89%E8%AE%AE)
 1. [贾国龙第二篇回应](https://www.zhihu.com/search?q=%E8%B4%BE%E5%9B%BD%E9%BE%99%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%9B%9E%E5%BA%94)
 1. [人民日报评西贝关店事件](https://www.zhihu.com/search?q=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E8%A5%BF%E8%B4%9D%E5%85%B3%E5%BA%97%E4%BA%8B%E4%BB%B6)
 1. [包钢板材厂爆炸致 2 死 5 失联](https://www.zhihu.com/search?q=%E5%8C%85%E9%92%A2%E6%9D%BF%E6%9D%90%E5%8E%82%E7%88%86%E7%82%B8%E8%87%B4%202%20%E6%AD%BB%205%20%E5%A4%B1%E8%81%94)
