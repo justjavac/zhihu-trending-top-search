@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jan 20 2026 18:31:14 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jan 20 2026 19:25:35 GMT+0800 (China Standard Time) -->
 
 1. [两千万成年人患 ADHD](https://www.zhihu.com/search?q=%E4%B8%A4%E5%8D%83%E4%B8%87%E6%88%90%E5%B9%B4%E4%BA%BA%E6%82%A3%20ADHD)
 1. [李湘多平台账号被禁止关注](https://www.zhihu.com/search?q=%E6%9D%8E%E6%B9%98%E5%A4%9A%E5%B9%B3%E5%8F%B0%E8%B4%A6%E5%8F%B7%E8%A2%AB%E7%A6%81%E6%AD%A2%E5%85%B3%E6%B3%A8)
