@@ -14,20 +14,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jan 21 2026 16:35:46 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jan 21 2026 17:35:44 GMT+0800 (China Standard Time) -->
 
 1. [两千万成年人患 ADHD](https://www.zhihu.com/search?q=%E4%B8%A4%E5%8D%83%E4%B8%87%E6%88%90%E5%B9%B4%E4%BA%BA%E6%82%A3%20ADHD)
 1. [安倍晋三遇刺案宣判](https://www.zhihu.com/search?q=%E5%AE%89%E5%80%8D%E6%99%8B%E4%B8%89%E9%81%87%E5%88%BA%E6%A1%88%E5%AE%A3%E5%88%A4)
-1. [年轻人开始拒绝升职了](https://www.zhihu.com/search?q=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BC%80%E5%A7%8B%E6%8B%92%E7%BB%9D%E5%8D%87%E8%81%8C%E4%BA%86)
 1. [U23亚洲杯国足首进决赛](https://www.zhihu.com/search?q=U23%E4%BA%9A%E6%B4%B2%E6%9D%AF%E5%9B%BD%E8%B6%B3%E9%A6%96%E8%BF%9B%E5%86%B3%E8%B5%9B)
 1. [嫣然医院房东回应翻倍涨租](https://www.zhihu.com/search?q=%E5%AB%A3%E7%84%B6%E5%8C%BB%E9%99%A2%E6%88%BF%E4%B8%9C%E5%9B%9E%E5%BA%94%E7%BF%BB%E5%80%8D%E6%B6%A8%E7%A7%9F)
 1. [多地叫停「刨猪宴」](https://www.zhihu.com/search?q=%E5%A4%9A%E5%9C%B0%E5%8F%AB%E5%81%9C%E3%80%8C%E5%88%A8%E7%8C%AA%E5%AE%B4%E3%80%8D)
 1. [李亚鹏嫣然医院房租争议](https://www.zhihu.com/search?q=%E6%9D%8E%E4%BA%9A%E9%B9%8F%E5%AB%A3%E7%84%B6%E5%8C%BB%E9%99%A2%E6%88%BF%E7%A7%9F%E4%BA%89%E8%AE%AE)
-1. [美因格陵兰岛对欧洲 8 国加税](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%A0%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E5%AF%B9%E6%AC%A7%E6%B4%B2%208%20%E5%9B%BD%E5%8A%A0%E7%A8%8E)
 1. [50万亿天量存款将到期](https://www.zhihu.com/search?q=50%E4%B8%87%E4%BA%BF%E5%A4%A9%E9%87%8F%E5%AD%98%E6%AC%BE%E5%B0%86%E5%88%B0%E6%9C%9F)
-1. [拼多多因未报涉税信息被处罚](https://www.zhihu.com/search?q=%E6%8B%BC%E5%A4%9A%E5%A4%9A%E5%9B%A0%E6%9C%AA%E6%8A%A5%E6%B6%89%E7%A8%8E%E4%BF%A1%E6%81%AF%E8%A2%AB%E5%A4%84%E7%BD%9A)
+1. [美因格陵兰岛对欧洲 8 国加税](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%A0%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E5%AF%B9%E6%AC%A7%E6%B4%B2%208%20%E5%9B%BD%E5%8A%A0%E7%A8%8E)
 1. [人民日报再评西贝事件](https://www.zhihu.com/search?q=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E5%86%8D%E8%AF%84%E8%A5%BF%E8%B4%9D%E4%BA%8B%E4%BB%B6)
+1. [拼多多因未报涉税信息被处罚](https://www.zhihu.com/search?q=%E6%8B%BC%E5%A4%9A%E5%A4%9A%E5%9B%A0%E6%9C%AA%E6%8A%A5%E6%B6%89%E7%A8%8E%E4%BF%A1%E6%81%AF%E8%A2%AB%E5%A4%84%E7%BD%9A)
 1. [U23亚洲杯半决赛国足首进决赛](https://www.zhihu.com/search?q=U23%E4%BA%9A%E6%B4%B2%E6%9D%AF%E5%8D%8A%E5%86%B3%E8%B5%9B%E5%9B%BD%E8%B6%B3%E9%A6%96%E8%BF%9B%E5%86%B3%E8%B5%9B)
+1. [云南女婴在母婴店泡药浴后离世](https://www.zhihu.com/search?q=%E4%BA%91%E5%8D%97%E5%A5%B3%E5%A9%B4%E5%9C%A8%E6%AF%8D%E5%A9%B4%E5%BA%97%E6%B3%A1%E8%8D%AF%E6%B5%B4%E5%90%8E%E7%A6%BB%E4%B8%96)
+1. [年轻人开始拒绝升职了](https://www.zhihu.com/search?q=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BC%80%E5%A7%8B%E6%8B%92%E7%BB%9D%E5%8D%87%E8%81%8C%E4%BA%86)
 1. [2025年中国GDP同比增长5%](https://www.zhihu.com/search?q=2025%E5%B9%B4%E4%B8%AD%E5%9B%BDGDP%E5%90%8C%E6%AF%94%E5%A2%9E%E9%95%BF5%25)
 1. [华伦天奴创始人瓦伦蒂诺去世](https://www.zhihu.com/search?q=%E5%8D%8E%E4%BC%A6%E5%A4%A9%E5%A5%B4%E5%88%9B%E5%A7%8B%E4%BA%BA%E7%93%A6%E4%BC%A6%E8%92%82%E8%AF%BA%E5%8E%BB%E4%B8%96)
 1. [安倍晋三遇刺案即将宣判](https://www.zhihu.com/search?q=%E5%AE%89%E5%80%8D%E6%99%8B%E4%B8%89%E9%81%87%E5%88%BA%E6%A1%88%E5%8D%B3%E5%B0%86%E5%AE%A3%E5%88%A4)
