@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jan 22 2026 04:34:32 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jan 22 2026 05:30:46 GMT+0800 (China Standard Time) -->
 
 1. [U23亚洲杯国足首进决赛](https://www.zhihu.com/search?q=U23%E4%BA%9A%E6%B4%B2%E6%9D%AF%E5%9B%BD%E8%B6%B3%E9%A6%96%E8%BF%9B%E5%86%B3%E8%B5%9B)
 1. [安倍晋三遇刺案宣判](https://www.zhihu.com/search?q=%E5%AE%89%E5%80%8D%E6%99%8B%E4%B8%89%E9%81%87%E5%88%BA%E6%A1%88%E5%AE%A3%E5%88%A4)
@@ -25,9 +25,10 @@
 1. [拼多多因未报涉税信息被处罚](https://www.zhihu.com/search?q=%E6%8B%BC%E5%A4%9A%E5%A4%9A%E5%9B%A0%E6%9C%AA%E6%8A%A5%E6%B6%89%E7%A8%8E%E4%BF%A1%E6%81%AF%E8%A2%AB%E5%A4%84%E7%BD%9A)
 1. [癌症妈妈碰瓷被儿子怒斥](https://www.zhihu.com/search?q=%E7%99%8C%E7%97%87%E5%A6%88%E5%A6%88%E7%A2%B0%E7%93%B7%E8%A2%AB%E5%84%BF%E5%AD%90%E6%80%92%E6%96%A5)
 1. [美财长：斩杀线是拜登的锅](https://www.zhihu.com/search?q=%E7%BE%8E%E8%B4%A2%E9%95%BF%EF%BC%9A%E6%96%A9%E6%9D%80%E7%BA%BF%E6%98%AF%E6%8B%9C%E7%99%BB%E7%9A%84%E9%94%85)
-1. [嫣然医院](https://www.zhihu.com/search?q=%E5%AB%A3%E7%84%B6%E5%8C%BB%E9%99%A2)
 1. [嫣然医院声明正推进新址找寻](https://www.zhihu.com/search?q=%E5%AB%A3%E7%84%B6%E5%8C%BB%E9%99%A2%E5%A3%B0%E6%98%8E%E6%AD%A3%E6%8E%A8%E8%BF%9B%E6%96%B0%E5%9D%80%E6%89%BE%E5%AF%BB)
 1. [贝克汉姆间接回应儿子控诉](https://www.zhihu.com/search?q=%E8%B4%9D%E5%85%8B%E6%B1%89%E5%A7%86%E9%97%B4%E6%8E%A5%E5%9B%9E%E5%BA%94%E5%84%BF%E5%AD%90%E6%8E%A7%E8%AF%89)
+1. [美特工破门抓走老挝裔美公民](https://www.zhihu.com/search?q=%E7%BE%8E%E7%89%B9%E5%B7%A5%E7%A0%B4%E9%97%A8%E6%8A%93%E8%B5%B0%E8%80%81%E6%8C%9D%E8%A3%94%E7%BE%8E%E5%85%AC%E6%B0%91)
+1. [嫣然医院](https://www.zhihu.com/search?q=%E5%AB%A3%E7%84%B6%E5%8C%BB%E9%99%A2)
 1. [包钢厂区爆炸已致10死84伤](https://www.zhihu.com/search?q=%E5%8C%85%E9%92%A2%E5%8E%82%E5%8C%BA%E7%88%86%E7%82%B8%E5%B7%B2%E8%87%B410%E6%AD%BB84%E4%BC%A4)
 1. [特朗普2.0任期一周年](https://www.zhihu.com/search?q=%E7%89%B9%E6%9C%97%E6%99%AE2.0%E4%BB%BB%E6%9C%9F%E4%B8%80%E5%91%A8%E5%B9%B4)
 
