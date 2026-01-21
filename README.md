@@ -14,10 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jan 21 2026 12:06:34 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jan 21 2026 13:31:00 GMT+0800 (China Standard Time) -->
 
 1. [U23亚洲杯国足首进决赛](https://www.zhihu.com/search?q=U23%E4%BA%9A%E6%B4%B2%E6%9D%AF%E5%9B%BD%E8%B6%B3%E9%A6%96%E8%BF%9B%E5%86%B3%E8%B5%9B)
-1. [安倍晋三遇刺案即将宣判](https://www.zhihu.com/search?q=%E5%AE%89%E5%80%8D%E6%99%8B%E4%B8%89%E9%81%87%E5%88%BA%E6%A1%88%E5%8D%B3%E5%B0%86%E5%AE%A3%E5%88%A4)
+1. [安倍晋三遇刺案宣判](https://www.zhihu.com/search?q=%E5%AE%89%E5%80%8D%E6%99%8B%E4%B8%89%E9%81%87%E5%88%BA%E6%A1%88%E5%AE%A3%E5%88%A4)
 1. [两千万成年人患 ADHD](https://www.zhihu.com/search?q=%E4%B8%A4%E5%8D%83%E4%B8%87%E6%88%90%E5%B9%B4%E4%BA%BA%E6%82%A3%20ADHD)
 1. [年轻人开始拒绝升职了](https://www.zhihu.com/search?q=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BC%80%E5%A7%8B%E6%8B%92%E7%BB%9D%E5%8D%87%E8%81%8C%E4%BA%86)
 1. [嫣然医院房东回应翻倍涨租](https://www.zhihu.com/search?q=%E5%AB%A3%E7%84%B6%E5%8C%BB%E9%99%A2%E6%88%BF%E4%B8%9C%E5%9B%9E%E5%BA%94%E7%BF%BB%E5%80%8D%E6%B6%A8%E7%A7%9F)
@@ -28,6 +28,7 @@
 1. [美因格陵兰岛对欧洲 8 国加税](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%A0%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E5%AF%B9%E6%AC%A7%E6%B4%B2%208%20%E5%9B%BD%E5%8A%A0%E7%A8%8E)
 1. [人民日报再评西贝事件](https://www.zhihu.com/search?q=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E5%86%8D%E8%AF%84%E8%A5%BF%E8%B4%9D%E4%BA%8B%E4%BB%B6)
 1. [50万亿天量存款将到期](https://www.zhihu.com/search?q=50%E4%B8%87%E4%BA%BF%E5%A4%A9%E9%87%8F%E5%AD%98%E6%AC%BE%E5%B0%86%E5%88%B0%E6%9C%9F)
+1. [安倍晋三遇刺案即将宣判](https://www.zhihu.com/search?q=%E5%AE%89%E5%80%8D%E6%99%8B%E4%B8%89%E9%81%87%E5%88%BA%E6%A1%88%E5%8D%B3%E5%B0%86%E5%AE%A3%E5%88%A4)
 1. [警方通报叶文斌在柬失联](https://www.zhihu.com/search?q=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%8F%B6%E6%96%87%E6%96%8C%E5%9C%A8%E6%9F%AC%E5%A4%B1%E8%81%94)
 1. [骂人违法最高可判三年](https://www.zhihu.com/search?q=%E9%AA%82%E4%BA%BA%E8%BF%9D%E6%B3%95%E6%9C%80%E9%AB%98%E5%8F%AF%E5%88%A4%E4%B8%89%E5%B9%B4)
 1. [上海南京杭州下雪](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E5%8D%97%E4%BA%AC%E6%9D%AD%E5%B7%9E%E4%B8%8B%E9%9B%AA)
