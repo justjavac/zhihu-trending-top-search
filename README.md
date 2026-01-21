@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jan 22 2026 06:28:08 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jan 22 2026 07:28:34 GMT+0800 (China Standard Time) -->
 
 1. [U23亚洲杯国足首进决赛](https://www.zhihu.com/search?q=U23%E4%BA%9A%E6%B4%B2%E6%9D%AF%E5%9B%BD%E8%B6%B3%E9%A6%96%E8%BF%9B%E5%86%B3%E8%B5%9B)
 1. [安倍晋三遇刺案宣判](https://www.zhihu.com/search?q=%E5%AE%89%E5%80%8D%E6%99%8B%E4%B8%89%E9%81%87%E5%88%BA%E6%A1%88%E5%AE%A3%E5%88%A4)
