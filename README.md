@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jan 22 2026 13:31:10 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jan 22 2026 14:39:18 GMT+0800 (China Standard Time) -->
 
 1. [U23亚洲杯国足首进决赛](https://www.zhihu.com/search?q=U23%E4%BA%9A%E6%B4%B2%E6%9D%AF%E5%9B%BD%E8%B6%B3%E9%A6%96%E8%BF%9B%E5%86%B3%E8%B5%9B)
 1. [美国正式退出世界卫生组织](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E6%AD%A3%E5%BC%8F%E9%80%80%E5%87%BA%E4%B8%96%E7%95%8C%E5%8D%AB%E7%94%9F%E7%BB%84%E7%BB%87)
@@ -27,6 +27,7 @@
 1. [嫣然医院声明正推进新址找寻](https://www.zhihu.com/search?q=%E5%AB%A3%E7%84%B6%E5%8C%BB%E9%99%A2%E5%A3%B0%E6%98%8E%E6%AD%A3%E6%8E%A8%E8%BF%9B%E6%96%B0%E5%9D%80%E6%89%BE%E5%AF%BB)
 1. [程序员周末猝死后还收到工作消息](https://www.zhihu.com/search?q=%E7%A8%8B%E5%BA%8F%E5%91%98%E5%91%A8%E6%9C%AB%E7%8C%9D%E6%AD%BB%E5%90%8E%E8%BF%98%E6%94%B6%E5%88%B0%E5%B7%A5%E4%BD%9C%E6%B6%88%E6%81%AF)
 1. [西贝获新荣记创始人等多方投资](https://www.zhihu.com/search?q=%E8%A5%BF%E8%B4%9D%E8%8E%B7%E6%96%B0%E8%8D%A3%E8%AE%B0%E5%88%9B%E5%A7%8B%E4%BA%BA%E7%AD%89%E5%A4%9A%E6%96%B9%E6%8A%95%E8%B5%84)
+1. [微信聊天导出工具被迫下架](https://www.zhihu.com/search?q=%E5%BE%AE%E4%BF%A1%E8%81%8A%E5%A4%A9%E5%AF%BC%E5%87%BA%E5%B7%A5%E5%85%B7%E8%A2%AB%E8%BF%AB%E4%B8%8B%E6%9E%B6)
 1. [邯郸学院高层次人才疑招四名水博](https://www.zhihu.com/search?q=%E9%82%AF%E9%83%B8%E5%AD%A6%E9%99%A2%E9%AB%98%E5%B1%82%E6%AC%A1%E4%BA%BA%E6%89%8D%E7%96%91%E6%8B%9B%E5%9B%9B%E5%90%8D%E6%B0%B4%E5%8D%9A)
 1. [多地叫停「刨猪宴」](https://www.zhihu.com/search?q=%E5%A4%9A%E5%9C%B0%E5%8F%AB%E5%81%9C%E3%80%8C%E5%88%A8%E7%8C%AA%E5%AE%B4%E3%80%8D)
 1. [贝克汉姆间接回应儿子控诉](https://www.zhihu.com/search?q=%E8%B4%9D%E5%85%8B%E6%B1%89%E5%A7%86%E9%97%B4%E6%8E%A5%E5%9B%9E%E5%BA%94%E5%84%BF%E5%AD%90%E6%8E%A7%E8%AF%89)
