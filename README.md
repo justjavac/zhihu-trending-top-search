@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jan 25 2026 04:24:59 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jan 25 2026 05:20:45 GMT+0800 (China Standard Time) -->
 
 1. [U23 国足0-4日本](https://www.zhihu.com/search?q=U23%20%E5%9B%BD%E8%B6%B30-4%E6%97%A5%E6%9C%AC)
 1. [哈佛女孩斥牢A说谎](https://www.zhihu.com/search?q=%E5%93%88%E4%BD%9B%E5%A5%B3%E5%AD%A9%E6%96%A5%E7%89%A2A%E8%AF%B4%E8%B0%8E)
