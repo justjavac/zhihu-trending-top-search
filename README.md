@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jan 25 2026 19:19:59 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jan 25 2026 20:48:56 GMT+0800 (China Standard Time) -->
 
 1. [哈佛女孩斥牢A说谎](https://www.zhihu.com/search?q=%E5%93%88%E4%BD%9B%E5%A5%B3%E5%AD%A9%E6%96%A5%E7%89%A2A%E8%AF%B4%E8%B0%8E)
 1. [U23 国足0-4日本](https://www.zhihu.com/search?q=U23%20%E5%9B%BD%E8%B6%B30-4%E6%97%A5%E6%9C%AC)
@@ -27,6 +27,7 @@
 1. [女子戴透视眼镜打麻将被抓](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E6%88%B4%E9%80%8F%E8%A7%86%E7%9C%BC%E9%95%9C%E6%89%93%E9%BA%BB%E5%B0%86%E8%A2%AB%E6%8A%93)
 1. [亚洲杯](https://www.zhihu.com/search?q=%E4%BA%9A%E6%B4%B2%E6%9D%AF)
 1. [李亚鹏直播带货商品秒没](https://www.zhihu.com/search?q=%E6%9D%8E%E4%BA%9A%E9%B9%8F%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7%E5%95%86%E5%93%81%E7%A7%92%E6%B2%A1)
+1. [女教师宿舍病亡两天后被发现](https://www.zhihu.com/search?q=%E5%A5%B3%E6%95%99%E5%B8%88%E5%AE%BF%E8%88%8D%E7%97%85%E4%BA%A1%E4%B8%A4%E5%A4%A9%E5%90%8E%E8%A2%AB%E5%8F%91%E7%8E%B0)
 1. [嫣然医院与基金的账本迷局](https://www.zhihu.com/search?q=%E5%AB%A3%E7%84%B6%E5%8C%BB%E9%99%A2%E4%B8%8E%E5%9F%BA%E9%87%91%E7%9A%84%E8%B4%A6%E6%9C%AC%E8%BF%B7%E5%B1%80)
 1. [Alex Honnold徒手攀登台北101](https://www.zhihu.com/search?q=Alex%20Honnold%E5%BE%92%E6%89%8B%E6%94%80%E7%99%BB%E5%8F%B0%E5%8C%97101)
 1. [央媒曝光发图晒娃隐藏风险](https://www.zhihu.com/search?q=%E5%A4%AE%E5%AA%92%E6%9B%9D%E5%85%89%E5%8F%91%E5%9B%BE%E6%99%92%E5%A8%83%E9%9A%90%E8%97%8F%E9%A3%8E%E9%99%A9)
