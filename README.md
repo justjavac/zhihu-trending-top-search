@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jan 28 2026 01:30:14 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jan 28 2026 02:42:29 GMT+0800 (China Standard Time) -->
 
 1. [武汉病毒所发现高效抑制尼帕病毒药物](https://www.zhihu.com/search?q=%E6%AD%A6%E6%B1%89%E7%97%85%E6%AF%92%E6%89%80%E5%8F%91%E7%8E%B0%E9%AB%98%E6%95%88%E6%8A%91%E5%88%B6%E5%B0%BC%E5%B8%95%E7%97%85%E6%AF%92%E8%8D%AF%E7%89%A9)
 1. [贾国龙称不再打造个人IP](https://www.zhihu.com/search?q=%E8%B4%BE%E5%9B%BD%E9%BE%99%E7%A7%B0%E4%B8%8D%E5%86%8D%E6%89%93%E9%80%A0%E4%B8%AA%E4%BA%BAIP)
