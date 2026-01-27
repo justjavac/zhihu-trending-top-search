@@ -14,19 +14,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jan 27 2026 10:04:12 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jan 27 2026 12:08:25 GMT+0800 (China Standard Time) -->
 
-1. [印度一邦暴发尼帕病毒疫情](https://www.zhihu.com/search?q=%E5%8D%B0%E5%BA%A6%E4%B8%80%E9%82%A6%E6%9A%B4%E5%8F%91%E5%B0%BC%E5%B8%95%E7%97%85%E6%AF%92%E7%96%AB%E6%83%85)
-1. [车王舒马赫脑损伤后可坐轮椅](https://www.zhihu.com/search?q=%E8%BD%A6%E7%8E%8B%E8%88%92%E9%A9%AC%E8%B5%AB%E8%84%91%E6%8D%9F%E4%BC%A4%E5%90%8E%E5%8F%AF%E5%9D%90%E8%BD%AE%E6%A4%85)
+1. [印度暴发尼帕病毒疫情](https://www.zhihu.com/search?q=%E5%8D%B0%E5%BA%A6%E6%9A%B4%E5%8F%91%E5%B0%BC%E5%B8%95%E7%97%85%E6%AF%92%E7%96%AB%E6%83%85)
+1. [武汉病毒所发现高效抑制尼帕病毒药物](https://www.zhihu.com/search?q=%E6%AD%A6%E6%B1%89%E7%97%85%E6%AF%92%E6%89%80%E5%8F%91%E7%8E%B0%E9%AB%98%E6%95%88%E6%8A%91%E5%88%B6%E5%B0%BC%E5%B8%95%E7%97%85%E6%AF%92%E8%8D%AF%E7%89%A9)
 1. [甘肃甘南州迭部县 5.5 级地震](https://www.zhihu.com/search?q=%E7%94%98%E8%82%83%E7%94%98%E5%8D%97%E5%B7%9E%E8%BF%AD%E9%83%A8%E5%8E%BF%205.5%20%E7%BA%A7%E5%9C%B0%E9%9C%87)
+1. [车王舒马赫脑损伤后可坐轮椅](https://www.zhihu.com/search?q=%E8%BD%A6%E7%8E%8B%E8%88%92%E9%A9%AC%E8%B5%AB%E8%84%91%E6%8D%9F%E4%BC%A4%E5%90%8E%E5%8F%AF%E5%9D%90%E8%BD%AE%E6%A4%85)
 1. [牢A三通一达是什么](https://www.zhihu.com/search?q=%E7%89%A2A%E4%B8%89%E9%80%9A%E4%B8%80%E8%BE%BE%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [张雨绮遭葛晓倩实名举报](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%A8%E7%BB%AE%E9%81%AD%E8%91%9B%E6%99%93%E5%80%A9%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5)
+1. [贾国龙称不再打造个人IP](https://www.zhihu.com/search?q=%E8%B4%BE%E5%9B%BD%E9%BE%99%E7%A7%B0%E4%B8%8D%E5%86%8D%E6%89%93%E9%80%A0%E4%B8%AA%E4%BA%BAIP)
 1. [U23 国足0-4日本](https://www.zhihu.com/search?q=U23%20%E5%9B%BD%E8%B6%B30-4%E6%97%A5%E6%9C%AC)
 1. [程序员周末猝死后还收到工作消息](https://www.zhihu.com/search?q=%E7%A8%8B%E5%BA%8F%E5%91%98%E5%91%A8%E6%9C%AB%E7%8C%9D%E6%AD%BB%E5%90%8E%E8%BF%98%E6%94%B6%E5%88%B0%E5%B7%A5%E4%BD%9C%E6%B6%88%E6%81%AF)
-1. [贾国龙称不再打造个人IP](https://www.zhihu.com/search?q=%E8%B4%BE%E5%9B%BD%E9%BE%99%E7%A7%B0%E4%B8%8D%E5%86%8D%E6%89%93%E9%80%A0%E4%B8%AA%E4%BA%BAIP)
 1. [美又一居民遭联邦执法人员枪击身亡](https://www.zhihu.com/search?q=%E7%BE%8E%E5%8F%88%E4%B8%80%E5%B1%85%E6%B0%91%E9%81%AD%E8%81%94%E9%82%A6%E6%89%A7%E6%B3%95%E4%BA%BA%E5%91%98%E6%9E%AA%E5%87%BB%E8%BA%AB%E4%BA%A1)
-1. [短剧女主全年无休拍了48部戏](https://www.zhihu.com/search?q=%E7%9F%AD%E5%89%A7%E5%A5%B3%E4%B8%BB%E5%85%A8%E5%B9%B4%E6%97%A0%E4%BC%91%E6%8B%8D%E4%BA%8648%E9%83%A8%E6%88%8F)
 1. [49 条中日航线取消全部航班](https://www.zhihu.com/search?q=49%20%E6%9D%A1%E4%B8%AD%E6%97%A5%E8%88%AA%E7%BA%BF%E5%8F%96%E6%B6%88%E5%85%A8%E9%83%A8%E8%88%AA%E7%8F%AD)
+1. [短剧女主全年无休拍了48部戏](https://www.zhihu.com/search?q=%E7%9F%AD%E5%89%A7%E5%A5%B3%E4%B8%BB%E5%85%A8%E5%B9%B4%E6%97%A0%E4%BC%91%E6%8B%8D%E4%BA%8648%E9%83%A8%E6%88%8F)
+1. [印度一邦暴发尼帕病毒疫情](https://www.zhihu.com/search?q=%E5%8D%B0%E5%BA%A6%E4%B8%80%E9%82%A6%E6%9A%B4%E5%8F%91%E5%B0%BC%E5%B8%95%E7%97%85%E6%AF%92%E7%96%AB%E6%83%85)
 1. [金价突破 5000 美元](https://www.zhihu.com/search?q=%E9%87%91%E4%BB%B7%E7%AA%81%E7%A0%B4%205000%20%E7%BE%8E%E5%85%83)
 1. [黄金价格突破5000美元](https://www.zhihu.com/search?q=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E7%AA%81%E7%A0%B45000%E7%BE%8E%E5%85%83)
 1. [美军召集 34 国军方高官开会](https://www.zhihu.com/search?q=%E7%BE%8E%E5%86%9B%E5%8F%AC%E9%9B%86%2034%20%E5%9B%BD%E5%86%9B%E6%96%B9%E9%AB%98%E5%AE%98%E5%BC%80%E4%BC%9A)
