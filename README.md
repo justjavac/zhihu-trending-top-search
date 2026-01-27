@@ -14,12 +14,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jan 27 2026 16:36:39 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jan 27 2026 17:35:54 GMT+0800 (China Standard Time) -->
 
-1. [印度暴发尼帕病毒疫情](https://www.zhihu.com/search?q=%E5%8D%B0%E5%BA%A6%E6%9A%B4%E5%8F%91%E5%B0%BC%E5%B8%95%E7%97%85%E6%AF%92%E7%96%AB%E6%83%85)
+1. [贾国龙称不再打造个人IP](https://www.zhihu.com/search?q=%E8%B4%BE%E5%9B%BD%E9%BE%99%E7%A7%B0%E4%B8%8D%E5%86%8D%E6%89%93%E9%80%A0%E4%B8%AA%E4%BA%BAIP)
 1. [武汉病毒所发现高效抑制尼帕病毒药物](https://www.zhihu.com/search?q=%E6%AD%A6%E6%B1%89%E7%97%85%E6%AF%92%E6%89%80%E5%8F%91%E7%8E%B0%E9%AB%98%E6%95%88%E6%8A%91%E5%88%B6%E5%B0%BC%E5%B8%95%E7%97%85%E6%AF%92%E8%8D%AF%E7%89%A9)
 1. [甘肃甘南州迭部县 5.5 级地震](https://www.zhihu.com/search?q=%E7%94%98%E8%82%83%E7%94%98%E5%8D%97%E5%B7%9E%E8%BF%AD%E9%83%A8%E5%8E%BF%205.5%20%E7%BA%A7%E5%9C%B0%E9%9C%87)
-1. [贾国龙称不再打造个人IP](https://www.zhihu.com/search?q=%E8%B4%BE%E5%9B%BD%E9%BE%99%E7%A7%B0%E4%B8%8D%E5%86%8D%E6%89%93%E9%80%A0%E4%B8%AA%E4%BA%BAIP)
 1. [程序员周末猝死后还收到工作消息](https://www.zhihu.com/search?q=%E7%A8%8B%E5%BA%8F%E5%91%98%E5%91%A8%E6%9C%AB%E7%8C%9D%E6%AD%BB%E5%90%8E%E8%BF%98%E6%94%B6%E5%88%B0%E5%B7%A5%E4%BD%9C%E6%B6%88%E6%81%AF)
 1. [U23 国足0-4日本](https://www.zhihu.com/search?q=U23%20%E5%9B%BD%E8%B6%B30-4%E6%97%A5%E6%9C%AC)
 1. [49 条中日航线取消全部航班](https://www.zhihu.com/search?q=49%20%E6%9D%A1%E4%B8%AD%E6%97%A5%E8%88%AA%E7%BA%BF%E5%8F%96%E6%B6%88%E5%85%A8%E9%83%A8%E8%88%AA%E7%8F%AD)
@@ -28,8 +27,9 @@
 1. [外交部：春节期间避免前往日本](https://www.zhihu.com/search?q=%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E6%98%A5%E8%8A%82%E6%9C%9F%E9%97%B4%E9%81%BF%E5%85%8D%E5%89%8D%E5%BE%80%E6%97%A5%E6%9C%AC)
 1. [王岳伦否认李湘涉缅北诈骗](https://www.zhihu.com/search?q=%E7%8E%8B%E5%B2%B3%E4%BC%A6%E5%90%A6%E8%AE%A4%E6%9D%8E%E6%B9%98%E6%B6%89%E7%BC%85%E5%8C%97%E8%AF%88%E9%AA%97)
 1. [中国人吃掉9成智利车厘子](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%90%83%E6%8E%899%E6%88%90%E6%99%BA%E5%88%A9%E8%BD%A6%E5%8E%98%E5%AD%90)
-1. [张雨绮遭葛晓倩实名举报](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%A8%E7%BB%AE%E9%81%AD%E8%91%9B%E6%99%93%E5%80%A9%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5)
 1. [金价突破 5000 美元](https://www.zhihu.com/search?q=%E9%87%91%E4%BB%B7%E7%AA%81%E7%A0%B4%205000%20%E7%BE%8E%E5%85%83)
+1. [印度暴发尼帕病毒疫情](https://www.zhihu.com/search?q=%E5%8D%B0%E5%BA%A6%E6%9A%B4%E5%8F%91%E5%B0%BC%E5%B8%95%E7%97%85%E6%AF%92%E7%96%AB%E6%83%85)
+1. [张雨绮遭葛晓倩实名举报](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%A8%E7%BB%AE%E9%81%AD%E8%91%9B%E6%99%93%E5%80%A9%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5)
 1. [美又一居民遭联邦执法人员枪击身亡](https://www.zhihu.com/search?q=%E7%BE%8E%E5%8F%88%E4%B8%80%E5%B1%85%E6%B0%91%E9%81%AD%E8%81%94%E9%82%A6%E6%89%A7%E6%B3%95%E4%BA%BA%E5%91%98%E6%9E%AA%E5%87%BB%E8%BA%AB%E4%BA%A1)
 1. [牢A三通一达是什么](https://www.zhihu.com/search?q=%E7%89%A2A%E4%B8%89%E9%80%9A%E4%B8%80%E8%BE%BE%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [印度一邦暴发尼帕病毒疫情](https://www.zhihu.com/search?q=%E5%8D%B0%E5%BA%A6%E4%B8%80%E9%82%A6%E6%9A%B4%E5%8F%91%E5%B0%BC%E5%B8%95%E7%97%85%E6%AF%92%E7%96%AB%E6%83%85)
