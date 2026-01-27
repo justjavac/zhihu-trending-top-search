@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jan 27 2026 22:33:18 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jan 27 2026 23:33:25 GMT+0800 (China Standard Time) -->
 
 1. [武汉病毒所发现高效抑制尼帕病毒药物](https://www.zhihu.com/search?q=%E6%AD%A6%E6%B1%89%E7%97%85%E6%AF%92%E6%89%80%E5%8F%91%E7%8E%B0%E9%AB%98%E6%95%88%E6%8A%91%E5%88%B6%E5%B0%BC%E5%B8%95%E7%97%85%E6%AF%92%E8%8D%AF%E7%89%A9)
 1. [贾国龙称不再打造个人IP](https://www.zhihu.com/search?q=%E8%B4%BE%E5%9B%BD%E9%BE%99%E7%A7%B0%E4%B8%8D%E5%86%8D%E6%89%93%E9%80%A0%E4%B8%AA%E4%BA%BAIP)
@@ -25,8 +25,9 @@
 1. [外交部：春节期间避免前往日本](https://www.zhihu.com/search?q=%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E6%98%A5%E8%8A%82%E6%9C%9F%E9%97%B4%E9%81%BF%E5%85%8D%E5%89%8D%E5%BE%80%E6%97%A5%E6%9C%AC)
 1. [中国人吃掉9成智利车厘子](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%90%83%E6%8E%899%E6%88%90%E6%99%BA%E5%88%A9%E8%BD%A6%E5%8E%98%E5%AD%90)
 1. [甘肃甘南州迭部县 5.5 级地震](https://www.zhihu.com/search?q=%E7%94%98%E8%82%83%E7%94%98%E5%8D%97%E5%B7%9E%E8%BF%AD%E9%83%A8%E5%8E%BF%205.5%20%E7%BA%A7%E5%9C%B0%E9%9C%87)
-1. [金价突破 5000 美元](https://www.zhihu.com/search?q=%E9%87%91%E4%BB%B7%E7%AA%81%E7%A0%B4%205000%20%E7%BE%8E%E5%85%83)
 1. [长期循环广告歌对店员的心理影响](https://www.zhihu.com/search?q=%E9%95%BF%E6%9C%9F%E5%BE%AA%E7%8E%AF%E5%B9%BF%E5%91%8A%E6%AD%8C%E5%AF%B9%E5%BA%97%E5%91%98%E7%9A%84%E5%BF%83%E7%90%86%E5%BD%B1%E5%93%8D)
+1. [金价突破 5000 美元](https://www.zhihu.com/search?q=%E9%87%91%E4%BB%B7%E7%AA%81%E7%A0%B4%205000%20%E7%BE%8E%E5%85%83)
+1. [武汉理工毕业生回应当保安被约谈](https://www.zhihu.com/search?q=%E6%AD%A6%E6%B1%89%E7%90%86%E5%B7%A5%E6%AF%95%E4%B8%9A%E7%94%9F%E5%9B%9E%E5%BA%94%E5%BD%93%E4%BF%9D%E5%AE%89%E8%A2%AB%E7%BA%A6%E8%B0%88)
 1. [iPhone Air官方价格暴跌2000元](https://www.zhihu.com/search?q=iPhone%20Air%E5%AE%98%E6%96%B9%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C2000%E5%85%83)
 1. [U23 国足0-4日本](https://www.zhihu.com/search?q=U23%20%E5%9B%BD%E8%B6%B30-4%E6%97%A5%E6%9C%AC)
 1. [王岳伦否认李湘涉缅北诈骗](https://www.zhihu.com/search?q=%E7%8E%8B%E5%B2%B3%E4%BC%A6%E5%90%A6%E8%AE%A4%E6%9D%8E%E6%B9%98%E6%B6%89%E7%BC%85%E5%8C%97%E8%AF%88%E9%AA%97)
