@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jan 29 2026 02:40:53 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jan 29 2026 03:31:55 GMT+0800 (China Standard Time) -->
 
 1. [大批中成药将退出市场](https://www.zhihu.com/search?q=%E5%A4%A7%E6%89%B9%E4%B8%AD%E6%88%90%E8%8D%AF%E5%B0%86%E9%80%80%E5%87%BA%E5%B8%82%E5%9C%BA)
 1. [贝加尔湖冰面翻车致中国游客 1 死 4 伤](https://www.zhihu.com/search?q=%E8%B4%9D%E5%8A%A0%E5%B0%94%E6%B9%96%E5%86%B0%E9%9D%A2%E7%BF%BB%E8%BD%A6%E8%87%B4%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%201%20%E6%AD%BB%204%20%E4%BC%A4)
