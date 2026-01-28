@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jan 29 2026 05:32:06 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jan 29 2026 06:29:52 GMT+0800 (China Standard Time) -->
 
 1. [大批中成药将退出市场](https://www.zhihu.com/search?q=%E5%A4%A7%E6%89%B9%E4%B8%AD%E6%88%90%E8%8D%AF%E5%B0%86%E9%80%80%E5%87%BA%E5%B8%82%E5%9C%BA)
 1. [49 条中日航线取消全部航班](https://www.zhihu.com/search?q=49%20%E6%9D%A1%E4%B8%AD%E6%97%A5%E8%88%AA%E7%BA%BF%E5%8F%96%E6%B6%88%E5%85%A8%E9%83%A8%E8%88%AA%E7%8F%AD)
