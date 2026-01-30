@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jan 30 2026 16:43:15 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jan 30 2026 17:41:32 GMT+0800 (China Standard Time) -->
 
 1. [金晨疑似肇事逃逸助理顶包](https://www.zhihu.com/search?q=%E9%87%91%E6%99%A8%E7%96%91%E4%BC%BC%E8%82%87%E4%BA%8B%E9%80%83%E9%80%B8%E5%8A%A9%E7%90%86%E9%A1%B6%E5%8C%85)
 1. [大批中成药将退出市场](https://www.zhihu.com/search?q=%E5%A4%A7%E6%89%B9%E4%B8%AD%E6%88%90%E8%8D%AF%E5%B0%86%E9%80%80%E5%87%BA%E5%B8%82%E5%9C%BA)
@@ -26,8 +26,9 @@
 1. [英国首相斯塔默正式访华](https://www.zhihu.com/search?q=%E8%8B%B1%E5%9B%BD%E9%A6%96%E7%9B%B8%E6%96%AF%E5%A1%94%E9%BB%98%E6%AD%A3%E5%BC%8F%E8%AE%BF%E5%8D%8E)
 1. [张学友婉拒四大天王合体](https://www.zhihu.com/search?q=%E5%BC%A0%E5%AD%A6%E5%8F%8B%E5%A9%89%E6%8B%92%E5%9B%9B%E5%A4%A7%E5%A4%A9%E7%8E%8B%E5%90%88%E4%BD%93)
 1. [孙俪杨幂获总台视后](https://www.zhihu.com/search?q=%E5%AD%99%E4%BF%AA%E6%9D%A8%E5%B9%82%E8%8E%B7%E6%80%BB%E5%8F%B0%E8%A7%86%E5%90%8E)
-1. [小米店员防摔演示翻车](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%E5%BA%97%E5%91%98%E9%98%B2%E6%91%94%E6%BC%94%E7%A4%BA%E7%BF%BB%E8%BD%A6)
 1. [历史剧《太平年》热播](https://www.zhihu.com/search?q=%E5%8E%86%E5%8F%B2%E5%89%A7%E3%80%8A%E5%A4%AA%E5%B9%B3%E5%B9%B4%E3%80%8B%E7%83%AD%E6%92%AD)
+1. [澳大利亚要求中企出售达尔文港](https://www.zhihu.com/search?q=%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E8%A6%81%E6%B1%82%E4%B8%AD%E4%BC%81%E5%87%BA%E5%94%AE%E8%BE%BE%E5%B0%94%E6%96%87%E6%B8%AF)
+1. [小米店员防摔演示翻车](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%E5%BA%97%E5%91%98%E9%98%B2%E6%91%94%E6%BC%94%E7%A4%BA%E7%BF%BB%E8%BD%A6)
 1. [缅甸出现一处3000人新诈骗园区](https://www.zhihu.com/search?q=%E7%BC%85%E7%94%B8%E5%87%BA%E7%8E%B0%E4%B8%80%E5%A4%843000%E4%BA%BA%E6%96%B0%E8%AF%88%E9%AA%97%E5%9B%AD%E5%8C%BA)
 1. [今日金价](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5%E9%87%91%E4%BB%B7)
 1. [「免费加面」餐馆二次续面却要加三元](https://www.zhihu.com/search?q=%E3%80%8C%E5%85%8D%E8%B4%B9%E5%8A%A0%E9%9D%A2%E3%80%8D%E9%A4%90%E9%A6%86%E4%BA%8C%E6%AC%A1%E7%BB%AD%E9%9D%A2%E5%8D%B4%E8%A6%81%E5%8A%A0%E4%B8%89%E5%85%83)
