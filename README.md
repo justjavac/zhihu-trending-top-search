@@ -14,13 +14,13 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jan 30 2026 12:42:07 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jan 30 2026 13:50:20 GMT+0800 (China Standard Time) -->
 
 1. [张雨绮因代孕争议多个商务被取消](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%A8%E7%BB%AE%E5%9B%A0%E4%BB%A3%E5%AD%95%E4%BA%89%E8%AE%AE%E5%A4%9A%E4%B8%AA%E5%95%86%E5%8A%A1%E8%A2%AB%E5%8F%96%E6%B6%88)
-1. [大批中成药将退出市场](https://www.zhihu.com/search?q=%E5%A4%A7%E6%89%B9%E4%B8%AD%E6%88%90%E8%8D%AF%E5%B0%86%E9%80%80%E5%87%BA%E5%B8%82%E5%9C%BA)
+1. [金晨疑似肇事逃逸助理顶包](https://www.zhihu.com/search?q=%E9%87%91%E6%99%A8%E7%96%91%E4%BC%BC%E8%82%87%E4%BA%8B%E9%80%83%E9%80%B8%E5%8A%A9%E7%90%86%E9%A1%B6%E5%8C%85)
 1. [哈工大教授辟谣被学生捅伤](https://www.zhihu.com/search?q=%E5%93%88%E5%B7%A5%E5%A4%A7%E6%95%99%E6%8E%88%E8%BE%9F%E8%B0%A3%E8%A2%AB%E5%AD%A6%E7%94%9F%E6%8D%85%E4%BC%A4)
 1. [现货黄金大幅跳水后再反弹](https://www.zhihu.com/search?q=%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E5%A4%A7%E5%B9%85%E8%B7%B3%E6%B0%B4%E5%90%8E%E5%86%8D%E5%8F%8D%E5%BC%B9)
-1. [金晨疑似肇事逃逸助理顶包](https://www.zhihu.com/search?q=%E9%87%91%E6%99%A8%E7%96%91%E4%BC%BC%E8%82%87%E4%BA%8B%E9%80%83%E9%80%B8%E5%8A%A9%E7%90%86%E9%A1%B6%E5%8C%85)
+1. [大批中成药将退出市场](https://www.zhihu.com/search?q=%E5%A4%A7%E6%89%B9%E4%B8%AD%E6%88%90%E8%8D%AF%E5%B0%86%E9%80%80%E5%87%BA%E5%B8%82%E5%9C%BA)
 1. [缅甸出现一处3000人新诈骗园区](https://www.zhihu.com/search?q=%E7%BC%85%E7%94%B8%E5%87%BA%E7%8E%B0%E4%B8%80%E5%A4%843000%E4%BA%BA%E6%96%B0%E8%AF%88%E9%AA%97%E5%9B%AD%E5%8C%BA)
 1. [今日金价](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5%E9%87%91%E4%BB%B7)
 1. [多地对国企「近亲繁殖」出手](https://www.zhihu.com/search?q=%E5%A4%9A%E5%9C%B0%E5%AF%B9%E5%9B%BD%E4%BC%81%E3%80%8C%E8%BF%91%E4%BA%B2%E7%B9%81%E6%AE%96%E3%80%8D%E5%87%BA%E6%89%8B)
