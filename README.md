@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jan 30 2026 21:01:42 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jan 30 2026 22:37:04 GMT+0800 (China Standard Time) -->
 
 1. [警方通报「金晨被曝肇事逃逸」](https://www.zhihu.com/search?q=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E3%80%8C%E9%87%91%E6%99%A8%E8%A2%AB%E6%9B%9D%E8%82%87%E4%BA%8B%E9%80%83%E9%80%B8%E3%80%8D)
 1. [宝可梦道歉](https://www.zhihu.com/search?q=%E5%AE%9D%E5%8F%AF%E6%A2%A6%E9%81%93%E6%AD%89)
@@ -27,6 +27,7 @@
 1. [澳大利亚要求中企出售达尔文港](https://www.zhihu.com/search?q=%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E8%A6%81%E6%B1%82%E4%B8%AD%E4%BC%81%E5%87%BA%E5%94%AE%E8%BE%BE%E5%B0%94%E6%96%87%E6%B8%AF)
 1. [孙俪杨幂获总台视后](https://www.zhihu.com/search?q=%E5%AD%99%E4%BF%AA%E6%9D%A8%E5%B9%82%E8%8E%B7%E6%80%BB%E5%8F%B0%E8%A7%86%E5%90%8E)
 1. [历史剧《太平年》热播](https://www.zhihu.com/search?q=%E5%8E%86%E5%8F%B2%E5%89%A7%E3%80%8A%E5%A4%AA%E5%B9%B3%E5%B9%B4%E3%80%8B%E7%83%AD%E6%92%AD)
+1. [白酒资源股涨停潮](https://www.zhihu.com/search?q=%E7%99%BD%E9%85%92%E8%B5%84%E6%BA%90%E8%82%A1%E6%B6%A8%E5%81%9C%E6%BD%AE)
 1. [Bin 疑似离队](https://www.zhihu.com/search?q=Bin%20%E7%96%91%E4%BC%BC%E7%A6%BB%E9%98%9F)
 1. [缅北明家 11 名罪犯被执行死刑](https://www.zhihu.com/search?q=%E7%BC%85%E5%8C%97%E6%98%8E%E5%AE%B6%2011%20%E5%90%8D%E7%BD%AA%E7%8A%AF%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91)
 1. [英国首相斯塔默正式访华](https://www.zhihu.com/search?q=%E8%8B%B1%E5%9B%BD%E9%A6%96%E7%9B%B8%E6%96%AF%E5%A1%94%E9%BB%98%E6%AD%A3%E5%BC%8F%E8%AE%BF%E5%8D%8E)
