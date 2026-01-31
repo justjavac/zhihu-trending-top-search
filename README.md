@@ -14,12 +14,12 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jan 31 2026 13:40:12 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jan 31 2026 14:43:46 GMT+0800 (China Standard Time) -->
 
 1. [现货黄金大幅跳水后再反弹](https://www.zhihu.com/search?q=%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E5%A4%A7%E5%B9%85%E8%B7%B3%E6%B0%B4%E5%90%8E%E5%86%8D%E5%8F%8D%E5%BC%B9)
 1. [金晨道歉](https://www.zhihu.com/search?q=%E9%87%91%E6%99%A8%E9%81%93%E6%AD%89)
-1. [宝可梦在靖国神社举办活动](https://www.zhihu.com/search?q=%E5%AE%9D%E5%8F%AF%E6%A2%A6%E5%9C%A8%E9%9D%96%E5%9B%BD%E7%A5%9E%E7%A4%BE%E4%B8%BE%E5%8A%9E%E6%B4%BB%E5%8A%A8)
 1. [警方通报「金晨被曝肇事逃逸」](https://www.zhihu.com/search?q=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E3%80%8C%E9%87%91%E6%99%A8%E8%A2%AB%E6%9B%9D%E8%82%87%E4%BA%8B%E9%80%83%E9%80%B8%E3%80%8D)
+1. [宝可梦在靖国神社举办活动](https://www.zhihu.com/search?q=%E5%AE%9D%E5%8F%AF%E6%A2%A6%E5%9C%A8%E9%9D%96%E5%9B%BD%E7%A5%9E%E7%A4%BE%E4%B8%BE%E5%8A%9E%E6%B4%BB%E5%8A%A8)
 1. [宝可梦道歉](https://www.zhihu.com/search?q=%E5%AE%9D%E5%8F%AF%E6%A2%A6%E9%81%93%E6%AD%89)
 1. [相亲男逃单女子独付8000元](https://www.zhihu.com/search?q=%E7%9B%B8%E4%BA%B2%E7%94%B7%E9%80%83%E5%8D%95%E5%A5%B3%E5%AD%90%E7%8B%AC%E4%BB%988000%E5%85%83)
 1. [黄金、白银暴跌](https://www.zhihu.com/search?q=%E9%BB%84%E9%87%91%E3%80%81%E7%99%BD%E9%93%B6%E6%9A%B4%E8%B7%8C)
