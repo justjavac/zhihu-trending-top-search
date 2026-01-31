@@ -14,17 +14,17 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jan 31 2026 20:53:50 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jan 31 2026 21:42:26 GMT+0800 (China Standard Time) -->
 
 1. [金晨道歉](https://www.zhihu.com/search?q=%E9%87%91%E6%99%A8%E9%81%93%E6%AD%89)
-1. [宝可梦道歉](https://www.zhihu.com/search?q=%E5%AE%9D%E5%8F%AF%E6%A2%A6%E9%81%93%E6%AD%89)
 1. [宝可梦在靖国神社举办活动](https://www.zhihu.com/search?q=%E5%AE%9D%E5%8F%AF%E6%A2%A6%E5%9C%A8%E9%9D%96%E5%9B%BD%E7%A5%9E%E7%A4%BE%E4%B8%BE%E5%8A%9E%E6%B4%BB%E5%8A%A8)
 1. [警方通报「金晨被曝肇事逃逸」](https://www.zhihu.com/search?q=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E3%80%8C%E9%87%91%E6%99%A8%E8%A2%AB%E6%9B%9D%E8%82%87%E4%BA%8B%E9%80%83%E9%80%B8%E3%80%8D)
 1. [黄金、白银暴跌](https://www.zhihu.com/search?q=%E9%BB%84%E9%87%91%E3%80%81%E7%99%BD%E9%93%B6%E6%9A%B4%E8%B7%8C)
+1. [宝可梦道歉](https://www.zhihu.com/search?q=%E5%AE%9D%E5%8F%AF%E6%A2%A6%E9%81%93%E6%AD%89)
 1. [黄金遭遇 40 年来最大下跌](https://www.zhihu.com/search?q=%E9%BB%84%E9%87%91%E9%81%AD%E9%81%87%2040%20%E5%B9%B4%E6%9D%A5%E6%9C%80%E5%A4%A7%E4%B8%8B%E8%B7%8C)
 1. [青岛 29 年前轮奸案将再审](https://www.zhihu.com/search?q=%E9%9D%92%E5%B2%9B%2029%20%E5%B9%B4%E5%89%8D%E8%BD%AE%E5%A5%B8%E6%A1%88%E5%B0%86%E5%86%8D%E5%AE%A1)
-1. [历史剧《太平年》热播](https://www.zhihu.com/search?q=%E5%8E%86%E5%8F%B2%E5%89%A7%E3%80%8A%E5%A4%AA%E5%B9%B3%E5%B9%B4%E3%80%8B%E7%83%AD%E6%92%AD)
 1. [黑白颠周媛被立案调查](https://www.zhihu.com/search?q=%E9%BB%91%E7%99%BD%E9%A2%A0%E5%91%A8%E5%AA%9B%E8%A2%AB%E7%AB%8B%E6%A1%88%E8%B0%83%E6%9F%A5)
+1. [历史剧《太平年》热播](https://www.zhihu.com/search?q=%E5%8E%86%E5%8F%B2%E5%89%A7%E3%80%8A%E5%A4%AA%E5%B9%B3%E5%B9%B4%E3%80%8B%E7%83%AD%E6%92%AD)
 1. [苟姓爸爸给女儿改姓敬](https://www.zhihu.com/search?q=%E8%8B%9F%E5%A7%93%E7%88%B8%E7%88%B8%E7%BB%99%E5%A5%B3%E5%84%BF%E6%94%B9%E5%A7%93%E6%95%AC)
 1. [金价彻底狂飙了](https://www.zhihu.com/search?q=%E9%87%91%E4%BB%B7%E5%BD%BB%E5%BA%95%E7%8B%82%E9%A3%99%E4%BA%86)
 1. [特朗普起诉美国财政部国税局](https://www.zhihu.com/search?q=%E7%89%B9%E6%9C%97%E6%99%AE%E8%B5%B7%E8%AF%89%E7%BE%8E%E5%9B%BD%E8%B4%A2%E6%94%BF%E9%83%A8%E5%9B%BD%E7%A8%8E%E5%B1%80)
