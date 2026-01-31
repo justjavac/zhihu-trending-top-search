@@ -14,13 +14,13 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jan 31 2026 22:26:44 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jan 31 2026 23:26:58 GMT+0800 (China Standard Time) -->
 
 1. [金晨道歉](https://www.zhihu.com/search?q=%E9%87%91%E6%99%A8%E9%81%93%E6%AD%89)
 1. [宝可梦道歉](https://www.zhihu.com/search?q=%E5%AE%9D%E5%8F%AF%E6%A2%A6%E9%81%93%E6%AD%89)
 1. [宝可梦在靖国神社举办活动](https://www.zhihu.com/search?q=%E5%AE%9D%E5%8F%AF%E6%A2%A6%E5%9C%A8%E9%9D%96%E5%9B%BD%E7%A5%9E%E7%A4%BE%E4%B8%BE%E5%8A%9E%E6%B4%BB%E5%8A%A8)
-1. [警方通报「金晨被曝肇事逃逸」](https://www.zhihu.com/search?q=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E3%80%8C%E9%87%91%E6%99%A8%E8%A2%AB%E6%9B%9D%E8%82%87%E4%BA%8B%E9%80%83%E9%80%B8%E3%80%8D)
 1. [黄金、白银暴跌](https://www.zhihu.com/search?q=%E9%BB%84%E9%87%91%E3%80%81%E7%99%BD%E9%93%B6%E6%9A%B4%E8%B7%8C)
+1. [警方通报「金晨被曝肇事逃逸」](https://www.zhihu.com/search?q=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E3%80%8C%E9%87%91%E6%99%A8%E8%A2%AB%E6%9B%9D%E8%82%87%E4%BA%8B%E9%80%83%E9%80%B8%E3%80%8D)
 1. [黄金遭遇 40 年来最大下跌](https://www.zhihu.com/search?q=%E9%BB%84%E9%87%91%E9%81%AD%E9%81%87%2040%20%E5%B9%B4%E6%9D%A5%E6%9C%80%E5%A4%A7%E4%B8%8B%E8%B7%8C)
 1. [青岛 29 年前轮奸案将再审](https://www.zhihu.com/search?q=%E9%9D%92%E5%B2%9B%2029%20%E5%B9%B4%E5%89%8D%E8%BD%AE%E5%A5%B8%E6%A1%88%E5%B0%86%E5%86%8D%E5%AE%A1)
 1. [黑白颠周媛被立案调查](https://www.zhihu.com/search?q=%E9%BB%91%E7%99%BD%E9%A2%A0%E5%91%A8%E5%AA%9B%E8%A2%AB%E7%AB%8B%E6%A1%88%E8%B0%83%E6%9F%A5)
