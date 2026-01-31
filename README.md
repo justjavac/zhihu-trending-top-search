@@ -14,16 +14,16 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jan 31 2026 12:25:51 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jan 31 2026 13:40:12 GMT+0800 (China Standard Time) -->
 
 1. [现货黄金大幅跳水后再反弹](https://www.zhihu.com/search?q=%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E5%A4%A7%E5%B9%85%E8%B7%B3%E6%B0%B4%E5%90%8E%E5%86%8D%E5%8F%8D%E5%BC%B9)
+1. [金晨道歉](https://www.zhihu.com/search?q=%E9%87%91%E6%99%A8%E9%81%93%E6%AD%89)
 1. [宝可梦在靖国神社举办活动](https://www.zhihu.com/search?q=%E5%AE%9D%E5%8F%AF%E6%A2%A6%E5%9C%A8%E9%9D%96%E5%9B%BD%E7%A5%9E%E7%A4%BE%E4%B8%BE%E5%8A%9E%E6%B4%BB%E5%8A%A8)
 1. [警方通报「金晨被曝肇事逃逸」](https://www.zhihu.com/search?q=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E3%80%8C%E9%87%91%E6%99%A8%E8%A2%AB%E6%9B%9D%E8%82%87%E4%BA%8B%E9%80%83%E9%80%B8%E3%80%8D)
-1. [金晨道歉](https://www.zhihu.com/search?q=%E9%87%91%E6%99%A8%E9%81%93%E6%AD%89)
 1. [宝可梦道歉](https://www.zhihu.com/search?q=%E5%AE%9D%E5%8F%AF%E6%A2%A6%E9%81%93%E6%AD%89)
-1. [长期负面情绪致脑生理改变](https://www.zhihu.com/search?q=%E9%95%BF%E6%9C%9F%E8%B4%9F%E9%9D%A2%E6%83%85%E7%BB%AA%E8%87%B4%E8%84%91%E7%94%9F%E7%90%86%E6%94%B9%E5%8F%98)
 1. [相亲男逃单女子独付8000元](https://www.zhihu.com/search?q=%E7%9B%B8%E4%BA%B2%E7%94%B7%E9%80%83%E5%8D%95%E5%A5%B3%E5%AD%90%E7%8B%AC%E4%BB%988000%E5%85%83)
 1. [黄金、白银暴跌](https://www.zhihu.com/search?q=%E9%BB%84%E9%87%91%E3%80%81%E7%99%BD%E9%93%B6%E6%9A%B4%E8%B7%8C)
+1. [长期负面情绪致脑生理改变](https://www.zhihu.com/search?q=%E9%95%BF%E6%9C%9F%E8%B4%9F%E9%9D%A2%E6%83%85%E7%BB%AA%E8%87%B4%E8%84%91%E7%94%9F%E7%90%86%E6%94%B9%E5%8F%98)
 1. [巴拿马方裁定长和公司港口合同无效](https://www.zhihu.com/search?q=%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%B9%E8%A3%81%E5%AE%9A%E9%95%BF%E5%92%8C%E5%85%AC%E5%8F%B8%E6%B8%AF%E5%8F%A3%E5%90%88%E5%90%8C%E6%97%A0%E6%95%88)
 1. [中国公民东京遭劫4.2亿日元](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E4%B8%9C%E4%BA%AC%E9%81%AD%E5%8A%AB4.2%E4%BA%BF%E6%97%A5%E5%85%83)
 1. [历史剧《太平年》热播](https://www.zhihu.com/search?q=%E5%8E%86%E5%8F%B2%E5%89%A7%E3%80%8A%E5%A4%AA%E5%B9%B3%E5%B9%B4%E3%80%8B%E7%83%AD%E6%92%AD)
