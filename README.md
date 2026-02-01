@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Feb 02 2026 02:38:58 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Feb 02 2026 03:26:32 GMT+0800 (China Standard Time) -->
 
 1. [成龙自曝患ADHD](https://www.zhihu.com/search?q=%E6%88%90%E9%BE%99%E8%87%AA%E6%9B%9D%E6%82%A3ADHD)
 1. [黄金、白银暴跌](https://www.zhihu.com/search?q=%E9%BB%84%E9%87%91%E3%80%81%E7%99%BD%E9%93%B6%E6%9A%B4%E8%B7%8C)
