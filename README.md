@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Feb 02 2026 14:08:55 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Feb 02 2026 15:52:11 GMT+0800 (China Standard Time) -->
 
 1. [成龙自曝患ADHD](https://www.zhihu.com/search?q=%E6%88%90%E9%BE%99%E8%87%AA%E6%9B%9D%E6%82%A3ADHD)
 1. [黄金、白银暴跌](https://www.zhihu.com/search?q=%E9%BB%84%E9%87%91%E3%80%81%E7%99%BD%E9%93%B6%E6%9A%B4%E8%B7%8C)
@@ -23,8 +23,9 @@
 1. [青岛 29 年前轮奸案将再审](https://www.zhihu.com/search?q=%E9%9D%92%E5%B2%9B%2029%20%E5%B9%B4%E5%89%8D%E8%BD%AE%E5%A5%B8%E6%A1%88%E5%B0%86%E5%86%8D%E5%AE%A1)
 1. [爱泼斯坦遗嘱把萝莉岛留给女友](https://www.zhihu.com/search?q=%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E9%81%97%E5%98%B1%E6%8A%8A%E8%90%9D%E8%8E%89%E5%B2%9B%E7%95%99%E7%BB%99%E5%A5%B3%E5%8F%8B)
 1. [名侦探柯南与辱华漫画联动](https://www.zhihu.com/search?q=%E5%90%8D%E4%BE%A6%E6%8E%A2%E6%9F%AF%E5%8D%97%E4%B8%8E%E8%BE%B1%E5%8D%8E%E6%BC%AB%E7%94%BB%E8%81%94%E5%8A%A8)
-1. [韦东奕正式获聘北大长聘副教授](https://www.zhihu.com/search?q=%E9%9F%A6%E4%B8%9C%E5%A5%95%E6%AD%A3%E5%BC%8F%E8%8E%B7%E8%81%98%E5%8C%97%E5%A4%A7%E9%95%BF%E8%81%98%E5%89%AF%E6%95%99%E6%8E%88)
 1. [女星陈嘉仪放弃抢救丈夫遭儿子责怪](https://www.zhihu.com/search?q=%E5%A5%B3%E6%98%9F%E9%99%88%E5%98%89%E4%BB%AA%E6%94%BE%E5%BC%83%E6%8A%A2%E6%95%91%E4%B8%88%E5%A4%AB%E9%81%AD%E5%84%BF%E5%AD%90%E8%B4%A3%E6%80%AA)
+1. [韦东奕正式获聘北大长聘副教授](https://www.zhihu.com/search?q=%E9%9F%A6%E4%B8%9C%E5%A5%95%E6%AD%A3%E5%BC%8F%E8%8E%B7%E8%81%98%E5%8C%97%E5%A4%A7%E9%95%BF%E8%81%98%E5%89%AF%E6%95%99%E6%8E%88)
+1. [金价创40年最大跌幅](https://www.zhihu.com/search?q=%E9%87%91%E4%BB%B7%E5%88%9B40%E5%B9%B4%E6%9C%80%E5%A4%A7%E8%B7%8C%E5%B9%85)
 1. [历史剧《太平年》热播](https://www.zhihu.com/search?q=%E5%8E%86%E5%8F%B2%E5%89%A7%E3%80%8A%E5%A4%AA%E5%B9%B3%E5%B9%B4%E3%80%8B%E7%83%AD%E6%92%AD)
 1. [比尔盖茨被曝曾感染性病并向妻子隐瞒](https://www.zhihu.com/search?q=%E6%AF%94%E5%B0%94%E7%9B%96%E8%8C%A8%E8%A2%AB%E6%9B%9D%E6%9B%BE%E6%84%9F%E6%9F%93%E6%80%A7%E7%97%85%E5%B9%B6%E5%90%91%E5%A6%BB%E5%AD%90%E9%9A%90%E7%9E%92)
 1. [比亚迪 1 月销量同比下降 30%](https://www.zhihu.com/search?q=%E6%AF%94%E4%BA%9A%E8%BF%AA%201%20%E6%9C%88%E9%94%80%E9%87%8F%E5%90%8C%E6%AF%94%E4%B8%8B%E9%99%8D%2030%25)
