@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Feb 02 2026 10:31:24 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Feb 02 2026 12:59:01 GMT+0800 (China Standard Time) -->
 
 1. [成龙自曝患ADHD](https://www.zhihu.com/search?q=%E6%88%90%E9%BE%99%E8%87%AA%E6%9B%9D%E6%82%A3ADHD)
 1. [黄金、白银暴跌](https://www.zhihu.com/search?q=%E9%BB%84%E9%87%91%E3%80%81%E7%99%BD%E9%93%B6%E6%9A%B4%E8%B7%8C)
@@ -25,8 +25,10 @@
 1. [名侦探柯南与辱华漫画联动](https://www.zhihu.com/search?q=%E5%90%8D%E4%BE%A6%E6%8E%A2%E6%9F%AF%E5%8D%97%E4%B8%8E%E8%BE%B1%E5%8D%8E%E6%BC%AB%E7%94%BB%E8%81%94%E5%8A%A8)
 1. [韦东奕正式获聘北大长聘副教授](https://www.zhihu.com/search?q=%E9%9F%A6%E4%B8%9C%E5%A5%95%E6%AD%A3%E5%BC%8F%E8%8E%B7%E8%81%98%E5%8C%97%E5%A4%A7%E9%95%BF%E8%81%98%E5%89%AF%E6%95%99%E6%8E%88)
 1. [历史剧《太平年》热播](https://www.zhihu.com/search?q=%E5%8E%86%E5%8F%B2%E5%89%A7%E3%80%8A%E5%A4%AA%E5%B9%B3%E5%B9%B4%E3%80%8B%E7%83%AD%E6%92%AD)
-1. [各大车企给奔驰140周年祝寿](https://www.zhihu.com/search?q=%E5%90%84%E5%A4%A7%E8%BD%A6%E4%BC%81%E7%BB%99%E5%A5%94%E9%A9%B0140%E5%91%A8%E5%B9%B4%E7%A5%9D%E5%AF%BF)
 1. [女星陈嘉仪放弃抢救丈夫遭儿子责怪](https://www.zhihu.com/search?q=%E5%A5%B3%E6%98%9F%E9%99%88%E5%98%89%E4%BB%AA%E6%94%BE%E5%BC%83%E6%8A%A2%E6%95%91%E4%B8%88%E5%A4%AB%E9%81%AD%E5%84%BF%E5%AD%90%E8%B4%A3%E6%80%AA)
+1. [比尔盖茨被曝曾感染性病并向妻子隐瞒](https://www.zhihu.com/search?q=%E6%AF%94%E5%B0%94%E7%9B%96%E8%8C%A8%E8%A2%AB%E6%9B%9D%E6%9B%BE%E6%84%9F%E6%9F%93%E6%80%A7%E7%97%85%E5%B9%B6%E5%90%91%E5%A6%BB%E5%AD%90%E9%9A%90%E7%9E%92)
+1. [比亚迪 1 月销量同比下降 30%](https://www.zhihu.com/search?q=%E6%AF%94%E4%BA%9A%E8%BF%AA%201%20%E6%9C%88%E9%94%80%E9%87%8F%E5%90%8C%E6%AF%94%E4%B8%8B%E9%99%8D%2030%25)
+1. [各大车企给奔驰140周年祝寿](https://www.zhihu.com/search?q=%E5%90%84%E5%A4%A7%E8%BD%A6%E4%BC%81%E7%BB%99%E5%A5%94%E9%A9%B0140%E5%91%A8%E5%B9%B4%E7%A5%9D%E5%AF%BF)
 1. [巴拿马方裁定长和公司港口合同无效](https://www.zhihu.com/search?q=%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%B9%E8%A3%81%E5%AE%9A%E9%95%BF%E5%92%8C%E5%85%AC%E5%8F%B8%E6%B8%AF%E5%8F%A3%E5%90%88%E5%90%8C%E6%97%A0%E6%95%88)
 1. [男子网购附片自行泡制中毒身亡](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%90%E7%BD%91%E8%B4%AD%E9%99%84%E7%89%87%E8%87%AA%E8%A1%8C%E6%B3%A1%E5%88%B6%E4%B8%AD%E6%AF%92%E8%BA%AB%E4%BA%A1)
 1. [春节假期火车票开售](https://www.zhihu.com/search?q=%E6%98%A5%E8%8A%82%E5%81%87%E6%9C%9F%E7%81%AB%E8%BD%A6%E7%A5%A8%E5%BC%80%E5%94%AE)
