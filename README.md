@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Feb 03 2026 19:36:11 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Feb 03 2026 21:06:57 GMT+0800 (China Standard Time) -->
 
 1. [成龙自曝患ADHD](https://www.zhihu.com/search?q=%E6%88%90%E9%BE%99%E8%87%AA%E6%9B%9D%E6%82%A3ADHD)
 1. [美司法部公布爱泼斯坦案剩余文件](https://www.zhihu.com/search?q=%E7%BE%8E%E5%8F%B8%E6%B3%95%E9%83%A8%E5%85%AC%E5%B8%83%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E5%89%A9%E4%BD%99%E6%96%87%E4%BB%B6)
@@ -22,11 +22,12 @@
 1. [周生生足金挂坠检测出铁银钯](https://www.zhihu.com/search?q=%E5%91%A8%E7%94%9F%E7%94%9F%E8%B6%B3%E9%87%91%E6%8C%82%E5%9D%A0%E6%A3%80%E6%B5%8B%E5%87%BA%E9%93%81%E9%93%B6%E9%92%AF)
 1. [江苏盐城一大桥塌落致5人死亡](https://www.zhihu.com/search?q=%E6%B1%9F%E8%8B%8F%E7%9B%90%E5%9F%8E%E4%B8%80%E5%A4%A7%E6%A1%A5%E5%A1%8C%E8%90%BD%E8%87%B45%E4%BA%BA%E6%AD%BB%E4%BA%A1)
 1. [员工单日如厕6小时21分钟被解雇](https://www.zhihu.com/search?q=%E5%91%98%E5%B7%A5%E5%8D%95%E6%97%A5%E5%A6%82%E5%8E%956%E5%B0%8F%E6%97%B621%E5%88%86%E9%92%9F%E8%A2%AB%E8%A7%A3%E9%9B%87)
-1. [博主患妥瑞症父母误认坏习惯](https://www.zhihu.com/search?q=%E5%8D%9A%E4%B8%BB%E6%82%A3%E5%A6%A5%E7%91%9E%E7%97%87%E7%88%B6%E6%AF%8D%E8%AF%AF%E8%AE%A4%E5%9D%8F%E4%B9%A0%E6%83%AF)
-1. [夫妻网购娃娃菜食用中毒系丈夫下毒](https://www.zhihu.com/search?q=%E5%A4%AB%E5%A6%BB%E7%BD%91%E8%B4%AD%E5%A8%83%E5%A8%83%E8%8F%9C%E9%A3%9F%E7%94%A8%E4%B8%AD%E6%AF%92%E7%B3%BB%E4%B8%88%E5%A4%AB%E4%B8%8B%E6%AF%92)
-1. [巴拿马方裁定长和公司港口合同无效](https://www.zhihu.com/search?q=%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%B9%E8%A3%81%E5%AE%9A%E9%95%BF%E5%92%8C%E5%85%AC%E5%8F%B8%E6%B8%AF%E5%8F%A3%E5%90%88%E5%90%8C%E6%97%A0%E6%95%88)
 1. [Papi 酱春晚视频被曝遭全网下架](https://www.zhihu.com/search?q=Papi%20%E9%85%B1%E6%98%A5%E6%99%9A%E8%A7%86%E9%A2%91%E8%A2%AB%E6%9B%9D%E9%81%AD%E5%85%A8%E7%BD%91%E4%B8%8B%E6%9E%B6)
+1. [博主患妥瑞症父母误认坏习惯](https://www.zhihu.com/search?q=%E5%8D%9A%E4%B8%BB%E6%82%A3%E5%A6%A5%E7%91%9E%E7%97%87%E7%88%B6%E6%AF%8D%E8%AF%AF%E8%AE%A4%E5%9D%8F%E4%B9%A0%E6%83%AF)
+1. [巴拿马方裁定长和公司港口合同无效](https://www.zhihu.com/search?q=%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%B9%E8%A3%81%E5%AE%9A%E9%95%BF%E5%92%8C%E5%85%AC%E5%8F%B8%E6%B8%AF%E5%8F%A3%E5%90%88%E5%90%8C%E6%97%A0%E6%95%88)
 1. [历史剧《太平年》热播](https://www.zhihu.com/search?q=%E5%8E%86%E5%8F%B2%E5%89%A7%E3%80%8A%E5%A4%AA%E5%B9%B3%E5%B9%B4%E3%80%8B%E7%83%AD%E6%92%AD)
+1. [夫妻网购娃娃菜食用中毒系丈夫下毒](https://www.zhihu.com/search?q=%E5%A4%AB%E5%A6%BB%E7%BD%91%E8%B4%AD%E5%A8%83%E5%A8%83%E8%8F%9C%E9%A3%9F%E7%94%A8%E4%B8%AD%E6%AF%92%E7%B3%BB%E4%B8%88%E5%A4%AB%E4%B8%8B%E6%AF%92)
+1. [现货黄金失守4500美元/盎司](https://www.zhihu.com/search?q=%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E5%A4%B1%E5%AE%884500%E7%BE%8E%E5%85%83%2F%E7%9B%8E%E5%8F%B8)
 1. [牢A高志凯连麦](https://www.zhihu.com/search?q=%E7%89%A2A%E9%AB%98%E5%BF%97%E5%87%AF%E8%BF%9E%E9%BA%A6)
 1. [袁惟仁去世](https://www.zhihu.com/search?q=%E8%A2%81%E6%83%9F%E4%BB%81%E5%8E%BB%E4%B8%96)
 1. [于文文演唱会突然晕倒](https://www.zhihu.com/search?q=%E4%BA%8E%E6%96%87%E6%96%87%E6%BC%94%E5%94%B1%E4%BC%9A%E7%AA%81%E7%84%B6%E6%99%95%E5%80%92)
