@@ -14,20 +14,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Feb 05 2026 19:36:41 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Feb 05 2026 21:08:40 GMT+0800 (China Standard Time) -->
 
 1. [美司法部公布爱泼斯坦案剩余文件](https://www.zhihu.com/search?q=%E7%BE%8E%E5%8F%B8%E6%B3%95%E9%83%A8%E5%85%AC%E5%B8%83%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E5%89%A9%E4%BD%99%E6%96%87%E4%BB%B6)
 1. [小洛熙事件最新通报](https://www.zhihu.com/search?q=%E5%B0%8F%E6%B4%9B%E7%86%99%E4%BA%8B%E4%BB%B6%E6%9C%80%E6%96%B0%E9%80%9A%E6%8A%A5)
 1. [中美元首通电话](https://www.zhihu.com/search?q=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E9%80%9A%E7%94%B5%E8%AF%9D)
 1. [克林顿夫妇为爱泼斯坦案作证](https://www.zhihu.com/search?q=%E5%85%8B%E6%9E%97%E9%A1%BF%E5%A4%AB%E5%A6%87%E4%B8%BA%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E4%BD%9C%E8%AF%81)
 1. [美团拟7.17亿美元收购叮咚](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%A2%E6%8B%9F7.17%E4%BA%BF%E7%BE%8E%E5%85%83%E6%94%B6%E8%B4%AD%E5%8F%AE%E5%92%9A)
-1. [知友称佰莫亭副作用是病理性赌博](https://www.zhihu.com/search?q=%E7%9F%A5%E5%8F%8B%E7%A7%B0%E4%BD%B0%E8%8E%AB%E4%BA%AD%E5%89%AF%E4%BD%9C%E7%94%A8%E6%98%AF%E7%97%85%E7%90%86%E6%80%A7%E8%B5%8C%E5%8D%9A)
-1. [米兰冬奥冰壶比赛停电](https://www.zhihu.com/search?q=%E7%B1%B3%E5%85%B0%E5%86%AC%E5%A5%A5%E5%86%B0%E5%A3%B6%E6%AF%94%E8%B5%9B%E5%81%9C%E7%94%B5)
-1. [立陶宛新总理承认对华犯大错](https://www.zhihu.com/search?q=%E7%AB%8B%E9%99%B6%E5%AE%9B%E6%96%B0%E6%80%BB%E7%90%86%E6%89%BF%E8%AE%A4%E5%AF%B9%E5%8D%8E%E7%8A%AF%E5%A4%A7%E9%94%99)
 1. [江苏盐城一大桥塌落致5人死亡](https://www.zhihu.com/search?q=%E6%B1%9F%E8%8B%8F%E7%9B%90%E5%9F%8E%E4%B8%80%E5%A4%A7%E6%A1%A5%E5%A1%8C%E8%90%BD%E8%87%B45%E4%BA%BA%E6%AD%BB%E4%BA%A1)
+1. [立陶宛新总理承认对华犯大错](https://www.zhihu.com/search?q=%E7%AB%8B%E9%99%B6%E5%AE%9B%E6%96%B0%E6%80%BB%E7%90%86%E6%89%BF%E8%AE%A4%E5%AF%B9%E5%8D%8E%E7%8A%AF%E5%A4%A7%E9%94%99)
 1. [爱泼斯坦「自缢」后照片首公开](https://www.zhihu.com/search?q=%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E3%80%8C%E8%87%AA%E7%BC%A2%E3%80%8D%E5%90%8E%E7%85%A7%E7%89%87%E9%A6%96%E5%85%AC%E5%BC%80)
 1. [老人给婴儿喂酒致肝损伤](https://www.zhihu.com/search?q=%E8%80%81%E4%BA%BA%E7%BB%99%E5%A9%B4%E5%84%BF%E5%96%82%E9%85%92%E8%87%B4%E8%82%9D%E6%8D%9F%E4%BC%A4)
+1. [知友称佰莫亭副作用是病理性赌博](https://www.zhihu.com/search?q=%E7%9F%A5%E5%8F%8B%E7%A7%B0%E4%BD%B0%E8%8E%AB%E4%BA%AD%E5%89%AF%E4%BD%9C%E7%94%A8%E6%98%AF%E7%97%85%E7%90%86%E6%80%A7%E8%B5%8C%E5%8D%9A)
+1. [襄阳精神病院骗保被调查](https://www.zhihu.com/search?q=%E8%A5%84%E9%98%B3%E7%B2%BE%E7%A5%9E%E7%97%85%E9%99%A2%E9%AA%97%E4%BF%9D%E8%A2%AB%E8%B0%83%E6%9F%A5)
 1. [广州将实行中职和普高学籍互转](https://www.zhihu.com/search?q=%E5%B9%BF%E5%B7%9E%E5%B0%86%E5%AE%9E%E8%A1%8C%E4%B8%AD%E8%81%8C%E5%92%8C%E6%99%AE%E9%AB%98%E5%AD%A6%E7%B1%8D%E4%BA%92%E8%BD%AC)
+1. [米兰冬奥冰壶比赛停电](https://www.zhihu.com/search?q=%E7%B1%B3%E5%85%B0%E5%86%AC%E5%A5%A5%E5%86%B0%E5%A3%B6%E6%AF%94%E8%B5%9B%E5%81%9C%E7%94%B5)
 1. [央视春晚主持人官宣](https://www.zhihu.com/search?q=%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%AE%98%E5%AE%A3)
 1. [医院直播被指暴露女患者隐私部位](https://www.zhihu.com/search?q=%E5%8C%BB%E9%99%A2%E7%9B%B4%E6%92%AD%E8%A2%AB%E6%8C%87%E6%9A%B4%E9%9C%B2%E5%A5%B3%E6%82%A3%E8%80%85%E9%9A%90%E7%A7%81%E9%83%A8%E4%BD%8D)
 1. [《太平年》的历史还原度怎么样](https://www.zhihu.com/search?q=%E3%80%8A%E5%A4%AA%E5%B9%B3%E5%B9%B4%E3%80%8B%E7%9A%84%E5%8E%86%E5%8F%B2%E8%BF%98%E5%8E%9F%E5%BA%A6%E6%80%8E%E4%B9%88%E6%A0%B7)
@@ -36,7 +37,6 @@
 1. [立陶宛新总理认对华犯大错](https://www.zhihu.com/search?q=%E7%AB%8B%E9%99%B6%E5%AE%9B%E6%96%B0%E6%80%BB%E7%90%86%E8%AE%A4%E5%AF%B9%E5%8D%8E%E7%8A%AF%E5%A4%A7%E9%94%99)
 1. [博主患妥瑞症父母误认坏习惯](https://www.zhihu.com/search?q=%E5%8D%9A%E4%B8%BB%E6%82%A3%E5%A6%A5%E7%91%9E%E7%97%87%E7%88%B6%E6%AF%8D%E8%AF%AF%E8%AE%A4%E5%9D%8F%E4%B9%A0%E6%83%AF)
 1. [元宝被微信屏蔽](https://www.zhihu.com/search?q=%E5%85%83%E5%AE%9D%E8%A2%AB%E5%BE%AE%E4%BF%A1%E5%B1%8F%E8%94%BD)
-1. [襄阳精神病院骗保被调查](https://www.zhihu.com/search?q=%E8%A5%84%E9%98%B3%E7%B2%BE%E7%A5%9E%E7%97%85%E9%99%A2%E9%AA%97%E4%BF%9D%E8%A2%AB%E8%B0%83%E6%9F%A5)
 1. [网购娃娃菜中毒系夫妻合谋骗赔](https://www.zhihu.com/search?q=%E7%BD%91%E8%B4%AD%E5%A8%83%E5%A8%83%E8%8F%9C%E4%B8%AD%E6%AF%92%E7%B3%BB%E5%A4%AB%E5%A6%BB%E5%90%88%E8%B0%8B%E9%AA%97%E8%B5%94)
 1. [韩国曝19名女性残障遭院长性侵](https://www.zhihu.com/search?q=%E9%9F%A9%E5%9B%BD%E6%9B%9D19%E5%90%8D%E5%A5%B3%E6%80%A7%E6%AE%8B%E9%9A%9C%E9%81%AD%E9%99%A2%E9%95%BF%E6%80%A7%E4%BE%B5)
 1. [立春](https://www.zhihu.com/search?q=%E7%AB%8B%E6%98%A5)
