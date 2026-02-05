@@ -14,16 +14,19 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Feb 05 2026 21:08:40 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Feb 05 2026 22:45:38 GMT+0800 (China Standard Time) -->
 
 1. [美司法部公布爱泼斯坦案剩余文件](https://www.zhihu.com/search?q=%E7%BE%8E%E5%8F%B8%E6%B3%95%E9%83%A8%E5%85%AC%E5%B8%83%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E5%89%A9%E4%BD%99%E6%96%87%E4%BB%B6)
 1. [小洛熙事件最新通报](https://www.zhihu.com/search?q=%E5%B0%8F%E6%B4%9B%E7%86%99%E4%BA%8B%E4%BB%B6%E6%9C%80%E6%96%B0%E9%80%9A%E6%8A%A5)
 1. [中美元首通电话](https://www.zhihu.com/search?q=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E9%80%9A%E7%94%B5%E8%AF%9D)
 1. [克林顿夫妇为爱泼斯坦案作证](https://www.zhihu.com/search?q=%E5%85%8B%E6%9E%97%E9%A1%BF%E5%A4%AB%E5%A6%87%E4%B8%BA%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E4%BD%9C%E8%AF%81)
+1. [周生生涉事挂坠送检结果为足金](https://www.zhihu.com/search?q=%E5%91%A8%E7%94%9F%E7%94%9F%E6%B6%89%E4%BA%8B%E6%8C%82%E5%9D%A0%E9%80%81%E6%A3%80%E7%BB%93%E6%9E%9C%E4%B8%BA%E8%B6%B3%E9%87%91)
 1. [美团拟7.17亿美元收购叮咚](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%A2%E6%8B%9F7.17%E4%BA%BF%E7%BE%8E%E5%85%83%E6%94%B6%E8%B4%AD%E5%8F%AE%E5%92%9A)
-1. [江苏盐城一大桥塌落致5人死亡](https://www.zhihu.com/search?q=%E6%B1%9F%E8%8B%8F%E7%9B%90%E5%9F%8E%E4%B8%80%E5%A4%A7%E6%A1%A5%E5%A1%8C%E8%90%BD%E8%87%B45%E4%BA%BA%E6%AD%BB%E4%BA%A1)
 1. [立陶宛新总理承认对华犯大错](https://www.zhihu.com/search?q=%E7%AB%8B%E9%99%B6%E5%AE%9B%E6%96%B0%E6%80%BB%E7%90%86%E6%89%BF%E8%AE%A4%E5%AF%B9%E5%8D%8E%E7%8A%AF%E5%A4%A7%E9%94%99)
+1. [小洛熙主刀医师吊销执业证书](https://www.zhihu.com/search?q=%E5%B0%8F%E6%B4%9B%E7%86%99%E4%B8%BB%E5%88%80%E5%8C%BB%E5%B8%88%E5%90%8A%E9%94%80%E6%89%A7%E4%B8%9A%E8%AF%81%E4%B9%A6)
 1. [爱泼斯坦「自缢」后照片首公开](https://www.zhihu.com/search?q=%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E3%80%8C%E8%87%AA%E7%BC%A2%E3%80%8D%E5%90%8E%E7%85%A7%E7%89%87%E9%A6%96%E5%85%AC%E5%BC%80)
+1. [小洛熙事件医方存在多项过失](https://www.zhihu.com/search?q=%E5%B0%8F%E6%B4%9B%E7%86%99%E4%BA%8B%E4%BB%B6%E5%8C%BB%E6%96%B9%E5%AD%98%E5%9C%A8%E5%A4%9A%E9%A1%B9%E8%BF%87%E5%A4%B1)
+1. [江苏盐城一大桥塌落致5人死亡](https://www.zhihu.com/search?q=%E6%B1%9F%E8%8B%8F%E7%9B%90%E5%9F%8E%E4%B8%80%E5%A4%A7%E6%A1%A5%E5%A1%8C%E8%90%BD%E8%87%B45%E4%BA%BA%E6%AD%BB%E4%BA%A1)
 1. [老人给婴儿喂酒致肝损伤](https://www.zhihu.com/search?q=%E8%80%81%E4%BA%BA%E7%BB%99%E5%A9%B4%E5%84%BF%E5%96%82%E9%85%92%E8%87%B4%E8%82%9D%E6%8D%9F%E4%BC%A4)
 1. [知友称佰莫亭副作用是病理性赌博](https://www.zhihu.com/search?q=%E7%9F%A5%E5%8F%8B%E7%A7%B0%E4%BD%B0%E8%8E%AB%E4%BA%AD%E5%89%AF%E4%BD%9C%E7%94%A8%E6%98%AF%E7%97%85%E7%90%86%E6%80%A7%E8%B5%8C%E5%8D%9A)
 1. [襄阳精神病院骗保被调查](https://www.zhihu.com/search?q=%E8%A5%84%E9%98%B3%E7%B2%BE%E7%A5%9E%E7%97%85%E9%99%A2%E9%AA%97%E4%BF%9D%E8%A2%AB%E8%B0%83%E6%9F%A5)
