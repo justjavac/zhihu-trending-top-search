@@ -14,14 +14,15 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Feb 07 2026 02:55:22 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Feb 07 2026 03:41:58 GMT+0800 (China Standard Time) -->
 
+1. [米兰冬奥会开幕式](https://www.zhihu.com/search?q=%E7%B1%B3%E5%85%B0%E5%86%AC%E5%A5%A5%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F)
 1. [美司法部公布爱泼斯坦案剩余文件](https://www.zhihu.com/search?q=%E7%BE%8E%E5%8F%B8%E6%B3%95%E9%83%A8%E5%85%AC%E5%B8%83%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E5%89%A9%E4%BD%99%E6%96%87%E4%BB%B6)
 1. [我国明年起禁隐藏式车门把手](https://www.zhihu.com/search?q=%E6%88%91%E5%9B%BD%E6%98%8E%E5%B9%B4%E8%B5%B7%E7%A6%81%E9%9A%90%E8%97%8F%E5%BC%8F%E8%BD%A6%E9%97%A8%E6%8A%8A%E6%89%8B)
 1. [立陶宛新总理承认对华犯大错](https://www.zhihu.com/search?q=%E7%AB%8B%E9%99%B6%E5%AE%9B%E6%96%B0%E6%80%BB%E7%90%86%E6%89%BF%E8%AE%A4%E5%AF%B9%E5%8D%8E%E7%8A%AF%E5%A4%A7%E9%94%99)
 1. [老人给婴儿喂酒致肝损伤](https://www.zhihu.com/search?q=%E8%80%81%E4%BA%BA%E7%BB%99%E5%A9%B4%E5%84%BF%E5%96%82%E9%85%92%E8%87%B4%E8%82%9D%E6%8D%9F%E4%BC%A4)
-1. [预制菜国标公开征求意见](https://www.zhihu.com/search?q=%E9%A2%84%E5%88%B6%E8%8F%9C%E5%9B%BD%E6%A0%87%E5%85%AC%E5%BC%80%E5%BE%81%E6%B1%82%E6%84%8F%E8%A7%81)
 1. [隋文静摔倒](https://www.zhihu.com/search?q=%E9%9A%8B%E6%96%87%E9%9D%99%E6%91%94%E5%80%92)
+1. [预制菜国标公开征求意见](https://www.zhihu.com/search?q=%E9%A2%84%E5%88%B6%E8%8F%9C%E5%9B%BD%E6%A0%87%E5%85%AC%E5%BC%80%E5%BE%81%E6%B1%82%E6%84%8F%E8%A7%81)
 1. [《太平年》的历史还原度怎么样](https://www.zhihu.com/search?q=%E3%80%8A%E5%A4%AA%E5%B9%B3%E5%B9%B4%E3%80%8B%E7%9A%84%E5%8E%86%E5%8F%B2%E8%BF%98%E5%8E%9F%E5%BA%A6%E6%80%8E%E4%B9%88%E6%A0%B7)
 1. [特朗普公开支持高市早苗](https://www.zhihu.com/search?q=%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%AC%E5%BC%80%E6%94%AF%E6%8C%81%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97)
 1. [周生生涉事挂坠送检结果为足金](https://www.zhihu.com/search?q=%E5%91%A8%E7%94%9F%E7%94%9F%E6%B6%89%E4%BA%8B%E6%8C%82%E5%9D%A0%E9%80%81%E6%A3%80%E7%BB%93%E6%9E%9C%E4%B8%BA%E8%B6%B3%E9%87%91)
