@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Feb 08 2026 04:31:05 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Feb 08 2026 05:29:26 GMT+0800 (China Standard Time) -->
 
 1. [苏翊鸣获铜牌](https://www.zhihu.com/search?q=%E8%8B%8F%E7%BF%8A%E9%B8%A3%E8%8E%B7%E9%93%9C%E7%89%8C)
 1. [四川大学硕博举报导师王竹卿](https://www.zhihu.com/search?q=%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E7%A1%95%E5%8D%9A%E4%B8%BE%E6%8A%A5%E5%AF%BC%E5%B8%88%E7%8E%8B%E7%AB%B9%E5%8D%BF)
@@ -25,8 +25,8 @@
 1. [四川大学已成立工作专班](https://www.zhihu.com/search?q=%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E5%B7%B2%E6%88%90%E7%AB%8B%E5%B7%A5%E4%BD%9C%E4%B8%93%E7%8F%AD)
 1. [小洛熙事件最新通报](https://www.zhihu.com/search?q=%E5%B0%8F%E6%B4%9B%E7%86%99%E4%BA%8B%E4%BB%B6%E6%9C%80%E6%96%B0%E9%80%9A%E6%8A%A5)
 1. [预制菜国标公开征求意见](https://www.zhihu.com/search?q=%E9%A2%84%E5%88%B6%E8%8F%9C%E5%9B%BD%E6%A0%87%E5%85%AC%E5%BC%80%E5%BE%81%E6%B1%82%E6%84%8F%E8%A7%81)
-1. [《太平年》的历史还原度怎么样](https://www.zhihu.com/search?q=%E3%80%8A%E5%A4%AA%E5%B9%B3%E5%B9%B4%E3%80%8B%E7%9A%84%E5%8E%86%E5%8F%B2%E8%BF%98%E5%8E%9F%E5%BA%A6%E6%80%8E%E4%B9%88%E6%A0%B7)
 1. [特朗普政府为何急于将爱泼斯坦案翻篇](https://www.zhihu.com/search?q=%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E4%B8%BA%E4%BD%95%E6%80%A5%E4%BA%8E%E5%B0%86%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E7%BF%BB%E7%AF%87)
+1. [《太平年》的历史还原度怎么样](https://www.zhihu.com/search?q=%E3%80%8A%E5%A4%AA%E5%B9%B3%E5%B9%B4%E3%80%8B%E7%9A%84%E5%8E%86%E5%8F%B2%E8%BF%98%E5%8E%9F%E5%BA%A6%E6%80%8E%E4%B9%88%E6%A0%B7)
 1. [米兰冬奥金牌成史上最贵金牌](https://www.zhihu.com/search?q=%E7%B1%B3%E5%85%B0%E5%86%AC%E5%A5%A5%E9%87%91%E7%89%8C%E6%88%90%E5%8F%B2%E4%B8%8A%E6%9C%80%E8%B4%B5%E9%87%91%E7%89%8C)
 1. [苏翊鸣大跳台决赛冲金](https://www.zhihu.com/search?q=%E8%8B%8F%E7%BF%8A%E9%B8%A3%E5%A4%A7%E8%B7%B3%E5%8F%B0%E5%86%B3%E8%B5%9B%E5%86%B2%E9%87%91)
 1. [比特币跌破6.5万美元](https://www.zhihu.com/search?q=%E6%AF%94%E7%89%B9%E5%B8%81%E8%B7%8C%E7%A0%B46.5%E4%B8%87%E7%BE%8E%E5%85%83)
