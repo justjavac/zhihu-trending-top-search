@@ -14,13 +14,13 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Feb 08 2026 02:39:15 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Feb 08 2026 03:26:41 GMT+0800 (China Standard Time) -->
 
-1. [米兰冬奥会开幕式](https://www.zhihu.com/search?q=%E7%B1%B3%E5%85%B0%E5%86%AC%E5%A5%A5%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F)
+1. [苏翊鸣大跳台决赛冲金](https://www.zhihu.com/search?q=%E8%8B%8F%E7%BF%8A%E9%B8%A3%E5%A4%A7%E8%B7%B3%E5%8F%B0%E5%86%B3%E8%B5%9B%E5%86%B2%E9%87%91)
 1. [四川大学硕博举报导师王竹卿](https://www.zhihu.com/search?q=%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E7%A1%95%E5%8D%9A%E4%B8%BE%E6%8A%A5%E5%AF%BC%E5%B8%88%E7%8E%8B%E7%AB%B9%E5%8D%BF)
+1. [米兰冬奥会开幕式](https://www.zhihu.com/search?q=%E7%B1%B3%E5%85%B0%E5%86%AC%E5%A5%A5%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F)
 1. [金晨交通事故被罚1500元](https://www.zhihu.com/search?q=%E9%87%91%E6%99%A8%E4%BA%A4%E9%80%9A%E4%BA%8B%E6%95%85%E8%A2%AB%E7%BD%9A1500%E5%85%83)
 1. [美司法部公布爱泼斯坦案剩余文件](https://www.zhihu.com/search?q=%E7%BE%8E%E5%8F%B8%E6%B3%95%E9%83%A8%E5%85%AC%E5%B8%83%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E5%89%A9%E4%BD%99%E6%96%87%E4%BB%B6)
-1. [苏翊鸣大跳台决赛冲金](https://www.zhihu.com/search?q=%E8%8B%8F%E7%BF%8A%E9%B8%A3%E5%A4%A7%E8%B7%B3%E5%8F%B0%E5%86%B3%E8%B5%9B%E5%86%B2%E9%87%91)
 1. [立陶宛新总理承认对华犯大错](https://www.zhihu.com/search?q=%E7%AB%8B%E9%99%B6%E5%AE%9B%E6%96%B0%E6%80%BB%E7%90%86%E6%89%BF%E8%AE%A4%E5%AF%B9%E5%8D%8E%E7%8A%AF%E5%A4%A7%E9%94%99)
 1. [四川大学已成立工作专班](https://www.zhihu.com/search?q=%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E5%B7%B2%E6%88%90%E7%AB%8B%E5%B7%A5%E4%BD%9C%E4%B8%93%E7%8F%AD)
 1. [小洛熙事件最新通报](https://www.zhihu.com/search?q=%E5%B0%8F%E6%B4%9B%E7%86%99%E4%BA%8B%E4%BB%B6%E6%9C%80%E6%96%B0%E9%80%9A%E6%8A%A5)
