@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Feb 09 2026 00:34:55 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Feb 09 2026 01:28:43 GMT+0800 (China Standard Time) -->
 
 1. [四川大学硕博举报导师王竹卿](https://www.zhihu.com/search?q=%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E7%A1%95%E5%8D%9A%E4%B8%BE%E6%8A%A5%E5%AF%BC%E5%B8%88%E7%8E%8B%E7%AB%B9%E5%8D%BF)
 1. [王楚钦 4-2 张本智和](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%204-2%20%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C)
@@ -25,8 +25,8 @@
 1. [我国明年起禁隐藏式车门把手](https://www.zhihu.com/search?q=%E6%88%91%E5%9B%BD%E6%98%8E%E5%B9%B4%E8%B5%B7%E7%A6%81%E9%9A%90%E8%97%8F%E5%BC%8F%E8%BD%A6%E9%97%A8%E6%8A%8A%E6%89%8B)
 1. [四川大学已成立工作专班](https://www.zhihu.com/search?q=%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E5%B7%B2%E6%88%90%E7%AB%8B%E5%B7%A5%E4%BD%9C%E4%B8%93%E7%8F%AD)
 1. [苏翊鸣获铜牌](https://www.zhihu.com/search?q=%E8%8B%8F%E7%BF%8A%E9%B8%A3%E8%8E%B7%E9%93%9C%E7%89%8C)
-1. [山西朔州车间爆炸已致8人遇难](https://www.zhihu.com/search?q=%E5%B1%B1%E8%A5%BF%E6%9C%94%E5%B7%9E%E8%BD%A6%E9%97%B4%E7%88%86%E7%82%B8%E5%B7%B2%E8%87%B48%E4%BA%BA%E9%81%87%E9%9A%BE)
 1. [日本众议院选举投票结束](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E4%BC%97%E8%AE%AE%E9%99%A2%E9%80%89%E4%B8%BE%E6%8A%95%E7%A5%A8%E7%BB%93%E6%9D%9F)
+1. [山西朔州车间爆炸已致8人遇难](https://www.zhihu.com/search?q=%E5%B1%B1%E8%A5%BF%E6%9C%94%E5%B7%9E%E8%BD%A6%E9%97%B4%E7%88%86%E7%82%B8%E5%B7%B2%E8%87%B48%E4%BA%BA%E9%81%87%E9%9A%BE)
 1. [多家快递春节不打烊或将收费](https://www.zhihu.com/search?q=%E5%A4%9A%E5%AE%B6%E5%BF%AB%E9%80%92%E6%98%A5%E8%8A%82%E4%B8%8D%E6%89%93%E7%83%8A%E6%88%96%E5%B0%86%E6%94%B6%E8%B4%B9)
 
 <!-- END -->
