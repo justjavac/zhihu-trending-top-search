@@ -14,28 +14,28 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Feb 08 2026 21:49:20 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Feb 08 2026 22:30:32 GMT+0800 (China Standard Time) -->
 
 1. [四川大学硕博举报导师王竹卿](https://www.zhihu.com/search?q=%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E7%A1%95%E5%8D%9A%E4%B8%BE%E6%8A%A5%E5%AF%BC%E5%B8%88%E7%8E%8B%E7%AB%B9%E5%8D%BF)
 1. [美司法部公布爱泼斯坦案剩余文件](https://www.zhihu.com/search?q=%E7%BE%8E%E5%8F%B8%E6%B3%95%E9%83%A8%E5%85%AC%E5%B8%83%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E5%89%A9%E4%BD%99%E6%96%87%E4%BB%B6)
 1. [我国明年起禁隐藏式车门把手](https://www.zhihu.com/search?q=%E6%88%91%E5%9B%BD%E6%98%8E%E5%B9%B4%E8%B5%B7%E7%A6%81%E9%9A%90%E8%97%8F%E5%BC%8F%E8%BD%A6%E9%97%A8%E6%8A%8A%E6%89%8B)
 1. [孙颖莎首夺亚洲杯冠军](https://www.zhihu.com/search?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E9%A6%96%E5%A4%BA%E4%BA%9A%E6%B4%B2%E6%9D%AF%E5%86%A0%E5%86%9B)
+1. [日本众议院选举投票已开始](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E4%BC%97%E8%AE%AE%E9%99%A2%E9%80%89%E4%B8%BE%E6%8A%95%E7%A5%A8%E5%B7%B2%E5%BC%80%E5%A7%8B)
 1. [四川大学已成立工作专班](https://www.zhihu.com/search?q=%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E5%B7%B2%E6%88%90%E7%AB%8B%E5%B7%A5%E4%BD%9C%E4%B8%93%E7%8F%AD)
 1. [苏翊鸣获铜牌](https://www.zhihu.com/search?q=%E8%8B%8F%E7%BF%8A%E9%B8%A3%E8%8E%B7%E9%93%9C%E7%89%8C)
-1. [日本众议院选举投票已开始](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E4%BC%97%E8%AE%AE%E9%99%A2%E9%80%89%E4%B8%BE%E6%8A%95%E7%A5%A8%E5%B7%B2%E5%BC%80%E5%A7%8B)
-1. [立陶宛新总理承认对华犯大错](https://www.zhihu.com/search?q=%E7%AB%8B%E9%99%B6%E5%AE%9B%E6%96%B0%E6%80%BB%E7%90%86%E6%89%BF%E8%AE%A4%E5%AF%B9%E5%8D%8E%E7%8A%AF%E5%A4%A7%E9%94%99)
 1. [山西订婚强奸案电梯视频首曝光](https://www.zhihu.com/search?q=%E5%B1%B1%E8%A5%BF%E8%AE%A2%E5%A9%9A%E5%BC%BA%E5%A5%B8%E6%A1%88%E7%94%B5%E6%A2%AF%E8%A7%86%E9%A2%91%E9%A6%96%E6%9B%9D%E5%85%89)
 1. [山西朔州车间爆炸已致8人遇难](https://www.zhihu.com/search?q=%E5%B1%B1%E8%A5%BF%E6%9C%94%E5%B7%9E%E8%BD%A6%E9%97%B4%E7%88%86%E7%82%B8%E5%B7%B2%E8%87%B48%E4%BA%BA%E9%81%87%E9%9A%BE)
-1. [湖南认定印度飞饼师傅为专家](https://www.zhihu.com/search?q=%E6%B9%96%E5%8D%97%E8%AE%A4%E5%AE%9A%E5%8D%B0%E5%BA%A6%E9%A3%9E%E9%A5%BC%E5%B8%88%E5%82%85%E4%B8%BA%E4%B8%93%E5%AE%B6)
 1. [多家快递春节不打烊或将收费](https://www.zhihu.com/search?q=%E5%A4%9A%E5%AE%B6%E5%BF%AB%E9%80%92%E6%98%A5%E8%8A%82%E4%B8%8D%E6%89%93%E7%83%8A%E6%88%96%E5%B0%86%E6%94%B6%E8%B4%B9)
+1. [预制菜国标公开征求意见](https://www.zhihu.com/search?q=%E9%A2%84%E5%88%B6%E8%8F%9C%E5%9B%BD%E6%A0%87%E5%85%AC%E5%BC%80%E5%BE%81%E6%B1%82%E6%84%8F%E8%A7%81)
+1. [《太平年》的历史还原度怎么样](https://www.zhihu.com/search?q=%E3%80%8A%E5%A4%AA%E5%B9%B3%E5%B9%B4%E3%80%8B%E7%9A%84%E5%8E%86%E5%8F%B2%E8%BF%98%E5%8E%9F%E5%BA%A6%E6%80%8E%E4%B9%88%E6%A0%B7)
+1. [立陶宛新总理承认对华犯大错](https://www.zhihu.com/search?q=%E7%AB%8B%E9%99%B6%E5%AE%9B%E6%96%B0%E6%80%BB%E7%90%86%E6%89%BF%E8%AE%A4%E5%AF%B9%E5%8D%8E%E7%8A%AF%E5%A4%A7%E9%94%99)
+1. [湖南认定印度飞饼师傅为专家](https://www.zhihu.com/search?q=%E6%B9%96%E5%8D%97%E8%AE%A4%E5%AE%9A%E5%8D%B0%E5%BA%A6%E9%A3%9E%E9%A5%BC%E5%B8%88%E5%82%85%E4%B8%BA%E4%B8%93%E5%AE%B6)
 1. [四川甘孜州泸定县3.8级地震](https://www.zhihu.com/search?q=%E5%9B%9B%E5%B7%9D%E7%94%98%E5%AD%9C%E5%B7%9E%E6%B3%B8%E5%AE%9A%E5%8E%BF3.8%E7%BA%A7%E5%9C%B0%E9%9C%87)
 1. [米兰冬奥金牌成史上最贵金牌](https://www.zhihu.com/search?q=%E7%B1%B3%E5%85%B0%E5%86%AC%E5%A5%A5%E9%87%91%E7%89%8C%E6%88%90%E5%8F%B2%E4%B8%8A%E6%9C%80%E8%B4%B5%E9%87%91%E7%89%8C)
 1. [米兰冬奥会开幕式](https://www.zhihu.com/search?q=%E7%B1%B3%E5%85%B0%E5%86%AC%E5%A5%A5%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F)
-1. [预制菜国标公开征求意见](https://www.zhihu.com/search?q=%E9%A2%84%E5%88%B6%E8%8F%9C%E5%9B%BD%E6%A0%87%E5%85%AC%E5%BC%80%E5%BE%81%E6%B1%82%E6%84%8F%E8%A7%81)
 1. [金晨交通事故被罚1500元](https://www.zhihu.com/search?q=%E9%87%91%E6%99%A8%E4%BA%A4%E9%80%9A%E4%BA%8B%E6%95%85%E8%A2%AB%E7%BD%9A1500%E5%85%83)
 1. [小洛熙事件最新通报](https://www.zhihu.com/search?q=%E5%B0%8F%E6%B4%9B%E7%86%99%E4%BA%8B%E4%BB%B6%E6%9C%80%E6%96%B0%E9%80%9A%E6%8A%A5)
 1. [比特币跌破6.5万美元](https://www.zhihu.com/search?q=%E6%AF%94%E7%89%B9%E5%B8%81%E8%B7%8C%E7%A0%B46.5%E4%B8%87%E7%BE%8E%E5%85%83)
-1. [《太平年》的历史还原度怎么样](https://www.zhihu.com/search?q=%E3%80%8A%E5%A4%AA%E5%B9%B3%E5%B9%B4%E3%80%8B%E7%9A%84%E5%8E%86%E5%8F%B2%E8%BF%98%E5%8E%9F%E5%BA%A6%E6%80%8E%E4%B9%88%E6%A0%B7)
 1. [特朗普政府为何急于将爱泼斯坦案翻篇](https://www.zhihu.com/search?q=%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E4%B8%BA%E4%BD%95%E6%80%A5%E4%BA%8E%E5%B0%86%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E7%BF%BB%E7%AF%87)
 1. [苏翊鸣大跳台决赛冲金](https://www.zhihu.com/search?q=%E8%8B%8F%E7%BF%8A%E9%B8%A3%E5%A4%A7%E8%B7%B3%E5%8F%B0%E5%86%B3%E8%B5%9B%E5%86%B2%E9%87%91)
 1. [谷爱凌第一滑摔倒](https://www.zhihu.com/search?q=%E8%B0%B7%E7%88%B1%E5%87%8C%E7%AC%AC%E4%B8%80%E6%BB%91%E6%91%94%E5%80%92)
