@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Feb 08 2026 15:40:07 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Feb 08 2026 16:36:33 GMT+0800 (China Standard Time) -->
 
 1. [苏翊鸣获铜牌](https://www.zhihu.com/search?q=%E8%8B%8F%E7%BF%8A%E9%B8%A3%E8%8E%B7%E9%93%9C%E7%89%8C)
 1. [四川甘孜州泸定县3.8级地震](https://www.zhihu.com/search?q=%E5%9B%9B%E5%B7%9D%E7%94%98%E5%AD%9C%E5%B7%9E%E6%B3%B8%E5%AE%9A%E5%8E%BF3.8%E7%BA%A7%E5%9C%B0%E9%9C%87)
