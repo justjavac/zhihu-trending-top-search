@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Feb 11 2026 13:04:38 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Feb 11 2026 15:04:53 GMT+0800 (China Standard Time) -->
 
 1. [四川大学已成立工作专班](https://www.zhihu.com/search?q=%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E5%B7%B2%E6%88%90%E7%AB%8B%E5%B7%A5%E4%BD%9C%E4%B8%93%E7%8F%AD)
 1. [梦舟飞船又一次试验成功](https://www.zhihu.com/search?q=%E6%A2%A6%E8%88%9F%E9%A3%9E%E8%88%B9%E5%8F%88%E4%B8%80%E6%AC%A1%E8%AF%95%E9%AA%8C%E6%88%90%E5%8A%9F)
@@ -26,11 +26,11 @@
 1. [Seedance2.0使用影视飓风视频训练](https://www.zhihu.com/search?q=Seedance2.0%E4%BD%BF%E7%94%A8%E5%BD%B1%E8%A7%86%E9%A3%93%E9%A3%8E%E8%A7%86%E9%A2%91%E8%AE%AD%E7%BB%83)
 1. [贺娇龙坠马及抢救细节披露](https://www.zhihu.com/search?q=%E8%B4%BA%E5%A8%87%E9%BE%99%E5%9D%A0%E9%A9%AC%E5%8F%8A%E6%8A%A2%E6%95%91%E7%BB%86%E8%8A%82%E6%8A%AB%E9%9C%B2)
 1. [即梦新视频模型Seedance 2.0](https://www.zhihu.com/search?q=%E5%8D%B3%E6%A2%A6%E6%96%B0%E8%A7%86%E9%A2%91%E6%A8%A1%E5%9E%8BSeedance%202.0)
-1. [Seedance 2.0上线](https://www.zhihu.com/search?q=Seedance%202.0%E4%B8%8A%E7%BA%BF)
 1. [华晨宇宣布拿下三块地自建基地](https://www.zhihu.com/search?q=%E5%8D%8E%E6%99%A8%E5%AE%87%E5%AE%A3%E5%B8%83%E6%8B%BF%E4%B8%8B%E4%B8%89%E5%9D%97%E5%9C%B0%E8%87%AA%E5%BB%BA%E5%9F%BA%E5%9C%B0)
+1. [中国短道队混接第四](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E7%9F%AD%E9%81%93%E9%98%9F%E6%B7%B7%E6%8E%A5%E7%AC%AC%E5%9B%9B)
+1. [Seedance 2.0上线](https://www.zhihu.com/search?q=Seedance%202.0%E4%B8%8A%E7%BA%BF)
 1. [南京博物院致歉](https://www.zhihu.com/search?q=%E5%8D%97%E4%BA%AC%E5%8D%9A%E7%89%A9%E9%99%A2%E8%87%B4%E6%AD%89)
 1. [自嗨锅凉了](https://www.zhihu.com/search?q=%E8%87%AA%E5%97%A8%E9%94%85%E5%87%89%E4%BA%86)
-1. [中国短道队混接第四](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E7%9F%AD%E9%81%93%E9%98%9F%E6%B7%B7%E6%8E%A5%E7%AC%AC%E5%9B%9B)
 
 <!-- END -->
 
