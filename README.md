@@ -14,13 +14,14 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Feb 12 2026 06:32:28 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Feb 12 2026 07:35:16 GMT+0800 (China Standard Time) -->
 
 1. [官方通报南京博物院事件](https://www.zhihu.com/search?q=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%8D%97%E4%BA%AC%E5%8D%9A%E7%89%A9%E9%99%A2%E4%BA%8B%E4%BB%B6)
 1. [梦舟飞船又一次试验成功](https://www.zhihu.com/search?q=%E6%A2%A6%E8%88%9F%E9%A3%9E%E8%88%B9%E5%8F%88%E4%B8%80%E6%AC%A1%E8%AF%95%E9%AA%8C%E6%88%90%E5%8A%9F)
+1. [速滑男子 1000 米宁忠岩夺铜](https://www.zhihu.com/search?q=%E9%80%9F%E6%BB%91%E7%94%B7%E5%AD%90%201000%20%E7%B1%B3%E5%AE%81%E5%BF%A0%E5%B2%A9%E5%A4%BA%E9%93%9C)
 1. [黑神话钟馗发布6分钟实机预告](https://www.zhihu.com/search?q=%E9%BB%91%E7%A5%9E%E8%AF%9D%E9%92%9F%E9%A6%97%E5%8F%91%E5%B8%836%E5%88%86%E9%92%9F%E5%AE%9E%E6%9C%BA%E9%A2%84%E5%91%8A)
-1. [日本众议院选举投票结束](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E4%BC%97%E8%AE%AE%E9%99%A2%E9%80%89%E4%B8%BE%E6%8A%95%E7%A5%A8%E7%BB%93%E6%9D%9F)
 1. [我的马年祝福](https://www.zhihu.com/search?q=%E6%88%91%E7%9A%84%E9%A9%AC%E5%B9%B4%E7%A5%9D%E7%A6%8F)
+1. [日本众议院选举投票结束](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E4%BC%97%E8%AE%AE%E9%99%A2%E9%80%89%E4%B8%BE%E6%8A%95%E7%A5%A8%E7%BB%93%E6%9D%9F)
 1. [即梦新视频模型Seedance 2.0](https://www.zhihu.com/search?q=%E5%8D%B3%E6%A2%A6%E6%96%B0%E8%A7%86%E9%A2%91%E6%A8%A1%E5%9E%8BSeedance%202.0)
 1. [Seedance2.0使用影视飓风视频训练](https://www.zhihu.com/search?q=Seedance2.0%E4%BD%BF%E7%94%A8%E5%BD%B1%E8%A7%86%E9%A3%93%E9%A3%8E%E8%A7%86%E9%A2%91%E8%AE%AD%E7%BB%83)
 1. [贺娇龙坠马及抢救细节披露](https://www.zhihu.com/search?q=%E8%B4%BA%E5%A8%87%E9%BE%99%E5%9D%A0%E9%A9%AC%E5%8F%8A%E6%8A%A2%E6%95%91%E7%BB%86%E8%8A%82%E6%8A%AB%E9%9C%B2)
