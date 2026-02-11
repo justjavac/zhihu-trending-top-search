@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Feb 11 2026 07:40:07 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Feb 11 2026 10:37:39 GMT+0800 (China Standard Time) -->
 
 1. [四川大学已成立工作专班](https://www.zhihu.com/search?q=%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E5%B7%B2%E6%88%90%E7%AB%8B%E5%B7%A5%E4%BD%9C%E4%B8%93%E7%8F%AD)
 1. [官方通报南京博物院事件](https://www.zhihu.com/search?q=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%8D%97%E4%BA%AC%E5%8D%9A%E7%89%A9%E9%99%A2%E4%BA%8B%E4%BB%B6)
@@ -22,8 +22,8 @@
 1. [日本众议院选举投票结束](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E4%BC%97%E8%AE%AE%E9%99%A2%E9%80%89%E4%B8%BE%E6%8A%95%E7%A5%A8%E7%BB%93%E6%9D%9F)
 1. [不马虎过年锦囊](https://www.zhihu.com/search?q=%E4%B8%8D%E9%A9%AC%E8%99%8E%E8%BF%87%E5%B9%B4%E9%94%A6%E5%9B%8A)
 1. [四川大学硕博举报导师王竹卿](https://www.zhihu.com/search?q=%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E7%A1%95%E5%8D%9A%E4%B8%BE%E6%8A%A5%E5%AF%BC%E5%B8%88%E7%8E%8B%E7%AB%B9%E5%8D%BF)
-1. [南京博物院致歉](https://www.zhihu.com/search?q=%E5%8D%97%E4%BA%AC%E5%8D%9A%E7%89%A9%E9%99%A2%E8%87%B4%E6%AD%89)
 1. [Seedance2.0使用影视飓风视频训练](https://www.zhihu.com/search?q=Seedance2.0%E4%BD%BF%E7%94%A8%E5%BD%B1%E8%A7%86%E9%A3%93%E9%A3%8E%E8%A7%86%E9%A2%91%E8%AE%AD%E7%BB%83)
+1. [南京博物院致歉](https://www.zhihu.com/search?q=%E5%8D%97%E4%BA%AC%E5%8D%9A%E7%89%A9%E9%99%A2%E8%87%B4%E6%AD%89)
 1. [贺娇龙坠马及抢救细节披露](https://www.zhihu.com/search?q=%E8%B4%BA%E5%A8%87%E9%BE%99%E5%9D%A0%E9%A9%AC%E5%8F%8A%E6%8A%A2%E6%95%91%E7%BB%86%E8%8A%82%E6%8A%AB%E9%9C%B2)
 1. [Seedance 2.0上线](https://www.zhihu.com/search?q=Seedance%202.0%E4%B8%8A%E7%BA%BF)
 1. [自嗨锅凉了](https://www.zhihu.com/search?q=%E8%87%AA%E5%97%A8%E9%94%85%E5%87%89%E4%BA%86)
