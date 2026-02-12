@@ -14,20 +14,24 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Feb 12 2026 15:54:16 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Feb 12 2026 16:52:21 GMT+0800 (China Standard Time) -->
 
 1. [12 家第三方火车票网络销售平台被约谈](https://www.zhihu.com/search?q=12%20%E5%AE%B6%E7%AC%AC%E4%B8%89%E6%96%B9%E7%81%AB%E8%BD%A6%E7%A5%A8%E7%BD%91%E7%BB%9C%E9%94%80%E5%94%AE%E5%B9%B3%E5%8F%B0%E8%A2%AB%E7%BA%A6%E8%B0%88)
 1. [梦舟飞船又一次试验成功](https://www.zhihu.com/search?q=%E6%A2%A6%E8%88%9F%E9%A3%9E%E8%88%B9%E5%8F%88%E4%B8%80%E6%AC%A1%E8%AF%95%E9%AA%8C%E6%88%90%E5%8A%9F)
-1. [黑神话钟馗发布6分钟实机预告](https://www.zhihu.com/search?q=%E9%BB%91%E7%A5%9E%E8%AF%9D%E9%92%9F%E9%A6%97%E5%8F%91%E5%B8%836%E5%88%86%E9%92%9F%E5%AE%9E%E6%9C%BA%E9%A2%84%E5%91%8A)
+1. [Seedance2.0使用影视飓风视频训练](https://www.zhihu.com/search?q=Seedance2.0%E4%BD%BF%E7%94%A8%E5%BD%B1%E8%A7%86%E9%A3%93%E9%A3%8E%E8%A7%86%E9%A2%91%E8%AE%AD%E7%BB%83)
 1. [廉子文犯规后向对手道歉被推搡](https://www.zhihu.com/search?q=%E5%BB%89%E5%AD%90%E6%96%87%E7%8A%AF%E8%A7%84%E5%90%8E%E5%90%91%E5%AF%B9%E6%89%8B%E9%81%93%E6%AD%89%E8%A2%AB%E6%8E%A8%E6%90%A1)
 1. [我的马年祝福](https://www.zhihu.com/search?q=%E6%88%91%E7%9A%84%E9%A9%AC%E5%B9%B4%E7%A5%9D%E7%A6%8F)
+1. [长征十号甲首飞验证一级溅落成功](https://www.zhihu.com/search?q=%E9%95%BF%E5%BE%81%E5%8D%81%E5%8F%B7%E7%94%B2%E9%A6%96%E9%A3%9E%E9%AA%8C%E8%AF%81%E4%B8%80%E7%BA%A7%E6%BA%85%E8%90%BD%E6%88%90%E5%8A%9F)
+1. [黑神话钟馗发布6分钟实机预告](https://www.zhihu.com/search?q=%E9%BB%91%E7%A5%9E%E8%AF%9D%E9%92%9F%E9%A6%97%E5%8F%91%E5%B8%836%E5%88%86%E9%92%9F%E5%AE%9E%E6%9C%BA%E9%A2%84%E5%91%8A)
+1. [米哈游终止与汇业律所合作](https://www.zhihu.com/search?q=%E7%B1%B3%E5%93%88%E6%B8%B8%E7%BB%88%E6%AD%A2%E4%B8%8E%E6%B1%87%E4%B8%9A%E5%BE%8B%E6%89%80%E5%90%88%E4%BD%9C)
+1. [自嗨锅凉了](https://www.zhihu.com/search?q=%E8%87%AA%E5%97%A8%E9%94%85%E5%87%89%E4%BA%86)
+1. [胖东来创始人于东来宣布退休](https://www.zhihu.com/search?q=%E8%83%96%E4%B8%9C%E6%9D%A5%E5%88%9B%E5%A7%8B%E4%BA%BA%E4%BA%8E%E4%B8%9C%E6%9D%A5%E5%AE%A3%E5%B8%83%E9%80%80%E4%BC%91)
+1. [雷军宣布初代小米 SU7 停产](https://www.zhihu.com/search?q=%E9%9B%B7%E5%86%9B%E5%AE%A3%E5%B8%83%E5%88%9D%E4%BB%A3%E5%B0%8F%E7%B1%B3%20SU7%20%E5%81%9C%E4%BA%A7)
+1. [长征十号与梦舟飞船首次飞行试验任务成功](https://www.zhihu.com/search?q=%E9%95%BF%E5%BE%81%E5%8D%81%E5%8F%B7%E4%B8%8E%E6%A2%A6%E8%88%9F%E9%A3%9E%E8%88%B9%E9%A6%96%E6%AC%A1%E9%A3%9E%E8%A1%8C%E8%AF%95%E9%AA%8C%E4%BB%BB%E5%8A%A1%E6%88%90%E5%8A%9F)
 1. [即梦新视频模型Seedance 2.0](https://www.zhihu.com/search?q=%E5%8D%B3%E6%A2%A6%E6%96%B0%E8%A7%86%E9%A2%91%E6%A8%A1%E5%9E%8BSeedance%202.0)
-1. [Seedance2.0使用影视飓风视频训练](https://www.zhihu.com/search?q=Seedance2.0%E4%BD%BF%E7%94%A8%E5%BD%B1%E8%A7%86%E9%A3%93%E9%A3%8E%E8%A7%86%E9%A2%91%E8%AE%AD%E7%BB%83)
 1. [DeepSeek新模型上线](https://www.zhihu.com/search?q=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E4%B8%8A%E7%BA%BF)
 1. [贺娇龙坠马及抢救细节披露](https://www.zhihu.com/search?q=%E8%B4%BA%E5%A8%87%E9%BE%99%E5%9D%A0%E9%A9%AC%E5%8F%8A%E6%8A%A2%E6%95%91%E7%BB%86%E8%8A%82%E6%8A%AB%E9%9C%B2)
 1. [Seedance 2.0上线](https://www.zhihu.com/search?q=Seedance%202.0%E4%B8%8A%E7%BA%BF)
-1. [米哈游终止与汇业律所合作](https://www.zhihu.com/search?q=%E7%B1%B3%E5%93%88%E6%B8%B8%E7%BB%88%E6%AD%A2%E4%B8%8E%E6%B1%87%E4%B8%9A%E5%BE%8B%E6%89%80%E5%90%88%E4%BD%9C)
-1. [自嗨锅凉了](https://www.zhihu.com/search?q=%E8%87%AA%E5%97%A8%E9%94%85%E5%87%89%E4%BA%86)
 1. [美司法部公布爱泼斯坦案剩余文件](https://www.zhihu.com/search?q=%E7%BE%8E%E5%8F%B8%E6%B3%95%E9%83%A8%E5%85%AC%E5%B8%83%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E5%89%A9%E4%BD%99%E6%96%87%E4%BB%B6)
 1. [网红保罗在美国晒妻子生产全过程](https://www.zhihu.com/search?q=%E7%BD%91%E7%BA%A2%E4%BF%9D%E7%BD%97%E5%9C%A8%E7%BE%8E%E5%9B%BD%E6%99%92%E5%A6%BB%E5%AD%90%E7%94%9F%E4%BA%A7%E5%85%A8%E8%BF%87%E7%A8%8B)
 1. [速滑男子 1000 米宁忠岩夺铜](https://www.zhihu.com/search?q=%E9%80%9F%E6%BB%91%E7%94%B7%E5%AD%90%201000%20%E7%B1%B3%E5%AE%81%E5%BF%A0%E5%B2%A9%E5%A4%BA%E9%93%9C)
