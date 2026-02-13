@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Feb 14 2026 03:43:04 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Feb 14 2026 04:41:28 GMT+0800 (China Standard Time) -->
 
 1. [湖北通报精神病院骗保等调查结果](https://www.zhihu.com/search?q=%E6%B9%96%E5%8C%97%E9%80%9A%E6%8A%A5%E7%B2%BE%E7%A5%9E%E7%97%85%E9%99%A2%E9%AA%97%E4%BF%9D%E7%AD%89%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C)
 1. [中戏表演系主任王鑫主动投案](https://www.zhihu.com/search?q=%E4%B8%AD%E6%88%8F%E8%A1%A8%E6%BC%94%E7%B3%BB%E4%B8%BB%E4%BB%BB%E7%8E%8B%E9%91%AB%E4%B8%BB%E5%8A%A8%E6%8A%95%E6%A1%88)
@@ -26,9 +26,9 @@
 1. [日本当局再次扣押中国大陆渔船](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E5%BD%93%E5%B1%80%E5%86%8D%E6%AC%A1%E6%89%A3%E6%8A%BC%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E6%B8%94%E8%88%B9)
 1. [中戏多名领导陆续落马](https://www.zhihu.com/search?q=%E4%B8%AD%E6%88%8F%E5%A4%9A%E5%90%8D%E9%A2%86%E5%AF%BC%E9%99%86%E7%BB%AD%E8%90%BD%E9%A9%AC)
 1. [老一辈对子女睡懒觉的执念](https://www.zhihu.com/search?q=%E8%80%81%E4%B8%80%E8%BE%88%E5%AF%B9%E5%AD%90%E5%A5%B3%E7%9D%A1%E6%87%92%E8%A7%89%E7%9A%84%E6%89%A7%E5%BF%B5)
-1. [梦舟飞船又一次试验成功](https://www.zhihu.com/search?q=%E6%A2%A6%E8%88%9F%E9%A3%9E%E8%88%B9%E5%8F%88%E4%B8%80%E6%AC%A1%E8%AF%95%E9%AA%8C%E6%88%90%E5%8A%9F)
 1. [闫学晶儿子被指顶替李展旭上中戏](https://www.zhihu.com/search?q=%E9%97%AB%E5%AD%A6%E6%99%B6%E5%84%BF%E5%AD%90%E8%A2%AB%E6%8C%87%E9%A1%B6%E6%9B%BF%E6%9D%8E%E5%B1%95%E6%97%AD%E4%B8%8A%E4%B8%AD%E6%88%8F)
 1. [淘票票强制影院排片换密钥](https://www.zhihu.com/search?q=%E6%B7%98%E7%A5%A8%E7%A5%A8%E5%BC%BA%E5%88%B6%E5%BD%B1%E9%99%A2%E6%8E%92%E7%89%87%E6%8D%A2%E5%AF%86%E9%92%A5)
+1. [梦舟飞船又一次试验成功](https://www.zhihu.com/search?q=%E6%A2%A6%E8%88%9F%E9%A3%9E%E8%88%B9%E5%8F%88%E4%B8%80%E6%AC%A1%E8%AF%95%E9%AA%8C%E6%88%90%E5%8A%9F)
 
 <!-- END -->
 
