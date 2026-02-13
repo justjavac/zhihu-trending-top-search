@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Feb 14 2026 00:52:03 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Feb 14 2026 01:40:34 GMT+0800 (China Standard Time) -->
 
 1. [湖北通报精神病院骗保等调查结果](https://www.zhihu.com/search?q=%E6%B9%96%E5%8C%97%E9%80%9A%E6%8A%A5%E7%B2%BE%E7%A5%9E%E7%97%85%E9%99%A2%E9%AA%97%E4%BF%9D%E7%AD%89%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C)
 1. [中戏表演系主任王鑫主动投案](https://www.zhihu.com/search?q=%E4%B8%AD%E6%88%8F%E8%A1%A8%E6%BC%94%E7%B3%BB%E4%B8%BB%E4%BB%BB%E7%8E%8B%E9%91%AB%E4%B8%BB%E5%8A%A8%E6%8A%95%E6%A1%88)
