@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Feb 14 2026 20:55:10 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Feb 14 2026 21:47:45 GMT+0800 (China Standard Time) -->
 
 1. [四川大学通报王竹卿事件调查结果](https://www.zhihu.com/search?q=%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E9%80%9A%E6%8A%A5%E7%8E%8B%E7%AB%B9%E5%8D%BF%E4%BA%8B%E4%BB%B6%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C)
 1. [中戏表演系主任王鑫主动投案](https://www.zhihu.com/search?q=%E4%B8%AD%E6%88%8F%E8%A1%A8%E6%BC%94%E7%B3%BB%E4%B8%BB%E4%BB%BB%E7%8E%8B%E9%91%AB%E4%B8%BB%E5%8A%A8%E6%8A%95%E6%A1%88)
