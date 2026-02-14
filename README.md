@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Feb 15 2026 05:27:27 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Feb 15 2026 06:27:07 GMT+0800 (China Standard Time) -->
 
 1. [制作奥特曼怀孕视频多名博主被罚](https://www.zhihu.com/search?q=%E5%88%B6%E4%BD%9C%E5%A5%A5%E7%89%B9%E6%9B%BC%E6%80%80%E5%AD%95%E8%A7%86%E9%A2%91%E5%A4%9A%E5%90%8D%E5%8D%9A%E4%B8%BB%E8%A2%AB%E7%BD%9A)
 1. [四川大学通报王竹卿事件调查结果](https://www.zhihu.com/search?q=%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E9%80%9A%E6%8A%A5%E7%8E%8B%E7%AB%B9%E5%8D%BF%E4%BA%8B%E4%BB%B6%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C)
