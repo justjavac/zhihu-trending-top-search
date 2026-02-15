@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Feb 15 2026 21:49:48 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Feb 15 2026 22:30:24 GMT+0800 (China Standard Time) -->
 
 1. [四川大学通报王竹卿事件调查结果](https://www.zhihu.com/search?q=%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E9%80%9A%E6%8A%A5%E7%8E%8B%E7%AB%B9%E5%8D%BF%E4%BA%8B%E4%BB%B6%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C)
 1. [闫学晶儿子被指顶替李展旭上中戏](https://www.zhihu.com/search?q=%E9%97%AB%E5%AD%A6%E6%99%B6%E5%84%BF%E5%AD%90%E8%A2%AB%E6%8C%87%E9%A1%B6%E6%9B%BF%E6%9D%8E%E5%B1%95%E6%97%AD%E4%B8%8A%E4%B8%AD%E6%88%8F)
