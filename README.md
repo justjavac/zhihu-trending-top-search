@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Feb 16 2026 05:27:54 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Feb 16 2026 06:27:54 GMT+0800 (China Standard Time) -->
 
 1. [闫学晶儿子被指顶替李展旭上中戏](https://www.zhihu.com/search?q=%E9%97%AB%E5%AD%A6%E6%99%B6%E5%84%BF%E5%AD%90%E8%A2%AB%E6%8C%87%E9%A1%B6%E6%9B%BF%E6%9D%8E%E5%B1%95%E6%97%AD%E4%B8%8A%E4%B8%AD%E6%88%8F)
 1. [四川大学通报王竹卿事件调查结果](https://www.zhihu.com/search?q=%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E9%80%9A%E6%8A%A5%E7%8E%8B%E7%AB%B9%E5%8D%BF%E4%BA%8B%E4%BB%B6%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C)
@@ -22,8 +22,8 @@
 1. [高巿早苗被曝手部病情恶化](https://www.zhihu.com/search?q=%E9%AB%98%E5%B7%BF%E6%97%A9%E8%8B%97%E8%A2%AB%E6%9B%9D%E6%89%8B%E9%83%A8%E7%97%85%E6%83%85%E6%81%B6%E5%8C%96)
 1. [实时聊春晚](https://www.zhihu.com/search?q=%E5%AE%9E%E6%97%B6%E8%81%8A%E6%98%A5%E6%99%9A)
 1. [杨幂被指微博之夜抢C位](https://www.zhihu.com/search?q=%E6%9D%A8%E5%B9%82%E8%A2%AB%E6%8C%87%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E6%8A%A2C%E4%BD%8D)
-1. [河南卫视春晚](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86%E6%98%A5%E6%99%9A)
 1. [四川大学硕博举报导师王竹卿](https://www.zhihu.com/search?q=%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E7%A1%95%E5%8D%9A%E4%B8%BE%E6%8A%A5%E5%AF%BC%E5%B8%88%E7%8E%8B%E7%AB%B9%E5%8D%BF)
+1. [河南卫视春晚](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86%E6%98%A5%E6%99%9A)
 1. [女子健身被骗注药变阴阳人](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E5%81%A5%E8%BA%AB%E8%A2%AB%E9%AA%97%E6%B3%A8%E8%8D%AF%E5%8F%98%E9%98%B4%E9%98%B3%E4%BA%BA)
 1. [2026年河南卫视春晚](https://www.zhihu.com/search?q=2026%E5%B9%B4%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86%E6%98%A5%E6%99%9A)
 1. [中国对非洲53国实施零关税](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E5%AF%B9%E9%9D%9E%E6%B4%B253%E5%9B%BD%E5%AE%9E%E6%96%BD%E9%9B%B6%E5%85%B3%E7%A8%8E)
