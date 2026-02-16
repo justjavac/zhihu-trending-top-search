@@ -1,16 +1,18 @@
 [
   { "query_display": "2026 央视春晚", "real_query": "2026 央视春晚" },
   { "query_display": "王菲歌曲《你我经历的一刻》", "real_query": "王菲歌曲《你我经历的一刻》" },
-  { "query_display": "宇树机器人春晚《武 BOT》", "real_query": "宇树机器人春晚《武 BOT》" },
-  { "query_display": "蔡明小品《奶奶的最爱》", "real_query": "蔡明小品《奶奶的最爱》" },
+  { "query_display": "马年祝福语", "real_query": "马年祝福语" },
+  { "query_display": "沈腾马丽春晚微电影", "real_query": "沈腾马丽春晚微电影" },
   { "query_display": "春节档电影推荐", "real_query": "春节档电影推荐" },
   { "query_display": "凤凰传奇《来晒秋》", "real_query": "凤凰传奇《来晒秋》" },
-  { "query_display": "春晚魔术《惊喜定格》", "real_query": "春晚魔术《惊喜定格》" },
   { "query_display": "宜宾分会场《立上游》", "real_query": "宜宾分会场《立上游》" },
+  { "query_display": "春晚魔术《惊喜定格》", "real_query": "春晚魔术《惊喜定格》" },
   { "query_display": "李健春晚歌曲《人间共鸣》", "real_query": "李健春晚歌曲《人间共鸣》" },
   { "query_display": "春晚喜剧《你准喜欢》", "real_query": "春晚喜剧《你准喜欢》" },
   { "query_display": "郭富城王一博《闪耀动起来》", "real_query": "郭富城王一博《闪耀动起来》" },
+  { "query_display": "春晚舞蹈《丝路古韵》", "real_query": "春晚舞蹈《丝路古韵》" },
+  { "query_display": "宇树机器人春晚《武 BOT》", "real_query": "宇树机器人春晚《武 BOT》" },
+  { "query_display": "蔡明小品《奶奶的最爱》", "real_query": "蔡明小品《奶奶的最爱》" },
   { "query_display": "春晚歌曲《立春》", "real_query": "春晚歌曲《立春》" },
-  { "query_display": "沈腾马丽春晚微电影", "real_query": "沈腾马丽春晚微电影" },
   { "query_display": "可以看看你的年夜饭吗", "real_query": "可以看看你的年夜饭吗" }
 ]
