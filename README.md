@@ -14,10 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Feb 16 2026 17:57:34 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Feb 16 2026 18:57:12 GMT+0800 (China Standard Time) -->
 
 1. [2026央视春晚节目单公布](https://www.zhihu.com/search?q=2026%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A%E8%8A%82%E7%9B%AE%E5%8D%95%E5%85%AC%E5%B8%83)
-1. [春节档总票房](https://www.zhihu.com/search?q=%E6%98%A5%E8%8A%82%E6%A1%A3%E6%80%BB%E7%A5%A8%E6%88%BF)
+1. [可以看看你的年夜饭吗](https://www.zhihu.com/search?q=%E5%8F%AF%E4%BB%A5%E7%9C%8B%E7%9C%8B%E4%BD%A0%E7%9A%84%E5%B9%B4%E5%A4%9C%E9%A5%AD%E5%90%97)
 1. [马年祝福语](https://www.zhihu.com/search?q=%E9%A9%AC%E5%B9%B4%E7%A5%9D%E7%A6%8F%E8%AF%AD)
 1. [网友将除夕称为全国洗头日](https://www.zhihu.com/search?q=%E7%BD%91%E5%8F%8B%E5%B0%86%E9%99%A4%E5%A4%95%E7%A7%B0%E4%B8%BA%E5%85%A8%E5%9B%BD%E6%B4%97%E5%A4%B4%E6%97%A5)
 1. [实时聊春晚](https://www.zhihu.com/search?q=%E5%AE%9E%E6%97%B6%E8%81%8A%E6%98%A5%E6%99%9A)
@@ -28,6 +28,7 @@
 1. [四川大学通报王竹卿事件调查结果](https://www.zhihu.com/search?q=%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E9%80%9A%E6%8A%A5%E7%8E%8B%E7%AB%B9%E5%8D%BF%E4%BA%8B%E4%BB%B6%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C)
 1. [大疆前副总裁袁某涉受贿被刑拘](https://www.zhihu.com/search?q=%E5%A4%A7%E7%96%86%E5%89%8D%E5%89%AF%E6%80%BB%E8%A3%81%E8%A2%81%E6%9F%90%E6%B6%89%E5%8F%97%E8%B4%BF%E8%A2%AB%E5%88%91%E6%8B%98)
 1. [同学聚会被「下药」设赌局](https://www.zhihu.com/search?q=%E5%90%8C%E5%AD%A6%E8%81%9A%E4%BC%9A%E8%A2%AB%E3%80%8C%E4%B8%8B%E8%8D%AF%E3%80%8D%E8%AE%BE%E8%B5%8C%E5%B1%80)
+1. [春节档总票房](https://www.zhihu.com/search?q=%E6%98%A5%E8%8A%82%E6%A1%A3%E6%80%BB%E7%A5%A8%E6%88%BF)
 1. [闫学晶儿子被指顶替李展旭上中戏](https://www.zhihu.com/search?q=%E9%97%AB%E5%AD%A6%E6%99%B6%E5%84%BF%E5%AD%90%E8%A2%AB%E6%8C%87%E9%A1%B6%E6%9B%BF%E6%9D%8E%E5%B1%95%E6%97%AD%E4%B8%8A%E4%B8%AD%E6%88%8F)
 1. [中方对加拿大英国免签](https://www.zhihu.com/search?q=%E4%B8%AD%E6%96%B9%E5%AF%B9%E5%8A%A0%E6%8B%BF%E5%A4%A7%E8%8B%B1%E5%9B%BD%E5%85%8D%E7%AD%BE)
 1. [国际雪联回应谷爱凌吐槽](https://www.zhihu.com/search?q=%E5%9B%BD%E9%99%85%E9%9B%AA%E8%81%94%E5%9B%9E%E5%BA%94%E8%B0%B7%E7%88%B1%E5%87%8C%E5%90%90%E6%A7%BD)
