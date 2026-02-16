@@ -14,22 +14,23 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Feb 16 2026 22:43:08 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Feb 16 2026 23:42:35 GMT+0800 (China Standard Time) -->
 
 1. [2026 央视春晚](https://www.zhihu.com/search?q=2026%20%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A)
 1. [王菲歌曲《你我经历的一刻》](https://www.zhihu.com/search?q=%E7%8E%8B%E8%8F%B2%E6%AD%8C%E6%9B%B2%E3%80%8A%E4%BD%A0%E6%88%91%E7%BB%8F%E5%8E%86%E7%9A%84%E4%B8%80%E5%88%BB%E3%80%8B)
 1. [宇树机器人春晚《武 BOT》](https://www.zhihu.com/search?q=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%98%A5%E6%99%9A%E3%80%8A%E6%AD%A6%20BOT%E3%80%8B)
-1. [网友将除夕称为全国洗头日](https://www.zhihu.com/search?q=%E7%BD%91%E5%8F%8B%E5%B0%86%E9%99%A4%E5%A4%95%E7%A7%B0%E4%B8%BA%E5%85%A8%E5%9B%BD%E6%B4%97%E5%A4%B4%E6%97%A5)
+1. [蔡明小品《奶奶的最爱》](https://www.zhihu.com/search?q=%E8%94%A1%E6%98%8E%E5%B0%8F%E5%93%81%E3%80%8A%E5%A5%B6%E5%A5%B6%E7%9A%84%E6%9C%80%E7%88%B1%E3%80%8B)
 1. [实时聊春晚](https://www.zhihu.com/search?q=%E5%AE%9E%E6%97%B6%E8%81%8A%E6%98%A5%E6%99%9A)
 1. [凤凰传奇《来晒秋》](https://www.zhihu.com/search?q=%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87%E3%80%8A%E6%9D%A5%E6%99%92%E7%A7%8B%E3%80%8B)
-1. [春晚魔术《惊喜定格》](https://www.zhihu.com/search?q=%E6%98%A5%E6%99%9A%E9%AD%94%E6%9C%AF%E3%80%8A%E6%83%8A%E5%96%9C%E5%AE%9A%E6%A0%BC%E3%80%8B)
+1. [宜宾分会场《立上游》](https://www.zhihu.com/search?q=%E5%AE%9C%E5%AE%BE%E5%88%86%E4%BC%9A%E5%9C%BA%E3%80%8A%E7%AB%8B%E4%B8%8A%E6%B8%B8%E3%80%8B)
 1. [可以看看你的年夜饭吗](https://www.zhihu.com/search?q=%E5%8F%AF%E4%BB%A5%E7%9C%8B%E7%9C%8B%E4%BD%A0%E7%9A%84%E5%B9%B4%E5%A4%9C%E9%A5%AD%E5%90%97)
 1. [李健春晚歌曲《人间共鸣》](https://www.zhihu.com/search?q=%E6%9D%8E%E5%81%A5%E6%98%A5%E6%99%9A%E6%AD%8C%E6%9B%B2%E3%80%8A%E4%BA%BA%E9%97%B4%E5%85%B1%E9%B8%A3%E3%80%8B)
 1. [春晚歌曲《立春》](https://www.zhihu.com/search?q=%E6%98%A5%E6%99%9A%E6%AD%8C%E6%9B%B2%E3%80%8A%E7%AB%8B%E6%98%A5%E3%80%8B)
 1. [郭富城王一博《闪耀动起来》](https://www.zhihu.com/search?q=%E9%83%AD%E5%AF%8C%E5%9F%8E%E7%8E%8B%E4%B8%80%E5%8D%9A%E3%80%8A%E9%97%AA%E8%80%80%E5%8A%A8%E8%B5%B7%E6%9D%A5%E3%80%8B)
+1. [春晚喜剧《你准喜欢》](https://www.zhihu.com/search?q=%E6%98%A5%E6%99%9A%E5%96%9C%E5%89%A7%E3%80%8A%E4%BD%A0%E5%87%86%E5%96%9C%E6%AC%A2%E3%80%8B)
+1. [网友将除夕称为全国洗头日](https://www.zhihu.com/search?q=%E7%BD%91%E5%8F%8B%E5%B0%86%E9%99%A4%E5%A4%95%E7%A7%B0%E4%B8%BA%E5%85%A8%E5%9B%BD%E6%B4%97%E5%A4%B4%E6%97%A5)
+1. [春晚魔术《惊喜定格》](https://www.zhihu.com/search?q=%E6%98%A5%E6%99%9A%E9%AD%94%E6%9C%AF%E3%80%8A%E6%83%8A%E5%96%9C%E5%AE%9A%E6%A0%BC%E3%80%8B)
 1. [四川大学通报王竹卿事件调查结果](https://www.zhihu.com/search?q=%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E9%80%9A%E6%8A%A5%E7%8E%8B%E7%AB%B9%E5%8D%BF%E4%BA%8B%E4%BB%B6%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C)
-1. [蔡明小品《奶奶的最爱》](https://www.zhihu.com/search?q=%E8%94%A1%E6%98%8E%E5%B0%8F%E5%93%81%E3%80%8A%E5%A5%B6%E5%A5%B6%E7%9A%84%E6%9C%80%E7%88%B1%E3%80%8B)
-1. [宜宾分会场《立上游》](https://www.zhihu.com/search?q=%E5%AE%9C%E5%AE%BE%E5%88%86%E4%BC%9A%E5%9C%BA%E3%80%8A%E7%AB%8B%E4%B8%8A%E6%B8%B8%E3%80%8B)
 1. [马年祝福语](https://www.zhihu.com/search?q=%E9%A9%AC%E5%B9%B4%E7%A5%9D%E7%A6%8F%E8%AF%AD)
 1. [2026央视春晚节目单公布](https://www.zhihu.com/search?q=2026%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A%E8%8A%82%E7%9B%AE%E5%8D%95%E5%85%AC%E5%B8%83)
 1. [河南卫视春晚](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86%E6%98%A5%E6%99%9A)
