@@ -14,13 +14,14 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Feb 17 2026 18:50:27 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Feb 17 2026 19:40:41 GMT+0800 (China Standard Time) -->
 
 1. [2026 央视春晚](https://www.zhihu.com/search?q=2026%20%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A)
 1. [马年祝福语](https://www.zhihu.com/search?q=%E9%A9%AC%E5%B9%B4%E7%A5%9D%E7%A6%8F%E8%AF%AD)
 1. [宇树机器人春晚《武BOT》](https://www.zhihu.com/search?q=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%98%A5%E6%99%9A%E3%80%8A%E6%AD%A6BOT%E3%80%8B)
 1. [王菲歌曲《你我经历的一刻》](https://www.zhihu.com/search?q=%E7%8E%8B%E8%8F%B2%E6%AD%8C%E6%9B%B2%E3%80%8A%E4%BD%A0%E6%88%91%E7%BB%8F%E5%8E%86%E7%9A%84%E4%B8%80%E5%88%BB%E3%80%8B)
 1. [春节档电影推荐](https://www.zhihu.com/search?q=%E6%98%A5%E8%8A%82%E6%A1%A3%E7%94%B5%E5%BD%B1%E6%8E%A8%E8%8D%90)
+1. [2026北京卫视春晚](https://www.zhihu.com/search?q=2026%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86%E6%98%A5%E6%99%9A)
 1. [2026央视春晚节目单公布](https://www.zhihu.com/search?q=2026%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A%E8%8A%82%E7%9B%AE%E5%8D%95%E5%85%AC%E5%B8%83)
 1. [蔡明小品《奶奶的最爱》](https://www.zhihu.com/search?q=%E8%94%A1%E6%98%8E%E5%B0%8F%E5%93%81%E3%80%8A%E5%A5%B6%E5%A5%B6%E7%9A%84%E6%9C%80%E7%88%B1%E3%80%8B)
 1. [四川大学通报王竹卿事件调查结果](https://www.zhihu.com/search?q=%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E9%80%9A%E6%8A%A5%E7%8E%8B%E7%AB%B9%E5%8D%BF%E4%BA%8B%E4%BB%B6%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C)
