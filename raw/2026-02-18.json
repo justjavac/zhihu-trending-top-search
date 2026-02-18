@@ -1,9 +1,10 @@
 [
+  { "query_display": "飞驰人生3", "real_query": "飞驰人生3" },
   { "query_display": "高市早苗内阁集体辞职", "real_query": "高市早苗内阁集体辞职" },
   { "query_display": "2026 央视春晚", "real_query": "2026 央视春晚" },
   { "query_display": "宇树机器人春晚《武BOT》", "real_query": "宇树机器人春晚《武BOT》" },
-  { "query_display": "机器人全面入侵春晚", "real_query": "机器人全面入侵春晚" },
   { "query_display": "马上有 AI", "real_query": "马上有 AI" },
+  { "query_display": "机器人全面入侵春晚", "real_query": "机器人全面入侵春晚" },
   { "query_display": "王菲歌曲《你我经历的一刻》", "real_query": "王菲歌曲《你我经历的一刻》" },
   { "query_display": "2026央视春晚节目单公布", "real_query": "2026央视春晚节目单公布" },
   { "query_display": "马年祝福语", "real_query": "马年祝福语" },
