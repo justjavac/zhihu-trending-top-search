@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Feb 19 2026 03:52:01 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Feb 19 2026 04:42:23 GMT+0800 (China Standard Time) -->
 
 1. [镖人：风起大漠](https://www.zhihu.com/search?q=%E9%95%96%E4%BA%BA%EF%BC%9A%E9%A3%8E%E8%B5%B7%E5%A4%A7%E6%BC%A0)
 1. [2026 央视春晚](https://www.zhihu.com/search?q=2026%20%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A)
@@ -25,8 +25,8 @@
 1. [高市早苗内阁集体辞职](https://www.zhihu.com/search?q=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%86%85%E9%98%81%E9%9B%86%E4%BD%93%E8%BE%9E%E8%81%8C)
 1. [宇树机器人春晚《武BOT》](https://www.zhihu.com/search?q=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%98%A5%E6%99%9A%E3%80%8A%E6%AD%A6BOT%E3%80%8B)
 1. [苏翊鸣斩获中国代表团首金](https://www.zhihu.com/search?q=%E8%8B%8F%E7%BF%8A%E9%B8%A3%E6%96%A9%E8%8E%B7%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%9B%A2%E9%A6%96%E9%87%91)
-1. [成龙领衔演唱《我们是世界》](https://www.zhihu.com/search?q=%E6%88%90%E9%BE%99%E9%A2%86%E8%A1%94%E6%BC%94%E5%94%B1%E3%80%8A%E6%88%91%E4%BB%AC%E6%98%AF%E4%B8%96%E7%95%8C%E3%80%8B)
 1. [高市早苗将出任日本新任首相](https://www.zhihu.com/search?q=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%B0%86%E5%87%BA%E4%BB%BB%E6%97%A5%E6%9C%AC%E6%96%B0%E4%BB%BB%E9%A6%96%E7%9B%B8)
+1. [成龙领衔演唱《我们是世界》](https://www.zhihu.com/search?q=%E6%88%90%E9%BE%99%E9%A2%86%E8%A1%94%E6%BC%94%E5%94%B1%E3%80%8A%E6%88%91%E4%BB%AC%E6%98%AF%E4%B8%96%E7%95%8C%E3%80%8B)
 1. [2026央视春晚节目单公布](https://www.zhihu.com/search?q=2026%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A%E8%8A%82%E7%9B%AE%E5%8D%95%E5%85%AC%E5%B8%83)
 1. [空中技巧决赛徐梦桃夺金](https://www.zhihu.com/search?q=%E7%A9%BA%E4%B8%AD%E6%8A%80%E5%B7%A7%E5%86%B3%E8%B5%9B%E5%BE%90%E6%A2%A6%E6%A1%83%E5%A4%BA%E9%87%91)
 
