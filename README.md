@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Feb 20 2026 06:34:49 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Feb 20 2026 07:32:35 GMT+0800 (China Standard Time) -->
 
 1. [高市早苗内阁集体辞职](https://www.zhihu.com/search?q=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%86%85%E9%98%81%E9%9B%86%E4%BD%93%E8%BE%9E%E8%81%8C)
 1. [英国前王子安德鲁被捕](https://www.zhihu.com/search?q=%E8%8B%B1%E5%9B%BD%E5%89%8D%E7%8E%8B%E5%AD%90%E5%AE%89%E5%BE%B7%E9%B2%81%E8%A2%AB%E6%8D%95)
