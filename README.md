@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Feb 20 2026 12:48:48 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Feb 20 2026 13:55:29 GMT+0800 (China Standard Time) -->
 
 1. [英国前王子安德鲁被捕](https://www.zhihu.com/search?q=%E8%8B%B1%E5%9B%BD%E5%89%8D%E7%8E%8B%E5%AD%90%E5%AE%89%E5%BE%B7%E9%B2%81%E8%A2%AB%E6%8D%95)
 1. [飞驰人生 3](https://www.zhihu.com/search?q=%E9%A3%9E%E9%A9%B0%E4%BA%BA%E7%94%9F%203)
