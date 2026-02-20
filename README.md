@@ -14,14 +14,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Feb 21 2026 06:29:30 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Feb 21 2026 07:31:24 GMT+0800 (China Standard Time) -->
 
-1. [初中生扶摔倒女子遭索赔 22 万](https://www.zhihu.com/search?q=%E5%88%9D%E4%B8%AD%E7%94%9F%E6%89%B6%E6%91%94%E5%80%92%E5%A5%B3%E5%AD%90%E9%81%AD%E7%B4%A2%E8%B5%94%2022%20%E4%B8%87)
-1. [飞驰人生 3](https://www.zhihu.com/search?q=%E9%A3%9E%E9%A9%B0%E4%BA%BA%E7%94%9F%203)
 1. [贝加尔湖汽车落水7名中国游客遇难](https://www.zhihu.com/search?q=%E8%B4%9D%E5%8A%A0%E5%B0%94%E6%B9%96%E6%B1%BD%E8%BD%A6%E8%90%BD%E6%B0%B47%E5%90%8D%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E9%81%87%E9%9A%BE)
+1. [飞驰人生 3](https://www.zhihu.com/search?q=%E9%A3%9E%E9%A9%B0%E4%BA%BA%E7%94%9F%203)
+1. [接财神](https://www.zhihu.com/search?q=%E6%8E%A5%E8%B4%A2%E7%A5%9E)
 1. [镖人：风起大漠](https://www.zhihu.com/search?q=%E9%95%96%E4%BA%BA%EF%BC%9A%E9%A3%8E%E8%B5%B7%E5%A4%A7%E6%BC%A0)
 1. [惊蛰无声](https://www.zhihu.com/search?q=%E6%83%8A%E8%9B%B0%E6%97%A0%E5%A3%B0)
+1. [中国队短道速滑男子接力获第五](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E9%98%9F%E7%9F%AD%E9%81%93%E9%80%9F%E6%BB%91%E7%94%B7%E5%AD%90%E6%8E%A5%E5%8A%9B%E8%8E%B7%E7%AC%AC%E4%BA%94)
+1. [王心迪](https://www.zhihu.com/search?q=%E7%8E%8B%E5%BF%83%E8%BF%AA)
+1. [短道速滑女子1500米](https://www.zhihu.com/search?q=%E7%9F%AD%E9%81%93%E9%80%9F%E6%BB%91%E5%A5%B3%E5%AD%901500%E7%B1%B3)
 1. [湛江妈祖女孩被替换](https://www.zhihu.com/search?q=%E6%B9%9B%E6%B1%9F%E5%A6%88%E7%A5%96%E5%A5%B3%E5%AD%A9%E8%A2%AB%E6%9B%BF%E6%8D%A2)
+1. [初中生扶摔倒女子遭索赔 22 万](https://www.zhihu.com/search?q=%E5%88%9D%E4%B8%AD%E7%94%9F%E6%89%B6%E6%91%94%E5%80%92%E5%A5%B3%E5%AD%90%E9%81%AD%E7%B4%A2%E8%B5%94%2022%20%E4%B8%87)
 1. [2026 央视春晚](https://www.zhihu.com/search?q=2026%20%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A)
 1. [无接触事故扶老人女生该不该担责](https://www.zhihu.com/search?q=%E6%97%A0%E6%8E%A5%E8%A7%A6%E4%BA%8B%E6%95%85%E6%89%B6%E8%80%81%E4%BA%BA%E5%A5%B3%E7%94%9F%E8%AF%A5%E4%B8%8D%E8%AF%A5%E6%8B%85%E8%B4%A3)
 1. [2026 年度电影总票房破 60 亿](https://www.zhihu.com/search?q=2026%20%E5%B9%B4%E5%BA%A6%E7%94%B5%E5%BD%B1%E6%80%BB%E7%A5%A8%E6%88%BF%E7%A0%B4%2060%20%E4%BA%BF)
