@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Feb 21 2026 04:35:48 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Feb 21 2026 05:28:24 GMT+0800 (China Standard Time) -->
 
 1. [初中生扶摔倒女子遭索赔 22 万](https://www.zhihu.com/search?q=%E5%88%9D%E4%B8%AD%E7%94%9F%E6%89%B6%E6%91%94%E5%80%92%E5%A5%B3%E5%AD%90%E9%81%AD%E7%B4%A2%E8%B5%94%2022%20%E4%B8%87)
 1. [飞驰人生 3](https://www.zhihu.com/search?q=%E9%A3%9E%E9%A9%B0%E4%BA%BA%E7%94%9F%203)
