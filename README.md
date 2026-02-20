@@ -14,13 +14,14 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Feb 20 2026 16:45:10 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Feb 20 2026 17:44:42 GMT+0800 (China Standard Time) -->
 
 1. [英国前王子安德鲁被捕](https://www.zhihu.com/search?q=%E8%8B%B1%E5%9B%BD%E5%89%8D%E7%8E%8B%E5%AD%90%E5%AE%89%E5%BE%B7%E9%B2%81%E8%A2%AB%E6%8D%95)
 1. [飞驰人生 3](https://www.zhihu.com/search?q=%E9%A3%9E%E9%A9%B0%E4%BA%BA%E7%94%9F%203)
 1. [机器人全面入侵春晚](https://www.zhihu.com/search?q=%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%85%A8%E9%9D%A2%E5%85%A5%E4%BE%B5%E6%98%A5%E6%99%9A)
 1. [镖人：风起大漠](https://www.zhihu.com/search?q=%E9%95%96%E4%BA%BA%EF%BC%9A%E9%A3%8E%E8%B5%B7%E5%A4%A7%E6%BC%A0)
 1. [惊蛰无声](https://www.zhihu.com/search?q=%E6%83%8A%E8%9B%B0%E6%97%A0%E5%A3%B0)
+1. [初中生扶摔倒女子遭索赔 22 万](https://www.zhihu.com/search?q=%E5%88%9D%E4%B8%AD%E7%94%9F%E6%89%B6%E6%91%94%E5%80%92%E5%A5%B3%E5%AD%90%E9%81%AD%E7%B4%A2%E8%B5%94%2022%20%E4%B8%87)
 1. [尹锡悦一审被判无期徒刑](https://www.zhihu.com/search?q=%E5%B0%B9%E9%94%A1%E6%82%A6%E4%B8%80%E5%AE%A1%E8%A2%AB%E5%88%A4%E6%97%A0%E6%9C%9F%E5%BE%92%E5%88%91)
 1. [湖北宜城爆竹店爆炸已致12死](https://www.zhihu.com/search?q=%E6%B9%96%E5%8C%97%E5%AE%9C%E5%9F%8E%E7%88%86%E7%AB%B9%E5%BA%97%E7%88%86%E7%82%B8%E5%B7%B2%E8%87%B412%E6%AD%BB)
 1. [美国首都华盛顿宣布进入紧急状态](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E9%A6%96%E9%83%BD%E5%8D%8E%E7%9B%9B%E9%A1%BF%E5%AE%A3%E5%B8%83%E8%BF%9B%E5%85%A5%E7%B4%A7%E6%80%A5%E7%8A%B6%E6%80%81)
