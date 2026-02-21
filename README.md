@@ -14,19 +14,19 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Feb 22 2026 00:32:48 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Feb 22 2026 01:27:43 GMT+0800 (China Standard Time) -->
 
 1. [中国队空中技巧混团铜牌](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E9%98%9F%E7%A9%BA%E4%B8%AD%E6%8A%80%E5%B7%A7%E6%B7%B7%E5%9B%A2%E9%93%9C%E7%89%8C)
 1. [飞驰人生 3](https://www.zhihu.com/search?q=%E9%A3%9E%E9%A9%B0%E4%BA%BA%E7%94%9F%203)
-1. [湛江妈祖女孩被替换](https://www.zhihu.com/search?q=%E6%B9%9B%E6%B1%9F%E5%A6%88%E7%A5%96%E5%A5%B3%E5%AD%A9%E8%A2%AB%E6%9B%BF%E6%8D%A2)
+1. [妈祖换人](https://www.zhihu.com/search?q=%E5%A6%88%E7%A5%96%E6%8D%A2%E4%BA%BA)
 1. [镖人：风起大漠](https://www.zhihu.com/search?q=%E9%95%96%E4%BA%BA%EF%BC%9A%E9%A3%8E%E8%B5%B7%E5%A4%A7%E6%BC%A0)
 1. [惊蛰无声](https://www.zhihu.com/search?q=%E6%83%8A%E8%9B%B0%E6%97%A0%E5%A3%B0)
-1. [贝加尔湖汽车落水7名中国游客遇难](https://www.zhihu.com/search?q=%E8%B4%9D%E5%8A%A0%E5%B0%94%E6%B9%96%E6%B1%BD%E8%BD%A6%E8%90%BD%E6%B0%B47%E5%90%8D%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E9%81%87%E9%9A%BE)
+1. [湛江妈祖女孩被替换](https://www.zhihu.com/search?q=%E6%B9%9B%E6%B1%9F%E5%A6%88%E7%A5%96%E5%A5%B3%E5%AD%A9%E8%A2%AB%E6%9B%BF%E6%8D%A2)
 1. [西北华北多地强沙尘暴](https://www.zhihu.com/search?q=%E8%A5%BF%E5%8C%97%E5%8D%8E%E5%8C%97%E5%A4%9A%E5%9C%B0%E5%BC%BA%E6%B2%99%E5%B0%98%E6%9A%B4)
-1. [妈祖换人](https://www.zhihu.com/search?q=%E5%A6%88%E7%A5%96%E6%8D%A2%E4%BA%BA)
-1. [《镖人》票房逆跌](https://www.zhihu.com/search?q=%E3%80%8A%E9%95%96%E4%BA%BA%E3%80%8B%E7%A5%A8%E6%88%BF%E9%80%86%E8%B7%8C)
-1. [特朗普称对全球加征10%关税](https://www.zhihu.com/search?q=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%AF%B9%E5%85%A8%E7%90%83%E5%8A%A0%E5%BE%8110%25%E5%85%B3%E7%A8%8E)
+1. [贝加尔湖汽车落水7名中国游客遇难](https://www.zhihu.com/search?q=%E8%B4%9D%E5%8A%A0%E5%B0%94%E6%B9%96%E6%B1%BD%E8%BD%A6%E8%90%BD%E6%B0%B47%E5%90%8D%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E9%81%87%E9%9A%BE)
 1. [特朗普计划3月31日访华](https://www.zhihu.com/search?q=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A1%E5%88%923%E6%9C%8831%E6%97%A5%E8%AE%BF%E5%8D%8E)
+1. [特朗普称对全球加征10%关税](https://www.zhihu.com/search?q=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%AF%B9%E5%85%A8%E7%90%83%E5%8A%A0%E5%BE%8110%25%E5%85%B3%E7%A8%8E)
+1. [《镖人》票房逆跌](https://www.zhihu.com/search?q=%E3%80%8A%E9%95%96%E4%BA%BA%E3%80%8B%E7%A5%A8%E6%88%BF%E9%80%86%E8%B7%8C)
 1. [小伙撕去年对联天塌了](https://www.zhihu.com/search?q=%E5%B0%8F%E4%BC%99%E6%92%95%E5%8E%BB%E5%B9%B4%E5%AF%B9%E8%81%94%E5%A4%A9%E5%A1%8C%E4%BA%86)
 
 <!-- END -->
