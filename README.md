@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Feb 22 2026 06:27:27 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Feb 22 2026 07:27:25 GMT+0800 (China Standard Time) -->
 
 1. [妈祖换人](https://www.zhihu.com/search?q=%E5%A6%88%E7%A5%96%E6%8D%A2%E4%BA%BA)
 1. [飞驰人生 3](https://www.zhihu.com/search?q=%E9%A3%9E%E9%A9%B0%E4%BA%BA%E7%94%9F%203)
@@ -27,9 +27,9 @@
 1. [特朗普计划3月31日访华](https://www.zhihu.com/search?q=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A1%E5%88%923%E6%9C%8831%E6%97%A5%E8%AE%BF%E5%8D%8E)
 1. [特朗普称对全球加征10%关税](https://www.zhihu.com/search?q=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%AF%B9%E5%85%A8%E7%90%83%E5%8A%A0%E5%BE%8110%25%E5%85%B3%E7%A8%8E)
 1. [小伙撕去年对联天塌了](https://www.zhihu.com/search?q=%E5%B0%8F%E4%BC%99%E6%92%95%E5%8E%BB%E5%B9%B4%E5%AF%B9%E8%81%94%E5%A4%A9%E5%A1%8C%E4%BA%86)
+1. [接财神](https://www.zhihu.com/search?q=%E6%8E%A5%E8%B4%A2%E7%A5%9E)
 1. [王濛：短道速滑问题太大](https://www.zhihu.com/search?q=%E7%8E%8B%E6%BF%9B%EF%BC%9A%E7%9F%AD%E9%81%93%E9%80%9F%E6%BB%91%E9%97%AE%E9%A2%98%E5%A4%AA%E5%A4%A7)
 1. [湛江妈祖女孩被替换](https://www.zhihu.com/search?q=%E6%B9%9B%E6%B1%9F%E5%A6%88%E7%A5%96%E5%A5%B3%E5%AD%A9%E8%A2%AB%E6%9B%BF%E6%8D%A2)
-1. [接财神](https://www.zhihu.com/search?q=%E6%8E%A5%E8%B4%A2%E7%A5%9E)
 1. [中国队空中技巧混团铜牌](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E9%98%9F%E7%A9%BA%E4%B8%AD%E6%8A%80%E5%B7%A7%E6%B7%B7%E5%9B%A2%E9%93%9C%E7%89%8C)
 
 <!-- END -->
