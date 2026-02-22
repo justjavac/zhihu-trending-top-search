@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Feb 22 2026 15:37:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Feb 22 2026 16:36:29 GMT+0800 (China Standard Time) -->
 
 1. [妈祖换人](https://www.zhihu.com/search?q=%E5%A6%88%E7%A5%96%E6%8D%A2%E4%BA%BA)
 1. [飞驰人生 3](https://www.zhihu.com/search?q=%E9%A3%9E%E9%A9%B0%E4%BA%BA%E7%94%9F%203)
@@ -26,8 +26,8 @@
 1. [贝加尔湖汽车落水7名中国游客遇难](https://www.zhihu.com/search?q=%E8%B4%9D%E5%8A%A0%E5%B0%94%E6%B9%96%E6%B1%BD%E8%BD%A6%E8%90%BD%E6%B0%B47%E5%90%8D%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E9%81%87%E9%9A%BE)
 1. [特朗普称对全球加征10%关税](https://www.zhihu.com/search?q=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%AF%B9%E5%85%A8%E7%90%83%E5%8A%A0%E5%BE%8110%25%E5%85%B3%E7%A8%8E)
 1. [湖北文旅厅认定那艺娜为劣迹艺人](https://www.zhihu.com/search?q=%E6%B9%96%E5%8C%97%E6%96%87%E6%97%85%E5%8E%85%E8%AE%A4%E5%AE%9A%E9%82%A3%E8%89%BA%E5%A8%9C%E4%B8%BA%E5%8A%A3%E8%BF%B9%E8%89%BA%E4%BA%BA)
-1. [河南通报夫妻当街殴打女孩](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8D%97%E9%80%9A%E6%8A%A5%E5%A4%AB%E5%A6%BB%E5%BD%93%E8%A1%97%E6%AE%B4%E6%89%93%E5%A5%B3%E5%AD%A9)
 1. [黄晓明回应澳门豪赌输十几亿](https://www.zhihu.com/search?q=%E9%BB%84%E6%99%93%E6%98%8E%E5%9B%9E%E5%BA%94%E6%BE%B3%E9%97%A8%E8%B1%AA%E8%B5%8C%E8%BE%93%E5%8D%81%E5%87%A0%E4%BA%BF)
+1. [河南通报夫妻当街殴打女孩](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8D%97%E9%80%9A%E6%8A%A5%E5%A4%AB%E5%A6%BB%E5%BD%93%E8%A1%97%E6%AE%B4%E6%89%93%E5%A5%B3%E5%AD%A9)
 1. [特朗普计划3月31日访华](https://www.zhihu.com/search?q=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A1%E5%88%923%E6%9C%8831%E6%97%A5%E8%AE%BF%E5%8D%8E)
 1. [苏翊鸣担任冬奥闭幕式中国旗手](https://www.zhihu.com/search?q=%E8%8B%8F%E7%BF%8A%E9%B8%A3%E6%8B%85%E4%BB%BB%E5%86%AC%E5%A5%A5%E9%97%AD%E5%B9%95%E5%BC%8F%E4%B8%AD%E5%9B%BD%E6%97%97%E6%89%8B)
 1. [小伙撕去年对联天塌了](https://www.zhihu.com/search?q=%E5%B0%8F%E4%BC%99%E6%92%95%E5%8E%BB%E5%B9%B4%E5%AF%B9%E8%81%94%E5%A4%A9%E5%A1%8C%E4%BA%86)
