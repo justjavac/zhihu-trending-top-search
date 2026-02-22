@@ -14,19 +14,20 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Feb 23 2026 02:39:09 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Feb 23 2026 04:30:07 GMT+0800 (China Standard Time) -->
 
 1. [妈祖换人](https://www.zhihu.com/search?q=%E5%A6%88%E7%A5%96%E6%8D%A2%E4%BA%BA)
-1. [老农挖走70株全球不足百株的保护植物](https://www.zhihu.com/search?q=%E8%80%81%E5%86%9C%E6%8C%96%E8%B5%B070%E6%A0%AA%E5%85%A8%E7%90%83%E4%B8%8D%E8%B6%B3%E7%99%BE%E6%A0%AA%E7%9A%84%E4%BF%9D%E6%8A%A4%E6%A4%8D%E7%89%A9)
 1. [官方通报网传妈祖巡游换童事件](https://www.zhihu.com/search?q=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E7%BD%91%E4%BC%A0%E5%A6%88%E7%A5%96%E5%B7%A1%E6%B8%B8%E6%8D%A2%E7%AB%A5%E4%BA%8B%E4%BB%B6)
+1. [老农挖走70株全球不足百株的保护植物](https://www.zhihu.com/search?q=%E8%80%81%E5%86%9C%E6%8C%96%E8%B5%B070%E6%A0%AA%E5%85%A8%E7%90%83%E4%B8%8D%E8%B6%B3%E7%99%BE%E6%A0%AA%E7%9A%84%E4%BF%9D%E6%8A%A4%E6%A4%8D%E7%89%A9)
 1. [镖人：风起大漠](https://www.zhihu.com/search?q=%E9%95%96%E4%BA%BA%EF%BC%9A%E9%A3%8E%E8%B5%B7%E5%A4%A7%E6%BC%A0)
-1. [贝加尔湖汽车落水7名中国游客遇难](https://www.zhihu.com/search?q=%E8%B4%9D%E5%8A%A0%E5%B0%94%E6%B9%96%E6%B1%BD%E8%BD%A6%E8%90%BD%E6%B0%B47%E5%90%8D%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E9%81%87%E9%9A%BE)
 1. [谷爱凌金牌](https://www.zhihu.com/search?q=%E8%B0%B7%E7%88%B1%E5%87%8C%E9%87%91%E7%89%8C)
 1. [湖北文旅厅认定那艺娜为劣迹艺人](https://www.zhihu.com/search?q=%E6%B9%96%E5%8C%97%E6%96%87%E6%97%85%E5%8E%85%E8%AE%A4%E5%AE%9A%E9%82%A3%E8%89%BA%E5%A8%9C%E4%B8%BA%E5%8A%A3%E8%BF%B9%E8%89%BA%E4%BA%BA)
+1. [贝加尔湖汽车落水7名中国游客遇难](https://www.zhihu.com/search?q=%E8%B4%9D%E5%8A%A0%E5%B0%94%E6%B9%96%E6%B1%BD%E8%BD%A6%E8%90%BD%E6%B0%B47%E5%90%8D%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E9%81%87%E9%9A%BE)
 1. [河南通报夫妻当街殴打女孩](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8D%97%E9%80%9A%E6%8A%A5%E5%A4%AB%E5%A6%BB%E5%BD%93%E8%A1%97%E6%AE%B4%E6%89%93%E5%A5%B3%E5%AD%A9)
-1. [西北华北多地强沙尘暴](https://www.zhihu.com/search?q=%E8%A5%BF%E5%8C%97%E5%8D%8E%E5%8C%97%E5%A4%9A%E5%9C%B0%E5%BC%BA%E6%B2%99%E5%B0%98%E6%9A%B4)
 1. [极客湾全年手机大横评视频被下架](https://www.zhihu.com/search?q=%E6%9E%81%E5%AE%A2%E6%B9%BE%E5%85%A8%E5%B9%B4%E6%89%8B%E6%9C%BA%E5%A4%A7%E6%A8%AA%E8%AF%84%E8%A7%86%E9%A2%91%E8%A2%AB%E4%B8%8B%E6%9E%B6)
+1. [西北华北多地强沙尘暴](https://www.zhihu.com/search?q=%E8%A5%BF%E5%8C%97%E5%8D%8E%E5%8C%97%E5%A4%9A%E5%9C%B0%E5%BC%BA%E6%B2%99%E5%B0%98%E6%9A%B4)
 1. [女子U型场地决赛中国队包揽冠亚](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90U%E5%9E%8B%E5%9C%BA%E5%9C%B0%E5%86%B3%E8%B5%9B%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%8C%85%E6%8F%BD%E5%86%A0%E4%BA%9A)
+1. [男子用 AI 鉴宝 8 个月收入上百万](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%90%E7%94%A8%20AI%20%E9%89%B4%E5%AE%9D%208%20%E4%B8%AA%E6%9C%88%E6%94%B6%E5%85%A5%E4%B8%8A%E7%99%BE%E4%B8%87)
 1. [王濛：短道速滑问题太大](https://www.zhihu.com/search?q=%E7%8E%8B%E6%BF%9B%EF%BC%9A%E7%9F%AD%E9%81%93%E9%80%9F%E6%BB%91%E9%97%AE%E9%A2%98%E5%A4%AA%E5%A4%A7)
 1. [苏翊鸣担任冬奥闭幕式中国旗手](https://www.zhihu.com/search?q=%E8%8B%8F%E7%BF%8A%E9%B8%A3%E6%8B%85%E4%BB%BB%E5%86%AC%E5%A5%A5%E9%97%AD%E5%B9%95%E5%BC%8F%E4%B8%AD%E5%9B%BD%E6%97%97%E6%89%8B)
 
