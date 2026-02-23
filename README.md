@@ -14,14 +14,15 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Feb 23 2026 14:11:28 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Feb 23 2026 15:56:24 GMT+0800 (China Standard Time) -->
 
 1. [妈祖换人](https://www.zhihu.com/search?q=%E5%A6%88%E7%A5%96%E6%8D%A2%E4%BA%BA)
 1. [官方通报网传妈祖巡游换童事件](https://www.zhihu.com/search?q=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E7%BD%91%E4%BC%A0%E5%A6%88%E7%A5%96%E5%B7%A1%E6%B8%B8%E6%8D%A2%E7%AB%A5%E4%BA%8B%E4%BB%B6)
 1. [谷爱凌金牌](https://www.zhihu.com/search?q=%E8%B0%B7%E7%88%B1%E5%87%8C%E9%87%91%E7%89%8C)
-1. [新疆尉犁县发生5.1级地震](https://www.zhihu.com/search?q=%E6%96%B0%E7%96%86%E5%B0%89%E7%8A%81%E5%8E%BF%E5%8F%91%E7%94%9F5.1%E7%BA%A7%E5%9C%B0%E9%9C%87)
 1. [镖人：风起大漠](https://www.zhihu.com/search?q=%E9%95%96%E4%BA%BA%EF%BC%9A%E9%A3%8E%E8%B5%B7%E5%A4%A7%E6%BC%A0)
+1. [西安大雪](https://www.zhihu.com/search?q=%E8%A5%BF%E5%AE%89%E5%A4%A7%E9%9B%AA)
 1. [马来西亚附近海域7.1级地震](https://www.zhihu.com/search?q=%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E9%99%84%E8%BF%91%E6%B5%B7%E5%9F%9F7.1%E7%BA%A7%E5%9C%B0%E9%9C%87)
+1. [新疆尉犁县发生5.1级地震](https://www.zhihu.com/search?q=%E6%96%B0%E7%96%86%E5%B0%89%E7%8A%81%E5%8E%BF%E5%8F%91%E7%94%9F5.1%E7%BA%A7%E5%9C%B0%E9%9C%87)
 1. [老农挖走70株全球不足百株的保护植物](https://www.zhihu.com/search?q=%E8%80%81%E5%86%9C%E6%8C%96%E8%B5%B070%E6%A0%AA%E5%85%A8%E7%90%83%E4%B8%8D%E8%B6%B3%E7%99%BE%E6%A0%AA%E7%9A%84%E4%BF%9D%E6%8A%A4%E6%A4%8D%E7%89%A9)
 1. [极客湾全年手机大横评视频被下架](https://www.zhihu.com/search?q=%E6%9E%81%E5%AE%A2%E6%B9%BE%E5%85%A8%E5%B9%B4%E6%89%8B%E6%9C%BA%E5%A4%A7%E6%A8%AA%E8%AF%84%E8%A7%86%E9%A2%91%E8%A2%AB%E4%B8%8B%E6%9E%B6)
 1. [河南通报夫妻当街殴打女孩](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8D%97%E9%80%9A%E6%8A%A5%E5%A4%AB%E5%A6%BB%E5%BD%93%E8%A1%97%E6%AE%B4%E6%89%93%E5%A5%B3%E5%AD%A9)
