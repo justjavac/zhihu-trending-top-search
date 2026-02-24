@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Feb 25 2026 05:38:12 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Feb 25 2026 06:36:44 GMT+0800 (China Standard Time) -->
 
 1. [官方通报网传妈祖巡游换童事件](https://www.zhihu.com/search?q=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E7%BD%91%E4%BC%A0%E5%A6%88%E7%A5%96%E5%B7%A1%E6%B8%B8%E6%8D%A2%E7%AB%A5%E4%BA%8B%E4%BB%B6)
 1. [《镖人》票房逆跌](https://www.zhihu.com/search?q=%E3%80%8A%E9%95%96%E4%BA%BA%E3%80%8B%E7%A5%A8%E6%88%BF%E9%80%86%E8%B7%8C)
