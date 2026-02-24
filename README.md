@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Feb 24 2026 18:52:33 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Feb 24 2026 19:41:56 GMT+0800 (China Standard Time) -->
 
 1. [官方通报网传妈祖巡游换童事件](https://www.zhihu.com/search?q=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E7%BD%91%E4%BC%A0%E5%A6%88%E7%A5%96%E5%B7%A1%E6%B8%B8%E6%8D%A2%E7%AB%A5%E4%BA%8B%E4%BB%B6)
 1. [沈腾主演电影总票房破 400 亿](https://www.zhihu.com/search?q=%E6%B2%88%E8%85%BE%E4%B8%BB%E6%BC%94%E7%94%B5%E5%BD%B1%E6%80%BB%E7%A5%A8%E6%88%BF%E7%A0%B4%20400%20%E4%BA%BF)
