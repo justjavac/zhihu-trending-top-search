@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Feb 27 2026 03:45:31 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Feb 27 2026 04:40:40 GMT+0800 (China Standard Time) -->
 
 1. [《镖人》票房逆跌](https://www.zhihu.com/search?q=%E3%80%8A%E9%95%96%E4%BA%BA%E3%80%8B%E7%A5%A8%E6%88%BF%E9%80%86%E8%B7%8C)
 1. [起点万订作者被父母批不务正业](https://www.zhihu.com/search?q=%E8%B5%B7%E7%82%B9%E4%B8%87%E8%AE%A2%E4%BD%9C%E8%80%85%E8%A2%AB%E7%88%B6%E6%AF%8D%E6%89%B9%E4%B8%8D%E5%8A%A1%E6%AD%A3%E4%B8%9A)
@@ -27,6 +27,7 @@
 1. [福特号航母厕所近九成损坏](https://www.zhihu.com/search?q=%E7%A6%8F%E7%89%B9%E5%8F%B7%E8%88%AA%E6%AF%8D%E5%8E%95%E6%89%80%E8%BF%91%E4%B9%9D%E6%88%90%E6%8D%9F%E5%9D%8F)
 1. [妻子爬山失踪10天遗体被发现](https://www.zhihu.com/search?q=%E5%A6%BB%E5%AD%90%E7%88%AC%E5%B1%B1%E5%A4%B1%E8%B8%AA10%E5%A4%A9%E9%81%97%E4%BD%93%E8%A2%AB%E5%8F%91%E7%8E%B0)
 1. [男篮世预赛中国vs日本](https://www.zhihu.com/search?q=%E7%94%B7%E7%AF%AE%E4%B8%96%E9%A2%84%E8%B5%9B%E4%B8%AD%E5%9B%BDvs%E6%97%A5%E6%9C%AC)
+1. [于东来退休后老家卖甘蔗](https://www.zhihu.com/search?q=%E4%BA%8E%E4%B8%9C%E6%9D%A5%E9%80%80%E4%BC%91%E5%90%8E%E8%80%81%E5%AE%B6%E5%8D%96%E7%94%98%E8%94%97)
 1. [中方将20家日本实体列入管控名单](https://www.zhihu.com/search?q=%E4%B8%AD%E6%96%B9%E5%B0%8620%E5%AE%B6%E6%97%A5%E6%9C%AC%E5%AE%9E%E4%BD%93%E5%88%97%E5%85%A5%E7%AE%A1%E6%8E%A7%E5%90%8D%E5%8D%95)
 
 <!-- END -->
