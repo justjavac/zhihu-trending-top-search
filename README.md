@@ -14,20 +14,20 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Feb 28 2026 19:22:17 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Feb 28 2026 20:52:05 GMT+0800 (China Standard Time) -->
 
 1. [美以袭击伊朗](https://www.zhihu.com/search?q=%E7%BE%8E%E4%BB%A5%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97)
-1. [外交部提醒中国公民暂勿前往伊朗](https://www.zhihu.com/search?q=%E5%A4%96%E4%BA%A4%E9%83%A8%E6%8F%90%E9%86%92%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E6%9A%82%E5%8B%BF%E5%89%8D%E5%BE%80%E4%BC%8A%E6%9C%97)
+1. [以色列宣布袭击伊朗](https://www.zhihu.com/search?q=%E4%BB%A5%E8%89%B2%E5%88%97%E5%AE%A3%E5%B8%83%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97)
 1. [考研出分](https://www.zhihu.com/search?q=%E8%80%83%E7%A0%94%E5%87%BA%E5%88%86)
+1. [外交部提醒中国公民暂勿前往伊朗](https://www.zhihu.com/search?q=%E5%A4%96%E4%BA%A4%E9%83%A8%E6%8F%90%E9%86%92%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E6%9A%82%E5%8B%BF%E5%89%8D%E5%BE%80%E4%BC%8A%E6%9C%97)
 1. [米哈游程序员复工当晚猝死](https://www.zhihu.com/search?q=%E7%B1%B3%E5%93%88%E6%B8%B8%E7%A8%8B%E5%BA%8F%E5%91%98%E5%A4%8D%E5%B7%A5%E5%BD%93%E6%99%9A%E7%8C%9D%E6%AD%BB)
 1. [中国手机行业将迎来全面涨价](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E6%89%8B%E6%9C%BA%E8%A1%8C%E4%B8%9A%E5%B0%86%E8%BF%8E%E6%9D%A5%E5%85%A8%E9%9D%A2%E6%B6%A8%E4%BB%B7)
-1. [Anthropic 指控三家中国模型「非法蒸馏」](https://www.zhihu.com/search?q=Anthropic%20%E6%8C%87%E6%8E%A7%E4%B8%89%E5%AE%B6%E4%B8%AD%E5%9B%BD%E6%A8%A1%E5%9E%8B%E3%80%8C%E9%9D%9E%E6%B3%95%E8%92%B8%E9%A6%8F%E3%80%8D)
-1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
-1. [以色列宣布袭击伊朗](https://www.zhihu.com/search?q=%E4%BB%A5%E8%89%B2%E5%88%97%E5%AE%A3%E5%B8%83%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97)
 1. [杭州两只大熊猫 2 天内相继死亡](https://www.zhihu.com/search?q=%E6%9D%AD%E5%B7%9E%E4%B8%A4%E5%8F%AA%E5%A4%A7%E7%86%8A%E7%8C%AB%202%20%E5%A4%A9%E5%86%85%E7%9B%B8%E7%BB%A7%E6%AD%BB%E4%BA%A1)
+1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
+1. [Anthropic 指控三家中国模型「非法蒸馏」](https://www.zhihu.com/search?q=Anthropic%20%E6%8C%87%E6%8E%A7%E4%B8%89%E5%AE%B6%E4%B8%AD%E5%9B%BD%E6%A8%A1%E5%9E%8B%E3%80%8C%E9%9D%9E%E6%B3%95%E8%92%B8%E9%A6%8F%E3%80%8D)
 1. [米哈游程序员复工后意外离世](https://www.zhihu.com/search?q=%E7%B1%B3%E5%93%88%E6%B8%B8%E7%A8%8B%E5%BA%8F%E5%91%98%E5%A4%8D%E5%B7%A5%E5%90%8E%E6%84%8F%E5%A4%96%E7%A6%BB%E4%B8%96)
-1. [女子替父请假两小时父亲被开除](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E6%9B%BF%E7%88%B6%E8%AF%B7%E5%81%87%E4%B8%A4%E5%B0%8F%E6%97%B6%E7%88%B6%E4%BA%B2%E8%A2%AB%E5%BC%80%E9%99%A4)
 1. [文科生72小时杀入GitHub全球榜](https://www.zhihu.com/search?q=%E6%96%87%E7%A7%91%E7%94%9F72%E5%B0%8F%E6%97%B6%E6%9D%80%E5%85%A5GitHub%E5%85%A8%E7%90%83%E6%A6%9C)
+1. [女子替父请假两小时父亲被开除](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E6%9B%BF%E7%88%B6%E8%AF%B7%E5%81%87%E4%B8%A4%E5%B0%8F%E6%97%B6%E7%88%B6%E4%BA%B2%E8%A2%AB%E5%BC%80%E9%99%A4)
 1. [美军已开始打击伊朗](https://www.zhihu.com/search?q=%E7%BE%8E%E5%86%9B%E5%B7%B2%E5%BC%80%E5%A7%8B%E6%89%93%E5%87%BB%E4%BC%8A%E6%9C%97)
 1. [AI 在废掉这代孩子吗](https://www.zhihu.com/search?q=AI%20%E5%9C%A8%E5%BA%9F%E6%8E%89%E8%BF%99%E4%BB%A3%E5%AD%A9%E5%AD%90%E5%90%97)
 1. [杨本芬承认抄袭余华等作家](https://www.zhihu.com/search?q=%E6%9D%A8%E6%9C%AC%E8%8A%AC%E6%89%BF%E8%AE%A4%E6%8A%84%E8%A2%AD%E4%BD%99%E5%8D%8E%E7%AD%89%E4%BD%9C%E5%AE%B6)
