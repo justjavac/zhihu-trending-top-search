@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Mar 03 2026 03:38:25 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Mar 03 2026 04:40:11 GMT+0800 (China Standard Time) -->
 
 1. [美以袭击伊朗](https://www.zhihu.com/search?q=%E7%BE%8E%E4%BB%A5%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97)
 1. [王毅同伊朗外长通电话](https://www.zhihu.com/search?q=%E7%8E%8B%E6%AF%85%E5%90%8C%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%E9%80%9A%E7%94%B5%E8%AF%9D)
