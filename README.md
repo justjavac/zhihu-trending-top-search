@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Mar 03 2026 00:53:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Mar 03 2026 01:48:26 GMT+0800 (China Standard Time) -->
 
 1. [美以袭击伊朗](https://www.zhihu.com/search?q=%E7%BE%8E%E4%BB%A5%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97)
 1. [王毅同伊朗外长通电话](https://www.zhihu.com/search?q=%E7%8E%8B%E6%AF%85%E5%90%8C%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%E9%80%9A%E7%94%B5%E8%AF%9D)
@@ -23,11 +23,12 @@
 1. [演员王劲松遭 AI 盗用形象生成视频](https://www.zhihu.com/search?q=%E6%BC%94%E5%91%98%E7%8E%8B%E5%8A%B2%E6%9D%BE%E9%81%AD%20AI%20%E7%9B%97%E7%94%A8%E5%BD%A2%E8%B1%A1%E7%94%9F%E6%88%90%E8%A7%86%E9%A2%91)
 1. [哈梅内伊身亡更多细节](https://www.zhihu.com/search?q=%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A%E8%BA%AB%E4%BA%A1%E6%9B%B4%E5%A4%9A%E7%BB%86%E8%8A%82)
 1. [伊朗向美航母发射 4 枚弹道导弹](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%90%91%E7%BE%8E%E8%88%AA%E6%AF%8D%E5%8F%91%E5%B0%84%204%20%E6%9E%9A%E5%BC%B9%E9%81%93%E5%AF%BC%E5%BC%B9)
-1. [外交部就哈梅内伊遇害答记者问](https://www.zhihu.com/search?q=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%B0%B1%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A%E9%81%87%E5%AE%B3%E7%AD%94%E8%AE%B0%E8%80%85%E9%97%AE)
 1. [23岁985直博生胃癌晚期](https://www.zhihu.com/search?q=23%E5%B2%81985%E7%9B%B4%E5%8D%9A%E7%94%9F%E8%83%83%E7%99%8C%E6%99%9A%E6%9C%9F)
 1. [美军承认仿制伊朗无人机攻击伊朗](https://www.zhihu.com/search?q=%E7%BE%8E%E5%86%9B%E6%89%BF%E8%AE%A4%E4%BB%BF%E5%88%B6%E4%BC%8A%E6%9C%97%E6%97%A0%E4%BA%BA%E6%9C%BA%E6%94%BB%E5%87%BB%E4%BC%8A%E6%9C%97)
 1. [一架美军战机在科威特坠毁](https://www.zhihu.com/search?q=%E4%B8%80%E6%9E%B6%E7%BE%8E%E5%86%9B%E6%88%98%E6%9C%BA%E5%9C%A8%E7%A7%91%E5%A8%81%E7%89%B9%E5%9D%A0%E6%AF%81)
 1. [3000 名中国公民自伊朗撤离](https://www.zhihu.com/search?q=3000%20%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E8%87%AA%E4%BC%8A%E6%9C%97%E6%92%A4%E7%A6%BB)
+1. [黄仁勋预警游戏显卡将严重缺货](https://www.zhihu.com/search?q=%E9%BB%84%E4%BB%81%E5%8B%8B%E9%A2%84%E8%AD%A6%E6%B8%B8%E6%88%8F%E6%98%BE%E5%8D%A1%E5%B0%86%E4%B8%A5%E9%87%8D%E7%BC%BA%E8%B4%A7)
+1. [外交部就哈梅内伊遇害答记者问](https://www.zhihu.com/search?q=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%B0%B1%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A%E9%81%87%E5%AE%B3%E7%AD%94%E8%AE%B0%E8%80%85%E9%97%AE)
 
 <!-- END -->
 
