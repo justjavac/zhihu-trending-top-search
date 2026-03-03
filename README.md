@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Mar 04 2026 06:32:17 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Mar 04 2026 07:29:51 GMT+0800 (China Standard Time) -->
 
 1. [美以袭击伊朗](https://www.zhihu.com/search?q=%E7%BE%8E%E4%BB%A5%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97)
 1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
@@ -27,6 +27,7 @@
 1. [反诈老陈账号被封禁](https://www.zhihu.com/search?q=%E5%8F%8D%E8%AF%88%E8%80%81%E9%99%88%E8%B4%A6%E5%8F%B7%E8%A2%AB%E5%B0%81%E7%A6%81)
 1. [哈梅内伊身亡更多细节](https://www.zhihu.com/search?q=%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A%E8%BA%AB%E4%BA%A1%E6%9B%B4%E5%A4%9A%E7%BB%86%E8%8A%82)
 1. [美军承认仿制伊朗无人机攻击伊朗](https://www.zhihu.com/search?q=%E7%BE%8E%E5%86%9B%E6%89%BF%E8%AE%A4%E4%BB%BF%E5%88%B6%E4%BC%8A%E6%9C%97%E6%97%A0%E4%BA%BA%E6%9C%BA%E6%94%BB%E5%87%BB%E4%BC%8A%E6%9C%97)
+1. [战事已延烧至整个波斯湾](https://www.zhihu.com/search?q=%E6%88%98%E4%BA%8B%E5%B7%B2%E5%BB%B6%E7%83%A7%E8%87%B3%E6%95%B4%E4%B8%AA%E6%B3%A2%E6%96%AF%E6%B9%BE)
 1. [伊拉克民兵武装宣布参战](https://www.zhihu.com/search?q=%E4%BC%8A%E6%8B%89%E5%85%8B%E6%B0%91%E5%85%B5%E6%AD%A6%E8%A3%85%E5%AE%A3%E5%B8%83%E5%8F%82%E6%88%98)
 1. [比亚迪元Plus遭伊朗导弹攻击](https://www.zhihu.com/search?q=%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%85%83Plus%E9%81%AD%E4%BC%8A%E6%9C%97%E5%AF%BC%E5%BC%B9%E6%94%BB%E5%87%BB)
 1. [月全食](https://www.zhihu.com/search?q=%E6%9C%88%E5%85%A8%E9%A3%9F)
