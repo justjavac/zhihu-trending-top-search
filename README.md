@@ -14,14 +14,14 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Mar 04 2026 00:53:15 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Mar 04 2026 01:45:52 GMT+0800 (China Standard Time) -->
 
 1. [月全食](https://www.zhihu.com/search?q=%E6%9C%88%E5%85%A8%E9%A3%9F)
 1. [美以袭击伊朗](https://www.zhihu.com/search?q=%E7%BE%8E%E4%BB%A5%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97)
 1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
 1. [王毅同伊朗外长通电话](https://www.zhihu.com/search?q=%E7%8E%8B%E6%AF%85%E5%90%8C%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%E9%80%9A%E7%94%B5%E8%AF%9D)
-1. [哈梅内伊遇袭身亡](https://www.zhihu.com/search?q=%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A%E9%81%87%E8%A2%AD%E8%BA%AB%E4%BA%A1)
 1. [谢娜喊话薛之谦向张杰道歉](https://www.zhihu.com/search?q=%E8%B0%A2%E5%A8%9C%E5%96%8A%E8%AF%9D%E8%96%9B%E4%B9%8B%E8%B0%A6%E5%90%91%E5%BC%A0%E6%9D%B0%E9%81%93%E6%AD%89)
+1. [哈梅内伊遇袭身亡](https://www.zhihu.com/search?q=%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A%E9%81%87%E8%A2%AD%E8%BA%AB%E4%BA%A1)
 1. [比亚迪将召开颠覆性技术发布会](https://www.zhihu.com/search?q=%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%B0%86%E5%8F%AC%E5%BC%80%E9%A2%A0%E8%A6%86%E6%80%A7%E6%8A%80%E6%9C%AF%E5%8F%91%E5%B8%83%E4%BC%9A)
 1. [2026年全国两会](https://www.zhihu.com/search?q=2026%E5%B9%B4%E5%85%A8%E5%9B%BD%E4%B8%A4%E4%BC%9A)
 1. [伊朗关闭霍尔木兹海峡](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%85%B3%E9%97%AD%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1)
