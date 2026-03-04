@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Mar 04 2026 14:53:00 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Mar 04 2026 15:38:55 GMT+0800 (China Standard Time) -->
 
 1. [美以袭击伊朗](https://www.zhihu.com/search?q=%E7%BE%8E%E4%BB%A5%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97)
 1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
@@ -25,8 +25,8 @@
 1. [伊朗关闭霍尔木兹海峡](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%85%B3%E9%97%AD%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1)
 1. [美军承认仿制伊朗无人机攻击伊朗](https://www.zhihu.com/search?q=%E7%BE%8E%E5%86%9B%E6%89%BF%E8%AE%A4%E4%BB%BF%E5%88%B6%E4%BC%8A%E6%9C%97%E6%97%A0%E4%BA%BA%E6%9C%BA%E6%94%BB%E5%87%BB%E4%BC%8A%E6%9C%97)
 1. [最高法明确彩礼诈骗将担刑责](https://www.zhihu.com/search?q=%E6%9C%80%E9%AB%98%E6%B3%95%E6%98%8E%E7%A1%AE%E5%BD%A9%E7%A4%BC%E8%AF%88%E9%AA%97%E5%B0%86%E6%8B%85%E5%88%91%E8%B4%A3)
-1. [哈梅内伊身亡更多细节](https://www.zhihu.com/search?q=%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A%E8%BA%AB%E4%BA%A1%E6%9B%B4%E5%A4%9A%E7%BB%86%E8%8A%82)
 1. [美军承认用了新装备](https://www.zhihu.com/search?q=%E7%BE%8E%E5%86%9B%E6%89%BF%E8%AE%A4%E7%94%A8%E4%BA%86%E6%96%B0%E8%A3%85%E5%A4%87)
+1. [哈梅内伊身亡更多细节](https://www.zhihu.com/search?q=%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A%E8%BA%AB%E4%BA%A1%E6%9B%B4%E5%A4%9A%E7%BB%86%E8%8A%82)
 1. [比亚迪元Plus硬抗伊朗导弹](https://www.zhihu.com/search?q=%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%85%83Plus%E7%A1%AC%E6%8A%97%E4%BC%8A%E6%9C%97%E5%AF%BC%E5%BC%B9)
 1. [美伊冲突结局推演](https://www.zhihu.com/search?q=%E7%BE%8E%E4%BC%8A%E5%86%B2%E7%AA%81%E7%BB%93%E5%B1%80%E6%8E%A8%E6%BC%94)
 1. [谢娜喊话薛之谦向张杰道歉](https://www.zhihu.com/search?q=%E8%B0%A2%E5%A8%9C%E5%96%8A%E8%AF%9D%E8%96%9B%E4%B9%8B%E8%B0%A6%E5%90%91%E5%BC%A0%E6%9D%B0%E9%81%93%E6%AD%89)
