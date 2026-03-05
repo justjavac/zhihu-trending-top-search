@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Mar 06 2026 02:06:38 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Mar 06 2026 03:53:00 GMT+0800 (China Standard Time) -->
 
 1. [政府工作报告](https://www.zhihu.com/search?q=%E6%94%BF%E5%BA%9C%E5%B7%A5%E4%BD%9C%E6%8A%A5%E5%91%8A)
 1. [拟发超长期特别国债1.3万亿](https://www.zhihu.com/search?q=%E6%8B%9F%E5%8F%91%E8%B6%85%E9%95%BF%E6%9C%9F%E7%89%B9%E5%88%AB%E5%9B%BD%E5%80%BA1.3%E4%B8%87%E4%BA%BF)
@@ -27,6 +27,7 @@
 1. [比亚迪发布第二代刀片电池及闪充技术](https://www.zhihu.com/search?q=%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%8F%91%E5%B8%83%E7%AC%AC%E4%BA%8C%E4%BB%A3%E5%88%80%E7%89%87%E7%94%B5%E6%B1%A0%E5%8F%8A%E9%97%AA%E5%85%85%E6%8A%80%E6%9C%AF)
 1. [推广春秋假及错峰休假](https://www.zhihu.com/search?q=%E6%8E%A8%E5%B9%BF%E6%98%A5%E7%A7%8B%E5%81%87%E5%8F%8A%E9%94%99%E5%B3%B0%E4%BC%91%E5%81%87)
 1. [2026年全国两会](https://www.zhihu.com/search?q=2026%E5%B9%B4%E5%85%A8%E5%9B%BD%E4%B8%A4%E4%BC%9A)
+1. [日韩股市崩了](https://www.zhihu.com/search?q=%E6%97%A5%E9%9F%A9%E8%82%A1%E5%B8%82%E5%B4%A9%E4%BA%86)
 1. [阿里千问林俊旸等多名骨干卸任](https://www.zhihu.com/search?q=%E9%98%BF%E9%87%8C%E5%8D%83%E9%97%AE%E6%9E%97%E4%BF%8A%E6%97%B8%E7%AD%89%E5%A4%9A%E5%90%8D%E9%AA%A8%E5%B9%B2%E5%8D%B8%E4%BB%BB)
 
 <!-- END -->
