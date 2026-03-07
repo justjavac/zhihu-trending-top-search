@@ -14,11 +14,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Mar 08 2026 01:24:04 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Mar 08 2026 02:37:39 GMT+0800 (China Standard Time) -->
 
 1. [美以袭击伊朗](https://www.zhihu.com/search?q=%E7%BE%8E%E4%BB%A5%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97)
-1. [《SHIT》期刊](https://www.zhihu.com/search?q=%E3%80%8ASHIT%E3%80%8B%E6%9C%9F%E5%88%8A)
 1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
+1. [《SHIT》期刊](https://www.zhihu.com/search?q=%E3%80%8ASHIT%E3%80%8B%E6%9C%9F%E5%88%8A)
 1. [伊发射超重型导弹为遇难学生复仇](https://www.zhihu.com/search?q=%E4%BC%8A%E5%8F%91%E5%B0%84%E8%B6%85%E9%87%8D%E5%9E%8B%E5%AF%BC%E5%BC%B9%E4%B8%BA%E9%81%87%E9%9A%BE%E5%AD%A6%E7%94%9F%E5%A4%8D%E4%BB%87)
 1. [张凯丽建议全国统一婚假](https://www.zhihu.com/search?q=%E5%BC%A0%E5%87%AF%E4%B8%BD%E5%BB%BA%E8%AE%AE%E5%85%A8%E5%9B%BD%E7%BB%9F%E4%B8%80%E5%A9%9A%E5%81%87)
 1. [贾国龙卸任 CEO](https://www.zhihu.com/search?q=%E8%B4%BE%E5%9B%BD%E9%BE%99%E5%8D%B8%E4%BB%BB%20CEO)
