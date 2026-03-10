@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Mar 10 2026 16:49:21 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Mar 10 2026 17:54:33 GMT+0800 (China Standard Time) -->
 
 1. [美以袭击伊朗](https://www.zhihu.com/search?q=%E7%BE%8E%E4%BB%A5%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97)
 1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
@@ -26,8 +26,9 @@
 1. [OpenClaw 爆火工信部发布高危风险预警](https://www.zhihu.com/search?q=OpenClaw%20%E7%88%86%E7%81%AB%E5%B7%A5%E4%BF%A1%E9%83%A8%E5%8F%91%E5%B8%83%E9%AB%98%E5%8D%B1%E9%A3%8E%E9%99%A9%E9%A2%84%E8%AD%A6)
 1. [特朗普称对伊军事行动将很快结束](https://www.zhihu.com/search?q=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%AF%B9%E4%BC%8A%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8%E5%B0%86%E5%BE%88%E5%BF%AB%E7%BB%93%E6%9D%9F)
 1. [中传砍掉翻译摄影等16个专业](https://www.zhihu.com/search?q=%E4%B8%AD%E4%BC%A0%E7%A0%8D%E6%8E%89%E7%BF%BB%E8%AF%91%E6%91%84%E5%BD%B1%E7%AD%8916%E4%B8%AA%E4%B8%93%E4%B8%9A)
-1. [特朗普称适时结束对伊军事行动](https://www.zhihu.com/search?q=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E9%80%82%E6%97%B6%E7%BB%93%E6%9D%9F%E5%AF%B9%E4%BC%8A%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8)
+1. [女子挤痘痘后确诊2型糖尿病](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E6%8C%A4%E7%97%98%E7%97%98%E5%90%8E%E7%A1%AE%E8%AF%8A2%E5%9E%8B%E7%B3%96%E5%B0%BF%E7%97%85)
 1. [国际油价突破每桶 100 美元](https://www.zhihu.com/search?q=%E5%9B%BD%E9%99%85%E6%B2%B9%E4%BB%B7%E7%AA%81%E7%A0%B4%E6%AF%8F%E6%A1%B6%20100%20%E7%BE%8E%E5%85%83)
+1. [特朗普称适时结束对伊军事行动](https://www.zhihu.com/search?q=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E9%80%82%E6%97%B6%E7%BB%93%E6%9D%9F%E5%AF%B9%E4%BC%8A%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8)
 1. [伊朗最高领袖人选已定](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E4%BA%BA%E9%80%89%E5%B7%B2%E5%AE%9A)
 1. [张凯丽建议全国统一婚假](https://www.zhihu.com/search?q=%E5%BC%A0%E5%87%AF%E4%B8%BD%E5%BB%BA%E8%AE%AE%E5%85%A8%E5%9B%BD%E7%BB%9F%E4%B8%80%E5%A9%9A%E5%81%87)
 1. [哈梅内伊之子当选伊朗最高领袖](https://www.zhihu.com/search?q=%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A%E4%B9%8B%E5%AD%90%E5%BD%93%E9%80%89%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96)
