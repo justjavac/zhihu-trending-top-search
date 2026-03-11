@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Mar 11 2026 13:51:20 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Mar 11 2026 14:57:55 GMT+0800 (China Standard Time) -->
 
 1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
 1. [OpenClaw 爆火](https://www.zhihu.com/search?q=OpenClaw%20%E7%88%86%E7%81%AB)
@@ -26,11 +26,11 @@
 1. [委员建议文旅不要沉迷做网红](https://www.zhihu.com/search?q=%E5%A7%94%E5%91%98%E5%BB%BA%E8%AE%AE%E6%96%87%E6%97%85%E4%B8%8D%E8%A6%81%E6%B2%89%E8%BF%B7%E5%81%9A%E7%BD%91%E7%BA%A2)
 1. [司美格鲁肽崩了](https://www.zhihu.com/search?q=%E5%8F%B8%E7%BE%8E%E6%A0%BC%E9%B2%81%E8%82%BD%E5%B4%A9%E4%BA%86)
 1. [王传福李斌快充论战](https://www.zhihu.com/search?q=%E7%8E%8B%E4%BC%A0%E7%A6%8F%E6%9D%8E%E6%96%8C%E5%BF%AB%E5%85%85%E8%AE%BA%E6%88%98)
+1. [以色列宣布袭击伊朗](https://www.zhihu.com/search?q=%E4%BB%A5%E8%89%B2%E5%88%97%E5%AE%A3%E5%B8%83%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97)
 1. [Rookie官宣与小钰分手](https://www.zhihu.com/search?q=Rookie%E5%AE%98%E5%AE%A3%E4%B8%8E%E5%B0%8F%E9%92%B0%E5%88%86%E6%89%8B)
 1. [萨德](https://www.zhihu.com/search?q=%E8%90%A8%E5%BE%B7)
 1. [伊朗提出停火条件](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E6%8F%90%E5%87%BA%E5%81%9C%E7%81%AB%E6%9D%A1%E4%BB%B6)
 1. [女子挤痘痘后确诊2型糖尿病](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E6%8C%A4%E7%97%98%E7%97%98%E5%90%8E%E7%A1%AE%E8%AF%8A2%E5%9E%8B%E7%B3%96%E5%B0%BF%E7%97%85)
-1. [以色列宣布袭击伊朗](https://www.zhihu.com/search?q=%E4%BB%A5%E8%89%B2%E5%88%97%E5%AE%A3%E5%B8%83%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97)
 1. [国际油价突破每桶 100 美元](https://www.zhihu.com/search?q=%E5%9B%BD%E9%99%85%E6%B2%B9%E4%BB%B7%E7%AA%81%E7%A0%B4%E6%AF%8F%E6%A1%B6%20100%20%E7%BE%8E%E5%85%83)
 1. [伊朗最高领袖人选已定](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E4%BA%BA%E9%80%89%E5%B7%B2%E5%AE%9A)
 1. [雷军：未来每周或仅需工作3天](https://www.zhihu.com/search?q=%E9%9B%B7%E5%86%9B%EF%BC%9A%E6%9C%AA%E6%9D%A5%E6%AF%8F%E5%91%A8%E6%88%96%E4%BB%85%E9%9C%80%E5%B7%A5%E4%BD%9C3%E5%A4%A9)
