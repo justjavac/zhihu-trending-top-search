@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Mar 13 2026 02:58:03 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Mar 13 2026 03:46:01 GMT+0800 (China Standard Time) -->
 
 1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
 1. [司美格鲁肽崩了](https://www.zhihu.com/search?q=%E5%8F%B8%E7%BE%8E%E6%A0%BC%E9%B2%81%E8%82%BD%E5%B4%A9%E4%BA%86)
@@ -27,6 +27,7 @@
 1. [父亲嫌女儿50元买玫瑰贵大闹花店](https://www.zhihu.com/search?q=%E7%88%B6%E4%BA%B2%E5%AB%8C%E5%A5%B3%E5%84%BF50%E5%85%83%E4%B9%B0%E7%8E%AB%E7%91%B0%E8%B4%B5%E5%A4%A7%E9%97%B9%E8%8A%B1%E5%BA%97)
 1. [王濛申报破格晋升国家级教练](https://www.zhihu.com/search?q=%E7%8E%8B%E6%BF%9B%E7%94%B3%E6%8A%A5%E7%A0%B4%E6%A0%BC%E6%99%8B%E5%8D%87%E5%9B%BD%E5%AE%B6%E7%BA%A7%E6%95%99%E7%BB%83)
 1. [伊朗被曝在霍尔木兹海峡布设水雷](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E8%A2%AB%E6%9B%9D%E5%9C%A8%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E5%B8%83%E8%AE%BE%E6%B0%B4%E9%9B%B7)
+1. [合肥高三生一作发表CVPR2026](https://www.zhihu.com/search?q=%E5%90%88%E8%82%A5%E9%AB%98%E4%B8%89%E7%94%9F%E4%B8%80%E4%BD%9C%E5%8F%91%E8%A1%A8CVPR2026)
 1. [王传福李斌快充论战](https://www.zhihu.com/search?q=%E7%8E%8B%E4%BC%A0%E7%A6%8F%E6%9D%8E%E6%96%8C%E5%BF%AB%E5%85%85%E8%AE%BA%E6%88%98)
 1. [台湾花莲县 5.3 级地震](https://www.zhihu.com/search?q=%E5%8F%B0%E6%B9%BE%E8%8A%B1%E8%8E%B2%E5%8E%BF%205.3%20%E7%BA%A7%E5%9C%B0%E9%9C%87)
 1. [伊朗提出停火条件](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E6%8F%90%E5%87%BA%E5%81%9C%E7%81%AB%E6%9D%A1%E4%BB%B6)
