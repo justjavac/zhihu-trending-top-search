@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Mar 12 2026 14:59:43 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Mar 12 2026 15:51:25 GMT+0800 (China Standard Time) -->
 
 1. [建议增设元宵重阳为法定节假日](https://www.zhihu.com/search?q=%E5%BB%BA%E8%AE%AE%E5%A2%9E%E8%AE%BE%E5%85%83%E5%AE%B5%E9%87%8D%E9%98%B3%E4%B8%BA%E6%B3%95%E5%AE%9A%E8%8A%82%E5%81%87%E6%97%A5)
 1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
