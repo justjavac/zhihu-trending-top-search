@@ -14,15 +14,16 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Mar 13 2026 15:50:12 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Mar 13 2026 16:45:07 GMT+0800 (China Standard Time) -->
 
 1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
 1. [伊朗最高领袖发表首份声明](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%8F%91%E8%A1%A8%E9%A6%96%E4%BB%BD%E5%A3%B0%E6%98%8E)
+1. [冻干草莓测出20种农药](https://www.zhihu.com/search?q=%E5%86%BB%E5%B9%B2%E8%8D%89%E8%8E%93%E6%B5%8B%E5%87%BA20%E7%A7%8D%E5%86%9C%E8%8D%AF)
 1. [美以袭击伊朗](https://www.zhihu.com/search?q=%E7%BE%8E%E4%BB%A5%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97)
-1. [OpenClaw 爆火](https://www.zhihu.com/search?q=OpenClaw%20%E7%88%86%E7%81%AB)
 1. [知乎全球 A2A 黑客松](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E5%85%A8%E7%90%83%20A2A%20%E9%BB%91%E5%AE%A2%E6%9D%BE)
-1. [建议增设元宵重阳为法定节假日](https://www.zhihu.com/search?q=%E5%BB%BA%E8%AE%AE%E5%A2%9E%E8%AE%BE%E5%85%83%E5%AE%B5%E9%87%8D%E9%98%B3%E4%B8%BA%E6%B3%95%E5%AE%9A%E8%8A%82%E5%81%87%E6%97%A5)
+1. [OpenClaw 爆火](https://www.zhihu.com/search?q=OpenClaw%20%E7%88%86%E7%81%AB)
 1. [合肥高三生一作发表CVPR2026](https://www.zhihu.com/search?q=%E5%90%88%E8%82%A5%E9%AB%98%E4%B8%89%E7%94%9F%E4%B8%80%E4%BD%9C%E5%8F%91%E8%A1%A8CVPR2026)
+1. [建议增设元宵重阳为法定节假日](https://www.zhihu.com/search?q=%E5%BB%BA%E8%AE%AE%E5%A2%9E%E8%AE%BE%E5%85%83%E5%AE%B5%E9%87%8D%E9%98%B3%E4%B8%BA%E6%B3%95%E5%AE%9A%E8%8A%82%E5%81%87%E6%97%A5)
 1. [父亲嫌女儿50元买玫瑰贵大闹花店](https://www.zhihu.com/search?q=%E7%88%B6%E4%BA%B2%E5%AB%8C%E5%A5%B3%E5%84%BF50%E5%85%83%E4%B9%B0%E7%8E%AB%E7%91%B0%E8%B4%B5%E5%A4%A7%E9%97%B9%E8%8A%B1%E5%BA%97)
 1. [伊朗总统提出结束战争三大条件](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E6%8F%90%E5%87%BA%E7%BB%93%E6%9D%9F%E6%88%98%E4%BA%89%E4%B8%89%E5%A4%A7%E6%9D%A1%E4%BB%B6)
 1. [台湾花莲县 5.3 级地震](https://www.zhihu.com/search?q=%E5%8F%B0%E6%B9%BE%E8%8A%B1%E8%8E%B2%E5%8E%BF%205.3%20%E7%BA%A7%E5%9C%B0%E9%9C%87)
