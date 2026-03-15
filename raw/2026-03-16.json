@@ -1,14 +1,16 @@
 [
-  { "query_display": "央视315晚会", "real_query": "央视315晚会" },
-  { "query_display": "网红鸡爪使用双氧水漂白", "real_query": "网红鸡爪使用双氧水漂白" },
-  { "query_display": "315晚会打假万能神药外泌体", "real_query": "315晚会打假万能神药外泌体" },
   { "query_display": "伊朗局势", "real_query": "伊朗局势" },
-  { "query_display": "315 曝光青少年增高骗局", "real_query": "315 曝光青少年增高骗局" },
+  { "query_display": "央视315晚会", "real_query": "央视315晚会" },
   { "query_display": "美以袭击伊朗", "real_query": "美以袭击伊朗" },
+  { "query_display": "小红书被曝存在儿童软色情内容", "real_query": "小红书被曝存在儿童软色情内容" },
+  { "query_display": "315 曝光青少年增高骗局", "real_query": "315 曝光青少年增高骗局" },
+  { "query_display": "刘文祥麻辣烫被曝牛肉实为鸭肉", "real_query": "刘文祥麻辣烫被曝牛肉实为鸭肉" },
   { "query_display": "私域营销 5 倍暴利围猎老人", "real_query": "私域营销 5 倍暴利围猎老人" },
   { "query_display": "315曝光哈啰等租电动车违反新国标", "real_query": "315曝光哈啰等租电动车违反新国标" },
   { "query_display": "给 AI 投毒已成产业链", "real_query": "给 AI 投毒已成产业链" },
-  { "query_display": "小红书被曝存在儿童软色情内容", "real_query": "小红书被曝存在儿童软色情内容" },
-  { "query_display": "刘文祥麻辣烫被曝牛肉实为鸭肉", "real_query": "刘文祥麻辣烫被曝牛肉实为鸭肉" },
-  { "query_display": "伊朗对以色列至今最猛空袭", "real_query": "伊朗对以色列至今最猛空袭" }
+  { "query_display": "伊朗对以色列至今最猛空袭", "real_query": "伊朗对以色列至今最猛空袭" },
+  { "query_display": "官方通报男子做核磁被困6小时", "real_query": "官方通报男子做核磁被困6小时" },
+  { "query_display": "冻干草莓测出20种农药", "real_query": "冻干草莓测出20种农药" },
+  { "query_display": "网红鸡爪使用双氧水漂白", "real_query": "网红鸡爪使用双氧水漂白" },
+  { "query_display": "315晚会打假万能神药外泌体", "real_query": "315晚会打假万能神药外泌体" }
 ]
