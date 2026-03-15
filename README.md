@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Mar 15 2026 20:59:27 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Mar 15 2026 21:53:02 GMT+0800 (China Standard Time) -->
 
 1. [315](https://www.zhihu.com/search?q=315)
 1. [央视315晚会](https://www.zhihu.com/search?q=%E5%A4%AE%E8%A7%86315%E6%99%9A%E4%BC%9A)
@@ -24,6 +24,9 @@
 1. [315 曝光青少年增高骗局](https://www.zhihu.com/search?q=315%20%E6%9B%9D%E5%85%89%E9%9D%92%E5%B0%91%E5%B9%B4%E5%A2%9E%E9%AB%98%E9%AA%97%E5%B1%80)
 1. [小红书被曝存在儿童软色情内容](https://www.zhihu.com/search?q=%E5%B0%8F%E7%BA%A2%E4%B9%A6%E8%A2%AB%E6%9B%9D%E5%AD%98%E5%9C%A8%E5%84%BF%E7%AB%A5%E8%BD%AF%E8%89%B2%E6%83%85%E5%86%85%E5%AE%B9)
 1. [伊朗最高领袖发表首份声明](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%8F%91%E8%A1%A8%E9%A6%96%E4%BB%BD%E5%A3%B0%E6%98%8E)
+1. [给 AI 投毒已成产业链](https://www.zhihu.com/search?q=%E7%BB%99%20AI%20%E6%8A%95%E6%AF%92%E5%B7%B2%E6%88%90%E4%BA%A7%E4%B8%9A%E9%93%BE)
+1. [315曝光哈啰等租电动车违反新国标](https://www.zhihu.com/search?q=315%E6%9B%9D%E5%85%89%E5%93%88%E5%95%B0%E7%AD%89%E7%A7%9F%E7%94%B5%E5%8A%A8%E8%BD%A6%E8%BF%9D%E5%8F%8D%E6%96%B0%E5%9B%BD%E6%A0%87)
+1. [私域营销 5 倍暴利围猎老人](https://www.zhihu.com/search?q=%E7%A7%81%E5%9F%9F%E8%90%A5%E9%94%80%205%20%E5%80%8D%E6%9A%B4%E5%88%A9%E5%9B%B4%E7%8C%8E%E8%80%81%E4%BA%BA)
 1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
 1. [美以袭击伊朗](https://www.zhihu.com/search?q=%E7%BE%8E%E4%BB%A5%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97)
 1. [王楚钦2-4松岛辉空](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A62-4%E6%9D%BE%E5%B2%9B%E8%BE%89%E7%A9%BA)
