@@ -14,20 +14,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Mar 18 2026 04:41:44 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Mar 18 2026 05:40:17 GMT+0800 (China Standard Time) -->
 
 1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
 1. [中南大学湘雅医院一研究生坠江身亡](https://www.zhihu.com/search?q=%E4%B8%AD%E5%8D%97%E5%A4%A7%E5%AD%A6%E6%B9%98%E9%9B%85%E5%8C%BB%E9%99%A2%E4%B8%80%E7%A0%94%E7%A9%B6%E7%94%9F%E5%9D%A0%E6%B1%9F%E8%BA%AB%E4%BA%A1)
 1. [给 AI 投毒已成产业链](https://www.zhihu.com/search?q=%E7%BB%99%20AI%20%E6%8A%95%E6%AF%92%E5%B7%B2%E6%88%90%E4%BA%A7%E4%B8%9A%E9%93%BE)
-1. [班主任如何面对自己学生去世](https://www.zhihu.com/search?q=%E7%8F%AD%E4%B8%BB%E4%BB%BB%E5%A6%82%E4%BD%95%E9%9D%A2%E5%AF%B9%E8%87%AA%E5%B7%B1%E5%AD%A6%E7%94%9F%E5%8E%BB%E4%B8%96)
+1. [如果汉字失传了释读它的难度有多大](https://www.zhihu.com/search?q=%E5%A6%82%E6%9E%9C%E6%B1%89%E5%AD%97%E5%A4%B1%E4%BC%A0%E4%BA%86%E9%87%8A%E8%AF%BB%E5%AE%83%E7%9A%84%E9%9A%BE%E5%BA%A6%E6%9C%89%E5%A4%9A%E5%A4%A7)
 1. [315 曝光给 AI 投毒已成产业链](https://www.zhihu.com/search?q=315%20%E6%9B%9D%E5%85%89%E7%BB%99%20AI%20%E6%8A%95%E6%AF%92%E5%B7%B2%E6%88%90%E4%BA%A7%E4%B8%9A%E9%93%BE)
 1. [中南大学湘雅医院](https://www.zhihu.com/search?q=%E4%B8%AD%E5%8D%97%E5%A4%A7%E5%AD%A6%E6%B9%98%E9%9B%85%E5%8C%BB%E9%99%A2)
-1. [美以袭击伊朗](https://www.zhihu.com/search?q=%E7%BE%8E%E4%BB%A5%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97)
+1. [湘雅医院坠江身亡研究生导师已停诊](https://www.zhihu.com/search?q=%E6%B9%98%E9%9B%85%E5%8C%BB%E9%99%A2%E5%9D%A0%E6%B1%9F%E8%BA%AB%E4%BA%A1%E7%A0%94%E7%A9%B6%E7%94%9F%E5%AF%BC%E5%B8%88%E5%B7%B2%E5%81%9C%E8%AF%8A)
 1. [智飞生物积压价值两百亿的 HPV 疫苗](https://www.zhihu.com/search?q=%E6%99%BA%E9%A3%9E%E7%94%9F%E7%89%A9%E7%A7%AF%E5%8E%8B%E4%BB%B7%E5%80%BC%E4%B8%A4%E7%99%BE%E4%BA%BF%E7%9A%84%20HPV%20%E7%96%AB%E8%8B%97)
 1. [外交部回应特朗普将推迟访华言论](https://www.zhihu.com/search?q=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E6%8E%A8%E8%BF%9F%E8%AE%BF%E5%8D%8E%E8%A8%80%E8%AE%BA)
-1. [湘雅医院坠江身亡研究生导师已停诊](https://www.zhihu.com/search?q=%E6%B9%98%E9%9B%85%E5%8C%BB%E9%99%A2%E5%9D%A0%E6%B1%9F%E8%BA%AB%E4%BA%A1%E7%A0%94%E7%A9%B6%E7%94%9F%E5%AF%BC%E5%B8%88%E5%B7%B2%E5%81%9C%E8%AF%8A)
+1. [美以袭击伊朗](https://www.zhihu.com/search?q=%E7%BE%8E%E4%BB%A5%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97)
 1. [过度的追责会不会导致干部畏首畏尾](https://www.zhihu.com/search?q=%E8%BF%87%E5%BA%A6%E7%9A%84%E8%BF%BD%E8%B4%A3%E4%BC%9A%E4%B8%8D%E4%BC%9A%E5%AF%BC%E8%87%B4%E5%B9%B2%E9%83%A8%E7%95%8F%E9%A6%96%E7%95%8F%E5%B0%BE)
 1. [小红书被曝存在儿童软色情内容](https://www.zhihu.com/search?q=%E5%B0%8F%E7%BA%A2%E4%B9%A6%E8%A2%AB%E6%9B%9D%E5%AD%98%E5%9C%A8%E5%84%BF%E7%AB%A5%E8%BD%AF%E8%89%B2%E6%83%85%E5%86%85%E5%AE%B9)
+1. [班主任如何面对自己学生去世](https://www.zhihu.com/search?q=%E7%8F%AD%E4%B8%BB%E4%BB%BB%E5%A6%82%E4%BD%95%E9%9D%A2%E5%AF%B9%E8%87%AA%E5%B7%B1%E5%AD%A6%E7%94%9F%E5%8E%BB%E4%B8%96)
 1. [为什么公司招空降领导不提拔老员工](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%85%AC%E5%8F%B8%E6%8B%9B%E7%A9%BA%E9%99%8D%E9%A2%86%E5%AF%BC%E4%B8%8D%E6%8F%90%E6%8B%94%E8%80%81%E5%91%98%E5%B7%A5)
 1. [专家建议工作日缩至 4 天落地有什么难点](https://www.zhihu.com/search?q=%E4%B8%93%E5%AE%B6%E5%BB%BA%E8%AE%AE%E5%B7%A5%E4%BD%9C%E6%97%A5%E7%BC%A9%E8%87%B3%204%20%E5%A4%A9%E8%90%BD%E5%9C%B0%E6%9C%89%E4%BB%80%E4%B9%88%E9%9A%BE%E7%82%B9)
 1. [陈威称《新三国》导演编剧不懂三国](https://www.zhihu.com/search?q=%E9%99%88%E5%A8%81%E7%A7%B0%E3%80%8A%E6%96%B0%E4%B8%89%E5%9B%BD%E3%80%8B%E5%AF%BC%E6%BC%94%E7%BC%96%E5%89%A7%E4%B8%8D%E6%87%82%E4%B8%89%E5%9B%BD)
