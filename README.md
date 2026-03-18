@@ -14,20 +14,23 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Mar 19 2026 06:35:16 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Mar 19 2026 07:32:48 GMT+0800 (China Standard Time) -->
 
 1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
 1. [中南大学湘雅医院一研究生坠江身亡](https://www.zhihu.com/search?q=%E4%B8%AD%E5%8D%97%E5%A4%A7%E5%AD%A6%E6%B9%98%E9%9B%85%E5%8C%BB%E9%99%A2%E4%B8%80%E7%A0%94%E7%A9%B6%E7%94%9F%E5%9D%A0%E6%B1%9F%E8%BA%AB%E4%BA%A1)
 1. [以军刺杀伊朗高官拉里贾尼](https://www.zhihu.com/search?q=%E4%BB%A5%E5%86%9B%E5%88%BA%E6%9D%80%E4%BC%8A%E6%9C%97%E9%AB%98%E5%AE%98%E6%8B%89%E9%87%8C%E8%B4%BE%E5%B0%BC)
-1. [妈妈意外去世四个继承人能均分遗产吗](https://www.zhihu.com/search?q=%E5%A6%88%E5%A6%88%E6%84%8F%E5%A4%96%E5%8E%BB%E4%B8%96%E5%9B%9B%E4%B8%AA%E7%BB%A7%E6%89%BF%E4%BA%BA%E8%83%BD%E5%9D%87%E5%88%86%E9%81%97%E4%BA%A7%E5%90%97)
-1. [美以袭击伊朗](https://www.zhihu.com/search?q=%E7%BE%8E%E4%BB%A5%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97)
+1. [钓鱼佬最接受不了什么](https://www.zhihu.com/search?q=%E9%92%93%E9%B1%BC%E4%BD%AC%E6%9C%80%E6%8E%A5%E5%8F%97%E4%B8%8D%E4%BA%86%E4%BB%80%E4%B9%88)
 1. [省考第一名被指P高14分吓退竞争者](https://www.zhihu.com/search?q=%E7%9C%81%E8%80%83%E7%AC%AC%E4%B8%80%E5%90%8D%E8%A2%AB%E6%8C%87P%E9%AB%9814%E5%88%86%E5%90%93%E9%80%80%E7%AB%9E%E4%BA%89%E8%80%85)
+1. [美以袭击伊朗](https://www.zhihu.com/search?q=%E7%BE%8E%E4%BB%A5%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97)
 1. [给 AI 投毒已成产业链](https://www.zhihu.com/search?q=%E7%BB%99%20AI%20%E6%8A%95%E6%AF%92%E5%B7%B2%E6%88%90%E4%BA%A7%E4%B8%9A%E9%93%BE)
-1. [为什么楚云飞说山西菜不入流](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%A5%9A%E4%BA%91%E9%A3%9E%E8%AF%B4%E5%B1%B1%E8%A5%BF%E8%8F%9C%E4%B8%8D%E5%85%A5%E6%B5%81)
+1. [799 元镜片溢价超 50 倍合理吗](https://www.zhihu.com/search?q=799%20%E5%85%83%E9%95%9C%E7%89%87%E6%BA%A2%E4%BB%B7%E8%B6%85%2050%20%E5%80%8D%E5%90%88%E7%90%86%E5%90%97)
 1. [湘雅医院坠江身亡研究生导师已停诊](https://www.zhihu.com/search?q=%E6%B9%98%E9%9B%85%E5%8C%BB%E9%99%A2%E5%9D%A0%E6%B1%9F%E8%BA%AB%E4%BA%A1%E7%A0%94%E7%A9%B6%E7%94%9F%E5%AF%BC%E5%B8%88%E5%B7%B2%E5%81%9C%E8%AF%8A)
 1. [中南大学湘雅医院](https://www.zhihu.com/search?q=%E4%B8%AD%E5%8D%97%E5%A4%A7%E5%AD%A6%E6%B9%98%E9%9B%85%E5%8C%BB%E9%99%A2)
-1. [现代为何没出现像达芬奇这样的人了](https://www.zhihu.com/search?q=%E7%8E%B0%E4%BB%A3%E4%B8%BA%E4%BD%95%E6%B2%A1%E5%87%BA%E7%8E%B0%E5%83%8F%E8%BE%BE%E8%8A%AC%E5%A5%87%E8%BF%99%E6%A0%B7%E7%9A%84%E4%BA%BA%E4%BA%86)
+1. [教师因家中变故带 1 岁娃上课](https://www.zhihu.com/search?q=%E6%95%99%E5%B8%88%E5%9B%A0%E5%AE%B6%E4%B8%AD%E5%8F%98%E6%95%85%E5%B8%A6%201%20%E5%B2%81%E5%A8%83%E4%B8%8A%E8%AF%BE)
 1. [315 曝光给 AI 投毒已成产业链](https://www.zhihu.com/search?q=315%20%E6%9B%9D%E5%85%89%E7%BB%99%20AI%20%E6%8A%95%E6%AF%92%E5%B7%B2%E6%88%90%E4%BA%A7%E4%B8%9A%E9%93%BE)
+1. [妈妈意外去世四个继承人能均分遗产吗](https://www.zhihu.com/search?q=%E5%A6%88%E5%A6%88%E6%84%8F%E5%A4%96%E5%8E%BB%E4%B8%96%E5%9B%9B%E4%B8%AA%E7%BB%A7%E6%89%BF%E4%BA%BA%E8%83%BD%E5%9D%87%E5%88%86%E9%81%97%E4%BA%A7%E5%90%97)
+1. [为什么楚云飞说山西菜不入流](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%A5%9A%E4%BA%91%E9%A3%9E%E8%AF%B4%E5%B1%B1%E8%A5%BF%E8%8F%9C%E4%B8%8D%E5%85%A5%E6%B5%81)
+1. [现代为何没出现像达芬奇这样的人了](https://www.zhihu.com/search?q=%E7%8E%B0%E4%BB%A3%E4%B8%BA%E4%BD%95%E6%B2%A1%E5%87%BA%E7%8E%B0%E5%83%8F%E8%BE%BE%E8%8A%AC%E5%A5%87%E8%BF%99%E6%A0%B7%E7%9A%84%E4%BA%BA%E4%BA%86)
 1. [你见过最脑残的设计是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E8%A7%81%E8%BF%87%E6%9C%80%E8%84%91%E6%AE%8B%E7%9A%84%E8%AE%BE%E8%AE%A1%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [为什么说销售是最容易成为老板的职业](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%AF%B4%E9%94%80%E5%94%AE%E6%98%AF%E6%9C%80%E5%AE%B9%E6%98%93%E6%88%90%E4%B8%BA%E8%80%81%E6%9D%BF%E7%9A%84%E8%81%8C%E4%B8%9A)
 1. [为什么反诈这么难](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%8D%E8%AF%88%E8%BF%99%E4%B9%88%E9%9A%BE)
