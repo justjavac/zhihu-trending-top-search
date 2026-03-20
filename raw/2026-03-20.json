@@ -3,7 +3,10 @@
   { "query_display": "中南大学湘雅医院一研究生坠江身亡", "real_query": "中南大学湘雅医院一研究生坠江身亡" },
   { "query_display": "美以袭击伊朗", "real_query": "美以袭击伊朗" },
   { "query_display": "小米发布新一代SU7", "real_query": "小米发布新一代SU7" },
-  { "query_display": "专家建议工作日缩至 4 天落地有什么难点", "real_query": "专家建议工作日缩至 4 天落地有什么难点" },
+  {
+    "query_display": "小红书被曝有大量儿童软色情内容是怎么回事",
+    "real_query": "小红书被曝有大量儿童软色情内容是怎么回事"
+  },
   { "query_display": "伊朗称将打击中东三国石油设施", "real_query": "伊朗称将打击中东三国石油设施" },
   { "query_display": "央视AI短片《流金谷恩仇录》爆火", "real_query": "央视AI短片《流金谷恩仇录》爆火" },
   { "query_display": "路虎1分钟8次别停奔驰后引发事故", "real_query": "路虎1分钟8次别停奔驰后引发事故" },
@@ -14,6 +17,7 @@
     "query_display": "彩票中奖后账户将大额度进账银行会有何反应",
     "real_query": "彩票中奖后账户将大额度进账银行会有何反应"
   },
+  { "query_display": "专家建议工作日缩至 4 天落地有什么难点", "real_query": "专家建议工作日缩至 4 天落地有什么难点" },
   { "query_display": "你见过最脑残的设计是什么", "real_query": "你见过最脑残的设计是什么" },
   { "query_display": "以军刺杀伊朗高官拉里贾尼", "real_query": "以军刺杀伊朗高官拉里贾尼" },
   {
