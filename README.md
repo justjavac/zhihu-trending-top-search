@@ -14,20 +14,23 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Mar 20 2026 15:51:07 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Mar 20 2026 16:46:50 GMT+0800 (China Standard Time) -->
 
 1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
 1. [小米发布新一代SU7](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%E5%8F%91%E5%B8%83%E6%96%B0%E4%B8%80%E4%BB%A3SU7)
 1. [美以袭击伊朗](https://www.zhihu.com/search?q=%E7%BE%8E%E4%BB%A5%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97)
+1. [智飞生物积压价值两百亿的 HPV 疫苗](https://www.zhihu.com/search?q=%E6%99%BA%E9%A3%9E%E7%94%9F%E7%89%A9%E7%A7%AF%E5%8E%8B%E4%BB%B7%E5%80%BC%E4%B8%A4%E7%99%BE%E4%BA%BF%E7%9A%84%20HPV%20%E7%96%AB%E8%8B%97)
 1. [央视AI短片《流金谷恩仇录》爆火](https://www.zhihu.com/search?q=%E5%A4%AE%E8%A7%86AI%E7%9F%AD%E7%89%87%E3%80%8A%E6%B5%81%E9%87%91%E8%B0%B7%E6%81%A9%E4%BB%87%E5%BD%95%E3%80%8B%E7%88%86%E7%81%AB)
 1. [伊朗称将打击中东三国石油设施](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%B0%86%E6%89%93%E5%87%BB%E4%B8%AD%E4%B8%9C%E4%B8%89%E5%9B%BD%E7%9F%B3%E6%B2%B9%E8%AE%BE%E6%96%BD)
 1. [路虎1分钟8次别停奔驰后引发事故](https://www.zhihu.com/search?q=%E8%B7%AF%E8%99%8E1%E5%88%86%E9%92%9F8%E6%AC%A1%E5%88%AB%E5%81%9C%E5%A5%94%E9%A9%B0%E5%90%8E%E5%BC%95%E5%8F%91%E4%BA%8B%E6%95%85)
+1. [为什么反诈这么难](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%8D%E8%AF%88%E8%BF%99%E4%B9%88%E9%9A%BE)
 1. [网易否认外包裁员](https://www.zhihu.com/search?q=%E7%BD%91%E6%98%93%E5%90%A6%E8%AE%A4%E5%A4%96%E5%8C%85%E8%A3%81%E5%91%98)
 1. [张近东资产全部清零](https://www.zhihu.com/search?q=%E5%BC%A0%E8%BF%91%E4%B8%9C%E8%B5%84%E4%BA%A7%E5%85%A8%E9%83%A8%E6%B8%85%E9%9B%B6)
+1. [Kimi 的「注意力残差」有什么亮点](https://www.zhihu.com/search?q=Kimi%20%E7%9A%84%E3%80%8C%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%AE%8B%E5%B7%AE%E3%80%8D%E6%9C%89%E4%BB%80%E4%B9%88%E4%BA%AE%E7%82%B9)
+1. [特朗普将美袭伊朗比作偷袭珍珠港](https://www.zhihu.com/search?q=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E7%BE%8E%E8%A2%AD%E4%BC%8A%E6%9C%97%E6%AF%94%E4%BD%9C%E5%81%B7%E8%A2%AD%E7%8F%8D%E7%8F%A0%E6%B8%AF)
 1. [高市早苗就任后首次启程访美](https://www.zhihu.com/search?q=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%B0%B1%E4%BB%BB%E5%90%8E%E9%A6%96%E6%AC%A1%E5%90%AF%E7%A8%8B%E8%AE%BF%E7%BE%8E)
 1. [求真书院博士考核二外要求](https://www.zhihu.com/search?q=%E6%B1%82%E7%9C%9F%E4%B9%A6%E9%99%A2%E5%8D%9A%E5%A3%AB%E8%80%83%E6%A0%B8%E4%BA%8C%E5%A4%96%E8%A6%81%E6%B1%82)
 1. [网传网易要大裁员](https://www.zhihu.com/search?q=%E7%BD%91%E4%BC%A0%E7%BD%91%E6%98%93%E8%A6%81%E5%A4%A7%E8%A3%81%E5%91%98)
-1. [特朗普将美袭伊朗比作偷袭珍珠港](https://www.zhihu.com/search?q=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E7%BE%8E%E8%A2%AD%E4%BC%8A%E6%9C%97%E6%AF%94%E4%BD%9C%E5%81%B7%E8%A2%AD%E7%8F%8D%E7%8F%A0%E6%B8%AF)
 1. [中南大学湘雅医院一研究生坠江身亡](https://www.zhihu.com/search?q=%E4%B8%AD%E5%8D%97%E5%A4%A7%E5%AD%A6%E6%B9%98%E9%9B%85%E5%8C%BB%E9%99%A2%E4%B8%80%E7%A0%94%E7%A9%B6%E7%94%9F%E5%9D%A0%E6%B1%9F%E8%BA%AB%E4%BA%A1)
 1. [小红书被曝有大量儿童软色情内容是怎么回事](https://www.zhihu.com/search?q=%E5%B0%8F%E7%BA%A2%E4%B9%A6%E8%A2%AB%E6%9B%9D%E6%9C%89%E5%A4%A7%E9%87%8F%E5%84%BF%E7%AB%A5%E8%BD%AF%E8%89%B2%E6%83%85%E5%86%85%E5%AE%B9%E6%98%AF%E6%80%8E%E4%B9%88%E5%9B%9E%E4%BA%8B)
 1. [为什么莘瑶琴能从良杜十娘却只能沉江](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%8E%98%E7%91%B6%E7%90%B4%E8%83%BD%E4%BB%8E%E8%89%AF%E6%9D%9C%E5%8D%81%E5%A8%98%E5%8D%B4%E5%8F%AA%E8%83%BD%E6%B2%89%E6%B1%9F)
