@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Mar 22 2026 04:30:27 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Mar 22 2026 05:28:27 GMT+0800 (China Standard Time) -->
 
 1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
 1. [「梅姨」落网供认贩卖儿童](https://www.zhihu.com/search?q=%E3%80%8C%E6%A2%85%E5%A7%A8%E3%80%8D%E8%90%BD%E7%BD%91%E4%BE%9B%E8%AE%A4%E8%B4%A9%E5%8D%96%E5%84%BF%E7%AB%A5)
@@ -27,6 +27,7 @@
 1. [伊朗被曝全面断网](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E8%A2%AB%E6%9B%9D%E5%85%A8%E9%9D%A2%E6%96%AD%E7%BD%91)
 1. [梅姨长相与画像相似度不到30%](https://www.zhihu.com/search?q=%E6%A2%85%E5%A7%A8%E9%95%BF%E7%9B%B8%E4%B8%8E%E7%94%BB%E5%83%8F%E7%9B%B8%E4%BC%BC%E5%BA%A6%E4%B8%8D%E5%88%B030%25)
 1. [黄金创 43 年最大单周跌幅](https://www.zhihu.com/search?q=%E9%BB%84%E9%87%91%E5%88%9B%2043%20%E5%B9%B4%E6%9C%80%E5%A4%A7%E5%8D%95%E5%91%A8%E8%B7%8C%E5%B9%85)
+1. [油价将重回9元时代](https://www.zhihu.com/search?q=%E6%B2%B9%E4%BB%B7%E5%B0%86%E9%87%8D%E5%9B%9E9%E5%85%83%E6%97%B6%E4%BB%A3)
 1. [南昌舰逼退外舰细节公布](https://www.zhihu.com/search?q=%E5%8D%97%E6%98%8C%E8%88%B0%E9%80%BC%E9%80%80%E5%A4%96%E8%88%B0%E7%BB%86%E8%8A%82%E5%85%AC%E5%B8%83)
 1. [重庆大学实验室爆炸致1死](https://www.zhihu.com/search?q=%E9%87%8D%E5%BA%86%E5%A4%A7%E5%AD%A6%E5%AE%9E%E9%AA%8C%E5%AE%A4%E7%88%86%E7%82%B8%E8%87%B41%E6%AD%BB)
 1. [《逐玉》被大规模泄露](https://www.zhihu.com/search?q=%E3%80%8A%E9%80%90%E7%8E%89%E3%80%8B%E8%A2%AB%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%B3%84%E9%9C%B2)
