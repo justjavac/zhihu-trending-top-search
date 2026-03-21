@@ -14,19 +14,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Mar 21 2026 21:45:29 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Mar 21 2026 22:30:14 GMT+0800 (China Standard Time) -->
 
 1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
-1. [「梅姨」落网供认贩卖儿童](https://www.zhihu.com/search?q=%E3%80%8C%E6%A2%85%E5%A7%A8%E3%80%8D%E8%90%BD%E7%BD%91%E4%BE%9B%E8%AE%A4%E8%B4%A9%E5%8D%96%E5%84%BF%E7%AB%A5)
 1. [美以袭击伊朗](https://www.zhihu.com/search?q=%E7%BE%8E%E4%BB%A5%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97)
+1. [重庆大学实验室爆炸致1死](https://www.zhihu.com/search?q=%E9%87%8D%E5%BA%86%E5%A4%A7%E5%AD%A6%E5%AE%9E%E9%AA%8C%E5%AE%A4%E7%88%86%E7%82%B8%E8%87%B41%E6%AD%BB)
+1. [「梅姨」落网供认贩卖儿童](https://www.zhihu.com/search?q=%E3%80%8C%E6%A2%85%E5%A7%A8%E3%80%8D%E8%90%BD%E7%BD%91%E4%BE%9B%E8%AE%A4%E8%B4%A9%E5%8D%96%E5%84%BF%E7%AB%A5)
 1. [山姆被曝冷鲜肉是数月前屠宰的](https://www.zhihu.com/search?q=%E5%B1%B1%E5%A7%86%E8%A2%AB%E6%9B%9D%E5%86%B7%E9%B2%9C%E8%82%89%E6%98%AF%E6%95%B0%E6%9C%88%E5%89%8D%E5%B1%A0%E5%AE%B0%E7%9A%84)
-1. [小米发布新一代SU7](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%E5%8F%91%E5%B8%83%E6%96%B0%E4%B8%80%E4%BB%A3SU7)
+1. [《逐玉》被大规模泄露](https://www.zhihu.com/search?q=%E3%80%8A%E9%80%90%E7%8E%89%E3%80%8B%E8%A2%AB%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%B3%84%E9%9C%B2)
 1. [六国声明保障霍尔木兹海峡安全](https://www.zhihu.com/search?q=%E5%85%AD%E5%9B%BD%E5%A3%B0%E6%98%8E%E4%BF%9D%E9%9A%9C%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E5%AE%89%E5%85%A8)
-1. [伊朗被曝全面断网](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E8%A2%AB%E6%9B%9D%E5%85%A8%E9%9D%A2%E6%96%AD%E7%BD%91)
+1. [小米发布新一代SU7](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%E5%8F%91%E5%B8%83%E6%96%B0%E4%B8%80%E4%BB%A3SU7)
 1. [雷军「60+60=120」言论引争议](https://www.zhihu.com/search?q=%E9%9B%B7%E5%86%9B%E3%80%8C60%2B60%3D120%E3%80%8D%E8%A8%80%E8%AE%BA%E5%BC%95%E4%BA%89%E8%AE%AE)
+1. [伊朗被曝全面断网](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E8%A2%AB%E6%9B%9D%E5%85%A8%E9%9D%A2%E6%96%AD%E7%BD%91)
 1. [委内瑞拉击败美国全国放假一天](https://www.zhihu.com/search?q=%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%87%BB%E8%B4%A5%E7%BE%8E%E5%9B%BD%E5%85%A8%E5%9B%BD%E6%94%BE%E5%81%87%E4%B8%80%E5%A4%A9)
-1. [张雨绮怀孕后的状态](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%A8%E7%BB%AE%E6%80%80%E5%AD%95%E5%90%8E%E7%9A%84%E7%8A%B6%E6%80%81)
 1. [国足新名单王钰栋等八名U23球员在列](https://www.zhihu.com/search?q=%E5%9B%BD%E8%B6%B3%E6%96%B0%E5%90%8D%E5%8D%95%E7%8E%8B%E9%92%B0%E6%A0%8B%E7%AD%89%E5%85%AB%E5%90%8DU23%E7%90%83%E5%91%98%E5%9C%A8%E5%88%97)
+1. [张雨绮怀孕后的状态](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%A8%E7%BB%AE%E6%80%80%E5%AD%95%E5%90%8E%E7%9A%84%E7%8A%B6%E6%80%81)
 1. [黄金创 43 年最大单周跌幅](https://www.zhihu.com/search?q=%E9%BB%84%E9%87%91%E5%88%9B%2043%20%E5%B9%B4%E6%9C%80%E5%A4%A7%E5%8D%95%E5%91%A8%E8%B7%8C%E5%B9%85)
 1. [如果你有 300 万存款还会上班吗](https://www.zhihu.com/search?q=%E5%A6%82%E6%9E%9C%E4%BD%A0%E6%9C%89%20300%20%E4%B8%87%E5%AD%98%E6%AC%BE%E8%BF%98%E4%BC%9A%E4%B8%8A%E7%8F%AD%E5%90%97)
 1. [《你的名字》为什么让人感到心底隐隐作痛](https://www.zhihu.com/search?q=%E3%80%8A%E4%BD%A0%E7%9A%84%E5%90%8D%E5%AD%97%E3%80%8B%E4%B8%BA%E4%BB%80%E4%B9%88%E8%AE%A9%E4%BA%BA%E6%84%9F%E5%88%B0%E5%BF%83%E5%BA%95%E9%9A%90%E9%9A%90%E4%BD%9C%E7%97%9B)
