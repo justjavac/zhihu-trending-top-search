@@ -14,12 +14,12 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Mar 21 2026 22:30:14 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Mar 21 2026 23:29:11 GMT+0800 (China Standard Time) -->
 
 1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
-1. [美以袭击伊朗](https://www.zhihu.com/search?q=%E7%BE%8E%E4%BB%A5%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97)
-1. [重庆大学实验室爆炸致1死](https://www.zhihu.com/search?q=%E9%87%8D%E5%BA%86%E5%A4%A7%E5%AD%A6%E5%AE%9E%E9%AA%8C%E5%AE%A4%E7%88%86%E7%82%B8%E8%87%B41%E6%AD%BB)
 1. [「梅姨」落网供认贩卖儿童](https://www.zhihu.com/search?q=%E3%80%8C%E6%A2%85%E5%A7%A8%E3%80%8D%E8%90%BD%E7%BD%91%E4%BE%9B%E8%AE%A4%E8%B4%A9%E5%8D%96%E5%84%BF%E7%AB%A5)
+1. [重庆大学实验室爆炸致1死](https://www.zhihu.com/search?q=%E9%87%8D%E5%BA%86%E5%A4%A7%E5%AD%A6%E5%AE%9E%E9%AA%8C%E5%AE%A4%E7%88%86%E7%82%B8%E8%87%B41%E6%AD%BB)
+1. [美以袭击伊朗](https://www.zhihu.com/search?q=%E7%BE%8E%E4%BB%A5%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97)
 1. [山姆被曝冷鲜肉是数月前屠宰的](https://www.zhihu.com/search?q=%E5%B1%B1%E5%A7%86%E8%A2%AB%E6%9B%9D%E5%86%B7%E9%B2%9C%E8%82%89%E6%98%AF%E6%95%B0%E6%9C%88%E5%89%8D%E5%B1%A0%E5%AE%B0%E7%9A%84)
 1. [《逐玉》被大规模泄露](https://www.zhihu.com/search?q=%E3%80%8A%E9%80%90%E7%8E%89%E3%80%8B%E8%A2%AB%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%B3%84%E9%9C%B2)
 1. [六国声明保障霍尔木兹海峡安全](https://www.zhihu.com/search?q=%E5%85%AD%E5%9B%BD%E5%A3%B0%E6%98%8E%E4%BF%9D%E9%9A%9C%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E5%AE%89%E5%85%A8)
