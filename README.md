@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Mar 22 2026 22:30:52 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Mar 22 2026 23:29:21 GMT+0800 (China Standard Time) -->
 
 1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
 1. [美以袭击伊朗](https://www.zhihu.com/search?q=%E7%BE%8E%E4%BB%A5%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97)
@@ -25,11 +25,11 @@
 1. [香港发生亿元黄金劫案](https://www.zhihu.com/search?q=%E9%A6%99%E6%B8%AF%E5%8F%91%E7%94%9F%E4%BA%BF%E5%85%83%E9%BB%84%E9%87%91%E5%8A%AB%E6%A1%88)
 1. [黄金创 43 年最大单周跌幅](https://www.zhihu.com/search?q=%E9%BB%84%E9%87%91%E5%88%9B%2043%20%E5%B9%B4%E6%9C%80%E5%A4%A7%E5%8D%95%E5%91%A8%E8%B7%8C%E5%B9%85)
 1. [油价将重回9元时代](https://www.zhihu.com/search?q=%E6%B2%B9%E4%BB%B7%E5%B0%86%E9%87%8D%E5%9B%9E9%E5%85%83%E6%97%B6%E4%BB%A3)
-1. [小米发布新一代SU7](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%E5%8F%91%E5%B8%83%E6%96%B0%E4%B8%80%E4%BB%A3SU7)
 1. [G2 3:0 爆冷零封 GEN](https://www.zhihu.com/search?q=G2%203%3A0%20%E7%88%86%E5%86%B7%E9%9B%B6%E5%B0%81%20GEN)
 1. [伊朗有意允许日本船只通行霍尔木兹海峡](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E6%9C%89%E6%84%8F%E5%85%81%E8%AE%B8%E6%97%A5%E6%9C%AC%E8%88%B9%E5%8F%AA%E9%80%9A%E8%A1%8C%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1)
-1. [Cursor 新模型套壳 Kimi K2.5](https://www.zhihu.com/search?q=Cursor%20%E6%96%B0%E6%A8%A1%E5%9E%8B%E5%A5%97%E5%A3%B3%20Kimi%20K2.5)
 1. [傅盛喊话周鸿祎：欠一个亿不还](https://www.zhihu.com/search?q=%E5%82%85%E7%9B%9B%E5%96%8A%E8%AF%9D%E5%91%A8%E9%B8%BF%E7%A5%8E%EF%BC%9A%E6%AC%A0%E4%B8%80%E4%B8%AA%E4%BA%BF%E4%B8%8D%E8%BF%98)
+1. [小米发布新一代SU7](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%E5%8F%91%E5%B8%83%E6%96%B0%E4%B8%80%E4%BB%A3SU7)
+1. [Cursor 新模型套壳 Kimi K2.5](https://www.zhihu.com/search?q=Cursor%20%E6%96%B0%E6%A8%A1%E5%9E%8B%E5%A5%97%E5%A3%B3%20Kimi%20K2.5)
 1. [欧盟公招报录比117:1](https://www.zhihu.com/search?q=%E6%AC%A7%E7%9B%9F%E5%85%AC%E6%8B%9B%E6%8A%A5%E5%BD%95%E6%AF%94117%3A1)
 1. [伊朗被曝全面断网](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E8%A2%AB%E6%9B%9D%E5%85%A8%E9%9D%A2%E6%96%AD%E7%BD%91)
 1. [委内瑞拉击败美国全国放假一天](https://www.zhihu.com/search?q=%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%87%BB%E8%B4%A5%E7%BE%8E%E5%9B%BD%E5%85%A8%E5%9B%BD%E6%94%BE%E5%81%87%E4%B8%80%E5%A4%A9)
