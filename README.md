@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Mar 25 2026 01:02:01 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Mar 25 2026 03:06:50 GMT+0800 (China Standard Time) -->
 
 1. [张雪峰因心源性猝死去世](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%9B%A0%E5%BF%83%E6%BA%90%E6%80%A7%E7%8C%9D%E6%AD%BB%E5%8E%BB%E4%B8%96)
 1. [周杰伦新专辑上线](https://www.zhihu.com/search?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E4%B8%93%E8%BE%91%E4%B8%8A%E7%BA%BF)
