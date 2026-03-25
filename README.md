@@ -14,17 +14,17 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Mar 26 2026 06:39:24 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Mar 26 2026 07:38:11 GMT+0800 (China Standard Time) -->
 
 1. [张雪峰因心源性猝死去世](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%9B%A0%E5%BF%83%E6%BA%90%E6%80%A7%E7%8C%9D%E6%AD%BB%E5%8E%BB%E4%B8%96)
 1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
 1. [黄金白银价格快速下跌](https://www.zhihu.com/search?q=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E4%BB%B7%E6%A0%BC%E5%BF%AB%E9%80%9F%E4%B8%8B%E8%B7%8C)
 1. [OpenAI 关停 AI视频生成平台 Sora](https://www.zhihu.com/search?q=OpenAI%20%E5%85%B3%E5%81%9C%20AI%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%B9%B3%E5%8F%B0%20Sora)
 1. [中方回应日本自卫队人员闯驻日使馆](https://www.zhihu.com/search?q=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E8%87%AA%E5%8D%AB%E9%98%9F%E4%BA%BA%E5%91%98%E9%97%AF%E9%A9%BB%E6%97%A5%E4%BD%BF%E9%A6%86)
-1. [周杰伦新专辑上线](https://www.zhihu.com/search?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E4%B8%93%E8%BE%91%E4%B8%8A%E7%BA%BF)
 1. [强闯中国驻日使馆男子被捕](https://www.zhihu.com/search?q=%E5%BC%BA%E9%97%AF%E4%B8%AD%E5%9B%BD%E9%A9%BB%E6%97%A5%E4%BD%BF%E9%A6%86%E7%94%B7%E5%AD%90%E8%A2%AB%E6%8D%95)
-1. [美以袭击伊朗](https://www.zhihu.com/search?q=%E7%BE%8E%E4%BB%A5%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97)
+1. [周杰伦新专辑上线](https://www.zhihu.com/search?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E4%B8%93%E8%BE%91%E4%B8%8A%E7%BA%BF)
 1. [张雪峰医疗文件疑遭泄露](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%8C%BB%E7%96%97%E6%96%87%E4%BB%B6%E7%96%91%E9%81%AD%E6%B3%84%E9%9C%B2)
+1. [美以袭击伊朗](https://www.zhihu.com/search?q=%E7%BE%8E%E4%BB%A5%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97)
 1. [汽车之家多平台账号被禁止关注](https://www.zhihu.com/search?q=%E6%B1%BD%E8%BD%A6%E4%B9%8B%E5%AE%B6%E5%A4%9A%E5%B9%B3%E5%8F%B0%E8%B4%A6%E5%8F%B7%E8%A2%AB%E7%A6%81%E6%AD%A2%E5%85%B3%E6%B3%A8)
 1. [周杰伦《太阳之子》MV上线](https://www.zhihu.com/search?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E3%80%8A%E5%A4%AA%E9%98%B3%E4%B9%8B%E5%AD%90%E3%80%8BMV%E4%B8%8A%E7%BA%BF)
 1. [美国一边提停火方案一边加紧增兵](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E4%B8%80%E8%BE%B9%E6%8F%90%E5%81%9C%E7%81%AB%E6%96%B9%E6%A1%88%E4%B8%80%E8%BE%B9%E5%8A%A0%E7%B4%A7%E5%A2%9E%E5%85%B5)
