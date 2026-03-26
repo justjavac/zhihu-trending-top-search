@@ -14,20 +14,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Mar 26 2026 21:23:18 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Mar 26 2026 23:06:47 GMT+0800 (China Standard Time) -->
 
 1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
 1. [张雪峰因心源性猝死去世](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%9B%A0%E5%BF%83%E6%BA%90%E6%80%A7%E7%8C%9D%E6%AD%BB%E5%8E%BB%E4%B8%96)
 1. [南京教师因发表过激言语被停职](https://www.zhihu.com/search?q=%E5%8D%97%E4%BA%AC%E6%95%99%E5%B8%88%E5%9B%A0%E5%8F%91%E8%A1%A8%E8%BF%87%E6%BF%80%E8%A8%80%E8%AF%AD%E8%A2%AB%E5%81%9C%E8%81%8C)
 1. [OpenAI 关停 AI视频生成平台 Sora](https://www.zhihu.com/search?q=OpenAI%20%E5%85%B3%E5%81%9C%20AI%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%B9%B3%E5%8F%B0%20Sora)
-1. [周杰伦新专辑上线](https://www.zhihu.com/search?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E4%B8%93%E8%BE%91%E4%B8%8A%E7%BA%BF)
-1. [特朗普称将在5月中旬访华](https://www.zhihu.com/search?q=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E5%9C%A85%E6%9C%88%E4%B8%AD%E6%97%AC%E8%AE%BF%E5%8D%8E)
-1. [汽车之家多平台账号被禁止关注](https://www.zhihu.com/search?q=%E6%B1%BD%E8%BD%A6%E4%B9%8B%E5%AE%B6%E5%A4%9A%E5%B9%B3%E5%8F%B0%E8%B4%A6%E5%8F%B7%E8%A2%AB%E7%A6%81%E6%AD%A2%E5%85%B3%E6%B3%A8)
 1. [美以袭击伊朗](https://www.zhihu.com/search?q=%E7%BE%8E%E4%BB%A5%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97)
+1. [特朗普称将在5月中旬访华](https://www.zhihu.com/search?q=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E5%9C%A85%E6%9C%88%E4%B8%AD%E6%97%AC%E8%AE%BF%E5%8D%8E)
+1. [周杰伦新专辑上线](https://www.zhihu.com/search?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E4%B8%93%E8%BE%91%E4%B8%8A%E7%BA%BF)
+1. [汽车之家多平台账号被禁止关注](https://www.zhihu.com/search?q=%E6%B1%BD%E8%BD%A6%E4%B9%8B%E5%AE%B6%E5%A4%9A%E5%B9%B3%E5%8F%B0%E8%B4%A6%E5%8F%B7%E8%A2%AB%E7%A6%81%E6%AD%A2%E5%85%B3%E6%B3%A8)
 1. [外交部批日本新型军国主义](https://www.zhihu.com/search?q=%E5%A4%96%E4%BA%A4%E9%83%A8%E6%89%B9%E6%97%A5%E6%9C%AC%E6%96%B0%E5%9E%8B%E5%86%9B%E5%9B%BD%E4%B8%BB%E4%B9%89)
-1. [信达证券研究所所长被曝猥亵下属](https://www.zhihu.com/search?q=%E4%BF%A1%E8%BE%BE%E8%AF%81%E5%88%B8%E7%A0%94%E7%A9%B6%E6%89%80%E6%89%80%E9%95%BF%E8%A2%AB%E6%9B%9D%E7%8C%A5%E4%BA%B5%E4%B8%8B%E5%B1%9E)
 1. [张雪峰离世当天细节曝光](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E7%A6%BB%E4%B8%96%E5%BD%93%E5%A4%A9%E7%BB%86%E8%8A%82%E6%9B%9D%E5%85%89)
+1. [张雪峰从送医到去世仅3小时](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E4%BB%8E%E9%80%81%E5%8C%BB%E5%88%B0%E5%8E%BB%E4%B8%96%E4%BB%853%E5%B0%8F%E6%97%B6)
 1. [心源性猝死突发时吃速效救心丸有用吗](https://www.zhihu.com/search?q=%E5%BF%83%E6%BA%90%E6%80%A7%E7%8C%9D%E6%AD%BB%E7%AA%81%E5%8F%91%E6%97%B6%E5%90%83%E9%80%9F%E6%95%88%E6%95%91%E5%BF%83%E4%B8%B8%E6%9C%89%E7%94%A8%E5%90%97)
+1. [信达证券研究所所长被曝猥亵下属](https://www.zhihu.com/search?q=%E4%BF%A1%E8%BE%BE%E8%AF%81%E5%88%B8%E7%A0%94%E7%A9%B6%E6%89%80%E6%89%80%E9%95%BF%E8%A2%AB%E6%9B%9D%E7%8C%A5%E4%BA%B5%E4%B8%8B%E5%B1%9E)
 1. [NeurIPS2026不再接收受制裁实体投稿](https://www.zhihu.com/search?q=NeurIPS2026%E4%B8%8D%E5%86%8D%E6%8E%A5%E6%94%B6%E5%8F%97%E5%88%B6%E8%A3%81%E5%AE%9E%E4%BD%93%E6%8A%95%E7%A8%BF)
 1. [中方回应日本自卫队人员闯驻日使馆](https://www.zhihu.com/search?q=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E8%87%AA%E5%8D%AB%E9%98%9F%E4%BA%BA%E5%91%98%E9%97%AF%E9%A9%BB%E6%97%A5%E4%BD%BF%E9%A6%86)
 1. [张雪峰医疗文件疑遭泄露](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%8C%BB%E7%96%97%E6%96%87%E4%BB%B6%E7%96%91%E9%81%AD%E6%B3%84%E9%9C%B2)
