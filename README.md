@@ -14,20 +14,23 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Mar 27 2026 21:12:58 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Mar 27 2026 22:53:16 GMT+0800 (China Standard Time) -->
 
 1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
 1. [南京教师因发表过激言语被停职](https://www.zhihu.com/search?q=%E5%8D%97%E4%BA%AC%E6%95%99%E5%B8%88%E5%9B%A0%E5%8F%91%E8%A1%A8%E8%BF%87%E6%BF%80%E8%A8%80%E8%AF%AD%E8%A2%AB%E5%81%9C%E8%81%8C)
 1. [张雪峰因心源性猝死去世](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%9B%A0%E5%BF%83%E6%BA%90%E6%80%A7%E7%8C%9D%E6%AD%BB%E5%8E%BB%E4%B8%96)
-1. [运动量过大导致早上醒的早有什么好的办法](https://www.zhihu.com/search?q=%E8%BF%90%E5%8A%A8%E9%87%8F%E8%BF%87%E5%A4%A7%E5%AF%BC%E8%87%B4%E6%97%A9%E4%B8%8A%E9%86%92%E7%9A%84%E6%97%A9%E6%9C%89%E4%BB%80%E4%B9%88%E5%A5%BD%E7%9A%84%E5%8A%9E%E6%B3%95)
+1. [你对剧版《哈利·波特》有何期待](https://www.zhihu.com/search?q=%E4%BD%A0%E5%AF%B9%E5%89%A7%E7%89%88%E3%80%8A%E5%93%88%E5%88%A9%C2%B7%E6%B3%A2%E7%89%B9%E3%80%8B%E6%9C%89%E4%BD%95%E6%9C%9F%E5%BE%85)
 1. [日本东京发生持刀伤人事件致 2 死](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E4%B8%9C%E4%BA%AC%E5%8F%91%E7%94%9F%E6%8C%81%E5%88%80%E4%BC%A4%E4%BA%BA%E4%BA%8B%E4%BB%B6%E8%87%B4%202%20%E6%AD%BB)
 1. [罗技短视频组被扣除全部绩效](https://www.zhihu.com/search?q=%E7%BD%97%E6%8A%80%E7%9F%AD%E8%A7%86%E9%A2%91%E7%BB%84%E8%A2%AB%E6%89%A3%E9%99%A4%E5%85%A8%E9%83%A8%E7%BB%A9%E6%95%88)
 1. [罗技广告侮辱消费者](https://www.zhihu.com/search?q=%E7%BD%97%E6%8A%80%E5%B9%BF%E5%91%8A%E4%BE%AE%E8%BE%B1%E6%B6%88%E8%B4%B9%E8%80%85)
-1. [为什么过去室内白墙下半部分要刷成绿色](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%87%E5%8E%BB%E5%AE%A4%E5%86%85%E7%99%BD%E5%A2%99%E4%B8%8B%E5%8D%8A%E9%83%A8%E5%88%86%E8%A6%81%E5%88%B7%E6%88%90%E7%BB%BF%E8%89%B2)
+1. [有哪些 2026 的神预言](https://www.zhihu.com/search?q=%E6%9C%89%E5%93%AA%E4%BA%9B%202026%20%E7%9A%84%E7%A5%9E%E9%A2%84%E8%A8%80)
 1. [美以袭击伊朗](https://www.zhihu.com/search?q=%E7%BE%8E%E4%BB%A5%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97)
 1. [OpenAI 关停 AI视频生成平台 Sora](https://www.zhihu.com/search?q=OpenAI%20%E5%85%B3%E5%81%9C%20AI%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%B9%B3%E5%8F%B0%20Sora)
-1. [你知道哪些「有味道」的冷知识](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9F%A5%E9%81%93%E5%93%AA%E4%BA%9B%E3%80%8C%E6%9C%89%E5%91%B3%E9%81%93%E3%80%8D%E7%9A%84%E5%86%B7%E7%9F%A5%E8%AF%86)
+1. [「日本红腹蝾螈」是一种什么生物](https://www.zhihu.com/search?q=%E3%80%8C%E6%97%A5%E6%9C%AC%E7%BA%A2%E8%85%B9%E8%9D%BE%E8%9E%88%E3%80%8D%E6%98%AF%E4%B8%80%E7%A7%8D%E4%BB%80%E4%B9%88%E7%94%9F%E7%89%A9)
 1. [罗技就广告侮辱消费者致歉](https://www.zhihu.com/search?q=%E7%BD%97%E6%8A%80%E5%B0%B1%E5%B9%BF%E5%91%8A%E4%BE%AE%E8%BE%B1%E6%B6%88%E8%B4%B9%E8%80%85%E8%87%B4%E6%AD%89)
+1. [运动量过大导致早上醒的早有什么好的办法](https://www.zhihu.com/search?q=%E8%BF%90%E5%8A%A8%E9%87%8F%E8%BF%87%E5%A4%A7%E5%AF%BC%E8%87%B4%E6%97%A9%E4%B8%8A%E9%86%92%E7%9A%84%E6%97%A9%E6%9C%89%E4%BB%80%E4%B9%88%E5%A5%BD%E7%9A%84%E5%8A%9E%E6%B3%95)
+1. [为什么过去室内白墙下半部分要刷成绿色](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%87%E5%8E%BB%E5%AE%A4%E5%86%85%E7%99%BD%E5%A2%99%E4%B8%8B%E5%8D%8A%E9%83%A8%E5%88%86%E8%A6%81%E5%88%B7%E6%88%90%E7%BB%BF%E8%89%B2)
+1. [你知道哪些「有味道」的冷知识](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9F%A5%E9%81%93%E5%93%AA%E4%BA%9B%E3%80%8C%E6%9C%89%E5%91%B3%E9%81%93%E3%80%8D%E7%9A%84%E5%86%B7%E7%9F%A5%E8%AF%86)
 1. [黑龙江明确高校逐步消除 8 人间宿舍](https://www.zhihu.com/search?q=%E9%BB%91%E9%BE%99%E6%B1%9F%E6%98%8E%E7%A1%AE%E9%AB%98%E6%A0%A1%E9%80%90%E6%AD%A5%E6%B6%88%E9%99%A4%208%20%E4%BA%BA%E9%97%B4%E5%AE%BF%E8%88%8D)
 1. [为什么速效救心丸可能无法有效急救猝死](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E9%80%9F%E6%95%88%E6%95%91%E5%BF%83%E4%B8%B8%E5%8F%AF%E8%83%BD%E6%97%A0%E6%B3%95%E6%9C%89%E6%95%88%E6%80%A5%E6%95%91%E7%8C%9D%E6%AD%BB)
 1. [如何看待吴柳芳退役费全给家里买房凑首付](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%90%B4%E6%9F%B3%E8%8A%B3%E9%80%80%E5%BD%B9%E8%B4%B9%E5%85%A8%E7%BB%99%E5%AE%B6%E9%87%8C%E4%B9%B0%E6%88%BF%E5%87%91%E9%A6%96%E4%BB%98)
