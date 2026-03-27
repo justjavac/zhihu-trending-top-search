@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Mar 28 2026 05:38:00 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Mar 28 2026 06:35:54 GMT+0800 (China Standard Time) -->
 
 1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
 1. [南京教师因发表过激言语被停职](https://www.zhihu.com/search?q=%E5%8D%97%E4%BA%AC%E6%95%99%E5%B8%88%E5%9B%A0%E5%8F%91%E8%A1%A8%E8%BF%87%E6%BF%80%E8%A8%80%E8%AF%AD%E8%A2%AB%E5%81%9C%E8%81%8C)
