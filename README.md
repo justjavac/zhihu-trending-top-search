@@ -14,20 +14,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Mar 28 2026 21:00:45 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Mar 28 2026 22:34:16 GMT+0800 (China Standard Time) -->
 
 1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
 1. [华人神探李昌钰博士逝世](https://www.zhihu.com/search?q=%E5%8D%8E%E4%BA%BA%E7%A5%9E%E6%8E%A2%E6%9D%8E%E6%98%8C%E9%92%B0%E5%8D%9A%E5%A3%AB%E9%80%9D%E4%B8%96)
-1. [罗技短视频组被扣除全部绩效](https://www.zhihu.com/search?q=%E7%BD%97%E6%8A%80%E7%9F%AD%E8%A7%86%E9%A2%91%E7%BB%84%E8%A2%AB%E6%89%A3%E9%99%A4%E5%85%A8%E9%83%A8%E7%BB%A9%E6%95%88)
 1. [美以袭击伊朗](https://www.zhihu.com/search?q=%E7%BE%8E%E4%BB%A5%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97)
+1. [罗技短视频组被扣除全部绩效](https://www.zhihu.com/search?q=%E7%BD%97%E6%8A%80%E7%9F%AD%E8%A7%86%E9%A2%91%E7%BB%84%E8%A2%AB%E6%89%A3%E9%99%A4%E5%85%A8%E9%83%A8%E7%BB%A9%E6%95%88)
 1. [中科大少年班学生课上往黑板扔水杯](https://www.zhihu.com/search?q=%E4%B8%AD%E7%A7%91%E5%A4%A7%E5%B0%91%E5%B9%B4%E7%8F%AD%E5%AD%A6%E7%94%9F%E8%AF%BE%E4%B8%8A%E5%BE%80%E9%BB%91%E6%9D%BF%E6%89%94%E6%B0%B4%E6%9D%AF)
 1. [张雪峰因心源性猝死去世](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%9B%A0%E5%BF%83%E6%BA%90%E6%80%A7%E7%8C%9D%E6%AD%BB%E5%8E%BB%E4%B8%96)
 1. [罗技广告侮辱消费者](https://www.zhihu.com/search?q=%E7%BD%97%E6%8A%80%E5%B9%BF%E5%91%8A%E4%BE%AE%E8%BE%B1%E6%B6%88%E8%B4%B9%E8%80%85)
-1. [伊朗革命卫队关闭霍尔木兹海峡](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E9%9D%A9%E5%91%BD%E5%8D%AB%E9%98%9F%E5%85%B3%E9%97%AD%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1)
 1. [徐良删除汪苏泷后会无期作词作曲](https://www.zhihu.com/search?q=%E5%BE%90%E8%89%AF%E5%88%A0%E9%99%A4%E6%B1%AA%E8%8B%8F%E6%B3%B7%E5%90%8E%E4%BC%9A%E6%97%A0%E6%9C%9F%E4%BD%9C%E8%AF%8D%E4%BD%9C%E6%9B%B2)
-1. [OpenAI 关停 AI视频生成平台 Sora](https://www.zhihu.com/search?q=OpenAI%20%E5%85%B3%E5%81%9C%20AI%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%B9%B3%E5%8F%B0%20Sora)
+1. [伊朗革命卫队关闭霍尔木兹海峡](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E9%9D%A9%E5%91%BD%E5%8D%AB%E9%98%9F%E5%85%B3%E9%97%AD%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1)
+1. [中国科协不再承认NeurIPS含金量](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%8D%8F%E4%B8%8D%E5%86%8D%E6%89%BF%E8%AE%A4NeurIPS%E5%90%AB%E9%87%91%E9%87%8F)
 1. [AI短剧《雪山救狐狸》爆火](https://www.zhihu.com/search?q=AI%E7%9F%AD%E5%89%A7%E3%80%8A%E9%9B%AA%E5%B1%B1%E6%95%91%E7%8B%90%E7%8B%B8%E3%80%8B%E7%88%86%E7%81%AB)
 1. [女子举报退休干部母亲被判侵权](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E4%B8%BE%E6%8A%A5%E9%80%80%E4%BC%91%E5%B9%B2%E9%83%A8%E6%AF%8D%E4%BA%B2%E8%A2%AB%E5%88%A4%E4%BE%B5%E6%9D%83)
+1. [OpenAI 关停 AI视频生成平台 Sora](https://www.zhihu.com/search?q=OpenAI%20%E5%85%B3%E5%81%9C%20AI%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%B9%B3%E5%8F%B0%20Sora)
 1. [南京教师因发表过激言语被停职](https://www.zhihu.com/search?q=%E5%8D%97%E4%BA%AC%E6%95%99%E5%B8%88%E5%9B%A0%E5%8F%91%E8%A1%A8%E8%BF%87%E6%BF%80%E8%A8%80%E8%AF%AD%E8%A2%AB%E5%81%9C%E8%81%8C)
 1. [爸爸酗酒闹得家里鸡犬不宁该怎么办](https://www.zhihu.com/search?q=%E7%88%B8%E7%88%B8%E9%85%97%E9%85%92%E9%97%B9%E5%BE%97%E5%AE%B6%E9%87%8C%E9%B8%A1%E7%8A%AC%E4%B8%8D%E5%AE%81%E8%AF%A5%E6%80%8E%E4%B9%88%E5%8A%9E)
 1. [如何评价蔡依林的《布拉格广场》改编版](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E8%94%A1%E4%BE%9D%E6%9E%97%E7%9A%84%E3%80%8A%E5%B8%83%E6%8B%89%E6%A0%BC%E5%B9%BF%E5%9C%BA%E3%80%8B%E6%94%B9%E7%BC%96%E7%89%88)
