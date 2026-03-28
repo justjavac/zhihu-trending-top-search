@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Mar 29 2026 06:32:11 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Mar 29 2026 07:34:27 GMT+0800 (China Standard Time) -->
 
 1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
 1. [太原火灾](https://www.zhihu.com/search?q=%E5%A4%AA%E5%8E%9F%E7%81%AB%E7%81%BE)
