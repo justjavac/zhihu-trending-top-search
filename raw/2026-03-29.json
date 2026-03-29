@@ -1,7 +1,6 @@
 [
   { "query_display": "伊朗局势", "real_query": "伊朗局势" },
   { "query_display": "李荣浩喊话单依纯称其强行侵权《李白》", "real_query": "李荣浩喊话单依纯称其强行侵权《李白》" },
-  { "query_display": "太原火灾", "real_query": "太原火灾" },
   { "query_display": "美以袭击伊朗", "real_query": "美以袭击伊朗" },
   { "query_display": "中科大少年班学生课上往黑板扔水杯", "real_query": "中科大少年班学生课上往黑板扔水杯" },
   { "query_display": "张雪峰追悼会举行民众排长队送别", "real_query": "张雪峰追悼会举行民众排长队送别" },
@@ -11,6 +10,8 @@
   { "query_display": "李昌钰是全世界最忙碌的人之一", "real_query": "李昌钰是全世界最忙碌的人之一" },
   { "query_display": "伊朗警告袭击地区内美以大学", "real_query": "伊朗警告袭击地区内美以大学" },
   { "query_display": "NeurIPS2026不再接收受制裁实体投稿", "real_query": "NeurIPS2026不再接收受制裁实体投稿" },
+  { "query_display": "张雪峰去世后女儿首发声", "real_query": "张雪峰去世后女儿首发声" },
+  { "query_display": "太原火灾", "real_query": "太原火灾" },
   { "query_display": "李荣浩称单依纯强行侵权", "real_query": "李荣浩称单依纯强行侵权" },
   { "query_display": "OpenAI 关停 AI视频生成平台 Sora", "real_query": "OpenAI 关停 AI视频生成平台 Sora" },
   { "query_display": "于东来因对下属发脾气赔 40 多万", "real_query": "于东来因对下属发脾气赔 40 多万" },
