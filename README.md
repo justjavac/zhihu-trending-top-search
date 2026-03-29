@@ -14,13 +14,13 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Mar 29 2026 13:13:18 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Mar 29 2026 15:08:00 GMT+0800 (China Standard Time) -->
 
 1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
 1. [太原火灾](https://www.zhihu.com/search?q=%E5%A4%AA%E5%8E%9F%E7%81%AB%E7%81%BE)
-1. [中科大少年班学生课上往黑板扔水杯](https://www.zhihu.com/search?q=%E4%B8%AD%E7%A7%91%E5%A4%A7%E5%B0%91%E5%B9%B4%E7%8F%AD%E5%AD%A6%E7%94%9F%E8%AF%BE%E4%B8%8A%E5%BE%80%E9%BB%91%E6%9D%BF%E6%89%94%E6%B0%B4%E6%9D%AF)
-1. [于东来因对下属发脾气赔 40 多万](https://www.zhihu.com/search?q=%E4%BA%8E%E4%B8%9C%E6%9D%A5%E5%9B%A0%E5%AF%B9%E4%B8%8B%E5%B1%9E%E5%8F%91%E8%84%BE%E6%B0%94%E8%B5%94%2040%20%E5%A4%9A%E4%B8%87)
 1. [美以袭击伊朗](https://www.zhihu.com/search?q=%E7%BE%8E%E4%BB%A5%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97)
+1. [于东来因对下属发脾气赔 40 多万](https://www.zhihu.com/search?q=%E4%BA%8E%E4%B8%9C%E6%9D%A5%E5%9B%A0%E5%AF%B9%E4%B8%8B%E5%B1%9E%E5%8F%91%E8%84%BE%E6%B0%94%E8%B5%94%2040%20%E5%A4%9A%E4%B8%87)
+1. [中科大少年班学生课上往黑板扔水杯](https://www.zhihu.com/search?q=%E4%B8%AD%E7%A7%91%E5%A4%A7%E5%B0%91%E5%B9%B4%E7%8F%AD%E5%AD%A6%E7%94%9F%E8%AF%BE%E4%B8%8A%E5%BE%80%E9%BB%91%E6%9D%BF%E6%89%94%E6%B0%B4%E6%9D%AF)
 1. [伊朗警告袭击地区内美以大学](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E8%AD%A6%E5%91%8A%E8%A2%AD%E5%87%BB%E5%9C%B0%E5%8C%BA%E5%86%85%E7%BE%8E%E4%BB%A5%E5%A4%A7%E5%AD%A6)
 1. [张雪峰追悼会举行民众排长队送别](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E8%BF%BD%E6%82%BC%E4%BC%9A%E4%B8%BE%E8%A1%8C%E6%B0%91%E4%BC%97%E6%8E%92%E9%95%BF%E9%98%9F%E9%80%81%E5%88%AB)
 1. [张雪峰因心源性猝死去世](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%9B%A0%E5%BF%83%E6%BA%90%E6%80%A7%E7%8C%9D%E6%AD%BB%E5%8E%BB%E4%B8%96)
