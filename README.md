@@ -14,20 +14,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Apr 02 2026 04:49:16 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Apr 02 2026 05:44:37 GMT+0800 (China Standard Time) -->
 
 1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
 1. [李荣浩喊话单依纯称其强行侵权《李白》](https://www.zhihu.com/search?q=%E6%9D%8E%E8%8D%A3%E6%B5%A9%E5%96%8A%E8%AF%9D%E5%8D%95%E4%BE%9D%E7%BA%AF%E7%A7%B0%E5%85%B6%E5%BC%BA%E8%A1%8C%E4%BE%B5%E6%9D%83%E3%80%8A%E6%9D%8E%E7%99%BD%E3%80%8B)
 1. [兰州大学考研初试401分被刷](https://www.zhihu.com/search?q=%E5%85%B0%E5%B7%9E%E5%A4%A7%E5%AD%A6%E8%80%83%E7%A0%94%E5%88%9D%E8%AF%95401%E5%88%86%E8%A2%AB%E5%88%B7)
-1. [如何评价张雪及他的创业经历](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%BC%A0%E9%9B%AA%E5%8F%8A%E4%BB%96%E7%9A%84%E5%88%9B%E4%B8%9A%E7%BB%8F%E5%8E%86)
+1. [为何公司不用 pandas 取代 excel](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E5%85%AC%E5%8F%B8%E4%B8%8D%E7%94%A8%20pandas%20%E5%8F%96%E4%BB%A3%20excel)
 1. [Claude Code 源码泄露](https://www.zhihu.com/search?q=Claude%20Code%20%E6%BA%90%E7%A0%81%E6%B3%84%E9%9C%B2)
 1. [韩国向中国 14 城发十年签](https://www.zhihu.com/search?q=%E9%9F%A9%E5%9B%BD%E5%90%91%E4%B8%AD%E5%9B%BD%2014%20%E5%9F%8E%E5%8F%91%E5%8D%81%E5%B9%B4%E7%AD%BE)
 1. [张雪机车 WSBK葡萄牙站夺冠](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%20WSBK%E8%91%A1%E8%90%84%E7%89%99%E7%AB%99%E5%A4%BA%E5%86%A0)
-1. [为何公司不用 pandas 取代 excel](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E5%85%AC%E5%8F%B8%E4%B8%8D%E7%94%A8%20pandas%20%E5%8F%96%E4%BB%A3%20excel)
+1. [电饭煲保温超 4h 可能有致癌物是真的吗](https://www.zhihu.com/search?q=%E7%94%B5%E9%A5%AD%E7%85%B2%E4%BF%9D%E6%B8%A9%E8%B6%85%204h%20%E5%8F%AF%E8%83%BD%E6%9C%89%E8%87%B4%E7%99%8C%E7%89%A9%E6%98%AF%E7%9C%9F%E7%9A%84%E5%90%97)
 1. [鞠婧祎被实名举报偷税漏税](https://www.zhihu.com/search?q=%E9%9E%A0%E5%A9%A7%E7%A5%8E%E8%A2%AB%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%E5%81%B7%E7%A8%8E%E6%BC%8F%E7%A8%8E)
 1. [甲骨文被曝裁员 3 万人](https://www.zhihu.com/search?q=%E7%94%B2%E9%AA%A8%E6%96%87%E8%A2%AB%E6%9B%9D%E8%A3%81%E5%91%98%203%20%E4%B8%87%E4%BA%BA)
-1. [有什么低成本养生的方法](https://www.zhihu.com/search?q=%E6%9C%89%E4%BB%80%E4%B9%88%E4%BD%8E%E6%88%90%E6%9C%AC%E5%85%BB%E7%94%9F%E7%9A%84%E6%96%B9%E6%B3%95)
+1. [《西游记后传》无天为什么会战败](https://www.zhihu.com/search?q=%E3%80%8A%E8%A5%BF%E6%B8%B8%E8%AE%B0%E5%90%8E%E4%BC%A0%E3%80%8B%E6%97%A0%E5%A4%A9%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E6%88%98%E8%B4%A5)
 1. [瑞幸新品喝一半发现椰肉变紫](https://www.zhihu.com/search?q=%E7%91%9E%E5%B9%B8%E6%96%B0%E5%93%81%E5%96%9D%E4%B8%80%E5%8D%8A%E5%8F%91%E7%8E%B0%E6%A4%B0%E8%82%89%E5%8F%98%E7%B4%AB)
+1. [如何评价张雪及他的创业经历](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%BC%A0%E9%9B%AA%E5%8F%8A%E4%BB%96%E7%9A%84%E5%88%9B%E4%B8%9A%E7%BB%8F%E5%8E%86)
+1. [有什么低成本养生的方法](https://www.zhihu.com/search?q=%E6%9C%89%E4%BB%80%E4%B9%88%E4%BD%8E%E6%88%90%E6%9C%AC%E5%85%BB%E7%94%9F%E7%9A%84%E6%96%B9%E6%B3%95)
 1. [TES 369 发文确认休息](https://www.zhihu.com/search?q=TES%20369%20%E5%8F%91%E6%96%87%E7%A1%AE%E8%AE%A4%E4%BC%91%E6%81%AF)
 1. [为什么考古总会发现体内有瓜子](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%80%83%E5%8F%A4%E6%80%BB%E4%BC%9A%E5%8F%91%E7%8E%B0%E4%BD%93%E5%86%85%E6%9C%89%E7%93%9C%E5%AD%90)
 1. [如何看待「周末情侣」模式](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E3%80%8C%E5%91%A8%E6%9C%AB%E6%83%85%E4%BE%A3%E3%80%8D%E6%A8%A1%E5%BC%8F)
