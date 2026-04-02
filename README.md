@@ -14,20 +14,23 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Apr 02 2026 19:49:02 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Apr 02 2026 21:20:22 GMT+0800 (China Standard Time) -->
 
 1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
 1. [兰州大学考研初试401分被刷](https://www.zhihu.com/search?q=%E5%85%B0%E5%B7%9E%E5%A4%A7%E5%AD%A6%E8%80%83%E7%A0%94%E5%88%9D%E8%AF%95401%E5%88%86%E8%A2%AB%E5%88%B7)
 1. [韩国向中国 14 城发十年签](https://www.zhihu.com/search?q=%E9%9F%A9%E5%9B%BD%E5%90%91%E4%B8%AD%E5%9B%BD%2014%20%E5%9F%8E%E5%8F%91%E5%8D%81%E5%B9%B4%E7%AD%BE)
-1. [如何评价 Epic 把国区运营给裁了](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%20Epic%20%E6%8A%8A%E5%9B%BD%E5%8C%BA%E8%BF%90%E8%90%A5%E7%BB%99%E8%A3%81%E4%BA%86)
-1. [NASA 阿尔忒弥斯 2 号载人绕月飞行](https://www.zhihu.com/search?q=NASA%20%E9%98%BF%E5%B0%94%E5%BF%92%E5%BC%A5%E6%96%AF%202%20%E5%8F%B7%E8%BD%BD%E4%BA%BA%E7%BB%95%E6%9C%88%E9%A3%9E%E8%A1%8C)
+1. [三部门约谈抖音、淘天、小红书](https://www.zhihu.com/search?q=%E4%B8%89%E9%83%A8%E9%97%A8%E7%BA%A6%E8%B0%88%E6%8A%96%E9%9F%B3%E3%80%81%E6%B7%98%E5%A4%A9%E3%80%81%E5%B0%8F%E7%BA%A2%E4%B9%A6)
+1. [什么样的家庭才能养出松弛感的孩子](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E5%AE%B6%E5%BA%AD%E6%89%8D%E8%83%BD%E5%85%BB%E5%87%BA%E6%9D%BE%E5%BC%9B%E6%84%9F%E7%9A%84%E5%AD%A9%E5%AD%90)
 1. [张雪机车赞助商市值蒸发百亿](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E8%B5%9E%E5%8A%A9%E5%95%86%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91%E7%99%BE%E4%BA%BF)
 1. [全红婵含泪恳求别再骂了](https://www.zhihu.com/search?q=%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%90%AB%E6%B3%AA%E6%81%B3%E6%B1%82%E5%88%AB%E5%86%8D%E9%AA%82%E4%BA%86)
 1. [甲骨文被曝裁员 3 万人](https://www.zhihu.com/search?q=%E7%94%B2%E9%AA%A8%E6%96%87%E8%A2%AB%E6%9B%9D%E8%A3%81%E5%91%98%203%20%E4%B8%87%E4%BA%BA)
-1. [为什么考古总会发现体内有瓜子](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%80%83%E5%8F%A4%E6%80%BB%E4%BC%9A%E5%8F%91%E7%8E%B0%E4%BD%93%E5%86%85%E6%9C%89%E7%93%9C%E5%AD%90)
+1. [为什么美国的陪审团仍被视为司法公正的基石](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%BE%8E%E5%9B%BD%E7%9A%84%E9%99%AA%E5%AE%A1%E5%9B%A2%E4%BB%8D%E8%A2%AB%E8%A7%86%E4%B8%BA%E5%8F%B8%E6%B3%95%E5%85%AC%E6%AD%A3%E7%9A%84%E5%9F%BA%E7%9F%B3)
 1. [张雪机车 WSBK葡萄牙站夺冠](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%20WSBK%E8%91%A1%E8%90%84%E7%89%99%E7%AB%99%E5%A4%BA%E5%86%A0)
-1. [Claude Code 源码泄露](https://www.zhihu.com/search?q=Claude%20Code%20%E6%BA%90%E7%A0%81%E6%B3%84%E9%9C%B2)
+1. [NASA 阿尔忒弥斯 2 号载人绕月飞行](https://www.zhihu.com/search?q=NASA%20%E9%98%BF%E5%B0%94%E5%BF%92%E5%BC%A5%E6%96%AF%202%20%E5%8F%B7%E8%BD%BD%E4%BA%BA%E7%BB%95%E6%9C%88%E9%A3%9E%E8%A1%8C)
 1. [如何看待「周末情侣」模式](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E3%80%8C%E5%91%A8%E6%9C%AB%E6%83%85%E4%BE%A3%E3%80%8D%E6%A8%A1%E5%BC%8F)
+1. [如何评价 Epic 把国区运营给裁了](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%20Epic%20%E6%8A%8A%E5%9B%BD%E5%8C%BA%E8%BF%90%E8%90%A5%E7%BB%99%E8%A3%81%E4%BA%86)
+1. [为什么考古总会发现体内有瓜子](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%80%83%E5%8F%A4%E6%80%BB%E4%BC%9A%E5%8F%91%E7%8E%B0%E4%BD%93%E5%86%85%E6%9C%89%E7%93%9C%E5%AD%90)
+1. [Claude Code 源码泄露](https://www.zhihu.com/search?q=Claude%20Code%20%E6%BA%90%E7%A0%81%E6%B3%84%E9%9C%B2)
 1. [中国摩托车技术到什么水平了](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E6%91%A9%E6%89%98%E8%BD%A6%E6%8A%80%E6%9C%AF%E5%88%B0%E4%BB%80%E4%B9%88%E6%B0%B4%E5%B9%B3%E4%BA%86)
 1. [贵州四部门发文能否改变「休假羞耻」](https://www.zhihu.com/search?q=%E8%B4%B5%E5%B7%9E%E5%9B%9B%E9%83%A8%E9%97%A8%E5%8F%91%E6%96%87%E8%83%BD%E5%90%A6%E6%94%B9%E5%8F%98%E3%80%8C%E4%BC%91%E5%81%87%E7%BE%9E%E8%80%BB%E3%80%8D)
 1. [有哪些信达不雅的翻译](https://www.zhihu.com/search?q=%E6%9C%89%E5%93%AA%E4%BA%9B%E4%BF%A1%E8%BE%BE%E4%B8%8D%E9%9B%85%E7%9A%84%E7%BF%BB%E8%AF%91)
@@ -35,7 +38,6 @@
 1. [怎样让小朋友明白打游戏为生不靠谱](https://www.zhihu.com/search?q=%E6%80%8E%E6%A0%B7%E8%AE%A9%E5%B0%8F%E6%9C%8B%E5%8F%8B%E6%98%8E%E7%99%BD%E6%89%93%E6%B8%B8%E6%88%8F%E4%B8%BA%E7%94%9F%E4%B8%8D%E9%9D%A0%E8%B0%B1)
 1. [奈雪的茶大幅关店后年收入再度下降](https://www.zhihu.com/search?q=%E5%A5%88%E9%9B%AA%E7%9A%84%E8%8C%B6%E5%A4%A7%E5%B9%85%E5%85%B3%E5%BA%97%E5%90%8E%E5%B9%B4%E6%94%B6%E5%85%A5%E5%86%8D%E5%BA%A6%E4%B8%8B%E9%99%8D)
 1. [救人时接触隐私部位算性侵吗](https://www.zhihu.com/search?q=%E6%95%91%E4%BA%BA%E6%97%B6%E6%8E%A5%E8%A7%A6%E9%9A%90%E7%A7%81%E9%83%A8%E4%BD%8D%E7%AE%97%E6%80%A7%E4%BE%B5%E5%90%97)
-1. [什么样的家庭才能养出松弛感的孩子](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E5%AE%B6%E5%BA%AD%E6%89%8D%E8%83%BD%E5%85%BB%E5%87%BA%E6%9D%BE%E5%BC%9B%E6%84%9F%E7%9A%84%E5%AD%A9%E5%AD%90)
 1. [为什么很多人反对 token 翻译](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BE%88%E5%A4%9A%E4%BA%BA%E5%8F%8D%E5%AF%B9%20token%20%E7%BF%BB%E8%AF%91)
 1. [张雪称五年内吃掉国际机车大牌过半份额](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%AA%E7%A7%B0%E4%BA%94%E5%B9%B4%E5%86%85%E5%90%83%E6%8E%89%E5%9B%BD%E9%99%85%E6%9C%BA%E8%BD%A6%E5%A4%A7%E7%89%8C%E8%BF%87%E5%8D%8A%E4%BB%BD%E9%A2%9D)
 1. [瑞幸新品喝一半发现椰肉变紫](https://www.zhihu.com/search?q=%E7%91%9E%E5%B9%B8%E6%96%B0%E5%93%81%E5%96%9D%E4%B8%80%E5%8D%8A%E5%8F%91%E7%8E%B0%E6%A4%B0%E8%82%89%E5%8F%98%E7%B4%AB)
