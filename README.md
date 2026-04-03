@@ -14,20 +14,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Apr 04 2026 02:52:04 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Apr 04 2026 03:39:32 GMT+0800 (China Standard Time) -->
 
 1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
 1. [全红婵含泪恳求别再骂了](https://www.zhihu.com/search?q=%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%90%AB%E6%B3%AA%E6%81%B3%E6%B1%82%E5%88%AB%E5%86%8D%E9%AA%82%E4%BA%86)
 1. [外交部回应伊朗对华寻求安全保障](https://www.zhihu.com/search?q=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E4%BC%8A%E6%9C%97%E5%AF%B9%E5%8D%8E%E5%AF%BB%E6%B1%82%E5%AE%89%E5%85%A8%E4%BF%9D%E9%9A%9C)
-1. [成都回锅肉和重庆回锅肉谁才是正统](https://www.zhihu.com/search?q=%E6%88%90%E9%83%BD%E5%9B%9E%E9%94%85%E8%82%89%E5%92%8C%E9%87%8D%E5%BA%86%E5%9B%9E%E9%94%85%E8%82%89%E8%B0%81%E6%89%8D%E6%98%AF%E6%AD%A3%E7%BB%9F)
+1. [为啥高中要花高价聘请竞赛教练](https://www.zhihu.com/search?q=%E4%B8%BA%E5%95%A5%E9%AB%98%E4%B8%AD%E8%A6%81%E8%8A%B1%E9%AB%98%E4%BB%B7%E8%81%98%E8%AF%B7%E7%AB%9E%E8%B5%9B%E6%95%99%E7%BB%83)
 1. [DeepSeek 又崩了](https://www.zhihu.com/search?q=DeepSeek%20%E5%8F%88%E5%B4%A9%E4%BA%86)
 1. [甲骨文被曝裁员 3 万人](https://www.zhihu.com/search?q=%E7%94%B2%E9%AA%A8%E6%96%87%E8%A2%AB%E6%9B%9D%E8%A3%81%E5%91%98%203%20%E4%B8%87%E4%BA%BA)
 1. [王楚钦vsF勒布伦](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A6vsF%E5%8B%92%E5%B8%83%E4%BC%A6)
-1. [为啥高中要花高价聘请竞赛教练](https://www.zhihu.com/search?q=%E4%B8%BA%E5%95%A5%E9%AB%98%E4%B8%AD%E8%A6%81%E8%8A%B1%E9%AB%98%E4%BB%B7%E8%81%98%E8%AF%B7%E7%AB%9E%E8%B5%9B%E6%95%99%E7%BB%83)
+1. [为什么高中数学明明听懂了一到考试就卡壳](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E6%98%8E%E6%98%8E%E5%90%AC%E6%87%82%E4%BA%86%E4%B8%80%E5%88%B0%E8%80%83%E8%AF%95%E5%B0%B1%E5%8D%A1%E5%A3%B3)
 1. [武汉一男子持刀致4人受伤](https://www.zhihu.com/search?q=%E6%AD%A6%E6%B1%89%E4%B8%80%E7%94%B7%E5%AD%90%E6%8C%81%E5%88%80%E8%87%B44%E4%BA%BA%E5%8F%97%E4%BC%A4)
 1. [法国豪门弃子 34 岁终夺冠致谢张雪](https://www.zhihu.com/search?q=%E6%B3%95%E5%9B%BD%E8%B1%AA%E9%97%A8%E5%BC%83%E5%AD%90%2034%20%E5%B2%81%E7%BB%88%E5%A4%BA%E5%86%A0%E8%87%B4%E8%B0%A2%E5%BC%A0%E9%9B%AA)
-1. [为什么高中数学明明听懂了一到考试就卡壳](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6%E6%98%8E%E6%98%8E%E5%90%AC%E6%87%82%E4%BA%86%E4%B8%80%E5%88%B0%E8%80%83%E8%AF%95%E5%B0%B1%E5%8D%A1%E5%A3%B3)
+1. [为什么地位高的人会自带一种威严和气场](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%9C%B0%E4%BD%8D%E9%AB%98%E7%9A%84%E4%BA%BA%E4%BC%9A%E8%87%AA%E5%B8%A6%E4%B8%80%E7%A7%8D%E5%A8%81%E4%B8%A5%E5%92%8C%E6%B0%94%E5%9C%BA)
 1. [天龙三号发射失利](https://www.zhihu.com/search?q=%E5%A4%A9%E9%BE%99%E4%B8%89%E5%8F%B7%E5%8F%91%E5%B0%84%E5%A4%B1%E5%88%A9)
+1. [成都回锅肉和重庆回锅肉谁才是正统](https://www.zhihu.com/search?q=%E6%88%90%E9%83%BD%E5%9B%9E%E9%94%85%E8%82%89%E5%92%8C%E9%87%8D%E5%BA%86%E5%9B%9E%E9%94%85%E8%82%89%E8%B0%81%E6%89%8D%E6%98%AF%E6%AD%A3%E7%BB%9F)
 1. [浪姐 7 初舞台直播](https://www.zhihu.com/search?q=%E6%B5%AA%E5%A7%90%207%20%E5%88%9D%E8%88%9E%E5%8F%B0%E7%9B%B4%E6%92%AD)
 1. [小燕子为什么总喜欢「逞强」](https://www.zhihu.com/search?q=%E5%B0%8F%E7%87%95%E5%AD%90%E4%B8%BA%E4%BB%80%E4%B9%88%E6%80%BB%E5%96%9C%E6%AC%A2%E3%80%8C%E9%80%9E%E5%BC%BA%E3%80%8D)
 1. [如何看待甲骨文被曝突然裁员 3 万人](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E7%94%B2%E9%AA%A8%E6%96%87%E8%A2%AB%E6%9B%9D%E7%AA%81%E7%84%B6%E8%A3%81%E5%91%98%203%20%E4%B8%87%E4%BA%BA)
