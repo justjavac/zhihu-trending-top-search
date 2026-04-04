@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Apr 05 2026 03:32:55 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Apr 05 2026 04:35:47 GMT+0800 (China Standard Time) -->
 
 1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
 1. [突发，京东副总裁被开除](https://www.zhihu.com/search?q=%E7%AA%81%E5%8F%91%EF%BC%8C%E4%BA%AC%E4%B8%9C%E5%89%AF%E6%80%BB%E8%A3%81%E8%A2%AB%E5%BC%80%E9%99%A4)
@@ -23,10 +23,11 @@
 1. [武汉一男子持刀致4人受伤](https://www.zhihu.com/search?q=%E6%AD%A6%E6%B1%89%E4%B8%80%E7%94%B7%E5%AD%90%E6%8C%81%E5%88%80%E8%87%B44%E4%BA%BA%E5%8F%97%E4%BC%A4)
 1. [王楚钦逆转晋级世界杯四强](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E9%80%86%E8%BD%AC%E6%99%8B%E7%BA%A7%E4%B8%96%E7%95%8C%E6%9D%AF%E5%9B%9B%E5%BC%BA)
 1. [浪姐 7 初舞台直播](https://www.zhihu.com/search?q=%E6%B5%AA%E5%A7%90%207%20%E5%88%9D%E8%88%9E%E5%8F%B0%E7%9B%B4%E6%92%AD)
-1. [工信部提醒苹果iOS高危漏洞](https://www.zhihu.com/search?q=%E5%B7%A5%E4%BF%A1%E9%83%A8%E6%8F%90%E9%86%92%E8%8B%B9%E6%9E%9CiOS%E9%AB%98%E5%8D%B1%E6%BC%8F%E6%B4%9E)
 1. [苹果被曝高价扫荡全球手机内存](https://www.zhihu.com/search?q=%E8%8B%B9%E6%9E%9C%E8%A2%AB%E6%9B%9D%E9%AB%98%E4%BB%B7%E6%89%AB%E8%8D%A1%E5%85%A8%E7%90%83%E6%89%8B%E6%9C%BA%E5%86%85%E5%AD%98)
+1. [工信部提醒苹果iOS高危漏洞](https://www.zhihu.com/search?q=%E5%B7%A5%E4%BF%A1%E9%83%A8%E6%8F%90%E9%86%92%E8%8B%B9%E6%9E%9CiOS%E9%AB%98%E5%8D%B1%E6%BC%8F%E6%B4%9E)
 1. [韩国 40 岁导演遭围殴致死引发众怒](https://www.zhihu.com/search?q=%E9%9F%A9%E5%9B%BD%2040%20%E5%B2%81%E5%AF%BC%E6%BC%94%E9%81%AD%E5%9B%B4%E6%AE%B4%E8%87%B4%E6%AD%BB%E5%BC%95%E5%8F%91%E4%BC%97%E6%80%92)
 1. [日本一拉面店禁看手机](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E4%B8%80%E6%8B%89%E9%9D%A2%E5%BA%97%E7%A6%81%E7%9C%8B%E6%89%8B%E6%9C%BA)
+1. [伊朗：以色列袭击美驻沙特大使馆](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%EF%BC%9A%E4%BB%A5%E8%89%B2%E5%88%97%E8%A2%AD%E5%87%BB%E7%BE%8E%E9%A9%BB%E6%B2%99%E7%89%B9%E5%A4%A7%E4%BD%BF%E9%A6%86)
 1. [孙颖莎4-3高达](https://www.zhihu.com/search?q=%E5%AD%99%E9%A2%96%E8%8E%8E4-3%E9%AB%98%E8%BE%BE)
 1. [清明](https://www.zhihu.com/search?q=%E6%B8%85%E6%98%8E)
 1. [张雪称影视版权给顶级团队](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%AA%E7%A7%B0%E5%BD%B1%E8%A7%86%E7%89%88%E6%9D%83%E7%BB%99%E9%A1%B6%E7%BA%A7%E5%9B%A2%E9%98%9F)
