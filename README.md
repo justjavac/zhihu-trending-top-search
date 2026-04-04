@@ -14,20 +14,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Apr 04 2026 21:01:41 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Apr 04 2026 22:35:27 GMT+0800 (China Standard Time) -->
 
 1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
 1. [全红婵含泪恳求别再骂了](https://www.zhihu.com/search?q=%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%90%AB%E6%B3%AA%E6%81%B3%E6%B1%82%E5%88%AB%E5%86%8D%E9%AA%82%E4%BA%86)
 1. [浪姐 7 初舞台直播](https://www.zhihu.com/search?q=%E6%B5%AA%E5%A7%90%207%20%E5%88%9D%E8%88%9E%E5%8F%B0%E7%9B%B4%E6%92%AD)
 1. [王楚钦逆转晋级世界杯四强](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E9%80%86%E8%BD%AC%E6%99%8B%E7%BA%A7%E4%B8%96%E7%95%8C%E6%9D%AF%E5%9B%9B%E5%BC%BA)
 1. [清明](https://www.zhihu.com/search?q=%E6%B8%85%E6%98%8E)
+1. [突发，京东副总裁被开除](https://www.zhihu.com/search?q=%E7%AA%81%E5%8F%91%EF%BC%8C%E4%BA%AC%E4%B8%9C%E5%89%AF%E6%80%BB%E8%A3%81%E8%A2%AB%E5%BC%80%E9%99%A4)
 1. [天龙三号发射失利](https://www.zhihu.com/search?q=%E5%A4%A9%E9%BE%99%E4%B8%89%E5%8F%B7%E5%8F%91%E5%B0%84%E5%A4%B1%E5%88%A9)
 1. [NASA 阿尔忒弥斯 2 号载人绕月飞行](https://www.zhihu.com/search?q=NASA%20%E9%98%BF%E5%B0%94%E5%BF%92%E5%BC%A5%E6%96%AF%202%20%E5%8F%B7%E8%BD%BD%E4%BA%BA%E7%BB%95%E6%9C%88%E9%A3%9E%E8%A1%8C)
 1. [武汉一男子持刀致4人受伤](https://www.zhihu.com/search?q=%E6%AD%A6%E6%B1%89%E4%B8%80%E7%94%B7%E5%AD%90%E6%8C%81%E5%88%80%E8%87%B44%E4%BA%BA%E5%8F%97%E4%BC%A4)
-1. [突发，京东副总裁被开除](https://www.zhihu.com/search?q=%E7%AA%81%E5%8F%91%EF%BC%8C%E4%BA%AC%E4%B8%9C%E5%89%AF%E6%80%BB%E8%A3%81%E8%A2%AB%E5%BC%80%E9%99%A4)
 1. [张雪称影视版权给顶级团队](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%AA%E7%A7%B0%E5%BD%B1%E8%A7%86%E7%89%88%E6%9D%83%E7%BB%99%E9%A1%B6%E7%BA%A7%E5%9B%A2%E9%98%9F)
-1. [美战机飞行员或被伊朗军方俘虏](https://www.zhihu.com/search?q=%E7%BE%8E%E6%88%98%E6%9C%BA%E9%A3%9E%E8%A1%8C%E5%91%98%E6%88%96%E8%A2%AB%E4%BC%8A%E6%9C%97%E5%86%9B%E6%96%B9%E4%BF%98%E8%99%8F)
 1. [苹果被曝高价扫荡全球手机内存](https://www.zhihu.com/search?q=%E8%8B%B9%E6%9E%9C%E8%A2%AB%E6%9B%9D%E9%AB%98%E4%BB%B7%E6%89%AB%E8%8D%A1%E5%85%A8%E7%90%83%E6%89%8B%E6%9C%BA%E5%86%85%E5%AD%98)
+1. [工信部提醒苹果iOS高危漏洞](https://www.zhihu.com/search?q=%E5%B7%A5%E4%BF%A1%E9%83%A8%E6%8F%90%E9%86%92%E8%8B%B9%E6%9E%9CiOS%E9%AB%98%E5%8D%B1%E6%BC%8F%E6%B4%9E)
+1. [美战机飞行员或被伊朗军方俘虏](https://www.zhihu.com/search?q=%E7%BE%8E%E6%88%98%E6%9C%BA%E9%A3%9E%E8%A1%8C%E5%91%98%E6%88%96%E8%A2%AB%E4%BC%8A%E6%9C%97%E5%86%9B%E6%96%B9%E4%BF%98%E8%99%8F)
 1. [王楚钦vsF勒布伦](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A6vsF%E5%8B%92%E5%B8%83%E4%BC%A6)
 1. [招行董事长称员工很少准点下班](https://www.zhihu.com/search?q=%E6%8B%9B%E8%A1%8C%E8%91%A3%E4%BA%8B%E9%95%BF%E7%A7%B0%E5%91%98%E5%B7%A5%E5%BE%88%E5%B0%91%E5%87%86%E7%82%B9%E4%B8%8B%E7%8F%AD)
 1. [学生疑携带泡面入校被拦](https://www.zhihu.com/search?q=%E5%AD%A6%E7%94%9F%E7%96%91%E6%90%BA%E5%B8%A6%E6%B3%A1%E9%9D%A2%E5%85%A5%E6%A0%A1%E8%A2%AB%E6%8B%A6)
