@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Apr 04 2026 22:35:27 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Apr 04 2026 23:35:32 GMT+0800 (China Standard Time) -->
 
 1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
 1. [全红婵含泪恳求别再骂了](https://www.zhihu.com/search?q=%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%90%AB%E6%B3%AA%E6%81%B3%E6%B1%82%E5%88%AB%E5%86%8D%E9%AA%82%E4%BA%86)
