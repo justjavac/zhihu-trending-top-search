@@ -14,21 +14,23 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Apr 05 2026 15:11:29 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Apr 05 2026 16:49:02 GMT+0800 (China Standard Time) -->
 
 1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
 1. [NASA 阿尔忒弥斯 2 号载人绕月飞行](https://www.zhihu.com/search?q=NASA%20%E9%98%BF%E5%B0%94%E5%BF%92%E5%BC%A5%E6%96%AF%202%20%E5%8F%B7%E8%BD%BD%E4%BA%BA%E7%BB%95%E6%9C%88%E9%A3%9E%E8%A1%8C)
 1. [王楚钦逆转晋级世界杯四强](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E9%80%86%E8%BD%AC%E6%99%8B%E7%BA%A7%E4%B8%96%E7%95%8C%E6%9D%AF%E5%9B%9B%E5%BC%BA)
-1. [现在的小孩可以早熟到什么地步](https://www.zhihu.com/search?q=%E7%8E%B0%E5%9C%A8%E7%9A%84%E5%B0%8F%E5%AD%A9%E5%8F%AF%E4%BB%A5%E6%97%A9%E7%86%9F%E5%88%B0%E4%BB%80%E4%B9%88%E5%9C%B0%E6%AD%A5)
 1. [工信部提醒苹果iOS高危漏洞](https://www.zhihu.com/search?q=%E5%B7%A5%E4%BF%A1%E9%83%A8%E6%8F%90%E9%86%92%E8%8B%B9%E6%9E%9CiOS%E9%AB%98%E5%8D%B1%E6%BC%8F%E6%B4%9E)
 1. [韩国 40 岁导演遭围殴致死引发众怒](https://www.zhihu.com/search?q=%E9%9F%A9%E5%9B%BD%2040%20%E5%B2%81%E5%AF%BC%E6%BC%94%E9%81%AD%E5%9B%B4%E6%AE%B4%E8%87%B4%E6%AD%BB%E5%BC%95%E5%8F%91%E4%BC%97%E6%80%92)
-1. [浪姐 7 初舞台直播](https://www.zhihu.com/search?q=%E6%B5%AA%E5%A7%90%207%20%E5%88%9D%E8%88%9E%E5%8F%B0%E7%9B%B4%E6%92%AD)
-1. [新版雷克萨斯 es 为何看上去一言难尽](https://www.zhihu.com/search?q=%E6%96%B0%E7%89%88%E9%9B%B7%E5%85%8B%E8%90%A8%E6%96%AF%20es%20%E4%B8%BA%E4%BD%95%E7%9C%8B%E4%B8%8A%E5%8E%BB%E4%B8%80%E8%A8%80%E9%9A%BE%E5%B0%BD)
 1. [幼儿园闭园后幼师再就业成难题](https://www.zhihu.com/search?q=%E5%B9%BC%E5%84%BF%E5%9B%AD%E9%97%AD%E5%9B%AD%E5%90%8E%E5%B9%BC%E5%B8%88%E5%86%8D%E5%B0%B1%E4%B8%9A%E6%88%90%E9%9A%BE%E9%A2%98)
+1. [浪姐 7 初舞台直播](https://www.zhihu.com/search?q=%E6%B5%AA%E5%A7%90%207%20%E5%88%9D%E8%88%9E%E5%8F%B0%E7%9B%B4%E6%92%AD)
+1. [美官员说失踪飞行员已找到](https://www.zhihu.com/search?q=%E7%BE%8E%E5%AE%98%E5%91%98%E8%AF%B4%E5%A4%B1%E8%B8%AA%E9%A3%9E%E8%A1%8C%E5%91%98%E5%B7%B2%E6%89%BE%E5%88%B0)
 1. [何小鹏称不碰10万以下汽车](https://www.zhihu.com/search?q=%E4%BD%95%E5%B0%8F%E9%B9%8F%E7%A7%B0%E4%B8%8D%E7%A2%B010%E4%B8%87%E4%BB%A5%E4%B8%8B%E6%B1%BD%E8%BD%A6)
-1. [如何看待高校 4:30 锁教学楼](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E9%AB%98%E6%A0%A1%204%3A30%20%E9%94%81%E6%95%99%E5%AD%A6%E6%A5%BC)
 1. [同事.skill爆火](https://www.zhihu.com/search?q=%E5%90%8C%E4%BA%8B.skill%E7%88%86%E7%81%AB)
 1. [清明节](https://www.zhihu.com/search?q=%E6%B8%85%E6%98%8E%E8%8A%82)
+1. [美军一天内两架战机被伊朗击落](https://www.zhihu.com/search?q=%E7%BE%8E%E5%86%9B%E4%B8%80%E5%A4%A9%E5%86%85%E4%B8%A4%E6%9E%B6%E6%88%98%E6%9C%BA%E8%A2%AB%E4%BC%8A%E6%9C%97%E5%87%BB%E8%90%BD)
+1. [现在的小孩可以早熟到什么地步](https://www.zhihu.com/search?q=%E7%8E%B0%E5%9C%A8%E7%9A%84%E5%B0%8F%E5%AD%A9%E5%8F%AF%E4%BB%A5%E6%97%A9%E7%86%9F%E5%88%B0%E4%BB%80%E4%B9%88%E5%9C%B0%E6%AD%A5)
+1. [新版雷克萨斯 es 为何看上去一言难尽](https://www.zhihu.com/search?q=%E6%96%B0%E7%89%88%E9%9B%B7%E5%85%8B%E8%90%A8%E6%96%AF%20es%20%E4%B8%BA%E4%BD%95%E7%9C%8B%E4%B8%8A%E5%8E%BB%E4%B8%80%E8%A8%80%E9%9A%BE%E5%B0%BD)
+1. [如何看待高校 4:30 锁教学楼](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E9%AB%98%E6%A0%A1%204%3A30%20%E9%94%81%E6%95%99%E5%AD%A6%E6%A5%BC)
 1. [为什么动物的毛发不会像人类一样不停地生长](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8A%A8%E7%89%A9%E7%9A%84%E6%AF%9B%E5%8F%91%E4%B8%8D%E4%BC%9A%E5%83%8F%E4%BA%BA%E7%B1%BB%E4%B8%80%E6%A0%B7%E4%B8%8D%E5%81%9C%E5%9C%B0%E7%94%9F%E9%95%BF)
 1. [鹈鹕真的没有攻击力吗](https://www.zhihu.com/search?q=%E9%B9%88%E9%B9%95%E7%9C%9F%E7%9A%84%E6%B2%A1%E6%9C%89%E6%94%BB%E5%87%BB%E5%8A%9B%E5%90%97)
 1. [日本一拉面店禁看手机](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E4%B8%80%E6%8B%89%E9%9D%A2%E5%BA%97%E7%A6%81%E7%9C%8B%E6%89%8B%E6%9C%BA)
