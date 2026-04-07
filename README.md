@@ -14,8 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Apr 08 2026 06:40:32 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Apr 08 2026 07:39:21 GMT+0800 (China Standard Time) -->
 
+1. [美国伊朗双方同意停火两周](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E4%BC%8A%E6%9C%97%E5%8F%8C%E6%96%B9%E5%90%8C%E6%84%8F%E5%81%9C%E7%81%AB%E4%B8%A4%E5%91%A8)
 1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
 1. [白宫回应特朗普病重住院传闻](https://www.zhihu.com/search?q=%E7%99%BD%E5%AE%AB%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%97%85%E9%87%8D%E4%BD%8F%E9%99%A2%E4%BC%A0%E9%97%BB)
 1. [女企业家陈丽华逝世](https://www.zhihu.com/search?q=%E5%A5%B3%E4%BC%81%E4%B8%9A%E5%AE%B6%E9%99%88%E4%B8%BD%E5%8D%8E%E9%80%9D%E4%B8%96)
