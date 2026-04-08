@@ -14,10 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Apr 08 2026 21:56:39 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Apr 08 2026 23:18:04 GMT+0800 (China Standard Time) -->
 
-1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
 1. [美伊双方同意停火两周](https://www.zhihu.com/search?q=%E7%BE%8E%E4%BC%8A%E5%8F%8C%E6%96%B9%E5%90%8C%E6%84%8F%E5%81%9C%E7%81%AB%E4%B8%A4%E5%91%A8)
+1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
 1. [网传全红婵遭遇集体霸凌](https://www.zhihu.com/search?q=%E7%BD%91%E4%BC%A0%E5%85%A8%E7%BA%A2%E5%A9%B5%E9%81%AD%E9%81%87%E9%9B%86%E4%BD%93%E9%9C%B8%E5%87%8C)
 1. [全红婵遭网暴训练中心报警](https://www.zhihu.com/search?q=%E5%85%A8%E7%BA%A2%E5%A9%B5%E9%81%AD%E7%BD%91%E6%9A%B4%E8%AE%AD%E7%BB%83%E4%B8%AD%E5%BF%83%E6%8A%A5%E8%AD%A6)
 1. [白宫回应特朗普病重住院传闻](https://www.zhihu.com/search?q=%E7%99%BD%E5%AE%AB%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%97%85%E9%87%8D%E4%BD%8F%E9%99%A2%E4%BC%A0%E9%97%BB)
@@ -25,8 +25,9 @@
 1. [安徽 6 岁女童家门口失联遇害](https://www.zhihu.com/search?q=%E5%AE%89%E5%BE%BD%206%20%E5%B2%81%E5%A5%B3%E7%AB%A5%E5%AE%B6%E9%97%A8%E5%8F%A3%E5%A4%B1%E8%81%94%E9%81%87%E5%AE%B3)
 1. [以色列将遵守停火但非自愿](https://www.zhihu.com/search?q=%E4%BB%A5%E8%89%B2%E5%88%97%E5%B0%86%E9%81%B5%E5%AE%88%E5%81%9C%E7%81%AB%E4%BD%86%E9%9D%9E%E8%87%AA%E6%84%BF)
 1. [伊朗称以放弃北部城市承认了失败](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E7%A7%B0%E4%BB%A5%E6%94%BE%E5%BC%83%E5%8C%97%E9%83%A8%E5%9F%8E%E5%B8%82%E6%89%BF%E8%AE%A4%E4%BA%86%E5%A4%B1%E8%B4%A5)
-1. [郭艾伦被诈骗近千万](https://www.zhihu.com/search?q=%E9%83%AD%E8%89%BE%E4%BC%A6%E8%A2%AB%E8%AF%88%E9%AA%97%E8%BF%91%E5%8D%83%E4%B8%87)
 1. [华为取消主动离职补偿 n+1](https://www.zhihu.com/search?q=%E5%8D%8E%E4%B8%BA%E5%8F%96%E6%B6%88%E4%B8%BB%E5%8A%A8%E7%A6%BB%E8%81%8C%E8%A1%A5%E5%81%BF%20n%2B1)
+1. [郭艾伦被诈骗近千万](https://www.zhihu.com/search?q=%E9%83%AD%E8%89%BE%E4%BC%A6%E8%A2%AB%E8%AF%88%E9%AA%97%E8%BF%91%E5%8D%83%E4%B8%87)
+1. [伊朗哈尔克岛再次遭到袭击](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%93%88%E5%B0%94%E5%85%8B%E5%B2%9B%E5%86%8D%E6%AC%A1%E9%81%AD%E5%88%B0%E8%A2%AD%E5%87%BB)
 1. [小米市值再跌 280 多亿](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%E5%B8%82%E5%80%BC%E5%86%8D%E8%B7%8C%20280%20%E5%A4%9A%E4%BA%BF)
 1. [猪一生都被关在猪圈里为什么没有抑郁症](https://www.zhihu.com/search?q=%E7%8C%AA%E4%B8%80%E7%94%9F%E9%83%BD%E8%A2%AB%E5%85%B3%E5%9C%A8%E7%8C%AA%E5%9C%88%E9%87%8C%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B2%A1%E6%9C%89%E6%8A%91%E9%83%81%E7%97%87)
 1. [底层穷人为什么完不成原始资本积累](https://www.zhihu.com/search?q=%E5%BA%95%E5%B1%82%E7%A9%B7%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E5%AE%8C%E4%B8%8D%E6%88%90%E5%8E%9F%E5%A7%8B%E8%B5%84%E6%9C%AC%E7%A7%AF%E7%B4%AF)
