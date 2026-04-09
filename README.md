@@ -14,24 +14,26 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Apr 09 2026 21:47:20 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Apr 09 2026 23:23:37 GMT+0800 (China Standard Time) -->
 
 1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
 1. [美伊双方同意停火两周](https://www.zhihu.com/search?q=%E7%BE%8E%E4%BC%8A%E5%8F%8C%E6%96%B9%E5%90%8C%E6%84%8F%E5%81%9C%E7%81%AB%E4%B8%A4%E5%91%A8)
 1. [网传全红婵遭遇集体霸凌](https://www.zhihu.com/search?q=%E7%BD%91%E4%BC%A0%E5%85%A8%E7%BA%A2%E5%A9%B5%E9%81%AD%E9%81%87%E9%9B%86%E4%BD%93%E9%9C%B8%E5%87%8C)
-1. [未成年人在电商平台购买兽用麻醉药](https://www.zhihu.com/search?q=%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E5%9C%A8%E7%94%B5%E5%95%86%E5%B9%B3%E5%8F%B0%E8%B4%AD%E4%B9%B0%E5%85%BD%E7%94%A8%E9%BA%BB%E9%86%89%E8%8D%AF)
+1. [取经路上谁给师徒四人理发](https://www.zhihu.com/search?q=%E5%8F%96%E7%BB%8F%E8%B7%AF%E4%B8%8A%E8%B0%81%E7%BB%99%E5%B8%88%E5%BE%92%E5%9B%9B%E4%BA%BA%E7%90%86%E5%8F%91)
 1. [全红婵遭网暴训练中心报警](https://www.zhihu.com/search?q=%E5%85%A8%E7%BA%A2%E5%A9%B5%E9%81%AD%E7%BD%91%E6%9A%B4%E8%AE%AD%E7%BB%83%E4%B8%AD%E5%BF%83%E6%8A%A5%E8%AD%A6)
 1. [小米市值再跌 280 多亿](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%E5%B8%82%E5%80%BC%E5%86%8D%E8%B7%8C%20280%20%E5%A4%9A%E4%BA%BF)
 1. [伊朗再次关闭霍尔木兹海峡](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%86%8D%E6%AC%A1%E5%85%B3%E9%97%AD%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1)
-1. [怎么看待周杰伦被歌迷吐槽演唱会划水](https://www.zhihu.com/search?q=%E6%80%8E%E4%B9%88%E7%9C%8B%E5%BE%85%E5%91%A8%E6%9D%B0%E4%BC%A6%E8%A2%AB%E6%AD%8C%E8%BF%B7%E5%90%90%E6%A7%BD%E6%BC%94%E5%94%B1%E4%BC%9A%E5%88%92%E6%B0%B4)
+1. [你会如何创造一个汉字来代替「AI」这个词](https://www.zhihu.com/search?q=%E4%BD%A0%E4%BC%9A%E5%A6%82%E4%BD%95%E5%88%9B%E9%80%A0%E4%B8%80%E4%B8%AA%E6%B1%89%E5%AD%97%E6%9D%A5%E4%BB%A3%E6%9B%BF%E3%80%8CAI%E3%80%8D%E8%BF%99%E4%B8%AA%E8%AF%8D)
 1. [西北大学通报贾浅浅论文涉嫌抄袭](https://www.zhihu.com/search?q=%E8%A5%BF%E5%8C%97%E5%A4%A7%E5%AD%A6%E9%80%9A%E6%8A%A5%E8%B4%BE%E6%B5%85%E6%B5%85%E8%AE%BA%E6%96%87%E6%B6%89%E5%AB%8C%E6%8A%84%E8%A2%AD)
 1. [安徽 6 岁女童家门口失联遇害](https://www.zhihu.com/search?q=%E5%AE%89%E5%BE%BD%206%20%E5%B2%81%E5%A5%B3%E7%AB%A5%E5%AE%B6%E9%97%A8%E5%8F%A3%E5%A4%B1%E8%81%94%E9%81%87%E5%AE%B3)
-1. [有哪些「烹饪窗户纸」捅破后让你厨艺大增](https://www.zhihu.com/search?q=%E6%9C%89%E5%93%AA%E4%BA%9B%E3%80%8C%E7%83%B9%E9%A5%AA%E7%AA%97%E6%88%B7%E7%BA%B8%E3%80%8D%E6%8D%85%E7%A0%B4%E5%90%8E%E8%AE%A9%E4%BD%A0%E5%8E%A8%E8%89%BA%E5%A4%A7%E5%A2%9E)
+1. [墓碑被贴「欠费通知单」合适吗](https://www.zhihu.com/search?q=%E5%A2%93%E7%A2%91%E8%A2%AB%E8%B4%B4%E3%80%8C%E6%AC%A0%E8%B4%B9%E9%80%9A%E7%9F%A5%E5%8D%95%E3%80%8D%E5%90%88%E9%80%82%E5%90%97)
 1. [以色列将遵守停火但非自愿](https://www.zhihu.com/search?q=%E4%BB%A5%E8%89%B2%E5%88%97%E5%B0%86%E9%81%B5%E5%AE%88%E5%81%9C%E7%81%AB%E4%BD%86%E9%9D%9E%E8%87%AA%E6%84%BF)
+1. [未成年人在电商平台购买兽用麻醉药](https://www.zhihu.com/search?q=%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E5%9C%A8%E7%94%B5%E5%95%86%E5%B9%B3%E5%8F%B0%E8%B4%AD%E4%B9%B0%E5%85%BD%E7%94%A8%E9%BA%BB%E9%86%89%E8%8D%AF)
+1. [怎么看待周杰伦被歌迷吐槽演唱会划水](https://www.zhihu.com/search?q=%E6%80%8E%E4%B9%88%E7%9C%8B%E5%BE%85%E5%91%A8%E6%9D%B0%E4%BC%A6%E8%A2%AB%E6%AD%8C%E8%BF%B7%E5%90%90%E6%A7%BD%E6%BC%94%E5%94%B1%E4%BC%9A%E5%88%92%E6%B0%B4)
+1. [有哪些「烹饪窗户纸」捅破后让你厨艺大增](https://www.zhihu.com/search?q=%E6%9C%89%E5%93%AA%E4%BA%9B%E3%80%8C%E7%83%B9%E9%A5%AA%E7%AA%97%E6%88%B7%E7%BA%B8%E3%80%8D%E6%8D%85%E7%A0%B4%E5%90%8E%E8%AE%A9%E4%BD%A0%E5%8E%A8%E8%89%BA%E5%A4%A7%E5%A2%9E)
 1. [哪一位标志性人物的离开最让你感慨](https://www.zhihu.com/search?q=%E5%93%AA%E4%B8%80%E4%BD%8D%E6%A0%87%E5%BF%97%E6%80%A7%E4%BA%BA%E7%89%A9%E7%9A%84%E7%A6%BB%E5%BC%80%E6%9C%80%E8%AE%A9%E4%BD%A0%E6%84%9F%E6%85%A8)
 1. [华为取消主动离职补偿](https://www.zhihu.com/search?q=%E5%8D%8E%E4%B8%BA%E5%8F%96%E6%B6%88%E4%B8%BB%E5%8A%A8%E7%A6%BB%E8%81%8C%E8%A1%A5%E5%81%BF)
 1. [华为取消主动离职补偿 n+1](https://www.zhihu.com/search?q=%E5%8D%8E%E4%B8%BA%E5%8F%96%E6%B6%88%E4%B8%BB%E5%8A%A8%E7%A6%BB%E8%81%8C%E8%A1%A5%E5%81%BF%20n%2B1)
-1. [取经路上谁给师徒四人理发](https://www.zhihu.com/search?q=%E5%8F%96%E7%BB%8F%E8%B7%AF%E4%B8%8A%E8%B0%81%E7%BB%99%E5%B8%88%E5%BE%92%E5%9B%9B%E4%BA%BA%E7%90%86%E5%8F%91)
 1. [为什么以前的 TVB 剧会成为「白月光」](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BB%A5%E5%89%8D%E7%9A%84%20TVB%20%E5%89%A7%E4%BC%9A%E6%88%90%E4%B8%BA%E3%80%8C%E7%99%BD%E6%9C%88%E5%85%89%E3%80%8D)
 1. [「正式场合不允许教师光脚穿鞋」合理吗](https://www.zhihu.com/search?q=%E3%80%8C%E6%AD%A3%E5%BC%8F%E5%9C%BA%E5%90%88%E4%B8%8D%E5%85%81%E8%AE%B8%E6%95%99%E5%B8%88%E5%85%89%E8%84%9A%E7%A9%BF%E9%9E%8B%E3%80%8D%E5%90%88%E7%90%86%E5%90%97)
 1. [河南三地曝出巨额数据造假](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8D%97%E4%B8%89%E5%9C%B0%E6%9B%9D%E5%87%BA%E5%B7%A8%E9%A2%9D%E6%95%B0%E6%8D%AE%E9%80%A0%E5%81%87)
