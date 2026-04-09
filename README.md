@@ -14,19 +14,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Apr 09 2026 13:12:02 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Apr 09 2026 15:27:17 GMT+0800 (China Standard Time) -->
 
 1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
 1. [美伊双方同意停火两周](https://www.zhihu.com/search?q=%E7%BE%8E%E4%BC%8A%E5%8F%8C%E6%96%B9%E5%90%8C%E6%84%8F%E5%81%9C%E7%81%AB%E4%B8%A4%E5%91%A8)
 1. [全红婵遭网暴训练中心报警](https://www.zhihu.com/search?q=%E5%85%A8%E7%BA%A2%E5%A9%B5%E9%81%AD%E7%BD%91%E6%9A%B4%E8%AE%AD%E7%BB%83%E4%B8%AD%E5%BF%83%E6%8A%A5%E8%AD%A6)
 1. [西北大学通报贾浅浅论文涉嫌抄袭](https://www.zhihu.com/search?q=%E8%A5%BF%E5%8C%97%E5%A4%A7%E5%AD%A6%E9%80%9A%E6%8A%A5%E8%B4%BE%E6%B5%85%E6%B5%85%E8%AE%BA%E6%96%87%E6%B6%89%E5%AB%8C%E6%8A%84%E8%A2%AD)
-1. [麦当劳店内放的音乐为什么那么难听](https://www.zhihu.com/search?q=%E9%BA%A6%E5%BD%93%E5%8A%B3%E5%BA%97%E5%86%85%E6%94%BE%E7%9A%84%E9%9F%B3%E4%B9%90%E4%B8%BA%E4%BB%80%E4%B9%88%E9%82%A3%E4%B9%88%E9%9A%BE%E5%90%AC)
+1. [早到学校一小时就能提高成绩吗](https://www.zhihu.com/search?q=%E6%97%A9%E5%88%B0%E5%AD%A6%E6%A0%A1%E4%B8%80%E5%B0%8F%E6%97%B6%E5%B0%B1%E8%83%BD%E6%8F%90%E9%AB%98%E6%88%90%E7%BB%A9%E5%90%97)
 1. [网传全红婵遭遇集体霸凌](https://www.zhihu.com/search?q=%E7%BD%91%E4%BC%A0%E5%85%A8%E7%BA%A2%E5%A9%B5%E9%81%AD%E9%81%87%E9%9B%86%E4%BD%93%E9%9C%B8%E5%87%8C)
 1. [华为取消主动离职补偿 n+1](https://www.zhihu.com/search?q=%E5%8D%8E%E4%B8%BA%E5%8F%96%E6%B6%88%E4%B8%BB%E5%8A%A8%E7%A6%BB%E8%81%8C%E8%A1%A5%E5%81%BF%20n%2B1)
 1. [小米市值再跌 280 多亿](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%E5%B8%82%E5%80%BC%E5%86%8D%E8%B7%8C%20280%20%E5%A4%9A%E4%BA%BF)
-1. [有什么迹象能表明人类还在进化](https://www.zhihu.com/search?q=%E6%9C%89%E4%BB%80%E4%B9%88%E8%BF%B9%E8%B1%A1%E8%83%BD%E8%A1%A8%E6%98%8E%E4%BA%BA%E7%B1%BB%E8%BF%98%E5%9C%A8%E8%BF%9B%E5%8C%96)
+1. [「春假」体验如何](https://www.zhihu.com/search?q=%E3%80%8C%E6%98%A5%E5%81%87%E3%80%8D%E4%BD%93%E9%AA%8C%E5%A6%82%E4%BD%95)
 1. [安徽 6 岁女童家门口失联遇害](https://www.zhihu.com/search?q=%E5%AE%89%E5%BE%BD%206%20%E5%B2%81%E5%A5%B3%E7%AB%A5%E5%AE%B6%E9%97%A8%E5%8F%A3%E5%A4%B1%E8%81%94%E9%81%87%E5%AE%B3)
 1. [伊朗称以放弃北部城市承认了失败](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E7%A7%B0%E4%BB%A5%E6%94%BE%E5%BC%83%E5%8C%97%E9%83%A8%E5%9F%8E%E5%B8%82%E6%89%BF%E8%AE%A4%E4%BA%86%E5%A4%B1%E8%B4%A5)
+1. [甘孜景区民警免票不含辅警](https://www.zhihu.com/search?q=%E7%94%98%E5%AD%9C%E6%99%AF%E5%8C%BA%E6%B0%91%E8%AD%A6%E5%85%8D%E7%A5%A8%E4%B8%8D%E5%90%AB%E8%BE%85%E8%AD%A6)
+1. [麦当劳店内放的音乐为什么那么难听](https://www.zhihu.com/search?q=%E9%BA%A6%E5%BD%93%E5%8A%B3%E5%BA%97%E5%86%85%E6%94%BE%E7%9A%84%E9%9F%B3%E4%B9%90%E4%B8%BA%E4%BB%80%E4%B9%88%E9%82%A3%E4%B9%88%E9%9A%BE%E5%90%AC)
+1. [有什么迹象能表明人类还在进化](https://www.zhihu.com/search?q=%E6%9C%89%E4%BB%80%E4%B9%88%E8%BF%B9%E8%B1%A1%E8%83%BD%E8%A1%A8%E6%98%8E%E4%BA%BA%E7%B1%BB%E8%BF%98%E5%9C%A8%E8%BF%9B%E5%8C%96)
 1. [水蛭可以钻破鸡的肠胃吗](https://www.zhihu.com/search?q=%E6%B0%B4%E8%9B%AD%E5%8F%AF%E4%BB%A5%E9%92%BB%E7%A0%B4%E9%B8%A1%E7%9A%84%E8%82%A0%E8%83%83%E5%90%97)
 1. [女企业家陈丽华逝世](https://www.zhihu.com/search?q=%E5%A5%B3%E4%BC%81%E4%B8%9A%E5%AE%B6%E9%99%88%E4%B8%BD%E5%8D%8E%E9%80%9D%E4%B8%96)
 1. [以色列将遵守停火但非自愿](https://www.zhihu.com/search?q=%E4%BB%A5%E8%89%B2%E5%88%97%E5%B0%86%E9%81%B5%E5%AE%88%E5%81%9C%E7%81%AB%E4%BD%86%E9%9D%9E%E8%87%AA%E6%84%BF)
