@@ -14,19 +14,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Apr 10 2026 15:46:03 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Apr 10 2026 17:13:34 GMT+0800 (China Standard Time) -->
 
 1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
 1. [网传全红婵遭遇集体霸凌](https://www.zhihu.com/search?q=%E7%BD%91%E4%BC%A0%E5%85%A8%E7%BA%A2%E5%A9%B5%E9%81%AD%E9%81%87%E9%9B%86%E4%BD%93%E9%9C%B8%E5%87%8C)
 1. [全红婵遭网暴训练中心报警](https://www.zhihu.com/search?q=%E5%85%A8%E7%BA%A2%E5%A9%B5%E9%81%AD%E7%BD%91%E6%9A%B4%E8%AE%AD%E7%BB%83%E4%B8%AD%E5%BF%83%E6%8A%A5%E8%AD%A6)
-1. [你曾庆幸自己做过什么事](https://www.zhihu.com/search?q=%E4%BD%A0%E6%9B%BE%E5%BA%86%E5%B9%B8%E8%87%AA%E5%B7%B1%E5%81%9A%E8%BF%87%E4%BB%80%E4%B9%88%E4%BA%8B)
+1. [核心节奏重合算抄袭吗](https://www.zhihu.com/search?q=%E6%A0%B8%E5%BF%83%E8%8A%82%E5%A5%8F%E9%87%8D%E5%90%88%E7%AE%97%E6%8A%84%E8%A2%AD%E5%90%97)
 1. [求职版 MBTI](https://www.zhihu.com/search?q=%E6%B1%82%E8%81%8C%E7%89%88%20MBTI)
-1. [美伊双方同意停火两周](https://www.zhihu.com/search?q=%E7%BE%8E%E4%BC%8A%E5%8F%8C%E6%96%B9%E5%90%8C%E6%84%8F%E5%81%9C%E7%81%AB%E4%B8%A4%E5%91%A8)
 1. [比特币发明者中本聪真实身份曝光](https://www.zhihu.com/search?q=%E6%AF%94%E7%89%B9%E5%B8%81%E5%8F%91%E6%98%8E%E8%80%85%E4%B8%AD%E6%9C%AC%E8%81%AA%E7%9C%9F%E5%AE%9E%E8%BA%AB%E4%BB%BD%E6%9B%9D%E5%85%89)
+1. [美伊双方同意停火两周](https://www.zhihu.com/search?q=%E7%BE%8E%E4%BC%8A%E5%8F%8C%E6%96%B9%E5%90%8C%E6%84%8F%E5%81%9C%E7%81%AB%E4%B8%A4%E5%91%A8)
 1. [伊朗再次关闭霍尔木兹海峡](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%86%8D%E6%AC%A1%E5%85%B3%E9%97%AD%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1)
-1. [你的电话号码的前主人是什么样的人](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9A%84%E7%94%B5%E8%AF%9D%E5%8F%B7%E7%A0%81%E7%9A%84%E5%89%8D%E4%B8%BB%E4%BA%BA%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E4%BA%BA)
+1. [麦当劳店内放的音乐为什么那么难听](https://www.zhihu.com/search?q=%E9%BA%A6%E5%BD%93%E5%8A%B3%E5%BA%97%E5%86%85%E6%94%BE%E7%9A%84%E9%9F%B3%E4%B9%90%E4%B8%BA%E4%BB%80%E4%B9%88%E9%82%A3%E4%B9%88%E9%9A%BE%E5%90%AC)
 1. [西北大学通报贾浅浅论文涉嫌抄袭](https://www.zhihu.com/search?q=%E8%A5%BF%E5%8C%97%E5%A4%A7%E5%AD%A6%E9%80%9A%E6%8A%A5%E8%B4%BE%E6%B5%85%E6%B5%85%E8%AE%BA%E6%96%87%E6%B6%89%E5%AB%8C%E6%8A%84%E8%A2%AD)
 1. [以色列将遵守停火但非自愿](https://www.zhihu.com/search?q=%E4%BB%A5%E8%89%B2%E5%88%97%E5%B0%86%E9%81%B5%E5%AE%88%E5%81%9C%E7%81%AB%E4%BD%86%E9%9D%9E%E8%87%AA%E6%84%BF)
+1. [去客厅化是不是小户型的无奈之选](https://www.zhihu.com/search?q=%E5%8E%BB%E5%AE%A2%E5%8E%85%E5%8C%96%E6%98%AF%E4%B8%8D%E6%98%AF%E5%B0%8F%E6%88%B7%E5%9E%8B%E7%9A%84%E6%97%A0%E5%A5%88%E4%B9%8B%E9%80%89)
+1. [你曾庆幸自己做过什么事](https://www.zhihu.com/search?q=%E4%BD%A0%E6%9B%BE%E5%BA%86%E5%B9%B8%E8%87%AA%E5%B7%B1%E5%81%9A%E8%BF%87%E4%BB%80%E4%B9%88%E4%BA%8B)
+1. [你的电话号码的前主人是什么样的人](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9A%84%E7%94%B5%E8%AF%9D%E5%8F%B7%E7%A0%81%E7%9A%84%E5%89%8D%E4%B8%BB%E4%BA%BA%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E4%BA%BA)
 1. [哪个瞬间让你想要辞退下属](https://www.zhihu.com/search?q=%E5%93%AA%E4%B8%AA%E7%9E%AC%E9%97%B4%E8%AE%A9%E4%BD%A0%E6%83%B3%E8%A6%81%E8%BE%9E%E9%80%80%E4%B8%8B%E5%B1%9E)
 1. [海河牛奶直播间被曝涉黄涉低俗](https://www.zhihu.com/search?q=%E6%B5%B7%E6%B2%B3%E7%89%9B%E5%A5%B6%E7%9B%B4%E6%92%AD%E9%97%B4%E8%A2%AB%E6%9B%9D%E6%B6%89%E9%BB%84%E6%B6%89%E4%BD%8E%E4%BF%97)
 1. [樊振东不参加伦敦世乒赛](https://www.zhihu.com/search?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E4%B8%8D%E5%8F%82%E5%8A%A0%E4%BC%A6%E6%95%A6%E4%B8%96%E4%B9%92%E8%B5%9B)
