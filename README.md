@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Apr 13 2026 03:40:49 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Apr 13 2026 04:40:02 GMT+0800 (China Standard Time) -->
 
 1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
 1. [全红婵网暴案群主被行拘](https://www.zhihu.com/search?q=%E5%85%A8%E7%BA%A2%E5%A9%B5%E7%BD%91%E6%9A%B4%E6%A1%88%E7%BE%A4%E4%B8%BB%E8%A2%AB%E8%A1%8C%E6%8B%98)
@@ -25,8 +25,8 @@
 1. [阿耳忒弥斯二号在太平洋海域成功溅落](https://www.zhihu.com/search?q=%E9%98%BF%E8%80%B3%E5%BF%92%E5%BC%A5%E6%96%AF%E4%BA%8C%E5%8F%B7%E5%9C%A8%E5%A4%AA%E5%B9%B3%E6%B4%8B%E6%B5%B7%E5%9F%9F%E6%88%90%E5%8A%9F%E6%BA%85%E8%90%BD)
 1. [伊美第三轮谈判存在严重分歧](https://www.zhihu.com/search?q=%E4%BC%8A%E7%BE%8E%E7%AC%AC%E4%B8%89%E8%BD%AE%E8%B0%88%E5%88%A4%E5%AD%98%E5%9C%A8%E4%B8%A5%E9%87%8D%E5%88%86%E6%AD%A7)
 1. [美伊谈判](https://www.zhihu.com/search?q=%E7%BE%8E%E4%BC%8A%E8%B0%88%E5%88%A4)
-1. [伊朗再次关闭霍尔木兹海峡](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%86%8D%E6%AC%A1%E5%85%B3%E9%97%AD%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1)
 1. [外交部回应日本降级中日关系](https://www.zhihu.com/search?q=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E9%99%8D%E7%BA%A7%E4%B8%AD%E6%97%A5%E5%85%B3%E7%B3%BB)
+1. [伊朗再次关闭霍尔木兹海峡](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%86%8D%E6%AC%A1%E5%85%B3%E9%97%AD%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1)
 1. [苏超](https://www.zhihu.com/search?q=%E8%8B%8F%E8%B6%85)
 1. [李小冉拉王濛起来被甩开](https://www.zhihu.com/search?q=%E6%9D%8E%E5%B0%8F%E5%86%89%E6%8B%89%E7%8E%8B%E6%BF%9B%E8%B5%B7%E6%9D%A5%E8%A2%AB%E7%94%A9%E5%BC%80)
 
