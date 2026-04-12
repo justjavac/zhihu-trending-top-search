@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Apr 13 2026 05:38:15 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Apr 13 2026 06:37:02 GMT+0800 (China Standard Time) -->
 
 1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
 1. [全红婵网暴案群主被行拘](https://www.zhihu.com/search?q=%E5%85%A8%E7%BA%A2%E5%A9%B5%E7%BD%91%E6%9A%B4%E6%A1%88%E7%BE%A4%E4%B8%BB%E8%A2%AB%E8%A1%8C%E6%8B%98)
