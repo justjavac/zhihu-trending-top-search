@@ -14,23 +14,26 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Apr 12 2026 22:41:32 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Apr 12 2026 23:38:21 GMT+0800 (China Standard Time) -->
 
 1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
 1. [王石否认被抓](https://www.zhihu.com/search?q=%E7%8E%8B%E7%9F%B3%E5%90%A6%E8%AE%A4%E8%A2%AB%E6%8A%93)
 1. [全红婵网暴案群主被行拘](https://www.zhihu.com/search?q=%E5%85%A8%E7%BA%A2%E5%A9%B5%E7%BD%91%E6%9A%B4%E6%A1%88%E7%BE%A4%E4%B8%BB%E8%A2%AB%E8%A1%8C%E6%8B%98)
 1. [李小冉拉王濛起来被甩开](https://www.zhihu.com/search?q=%E6%9D%8E%E5%B0%8F%E5%86%89%E6%8B%89%E7%8E%8B%E6%BF%9B%E8%B5%B7%E6%9D%A5%E8%A2%AB%E7%94%A9%E5%BC%80)
-1. [你曾庆幸自己做过什么事](https://www.zhihu.com/search?q=%E4%BD%A0%E6%9B%BE%E5%BA%86%E5%B9%B8%E8%87%AA%E5%B7%B1%E5%81%9A%E8%BF%87%E4%BB%80%E4%B9%88%E4%BA%8B)
+1. [90 后真的是最惨的一代吗](https://www.zhihu.com/search?q=90%20%E5%90%8E%E7%9C%9F%E7%9A%84%E6%98%AF%E6%9C%80%E6%83%A8%E7%9A%84%E4%B8%80%E4%BB%A3%E5%90%97)
 1. [「赌王」女儿何超蕸去世](https://www.zhihu.com/search?q=%E3%80%8C%E8%B5%8C%E7%8E%8B%E3%80%8D%E5%A5%B3%E5%84%BF%E4%BD%95%E8%B6%85%E8%95%B8%E5%8E%BB%E4%B8%96)
 1. [郭帆称孩子们普遍反奋斗不想听鸡汤](https://www.zhihu.com/search?q=%E9%83%AD%E5%B8%86%E7%A7%B0%E5%AD%A9%E5%AD%90%E4%BB%AC%E6%99%AE%E9%81%8D%E5%8F%8D%E5%A5%8B%E6%96%97%E4%B8%8D%E6%83%B3%E5%90%AC%E9%B8%A1%E6%B1%A4)
 1. [西北大学通报贾浅浅论文涉嫌抄袭](https://www.zhihu.com/search?q=%E8%A5%BF%E5%8C%97%E5%A4%A7%E5%AD%A6%E9%80%9A%E6%8A%A5%E8%B4%BE%E6%B5%85%E6%B5%85%E8%AE%BA%E6%96%87%E6%B6%89%E5%AB%8C%E6%8A%84%E8%A2%AD)
-1. [水蛭可以钻破鸡的肠胃吗](https://www.zhihu.com/search?q=%E6%B0%B4%E8%9B%AD%E5%8F%AF%E4%BB%A5%E9%92%BB%E7%A0%B4%E9%B8%A1%E7%9A%84%E8%82%A0%E8%83%83%E5%90%97)
+1. [种蘑菇时孢子会在人的躯体上生根发芽吗](https://www.zhihu.com/search?q=%E7%A7%8D%E8%98%91%E8%8F%87%E6%97%B6%E5%AD%A2%E5%AD%90%E4%BC%9A%E5%9C%A8%E4%BA%BA%E7%9A%84%E8%BA%AF%E4%BD%93%E4%B8%8A%E7%94%9F%E6%A0%B9%E5%8F%91%E8%8A%BD%E5%90%97)
 1. [阿耳忒弥斯二号在太平洋海域成功溅落](https://www.zhihu.com/search?q=%E9%98%BF%E8%80%B3%E5%BF%92%E5%BC%A5%E6%96%AF%E4%BA%8C%E5%8F%B7%E5%9C%A8%E5%A4%AA%E5%B9%B3%E6%B4%8B%E6%B5%B7%E5%9F%9F%E6%88%90%E5%8A%9F%E6%BA%85%E8%90%BD)
+1. [伊美第三轮谈判存在严重分歧](https://www.zhihu.com/search?q=%E4%BC%8A%E7%BE%8E%E7%AC%AC%E4%B8%89%E8%BD%AE%E8%B0%88%E5%88%A4%E5%AD%98%E5%9C%A8%E4%B8%A5%E9%87%8D%E5%88%86%E6%AD%A7)
+1. [如何一眼看出一个男领导是否好色](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E4%B8%80%E7%9C%BC%E7%9C%8B%E5%87%BA%E4%B8%80%E4%B8%AA%E7%94%B7%E9%A2%86%E5%AF%BC%E6%98%AF%E5%90%A6%E5%A5%BD%E8%89%B2)
+1. [你曾庆幸自己做过什么事](https://www.zhihu.com/search?q=%E4%BD%A0%E6%9B%BE%E5%BA%86%E5%B9%B8%E8%87%AA%E5%B7%B1%E5%81%9A%E8%BF%87%E4%BB%80%E4%B9%88%E4%BA%8B)
+1. [水蛭可以钻破鸡的肠胃吗](https://www.zhihu.com/search?q=%E6%B0%B4%E8%9B%AD%E5%8F%AF%E4%BB%A5%E9%92%BB%E7%A0%B4%E9%B8%A1%E7%9A%84%E8%82%A0%E8%83%83%E5%90%97)
 1. [美伊谈判](https://www.zhihu.com/search?q=%E7%BE%8E%E4%BC%8A%E8%B0%88%E5%88%A4)
 1. [猫咪是不是受不了人类用手指头指着它的脸](https://www.zhihu.com/search?q=%E7%8C%AB%E5%92%AA%E6%98%AF%E4%B8%8D%E6%98%AF%E5%8F%97%E4%B8%8D%E4%BA%86%E4%BA%BA%E7%B1%BB%E7%94%A8%E6%89%8B%E6%8C%87%E5%A4%B4%E6%8C%87%E7%9D%80%E5%AE%83%E7%9A%84%E8%84%B8)
 1. [去客厅化是不是小户型的无奈之选](https://www.zhihu.com/search?q=%E5%8E%BB%E5%AE%A2%E5%8E%85%E5%8C%96%E6%98%AF%E4%B8%8D%E6%98%AF%E5%B0%8F%E6%88%B7%E5%9E%8B%E7%9A%84%E6%97%A0%E5%A5%88%E4%B9%8B%E9%80%89)
 1. [为什么大佬每天处理许多事情还精力充沛](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A4%A7%E4%BD%AC%E6%AF%8F%E5%A4%A9%E5%A4%84%E7%90%86%E8%AE%B8%E5%A4%9A%E4%BA%8B%E6%83%85%E8%BF%98%E7%B2%BE%E5%8A%9B%E5%85%85%E6%B2%9B)
-1. [伊美第三轮谈判存在严重分歧](https://www.zhihu.com/search?q=%E4%BC%8A%E7%BE%8E%E7%AC%AC%E4%B8%89%E8%BD%AE%E8%B0%88%E5%88%A4%E5%AD%98%E5%9C%A8%E4%B8%A5%E9%87%8D%E5%88%86%E6%AD%A7)
 1. [伊朗再次关闭霍尔木兹海峡](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%86%8D%E6%AC%A1%E5%85%B3%E9%97%AD%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1)
 1. [麦当劳店内放的音乐为什么那么难听](https://www.zhihu.com/search?q=%E9%BA%A6%E5%BD%93%E5%8A%B3%E5%BA%97%E5%86%85%E6%94%BE%E7%9A%84%E9%9F%B3%E4%B9%90%E4%B8%BA%E4%BB%80%E4%B9%88%E9%82%A3%E4%B9%88%E9%9A%BE%E5%90%AC)
 1. [物业公司大撤退问题出在哪里](https://www.zhihu.com/search?q=%E7%89%A9%E4%B8%9A%E5%85%AC%E5%8F%B8%E5%A4%A7%E6%92%A4%E9%80%80%E9%97%AE%E9%A2%98%E5%87%BA%E5%9C%A8%E5%93%AA%E9%87%8C)
@@ -48,14 +51,12 @@
 1. [核心节奏重合算抄袭吗](https://www.zhihu.com/search?q=%E6%A0%B8%E5%BF%83%E8%8A%82%E5%A5%8F%E9%87%8D%E5%90%88%E7%AE%97%E6%8A%84%E8%A2%AD%E5%90%97)
 1. [为什么总有人说中国应当普及逻辑学](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%80%BB%E6%9C%89%E4%BA%BA%E8%AF%B4%E4%B8%AD%E5%9B%BD%E5%BA%94%E5%BD%93%E6%99%AE%E5%8F%8A%E9%80%BB%E8%BE%91%E5%AD%A6)
 1. [给人提供了正向情绪价值反而被看轻](https://www.zhihu.com/search?q=%E7%BB%99%E4%BA%BA%E6%8F%90%E4%BE%9B%E4%BA%86%E6%AD%A3%E5%90%91%E6%83%85%E7%BB%AA%E4%BB%B7%E5%80%BC%E5%8F%8D%E8%80%8C%E8%A2%AB%E7%9C%8B%E8%BD%BB)
-1. [如何一眼看出一个男领导是否好色](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E4%B8%80%E7%9C%BC%E7%9C%8B%E5%87%BA%E4%B8%80%E4%B8%AA%E7%94%B7%E9%A2%86%E5%AF%BC%E6%98%AF%E5%90%A6%E5%A5%BD%E8%89%B2)
 1. [新赛季苏超](https://www.zhihu.com/search?q=%E6%96%B0%E8%B5%9B%E5%AD%A3%E8%8B%8F%E8%B6%85)
 1. [如何轻松制造一个高级的阳谋](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%BD%BB%E6%9D%BE%E5%88%B6%E9%80%A0%E4%B8%80%E4%B8%AA%E9%AB%98%E7%BA%A7%E7%9A%84%E9%98%B3%E8%B0%8B)
 1. [张靓颖怒斥工作人员泄露未发行作品](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9D%93%E9%A2%96%E6%80%92%E6%96%A5%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E6%B3%84%E9%9C%B2%E6%9C%AA%E5%8F%91%E8%A1%8C%E4%BD%9C%E5%93%81)
 1. [美伊代表团举行谈判](https://www.zhihu.com/search?q=%E7%BE%8E%E4%BC%8A%E4%BB%A3%E8%A1%A8%E5%9B%A2%E4%B8%BE%E8%A1%8C%E8%B0%88%E5%88%A4)
 1. [iOS26 真的审美倒退了吗](https://www.zhihu.com/search?q=iOS26%20%E7%9C%9F%E7%9A%84%E5%AE%A1%E7%BE%8E%E5%80%92%E9%80%80%E4%BA%86%E5%90%97)
 1. [自助餐厅因顾客吃 12 个汉堡而拒绝接待](https://www.zhihu.com/search?q=%E8%87%AA%E5%8A%A9%E9%A4%90%E5%8E%85%E5%9B%A0%E9%A1%BE%E5%AE%A2%E5%90%83%2012%20%E4%B8%AA%E6%B1%89%E5%A0%A1%E8%80%8C%E6%8B%92%E7%BB%9D%E6%8E%A5%E5%BE%85)
-1. [种蘑菇时孢子会在人的躯体上生根发芽吗](https://www.zhihu.com/search?q=%E7%A7%8D%E8%98%91%E8%8F%87%E6%97%B6%E5%AD%A2%E5%AD%90%E4%BC%9A%E5%9C%A8%E4%BA%BA%E7%9A%84%E8%BA%AF%E4%BD%93%E4%B8%8A%E7%94%9F%E6%A0%B9%E5%8F%91%E8%8A%BD%E5%90%97)
 
 <!-- END -->
 
