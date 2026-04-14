@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Apr 15 2026 06:54:38 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Apr 15 2026 07:44:28 GMT+0800 (China Standard Time) -->
 
 1. [文章开饭店了](https://www.zhihu.com/search?q=%E6%96%87%E7%AB%A0%E5%BC%80%E9%A5%AD%E5%BA%97%E4%BA%86)
 1. [小孩问外国游客美国人是不是吃人](https://www.zhihu.com/search?q=%E5%B0%8F%E5%AD%A9%E9%97%AE%E5%A4%96%E5%9B%BD%E6%B8%B8%E5%AE%A2%E7%BE%8E%E5%9B%BD%E4%BA%BA%E6%98%AF%E4%B8%8D%E6%98%AF%E5%90%83%E4%BA%BA)
