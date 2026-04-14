@@ -14,11 +14,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Apr 15 2026 03:20:15 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Apr 15 2026 04:57:33 GMT+0800 (China Standard Time) -->
 
 1. [小孩问外国游客美国人是不是吃人](https://www.zhihu.com/search?q=%E5%B0%8F%E5%AD%A9%E9%97%AE%E5%A4%96%E5%9B%BD%E6%B8%B8%E5%AE%A2%E7%BE%8E%E5%9B%BD%E4%BA%BA%E6%98%AF%E4%B8%8D%E6%98%AF%E5%90%83%E4%BA%BA)
-1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
 1. [文章开饭店了](https://www.zhihu.com/search?q=%E6%96%87%E7%AB%A0%E5%BC%80%E9%A5%AD%E5%BA%97%E4%BA%86)
+1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
 1. [导师给你的最后忠告是什么](https://www.zhihu.com/search?q=%E5%AF%BC%E5%B8%88%E7%BB%99%E4%BD%A0%E7%9A%84%E6%9C%80%E5%90%8E%E5%BF%A0%E5%91%8A%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [知乎 Morning Call](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%20Morning%20Call)
 1. [比亚迪财务总监年薪 1013 万元](https://www.zhihu.com/search?q=%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%B4%A2%E5%8A%A1%E6%80%BB%E7%9B%91%E5%B9%B4%E8%96%AA%201013%20%E4%B8%87%E5%85%83)
