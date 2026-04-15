@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Apr 16 2026 04:53:53 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Apr 16 2026 05:54:56 GMT+0800 (China Standard Time) -->
 
 1. [文章开饭店了](https://www.zhihu.com/search?q=%E6%96%87%E7%AB%A0%E5%BC%80%E9%A5%AD%E5%BA%97%E4%BA%86)
 1. [嫣然医院与房东已调解完成](https://www.zhihu.com/search?q=%E5%AB%A3%E7%84%B6%E5%8C%BB%E9%99%A2%E4%B8%8E%E6%88%BF%E4%B8%9C%E5%B7%B2%E8%B0%83%E8%A7%A3%E5%AE%8C%E6%88%90)
