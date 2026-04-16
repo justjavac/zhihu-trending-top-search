@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Apr 16 2026 19:06:12 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Apr 16 2026 21:52:42 GMT+0800 (China Standard Time) -->
 
 1. [比亚迪财务总监年薪 1013 万元](https://www.zhihu.com/search?q=%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%B4%A2%E5%8A%A1%E6%80%BB%E7%9B%91%E5%B9%B4%E8%96%AA%201013%20%E4%B8%87%E5%85%83)
 1. [高铁站员工回应站台全面禁烟](https://www.zhihu.com/search?q=%E9%AB%98%E9%93%81%E7%AB%99%E5%91%98%E5%B7%A5%E5%9B%9E%E5%BA%94%E7%AB%99%E5%8F%B0%E5%85%A8%E9%9D%A2%E7%A6%81%E7%83%9F)
@@ -25,9 +25,10 @@
 1. [阿里发布 Happy Oyster](https://www.zhihu.com/search?q=%E9%98%BF%E9%87%8C%E5%8F%91%E5%B8%83%20Happy%20Oyster)
 1. [阿尔忒弥斯译名被吐槽拗口](https://www.zhihu.com/search?q=%E9%98%BF%E5%B0%94%E5%BF%92%E5%BC%A5%E6%96%AF%E8%AF%91%E5%90%8D%E8%A2%AB%E5%90%90%E6%A7%BD%E6%8B%97%E5%8F%A3)
 1. [什么样的人算是中了基因彩票](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E4%BA%BA%E7%AE%97%E6%98%AF%E4%B8%AD%E4%BA%86%E5%9F%BA%E5%9B%A0%E5%BD%A9%E7%A5%A8)
-1. [银行招聘被指萝卜岗后撤争议条款](https://www.zhihu.com/search?q=%E9%93%B6%E8%A1%8C%E6%8B%9B%E8%81%98%E8%A2%AB%E6%8C%87%E8%90%9D%E5%8D%9C%E5%B2%97%E5%90%8E%E6%92%A4%E4%BA%89%E8%AE%AE%E6%9D%A1%E6%AC%BE)
 1. [金钟仁说男爱豆跳舞「抓裆」是为了找重心](https://www.zhihu.com/search?q=%E9%87%91%E9%92%9F%E4%BB%81%E8%AF%B4%E7%94%B7%E7%88%B1%E8%B1%86%E8%B7%B3%E8%88%9E%E3%80%8C%E6%8A%93%E8%A3%86%E3%80%8D%E6%98%AF%E4%B8%BA%E4%BA%86%E6%89%BE%E9%87%8D%E5%BF%83)
+1. [金立刘立荣现身印尼卖家具](https://www.zhihu.com/search?q=%E9%87%91%E7%AB%8B%E5%88%98%E7%AB%8B%E8%8D%A3%E7%8E%B0%E8%BA%AB%E5%8D%B0%E5%B0%BC%E5%8D%96%E5%AE%B6%E5%85%B7)
 1. [五常的一票否决权是否存在 bug](https://www.zhihu.com/search?q=%E4%BA%94%E5%B8%B8%E7%9A%84%E4%B8%80%E7%A5%A8%E5%90%A6%E5%86%B3%E6%9D%83%E6%98%AF%E5%90%A6%E5%AD%98%E5%9C%A8%20bug)
+1. [银行招聘被指萝卜岗后撤争议条款](https://www.zhihu.com/search?q=%E9%93%B6%E8%A1%8C%E6%8B%9B%E8%81%98%E8%A2%AB%E6%8C%87%E8%90%9D%E5%8D%9C%E5%B2%97%E5%90%8E%E6%92%A4%E4%BA%89%E8%AE%AE%E6%9D%A1%E6%AC%BE)
 1. [嫣然医院与房东已调解完成](https://www.zhihu.com/search?q=%E5%AB%A3%E7%84%B6%E5%8C%BB%E9%99%A2%E4%B8%8E%E6%88%BF%E4%B8%9C%E5%B7%B2%E8%B0%83%E8%A7%A3%E5%AE%8C%E6%88%90)
 1. [马德里竞技 1:2 巴塞罗那](https://www.zhihu.com/search?q=%E9%A9%AC%E5%BE%B7%E9%87%8C%E7%AB%9E%E6%8A%80%201%3A2%20%E5%B7%B4%E5%A1%9E%E7%BD%97%E9%82%A3)
 1. [丝芭创始人王子杰去世](https://www.zhihu.com/search?q=%E4%B8%9D%E8%8A%AD%E5%88%9B%E5%A7%8B%E4%BA%BA%E7%8E%8B%E5%AD%90%E6%9D%B0%E5%8E%BB%E4%B8%96)
