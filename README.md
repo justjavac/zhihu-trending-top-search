@@ -14,20 +14,23 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Apr 19 2026 21:07:44 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Apr 19 2026 22:42:22 GMT+0800 (China Standard Time) -->
 
-1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
+1. [拼多多被罚 15.2 亿且暴力阻碍监管](https://www.zhihu.com/search?q=%E6%8B%BC%E5%A4%9A%E5%A4%9A%E8%A2%AB%E7%BD%9A%2015.2%20%E4%BA%BF%E4%B8%94%E6%9A%B4%E5%8A%9B%E9%98%BB%E7%A2%8D%E7%9B%91%E7%AE%A1)
 1. [李雨桐泄露薛之谦信息被行拘](https://www.zhihu.com/search?q=%E6%9D%8E%E9%9B%A8%E6%A1%90%E6%B3%84%E9%9C%B2%E8%96%9B%E4%B9%8B%E8%B0%A6%E4%BF%A1%E6%81%AF%E8%A2%AB%E8%A1%8C%E6%8B%98)
 1. [张雪机车荷兰站第二轮第七](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E8%8D%B7%E5%85%B0%E7%AB%99%E7%AC%AC%E4%BA%8C%E8%BD%AE%E7%AC%AC%E4%B8%83)
-1. [拼多多被罚 15.2 亿且暴力阻碍监管](https://www.zhihu.com/search?q=%E6%8B%BC%E5%A4%9A%E5%A4%9A%E8%A2%AB%E7%BD%9A%2015.2%20%E4%BA%BF%E4%B8%94%E6%9A%B4%E5%8A%9B%E9%98%BB%E7%A2%8D%E7%9B%91%E7%AE%A1)
-1. [歌手 2026](https://www.zhihu.com/search?q=%E6%AD%8C%E6%89%8B%202026)
+1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
 1. [中越联合声明发布](https://www.zhihu.com/search?q=%E4%B8%AD%E8%B6%8A%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E%E5%8F%91%E5%B8%83)
-1. [自己做饭真的很省钱吗](https://www.zhihu.com/search?q=%E8%87%AA%E5%B7%B1%E5%81%9A%E9%A5%AD%E7%9C%9F%E7%9A%84%E5%BE%88%E7%9C%81%E9%92%B1%E5%90%97)
+1. [金像奖](https://www.zhihu.com/search?q=%E9%87%91%E5%83%8F%E5%A5%96)
+1. [发的电用不完会储存起来吗](https://www.zhihu.com/search?q=%E5%8F%91%E7%9A%84%E7%94%B5%E7%94%A8%E4%B8%8D%E5%AE%8C%E4%BC%9A%E5%82%A8%E5%AD%98%E8%B5%B7%E6%9D%A5%E5%90%97)
 1. [解放军管控日舰过航台湾海峡](https://www.zhihu.com/search?q=%E8%A7%A3%E6%94%BE%E5%86%9B%E7%AE%A1%E6%8E%A7%E6%97%A5%E8%88%B0%E8%BF%87%E8%88%AA%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1)
-1. [2026 苏超](https://www.zhihu.com/search?q=2026%20%E8%8B%8F%E8%B6%85)
 1. [2026 人形机器人半程马拉松赛](https://www.zhihu.com/search?q=2026%20%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8D%8A%E7%A8%8B%E9%A9%AC%E6%8B%89%E6%9D%BE%E8%B5%9B)
-1. [为什么鳄鱼没有灭绝](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E9%B3%84%E9%B1%BC%E6%B2%A1%E6%9C%89%E7%81%AD%E7%BB%9D)
+1. [2026 苏超](https://www.zhihu.com/search?q=2026%20%E8%8B%8F%E8%B6%85)
+1. [公积金只缴不用是为什么](https://www.zhihu.com/search?q=%E5%85%AC%E7%A7%AF%E9%87%91%E5%8F%AA%E7%BC%B4%E4%B8%8D%E7%94%A8%E6%98%AF%E4%B8%BA%E4%BB%80%E4%B9%88)
 1. [苏超](https://www.zhihu.com/search?q=%E8%8B%8F%E8%B6%85)
+1. [歌手 2026](https://www.zhihu.com/search?q=%E6%AD%8C%E6%89%8B%202026)
+1. [自己做饭真的很省钱吗](https://www.zhihu.com/search?q=%E8%87%AA%E5%B7%B1%E5%81%9A%E9%A5%AD%E7%9C%9F%E7%9A%84%E5%BE%88%E7%9C%81%E9%92%B1%E5%90%97)
+1. [为什么鳄鱼没有灭绝](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E9%B3%84%E9%B1%BC%E6%B2%A1%E6%9C%89%E7%81%AD%E7%BB%9D)
 1. [张雪机车热身赛再获第一](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E7%83%AD%E8%BA%AB%E8%B5%9B%E5%86%8D%E8%8E%B7%E7%AC%AC%E4%B8%80)
 1. [间谍一般是怎么暴露的](https://www.zhihu.com/search?q=%E9%97%B4%E8%B0%8D%E4%B8%80%E8%88%AC%E6%98%AF%E6%80%8E%E4%B9%88%E6%9A%B4%E9%9C%B2%E7%9A%84)
 1. [女子跳楼男友力竭未救回判赔](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E8%B7%B3%E6%A5%BC%E7%94%B7%E5%8F%8B%E5%8A%9B%E7%AB%AD%E6%9C%AA%E6%95%91%E5%9B%9E%E5%88%A4%E8%B5%94)
