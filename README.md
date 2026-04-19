@@ -14,20 +14,24 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Apr 19 2026 07:38:20 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Apr 19 2026 10:56:44 GMT+0800 (China Standard Time) -->
 
+1. [2026 人形机器人半程马拉松赛](https://www.zhihu.com/search?q=2026%20%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8D%8A%E7%A8%8B%E9%A9%AC%E6%8B%89%E6%9D%BE%E8%B5%9B)
 1. [伊朗开放霍尔木兹海峡](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%BC%80%E6%94%BE%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1)
 1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
-1. [中方抗议日本自卫队舰艇进入台湾海峡](https://www.zhihu.com/search?q=%E4%B8%AD%E6%96%B9%E6%8A%97%E8%AE%AE%E6%97%A5%E6%9C%AC%E8%87%AA%E5%8D%AB%E9%98%9F%E8%88%B0%E8%89%87%E8%BF%9B%E5%85%A5%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1)
-1. [文物归还法案带来哪些影响](https://www.zhihu.com/search?q=%E6%96%87%E7%89%A9%E5%BD%92%E8%BF%98%E6%B3%95%E6%A1%88%E5%B8%A6%E6%9D%A5%E5%93%AA%E4%BA%9B%E5%BD%B1%E5%93%8D)
 1. [拼多多被罚 15.2 亿且暴力阻碍监管](https://www.zhihu.com/search?q=%E6%8B%BC%E5%A4%9A%E5%A4%9A%E8%A2%AB%E7%BD%9A%2015.2%20%E4%BA%BF%E4%B8%94%E6%9A%B4%E5%8A%9B%E9%98%BB%E7%A2%8D%E7%9B%91%E7%AE%A1)
 1. [张雪机车夺得超级杆位赛第二名](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E5%A4%BA%E5%BE%97%E8%B6%85%E7%BA%A7%E6%9D%86%E4%BD%8D%E8%B5%9B%E7%AC%AC%E4%BA%8C%E5%90%8D)
 1. [中越联合声明发布](https://www.zhihu.com/search?q=%E4%B8%AD%E8%B6%8A%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E%E5%8F%91%E5%B8%83)
-1. [有哪些令人感到恐惧的天体](https://www.zhihu.com/search?q=%E6%9C%89%E5%93%AA%E4%BA%9B%E4%BB%A4%E4%BA%BA%E6%84%9F%E5%88%B0%E6%81%90%E6%83%A7%E7%9A%84%E5%A4%A9%E4%BD%93)
 1. [2026 苏超](https://www.zhihu.com/search?q=2026%20%E8%8B%8F%E8%B6%85)
 1. [女子跳楼男友力竭未救回判赔](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E8%B7%B3%E6%A5%BC%E7%94%B7%E5%8F%8B%E5%8A%9B%E7%AB%AD%E6%9C%AA%E6%95%91%E5%9B%9E%E5%88%A4%E8%B5%94)
-1. [翠萍为什么不会被怀疑是卧底](https://www.zhihu.com/search?q=%E7%BF%A0%E8%90%8D%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E4%BC%9A%E8%A2%AB%E6%80%80%E7%96%91%E6%98%AF%E5%8D%A7%E5%BA%95)
+1. [苏超](https://www.zhihu.com/search?q=%E8%8B%8F%E8%B6%85)
 1. [丝芭创始人王子杰去世](https://www.zhihu.com/search?q=%E4%B8%9D%E8%8A%AD%E5%88%9B%E5%A7%8B%E4%BA%BA%E7%8E%8B%E5%AD%90%E6%9D%B0%E5%8E%BB%E4%B8%96)
+1. [橘子海乐队向华为发侵权声明](https://www.zhihu.com/search?q=%E6%A9%98%E5%AD%90%E6%B5%B7%E4%B9%90%E9%98%9F%E5%90%91%E5%8D%8E%E4%B8%BA%E5%8F%91%E4%BE%B5%E6%9D%83%E5%A3%B0%E6%98%8E)
+1. [泼水节强开电车门泼水致冒烟](https://www.zhihu.com/search?q=%E6%B3%BC%E6%B0%B4%E8%8A%82%E5%BC%BA%E5%BC%80%E7%94%B5%E8%BD%A6%E9%97%A8%E6%B3%BC%E6%B0%B4%E8%87%B4%E5%86%92%E7%83%9F)
+1. [中方抗议日本自卫队舰艇进入台湾海峡](https://www.zhihu.com/search?q=%E4%B8%AD%E6%96%B9%E6%8A%97%E8%AE%AE%E6%97%A5%E6%9C%AC%E8%87%AA%E5%8D%AB%E9%98%9F%E8%88%B0%E8%89%87%E8%BF%9B%E5%85%A5%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1)
+1. [文物归还法案带来哪些影响](https://www.zhihu.com/search?q=%E6%96%87%E7%89%A9%E5%BD%92%E8%BF%98%E6%B3%95%E6%A1%88%E5%B8%A6%E6%9D%A5%E5%93%AA%E4%BA%9B%E5%BD%B1%E5%93%8D)
+1. [有哪些令人感到恐惧的天体](https://www.zhihu.com/search?q=%E6%9C%89%E5%93%AA%E4%BA%9B%E4%BB%A4%E4%BA%BA%E6%84%9F%E5%88%B0%E6%81%90%E6%83%A7%E7%9A%84%E5%A4%A9%E4%BD%93)
+1. [翠萍为什么不会被怀疑是卧底](https://www.zhihu.com/search?q=%E7%BF%A0%E8%90%8D%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E4%BC%9A%E8%A2%AB%E6%80%80%E7%96%91%E6%98%AF%E5%8D%A7%E5%BA%95)
 1. [哪些时刻家和你一起成长](https://www.zhihu.com/search?q=%E5%93%AA%E4%BA%9B%E6%97%B6%E5%88%BB%E5%AE%B6%E5%92%8C%E4%BD%A0%E4%B8%80%E8%B5%B7%E6%88%90%E9%95%BF)
 1. [杨戬逼迫沉香成长中全是放水吗](https://www.zhihu.com/search?q=%E6%9D%A8%E6%88%AC%E9%80%BC%E8%BF%AB%E6%B2%89%E9%A6%99%E6%88%90%E9%95%BF%E4%B8%AD%E5%85%A8%E6%98%AF%E6%94%BE%E6%B0%B4%E5%90%97)
 1. [谁跟罗永浩 pk 能赢](https://www.zhihu.com/search?q=%E8%B0%81%E8%B7%9F%E7%BD%97%E6%B0%B8%E6%B5%A9%20pk%20%E8%83%BD%E8%B5%A2)
@@ -35,8 +39,6 @@
 1. [刷题难培养有创意的学生是真的吗](https://www.zhihu.com/search?q=%E5%88%B7%E9%A2%98%E9%9A%BE%E5%9F%B9%E5%85%BB%E6%9C%89%E5%88%9B%E6%84%8F%E7%9A%84%E5%AD%A6%E7%94%9F%E6%98%AF%E7%9C%9F%E7%9A%84%E5%90%97)
 1. [为什么鳄鱼没有灭绝](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E9%B3%84%E9%B1%BC%E6%B2%A1%E6%9C%89%E7%81%AD%E7%BB%9D)
 1. [腾讯音乐与周杰伦成功续约](https://www.zhihu.com/search?q=%E8%85%BE%E8%AE%AF%E9%9F%B3%E4%B9%90%E4%B8%8E%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%88%90%E5%8A%9F%E7%BB%AD%E7%BA%A6)
-1. [橘子海乐队向华为发侵权声明](https://www.zhihu.com/search?q=%E6%A9%98%E5%AD%90%E6%B5%B7%E4%B9%90%E9%98%9F%E5%90%91%E5%8D%8E%E4%B8%BA%E5%8F%91%E4%BE%B5%E6%9D%83%E5%A3%B0%E6%98%8E)
-1. [苏超](https://www.zhihu.com/search?q=%E8%8B%8F%E8%B6%85)
 1. [雷军开直播实测小米 SU7 续航](https://www.zhihu.com/search?q=%E9%9B%B7%E5%86%9B%E5%BC%80%E7%9B%B4%E6%92%AD%E5%AE%9E%E6%B5%8B%E5%B0%8F%E7%B1%B3%20SU7%20%E7%BB%AD%E8%88%AA)
 
 <!-- END -->
