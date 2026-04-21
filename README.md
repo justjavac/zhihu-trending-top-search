@@ -14,18 +14,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Apr 21 2026 13:29:45 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Apr 21 2026 15:56:39 GMT+0800 (China Standard Time) -->
 
-1. [库克不再担任苹果 CEO](https://www.zhihu.com/search?q=%E5%BA%93%E5%85%8B%E4%B8%8D%E5%86%8D%E6%8B%85%E4%BB%BB%E8%8B%B9%E6%9E%9C%20CEO)
+1. [拼多多被罚 15.2 亿且暴力阻碍监管](https://www.zhihu.com/search?q=%E6%8B%BC%E5%A4%9A%E5%A4%9A%E8%A2%AB%E7%BD%9A%2015.2%20%E4%BA%BF%E4%B8%94%E6%9A%B4%E5%8A%9B%E9%98%BB%E7%A2%8D%E7%9B%91%E7%AE%A1)
 1. [爱奇艺再发文回应 AI 艺人库事件](https://www.zhihu.com/search?q=%E7%88%B1%E5%A5%87%E8%89%BA%E5%86%8D%E5%8F%91%E6%96%87%E5%9B%9E%E5%BA%94%20AI%20%E8%89%BA%E4%BA%BA%E5%BA%93%E4%BA%8B%E4%BB%B6)
 1. [虐死男友3岁儿子凶手被判死缓](https://www.zhihu.com/search?q=%E8%99%90%E6%AD%BB%E7%94%B7%E5%8F%8B3%E5%B2%81%E5%84%BF%E5%AD%90%E5%87%B6%E6%89%8B%E8%A2%AB%E5%88%A4%E6%AD%BB%E7%BC%93)
-1. [拼多多被罚 15.2 亿且暴力阻碍监管](https://www.zhihu.com/search?q=%E6%8B%BC%E5%A4%9A%E5%A4%9A%E8%A2%AB%E7%BD%9A%2015.2%20%E4%BA%BF%E4%B8%94%E6%9A%B4%E5%8A%9B%E9%98%BB%E7%A2%8D%E7%9B%91%E7%AE%A1)
+1. [日本发生7.5级地震](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E5%8F%91%E7%94%9F7.5%E7%BA%A7%E5%9C%B0%E9%9C%87)
 1. [日本正式允许出口杀伤性武器](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E6%AD%A3%E5%BC%8F%E5%85%81%E8%AE%B8%E5%87%BA%E5%8F%A3%E6%9D%80%E4%BC%A4%E6%80%A7%E6%AD%A6%E5%99%A8)
 1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
-1. [日本发生7.5级地震](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E5%8F%91%E7%94%9F7.5%E7%BA%A7%E5%9C%B0%E9%9C%87)
-1. [国产光纤全球爆单](https://www.zhihu.com/search?q=%E5%9B%BD%E4%BA%A7%E5%85%89%E7%BA%A4%E5%85%A8%E7%90%83%E7%88%86%E5%8D%95)
+1. [为什么植物在外界生命很顽强](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%A4%8D%E7%89%A9%E5%9C%A8%E5%A4%96%E7%95%8C%E7%94%9F%E5%91%BD%E5%BE%88%E9%A1%BD%E5%BC%BA)
 1. [女子频繁表白后被确诊「桃花癫」](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E9%A2%91%E7%B9%81%E8%A1%A8%E7%99%BD%E5%90%8E%E8%A2%AB%E7%A1%AE%E8%AF%8A%E3%80%8C%E6%A1%83%E8%8A%B1%E7%99%AB%E3%80%8D)
+1. [库克不再担任苹果 CEO](https://www.zhihu.com/search?q=%E5%BA%93%E5%85%8B%E4%B8%8D%E5%86%8D%E6%8B%85%E4%BB%BB%E8%8B%B9%E6%9E%9C%20CEO)
 1. [网传酒店打回访电话致住客离婚](https://www.zhihu.com/search?q=%E7%BD%91%E4%BC%A0%E9%85%92%E5%BA%97%E6%89%93%E5%9B%9E%E8%AE%BF%E7%94%B5%E8%AF%9D%E8%87%B4%E4%BD%8F%E5%AE%A2%E7%A6%BB%E5%A9%9A)
+1. [你在谷歌地球有什么独特发现](https://www.zhihu.com/search?q=%E4%BD%A0%E5%9C%A8%E8%B0%B7%E6%AD%8C%E5%9C%B0%E7%90%83%E6%9C%89%E4%BB%80%E4%B9%88%E7%8B%AC%E7%89%B9%E5%8F%91%E7%8E%B0)
+1. [沈梦辰连续4年做热玛吉脸越打越薄](https://www.zhihu.com/search?q=%E6%B2%88%E6%A2%A6%E8%BE%B0%E8%BF%9E%E7%BB%AD4%E5%B9%B4%E5%81%9A%E7%83%AD%E7%8E%9B%E5%90%89%E8%84%B8%E8%B6%8A%E6%89%93%E8%B6%8A%E8%96%84)
+1. [国产光纤全球爆单](https://www.zhihu.com/search?q=%E5%9B%BD%E4%BA%A7%E5%85%89%E7%BA%A4%E5%85%A8%E7%90%83%E7%88%86%E5%8D%95)
 1. [女子产后被男友起诉退彩礼分娩费](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E4%BA%A7%E5%90%8E%E8%A2%AB%E7%94%B7%E5%8F%8B%E8%B5%B7%E8%AF%89%E9%80%80%E5%BD%A9%E7%A4%BC%E5%88%86%E5%A8%A9%E8%B4%B9)
 1. [人形机器人实际落地价值在哪儿](https://www.zhihu.com/search?q=%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AE%9E%E9%99%85%E8%90%BD%E5%9C%B0%E4%BB%B7%E5%80%BC%E5%9C%A8%E5%93%AA%E5%84%BF)
 1. [李雨桐泄露薛之谦信息被行拘](https://www.zhihu.com/search?q=%E6%9D%8E%E9%9B%A8%E6%A1%90%E6%B3%84%E9%9C%B2%E8%96%9B%E4%B9%8B%E8%B0%A6%E4%BF%A1%E6%81%AF%E8%A2%AB%E8%A1%8C%E6%8B%98)
