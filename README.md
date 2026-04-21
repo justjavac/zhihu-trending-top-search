@@ -14,19 +14,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Apr 21 2026 21:48:11 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Apr 21 2026 23:15:41 GMT+0800 (China Standard Time) -->
 
 1. [拼多多被罚 15.2 亿且暴力阻碍监管](https://www.zhihu.com/search?q=%E6%8B%BC%E5%A4%9A%E5%A4%9A%E8%A2%AB%E7%BD%9A%2015.2%20%E4%BA%BF%E4%B8%94%E6%9A%B4%E5%8A%9B%E9%98%BB%E7%A2%8D%E7%9B%91%E7%AE%A1)
 1. [女子频繁表白后被确诊「桃花癫」](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E9%A2%91%E7%B9%81%E8%A1%A8%E7%99%BD%E5%90%8E%E8%A2%AB%E7%A1%AE%E8%AF%8A%E3%80%8C%E6%A1%83%E8%8A%B1%E7%99%AB%E3%80%8D)
+1. [「16 万年一遇」的彗星来了](https://www.zhihu.com/search?q=%E3%80%8C16%20%E4%B8%87%E5%B9%B4%E4%B8%80%E9%81%87%E3%80%8D%E7%9A%84%E5%BD%97%E6%98%9F%E6%9D%A5%E4%BA%86)
 1. [库克不再担任苹果 CEO](https://www.zhihu.com/search?q=%E5%BA%93%E5%85%8B%E4%B8%8D%E5%86%8D%E6%8B%85%E4%BB%BB%E8%8B%B9%E6%9E%9C%20CEO)
-1. [将新能源绿色车牌褪色为白色有何影响](https://www.zhihu.com/search?q=%E5%B0%86%E6%96%B0%E8%83%BD%E6%BA%90%E7%BB%BF%E8%89%B2%E8%BD%A6%E7%89%8C%E8%A4%AA%E8%89%B2%E4%B8%BA%E7%99%BD%E8%89%B2%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D)
-1. [日本正式允许出口杀伤性武器](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E6%AD%A3%E5%BC%8F%E5%85%81%E8%AE%B8%E5%87%BA%E5%8F%A3%E6%9D%80%E4%BC%A4%E6%80%A7%E6%AD%A6%E5%99%A8)
+1. [德国人为什么看重博士学位](https://www.zhihu.com/search?q=%E5%BE%B7%E5%9B%BD%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E7%9C%8B%E9%87%8D%E5%8D%9A%E5%A3%AB%E5%AD%A6%E4%BD%8D)
 1. [伊朗最新局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E6%9C%80%E6%96%B0%E5%B1%80%E5%8A%BF)
+1. [日本正式允许出口杀伤性武器](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E6%AD%A3%E5%BC%8F%E5%85%81%E8%AE%B8%E5%87%BA%E5%8F%A3%E6%9D%80%E4%BC%A4%E6%80%A7%E6%AD%A6%E5%99%A8)
 1. [女子产后被男友起诉退彩礼分娩费](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E4%BA%A7%E5%90%8E%E8%A2%AB%E7%94%B7%E5%8F%8B%E8%B5%B7%E8%AF%89%E9%80%80%E5%BD%A9%E7%A4%BC%E5%88%86%E5%A8%A9%E8%B4%B9)
-1. [网传酒店打回访电话致住客离婚](https://www.zhihu.com/search?q=%E7%BD%91%E4%BC%A0%E9%85%92%E5%BA%97%E6%89%93%E5%9B%9E%E8%AE%BF%E7%94%B5%E8%AF%9D%E8%87%B4%E4%BD%8F%E5%AE%A2%E7%A6%BB%E5%A9%9A)
-1. [身体素质差怎么改善](https://www.zhihu.com/search?q=%E8%BA%AB%E4%BD%93%E7%B4%A0%E8%B4%A8%E5%B7%AE%E6%80%8E%E4%B9%88%E6%94%B9%E5%96%84)
 1. [19岁女孩挪用1700万当榜一大姐](https://www.zhihu.com/search?q=19%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%8C%AA%E7%94%A81700%E4%B8%87%E5%BD%93%E6%A6%9C%E4%B8%80%E5%A4%A7%E5%A7%90)
+1. [如何评价《寻龙诀·觅踪》直接网播](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E3%80%8A%E5%AF%BB%E9%BE%99%E8%AF%80%C2%B7%E8%A7%85%E8%B8%AA%E3%80%8B%E7%9B%B4%E6%8E%A5%E7%BD%91%E6%92%AD)
+1. [网传酒店打回访电话致住客离婚](https://www.zhihu.com/search?q=%E7%BD%91%E4%BC%A0%E9%85%92%E5%BA%97%E6%89%93%E5%9B%9E%E8%AE%BF%E7%94%B5%E8%AF%9D%E8%87%B4%E4%BD%8F%E5%AE%A2%E7%A6%BB%E5%A9%9A)
 1. [虐死男友3岁儿子凶手被判死缓](https://www.zhihu.com/search?q=%E8%99%90%E6%AD%BB%E7%94%B7%E5%8F%8B3%E5%B2%81%E5%84%BF%E5%AD%90%E5%87%B6%E6%89%8B%E8%A2%AB%E5%88%A4%E6%AD%BB%E7%BC%93)
+1. [将新能源绿色车牌褪色为白色有何影响](https://www.zhihu.com/search?q=%E5%B0%86%E6%96%B0%E8%83%BD%E6%BA%90%E7%BB%BF%E8%89%B2%E8%BD%A6%E7%89%8C%E8%A4%AA%E8%89%B2%E4%B8%BA%E7%99%BD%E8%89%B2%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D)
+1. [身体素质差怎么改善](https://www.zhihu.com/search?q=%E8%BA%AB%E4%BD%93%E7%B4%A0%E8%B4%A8%E5%B7%AE%E6%80%8E%E4%B9%88%E6%94%B9%E5%96%84)
 1. [法庭上有什么趣事](https://www.zhihu.com/search?q=%E6%B3%95%E5%BA%AD%E4%B8%8A%E6%9C%89%E4%BB%80%E4%B9%88%E8%B6%A3%E4%BA%8B)
 1. [为什么现在很多小孩得抑郁](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E5%BE%88%E5%A4%9A%E5%B0%8F%E5%AD%A9%E5%BE%97%E6%8A%91%E9%83%81)
 1. [不想让孩子去幼儿园怎么说服老公](https://www.zhihu.com/search?q=%E4%B8%8D%E6%83%B3%E8%AE%A9%E5%AD%A9%E5%AD%90%E5%8E%BB%E5%B9%BC%E5%84%BF%E5%9B%AD%E6%80%8E%E4%B9%88%E8%AF%B4%E6%9C%8D%E8%80%81%E5%85%AC)
