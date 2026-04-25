@@ -14,12 +14,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Apr 26 2026 04:41:45 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Apr 26 2026 05:38:39 GMT+0800 (China Standard Time) -->
 
 1. [男子性情大变确诊神经梅毒晚期](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%90%E6%80%A7%E6%83%85%E5%A4%A7%E5%8F%98%E7%A1%AE%E8%AF%8A%E7%A5%9E%E7%BB%8F%E6%A2%85%E6%AF%92%E6%99%9A%E6%9C%9F)
 1. [DeepSeek V4 预览版上线并开源](https://www.zhihu.com/search?q=DeepSeek%20V4%20%E9%A2%84%E8%A7%88%E7%89%88%E4%B8%8A%E7%BA%BF%E5%B9%B6%E5%BC%80%E6%BA%90)
 1. [AC 米兰国米球员被曝集体嫖娼](https://www.zhihu.com/search?q=AC%20%E7%B1%B3%E5%85%B0%E5%9B%BD%E7%B1%B3%E7%90%83%E5%91%98%E8%A2%AB%E6%9B%9D%E9%9B%86%E4%BD%93%E5%AB%96%E5%A8%BC)
-1. [者来女淘汰](https://www.zhihu.com/search?q=%E8%80%85%E6%9D%A5%E5%A5%B3%E6%B7%98%E6%B1%B0)
 1. [华谊兄弟被正式申请破产](https://www.zhihu.com/search?q=%E5%8D%8E%E8%B0%8A%E5%85%84%E5%BC%9F%E8%A2%AB%E6%AD%A3%E5%BC%8F%E7%94%B3%E8%AF%B7%E7%A0%B4%E4%BA%A7)
 1. [OpenAI发布GPT-5.5](https://www.zhihu.com/search?q=OpenAI%E5%8F%91%E5%B8%83GPT-5.5)
 1. [GPT-Image-2发布](https://www.zhihu.com/search?q=GPT-Image-2%E5%8F%91%E5%B8%83)
@@ -28,6 +27,8 @@
 1. [张军](https://www.zhihu.com/search?q=%E5%BC%A0%E5%86%9B)
 1. [男童疑被误诊为脑瘫治疗 7 年](https://www.zhihu.com/search?q=%E7%94%B7%E7%AB%A5%E7%96%91%E8%A2%AB%E8%AF%AF%E8%AF%8A%E4%B8%BA%E8%84%91%E7%98%AB%E6%B2%BB%E7%96%97%207%20%E5%B9%B4)
 1. [爱喝无糖饮料的天塌了](https://www.zhihu.com/search?q=%E7%88%B1%E5%96%9D%E6%97%A0%E7%B3%96%E9%A5%AE%E6%96%99%E7%9A%84%E5%A4%A9%E5%A1%8C%E4%BA%86)
+1. [全国首个伴侣动物立法草案下线](https://www.zhihu.com/search?q=%E5%85%A8%E5%9B%BD%E9%A6%96%E4%B8%AA%E4%BC%B4%E4%BE%A3%E5%8A%A8%E7%89%A9%E7%AB%8B%E6%B3%95%E8%8D%89%E6%A1%88%E4%B8%8B%E7%BA%BF)
+1. [者来女淘汰](https://www.zhihu.com/search?q=%E8%80%85%E6%9D%A5%E5%A5%B3%E6%B7%98%E6%B1%B0)
 1. [深圳公交站台吸烟男子被罚款](https://www.zhihu.com/search?q=%E6%B7%B1%E5%9C%B3%E5%85%AC%E4%BA%A4%E7%AB%99%E5%8F%B0%E5%90%B8%E7%83%9F%E7%94%B7%E5%AD%90%E8%A2%AB%E7%BD%9A%E6%AC%BE)
 1. [浪姐二公舞台](https://www.zhihu.com/search?q=%E6%B5%AA%E5%A7%90%E4%BA%8C%E5%85%AC%E8%88%9E%E5%8F%B0)
 1. [苏超第三轮](https://www.zhihu.com/search?q=%E8%8B%8F%E8%B6%85%E7%AC%AC%E4%B8%89%E8%BD%AE)
