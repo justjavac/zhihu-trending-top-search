@@ -1,9 +1,12 @@
 [
   { "query_display": "DeepSeek V4 预览版上线并开源", "real_query": "DeepSeek V4 预览版上线并开源" },
+  { "query_display": "浪姐二公舞台", "real_query": "浪姐二公舞台" },
   { "query_display": "男子性情大变确诊神经梅毒晚期", "real_query": "男子性情大变确诊神经梅毒晚期" },
+  { "query_display": "苏超第三轮", "real_query": "苏超第三轮" },
+  { "query_display": "天坛奖揭晓", "real_query": "天坛奖揭晓" },
+  { "query_display": "男童疑被误诊为脑瘫治疗 7 年", "real_query": "男童疑被误诊为脑瘫治疗 7 年" },
   { "query_display": "AC 米兰国米球员被曝集体嫖娼", "real_query": "AC 米兰国米球员被曝集体嫖娼" },
   { "query_display": "GPT-Image-2发布", "real_query": "GPT-Image-2发布" },
-  { "query_display": "男童疑被误诊为脑瘫治疗 7 年", "real_query": "男童疑被误诊为脑瘫治疗 7 年" },
   { "query_display": "OpenAI发布GPT-5.5", "real_query": "OpenAI发布GPT-5.5" },
   { "query_display": "华谊兄弟被正式申请破产", "real_query": "华谊兄弟被正式申请破产" },
   { "query_display": "美伊均表示已准备好重启作战", "real_query": "美伊均表示已准备好重启作战" },
@@ -20,6 +23,5 @@
   { "query_display": "英国 2008 年后出生者终身不得购烟", "real_query": "英国 2008 年后出生者终身不得购烟" },
   { "query_display": "美国公司有组织地转移中国 AI 团队", "real_query": "美国公司有组织地转移中国 AI 团队" },
   { "query_display": "尚界 Z7 是「趴窝」了吗", "real_query": "尚界 Z7 是「趴窝」了吗" },
-  { "query_display": "美以袭击伊朗进入第 54 天", "real_query": "美以袭击伊朗进入第 54 天" },
-  { "query_display": "浪姐二公舞台", "real_query": "浪姐二公舞台" }
+  { "query_display": "美以袭击伊朗进入第 54 天", "real_query": "美以袭击伊朗进入第 54 天" }
 ]
