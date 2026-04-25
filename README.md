@@ -14,20 +14,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Apr 25 2026 13:14:23 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Apr 25 2026 15:21:40 GMT+0800 (China Standard Time) -->
 
 1. [哪吒汽车创始人已成老赖](https://www.zhihu.com/search?q=%E5%93%AA%E5%90%92%E6%B1%BD%E8%BD%A6%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%B7%B2%E6%88%90%E8%80%81%E8%B5%96)
 1. [DeepSeek V4 预览版上线并开源](https://www.zhihu.com/search?q=DeepSeek%20V4%20%E9%A2%84%E8%A7%88%E7%89%88%E4%B8%8A%E7%BA%BF%E5%B9%B6%E5%BC%80%E6%BA%90)
 1. [男子性情大变确诊神经梅毒晚期](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%90%E6%80%A7%E6%83%85%E5%A4%A7%E5%8F%98%E7%A1%AE%E8%AF%8A%E7%A5%9E%E7%BB%8F%E6%A2%85%E6%AF%92%E6%99%9A%E6%9C%9F)
-1. [中方回应高市早苗向靖国神社献祭品](https://www.zhihu.com/search?q=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%90%91%E9%9D%96%E5%9B%BD%E7%A5%9E%E7%A4%BE%E7%8C%AE%E7%A5%AD%E5%93%81)
 1. [AC 米兰国米球员被曝集体嫖娼](https://www.zhihu.com/search?q=AC%20%E7%B1%B3%E5%85%B0%E5%9B%BD%E7%B1%B3%E7%90%83%E5%91%98%E8%A2%AB%E6%9B%9D%E9%9B%86%E4%BD%93%E5%AB%96%E5%A8%BC)
 1. [GPT-Image-2发布](https://www.zhihu.com/search?q=GPT-Image-2%E5%8F%91%E5%B8%83)
-1. [孙杨张豆豆相处被指窒息](https://www.zhihu.com/search?q=%E5%AD%99%E6%9D%A8%E5%BC%A0%E8%B1%86%E8%B1%86%E7%9B%B8%E5%A4%84%E8%A2%AB%E6%8C%87%E7%AA%92%E6%81%AF)
 1. [OpenAI发布GPT-5.5](https://www.zhihu.com/search?q=OpenAI%E5%8F%91%E5%B8%83GPT-5.5)
 1. [美伊均表示已准备好重启作战](https://www.zhihu.com/search?q=%E7%BE%8E%E4%BC%8A%E5%9D%87%E8%A1%A8%E7%A4%BA%E5%B7%B2%E5%87%86%E5%A4%87%E5%A5%BD%E9%87%8D%E5%90%AF%E4%BD%9C%E6%88%98)
 1. [儿童近视「神药」爆火 年赚近 7 亿](https://www.zhihu.com/search?q=%E5%84%BF%E7%AB%A5%E8%BF%91%E8%A7%86%E3%80%8C%E7%A5%9E%E8%8D%AF%E3%80%8D%E7%88%86%E7%81%AB%20%E5%B9%B4%E8%B5%9A%E8%BF%91%207%20%E4%BA%BF)
 1. [常年穿袜子睡觉睡出「千层甲」](https://www.zhihu.com/search?q=%E5%B8%B8%E5%B9%B4%E7%A9%BF%E8%A2%9C%E5%AD%90%E7%9D%A1%E8%A7%89%E7%9D%A1%E5%87%BA%E3%80%8C%E5%8D%83%E5%B1%82%E7%94%B2%E3%80%8D)
 1. [华谊兄弟被正式申请破产](https://www.zhihu.com/search?q=%E5%8D%8E%E8%B0%8A%E5%85%84%E5%BC%9F%E8%A2%AB%E6%AD%A3%E5%BC%8F%E7%94%B3%E8%AF%B7%E7%A0%B4%E4%BA%A7)
+1. [人均80块的火锅店正大面积关门](https://www.zhihu.com/search?q=%E4%BA%BA%E5%9D%8780%E5%9D%97%E7%9A%84%E7%81%AB%E9%94%85%E5%BA%97%E6%AD%A3%E5%A4%A7%E9%9D%A2%E7%A7%AF%E5%85%B3%E9%97%A8)
+1. [小米概念超跑将亮相北京车展](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%E6%A6%82%E5%BF%B5%E8%B6%85%E8%B7%91%E5%B0%86%E4%BA%AE%E7%9B%B8%E5%8C%97%E4%BA%AC%E8%BD%A6%E5%B1%95)
+1. [中方回应高市早苗向靖国神社献祭品](https://www.zhihu.com/search?q=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%90%91%E9%9D%96%E5%9B%BD%E7%A5%9E%E7%A4%BE%E7%8C%AE%E7%A5%AD%E5%93%81)
+1. [孙杨张豆豆相处被指窒息](https://www.zhihu.com/search?q=%E5%AD%99%E6%9D%A8%E5%BC%A0%E8%B1%86%E8%B1%86%E7%9B%B8%E5%A4%84%E8%A2%AB%E6%8C%87%E7%AA%92%E6%81%AF)
 1. [英国 2008 年后出生者终身不得购烟](https://www.zhihu.com/search?q=%E8%8B%B1%E5%9B%BD%202008%20%E5%B9%B4%E5%90%8E%E5%87%BA%E7%94%9F%E8%80%85%E7%BB%88%E8%BA%AB%E4%B8%8D%E5%BE%97%E8%B4%AD%E7%83%9F)
 1. [美国公司有组织地转移中国 AI 团队](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E5%85%AC%E5%8F%B8%E6%9C%89%E7%BB%84%E7%BB%87%E5%9C%B0%E8%BD%AC%E7%A7%BB%E4%B8%AD%E5%9B%BD%20AI%20%E5%9B%A2%E9%98%9F)
 1. [尚界 Z7 是「趴窝」了吗](https://www.zhihu.com/search?q=%E5%B0%9A%E7%95%8C%20Z7%20%E6%98%AF%E3%80%8C%E8%B6%B4%E7%AA%9D%E3%80%8D%E4%BA%86%E5%90%97)
