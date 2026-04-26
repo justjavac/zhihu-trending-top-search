@@ -14,14 +14,14 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Apr 27 2026 03:51:04 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Apr 27 2026 04:41:35 GMT+0800 (China Standard Time) -->
 
 1. [美国白宫记者晚宴发生枪击事件](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E7%99%BD%E5%AE%AB%E8%AE%B0%E8%80%85%E6%99%9A%E5%AE%B4%E5%8F%91%E7%94%9F%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6)
 1. [官方通报女子劝阻男子吸烟引争执](https://www.zhihu.com/search?q=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%AD%90%E5%8A%9D%E9%98%BB%E7%94%B7%E5%AD%90%E5%90%B8%E7%83%9F%E5%BC%95%E4%BA%89%E6%89%A7)
 1. [DeepSeek V4 预览版上线并开源](https://www.zhihu.com/search?q=DeepSeek%20V4%20%E9%A2%84%E8%A7%88%E7%89%88%E4%B8%8A%E7%BA%BF%E5%B9%B6%E5%BC%80%E6%BA%90)
 1. [东方甄选4名主播集体离职](https://www.zhihu.com/search?q=%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%894%E5%90%8D%E4%B8%BB%E6%92%AD%E9%9B%86%E4%BD%93%E7%A6%BB%E8%81%8C)
-1. [OpenAI发布GPT-5.5](https://www.zhihu.com/search?q=OpenAI%E5%8F%91%E5%B8%83GPT-5.5)
 1. [摩根大通：中国楼市逼近拐点](https://www.zhihu.com/search?q=%E6%91%A9%E6%A0%B9%E5%A4%A7%E9%80%9A%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%A5%BC%E5%B8%82%E9%80%BC%E8%BF%91%E6%8B%90%E7%82%B9)
+1. [OpenAI发布GPT-5.5](https://www.zhihu.com/search?q=OpenAI%E5%8F%91%E5%B8%83GPT-5.5)
 1. [张军](https://www.zhihu.com/search?q=%E5%BC%A0%E5%86%9B)
 1. [金价接连失守](https://www.zhihu.com/search?q=%E9%87%91%E4%BB%B7%E6%8E%A5%E8%BF%9E%E5%A4%B1%E5%AE%88)
 1. [派出所副所长诱骗未成年人吸毒获刑](https://www.zhihu.com/search?q=%E6%B4%BE%E5%87%BA%E6%89%80%E5%89%AF%E6%89%80%E9%95%BF%E8%AF%B1%E9%AA%97%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E5%90%B8%E6%AF%92%E8%8E%B7%E5%88%91)
