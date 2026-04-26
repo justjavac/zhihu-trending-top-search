@@ -14,18 +14,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Apr 26 2026 14:07:56 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Apr 26 2026 16:15:44 GMT+0800 (China Standard Time) -->
 
 1. [美国白宫记者晚宴发生枪击事件](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E7%99%BD%E5%AE%AB%E8%AE%B0%E8%80%85%E6%99%9A%E5%AE%B4%E5%8F%91%E7%94%9F%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6)
 1. [爱喝无糖饮料的天塌了](https://www.zhihu.com/search?q=%E7%88%B1%E5%96%9D%E6%97%A0%E7%B3%96%E9%A5%AE%E6%96%99%E7%9A%84%E5%A4%A9%E5%A1%8C%E4%BA%86)
 1. [DeepSeek V4 预览版上线并开源](https://www.zhihu.com/search?q=DeepSeek%20V4%20%E9%A2%84%E8%A7%88%E7%89%88%E4%B8%8A%E7%BA%BF%E5%B9%B6%E5%BC%80%E6%BA%90)
 1. [华谊兄弟被正式申请破产](https://www.zhihu.com/search?q=%E5%8D%8E%E8%B0%8A%E5%85%84%E5%BC%9F%E8%A2%AB%E6%AD%A3%E5%BC%8F%E7%94%B3%E8%AF%B7%E7%A0%B4%E4%BA%A7)
-1. [OpenAI发布GPT-5.5](https://www.zhihu.com/search?q=OpenAI%E5%8F%91%E5%B8%83GPT-5.5)
-1. [男童疑被误诊为脑瘫治疗 7 年](https://www.zhihu.com/search?q=%E7%94%B7%E7%AB%A5%E7%96%91%E8%A2%AB%E8%AF%AF%E8%AF%8A%E4%B8%BA%E8%84%91%E7%98%AB%E6%B2%BB%E7%96%97%207%20%E5%B9%B4)
-1. [东方甄选4名主播集体离职](https://www.zhihu.com/search?q=%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%894%E5%90%8D%E4%B8%BB%E6%92%AD%E9%9B%86%E4%BD%93%E7%A6%BB%E8%81%8C)
-1. [浪姐7被质投票数有问题](https://www.zhihu.com/search?q=%E6%B5%AA%E5%A7%907%E8%A2%AB%E8%B4%A8%E6%8A%95%E7%A5%A8%E6%95%B0%E6%9C%89%E9%97%AE%E9%A2%98)
-1. [蒙古6.3级地震](https://www.zhihu.com/search?q=%E8%92%99%E5%8F%A46.3%E7%BA%A7%E5%9C%B0%E9%9C%87)
 1. [官方通报女子劝阻男子吸烟引争执](https://www.zhihu.com/search?q=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%AD%90%E5%8A%9D%E9%98%BB%E7%94%B7%E5%AD%90%E5%90%B8%E7%83%9F%E5%BC%95%E4%BA%89%E6%89%A7)
+1. [OpenAI发布GPT-5.5](https://www.zhihu.com/search?q=OpenAI%E5%8F%91%E5%B8%83GPT-5.5)
+1. [蒙古6.3级地震](https://www.zhihu.com/search?q=%E8%92%99%E5%8F%A46.3%E7%BA%A7%E5%9C%B0%E9%9C%87)
+1. [浪姐7被质投票数有问题](https://www.zhihu.com/search?q=%E6%B5%AA%E5%A7%907%E8%A2%AB%E8%B4%A8%E6%8A%95%E7%A5%A8%E6%95%B0%E6%9C%89%E9%97%AE%E9%A2%98)
+1. [东方甄选4名主播集体离职](https://www.zhihu.com/search?q=%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%894%E5%90%8D%E4%B8%BB%E6%92%AD%E9%9B%86%E4%BD%93%E7%A6%BB%E8%81%8C)
+1. [男童疑被误诊为脑瘫治疗 7 年](https://www.zhihu.com/search?q=%E7%94%B7%E7%AB%A5%E7%96%91%E8%A2%AB%E8%AF%AF%E8%AF%8A%E4%B8%BA%E8%84%91%E7%98%AB%E6%B2%BB%E7%96%97%207%20%E5%B9%B4)
 1. [张军](https://www.zhihu.com/search?q=%E5%BC%A0%E5%86%9B)
 1. [摩根大通：中国楼市逼近拐点](https://www.zhihu.com/search?q=%E6%91%A9%E6%A0%B9%E5%A4%A7%E9%80%9A%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%A5%BC%E5%B8%82%E9%80%BC%E8%BF%91%E6%8B%90%E7%82%B9)
 1. [男子性情大变确诊神经梅毒晚期](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%90%E6%80%A7%E6%83%85%E5%A4%A7%E5%8F%98%E7%A1%AE%E8%AF%8A%E7%A5%9E%E7%BB%8F%E6%A2%85%E6%AF%92%E6%99%9A%E6%9C%9F)
