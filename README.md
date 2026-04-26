@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Apr 27 2026 04:41:35 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Apr 27 2026 05:40:34 GMT+0800 (China Standard Time) -->
 
 1. [美国白宫记者晚宴发生枪击事件](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E7%99%BD%E5%AE%AB%E8%AE%B0%E8%80%85%E6%99%9A%E5%AE%B4%E5%8F%91%E7%94%9F%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6)
 1. [官方通报女子劝阻男子吸烟引争执](https://www.zhihu.com/search?q=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%AD%90%E5%8A%9D%E9%98%BB%E7%94%B7%E5%AD%90%E5%90%B8%E7%83%9F%E5%BC%95%E4%BA%89%E6%89%A7)
