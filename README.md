@@ -14,10 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Apr 26 2026 17:55:03 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Apr 26 2026 18:49:27 GMT+0800 (China Standard Time) -->
 
-1. [爱喝无糖饮料的天塌了](https://www.zhihu.com/search?q=%E7%88%B1%E5%96%9D%E6%97%A0%E7%B3%96%E9%A5%AE%E6%96%99%E7%9A%84%E5%A4%A9%E5%A1%8C%E4%BA%86)
 1. [美国白宫记者晚宴发生枪击事件](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E7%99%BD%E5%AE%AB%E8%AE%B0%E8%80%85%E6%99%9A%E5%AE%B4%E5%8F%91%E7%94%9F%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6)
+1. [爱喝无糖饮料的天塌了](https://www.zhihu.com/search?q=%E7%88%B1%E5%96%9D%E6%97%A0%E7%B3%96%E9%A5%AE%E6%96%99%E7%9A%84%E5%A4%A9%E5%A1%8C%E4%BA%86)
 1. [DeepSeek V4 预览版上线并开源](https://www.zhihu.com/search?q=DeepSeek%20V4%20%E9%A2%84%E8%A7%88%E7%89%88%E4%B8%8A%E7%BA%BF%E5%B9%B6%E5%BC%80%E6%BA%90)
 1. [华谊兄弟被正式申请破产](https://www.zhihu.com/search?q=%E5%8D%8E%E8%B0%8A%E5%85%84%E5%BC%9F%E8%A2%AB%E6%AD%A3%E5%BC%8F%E7%94%B3%E8%AF%B7%E7%A0%B4%E4%BA%A7)
 1. [官方通报女子劝阻男子吸烟引争执](https://www.zhihu.com/search?q=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%AD%90%E5%8A%9D%E9%98%BB%E7%94%B7%E5%AD%90%E5%90%B8%E7%83%9F%E5%BC%95%E4%BA%89%E6%89%A7)
