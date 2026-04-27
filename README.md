@@ -14,11 +14,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Apr 28 2026 06:55:31 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Apr 28 2026 07:56:20 GMT+0800 (China Standard Time) -->
 
 1. [美国白宫记者晚宴发生枪击事件](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E7%99%BD%E5%AE%AB%E8%AE%B0%E8%80%85%E6%99%9A%E5%AE%B4%E5%8F%91%E7%94%9F%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6)
-1. [官方通报女子劝阻男子吸烟引争执](https://www.zhihu.com/search?q=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%AD%90%E5%8A%9D%E9%98%BB%E7%94%B7%E5%AD%90%E5%90%B8%E7%83%9F%E5%BC%95%E4%BA%89%E6%89%A7)
 1. [派出所副所长诱骗未成年人吸毒获刑](https://www.zhihu.com/search?q=%E6%B4%BE%E5%87%BA%E6%89%80%E5%89%AF%E6%89%80%E9%95%BF%E8%AF%B1%E9%AA%97%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E5%90%B8%E6%AF%92%E8%8E%B7%E5%88%91)
+1. [官方通报女子劝阻男子吸烟引争执](https://www.zhihu.com/search?q=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%AD%90%E5%8A%9D%E9%98%BB%E7%94%B7%E5%AD%90%E5%90%B8%E7%83%9F%E5%BC%95%E4%BA%89%E6%89%A7)
 1. [迪士尼游客劝烟被连扇5耳光](https://www.zhihu.com/search?q=%E8%BF%AA%E5%A3%AB%E5%B0%BC%E6%B8%B8%E5%AE%A2%E5%8A%9D%E7%83%9F%E8%A2%AB%E8%BF%9E%E6%89%875%E8%80%B3%E5%85%89)
 1. [25 岁女孩确诊黑色素瘤 5 个月离世](https://www.zhihu.com/search?q=25%20%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%A1%AE%E8%AF%8A%E9%BB%91%E8%89%B2%E7%B4%A0%E7%98%A4%205%20%E4%B8%AA%E6%9C%88%E7%A6%BB%E4%B8%96)
 1. [南方多省电价突然飙升](https://www.zhihu.com/search?q=%E5%8D%97%E6%96%B9%E5%A4%9A%E7%9C%81%E7%94%B5%E4%BB%B7%E7%AA%81%E7%84%B6%E9%A3%99%E5%8D%87)
