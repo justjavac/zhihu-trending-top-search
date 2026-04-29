@@ -14,15 +14,15 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Apr 30 2026 00:42:35 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Apr 30 2026 02:12:55 GMT+0800 (China Standard Time) -->
 
-1. [国安部披露境外组织资助躺平网红](https://www.zhihu.com/search?q=%E5%9B%BD%E5%AE%89%E9%83%A8%E6%8A%AB%E9%9C%B2%E5%A2%83%E5%A4%96%E7%BB%84%E7%BB%87%E8%B5%84%E5%8A%A9%E8%BA%BA%E5%B9%B3%E7%BD%91%E7%BA%A2)
 1. [微信朋友圈改版](https://www.zhihu.com/search?q=%E5%BE%AE%E4%BF%A1%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%94%B9%E7%89%88)
+1. [国安部披露境外组织资助躺平网红](https://www.zhihu.com/search?q=%E5%9B%BD%E5%AE%89%E9%83%A8%E6%8A%AB%E9%9C%B2%E5%A2%83%E5%A4%96%E7%BB%84%E7%BB%87%E8%B5%84%E5%8A%A9%E8%BA%BA%E5%B9%B3%E7%BD%91%E7%BA%A2)
 1. [阿联酋宣布退出欧佩克](https://www.zhihu.com/search?q=%E9%98%BF%E8%81%94%E9%85%8B%E5%AE%A3%E5%B8%83%E9%80%80%E5%87%BA%E6%AC%A7%E4%BD%A9%E5%85%8B)
 1. [大学该不该向社会开放](https://www.zhihu.com/search?q=%E5%A4%A7%E5%AD%A6%E8%AF%A5%E4%B8%8D%E8%AF%A5%E5%90%91%E7%A4%BE%E4%BC%9A%E5%BC%80%E6%94%BE)
-1. [多平台已下架毒品前体](https://www.zhihu.com/search?q=%E5%A4%9A%E5%B9%B3%E5%8F%B0%E5%B7%B2%E4%B8%8B%E6%9E%B6%E6%AF%92%E5%93%81%E5%89%8D%E4%BD%93)
 1. [8亿播放AI短剧《菩提临世》下架](https://www.zhihu.com/search?q=8%E4%BA%BF%E6%92%AD%E6%94%BEAI%E7%9F%AD%E5%89%A7%E3%80%8A%E8%8F%A9%E6%8F%90%E4%B8%B4%E4%B8%96%E3%80%8B%E4%B8%8B%E6%9E%B6)
 1. [胖东来18 元 15 瓶矿泉水遭排队抢购](https://www.zhihu.com/search?q=%E8%83%96%E4%B8%9C%E6%9D%A518%20%E5%85%83%2015%20%E7%93%B6%E7%9F%BF%E6%B3%89%E6%B0%B4%E9%81%AD%E6%8E%92%E9%98%9F%E6%8A%A2%E8%B4%AD)
+1. [多平台已下架毒品前体](https://www.zhihu.com/search?q=%E5%A4%9A%E5%B9%B3%E5%8F%B0%E5%B7%B2%E4%B8%8B%E6%9E%B6%E6%AF%92%E5%93%81%E5%89%8D%E4%BD%93)
 1. [曝淘宝可直接购买毒品直接前体](https://www.zhihu.com/search?q=%E6%9B%9D%E6%B7%98%E5%AE%9D%E5%8F%AF%E7%9B%B4%E6%8E%A5%E8%B4%AD%E4%B9%B0%E6%AF%92%E5%93%81%E7%9B%B4%E6%8E%A5%E5%89%8D%E4%BD%93)
 1. [霸王茶姬回应顾客喝出水银](https://www.zhihu.com/search?q=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E5%9B%9E%E5%BA%94%E9%A1%BE%E5%AE%A2%E5%96%9D%E5%87%BA%E6%B0%B4%E9%93%B6)
 1. [男子从内地偷运 51 公斤盒饭回澳门](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%90%E4%BB%8E%E5%86%85%E5%9C%B0%E5%81%B7%E8%BF%90%2051%20%E5%85%AC%E6%96%A4%E7%9B%92%E9%A5%AD%E5%9B%9E%E6%BE%B3%E9%97%A8)
