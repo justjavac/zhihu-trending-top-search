@@ -14,10 +14,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Apr 29 2026 14:25:57 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Apr 29 2026 17:10:30 GMT+0800 (China Standard Time) -->
 
-1. [国安部披露境外组织资助躺平网红](https://www.zhihu.com/search?q=%E5%9B%BD%E5%AE%89%E9%83%A8%E6%8A%AB%E9%9C%B2%E5%A2%83%E5%A4%96%E7%BB%84%E7%BB%87%E8%B5%84%E5%8A%A9%E8%BA%BA%E5%B9%B3%E7%BD%91%E7%BA%A2)
 1. [微信朋友圈改版](https://www.zhihu.com/search?q=%E5%BE%AE%E4%BF%A1%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%94%B9%E7%89%88)
+1. [国安部披露境外组织资助躺平网红](https://www.zhihu.com/search?q=%E5%9B%BD%E5%AE%89%E9%83%A8%E6%8A%AB%E9%9C%B2%E5%A2%83%E5%A4%96%E7%BB%84%E7%BB%87%E8%B5%84%E5%8A%A9%E8%BA%BA%E5%B9%B3%E7%BD%91%E7%BA%A2)
 1. [多平台已下架毒品前体](https://www.zhihu.com/search?q=%E5%A4%9A%E5%B9%B3%E5%8F%B0%E5%B7%B2%E4%B8%8B%E6%9E%B6%E6%AF%92%E5%93%81%E5%89%8D%E4%BD%93)
 1. [25 岁女孩确诊黑色素瘤 5 个月离世](https://www.zhihu.com/search?q=25%20%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%A1%AE%E8%AF%8A%E9%BB%91%E8%89%B2%E7%B4%A0%E7%98%A4%205%20%E4%B8%AA%E6%9C%88%E7%A6%BB%E4%B8%96)
 1. [迪士尼游客劝烟被连扇5耳光](https://www.zhihu.com/search?q=%E8%BF%AA%E5%A3%AB%E5%B0%BC%E6%B8%B8%E5%AE%A2%E5%8A%9D%E7%83%9F%E8%A2%AB%E8%BF%9E%E6%89%875%E8%80%B3%E5%85%89)
@@ -26,6 +26,7 @@
 1. [网红白冰偷税被查](https://www.zhihu.com/search?q=%E7%BD%91%E7%BA%A2%E7%99%BD%E5%86%B0%E5%81%B7%E7%A8%8E%E8%A2%AB%E6%9F%A5)
 1. [阿 Sa 蔡卓妍官宣结婚](https://www.zhihu.com/search?q=%E9%98%BF%20Sa%20%E8%94%A1%E5%8D%93%E5%A6%8D%E5%AE%98%E5%AE%A3%E7%BB%93%E5%A9%9A)
 1. [东方甄选4名主播集体离职](https://www.zhihu.com/search?q=%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%894%E5%90%8D%E4%B8%BB%E6%92%AD%E9%9B%86%E4%BD%93%E7%A6%BB%E8%81%8C)
+1. [胖东来18 元 15 瓶矿泉水遭排队抢购](https://www.zhihu.com/search?q=%E8%83%96%E4%B8%9C%E6%9D%A518%20%E5%85%83%2015%20%E7%93%B6%E7%9F%BF%E6%B3%89%E6%B0%B4%E9%81%AD%E6%8E%92%E9%98%9F%E6%8A%A2%E8%B4%AD)
 1. [男子从内地偷运 51 公斤盒饭回澳门](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%90%E4%BB%8E%E5%86%85%E5%9C%B0%E5%81%B7%E8%BF%90%2051%20%E5%85%AC%E6%96%A4%E7%9B%92%E9%A5%AD%E5%9B%9E%E6%BE%B3%E9%97%A8)
 1. [14岁少年杀害同班女同学被判无期](https://www.zhihu.com/search?q=14%E5%B2%81%E5%B0%91%E5%B9%B4%E6%9D%80%E5%AE%B3%E5%90%8C%E7%8F%AD%E5%A5%B3%E5%90%8C%E5%AD%A6%E8%A2%AB%E5%88%A4%E6%97%A0%E6%9C%9F)
 1. [DeepSeek V4 预览版上线并开源](https://www.zhihu.com/search?q=DeepSeek%20V4%20%E9%A2%84%E8%A7%88%E7%89%88%E4%B8%8A%E7%BA%BF%E5%B9%B6%E5%BC%80%E6%BA%90)
