@@ -14,20 +14,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Apr 30 2026 19:38:51 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Apr 30 2026 22:02:38 GMT+0800 (China Standard Time) -->
 
-1. [微信朋友圈改版](https://www.zhihu.com/search?q=%E5%BE%AE%E4%BF%A1%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%94%B9%E7%89%88)
 1. [国安部披露境外组织资助躺平网红](https://www.zhihu.com/search?q=%E5%9B%BD%E5%AE%89%E9%83%A8%E6%8A%AB%E9%9C%B2%E5%A2%83%E5%A4%96%E7%BB%84%E7%BB%87%E8%B5%84%E5%8A%A9%E8%BA%BA%E5%B9%B3%E7%BD%91%E7%BA%A2)
+1. [微信朋友圈改版](https://www.zhihu.com/search?q=%E5%BE%AE%E4%BF%A1%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%94%B9%E7%89%88)
 1. [多平台已下架毒品前体](https://www.zhihu.com/search?q=%E5%A4%9A%E5%B9%B3%E5%8F%B0%E5%B7%B2%E4%B8%8B%E6%9E%B6%E6%AF%92%E5%93%81%E5%89%8D%E4%BD%93)
 1. [胖东来18 元 15 瓶矿泉水遭排队抢购](https://www.zhihu.com/search?q=%E8%83%96%E4%B8%9C%E6%9D%A518%20%E5%85%83%2015%20%E7%93%B6%E7%9F%BF%E6%B3%89%E6%B0%B4%E9%81%AD%E6%8E%92%E9%98%9F%E6%8A%A2%E8%B4%AD)
-1. [多国央行集体甩卖黄金](https://www.zhihu.com/search?q=%E5%A4%9A%E5%9B%BD%E5%A4%AE%E8%A1%8C%E9%9B%86%E4%BD%93%E7%94%A9%E5%8D%96%E9%BB%84%E9%87%91)
-1. [男子从内地偷运 51 公斤盒饭回澳门](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%90%E4%BB%8E%E5%86%85%E5%9C%B0%E5%81%B7%E8%BF%90%2051%20%E5%85%AC%E6%96%A4%E7%9B%92%E9%A5%AD%E5%9B%9E%E6%BE%B3%E9%97%A8)
+1. [五粮液](https://www.zhihu.com/search?q=%E4%BA%94%E7%B2%AE%E6%B6%B2)
 1. [孙杨被曝有私生子](https://www.zhihu.com/search?q=%E5%AD%99%E6%9D%A8%E8%A2%AB%E6%9B%9D%E6%9C%89%E7%A7%81%E7%94%9F%E5%AD%90)
+1. [男子从内地偷运 51 公斤盒饭回澳门](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%90%E4%BB%8E%E5%86%85%E5%9C%B0%E5%81%B7%E8%BF%90%2051%20%E5%85%AC%E6%96%A4%E7%9B%92%E9%A5%AD%E5%9B%9E%E6%BE%B3%E9%97%A8)
 1. [鲁超济南队夏雨荷啦啦队被嘲](https://www.zhihu.com/search?q=%E9%B2%81%E8%B6%85%E6%B5%8E%E5%8D%97%E9%98%9F%E5%A4%8F%E9%9B%A8%E8%8D%B7%E5%95%A6%E5%95%A6%E9%98%9F%E8%A2%AB%E5%98%B2)
 1. [曝淘宝可直接购买毒品直接前体](https://www.zhihu.com/search?q=%E6%9B%9D%E6%B7%98%E5%AE%9D%E5%8F%AF%E7%9B%B4%E6%8E%A5%E8%B4%AD%E4%B9%B0%E6%AF%92%E5%93%81%E7%9B%B4%E6%8E%A5%E5%89%8D%E4%BD%93)
-1. [比亚迪一季度净利润同比降 55.38%](https://www.zhihu.com/search?q=%E6%AF%94%E4%BA%9A%E8%BF%AA%E4%B8%80%E5%AD%A3%E5%BA%A6%E5%87%80%E5%88%A9%E6%B6%A6%E5%90%8C%E6%AF%94%E9%99%8D%2055.38%25)
-1. [张雪再次回应余承东事件](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%AA%E5%86%8D%E6%AC%A1%E5%9B%9E%E5%BA%94%E4%BD%99%E6%89%BF%E4%B8%9C%E4%BA%8B%E4%BB%B6)
 1. [孙杨被曝疑违规录取博士](https://www.zhihu.com/search?q=%E5%AD%99%E6%9D%A8%E8%A2%AB%E6%9B%9D%E7%96%91%E8%BF%9D%E8%A7%84%E5%BD%95%E5%8F%96%E5%8D%9A%E5%A3%AB)
+1. [张雪再次回应余承东事件](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%AA%E5%86%8D%E6%AC%A1%E5%9B%9E%E5%BA%94%E4%BD%99%E6%89%BF%E4%B8%9C%E4%BA%8B%E4%BB%B6)
+1. [中国工程师徐泽伟被引渡](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%BE%90%E6%B3%BD%E4%BC%9F%E8%A2%AB%E5%BC%95%E6%B8%A1)
+1. [多国央行集体甩卖黄金](https://www.zhihu.com/search?q=%E5%A4%9A%E5%9B%BD%E5%A4%AE%E8%A1%8C%E9%9B%86%E4%BD%93%E7%94%A9%E5%8D%96%E9%BB%84%E9%87%91)
+1. [比亚迪一季度净利润同比降 55.38%](https://www.zhihu.com/search?q=%E6%AF%94%E4%BA%9A%E8%BF%AA%E4%B8%80%E5%AD%A3%E5%BA%A6%E5%87%80%E5%88%A9%E6%B6%A6%E5%90%8C%E6%AF%94%E9%99%8D%2055.38%25)
 1. [霸王茶姬回应顾客喝出水银](https://www.zhihu.com/search?q=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E5%9B%9E%E5%BA%94%E9%A1%BE%E5%AE%A2%E5%96%9D%E5%87%BA%E6%B0%B4%E9%93%B6)
 1. [大疆北京所有门店下架无人机](https://www.zhihu.com/search?q=%E5%A4%A7%E7%96%86%E5%8C%97%E4%BA%AC%E6%89%80%E6%9C%89%E9%97%A8%E5%BA%97%E4%B8%8B%E6%9E%B6%E6%97%A0%E4%BA%BA%E6%9C%BA)
 1. [英国王嘲讽美国特朗普表情亮了](https://www.zhihu.com/search?q=%E8%8B%B1%E5%9B%BD%E7%8E%8B%E5%98%B2%E8%AE%BD%E7%BE%8E%E5%9B%BD%E7%89%B9%E6%9C%97%E6%99%AE%E8%A1%A8%E6%83%85%E4%BA%AE%E4%BA%86)
