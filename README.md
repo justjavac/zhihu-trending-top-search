@@ -14,13 +14,14 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri May 01 2026 21:24:08 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri May 01 2026 22:57:59 GMT+0800 (China Standard Time) -->
 
 1. [国安部披露境外组织资助躺平网红](https://www.zhihu.com/search?q=%E5%9B%BD%E5%AE%89%E9%83%A8%E6%8A%AB%E9%9C%B2%E5%A2%83%E5%A4%96%E7%BB%84%E7%BB%87%E8%B5%84%E5%8A%A9%E8%BA%BA%E5%B9%B3%E7%BD%91%E7%BA%A2)
 1. [五粮液](https://www.zhihu.com/search?q=%E4%BA%94%E7%B2%AE%E6%B6%B2)
-1. [孙杨被曝疑违规录取博士](https://www.zhihu.com/search?q=%E5%AD%99%E6%9D%A8%E8%A2%AB%E6%9B%9D%E7%96%91%E8%BF%9D%E8%A7%84%E5%BD%95%E5%8F%96%E5%8D%9A%E5%A3%AB)
 1. [美政府官员称敌对行动已结束](https://www.zhihu.com/search?q=%E7%BE%8E%E6%94%BF%E5%BA%9C%E5%AE%98%E5%91%98%E7%A7%B0%E6%95%8C%E5%AF%B9%E8%A1%8C%E5%8A%A8%E5%B7%B2%E7%BB%93%E6%9D%9F)
+1. [孙杨被曝疑违规录取博士](https://www.zhihu.com/search?q=%E5%AD%99%E6%9D%A8%E8%A2%AB%E6%9B%9D%E7%96%91%E8%BF%9D%E8%A7%84%E5%BD%95%E5%8F%96%E5%8D%9A%E5%A3%AB)
 1. [陈芋汐卢为 10 米台金牌](https://www.zhihu.com/search?q=%E9%99%88%E8%8A%8B%E6%B1%90%E5%8D%A2%E4%B8%BA%2010%20%E7%B1%B3%E5%8F%B0%E9%87%91%E7%89%8C)
+1. [《乘风 2026》第五期](https://www.zhihu.com/search?q=%E3%80%8A%E4%B9%98%E9%A3%8E%202026%E3%80%8B%E7%AC%AC%E4%BA%94%E6%9C%9F)
 1. [DeepSeek v4 百万上下文](https://www.zhihu.com/search?q=DeepSeek%20v4%20%E7%99%BE%E4%B8%87%E4%B8%8A%E4%B8%8B%E6%96%87)
 1. [曝吴宣仪提出解约遭乐华拒绝](https://www.zhihu.com/search?q=%E6%9B%9D%E5%90%B4%E5%AE%A3%E4%BB%AA%E6%8F%90%E5%87%BA%E8%A7%A3%E7%BA%A6%E9%81%AD%E4%B9%90%E5%8D%8E%E6%8B%92%E7%BB%9D)
 1. [阿 Sa 蔡卓妍官宣结婚](https://www.zhihu.com/search?q=%E9%98%BF%20Sa%20%E8%94%A1%E5%8D%93%E5%A6%8D%E5%AE%98%E5%AE%A3%E7%BB%93%E5%A9%9A)
