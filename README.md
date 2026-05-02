@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun May 03 2026 04:46:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun May 03 2026 05:43:46 GMT+0800 (China Standard Time) -->
 
 1. [张雪机车再夺冠军](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E5%86%8D%E5%A4%BA%E5%86%A0%E5%86%9B)
 1. [成都车祸](https://www.zhihu.com/search?q=%E6%88%90%E9%83%BD%E8%BD%A6%E7%A5%B8)
