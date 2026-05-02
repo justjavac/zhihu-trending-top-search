@@ -14,13 +14,12 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun May 03 2026 01:46:54 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun May 03 2026 03:03:46 GMT+0800 (China Standard Time) -->
 
 1. [张雪机车再夺冠军](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E5%86%8D%E5%A4%BA%E5%86%A0%E5%86%9B)
 1. [成都车祸](https://www.zhihu.com/search?q=%E6%88%90%E9%83%BD%E8%BD%A6%E7%A5%B8)
 1. [五粮液](https://www.zhihu.com/search?q=%E4%BA%94%E7%B2%AE%E6%B6%B2)
 1. [孙杨被曝疑违规录取博士](https://www.zhihu.com/search?q=%E5%AD%99%E6%9D%A8%E8%A2%AB%E6%9B%9D%E7%96%91%E8%BF%9D%E8%A7%84%E5%BD%95%E5%8F%96%E5%8D%9A%E5%A3%AB)
-1. [女子徒手给月子里宝宝打耳洞](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E5%BE%92%E6%89%8B%E7%BB%99%E6%9C%88%E5%AD%90%E9%87%8C%E5%AE%9D%E5%AE%9D%E6%89%93%E8%80%B3%E6%B4%9E)
 1. [导游称大熊猫花花是残疾游客秒报警](https://www.zhihu.com/search?q=%E5%AF%BC%E6%B8%B8%E7%A7%B0%E5%A4%A7%E7%86%8A%E7%8C%AB%E8%8A%B1%E8%8A%B1%E6%98%AF%E6%AE%8B%E7%96%BE%E6%B8%B8%E5%AE%A2%E7%A7%92%E6%8A%A5%E8%AD%A6)
 1. [DeepSeek v4 百万上下文](https://www.zhihu.com/search?q=DeepSeek%20v4%20%E7%99%BE%E4%B8%87%E4%B8%8A%E4%B8%8B%E6%96%87)
 1. [广州地铁有人喷洒不明液体](https://www.zhihu.com/search?q=%E5%B9%BF%E5%B7%9E%E5%9C%B0%E9%93%81%E6%9C%89%E4%BA%BA%E5%96%B7%E6%B4%92%E4%B8%8D%E6%98%8E%E6%B6%B2%E4%BD%93)
@@ -28,6 +27,8 @@
 1. [兄弟俩总乱咬确诊自毁容貌综合征](https://www.zhihu.com/search?q=%E5%85%84%E5%BC%9F%E4%BF%A9%E6%80%BB%E4%B9%B1%E5%92%AC%E7%A1%AE%E8%AF%8A%E8%87%AA%E6%AF%81%E5%AE%B9%E8%B2%8C%E7%BB%BC%E5%90%88%E5%BE%81)
 1. [东航 A350 撞击廊桥并反复开反推](https://www.zhihu.com/search?q=%E4%B8%9C%E8%88%AA%20A350%20%E6%92%9E%E5%87%BB%E5%BB%8A%E6%A1%A5%E5%B9%B6%E5%8F%8D%E5%A4%8D%E5%BC%80%E5%8F%8D%E6%8E%A8)
 1. [西安上空现不明物持续一小时后消失](https://www.zhihu.com/search?q=%E8%A5%BF%E5%AE%89%E4%B8%8A%E7%A9%BA%E7%8E%B0%E4%B8%8D%E6%98%8E%E7%89%A9%E6%8C%81%E7%BB%AD%E4%B8%80%E5%B0%8F%E6%97%B6%E5%90%8E%E6%B6%88%E5%A4%B1)
+1. [水银奶茶事件被曝疑似系男友投毒](https://www.zhihu.com/search?q=%E6%B0%B4%E9%93%B6%E5%A5%B6%E8%8C%B6%E4%BA%8B%E4%BB%B6%E8%A2%AB%E6%9B%9D%E7%96%91%E4%BC%BC%E7%B3%BB%E7%94%B7%E5%8F%8B%E6%8A%95%E6%AF%92)
+1. [女子徒手给月子里宝宝打耳洞](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E5%BE%92%E6%89%8B%E7%BB%99%E6%9C%88%E5%AD%90%E9%87%8C%E5%AE%9D%E5%AE%9D%E6%89%93%E8%80%B3%E6%B4%9E)
 
 <!-- END -->
 
