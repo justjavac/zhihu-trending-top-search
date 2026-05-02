@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat May 02 2026 22:51:09 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat May 02 2026 23:50:31 GMT+0800 (China Standard Time) -->
 
 1. [张雪机车再夺冠军](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E5%86%8D%E5%A4%BA%E5%86%A0%E5%86%9B)
 1. [成都车祸](https://www.zhihu.com/search?q=%E6%88%90%E9%83%BD%E8%BD%A6%E7%A5%B8)
@@ -26,8 +26,9 @@
 1. [广州地铁有人喷洒不明液体](https://www.zhihu.com/search?q=%E5%B9%BF%E5%B7%9E%E5%9C%B0%E9%93%81%E6%9C%89%E4%BA%BA%E5%96%B7%E6%B4%92%E4%B8%8D%E6%98%8E%E6%B6%B2%E4%BD%93)
 1. [GPT-5.5中哥布林泛滥](https://www.zhihu.com/search?q=GPT-5.5%E4%B8%AD%E5%93%A5%E5%B8%83%E6%9E%97%E6%B3%9B%E6%BB%A5)
 1. [兄弟俩总乱咬确诊自毁容貌综合征](https://www.zhihu.com/search?q=%E5%85%84%E5%BC%9F%E4%BF%A9%E6%80%BB%E4%B9%B1%E5%92%AC%E7%A1%AE%E8%AF%8A%E8%87%AA%E6%AF%81%E5%AE%B9%E8%B2%8C%E7%BB%BC%E5%90%88%E5%BE%81)
-1. [南开大学院长陈佺论文被举报数据造假](https://www.zhihu.com/search?q=%E5%8D%97%E5%BC%80%E5%A4%A7%E5%AD%A6%E9%99%A2%E9%95%BF%E9%99%88%E4%BD%BA%E8%AE%BA%E6%96%87%E8%A2%AB%E4%B8%BE%E6%8A%A5%E6%95%B0%E6%8D%AE%E9%80%A0%E5%81%87)
 1. [西安上空现不明物持续一小时后消失](https://www.zhihu.com/search?q=%E8%A5%BF%E5%AE%89%E4%B8%8A%E7%A9%BA%E7%8E%B0%E4%B8%8D%E6%98%8E%E7%89%A9%E6%8C%81%E7%BB%AD%E4%B8%80%E5%B0%8F%E6%97%B6%E5%90%8E%E6%B6%88%E5%A4%B1)
+1. [东航 A350 撞击廊桥并反复开反推](https://www.zhihu.com/search?q=%E4%B8%9C%E8%88%AA%20A350%20%E6%92%9E%E5%87%BB%E5%BB%8A%E6%A1%A5%E5%B9%B6%E5%8F%8D%E5%A4%8D%E5%BC%80%E5%8F%8D%E6%8E%A8)
+1. [南开大学院长陈佺论文被举报数据造假](https://www.zhihu.com/search?q=%E5%8D%97%E5%BC%80%E5%A4%A7%E5%AD%A6%E9%99%A2%E9%95%BF%E9%99%88%E4%BD%BA%E8%AE%BA%E6%96%87%E8%A2%AB%E4%B8%BE%E6%8A%A5%E6%95%B0%E6%8D%AE%E9%80%A0%E5%81%87)
 1. [宇宙或仅剩约 333 亿年的寿命](https://www.zhihu.com/search?q=%E5%AE%87%E5%AE%99%E6%88%96%E4%BB%85%E5%89%A9%E7%BA%A6%20333%20%E4%BA%BF%E5%B9%B4%E7%9A%84%E5%AF%BF%E5%91%BD)
 1. [湖人 vs 火箭](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BA%20vs%20%E7%81%AB%E7%AE%AD)
 1. [陈芋汐卢为 10 米台金牌](https://www.zhihu.com/search?q=%E9%99%88%E8%8A%8B%E6%B1%90%E5%8D%A2%E4%B8%BA%2010%20%E7%B1%B3%E5%8F%B0%E9%87%91%E7%89%8C)
