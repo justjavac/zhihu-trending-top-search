@@ -14,19 +14,20 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu May 07 2026 14:37:57 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu May 07 2026 17:34:34 GMT+0800 (China Standard Time) -->
 
 1. [浏阳烟花厂爆炸致26死61伤](https://www.zhihu.com/search?q=%E6%B5%8F%E9%98%B3%E7%83%9F%E8%8A%B1%E5%8E%82%E7%88%86%E7%82%B8%E8%87%B426%E6%AD%BB61%E4%BC%A4)
+1. [美以袭击伊朗](https://www.zhihu.com/search?q=%E7%BE%8E%E4%BB%A5%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97)
 1. [豆包付费版本曝光](https://www.zhihu.com/search?q=%E8%B1%86%E5%8C%85%E4%BB%98%E8%B4%B9%E7%89%88%E6%9C%AC%E6%9B%9D%E5%85%89)
 1. [三星家电退出中国市场](https://www.zhihu.com/search?q=%E4%B8%89%E6%98%9F%E5%AE%B6%E7%94%B5%E9%80%80%E5%87%BA%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA)
 1. [四川华蓥瀑布秋千事故致 1 死](https://www.zhihu.com/search?q=%E5%9B%9B%E5%B7%9D%E5%8D%8E%E8%93%A5%E7%80%91%E5%B8%83%E7%A7%8B%E5%8D%83%E4%BA%8B%E6%95%85%E8%87%B4%201%20%E6%AD%BB)
-1. [美以袭击伊朗](https://www.zhihu.com/search?q=%E7%BE%8E%E4%BB%A5%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97)
 1. [林依晨自曝曾被前男友要求退圈](https://www.zhihu.com/search?q=%E6%9E%97%E4%BE%9D%E6%99%A8%E8%87%AA%E6%9B%9D%E6%9B%BE%E8%A2%AB%E5%89%8D%E7%94%B7%E5%8F%8B%E8%A6%81%E6%B1%82%E9%80%80%E5%9C%88)
 1. [浏阳所有烟花爆竹生产企业全面停产](https://www.zhihu.com/search?q=%E6%B5%8F%E9%98%B3%E6%89%80%E6%9C%89%E7%83%9F%E8%8A%B1%E7%88%86%E7%AB%B9%E7%94%9F%E4%BA%A7%E4%BC%81%E4%B8%9A%E5%85%A8%E9%9D%A2%E5%81%9C%E4%BA%A7)
 1. [央视世界杯版权费被曝谈崩](https://www.zhihu.com/search?q=%E5%A4%AE%E8%A7%86%E4%B8%96%E7%95%8C%E6%9D%AF%E7%89%88%E6%9D%83%E8%B4%B9%E8%A2%AB%E6%9B%9D%E8%B0%88%E5%B4%A9)
 1. [同济大学通报教师论文造假事件](https://www.zhihu.com/search?q=%E5%90%8C%E6%B5%8E%E5%A4%A7%E5%AD%A6%E9%80%9A%E6%8A%A5%E6%95%99%E5%B8%88%E8%AE%BA%E6%96%87%E9%80%A0%E5%81%87%E4%BA%8B%E4%BB%B6)
 1. [国内一年仅卖 2763 万台彩电](https://www.zhihu.com/search?q=%E5%9B%BD%E5%86%85%E4%B8%80%E5%B9%B4%E4%BB%85%E5%8D%96%202763%20%E4%B8%87%E5%8F%B0%E5%BD%A9%E7%94%B5)
 1. [中国男乒 3-1 罗马尼亚男乒](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E7%94%B7%E4%B9%92%203-1%20%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A%E7%94%B7%E4%B9%92)
+1. [东航 A350 撞击廊桥并反复开反推](https://www.zhihu.com/search?q=%E4%B8%9C%E8%88%AA%20A350%20%E6%92%9E%E5%87%BB%E5%BB%8A%E6%A1%A5%E5%B9%B6%E5%8F%8D%E5%A4%8D%E5%BC%80%E5%8F%8D%E6%8E%A8)
 1. [西安羊肉泡馍价格高引争议](https://www.zhihu.com/search?q=%E8%A5%BF%E5%AE%89%E7%BE%8A%E8%82%89%E6%B3%A1%E9%A6%8D%E4%BB%B7%E6%A0%BC%E9%AB%98%E5%BC%95%E4%BA%89%E8%AE%AE)
 1. [浏阳一烟花厂发生爆炸](https://www.zhihu.com/search?q=%E6%B5%8F%E9%98%B3%E4%B8%80%E7%83%9F%E8%8A%B1%E5%8E%82%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8)
 1. [国乒男队 2:3 不敌瑞典队](https://www.zhihu.com/search?q=%E5%9B%BD%E4%B9%92%E7%94%B7%E9%98%9F%202%3A3%20%E4%B8%8D%E6%95%8C%E7%91%9E%E5%85%B8%E9%98%9F)
