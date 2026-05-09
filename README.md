@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun May 10 2026 03:15:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun May 10 2026 04:49:03 GMT+0800 (China Standard Time) -->
 
 1. [OPPO海报称妈妈有两个老公引争议](https://www.zhihu.com/search?q=OPPO%E6%B5%B7%E6%8A%A5%E7%A7%B0%E5%A6%88%E5%A6%88%E6%9C%89%E4%B8%A4%E4%B8%AA%E8%80%81%E5%85%AC%E5%BC%95%E4%BA%89%E8%AE%AE)
 1. [美国公布首批UFO相关政府文件](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E5%85%AC%E5%B8%83%E9%A6%96%E6%89%B9UFO%E7%9B%B8%E5%85%B3%E6%94%BF%E5%BA%9C%E6%96%87%E4%BB%B6)
@@ -24,8 +24,8 @@
 1. [三亚 4 只皮皮虾收费 1035 元](https://www.zhihu.com/search?q=%E4%B8%89%E4%BA%9A%204%20%E5%8F%AA%E7%9A%AE%E7%9A%AE%E8%99%BE%E6%94%B6%E8%B4%B9%201035%20%E5%85%83)
 1. [浏阳烟花厂爆炸已致 37 死 1 失联](https://www.zhihu.com/search?q=%E6%B5%8F%E9%98%B3%E7%83%9F%E8%8A%B1%E5%8E%82%E7%88%86%E7%82%B8%E5%B7%B2%E8%87%B4%2037%20%E6%AD%BB%201%20%E5%A4%B1%E8%81%94)
 1. [八家新能源车企远程「锁电」被约谈](https://www.zhihu.com/search?q=%E5%85%AB%E5%AE%B6%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E4%BC%81%E8%BF%9C%E7%A8%8B%E3%80%8C%E9%94%81%E7%94%B5%E3%80%8D%E8%A2%AB%E7%BA%A6%E8%B0%88)
-1. [浏阳一烟花厂发生爆炸](https://www.zhihu.com/search?q=%E6%B5%8F%E9%98%B3%E4%B8%80%E7%83%9F%E8%8A%B1%E5%8E%82%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8)
 1. [国际奥委会被曝已叫停电竞奥运会](https://www.zhihu.com/search?q=%E5%9B%BD%E9%99%85%E5%A5%A5%E5%A7%94%E4%BC%9A%E8%A2%AB%E6%9B%9D%E5%B7%B2%E5%8F%AB%E5%81%9C%E7%94%B5%E7%AB%9E%E5%A5%A5%E8%BF%90%E4%BC%9A)
+1. [浏阳一烟花厂发生爆炸](https://www.zhihu.com/search?q=%E6%B5%8F%E9%98%B3%E4%B8%80%E7%83%9F%E8%8A%B1%E5%8E%82%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8)
 1. [川影月评堪比阎王点卯](https://www.zhihu.com/search?q=%E5%B7%9D%E5%BD%B1%E6%9C%88%E8%AF%84%E5%A0%AA%E6%AF%94%E9%98%8E%E7%8E%8B%E7%82%B9%E5%8D%AF)
 1. [中山大学马骏院士被疑论文图片重复](https://www.zhihu.com/search?q=%E4%B8%AD%E5%B1%B1%E5%A4%A7%E5%AD%A6%E9%A9%AC%E9%AA%8F%E9%99%A2%E5%A3%AB%E8%A2%AB%E7%96%91%E8%AE%BA%E6%96%87%E5%9B%BE%E7%89%87%E9%87%8D%E5%A4%8D)
 1. [泰康人寿全国销冠被拘](https://www.zhihu.com/search?q=%E6%B3%B0%E5%BA%B7%E4%BA%BA%E5%AF%BF%E5%85%A8%E5%9B%BD%E9%94%80%E5%86%A0%E8%A2%AB%E6%8B%98)
