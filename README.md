@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue May 12 2026 03:54:46 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue May 12 2026 05:19:37 GMT+0800 (China Standard Time) -->
 
 1. [OPPO海报称妈妈有两个老公引争议](https://www.zhihu.com/search?q=OPPO%E6%B5%B7%E6%8A%A5%E7%A7%B0%E5%A6%88%E5%A6%88%E6%9C%89%E4%B8%A4%E4%B8%AA%E8%80%81%E5%85%AC%E5%BC%95%E4%BA%89%E8%AE%AE)
 1. [美国总统特朗普将访华](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E8%AE%BF%E5%8D%8E)
