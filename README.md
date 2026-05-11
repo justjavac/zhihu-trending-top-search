@@ -14,14 +14,14 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue May 12 2026 01:56:18 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue May 12 2026 03:54:46 GMT+0800 (China Standard Time) -->
 
 1. [OPPO海报称妈妈有两个老公引争议](https://www.zhihu.com/search?q=OPPO%E6%B5%B7%E6%8A%A5%E7%A7%B0%E5%A6%88%E5%A6%88%E6%9C%89%E4%B8%A4%E4%B8%AA%E8%80%81%E5%85%AC%E5%BC%95%E4%BA%89%E8%AE%AE)
 1. [美国总统特朗普将访华](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E8%AE%BF%E5%8D%8E)
-1. [急救宣布老人死亡家属发现仍有呼吸](https://www.zhihu.com/search?q=%E6%80%A5%E6%95%91%E5%AE%A3%E5%B8%83%E8%80%81%E4%BA%BA%E6%AD%BB%E4%BA%A1%E5%AE%B6%E5%B1%9E%E5%8F%91%E7%8E%B0%E4%BB%8D%E6%9C%89%E5%91%BC%E5%90%B8)
 1. [郑强称不承认大学生就业难](https://www.zhihu.com/search?q=%E9%83%91%E5%BC%BA%E7%A7%B0%E4%B8%8D%E6%89%BF%E8%AE%A4%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%B0%B1%E4%B8%9A%E9%9A%BE)
 1. [世乒赛男团决赛中国vs日本](https://www.zhihu.com/search?q=%E4%B8%96%E4%B9%92%E8%B5%9B%E7%94%B7%E5%9B%A2%E5%86%B3%E8%B5%9B%E4%B8%AD%E5%9B%BDvs%E6%97%A5%E6%9C%AC)
 1. [美国公布首批UFO相关政府文件](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E5%85%AC%E5%B8%83%E9%A6%96%E6%89%B9UFO%E7%9B%B8%E5%85%B3%E6%94%BF%E5%BA%9C%E6%96%87%E4%BB%B6)
+1. [急救宣布老人死亡家属发现仍有呼吸](https://www.zhihu.com/search?q=%E6%80%A5%E6%95%91%E5%AE%A3%E5%B8%83%E8%80%81%E4%BA%BA%E6%AD%BB%E4%BA%A1%E5%AE%B6%E5%B1%9E%E5%8F%91%E7%8E%B0%E4%BB%8D%E6%9C%89%E5%91%BC%E5%90%B8)
 1. [国乒女队3-2日本夺冠](https://www.zhihu.com/search?q=%E5%9B%BD%E4%B9%92%E5%A5%B3%E9%98%9F3-2%E6%97%A5%E6%9C%AC%E5%A4%BA%E5%86%A0)
 1. [武汉大学就OPPO母亲节文案发声明](https://www.zhihu.com/search?q=%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6%E5%B0%B1OPPO%E6%AF%8D%E4%BA%B2%E8%8A%82%E6%96%87%E6%A1%88%E5%8F%91%E5%A3%B0%E6%98%8E)
 1. [八家新能源车企远程「锁电」被约谈](https://www.zhihu.com/search?q=%E5%85%AB%E5%AE%B6%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E4%BC%81%E8%BF%9C%E7%A8%8B%E3%80%8C%E9%94%81%E7%94%B5%E3%80%8D%E8%A2%AB%E7%BA%A6%E8%B0%88)
