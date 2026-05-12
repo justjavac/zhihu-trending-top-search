@@ -14,21 +14,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue May 12 2026 18:33:42 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue May 12 2026 21:04:42 GMT+0800 (China Standard Time) -->
 
 1. [宇树发布载人变形机甲](https://www.zhihu.com/search?q=%E5%AE%87%E6%A0%91%E5%8F%91%E5%B8%83%E8%BD%BD%E4%BA%BA%E5%8F%98%E5%BD%A2%E6%9C%BA%E7%94%B2)
 1. [OPPO海报称妈妈有两个老公引争议](https://www.zhihu.com/search?q=OPPO%E6%B5%B7%E6%8A%A5%E7%A7%B0%E5%A6%88%E5%A6%88%E6%9C%89%E4%B8%A4%E4%B8%AA%E8%80%81%E5%85%AC%E5%BC%95%E4%BA%89%E8%AE%AE)
 1. [耿同学举报上海大学转化医学院院长](https://www.zhihu.com/search?q=%E8%80%BF%E5%90%8C%E5%AD%A6%E4%B8%BE%E6%8A%A5%E4%B8%8A%E6%B5%B7%E5%A4%A7%E5%AD%A6%E8%BD%AC%E5%8C%96%E5%8C%BB%E5%AD%A6%E9%99%A2%E9%99%A2%E9%95%BF)
-1. [美国总统特朗普将访华](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E8%AE%BF%E5%8D%8E)
 1. [急救宣布老人死亡家属发现仍有呼吸](https://www.zhihu.com/search?q=%E6%80%A5%E6%95%91%E5%AE%A3%E5%B8%83%E8%80%81%E4%BA%BA%E6%AD%BB%E4%BA%A1%E5%AE%B6%E5%B1%9E%E5%8F%91%E7%8E%B0%E4%BB%8D%E6%9C%89%E5%91%BC%E5%90%B8)
-1. [汶川地震18周年](https://www.zhihu.com/search?q=%E6%B1%B6%E5%B7%9D%E5%9C%B0%E9%9C%8718%E5%91%A8%E5%B9%B4)
+1. [美国总统特朗普将访华](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E8%AE%BF%E5%8D%8E)
 1. [郑强称不承认大学生就业难](https://www.zhihu.com/search?q=%E9%83%91%E5%BC%BA%E7%A7%B0%E4%B8%8D%E6%89%BF%E8%AE%A4%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%B0%B1%E4%B8%9A%E9%9A%BE)
-1. [世乒赛男团决赛中国vs日本](https://www.zhihu.com/search?q=%E4%B8%96%E4%B9%92%E8%B5%9B%E7%94%B7%E5%9B%A2%E5%86%B3%E8%B5%9B%E4%B8%AD%E5%9B%BDvs%E6%97%A5%E6%9C%AC)
 1. [武汉大学就OPPO母亲节文案发声明](https://www.zhihu.com/search?q=%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6%E5%B0%B1OPPO%E6%AF%8D%E4%BA%B2%E8%8A%82%E6%96%87%E6%A1%88%E5%8F%91%E5%A3%B0%E6%98%8E)
 1. [极地邮轮爆发汉坦病毒疫情](https://www.zhihu.com/search?q=%E6%9E%81%E5%9C%B0%E9%82%AE%E8%BD%AE%E7%88%86%E5%8F%91%E6%B1%89%E5%9D%A6%E7%97%85%E6%AF%92%E7%96%AB%E6%83%85)
-1. [国乒女队3-2日本夺冠](https://www.zhihu.com/search?q=%E5%9B%BD%E4%B9%92%E5%A5%B3%E9%98%9F3-2%E6%97%A5%E6%9C%AC%E5%A4%BA%E5%86%A0)
 1. [中科大等 9 所大学明确不招文科生](https://www.zhihu.com/search?q=%E4%B8%AD%E7%A7%91%E5%A4%A7%E7%AD%89%209%20%E6%89%80%E5%A4%A7%E5%AD%A6%E6%98%8E%E7%A1%AE%E4%B8%8D%E6%8B%9B%E6%96%87%E7%A7%91%E7%94%9F)
+1. [国乒女队3-2日本夺冠](https://www.zhihu.com/search?q=%E5%9B%BD%E4%B9%92%E5%A5%B3%E9%98%9F3-2%E6%97%A5%E6%9C%AC%E5%A4%BA%E5%86%A0)
 1. [八家新能源车企远程「锁电」被约谈](https://www.zhihu.com/search?q=%E5%85%AB%E5%AE%B6%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E4%BC%81%E8%BF%9C%E7%A8%8B%E3%80%8C%E9%94%81%E7%94%B5%E3%80%8D%E8%A2%AB%E7%BA%A6%E8%B0%88)
+1. [汶川地震18周年](https://www.zhihu.com/search?q=%E6%B1%B6%E5%B7%9D%E5%9C%B0%E9%9C%8718%E5%91%A8%E5%B9%B4)
+1. [世乒赛男团决赛中国vs日本](https://www.zhihu.com/search?q=%E4%B8%96%E4%B9%92%E8%B5%9B%E7%94%B7%E5%9B%A2%E5%86%B3%E8%B5%9B%E4%B8%AD%E5%9B%BDvs%E6%97%A5%E6%9C%AC)
 1. [网传丘成桐讲完报告后瘫坐昏迷](https://www.zhihu.com/search?q=%E7%BD%91%E4%BC%A0%E4%B8%98%E6%88%90%E6%A1%90%E8%AE%B2%E5%AE%8C%E6%8A%A5%E5%91%8A%E5%90%8E%E7%98%AB%E5%9D%90%E6%98%8F%E8%BF%B7)
 1. [中山大学马骏院士被疑论文图片重复](https://www.zhihu.com/search?q=%E4%B8%AD%E5%B1%B1%E5%A4%A7%E5%AD%A6%E9%A9%AC%E9%AA%8F%E9%99%A2%E5%A3%AB%E8%A2%AB%E7%96%91%E8%AE%BA%E6%96%87%E5%9B%BE%E7%89%87%E9%87%8D%E5%A4%8D)
 1. [8 名中国人赴泰私拍短剧被捕](https://www.zhihu.com/search?q=8%20%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%B5%B4%E6%B3%B0%E7%A7%81%E6%8B%8D%E7%9F%AD%E5%89%A7%E8%A2%AB%E6%8D%95)
