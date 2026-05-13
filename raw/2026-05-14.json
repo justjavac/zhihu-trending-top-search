@@ -1,5 +1,4 @@
 [
-  { "query_display": "美国总统特朗普抵达北京", "real_query": "美国总统特朗普抵达北京" },
   { "query_display": "特朗普访华", "real_query": "特朗普访华" },
   { "query_display": "郑强称不承认大学生就业难", "real_query": "郑强称不承认大学生就业难" },
   { "query_display": "急救宣布老人死亡家属发现仍有呼吸", "real_query": "急救宣布老人死亡家属发现仍有呼吸" },
@@ -8,7 +7,9 @@
   { "query_display": "宇树发布 GD01 载人变形机甲", "real_query": "宇树发布 GD01 载人变形机甲" },
   { "query_display": "马斯克库克将随特朗普访华", "real_query": "马斯克库克将随特朗普访华" },
   { "query_display": "摩洛哥新娘刷屏全网", "real_query": "摩洛哥新娘刷屏全网" },
-  { "query_display": "演出完退礼服当事人发声", "real_query": "演出完退礼服当事人发声" },
   { "query_display": "俞浩回应「崩老头」指控是造谣", "real_query": "俞浩回应「崩老头」指控是造谣" },
-  { "query_display": "黄仁勋搭空军一号随特朗普访华", "real_query": "黄仁勋搭空军一号随特朗普访华" }
+  { "query_display": "演出完退礼服当事人发声", "real_query": "演出完退礼服当事人发声" },
+  { "query_display": "黄仁勋搭空军一号随特朗普访华", "real_query": "黄仁勋搭空军一号随特朗普访华" },
+  { "query_display": "兽楼处称俞浩的追觅模式是崩老头", "real_query": "兽楼处称俞浩的追觅模式是崩老头" },
+  { "query_display": "美国总统特朗普抵达北京", "real_query": "美国总统特朗普抵达北京" }
 ]
