@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu May 14 2026 12:44:26 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu May 14 2026 15:43:51 GMT+0800 (China Standard Time) -->
 
 1. [中美元首举行会谈](https://www.zhihu.com/search?q=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%B8%BE%E8%A1%8C%E4%BC%9A%E8%B0%88)
 1. [特朗普访华](https://www.zhihu.com/search?q=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E)
@@ -22,12 +22,14 @@
 1. [OPPO海报称妈妈有两个老公引争议](https://www.zhihu.com/search?q=OPPO%E6%B5%B7%E6%8A%A5%E7%A7%B0%E5%A6%88%E5%A6%88%E6%9C%89%E4%B8%A4%E4%B8%AA%E8%80%81%E5%85%AC%E5%BC%95%E4%BA%89%E8%AE%AE)
 1. [黄仁勋搭空军一号随特朗普访华](https://www.zhihu.com/search?q=%E9%BB%84%E4%BB%81%E5%8B%8B%E6%90%AD%E7%A9%BA%E5%86%9B%E4%B8%80%E5%8F%B7%E9%9A%8F%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E)
 1. [摩洛哥新娘刷屏全网](https://www.zhihu.com/search?q=%E6%91%A9%E6%B4%9B%E5%93%A5%E6%96%B0%E5%A8%98%E5%88%B7%E5%B1%8F%E5%85%A8%E7%BD%91)
-1. [马斯克库克将随特朗普访华](https://www.zhihu.com/search?q=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%BA%93%E5%85%8B%E5%B0%86%E9%9A%8F%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E)
 1. [俞浩回应「崩老头」指控是造谣](https://www.zhihu.com/search?q=%E4%BF%9E%E6%B5%A9%E5%9B%9E%E5%BA%94%E3%80%8C%E5%B4%A9%E8%80%81%E5%A4%B4%E3%80%8D%E6%8C%87%E6%8E%A7%E6%98%AF%E9%80%A0%E8%B0%A3)
+1. [马斯克库克将随特朗普访华](https://www.zhihu.com/search?q=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%BA%93%E5%85%8B%E5%B0%86%E9%9A%8F%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E)
 1. [宇树发布 GD01 载人变形机甲](https://www.zhihu.com/search?q=%E5%AE%87%E6%A0%91%E5%8F%91%E5%B8%83%20GD01%20%E8%BD%BD%E4%BA%BA%E5%8F%98%E5%BD%A2%E6%9C%BA%E7%94%B2)
+1. [鲁比奥](https://www.zhihu.com/search?q=%E9%B2%81%E6%AF%94%E5%A5%A5)
+1. [兽楼处称俞浩的追觅模式是崩老头](https://www.zhihu.com/search?q=%E5%85%BD%E6%A5%BC%E5%A4%84%E7%A7%B0%E4%BF%9E%E6%B5%A9%E7%9A%84%E8%BF%BD%E8%A7%85%E6%A8%A1%E5%BC%8F%E6%98%AF%E5%B4%A9%E8%80%81%E5%A4%B4)
+1. [DeepSeek-TUI霸榜GitHub](https://www.zhihu.com/search?q=DeepSeek-TUI%E9%9C%B8%E6%A6%9CGitHub)
 1. [演出完退礼服当事人发声](https://www.zhihu.com/search?q=%E6%BC%94%E5%87%BA%E5%AE%8C%E9%80%80%E7%A4%BC%E6%9C%8D%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%8F%91%E5%A3%B0)
 1. [全国多个丘成桐少年班被叫停](https://www.zhihu.com/search?q=%E5%85%A8%E5%9B%BD%E5%A4%9A%E4%B8%AA%E4%B8%98%E6%88%90%E6%A1%90%E5%B0%91%E5%B9%B4%E7%8F%AD%E8%A2%AB%E5%8F%AB%E5%81%9C)
-1. [兽楼处称俞浩的追觅模式是崩老头](https://www.zhihu.com/search?q=%E5%85%BD%E6%A5%BC%E5%A4%84%E7%A7%B0%E4%BF%9E%E6%B5%A9%E7%9A%84%E8%BF%BD%E8%A7%85%E6%A8%A1%E5%BC%8F%E6%98%AF%E5%B4%A9%E8%80%81%E5%A4%B4)
 1. [急救宣布老人死亡家属发现仍有呼吸](https://www.zhihu.com/search?q=%E6%80%A5%E6%95%91%E5%AE%A3%E5%B8%83%E8%80%81%E4%BA%BA%E6%AD%BB%E4%BA%A1%E5%AE%B6%E5%B1%9E%E5%8F%91%E7%8E%B0%E4%BB%8D%E6%9C%89%E5%91%BC%E5%90%B8)
 1. [45岁独身男子离世存款被转走](https://www.zhihu.com/search?q=45%E5%B2%81%E7%8B%AC%E8%BA%AB%E7%94%B7%E5%AD%90%E7%A6%BB%E4%B8%96%E5%AD%98%E6%AC%BE%E8%A2%AB%E8%BD%AC%E8%B5%B0)
 1. [美国总统特朗普抵达北京](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E8%BE%BE%E5%8C%97%E4%BA%AC)
