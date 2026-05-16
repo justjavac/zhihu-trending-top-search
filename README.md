@@ -14,21 +14,23 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat May 16 2026 11:53:17 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat May 16 2026 14:23:13 GMT+0800 (China Standard Time) -->
 
-1. [美国总统特朗普结束访华](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE%E7%BB%93%E6%9D%9F%E8%AE%BF%E5%8D%8E)
 1. [央视拿下世界杯版权](https://www.zhihu.com/search?q=%E5%A4%AE%E8%A7%86%E6%8B%BF%E4%B8%8B%E4%B8%96%E7%95%8C%E6%9D%AF%E7%89%88%E6%9D%83)
+1. [美国总统特朗普结束访华](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE%E7%BB%93%E6%9D%9F%E8%AE%BF%E5%8D%8E)
 1. [2人摆拍盲道被撞被采取刑事强制措施](https://www.zhihu.com/search?q=2%E4%BA%BA%E6%91%86%E6%8B%8D%E7%9B%B2%E9%81%93%E8%A2%AB%E6%92%9E%E8%A2%AB%E9%87%87%E5%8F%96%E5%88%91%E4%BA%8B%E5%BC%BA%E5%88%B6%E6%8E%AA%E6%96%BD)
 1. [马斯克：只有我和黄仁勋坐上空军一号](https://www.zhihu.com/search?q=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E5%8F%AA%E6%9C%89%E6%88%91%E5%92%8C%E9%BB%84%E4%BB%81%E5%8B%8B%E5%9D%90%E4%B8%8A%E7%A9%BA%E5%86%9B%E4%B8%80%E5%8F%B7)
 1. [特朗普访华国际社会评价](https://www.zhihu.com/search?q=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E5%9B%BD%E9%99%85%E7%A4%BE%E4%BC%9A%E8%AF%84%E4%BB%B7)
 1. [雷军和马斯克合照](https://www.zhihu.com/search?q=%E9%9B%B7%E5%86%9B%E5%92%8C%E9%A9%AC%E6%96%AF%E5%85%8B%E5%90%88%E7%85%A7)
-1. [普京访华](https://www.zhihu.com/search?q=%E6%99%AE%E4%BA%AC%E8%AE%BF%E5%8D%8E)
-1. [中美元首举行会谈](https://www.zhihu.com/search?q=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%B8%BE%E8%A1%8C%E4%BC%9A%E8%B0%88)
 1. [河北无极县一火锅店发生刑事案件](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8C%97%E6%97%A0%E6%9E%81%E5%8E%BF%E4%B8%80%E7%81%AB%E9%94%85%E5%BA%97%E5%8F%91%E7%94%9F%E5%88%91%E4%BA%8B%E6%A1%88%E4%BB%B6)
-1. [OPPO 高级副总裁职级直降两级](https://www.zhihu.com/search?q=OPPO%20%E9%AB%98%E7%BA%A7%E5%89%AF%E6%80%BB%E8%A3%81%E8%81%8C%E7%BA%A7%E7%9B%B4%E9%99%8D%E4%B8%A4%E7%BA%A7)
 1. [鲁比奥](https://www.zhihu.com/search?q=%E9%B2%81%E6%AF%94%E5%A5%A5)
 1. [王毅介绍中美元首会晤共识](https://www.zhihu.com/search?q=%E7%8E%8B%E6%AF%85%E4%BB%8B%E7%BB%8D%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E5%85%B1%E8%AF%86)
+1. [上海交大学生豆包伪造证据私吞奖金](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E4%BA%A4%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%B1%86%E5%8C%85%E4%BC%AA%E9%80%A0%E8%AF%81%E6%8D%AE%E7%A7%81%E5%90%9E%E5%A5%96%E9%87%91)
+1. [全国多个丘成桐少年班被叫停](https://www.zhihu.com/search?q=%E5%85%A8%E5%9B%BD%E5%A4%9A%E4%B8%AA%E4%B8%98%E6%88%90%E6%A1%90%E5%B0%91%E5%B9%B4%E7%8F%AD%E8%A2%AB%E5%8F%AB%E5%81%9C)
 1. [马斯克儿子穿新中式学普通话](https://www.zhihu.com/search?q=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%84%BF%E5%AD%90%E7%A9%BF%E6%96%B0%E4%B8%AD%E5%BC%8F%E5%AD%A6%E6%99%AE%E9%80%9A%E8%AF%9D)
+1. [普京访华](https://www.zhihu.com/search?q=%E6%99%AE%E4%BA%AC%E8%AE%BF%E5%8D%8E)
+1. [中美元首举行会谈](https://www.zhihu.com/search?q=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%B8%BE%E8%A1%8C%E4%BC%9A%E8%B0%88)
+1. [OPPO 高级副总裁职级直降两级](https://www.zhihu.com/search?q=OPPO%20%E9%AB%98%E7%BA%A7%E5%89%AF%E6%80%BB%E8%A3%81%E8%81%8C%E7%BA%A7%E7%9B%B4%E9%99%8D%E4%B8%A4%E7%BA%A7)
 1. [特朗普参观天坛](https://www.zhihu.com/search?q=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%82%E8%A7%82%E5%A4%A9%E5%9D%9B)
 
 <!-- END -->
