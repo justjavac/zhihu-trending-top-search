@@ -14,21 +14,23 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed May 20 2026 07:04:15 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed May 20 2026 11:51:30 GMT+0800 (China Standard Time) -->
 
-1. [上海交大通报学生私吞竞赛奖金](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E4%BA%A4%E5%A4%A7%E9%80%9A%E6%8A%A5%E5%AD%A6%E7%94%9F%E7%A7%81%E5%90%9E%E7%AB%9E%E8%B5%9B%E5%A5%96%E9%87%91)
-1. [耿同学再爆4大学5杰青学术造假](https://www.zhihu.com/search?q=%E8%80%BF%E5%90%8C%E5%AD%A6%E5%86%8D%E7%88%864%E5%A4%A7%E5%AD%A65%E6%9D%B0%E9%9D%92%E5%AD%A6%E6%9C%AF%E9%80%A0%E5%81%87)
 1. [俄罗斯总统普京访华](https://www.zhihu.com/search?q=%E4%BF%84%E7%BD%97%E6%96%AF%E6%80%BB%E7%BB%9F%E6%99%AE%E4%BA%AC%E8%AE%BF%E5%8D%8E)
-1. [特朗普明确表态不希望台湾独立](https://www.zhihu.com/search?q=%E7%89%B9%E6%9C%97%E6%99%AE%E6%98%8E%E7%A1%AE%E8%A1%A8%E6%80%81%E4%B8%8D%E5%B8%8C%E6%9C%9B%E5%8F%B0%E6%B9%BE%E7%8B%AC%E7%AB%8B)
+1. [上海交大通报学生私吞竞赛奖金](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E4%BA%A4%E5%A4%A7%E9%80%9A%E6%8A%A5%E5%AD%A6%E7%94%9F%E7%A7%81%E5%90%9E%E7%AB%9E%E8%B5%9B%E5%A5%96%E9%87%91)
+1. [2026谷歌开发者大会](https://www.zhihu.com/search?q=2026%E8%B0%B7%E6%AD%8C%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E4%BC%9A)
+1. [湖南石门强降雨致5死11失联](https://www.zhihu.com/search?q=%E6%B9%96%E5%8D%97%E7%9F%B3%E9%97%A8%E5%BC%BA%E9%99%8D%E9%9B%A8%E8%87%B45%E6%AD%BB11%E5%A4%B1%E8%81%94)
+1. [耿同学再爆4大学5杰青学术造假](https://www.zhihu.com/search?q=%E8%80%BF%E5%90%8C%E5%AD%A6%E5%86%8D%E7%88%864%E5%A4%A7%E5%AD%A65%E6%9D%B0%E9%9D%92%E5%AD%A6%E6%9C%AF%E9%80%A0%E5%81%87)
+1. [汪涵道歉](https://www.zhihu.com/search?q=%E6%B1%AA%E6%B6%B5%E9%81%93%E6%AD%89)
 1. [洁丽雅晒公证书](https://www.zhihu.com/search?q=%E6%B4%81%E4%B8%BD%E9%9B%85%E6%99%92%E5%85%AC%E8%AF%81%E4%B9%A6)
 1. [洁丽雅家族被质疑家庭关系混乱](https://www.zhihu.com/search?q=%E6%B4%81%E4%B8%BD%E9%9B%85%E5%AE%B6%E6%97%8F%E8%A2%AB%E8%B4%A8%E7%96%91%E5%AE%B6%E5%BA%AD%E5%85%B3%E7%B3%BB%E6%B7%B7%E4%B9%B1)
 1. [电影《监狱来的妈妈》引争议](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1%E3%80%8A%E7%9B%91%E7%8B%B1%E6%9D%A5%E7%9A%84%E5%A6%88%E5%A6%88%E3%80%8B%E5%BC%95%E4%BA%89%E8%AE%AE)
 1. [方岱宁院士逝世](https://www.zhihu.com/search?q=%E6%96%B9%E5%B2%B1%E5%AE%81%E9%99%A2%E5%A3%AB%E9%80%9D%E4%B8%96)
+1. [武汉一村庄 585 人 62 人患癌](https://www.zhihu.com/search?q=%E6%AD%A6%E6%B1%89%E4%B8%80%E6%9D%91%E5%BA%84%20585%20%E4%BA%BA%2062%20%E4%BA%BA%E6%82%A3%E7%99%8C)
+1. [沈奕斐硬刚小学生家长举报](https://www.zhihu.com/search?q=%E6%B2%88%E5%A5%95%E6%96%90%E7%A1%AC%E5%88%9A%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%AE%B6%E9%95%BF%E4%B8%BE%E6%8A%A5)
+1. [特朗普明确表态不希望台湾独立](https://www.zhihu.com/search?q=%E7%89%B9%E6%9C%97%E6%99%AE%E6%98%8E%E7%A1%AE%E8%A1%A8%E6%80%81%E4%B8%8D%E5%B8%8C%E6%9C%9B%E5%8F%B0%E6%B9%BE%E7%8B%AC%E7%AB%8B)
 1. [女孩考倒数第一 爸爸淡定逆向教育](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%A9%E8%80%83%E5%80%92%E6%95%B0%E7%AC%AC%E4%B8%80%20%E7%88%B8%E7%88%B8%E6%B7%A1%E5%AE%9A%E9%80%86%E5%90%91%E6%95%99%E8%82%B2)
 1. [张雪机车拿下第五冠](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E6%8B%BF%E4%B8%8B%E7%AC%AC%E4%BA%94%E5%86%A0)
-1. [沈奕斐硬刚小学生家长举报](https://www.zhihu.com/search?q=%E6%B2%88%E5%A5%95%E6%96%90%E7%A1%AC%E5%88%9A%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%AE%B6%E9%95%BF%E4%B8%BE%E6%8A%A5)
-1. [武汉一村庄 585 人 62 人患癌](https://www.zhihu.com/search?q=%E6%AD%A6%E6%B1%89%E4%B8%80%E6%9D%91%E5%BA%84%20585%20%E4%BA%BA%2062%20%E4%BA%BA%E6%82%A3%E7%99%8C)
-1. [2026谷歌开发者大会](https://www.zhihu.com/search?q=2026%E8%B0%B7%E6%AD%8C%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E4%BC%9A)
 
 <!-- END -->
 
