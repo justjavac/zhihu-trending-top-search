@@ -14,20 +14,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu May 21 2026 16:00:31 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu May 21 2026 20:15:21 GMT+0800 (China Standard Time) -->
 
 1. [上海交大给予樊同学严重警告处分](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E4%BA%A4%E5%A4%A7%E7%BB%99%E4%BA%88%E6%A8%8A%E5%90%8C%E5%AD%A6%E4%B8%A5%E9%87%8D%E8%AD%A6%E5%91%8A%E5%A4%84%E5%88%86)
 1. [耿同学再爆4大学5杰青学术造假](https://www.zhihu.com/search?q=%E8%80%BF%E5%90%8C%E5%AD%A6%E5%86%8D%E7%88%864%E5%A4%A7%E5%AD%A65%E6%9D%B0%E9%9D%92%E5%AD%A6%E6%9C%AF%E9%80%A0%E5%81%87)
-1. [英伟达财报](https://www.zhihu.com/search?q=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%B4%A2%E6%8A%A5)
 1. [上海第二工业大学学生课上「暴走」](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E7%AC%AC%E4%BA%8C%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6%E5%AD%A6%E7%94%9F%E8%AF%BE%E4%B8%8A%E3%80%8C%E6%9A%B4%E8%B5%B0%E3%80%8D)
-1. [OpenAI模型破解平面单位距离猜想](https://www.zhihu.com/search?q=OpenAI%E6%A8%A1%E5%9E%8B%E7%A0%B4%E8%A7%A3%E5%B9%B3%E9%9D%A2%E5%8D%95%E4%BD%8D%E8%B7%9D%E7%A6%BB%E7%8C%9C%E6%83%B3)
 1. [俄罗斯总统普京结束访华](https://www.zhihu.com/search?q=%E4%BF%84%E7%BD%97%E6%96%AF%E6%80%BB%E7%BB%9F%E6%99%AE%E4%BA%AC%E7%BB%93%E6%9D%9F%E8%AE%BF%E5%8D%8E)
-1. [《中俄睦邻友好合作条约》延期](https://www.zhihu.com/search?q=%E3%80%8A%E4%B8%AD%E4%BF%84%E7%9D%A6%E9%82%BB%E5%8F%8B%E5%A5%BD%E5%90%88%E4%BD%9C%E6%9D%A1%E7%BA%A6%E3%80%8B%E5%BB%B6%E6%9C%9F)
-1. [武契奇将对中国进行国事访问](https://www.zhihu.com/search?q=%E6%AD%A6%E5%A5%91%E5%A5%87%E5%B0%86%E5%AF%B9%E4%B8%AD%E5%9B%BD%E8%BF%9B%E8%A1%8C%E5%9B%BD%E4%BA%8B%E8%AE%BF%E9%97%AE)
+1. [OpenAI模型破解平面单位距离猜想](https://www.zhihu.com/search?q=OpenAI%E6%A8%A1%E5%9E%8B%E7%A0%B4%E8%A7%A3%E5%B9%B3%E9%9D%A2%E5%8D%95%E4%BD%8D%E8%B7%9D%E7%A6%BB%E7%8C%9C%E6%83%B3)
 1. [电影《监狱来的妈妈》引争议](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1%E3%80%8A%E7%9B%91%E7%8B%B1%E6%9D%A5%E7%9A%84%E5%A6%88%E5%A6%88%E3%80%8B%E5%BC%95%E4%BA%89%E8%AE%AE)
 1. [汪涵就担任《监狱来的妈妈》出品人道歉](https://www.zhihu.com/search?q=%E6%B1%AA%E6%B6%B5%E5%B0%B1%E6%8B%85%E4%BB%BB%E3%80%8A%E7%9B%91%E7%8B%B1%E6%9D%A5%E7%9A%84%E5%A6%88%E5%A6%88%E3%80%8B%E5%87%BA%E5%93%81%E4%BA%BA%E9%81%93%E6%AD%89)
-1. [杨子家族疯狂套现超 28 亿](https://www.zhihu.com/search?q=%E6%9D%A8%E5%AD%90%E5%AE%B6%E6%97%8F%E7%96%AF%E7%8B%82%E5%A5%97%E7%8E%B0%E8%B6%85%2028%20%E4%BA%BF)
+1. [英伟达财报](https://www.zhihu.com/search?q=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%B4%A2%E6%8A%A5)
 1. [电影《监狱来的妈妈》](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1%E3%80%8A%E7%9B%91%E7%8B%B1%E6%9D%A5%E7%9A%84%E5%A6%88%E5%A6%88%E3%80%8B)
+1. [王力宏承认用代言费买比亚迪股票](https://www.zhihu.com/search?q=%E7%8E%8B%E5%8A%9B%E5%AE%8F%E6%89%BF%E8%AE%A4%E7%94%A8%E4%BB%A3%E8%A8%80%E8%B4%B9%E4%B9%B0%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%82%A1%E7%A5%A8)
+1. [杨子家族疯狂套现超 28 亿](https://www.zhihu.com/search?q=%E6%9D%A8%E5%AD%90%E5%AE%B6%E6%97%8F%E7%96%AF%E7%8B%82%E5%A5%97%E7%8E%B0%E8%B6%85%2028%20%E4%BA%BF)
+1. [武契奇将对中国进行国事访问](https://www.zhihu.com/search?q=%E6%AD%A6%E5%A5%91%E5%A5%87%E5%B0%86%E5%AF%B9%E4%B8%AD%E5%9B%BD%E8%BF%9B%E8%A1%8C%E5%9B%BD%E4%BA%8B%E8%AE%BF%E9%97%AE)
+1. [《中俄睦邻友好合作条约》延期](https://www.zhihu.com/search?q=%E3%80%8A%E4%B8%AD%E4%BF%84%E7%9D%A6%E9%82%BB%E5%8F%8B%E5%A5%BD%E5%90%88%E4%BD%9C%E6%9D%A1%E7%BA%A6%E3%80%8B%E5%BB%B6%E6%9C%9F)
 1. [商务部解读中美经贸磋商初步成果](https://www.zhihu.com/search?q=%E5%95%86%E5%8A%A1%E9%83%A8%E8%A7%A3%E8%AF%BB%E4%B8%AD%E7%BE%8E%E7%BB%8F%E8%B4%B8%E7%A3%8B%E5%95%86%E5%88%9D%E6%AD%A5%E6%88%90%E6%9E%9C)
 1. [泰国取消90国公民60天免签](https://www.zhihu.com/search?q=%E6%B3%B0%E5%9B%BD%E5%8F%96%E6%B6%8890%E5%9B%BD%E5%85%AC%E6%B0%9160%E5%A4%A9%E5%85%8D%E7%AD%BE)
 1. [上海交大通报学生私吞竞赛奖金](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E4%BA%A4%E5%A4%A7%E9%80%9A%E6%8A%A5%E5%AD%A6%E7%94%9F%E7%A7%81%E5%90%9E%E7%AB%9E%E8%B5%9B%E5%A5%96%E9%87%91)
