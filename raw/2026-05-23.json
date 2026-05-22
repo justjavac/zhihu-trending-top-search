@@ -1,8 +1,7 @@
 [
-  { "query_display": "官方通报《监狱来的妈妈》违规行为", "real_query": "官方通报《监狱来的妈妈》违规行为" },
   { "query_display": "中国证监会拟严厉处罚老虎富途长桥", "real_query": "中国证监会拟严厉处罚老虎富途长桥" },
-  { "query_display": "朱民称中国已成全球最后贷款人", "real_query": "朱民称中国已成全球最后贷款人" },
   { "query_display": "雷军强烈建议大家现在就换手机", "real_query": "雷军强烈建议大家现在就换手机" },
+  { "query_display": "朱民称中国已成全球最后贷款人", "real_query": "朱民称中国已成全球最后贷款人" },
   { "query_display": "OpenAI模型破解平面单位距离猜想", "real_query": "OpenAI模型破解平面单位距离猜想" },
   { "query_display": "景甜代孕协议疑曝光 工作室辟谣", "real_query": "景甜代孕协议疑曝光 工作室辟谣" },
   { "query_display": "《澎湖海战》定档 7 月 25 日", "real_query": "《澎湖海战》定档 7 月 25 日" },
@@ -11,5 +10,6 @@
   { "query_display": "河南开封尉氏县多人呕吐", "real_query": "河南开封尉氏县多人呕吐" },
   { "query_display": "广州一大学生辱骂授课老师「破服务员」", "real_query": "广州一大学生辱骂授课老师「破服务员」" },
   { "query_display": "女子收 22 万彩礼拉黑准新郎", "real_query": "女子收 22 万彩礼拉黑准新郎" },
-  { "query_display": "塞尔维亚总统武契奇访华", "real_query": "塞尔维亚总统武契奇访华" }
+  { "query_display": "塞尔维亚总统武契奇访华", "real_query": "塞尔维亚总统武契奇访华" },
+  { "query_display": "官方通报《监狱来的妈妈》违规行为", "real_query": "官方通报《监狱来的妈妈》违规行为" }
 ]
