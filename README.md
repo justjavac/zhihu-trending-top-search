@@ -14,20 +14,25 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri May 22 2026 08:04:53 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri May 22 2026 13:02:39 GMT+0800 (China Standard Time) -->
 
 1. [上海交大给予樊同学严重警告处分](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E4%BA%A4%E5%A4%A7%E7%BB%99%E4%BA%88%E6%A8%8A%E5%90%8C%E5%AD%A6%E4%B8%A5%E9%87%8D%E8%AD%A6%E5%91%8A%E5%A4%84%E5%88%86)
-1. [耿同学再爆4大学5杰青学术造假](https://www.zhihu.com/search?q=%E8%80%BF%E5%90%8C%E5%AD%A6%E5%86%8D%E7%88%864%E5%A4%A7%E5%AD%A65%E6%9D%B0%E9%9D%92%E5%AD%A6%E6%9C%AF%E9%80%A0%E5%81%87)
 1. [上海第二工业大学学生课上「暴走」](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E7%AC%AC%E4%BA%8C%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6%E5%AD%A6%E7%94%9F%E8%AF%BE%E4%B8%8A%E3%80%8C%E6%9A%B4%E8%B5%B0%E3%80%8D)
+1. [官方通报《监狱来的妈妈》违规行为](https://www.zhihu.com/search?q=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E3%80%8A%E7%9B%91%E7%8B%B1%E6%9D%A5%E7%9A%84%E5%A6%88%E5%A6%88%E3%80%8B%E8%BF%9D%E8%A7%84%E8%A1%8C%E4%B8%BA)
 1. [电影《监狱来的妈妈》引争议](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1%E3%80%8A%E7%9B%91%E7%8B%B1%E6%9D%A5%E7%9A%84%E5%A6%88%E5%A6%88%E3%80%8B%E5%BC%95%E4%BA%89%E8%AE%AE)
+1. [OpenAI模型破解平面单位距离猜想](https://www.zhihu.com/search?q=OpenAI%E6%A8%A1%E5%9E%8B%E7%A0%B4%E8%A7%A3%E5%B9%B3%E9%9D%A2%E5%8D%95%E4%BD%8D%E8%B7%9D%E7%A6%BB%E7%8C%9C%E6%83%B3)
+1. [小米YU7 GT正式上市](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3YU7%20GT%E6%AD%A3%E5%BC%8F%E4%B8%8A%E5%B8%82)
+1. [沈奕斐硬刚小学生家长举报](https://www.zhihu.com/search?q=%E6%B2%88%E5%A5%95%E6%96%90%E7%A1%AC%E5%88%9A%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%AE%B6%E9%95%BF%E4%B8%BE%E6%8A%A5)
+1. [朱民称中国已成全球最后贷款人](https://www.zhihu.com/search?q=%E6%9C%B1%E6%B0%91%E7%A7%B0%E4%B8%AD%E5%9B%BD%E5%B7%B2%E6%88%90%E5%85%A8%E7%90%83%E6%9C%80%E5%90%8E%E8%B4%B7%E6%AC%BE%E4%BA%BA)
+1. [星舰第12次试飞](https://www.zhihu.com/search?q=%E6%98%9F%E8%88%B0%E7%AC%AC12%E6%AC%A1%E8%AF%95%E9%A3%9E)
+1. [英伟达财报](https://www.zhihu.com/search?q=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%B4%A2%E6%8A%A5)
+1. [塞尔维亚总统武契奇访华](https://www.zhihu.com/search?q=%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%E6%80%BB%E7%BB%9F%E6%AD%A6%E5%A5%91%E5%A5%87%E8%AE%BF%E5%8D%8E)
+1. [5 月 21 日 A 股市场](https://www.zhihu.com/search?q=5%20%E6%9C%88%2021%20%E6%97%A5%20A%20%E8%82%A1%E5%B8%82%E5%9C%BA)
+1. [耿同学再爆4大学5杰青学术造假](https://www.zhihu.com/search?q=%E8%80%BF%E5%90%8C%E5%AD%A6%E5%86%8D%E7%88%864%E5%A4%A7%E5%AD%A65%E6%9D%B0%E9%9D%92%E5%AD%A6%E6%9C%AF%E9%80%A0%E5%81%87)
 1. [汪涵就担任《监狱来的妈妈》出品人道歉](https://www.zhihu.com/search?q=%E6%B1%AA%E6%B6%B5%E5%B0%B1%E6%8B%85%E4%BB%BB%E3%80%8A%E7%9B%91%E7%8B%B1%E6%9D%A5%E7%9A%84%E5%A6%88%E5%A6%88%E3%80%8B%E5%87%BA%E5%93%81%E4%BA%BA%E9%81%93%E6%AD%89)
 1. [俄罗斯总统普京结束访华](https://www.zhihu.com/search?q=%E4%BF%84%E7%BD%97%E6%96%AF%E6%80%BB%E7%BB%9F%E6%99%AE%E4%BA%AC%E7%BB%93%E6%9D%9F%E8%AE%BF%E5%8D%8E)
-1. [官方通报《监狱来的妈妈》违规行为](https://www.zhihu.com/search?q=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E3%80%8A%E7%9B%91%E7%8B%B1%E6%9D%A5%E7%9A%84%E5%A6%88%E5%A6%88%E3%80%8B%E8%BF%9D%E8%A7%84%E8%A1%8C%E4%B8%BA)
 1. [电影《监狱来的妈妈》](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1%E3%80%8A%E7%9B%91%E7%8B%B1%E6%9D%A5%E7%9A%84%E5%A6%88%E5%A6%88%E3%80%8B)
-1. [OpenAI模型破解平面单位距离猜想](https://www.zhihu.com/search?q=OpenAI%E6%A8%A1%E5%9E%8B%E7%A0%B4%E8%A7%A3%E5%B9%B3%E9%9D%A2%E5%8D%95%E4%BD%8D%E8%B7%9D%E7%A6%BB%E7%8C%9C%E6%83%B3)
-1. [英伟达财报](https://www.zhihu.com/search?q=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%B4%A2%E6%8A%A5)
 1. [长鑫存储IPO市值超南京总和](https://www.zhihu.com/search?q=%E9%95%BF%E9%91%AB%E5%AD%98%E5%82%A8IPO%E5%B8%82%E5%80%BC%E8%B6%85%E5%8D%97%E4%BA%AC%E6%80%BB%E5%92%8C)
-1. [沈奕斐硬刚小学生家长举报](https://www.zhihu.com/search?q=%E6%B2%88%E5%A5%95%E6%96%90%E7%A1%AC%E5%88%9A%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%AE%B6%E9%95%BF%E4%B8%BE%E6%8A%A5)
 
 <!-- END -->
 
