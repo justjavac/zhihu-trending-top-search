@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun May 24 2026 05:58:37 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun May 24 2026 07:00:40 GMT+0800 (China Standard Time) -->
 
 1. [雷军强烈建议大家现在就换手机](https://www.zhihu.com/search?q=%E9%9B%B7%E5%86%9B%E5%BC%BA%E7%83%88%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E7%8E%B0%E5%9C%A8%E5%B0%B1%E6%8D%A2%E6%89%8B%E6%9C%BA)
 1. [中国证监会拟严厉处罚老虎富途长桥](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E8%AF%81%E7%9B%91%E4%BC%9A%E6%8B%9F%E4%B8%A5%E5%8E%89%E5%A4%84%E7%BD%9A%E8%80%81%E8%99%8E%E5%AF%8C%E9%80%94%E9%95%BF%E6%A1%A5)
