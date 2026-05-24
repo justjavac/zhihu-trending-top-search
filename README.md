@@ -14,19 +14,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun May 24 2026 19:20:35 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun May 24 2026 21:41:04 GMT+0800 (China Standard Time) -->
 
 1. [山西沁源一煤矿发生事故](https://www.zhihu.com/search?q=%E5%B1%B1%E8%A5%BF%E6%B2%81%E6%BA%90%E4%B8%80%E7%85%A4%E7%9F%BF%E5%8F%91%E7%94%9F%E4%BA%8B%E6%95%85)
 1. [金秀贤从全民唾骂到沉冤得雪](https://www.zhihu.com/search?q=%E9%87%91%E7%A7%80%E8%B4%A4%E4%BB%8E%E5%85%A8%E6%B0%91%E5%94%BE%E9%AA%82%E5%88%B0%E6%B2%89%E5%86%A4%E5%BE%97%E9%9B%AA)
-1. [中国证监会拟严厉处罚老虎富途长桥](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E8%AF%81%E7%9B%91%E4%BC%9A%E6%8B%9F%E4%B8%A5%E5%8E%89%E5%A4%84%E7%BD%9A%E8%80%81%E8%99%8E%E5%AF%8C%E9%80%94%E9%95%BF%E6%A1%A5)
+1. [神舟二十三号](https://www.zhihu.com/search?q=%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E4%B8%89%E5%8F%B7)
+1. [重庆永川特大暴雨多人失联](https://www.zhihu.com/search?q=%E9%87%8D%E5%BA%86%E6%B0%B8%E5%B7%9D%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%A8%E5%A4%9A%E4%BA%BA%E5%A4%B1%E8%81%94)
 1. [景甜代孕协议疑曝光 工作室辟谣](https://www.zhihu.com/search?q=%E6%99%AF%E7%94%9C%E4%BB%A3%E5%AD%95%E5%8D%8F%E8%AE%AE%E7%96%91%E6%9B%9D%E5%85%89%20%E5%B7%A5%E4%BD%9C%E5%AE%A4%E8%BE%9F%E8%B0%A3)
 1. [王鹤棣 沈月](https://www.zhihu.com/search?q=%E7%8E%8B%E9%B9%A4%E6%A3%A3%20%E6%B2%88%E6%9C%88)
-1. [《澎湖海战》定档 7 月 25 日](https://www.zhihu.com/search?q=%E3%80%8A%E6%BE%8E%E6%B9%96%E6%B5%B7%E6%88%98%E3%80%8B%E5%AE%9A%E6%A1%A3%207%20%E6%9C%88%2025%20%E6%97%A5)
+1. [中国证监会拟严厉处罚老虎富途长桥](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E8%AF%81%E7%9B%91%E4%BC%9A%E6%8B%9F%E4%B8%A5%E5%8E%89%E5%A4%84%E7%BD%9A%E8%80%81%E8%99%8E%E5%AF%8C%E9%80%94%E9%95%BF%E6%A1%A5)
 1. [DeepSeek永久降价](https://www.zhihu.com/search?q=DeepSeek%E6%B0%B8%E4%B9%85%E9%99%8D%E4%BB%B7)
-1. [《歌手 2026》第一期](https://www.zhihu.com/search?q=%E3%80%8A%E6%AD%8C%E6%89%8B%202026%E3%80%8B%E7%AC%AC%E4%B8%80%E6%9C%9F)
 1. [国务院调查组将调查留神峪煤矿事故](https://www.zhihu.com/search?q=%E5%9B%BD%E5%8A%A1%E9%99%A2%E8%B0%83%E6%9F%A5%E7%BB%84%E5%B0%86%E8%B0%83%E6%9F%A5%E7%95%99%E7%A5%9E%E5%B3%AA%E7%85%A4%E7%9F%BF%E4%BA%8B%E6%95%85)
+1. [《歌手 2026》第一期](https://www.zhihu.com/search?q=%E3%80%8A%E6%AD%8C%E6%89%8B%202026%E3%80%8B%E7%AC%AC%E4%B8%80%E6%9C%9F)
 1. [洛克王国平衡改动](https://www.zhihu.com/search?q=%E6%B4%9B%E5%85%8B%E7%8E%8B%E5%9B%BD%E5%B9%B3%E8%A1%A1%E6%94%B9%E5%8A%A8)
 1. [伊朗会不会成为下一个伊拉克](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E4%BC%9A%E4%B8%8D%E4%BC%9A%E6%88%90%E4%B8%BA%E4%B8%8B%E4%B8%80%E4%B8%AA%E4%BC%8A%E6%8B%89%E5%85%8B)
+1. [《澎湖海战》定档 7 月 25 日](https://www.zhihu.com/search?q=%E3%80%8A%E6%BE%8E%E6%B9%96%E6%B5%B7%E6%88%98%E3%80%8B%E5%AE%9A%E6%A1%A3%207%20%E6%9C%88%2025%20%E6%97%A5)
 1. [马斯克SpaceX星舰V3首飞成功](https://www.zhihu.com/search?q=%E9%A9%AC%E6%96%AF%E5%85%8BSpaceX%E6%98%9F%E8%88%B0V3%E9%A6%96%E9%A3%9E%E6%88%90%E5%8A%9F)
 1. [山西煤矿事故伤者主要因有毒气体](https://www.zhihu.com/search?q=%E5%B1%B1%E8%A5%BF%E7%85%A4%E7%9F%BF%E4%BA%8B%E6%95%85%E4%BC%A4%E8%80%85%E4%B8%BB%E8%A6%81%E5%9B%A0%E6%9C%89%E6%AF%92%E6%B0%94%E4%BD%93)
 1. [DeepSeek V4 Pro 永久降价至原价1/4](https://www.zhihu.com/search?q=DeepSeek%20V4%20Pro%20%E6%B0%B8%E4%B9%85%E9%99%8D%E4%BB%B7%E8%87%B3%E5%8E%9F%E4%BB%B71%2F4)
