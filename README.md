@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue May 26 2026 03:44:16 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue May 26 2026 05:11:31 GMT+0800 (China Standard Time) -->
 
 1. [王鹤棣 沈月](https://www.zhihu.com/search?q=%E7%8E%8B%E9%B9%A4%E6%A3%A3%20%E6%B2%88%E6%9C%88)
 1. [华为发表半导体领域新定律](https://www.zhihu.com/search?q=%E5%8D%8E%E4%B8%BA%E5%8F%91%E8%A1%A8%E5%8D%8A%E5%AF%BC%E4%BD%93%E9%A2%86%E5%9F%9F%E6%96%B0%E5%AE%9A%E5%BE%8B)
@@ -24,10 +24,10 @@
 1. [重庆永川特大暴雨多人失联](https://www.zhihu.com/search?q=%E9%87%8D%E5%BA%86%E6%B0%B8%E5%B7%9D%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%A8%E5%A4%9A%E4%BA%BA%E5%A4%B1%E8%81%94)
 1. [DeepSeek永久降价](https://www.zhihu.com/search?q=DeepSeek%E6%B0%B8%E4%B9%85%E9%99%8D%E4%BB%B7)
 1. [中国证监会拟严厉处罚老虎富途长桥](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E8%AF%81%E7%9B%91%E4%BC%9A%E6%8B%9F%E4%B8%A5%E5%8E%89%E5%A4%84%E7%BD%9A%E8%80%81%E8%99%8E%E5%AF%8C%E9%80%94%E9%95%BF%E6%A1%A5)
-1. [华为麒麟 2026 手机芯片今秋面世](https://www.zhihu.com/search?q=%E5%8D%8E%E4%B8%BA%E9%BA%92%E9%BA%9F%202026%20%E6%89%8B%E6%9C%BA%E8%8A%AF%E7%89%87%E4%BB%8A%E7%A7%8B%E9%9D%A2%E4%B8%96)
 1. [福建杨梅协会会长恳求给果农生路](https://www.zhihu.com/search?q=%E7%A6%8F%E5%BB%BA%E6%9D%A8%E6%A2%85%E5%8D%8F%E4%BC%9A%E4%BC%9A%E9%95%BF%E6%81%B3%E6%B1%82%E7%BB%99%E6%9E%9C%E5%86%9C%E7%94%9F%E8%B7%AF)
-1. [塞尔维亚总统武契奇访华](https://www.zhihu.com/search?q=%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%E6%80%BB%E7%BB%9F%E6%AD%A6%E5%A5%91%E5%A5%87%E8%AE%BF%E5%8D%8E)
+1. [华为麒麟 2026 手机芯片今秋面世](https://www.zhihu.com/search?q=%E5%8D%8E%E4%B8%BA%E9%BA%92%E9%BA%9F%202026%20%E6%89%8B%E6%9C%BA%E8%8A%AF%E7%89%87%E4%BB%8A%E7%A7%8B%E9%9D%A2%E4%B8%96)
 1. [北师大称剩饭事件非本校师生](https://www.zhihu.com/search?q=%E5%8C%97%E5%B8%88%E5%A4%A7%E7%A7%B0%E5%89%A9%E9%A5%AD%E4%BA%8B%E4%BB%B6%E9%9D%9E%E6%9C%AC%E6%A0%A1%E5%B8%88%E7%94%9F)
+1. [塞尔维亚总统武契奇访华](https://www.zhihu.com/search?q=%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%E6%80%BB%E7%BB%9F%E6%AD%A6%E5%A5%91%E5%A5%87%E8%AE%BF%E5%8D%8E)
 1. [神舟二十三号发射成功](https://www.zhihu.com/search?q=%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E4%B8%89%E5%8F%B7%E5%8F%91%E5%B0%84%E6%88%90%E5%8A%9F)
 
 <!-- END -->
