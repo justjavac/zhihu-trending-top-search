@@ -14,23 +14,25 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon May 25 2026 18:13:18 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon May 25 2026 22:09:23 GMT+0800 (China Standard Time) -->
 
-1. [王鹤棣 沈月](https://www.zhihu.com/search?q=%E7%8E%8B%E9%B9%A4%E6%A3%A3%20%E6%B2%88%E6%9C%88)
-1. [山西沁源一煤矿发生事故](https://www.zhihu.com/search?q=%E5%B1%B1%E8%A5%BF%E6%B2%81%E6%BA%90%E4%B8%80%E7%85%A4%E7%9F%BF%E5%8F%91%E7%94%9F%E4%BA%8B%E6%95%85)
 1. [华为发表半导体领域新定律](https://www.zhihu.com/search?q=%E5%8D%8E%E4%B8%BA%E5%8F%91%E8%A1%A8%E5%8D%8A%E5%AF%BC%E4%BD%93%E9%A2%86%E5%9F%9F%E6%96%B0%E5%AE%9A%E5%BE%8B)
+1. [山西沁源一煤矿发生事故](https://www.zhihu.com/search?q=%E5%B1%B1%E8%A5%BF%E6%B2%81%E6%BA%90%E4%B8%80%E7%85%A4%E7%9F%BF%E5%8F%91%E7%94%9F%E4%BA%8B%E6%95%85)
+1. [王鹤棣 沈月](https://www.zhihu.com/search?q=%E7%8E%8B%E9%B9%A4%E6%A3%A3%20%E6%B2%88%E6%9C%88)
 1. [重庆永川特大暴雨多人失联](https://www.zhihu.com/search?q=%E9%87%8D%E5%BA%86%E6%B0%B8%E5%B7%9D%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%A8%E5%A4%9A%E4%BA%BA%E5%A4%B1%E8%81%94)
-1. [中国证监会拟严厉处罚老虎富途长桥](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E8%AF%81%E7%9B%91%E4%BC%9A%E6%8B%9F%E4%B8%A5%E5%8E%89%E5%A4%84%E7%BD%9A%E8%80%81%E8%99%8E%E5%AF%8C%E9%80%94%E9%95%BF%E6%A1%A5)
-1. [杨梅收购商跑光价格从20元跌到8毛](https://www.zhihu.com/search?q=%E6%9D%A8%E6%A2%85%E6%94%B6%E8%B4%AD%E5%95%86%E8%B7%91%E5%85%89%E4%BB%B7%E6%A0%BC%E4%BB%8E20%E5%85%83%E8%B7%8C%E5%88%B08%E6%AF%9B)
-1. [李晨郑恺跑男停宣](https://www.zhihu.com/search?q=%E6%9D%8E%E6%99%A8%E9%83%91%E6%81%BA%E8%B7%91%E7%94%B7%E5%81%9C%E5%AE%A3)
+1. [DeepSeek永久降价](https://www.zhihu.com/search?q=DeepSeek%E6%B0%B8%E4%B9%85%E9%99%8D%E4%BB%B7)
 1. [男子踩中蛇窝被咬 10 多口](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%90%E8%B8%A9%E4%B8%AD%E8%9B%87%E7%AA%9D%E8%A2%AB%E5%92%AC%2010%20%E5%A4%9A%E5%8F%A3)
+1. [杨梅收购商跑光价格从20元跌到8毛](https://www.zhihu.com/search?q=%E6%9D%A8%E6%A2%85%E6%94%B6%E8%B4%AD%E5%95%86%E8%B7%91%E5%85%89%E4%BB%B7%E6%A0%BC%E4%BB%8E20%E5%85%83%E8%B7%8C%E5%88%B08%E6%AF%9B)
+1. [中国证监会拟严厉处罚老虎富途长桥](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E8%AF%81%E7%9B%91%E4%BC%9A%E6%8B%9F%E4%B8%A5%E5%8E%89%E5%A4%84%E7%BD%9A%E8%80%81%E8%99%8E%E5%AF%8C%E9%80%94%E9%95%BF%E6%A1%A5)
 1. [《歌手 2026》第一期](https://www.zhihu.com/search?q=%E3%80%8A%E6%AD%8C%E6%89%8B%202026%E3%80%8B%E7%AC%AC%E4%B8%80%E6%9C%9F)
+1. [华为麒麟 2026 手机芯片今秋面世](https://www.zhihu.com/search?q=%E5%8D%8E%E4%B8%BA%E9%BA%92%E9%BA%9F%202026%20%E6%89%8B%E6%9C%BA%E8%8A%AF%E7%89%87%E4%BB%8A%E7%A7%8B%E9%9D%A2%E4%B8%96)
 1. [神舟二十三号发射成功](https://www.zhihu.com/search?q=%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E4%B8%89%E5%8F%B7%E5%8F%91%E5%B0%84%E6%88%90%E5%8A%9F)
+1. [疑似王鹤棣经纪人回应争议](https://www.zhihu.com/search?q=%E7%96%91%E4%BC%BC%E7%8E%8B%E9%B9%A4%E6%A3%A3%E7%BB%8F%E7%BA%AA%E4%BA%BA%E5%9B%9E%E5%BA%94%E4%BA%89%E8%AE%AE)
+1. [李晨郑恺跑男停宣](https://www.zhihu.com/search?q=%E6%9D%8E%E6%99%A8%E9%83%91%E6%81%BA%E8%B7%91%E7%94%B7%E5%81%9C%E5%AE%A3)
 1. [马斯克SpaceX星舰V3首飞成功](https://www.zhihu.com/search?q=%E9%A9%AC%E6%96%AF%E5%85%8BSpaceX%E6%98%9F%E8%88%B0V3%E9%A6%96%E9%A3%9E%E6%88%90%E5%8A%9F)
 1. [塞尔维亚总统武契奇访华](https://www.zhihu.com/search?q=%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%E6%80%BB%E7%BB%9F%E6%AD%A6%E5%A5%91%E5%A5%87%E8%AE%BF%E5%8D%8E)
 1. [金秀贤从全民唾骂到沉冤得雪](https://www.zhihu.com/search?q=%E9%87%91%E7%A7%80%E8%B4%A4%E4%BB%8E%E5%85%A8%E6%B0%91%E5%94%BE%E9%AA%82%E5%88%B0%E6%B2%89%E5%86%A4%E5%BE%97%E9%9B%AA)
 1. [湖南医师群发私密照](https://www.zhihu.com/search?q=%E6%B9%96%E5%8D%97%E5%8C%BB%E5%B8%88%E7%BE%A4%E5%8F%91%E7%A7%81%E5%AF%86%E7%85%A7)
-1. [DeepSeek永久降价](https://www.zhihu.com/search?q=DeepSeek%E6%B0%B8%E4%B9%85%E9%99%8D%E4%BB%B7)
 1. [百万粉丝女网红上厕所被偷拍](https://www.zhihu.com/search?q=%E7%99%BE%E4%B8%87%E7%B2%89%E4%B8%9D%E5%A5%B3%E7%BD%91%E7%BA%A2%E4%B8%8A%E5%8E%95%E6%89%80%E8%A2%AB%E5%81%B7%E6%8B%8D)
 1. [美国申请绿卡须回原籍国](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E7%94%B3%E8%AF%B7%E7%BB%BF%E5%8D%A1%E9%A1%BB%E5%9B%9E%E5%8E%9F%E7%B1%8D%E5%9B%BD)
 1. [洛克王国平衡改动](https://www.zhihu.com/search?q=%E6%B4%9B%E5%85%8B%E7%8E%8B%E5%9B%BD%E5%B9%B3%E8%A1%A1%E6%94%B9%E5%8A%A8)
