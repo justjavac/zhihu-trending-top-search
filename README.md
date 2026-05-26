@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed May 27 2026 04:54:50 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed May 27 2026 06:21:33 GMT+0800 (China Standard Time) -->
 
 1. [王鹤棣 沈月](https://www.zhihu.com/search?q=%E7%8E%8B%E9%B9%A4%E6%A3%A3%20%E6%B2%88%E6%9C%88)
 1. [华为发表半导体领域新定律](https://www.zhihu.com/search?q=%E5%8D%8E%E4%B8%BA%E5%8F%91%E8%A1%A8%E5%8D%8A%E5%AF%BC%E4%BD%93%E9%A2%86%E5%9F%9F%E6%96%B0%E5%AE%9A%E5%BE%8B)
@@ -23,8 +23,8 @@
 1. [前三体 CEO 许垚投毒被执行死刑](https://www.zhihu.com/search?q=%E5%89%8D%E4%B8%89%E4%BD%93%20CEO%20%E8%AE%B8%E5%9E%9A%E6%8A%95%E6%AF%92%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91)
 1. [救灾女干部戴耳环遭网暴](https://www.zhihu.com/search?q=%E6%95%91%E7%81%BE%E5%A5%B3%E5%B9%B2%E9%83%A8%E6%88%B4%E8%80%B3%E7%8E%AF%E9%81%AD%E7%BD%91%E6%9A%B4)
 1. [盒马粉木耳包装惹争议](https://www.zhihu.com/search?q=%E7%9B%92%E9%A9%AC%E7%B2%89%E6%9C%A8%E8%80%B3%E5%8C%85%E8%A3%85%E6%83%B9%E4%BA%89%E8%AE%AE)
-1. [福建杨梅协会会长恳求给果农生路](https://www.zhihu.com/search?q=%E7%A6%8F%E5%BB%BA%E6%9D%A8%E6%A2%85%E5%8D%8F%E4%BC%9A%E4%BC%9A%E9%95%BF%E6%81%B3%E6%B1%82%E7%BB%99%E6%9E%9C%E5%86%9C%E7%94%9F%E8%B7%AF)
 1. [曝庾澄庆被换了6首歌](https://www.zhihu.com/search?q=%E6%9B%9D%E5%BA%BE%E6%BE%84%E5%BA%86%E8%A2%AB%E6%8D%A2%E4%BA%866%E9%A6%96%E6%AD%8C)
+1. [福建杨梅协会会长恳求给果农生路](https://www.zhihu.com/search?q=%E7%A6%8F%E5%BB%BA%E6%9D%A8%E6%A2%85%E5%8D%8F%E4%BC%9A%E4%BC%9A%E9%95%BF%E6%81%B3%E6%B1%82%E7%BB%99%E6%9E%9C%E5%86%9C%E7%94%9F%E8%B7%AF)
 1. [华为麒麟 2026 手机芯片今秋面世](https://www.zhihu.com/search?q=%E5%8D%8E%E4%B8%BA%E9%BA%92%E9%BA%9F%202026%20%E6%89%8B%E6%9C%BA%E8%8A%AF%E7%89%87%E4%BB%8A%E7%A7%8B%E9%9D%A2%E4%B8%96)
 1. [稻城亚丁景区截断40公里省道收费](https://www.zhihu.com/search?q=%E7%A8%BB%E5%9F%8E%E4%BA%9A%E4%B8%81%E6%99%AF%E5%8C%BA%E6%88%AA%E6%96%AD40%E5%85%AC%E9%87%8C%E7%9C%81%E9%81%93%E6%94%B6%E8%B4%B9)
 1. [塞尔维亚总统武契奇访华](https://www.zhihu.com/search?q=%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%E6%80%BB%E7%BB%9F%E6%AD%A6%E5%A5%91%E5%A5%87%E8%AE%BF%E5%8D%8E)
