@@ -14,13 +14,15 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat May 30 2026 19:22:22 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat May 30 2026 21:44:15 GMT+0800 (China Standard Time) -->
 
+1. [南开大学通报生科院院长学术造假](https://www.zhihu.com/search?q=%E5%8D%97%E5%BC%80%E5%A4%A7%E5%AD%A6%E9%80%9A%E6%8A%A5%E7%94%9F%E7%A7%91%E9%99%A2%E9%99%A2%E9%95%BF%E5%AD%A6%E6%9C%AF%E9%80%A0%E5%81%87)
 1. [释永信一审被判 24 年](https://www.zhihu.com/search?q=%E9%87%8A%E6%B0%B8%E4%BF%A1%E4%B8%80%E5%AE%A1%E8%A2%AB%E5%88%A4%2024%20%E5%B9%B4)
-1. [女大学生被家人骗入戒网瘾学校](https://www.zhihu.com/search?q=%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%A2%AB%E5%AE%B6%E4%BA%BA%E9%AA%97%E5%85%A5%E6%88%92%E7%BD%91%E7%98%BE%E5%AD%A6%E6%A0%A1)
-1. [耿同学讲故事抖音账号被永久限流](https://www.zhihu.com/search?q=%E8%80%BF%E5%90%8C%E5%AD%A6%E8%AE%B2%E6%95%85%E4%BA%8B%E6%8A%96%E9%9F%B3%E8%B4%A6%E5%8F%B7%E8%A2%AB%E6%B0%B8%E4%B9%85%E9%99%90%E6%B5%81)
+1. [中山大学通报论文图片及数据存疑](https://www.zhihu.com/search?q=%E4%B8%AD%E5%B1%B1%E5%A4%A7%E5%AD%A6%E9%80%9A%E6%8A%A5%E8%AE%BA%E6%96%87%E5%9B%BE%E7%89%87%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%AD%98%E7%96%91)
 1. [钱学森从未说过「人再笨还学不会微积分吗」](https://www.zhihu.com/search?q=%E9%92%B1%E5%AD%A6%E6%A3%AE%E4%BB%8E%E6%9C%AA%E8%AF%B4%E8%BF%87%E3%80%8C%E4%BA%BA%E5%86%8D%E7%AC%A8%E8%BF%98%E5%AD%A6%E4%B8%8D%E4%BC%9A%E5%BE%AE%E7%A7%AF%E5%88%86%E5%90%97%E3%80%8D)
 1. [演员林沐然从中戏转入大专](https://www.zhihu.com/search?q=%E6%BC%94%E5%91%98%E6%9E%97%E6%B2%90%E7%84%B6%E4%BB%8E%E4%B8%AD%E6%88%8F%E8%BD%AC%E5%85%A5%E5%A4%A7%E4%B8%93)
+1. [女大学生被家人骗入戒网瘾学校](https://www.zhihu.com/search?q=%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%A2%AB%E5%AE%B6%E4%BA%BA%E9%AA%97%E5%85%A5%E6%88%92%E7%BD%91%E7%98%BE%E5%AD%A6%E6%A0%A1)
+1. [耿同学讲故事抖音账号被永久限流](https://www.zhihu.com/search?q=%E8%80%BF%E5%90%8C%E5%AD%A6%E8%AE%B2%E6%95%85%E4%BA%8B%E6%8A%96%E9%9F%B3%E8%B4%A6%E5%8F%B7%E8%A2%AB%E6%B0%B8%E4%B9%85%E9%99%90%E6%B5%81)
 1. [孙俪眼睛血管破裂](https://www.zhihu.com/search?q=%E5%AD%99%E4%BF%AA%E7%9C%BC%E7%9D%9B%E8%A1%80%E7%AE%A1%E7%A0%B4%E8%A3%82)
 1. [新格伦火箭发射台爆炸](https://www.zhihu.com/search?q=%E6%96%B0%E6%A0%BC%E4%BC%A6%E7%81%AB%E7%AE%AD%E5%8F%91%E5%B0%84%E5%8F%B0%E7%88%86%E7%82%B8)
 1. [高志凯称全球或爆发金融危机](https://www.zhihu.com/search?q=%E9%AB%98%E5%BF%97%E5%87%AF%E7%A7%B0%E5%85%A8%E7%90%83%E6%88%96%E7%88%86%E5%8F%91%E9%87%91%E8%9E%8D%E5%8D%B1%E6%9C%BA)
