@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jun 01 2026 06:01:53 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jun 01 2026 08:08:09 GMT+0800 (China Standard Time) -->
 
 1. [孙俪眼睛血管破裂](https://www.zhihu.com/search?q=%E5%AD%99%E4%BF%AA%E7%9C%BC%E7%9D%9B%E8%A1%80%E7%AE%A1%E7%A0%B4%E8%A3%82)
 1. [女子裸辞原工作4天后岗位取消](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E8%A3%B8%E8%BE%9E%E5%8E%9F%E5%B7%A5%E4%BD%9C4%E5%A4%A9%E5%90%8E%E5%B2%97%E4%BD%8D%E5%8F%96%E6%B6%88)
@@ -22,13 +22,14 @@
 1. [钱学森从未说过「人再笨还学不会微积分吗」](https://www.zhihu.com/search?q=%E9%92%B1%E5%AD%A6%E6%A3%AE%E4%BB%8E%E6%9C%AA%E8%AF%B4%E8%BF%87%E3%80%8C%E4%BA%BA%E5%86%8D%E7%AC%A8%E8%BF%98%E5%AD%A6%E4%B8%8D%E4%BC%9A%E5%BE%AE%E7%A7%AF%E5%88%86%E5%90%97%E3%80%8D)
 1. [DeepSeek修改次数限制](https://www.zhihu.com/search?q=DeepSeek%E4%BF%AE%E6%94%B9%E6%AC%A1%E6%95%B0%E9%99%90%E5%88%B6)
 1. [巴黎卫冕欧冠冠军](https://www.zhihu.com/search?q=%E5%B7%B4%E9%BB%8E%E5%8D%AB%E5%86%95%E6%AC%A7%E5%86%A0%E5%86%A0%E5%86%9B)
-1. [海口教师赛课猝死](https://www.zhihu.com/search?q=%E6%B5%B7%E5%8F%A3%E6%95%99%E5%B8%88%E8%B5%9B%E8%AF%BE%E7%8C%9D%E6%AD%BB)
+1. [天涯社区将正式恢复访问](https://www.zhihu.com/search?q=%E5%A4%A9%E6%B6%AF%E7%A4%BE%E5%8C%BA%E5%B0%86%E6%AD%A3%E5%BC%8F%E6%81%A2%E5%A4%8D%E8%AE%BF%E9%97%AE)
+1. [德甲乒乓球联赛决赛](https://www.zhihu.com/search?q=%E5%BE%B7%E7%94%B2%E4%B9%92%E4%B9%93%E7%90%83%E8%81%94%E8%B5%9B%E5%86%B3%E8%B5%9B)
 1. [马刺 4 比 3 雷霆](https://www.zhihu.com/search?q=%E9%A9%AC%E5%88%BA%204%20%E6%AF%94%203%20%E9%9B%B7%E9%9C%86)
 1. [爆中国电竞队亚运会仅参加2项](https://www.zhihu.com/search?q=%E7%88%86%E4%B8%AD%E5%9B%BD%E7%94%B5%E7%AB%9E%E9%98%9F%E4%BA%9A%E8%BF%90%E4%BC%9A%E4%BB%85%E5%8F%82%E5%8A%A02%E9%A1%B9)
-1. [德甲乒乓球联赛决赛](https://www.zhihu.com/search?q=%E5%BE%B7%E7%94%B2%E4%B9%92%E4%B9%93%E7%90%83%E8%81%94%E8%B5%9B%E5%86%B3%E8%B5%9B)
-1. [天涯社区将正式恢复访问](https://www.zhihu.com/search?q=%E5%A4%A9%E6%B6%AF%E7%A4%BE%E5%8C%BA%E5%B0%86%E6%AD%A3%E5%BC%8F%E6%81%A2%E5%A4%8D%E8%AE%BF%E9%97%AE)
-1. [中山大学通报论文图片及数据存疑](https://www.zhihu.com/search?q=%E4%B8%AD%E5%B1%B1%E5%A4%A7%E5%AD%A6%E9%80%9A%E6%8A%A5%E8%AE%BA%E6%96%87%E5%9B%BE%E7%89%87%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%AD%98%E7%96%91)
+1. [多方回应女大学生被骗进戒网瘾学校](https://www.zhihu.com/search?q=%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%A2%AB%E9%AA%97%E8%BF%9B%E6%88%92%E7%BD%91%E7%98%BE%E5%AD%A6%E6%A0%A1)
 1. [释永信一审被判 24 年](https://www.zhihu.com/search?q=%E9%87%8A%E6%B0%B8%E4%BF%A1%E4%B8%80%E5%AE%A1%E8%A2%AB%E5%88%A4%2024%20%E5%B9%B4)
+1. [海口教师赛课猝死](https://www.zhihu.com/search?q=%E6%B5%B7%E5%8F%A3%E6%95%99%E5%B8%88%E8%B5%9B%E8%AF%BE%E7%8C%9D%E6%AD%BB)
+1. [中山大学通报论文图片及数据存疑](https://www.zhihu.com/search?q=%E4%B8%AD%E5%B1%B1%E5%A4%A7%E5%AD%A6%E9%80%9A%E6%8A%A5%E8%AE%BA%E6%96%87%E5%9B%BE%E7%89%87%E5%8F%8A%E6%95%B0%E6%8D%AE%E5%AD%98%E7%96%91)
 
 <!-- END -->
 
