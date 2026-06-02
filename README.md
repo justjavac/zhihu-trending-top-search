@@ -14,19 +14,23 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jun 02 2026 08:15:17 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jun 02 2026 13:50:50 GMT+0800 (China Standard Time) -->
 
+1. [豆包预计6月下旬正式收费](https://www.zhihu.com/search?q=%E8%B1%86%E5%8C%85%E9%A2%84%E8%AE%A16%E6%9C%88%E4%B8%8B%E6%97%AC%E6%AD%A3%E5%BC%8F%E6%94%B6%E8%B4%B9)
 1. [天涯社区正式恢复访问](https://www.zhihu.com/search?q=%E5%A4%A9%E6%B6%AF%E7%A4%BE%E5%8C%BA%E6%AD%A3%E5%BC%8F%E6%81%A2%E5%A4%8D%E8%AE%BF%E9%97%AE)
-1. [智驾不到一分钟撞半挂车一家三口身亡](https://www.zhihu.com/search?q=%E6%99%BA%E9%A9%BE%E4%B8%8D%E5%88%B0%E4%B8%80%E5%88%86%E9%92%9F%E6%92%9E%E5%8D%8A%E6%8C%82%E8%BD%A6%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E8%BA%AB%E4%BA%A1)
 1. [DeepSeek修改次数限制](https://www.zhihu.com/search?q=DeepSeek%E4%BF%AE%E6%94%B9%E6%AC%A1%E6%95%B0%E9%99%90%E5%88%B6)
-1. [南大首位无论文博士答辩通过](https://www.zhihu.com/search?q=%E5%8D%97%E5%A4%A7%E9%A6%96%E4%BD%8D%E6%97%A0%E8%AE%BA%E6%96%87%E5%8D%9A%E5%A3%AB%E7%AD%94%E8%BE%A9%E9%80%9A%E8%BF%87)
 1. [华为「感谢」美国制裁](https://www.zhihu.com/search?q=%E5%8D%8E%E4%B8%BA%E3%80%8C%E6%84%9F%E8%B0%A2%E3%80%8D%E7%BE%8E%E5%9B%BD%E5%88%B6%E8%A3%81)
 1. [《国务院关于对外投资的规定》公布](https://www.zhihu.com/search?q=%E3%80%8A%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%85%B3%E4%BA%8E%E5%AF%B9%E5%A4%96%E6%8A%95%E8%B5%84%E7%9A%84%E8%A7%84%E5%AE%9A%E3%80%8B%E5%85%AC%E5%B8%83)
-1. [德甲乒乓球联赛决赛](https://www.zhihu.com/search?q=%E5%BE%B7%E7%94%B2%E4%B9%92%E4%B9%93%E7%90%83%E8%81%94%E8%B5%9B%E5%86%B3%E8%B5%9B)
-1. [马刺 4 比 3 雷霆](https://www.zhihu.com/search?q=%E9%A9%AC%E5%88%BA%204%20%E6%AF%94%203%20%E9%9B%B7%E9%9C%86)
 1. [中金研报称京沪楼市拐点确认](https://www.zhihu.com/search?q=%E4%B8%AD%E9%87%91%E7%A0%94%E6%8A%A5%E7%A7%B0%E4%BA%AC%E6%B2%AA%E6%A5%BC%E5%B8%82%E6%8B%90%E7%82%B9%E7%A1%AE%E8%AE%A4)
-1. [年轻人上瘾按摩足疗](https://www.zhihu.com/search?q=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%8A%E7%98%BE%E6%8C%89%E6%91%A9%E8%B6%B3%E7%96%97)
+1. [德甲乒乓球联赛决赛](https://www.zhihu.com/search?q=%E5%BE%B7%E7%94%B2%E4%B9%92%E4%B9%93%E7%90%83%E8%81%94%E8%B5%9B%E5%86%B3%E8%B5%9B)
+1. [上海政法学院偷拍学生被开除学籍](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E6%94%BF%E6%B3%95%E5%AD%A6%E9%99%A2%E5%81%B7%E6%8B%8D%E5%AD%A6%E7%94%9F%E8%A2%AB%E5%BC%80%E9%99%A4%E5%AD%A6%E7%B1%8D)
+1. [微信朋友圈刮起一阵素颜风](https://www.zhihu.com/search?q=%E5%BE%AE%E4%BF%A1%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%88%AE%E8%B5%B7%E4%B8%80%E9%98%B5%E7%B4%A0%E9%A2%9C%E9%A3%8E)
 1. [香港演员刘洵离世](https://www.zhihu.com/search?q=%E9%A6%99%E6%B8%AF%E6%BC%94%E5%91%98%E5%88%98%E6%B4%B5%E7%A6%BB%E4%B8%96)
+1. [马刺 4 比 3 雷霆](https://www.zhihu.com/search?q=%E9%A9%AC%E5%88%BA%204%20%E6%AF%94%203%20%E9%9B%B7%E9%9C%86)
+1. [印度高温空调普及率仅 10%](https://www.zhihu.com/search?q=%E5%8D%B0%E5%BA%A6%E9%AB%98%E6%B8%A9%E7%A9%BA%E8%B0%83%E6%99%AE%E5%8F%8A%E7%8E%87%E4%BB%85%2010%25)
+1. [智驾不到一分钟撞半挂车一家三口身亡](https://www.zhihu.com/search?q=%E6%99%BA%E9%A9%BE%E4%B8%8D%E5%88%B0%E4%B8%80%E5%88%86%E9%92%9F%E6%92%9E%E5%8D%8A%E6%8C%82%E8%BD%A6%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E8%BA%AB%E4%BA%A1)
+1. [南大首位无论文博士答辩通过](https://www.zhihu.com/search?q=%E5%8D%97%E5%A4%A7%E9%A6%96%E4%BD%8D%E6%97%A0%E8%AE%BA%E6%96%87%E5%8D%9A%E5%A3%AB%E7%AD%94%E8%BE%A9%E9%80%9A%E8%BF%87)
+1. [年轻人上瘾按摩足疗](https://www.zhihu.com/search?q=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%8A%E7%98%BE%E6%8C%89%E6%91%A9%E8%B6%B3%E7%96%97)
 1. [巴黎卫冕欧冠冠军](https://www.zhihu.com/search?q=%E5%B7%B4%E9%BB%8E%E5%8D%AB%E5%86%95%E6%AC%A7%E5%86%A0%E5%86%A0%E5%86%9B)
 1. [钱学森从未说过「人再笨还学不会微积分吗」](https://www.zhihu.com/search?q=%E9%92%B1%E5%AD%A6%E6%A3%AE%E4%BB%8E%E6%9C%AA%E8%AF%B4%E8%BF%87%E3%80%8C%E4%BA%BA%E5%86%8D%E7%AC%A8%E8%BF%98%E5%AD%A6%E4%B8%8D%E4%BC%9A%E5%BE%AE%E7%A7%AF%E5%88%86%E5%90%97%E3%80%8D)
 
