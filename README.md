@@ -14,20 +14,23 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jun 04 2026 02:45:38 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jun 04 2026 05:50:56 GMT+0800 (China Standard Time) -->
 
 1. [豆包预计6月下旬正式收费](https://www.zhihu.com/search?q=%E8%B1%86%E5%8C%85%E9%A2%84%E8%AE%A16%E6%9C%88%E4%B8%8B%E6%97%AC%E6%AD%A3%E5%BC%8F%E6%94%B6%E8%B4%B9)
 1. [司马懿饰演者魏宗万去世](https://www.zhihu.com/search?q=%E5%8F%B8%E9%A9%AC%E6%87%BF%E9%A5%B0%E6%BC%94%E8%80%85%E9%AD%8F%E5%AE%97%E4%B8%87%E5%8E%BB%E4%B8%96)
 1. [王楚钦任国乒男队队长](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E4%BB%BB%E5%9B%BD%E4%B9%92%E7%94%B7%E9%98%9F%E9%98%9F%E9%95%BF)
-1. [高考作文素材](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%E7%B4%A0%E6%9D%90)
+1. [高考食谱](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E9%A3%9F%E8%B0%B1)
 1. [天涯社区正式恢复访问](https://www.zhihu.com/search?q=%E5%A4%A9%E6%B6%AF%E7%A4%BE%E5%8C%BA%E6%AD%A3%E5%BC%8F%E6%81%A2%E5%A4%8D%E8%AE%BF%E9%97%AE)
 1. [外卖大战后1600万骑手过剩](https://www.zhihu.com/search?q=%E5%A4%96%E5%8D%96%E5%A4%A7%E6%88%98%E5%90%8E1600%E4%B8%87%E9%AA%91%E6%89%8B%E8%BF%87%E5%89%A9)
 1. [洞洞鞋疑致脚气](https://www.zhihu.com/search?q=%E6%B4%9E%E6%B4%9E%E9%9E%8B%E7%96%91%E8%87%B4%E8%84%9A%E6%B0%94)
-1. [心态崩了怎么调整](https://www.zhihu.com/search?q=%E5%BF%83%E6%80%81%E5%B4%A9%E4%BA%86%E6%80%8E%E4%B9%88%E8%B0%83%E6%95%B4)
-1. [孙正义重登亚洲首富](https://www.zhihu.com/search?q=%E5%AD%99%E6%AD%A3%E4%B9%89%E9%87%8D%E7%99%BB%E4%BA%9A%E6%B4%B2%E9%A6%96%E5%AF%8C)
+1. [高考礼物](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E7%A4%BC%E7%89%A9)
 1. [山西煤矿爆炸致82死县委书记被查](https://www.zhihu.com/search?q=%E5%B1%B1%E8%A5%BF%E7%85%A4%E7%9F%BF%E7%88%86%E7%82%B8%E8%87%B482%E6%AD%BB%E5%8E%BF%E5%A7%94%E4%B9%A6%E8%AE%B0%E8%A2%AB%E6%9F%A5)
-1. [孩子高考家长祝福文案](https://www.zhihu.com/search?q=%E5%AD%A9%E5%AD%90%E9%AB%98%E8%80%83%E5%AE%B6%E9%95%BF%E7%A5%9D%E7%A6%8F%E6%96%87%E6%A1%88)
+1. [孙正义重登亚洲首富](https://www.zhihu.com/search?q=%E5%AD%99%E6%AD%A3%E4%B9%89%E9%87%8D%E7%99%BB%E4%BA%9A%E6%B4%B2%E9%A6%96%E5%AF%8C)
+1. [如何让考试超常发挥的玄学](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AE%A9%E8%80%83%E8%AF%95%E8%B6%85%E5%B8%B8%E5%8F%91%E6%8C%A5%E7%9A%84%E7%8E%84%E5%AD%A6)
 1. [豆包疑误导老人断指泡盐水致残](https://www.zhihu.com/search?q=%E8%B1%86%E5%8C%85%E7%96%91%E8%AF%AF%E5%AF%BC%E8%80%81%E4%BA%BA%E6%96%AD%E6%8C%87%E6%B3%A1%E7%9B%90%E6%B0%B4%E8%87%B4%E6%AE%8B)
+1. [高考作文素材](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%E7%B4%A0%E6%9D%90)
+1. [心态崩了怎么调整](https://www.zhihu.com/search?q=%E5%BF%83%E6%80%81%E5%B4%A9%E4%BA%86%E6%80%8E%E4%B9%88%E8%B0%83%E6%95%B4)
+1. [孩子高考家长祝福文案](https://www.zhihu.com/search?q=%E5%AD%A9%E5%AD%90%E9%AB%98%E8%80%83%E5%AE%B6%E9%95%BF%E7%A5%9D%E7%A6%8F%E6%96%87%E6%A1%88)
 
 <!-- END -->
 
