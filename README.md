@@ -14,18 +14,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jun 07 2026 00:07:18 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jun 07 2026 02:08:10 GMT+0800 (China Standard Time) -->
 
 1. [粉笔CEO张小龙辱骂人大学生](https://www.zhihu.com/search?q=%E7%B2%89%E7%AC%94CEO%E5%BC%A0%E5%B0%8F%E9%BE%99%E8%BE%B1%E9%AA%82%E4%BA%BA%E5%A4%A7%E5%AD%A6%E7%94%9F)
+1. [印度想炸喜马拉雅山解决高温](https://www.zhihu.com/search?q=%E5%8D%B0%E5%BA%A6%E6%83%B3%E7%82%B8%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85%E5%B1%B1%E8%A7%A3%E5%86%B3%E9%AB%98%E6%B8%A9)
 1. [国企干部离婚近亿资产来源不明](https://www.zhihu.com/search?q=%E5%9B%BD%E4%BC%81%E5%B9%B2%E9%83%A8%E7%A6%BB%E5%A9%9A%E8%BF%91%E4%BA%BF%E8%B5%84%E4%BA%A7%E6%9D%A5%E6%BA%90%E4%B8%8D%E6%98%8E)
-1. [官方通报女大学生被骗入戒网瘾学校](https://www.zhihu.com/search?q=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%A2%AB%E9%AA%97%E5%85%A5%E6%88%92%E7%BD%91%E7%98%BE%E5%AD%A6%E6%A0%A1)
-1. [作文素材2026热点人物](https://www.zhihu.com/search?q=%E4%BD%9C%E6%96%87%E7%B4%A0%E6%9D%902026%E7%83%AD%E7%82%B9%E4%BA%BA%E7%89%A9)
+1. [2026语文默写押题](https://www.zhihu.com/search?q=2026%E8%AF%AD%E6%96%87%E9%BB%98%E5%86%99%E6%8A%BC%E9%A2%98)
 1. [重回高考那年还能做对几道](https://www.zhihu.com/search?q=%E9%87%8D%E5%9B%9E%E9%AB%98%E8%80%83%E9%82%A3%E5%B9%B4%E8%BF%98%E8%83%BD%E5%81%9A%E5%AF%B9%E5%87%A0%E9%81%93)
 1. [陶勇称近视手术是掩耳盗铃](https://www.zhihu.com/search?q=%E9%99%B6%E5%8B%87%E7%A7%B0%E8%BF%91%E8%A7%86%E6%89%8B%E6%9C%AF%E6%98%AF%E6%8E%A9%E8%80%B3%E7%9B%97%E9%93%83)
+1. [官方通报女大学生被骗入戒网瘾学校](https://www.zhihu.com/search?q=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%A2%AB%E9%AA%97%E5%85%A5%E6%88%92%E7%BD%91%E7%98%BE%E5%AD%A6%E6%A0%A1)
 1. [黄灿灿发文道歉](https://www.zhihu.com/search?q=%E9%BB%84%E7%81%BF%E7%81%BF%E5%8F%91%E6%96%87%E9%81%93%E6%AD%89)
-1. [钉钉内网7.5万字长文《置身钉内》](https://www.zhihu.com/search?q=%E9%92%89%E9%92%89%E5%86%85%E7%BD%917.5%E4%B8%87%E5%AD%97%E9%95%BF%E6%96%87%E3%80%8A%E7%BD%AE%E8%BA%AB%E9%92%89%E5%86%85%E3%80%8B)
-1. [高考作文万能模版](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%E4%B8%87%E8%83%BD%E6%A8%A1%E7%89%88)
+1. [高考古诗押题](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%8F%A4%E8%AF%97%E6%8A%BC%E9%A2%98)
 1. [汪东城曝吴尊要当爷爷了](https://www.zhihu.com/search?q=%E6%B1%AA%E4%B8%9C%E5%9F%8E%E6%9B%9D%E5%90%B4%E5%B0%8A%E8%A6%81%E5%BD%93%E7%88%B7%E7%88%B7%E4%BA%86)
+1. [钉钉内网7.5万字长文《置身钉内》](https://www.zhihu.com/search?q=%E9%92%89%E9%92%89%E5%86%85%E7%BD%917.5%E4%B8%87%E5%AD%97%E9%95%BF%E6%96%87%E3%80%8A%E7%BD%AE%E8%BA%AB%E9%92%89%E5%86%85%E3%80%8B)
+1. [高中语文考试答题模板](https://www.zhihu.com/search?q=%E9%AB%98%E4%B8%AD%E8%AF%AD%E6%96%87%E8%80%83%E8%AF%95%E7%AD%94%E9%A2%98%E6%A8%A1%E6%9D%BF)
+1. [作文素材2026热点人物](https://www.zhihu.com/search?q=%E4%BD%9C%E6%96%87%E7%B4%A0%E6%9D%902026%E7%83%AD%E7%82%B9%E4%BA%BA%E7%89%A9)
+1. [高考作文万能模版](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%E4%B8%87%E8%83%BD%E6%A8%A1%E7%89%88)
 1. [中国消费者抛弃耐克比想象中更快](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E6%B6%88%E8%B4%B9%E8%80%85%E6%8A%9B%E5%BC%83%E8%80%90%E5%85%8B%E6%AF%94%E6%83%B3%E8%B1%A1%E4%B8%AD%E6%9B%B4%E5%BF%AB)
 1. [语文作文开头结尾的万能句子](https://www.zhihu.com/search?q=%E8%AF%AD%E6%96%87%E4%BD%9C%E6%96%87%E5%BC%80%E5%A4%B4%E7%BB%93%E5%B0%BE%E7%9A%84%E4%B8%87%E8%83%BD%E5%8F%A5%E5%AD%90)
 
