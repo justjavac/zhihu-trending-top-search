@@ -14,18 +14,23 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jun 06 2026 12:54:29 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jun 06 2026 15:47:02 GMT+0800 (China Standard Time) -->
 
 1. [粉笔CEO张小龙辱骂人大学生](https://www.zhihu.com/search?q=%E7%B2%89%E7%AC%94CEO%E5%BC%A0%E5%B0%8F%E9%BE%99%E8%BE%B1%E9%AA%82%E4%BA%BA%E5%A4%A7%E5%AD%A6%E7%94%9F)
 1. [印度想炸喜马拉雅山解决高温](https://www.zhihu.com/search?q=%E5%8D%B0%E5%BA%A6%E6%83%B3%E7%82%B8%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85%E5%B1%B1%E8%A7%A3%E5%86%B3%E9%AB%98%E6%B8%A9)
 1. [国企干部离婚近亿资产来源不明](https://www.zhihu.com/search?q=%E5%9B%BD%E4%BC%81%E5%B9%B2%E9%83%A8%E7%A6%BB%E5%A9%9A%E8%BF%91%E4%BA%BF%E8%B5%84%E4%BA%A7%E6%9D%A5%E6%BA%90%E4%B8%8D%E6%98%8E)
-1. [高考穿什么颜色衣服](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E7%A9%BF%E4%BB%80%E4%B9%88%E9%A2%9C%E8%89%B2%E8%A1%A3%E6%9C%8D)
-1. [黄灿灿发文道歉](https://www.zhihu.com/search?q=%E9%BB%84%E7%81%BF%E7%81%BF%E5%8F%91%E6%96%87%E9%81%93%E6%AD%89)
+1. [不落俗套的高考祝福语](https://www.zhihu.com/search?q=%E4%B8%8D%E8%90%BD%E4%BF%97%E5%A5%97%E7%9A%84%E9%AB%98%E8%80%83%E7%A5%9D%E7%A6%8F%E8%AF%AD)
 1. [官方通报女大学生被骗入戒网瘾学校](https://www.zhihu.com/search?q=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%A2%AB%E9%AA%97%E5%85%A5%E6%88%92%E7%BD%91%E7%98%BE%E5%AD%A6%E6%A0%A1)
 1. [吃粉遇王祖蓝进店被清场](https://www.zhihu.com/search?q=%E5%90%83%E7%B2%89%E9%81%87%E7%8E%8B%E7%A5%96%E8%93%9D%E8%BF%9B%E5%BA%97%E8%A2%AB%E6%B8%85%E5%9C%BA)
 1. [男子性情大变确诊梅毒](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%90%E6%80%A7%E6%83%85%E5%A4%A7%E5%8F%98%E7%A1%AE%E8%AF%8A%E6%A2%85%E6%AF%92)
-1. [高考食谱](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E9%A3%9F%E8%B0%B1)
+1. [毕业礼物](https://www.zhihu.com/search?q=%E6%AF%95%E4%B8%9A%E7%A4%BC%E7%89%A9)
 1. [AI脸引发网友生理性厌恶](https://www.zhihu.com/search?q=AI%E8%84%B8%E5%BC%95%E5%8F%91%E7%BD%91%E5%8F%8B%E7%94%9F%E7%90%86%E6%80%A7%E5%8E%8C%E6%81%B6)
+1. [陶勇称近视手术是掩耳盗铃](https://www.zhihu.com/search?q=%E9%99%B6%E5%8B%87%E7%A7%B0%E8%BF%91%E8%A7%86%E6%89%8B%E6%9C%AF%E6%98%AF%E6%8E%A9%E8%80%B3%E7%9B%97%E9%93%83)
+1. [高考礼物](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E7%A4%BC%E7%89%A9)
+1. [豆包首次收费后月活减少610万](https://www.zhihu.com/search?q=%E8%B1%86%E5%8C%85%E9%A6%96%E6%AC%A1%E6%94%B6%E8%B4%B9%E5%90%8E%E6%9C%88%E6%B4%BB%E5%87%8F%E5%B0%91610%E4%B8%87)
+1. [高考穿什么颜色衣服](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E7%A9%BF%E4%BB%80%E4%B9%88%E9%A2%9C%E8%89%B2%E8%A1%A3%E6%9C%8D)
+1. [黄灿灿发文道歉](https://www.zhihu.com/search?q=%E9%BB%84%E7%81%BF%E7%81%BF%E5%8F%91%E6%96%87%E9%81%93%E6%AD%89)
+1. [高考食谱](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E9%A3%9F%E8%B0%B1)
 1. [胡彦斌 1 个月写出 app](https://www.zhihu.com/search?q=%E8%83%A1%E5%BD%A6%E6%96%8C%201%20%E4%B8%AA%E6%9C%88%E5%86%99%E5%87%BA%20app)
 1. [高考期间三天食谱](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E6%9C%9F%E9%97%B4%E4%B8%89%E5%A4%A9%E9%A3%9F%E8%B0%B1)
 1. [豆包疑误导老人断指泡盐水致残](https://www.zhihu.com/search?q=%E8%B1%86%E5%8C%85%E7%96%91%E8%AF%AF%E5%AF%BC%E8%80%81%E4%BA%BA%E6%96%AD%E6%8C%87%E6%B3%A1%E7%9B%90%E6%B0%B4%E8%87%B4%E6%AE%8B)
