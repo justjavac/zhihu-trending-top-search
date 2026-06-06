@@ -14,20 +14,24 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jun 06 2026 08:08:38 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jun 06 2026 12:54:29 GMT+0800 (China Standard Time) -->
 
-1. [豆包疑误导老人断指泡盐水致残](https://www.zhihu.com/search?q=%E8%B1%86%E5%8C%85%E7%96%91%E8%AF%AF%E5%AF%BC%E8%80%81%E4%BA%BA%E6%96%AD%E6%8C%87%E6%B3%A1%E7%9B%90%E6%B0%B4%E8%87%B4%E6%AE%8B)
 1. [粉笔CEO张小龙辱骂人大学生](https://www.zhihu.com/search?q=%E7%B2%89%E7%AC%94CEO%E5%BC%A0%E5%B0%8F%E9%BE%99%E8%BE%B1%E9%AA%82%E4%BA%BA%E5%A4%A7%E5%AD%A6%E7%94%9F)
 1. [印度想炸喜马拉雅山解决高温](https://www.zhihu.com/search?q=%E5%8D%B0%E5%BA%A6%E6%83%B3%E7%82%B8%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85%E5%B1%B1%E8%A7%A3%E5%86%B3%E9%AB%98%E6%B8%A9)
-1. [高考进入倒计时](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E8%BF%9B%E5%85%A5%E5%80%92%E8%AE%A1%E6%97%B6)
 1. [国企干部离婚近亿资产来源不明](https://www.zhihu.com/search?q=%E5%9B%BD%E4%BC%81%E5%B9%B2%E9%83%A8%E7%A6%BB%E5%A9%9A%E8%BF%91%E4%BA%BF%E8%B5%84%E4%BA%A7%E6%9D%A5%E6%BA%90%E4%B8%8D%E6%98%8E)
+1. [高考穿什么颜色衣服](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E7%A9%BF%E4%BB%80%E4%B9%88%E9%A2%9C%E8%89%B2%E8%A1%A3%E6%9C%8D)
+1. [黄灿灿发文道歉](https://www.zhihu.com/search?q=%E9%BB%84%E7%81%BF%E7%81%BF%E5%8F%91%E6%96%87%E9%81%93%E6%AD%89)
 1. [官方通报女大学生被骗入戒网瘾学校](https://www.zhihu.com/search?q=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%A2%AB%E9%AA%97%E5%85%A5%E6%88%92%E7%BD%91%E7%98%BE%E5%AD%A6%E6%A0%A1)
 1. [吃粉遇王祖蓝进店被清场](https://www.zhihu.com/search?q=%E5%90%83%E7%B2%89%E9%81%87%E7%8E%8B%E7%A5%96%E8%93%9D%E8%BF%9B%E5%BA%97%E8%A2%AB%E6%B8%85%E5%9C%BA)
-1. [高考注意事项](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9)
-1. [AI脸引发网友生理性厌恶](https://www.zhihu.com/search?q=AI%E8%84%B8%E5%BC%95%E5%8F%91%E7%BD%91%E5%8F%8B%E7%94%9F%E7%90%86%E6%80%A7%E5%8E%8C%E6%81%B6)
 1. [男子性情大变确诊梅毒](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%90%E6%80%A7%E6%83%85%E5%A4%A7%E5%8F%98%E7%A1%AE%E8%AF%8A%E6%A2%85%E6%AF%92)
-1. [高考心态怎么调整](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%BF%83%E6%80%81%E6%80%8E%E4%B9%88%E8%B0%83%E6%95%B4)
+1. [高考食谱](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E9%A3%9F%E8%B0%B1)
+1. [AI脸引发网友生理性厌恶](https://www.zhihu.com/search?q=AI%E8%84%B8%E5%BC%95%E5%8F%91%E7%BD%91%E5%8F%8B%E7%94%9F%E7%90%86%E6%80%A7%E5%8E%8C%E6%81%B6)
 1. [胡彦斌 1 个月写出 app](https://www.zhihu.com/search?q=%E8%83%A1%E5%BD%A6%E6%96%8C%201%20%E4%B8%AA%E6%9C%88%E5%86%99%E5%87%BA%20app)
+1. [高考期间三天食谱](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E6%9C%9F%E9%97%B4%E4%B8%89%E5%A4%A9%E9%A3%9F%E8%B0%B1)
+1. [豆包疑误导老人断指泡盐水致残](https://www.zhihu.com/search?q=%E8%B1%86%E5%8C%85%E7%96%91%E8%AF%AF%E5%AF%BC%E8%80%81%E4%BA%BA%E6%96%AD%E6%8C%87%E6%B3%A1%E7%9B%90%E6%B0%B4%E8%87%B4%E6%AE%8B)
+1. [高考进入倒计时](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E8%BF%9B%E5%85%A5%E5%80%92%E8%AE%A1%E6%97%B6)
+1. [高考注意事项](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9)
+1. [高考心态怎么调整](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%BF%83%E6%80%81%E6%80%8E%E4%B9%88%E8%B0%83%E6%95%B4)
 1. [高考加油的文案](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%8A%A0%E6%B2%B9%E7%9A%84%E6%96%87%E6%A1%88)
 1. [高考前焦虑怎么调整](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%89%8D%E7%84%A6%E8%99%91%E6%80%8E%E4%B9%88%E8%B0%83%E6%95%B4)
 1. [高考作文素材](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%E7%B4%A0%E6%9D%90)
