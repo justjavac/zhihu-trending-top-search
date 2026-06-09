@@ -14,14 +14,14 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jun 10 2026 04:59:18 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jun 10 2026 06:42:47 GMT+0800 (China Standard Time) -->
 
 1. [2026 高考数学](https://www.zhihu.com/search?q=2026%20%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6)
 1. [男子拒赔致老人自杀获刑](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%90%E6%8B%92%E8%B5%94%E8%87%B4%E8%80%81%E4%BA%BA%E8%87%AA%E6%9D%80%E8%8E%B7%E5%88%91)
 1. [黄仁勋自嘲亚洲家庭关系](https://www.zhihu.com/search?q=%E9%BB%84%E4%BB%81%E5%8B%8B%E8%87%AA%E5%98%B2%E4%BA%9A%E6%B4%B2%E5%AE%B6%E5%BA%AD%E5%85%B3%E7%B3%BB)
 1. [钉钉副总裁发表长文《置身钉外》](https://www.zhihu.com/search?q=%E9%92%89%E9%92%89%E5%89%AF%E6%80%BB%E8%A3%81%E5%8F%91%E8%A1%A8%E9%95%BF%E6%96%87%E3%80%8A%E7%BD%AE%E8%BA%AB%E9%92%89%E5%A4%96%E3%80%8B)
-1. [答题解锁高考那年热点](https://www.zhihu.com/search?q=%E7%AD%94%E9%A2%98%E8%A7%A3%E9%94%81%E9%AB%98%E8%80%83%E9%82%A3%E5%B9%B4%E7%83%AD%E7%82%B9)
 1. [重回高考那年还能做对几道](https://www.zhihu.com/search?q=%E9%87%8D%E5%9B%9E%E9%AB%98%E8%80%83%E9%82%A3%E5%B9%B4%E8%BF%98%E8%83%BD%E5%81%9A%E5%AF%B9%E5%87%A0%E9%81%93)
+1. [答题解锁高考那年热点](https://www.zhihu.com/search?q=%E7%AD%94%E9%A2%98%E8%A7%A3%E9%94%81%E9%AB%98%E8%80%83%E9%82%A3%E5%B9%B4%E7%83%AD%E7%82%B9)
 1. [运城多人被臭味熏醒](https://www.zhihu.com/search?q=%E8%BF%90%E5%9F%8E%E5%A4%9A%E4%BA%BA%E8%A2%AB%E8%87%AD%E5%91%B3%E7%86%8F%E9%86%92)
 1. [文旅局 850 万请跑男引争议](https://www.zhihu.com/search?q=%E6%96%87%E6%97%85%E5%B1%80%20850%20%E4%B8%87%E8%AF%B7%E8%B7%91%E7%94%B7%E5%BC%95%E4%BA%89%E8%AE%AE)
 1. [2026苹果开发者大会](https://www.zhihu.com/search?q=2026%E8%8B%B9%E6%9E%9C%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E4%BC%9A)
