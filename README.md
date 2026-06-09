@@ -14,20 +14,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jun 09 2026 20:39:33 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jun 09 2026 23:57:12 GMT+0800 (China Standard Time) -->
 
 1. [挑战高考题 解锁人设](https://www.zhihu.com/search?q=%E6%8C%91%E6%88%98%E9%AB%98%E8%80%83%E9%A2%98%20%E8%A7%A3%E9%94%81%E4%BA%BA%E8%AE%BE)
 1. [2026 高考数学](https://www.zhihu.com/search?q=2026%20%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6)
 1. [男子拒赔致老人自杀获刑](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%90%E6%8B%92%E8%B5%94%E8%87%B4%E8%80%81%E4%BA%BA%E8%87%AA%E6%9D%80%E8%8E%B7%E5%88%91)
 1. [黄仁勋自嘲亚洲家庭关系](https://www.zhihu.com/search?q=%E9%BB%84%E4%BB%81%E5%8B%8B%E8%87%AA%E5%98%B2%E4%BA%9A%E6%B4%B2%E5%AE%B6%E5%BA%AD%E5%85%B3%E7%B3%BB)
 1. [重回高考那年还能做对几道](https://www.zhihu.com/search?q=%E9%87%8D%E5%9B%9E%E9%AB%98%E8%80%83%E9%82%A3%E5%B9%B4%E8%BF%98%E8%83%BD%E5%81%9A%E5%AF%B9%E5%87%A0%E9%81%93)
-1. [高考注意事项](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9)
-1. [2026苹果开发者大会](https://www.zhihu.com/search?q=2026%E8%8B%B9%E6%9E%9C%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E4%BC%9A)
-1. [菲律宾发生7.9级地震](https://www.zhihu.com/search?q=%E8%8F%B2%E5%BE%8B%E5%AE%BE%E5%8F%91%E7%94%9F7.9%E7%BA%A7%E5%9C%B0%E9%9C%87)
+1. [2026高考日程表](https://www.zhihu.com/search?q=2026%E9%AB%98%E8%80%83%E6%97%A5%E7%A8%8B%E8%A1%A8)
 1. [钉钉副总裁发表长文《置身钉外》](https://www.zhihu.com/search?q=%E9%92%89%E9%92%89%E5%89%AF%E6%80%BB%E8%A3%81%E5%8F%91%E8%A1%A8%E9%95%BF%E6%96%87%E3%80%8A%E7%BD%AE%E8%BA%AB%E9%92%89%E5%A4%96%E3%80%8B)
-1. [2026高考化学](https://www.zhihu.com/search?q=2026%E9%AB%98%E8%80%83%E5%8C%96%E5%AD%A6)
+1. [2026苹果开发者大会](https://www.zhihu.com/search?q=2026%E8%8B%B9%E6%9E%9C%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E4%BC%9A)
 1. [文旅局 850 万请跑男引争议](https://www.zhihu.com/search?q=%E6%96%87%E6%97%85%E5%B1%80%20850%20%E4%B8%87%E8%AF%B7%E8%B7%91%E7%94%B7%E5%BC%95%E4%BA%89%E8%AE%AE)
+1. [地理答题模板](https://www.zhihu.com/search?q=%E5%9C%B0%E7%90%86%E7%AD%94%E9%A2%98%E6%A8%A1%E6%9D%BF)
 1. [运城多人被臭味熏醒](https://www.zhihu.com/search?q=%E8%BF%90%E5%9F%8E%E5%A4%9A%E4%BA%BA%E8%A2%AB%E8%87%AD%E5%91%B3%E7%86%8F%E9%86%92)
+1. [菲律宾发生7.9级地震](https://www.zhihu.com/search?q=%E8%8F%B2%E5%BE%8B%E5%AE%BE%E5%8F%91%E7%94%9F7.9%E7%BA%A7%E5%9C%B0%E9%9C%87)
+1. [高考注意事项](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9)
+1. [2026高考化学](https://www.zhihu.com/search?q=2026%E9%AB%98%E8%80%83%E5%8C%96%E5%AD%A6)
 1. [2026 高考英语](https://www.zhihu.com/search?q=2026%20%E9%AB%98%E8%80%83%E8%8B%B1%E8%AF%AD)
 1. [2026 高考语文](https://www.zhihu.com/search?q=2026%20%E9%AB%98%E8%80%83%E8%AF%AD%E6%96%87)
 1. [胜宏科技电梯门](https://www.zhihu.com/search?q=%E8%83%9C%E5%AE%8F%E7%A7%91%E6%8A%80%E7%94%B5%E6%A2%AF%E9%97%A8)
@@ -37,9 +39,7 @@
 1. [人形机器人价格大跳水](https://www.zhihu.com/search?q=%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BB%B7%E6%A0%BC%E5%A4%A7%E8%B7%B3%E6%B0%B4)
 1. [演员金泽去世年仅33岁](https://www.zhihu.com/search?q=%E6%BC%94%E5%91%98%E9%87%91%E6%B3%BD%E5%8E%BB%E4%B8%96%E5%B9%B4%E4%BB%8533%E5%B2%81)
 1. [2026高考物理](https://www.zhihu.com/search?q=2026%E9%AB%98%E8%80%83%E7%89%A9%E7%90%86)
-1. [2026高考日程表](https://www.zhihu.com/search?q=2026%E9%AB%98%E8%80%83%E6%97%A5%E7%A8%8B%E8%A1%A8)
 1. [监考时怎么打发时间](https://www.zhihu.com/search?q=%E7%9B%91%E8%80%83%E6%97%B6%E6%80%8E%E4%B9%88%E6%89%93%E5%8F%91%E6%97%B6%E9%97%B4)
-1. [地理答题模板](https://www.zhihu.com/search?q=%E5%9C%B0%E7%90%86%E7%AD%94%E9%A2%98%E6%A8%A1%E6%9D%BF)
 1. [政治高中大题答题模板](https://www.zhihu.com/search?q=%E6%94%BF%E6%B2%BB%E9%AB%98%E4%B8%AD%E5%A4%A7%E9%A2%98%E7%AD%94%E9%A2%98%E6%A8%A1%E6%9D%BF)
 
 <!-- END -->
