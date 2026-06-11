@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jun 12 2026 05:22:03 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jun 12 2026 07:24:28 GMT+0800 (China Standard Time) -->
 
 1. [2026美加墨世界杯开幕式](https://www.zhihu.com/search?q=2026%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BC%80%E5%B9%95%E5%BC%8F)
 1. [世界杯揭幕战墨西哥vs南非](https://www.zhihu.com/search?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E6%8F%AD%E5%B9%95%E6%88%98%E5%A2%A8%E8%A5%BF%E5%93%A5vs%E5%8D%97%E9%9D%9E)
