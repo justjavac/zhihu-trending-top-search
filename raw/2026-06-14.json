@@ -1,15 +1,16 @@
 [
+  { "query_display": "巴西vs摩洛哥", "real_query": "巴西vs摩洛哥" },
   { "query_display": "雷军用私家车装600斤车厘子被指违规", "real_query": "雷军用私家车装600斤车厘子被指违规" },
-  { "query_display": "卡塔尔vs瑞士", "real_query": "卡塔尔vs瑞士" },
-  { "query_display": "白鹿方六连辟谣", "real_query": "白鹿方六连辟谣" },
   { "query_display": "清北鹅腿阿姨被曝卖鸭腿", "real_query": "清北鹅腿阿姨被曝卖鸭腿" },
+  { "query_display": "白鹿方六连辟谣", "real_query": "白鹿方六连辟谣" },
   { "query_display": "重回高考那年还能做对几道", "real_query": "重回高考那年还能做对几道" },
   { "query_display": "西北工业大学图书馆发生偷拍事件", "real_query": "西北工业大学图书馆发生偷拍事件" },
   { "query_display": "日本炸鸡店一锅油反复用66年", "real_query": "日本炸鸡店一锅油反复用66年" },
   { "query_display": "张雪机车六冠王", "real_query": "张雪机车六冠王" },
   { "query_display": "SpaceX 正式上市", "real_query": "SpaceX 正式上市" },
   { "query_display": "马斯克成首位万亿富翁", "real_query": "马斯克成首位万亿富翁" },
-  { "query_display": "加拿大 1-1 波黑", "real_query": "加拿大 1-1 波黑" },
   { "query_display": "六级", "real_query": "六级" },
+  { "query_display": "加拿大 1-1 波黑", "real_query": "加拿大 1-1 波黑" },
+  { "query_display": "卡塔尔vs瑞士", "real_query": "卡塔尔vs瑞士" },
   { "query_display": "2026世界杯美国开幕式", "real_query": "2026世界杯美国开幕式" }
 ]
