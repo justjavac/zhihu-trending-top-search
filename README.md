@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jun 15 2026 04:19:27 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jun 15 2026 06:13:27 GMT+0800 (China Standard Time) -->
 
 1. [日本炸鸡店一锅油反复用66年](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E7%82%B8%E9%B8%A1%E5%BA%97%E4%B8%80%E9%94%85%E6%B2%B9%E5%8F%8D%E5%A4%8D%E7%94%A866%E5%B9%B4)
 1. [德国 vs 库拉索](https://www.zhihu.com/search?q=%E5%BE%B7%E5%9B%BD%20vs%20%E5%BA%93%E6%8B%89%E7%B4%A2)
@@ -26,8 +26,8 @@
 1. [张雪机车六冠王](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E5%85%AD%E5%86%A0%E7%8E%8B)
 1. [世界杯小组赛巴西 1-1 摩洛哥](https://www.zhihu.com/search?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%B0%8F%E7%BB%84%E8%B5%9B%E5%B7%B4%E8%A5%BF%201-1%20%E6%91%A9%E6%B4%9B%E5%93%A5)
 1. [马斯克成首位万亿富翁](https://www.zhihu.com/search?q=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%88%90%E9%A6%96%E4%BD%8D%E4%B8%87%E4%BA%BF%E5%AF%8C%E7%BF%81)
-1. [SpaceX 正式上市](https://www.zhihu.com/search?q=SpaceX%20%E6%AD%A3%E5%BC%8F%E4%B8%8A%E5%B8%82)
 1. [清华北大鹅腿阿姨走红](https://www.zhihu.com/search?q=%E6%B8%85%E5%8D%8E%E5%8C%97%E5%A4%A7%E9%B9%85%E8%85%BF%E9%98%BF%E5%A7%A8%E8%B5%B0%E7%BA%A2)
+1. [SpaceX 正式上市](https://www.zhihu.com/search?q=SpaceX%20%E6%AD%A3%E5%BC%8F%E4%B8%8A%E5%B8%82)
 1. [安徽无为板鸭其实是鹅](https://www.zhihu.com/search?q=%E5%AE%89%E5%BE%BD%E6%97%A0%E4%B8%BA%E6%9D%BF%E9%B8%AD%E5%85%B6%E5%AE%9E%E6%98%AF%E9%B9%85)
 1. [智谱发布GLM5.2模型](https://www.zhihu.com/search?q=%E6%99%BA%E8%B0%B1%E5%8F%91%E5%B8%83GLM5.2%E6%A8%A1%E5%9E%8B)
 1. [「鹅腿阿姨」后厨现卫生疑虑](https://www.zhihu.com/search?q=%E3%80%8C%E9%B9%85%E8%85%BF%E9%98%BF%E5%A7%A8%E3%80%8D%E5%90%8E%E5%8E%A8%E7%8E%B0%E5%8D%AB%E7%94%9F%E7%96%91%E8%99%91)
