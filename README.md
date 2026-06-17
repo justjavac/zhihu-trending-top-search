@@ -14,19 +14,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jun 17 2026 06:14:08 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jun 17 2026 08:18:54 GMT+0800 (China Standard Time) -->
 
 1. [3亿北斗工程底座用手一掰就碎](https://www.zhihu.com/search?q=3%E4%BA%BF%E5%8C%97%E6%96%97%E5%B7%A5%E7%A8%8B%E5%BA%95%E5%BA%A7%E7%94%A8%E6%89%8B%E4%B8%80%E6%8E%B0%E5%B0%B1%E7%A2%8E)
-1. [法国 vs 塞内加尔](https://www.zhihu.com/search?q=%E6%B3%95%E5%9B%BD%20vs%20%E5%A1%9E%E5%86%85%E5%8A%A0%E5%B0%94)
+1. [法国3-1塞内加尔](https://www.zhihu.com/search?q=%E6%B3%95%E5%9B%BD3-1%E5%A1%9E%E5%86%85%E5%8A%A0%E5%B0%94)
 1. [大鱼海棠导演说王菲要求多报价贵](https://www.zhihu.com/search?q=%E5%A4%A7%E9%B1%BC%E6%B5%B7%E6%A3%A0%E5%AF%BC%E6%BC%94%E8%AF%B4%E7%8E%8B%E8%8F%B2%E8%A6%81%E6%B1%82%E5%A4%9A%E6%8A%A5%E4%BB%B7%E8%B4%B5)
 1. [挪威 vs 伊拉克](https://www.zhihu.com/search?q=%E6%8C%AA%E5%A8%81%20vs%20%E4%BC%8A%E6%8B%89%E5%85%8B)
+1. [挪威4-1伊拉克](https://www.zhihu.com/search?q=%E6%8C%AA%E5%A8%814-1%E4%BC%8A%E6%8B%89%E5%85%8B)
 1. [美伊签署电子谅解备忘录](https://www.zhihu.com/search?q=%E7%BE%8E%E4%BC%8A%E7%AD%BE%E7%BD%B2%E7%94%B5%E5%AD%90%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95)
 1. [世界杯小组赛西班牙 0-0 佛得角](https://www.zhihu.com/search?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%B0%8F%E7%BB%84%E8%B5%9B%E8%A5%BF%E7%8F%AD%E7%89%99%200-0%20%E4%BD%9B%E5%BE%97%E8%A7%92)
-1. [多国解除对伊朗制裁](https://www.zhihu.com/search?q=%E5%A4%9A%E5%9B%BD%E8%A7%A3%E9%99%A4%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%88%B6%E8%A3%81)
 1. [女儿鼻孔塞异物爸爸嘴对嘴吹出](https://www.zhihu.com/search?q=%E5%A5%B3%E5%84%BF%E9%BC%BB%E5%AD%94%E5%A1%9E%E5%BC%82%E7%89%A9%E7%88%B8%E7%88%B8%E5%98%B4%E5%AF%B9%E5%98%B4%E5%90%B9%E5%87%BA)
+1. [多国解除对伊朗制裁](https://www.zhihu.com/search?q=%E5%A4%9A%E5%9B%BD%E8%A7%A3%E9%99%A4%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%88%B6%E8%A3%81)
 1. [凡人修仙传动画改编剧情争议](https://www.zhihu.com/search?q=%E5%87%A1%E4%BA%BA%E4%BF%AE%E4%BB%99%E4%BC%A0%E5%8A%A8%E7%94%BB%E6%94%B9%E7%BC%96%E5%89%A7%E6%83%85%E4%BA%89%E8%AE%AE)
 1. [联合国称全球艾滋病陷危险时刻](https://www.zhihu.com/search?q=%E8%81%94%E5%90%88%E5%9B%BD%E7%A7%B0%E5%85%A8%E7%90%83%E8%89%BE%E6%BB%8B%E7%97%85%E9%99%B7%E5%8D%B1%E9%99%A9%E6%97%B6%E5%88%BB)
 1. [青海海西6.3级地震](https://www.zhihu.com/search?q=%E9%9D%92%E6%B5%B7%E6%B5%B7%E8%A5%BF6.3%E7%BA%A7%E5%9C%B0%E9%9C%87)
+1. [法国 vs 塞内加尔](https://www.zhihu.com/search?q=%E6%B3%95%E5%9B%BD%20vs%20%E5%A1%9E%E5%86%85%E5%8A%A0%E5%B0%94)
 1. [lululemon道歉](https://www.zhihu.com/search?q=lululemon%E9%81%93%E6%AD%89)
 1. [吴倩和张雨剑疑似复婚生二胎](https://www.zhihu.com/search?q=%E5%90%B4%E5%80%A9%E5%92%8C%E5%BC%A0%E9%9B%A8%E5%89%91%E7%96%91%E4%BC%BC%E5%A4%8D%E5%A9%9A%E7%94%9F%E4%BA%8C%E8%83%8E)
 
