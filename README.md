@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jun 21 2026 04:16:39 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jun 21 2026 06:11:07 GMT+0800 (China Standard Time) -->
 
 1. [吴倩被爸爸打掉牙齿不敢吐出来](https://www.zhihu.com/search?q=%E5%90%B4%E5%80%A9%E8%A2%AB%E7%88%B8%E7%88%B8%E6%89%93%E6%8E%89%E7%89%99%E9%BD%BF%E4%B8%8D%E6%95%A2%E5%90%90%E5%87%BA%E6%9D%A5)
 1. [婴儿体内测出甲酰胺内容已搜不到](https://www.zhihu.com/search?q=%E5%A9%B4%E5%84%BF%E4%BD%93%E5%86%85%E6%B5%8B%E5%87%BA%E7%94%B2%E9%85%B0%E8%83%BA%E5%86%85%E5%AE%B9%E5%B7%B2%E6%90%9C%E4%B8%8D%E5%88%B0)
