@@ -14,25 +14,28 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jun 21 2026 14:04:35 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jun 21 2026 18:31:31 GMT+0800 (China Standard Time) -->
 
-1. [马宁1分钟2黄](https://www.zhihu.com/search?q=%E9%A9%AC%E5%AE%811%E5%88%86%E9%92%9F2%E9%BB%84)
 1. [吴倩被爸爸打掉牙齿不敢吐出来](https://www.zhihu.com/search?q=%E5%90%B4%E5%80%A9%E8%A2%AB%E7%88%B8%E7%88%B8%E6%89%93%E6%8E%89%E7%89%99%E9%BD%BF%E4%B8%8D%E6%95%A2%E5%90%90%E5%87%BA%E6%9D%A5)
 1. [武汉大学领导班子调整](https://www.zhihu.com/search?q=%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6%E9%A2%86%E5%AF%BC%E7%8F%AD%E5%AD%90%E8%B0%83%E6%95%B4)
 1. [多品牌婴幼儿纸尿裤检出甲酰胺](https://www.zhihu.com/search?q=%E5%A4%9A%E5%93%81%E7%89%8C%E5%A9%B4%E5%B9%BC%E5%84%BF%E7%BA%B8%E5%B0%BF%E8%A3%A4%E6%A3%80%E5%87%BA%E7%94%B2%E9%85%B0%E8%83%BA)
-1. [突尼斯vs日本](https://www.zhihu.com/search?q=%E7%AA%81%E5%B0%BC%E6%96%AFvs%E6%97%A5%E6%9C%AC)
-1. [美伊谈判代表均已抵达瑞士](https://www.zhihu.com/search?q=%E7%BE%8E%E4%BC%8A%E8%B0%88%E5%88%A4%E4%BB%A3%E8%A1%A8%E5%9D%87%E5%B7%B2%E6%8A%B5%E8%BE%BE%E7%91%9E%E5%A3%AB)
-1. [腾讯大幅下调员工 AI Token 额度](https://www.zhihu.com/search?q=%E8%85%BE%E8%AE%AF%E5%A4%A7%E5%B9%85%E4%B8%8B%E8%B0%83%E5%91%98%E5%B7%A5%20AI%20Token%20%E9%A2%9D%E5%BA%A6)
 1. [乌克兰袭击莫斯科炼油厂](https://www.zhihu.com/search?q=%E4%B9%8C%E5%85%8B%E5%85%B0%E8%A2%AD%E5%87%BB%E8%8E%AB%E6%96%AF%E7%A7%91%E7%82%BC%E6%B2%B9%E5%8E%82)
+1. [突尼斯 0-4 日本](https://www.zhihu.com/search?q=%E7%AA%81%E5%B0%BC%E6%96%AF%200-4%20%E6%97%A5%E6%9C%AC)
+1. [美伊谈判代表均已抵达瑞士](https://www.zhihu.com/search?q=%E7%BE%8E%E4%BC%8A%E8%B0%88%E5%88%A4%E4%BB%A3%E8%A1%A8%E5%9D%87%E5%B7%B2%E6%8A%B5%E8%BE%BE%E7%91%9E%E5%A3%AB)
 1. [巴拉圭球员捂嘴说话吃到红牌](https://www.zhihu.com/search?q=%E5%B7%B4%E6%8B%89%E5%9C%AD%E7%90%83%E5%91%98%E6%8D%82%E5%98%B4%E8%AF%B4%E8%AF%9D%E5%90%83%E5%88%B0%E7%BA%A2%E7%89%8C)
-1. [凡人修仙传团队发声明](https://www.zhihu.com/search?q=%E5%87%A1%E4%BA%BA%E4%BF%AE%E4%BB%99%E4%BC%A0%E5%9B%A2%E9%98%9F%E5%8F%91%E5%A3%B0%E6%98%8E)
 1. [香港机场发生黄金大劫案](https://www.zhihu.com/search?q=%E9%A6%99%E6%B8%AF%E6%9C%BA%E5%9C%BA%E5%8F%91%E7%94%9F%E9%BB%84%E9%87%91%E5%A4%A7%E5%8A%AB%E6%A1%88)
 1. [C罗首秀状态不佳全场0射正](https://www.zhihu.com/search?q=C%E7%BD%97%E9%A6%96%E7%A7%80%E7%8A%B6%E6%80%81%E4%B8%8D%E4%BD%B3%E5%85%A8%E5%9C%BA0%E5%B0%84%E6%AD%A3)
+1. [纸尿裤报道专家称被迫签声明](https://www.zhihu.com/search?q=%E7%BA%B8%E5%B0%BF%E8%A3%A4%E6%8A%A5%E9%81%93%E4%B8%93%E5%AE%B6%E7%A7%B0%E8%A2%AB%E8%BF%AB%E7%AD%BE%E5%A3%B0%E6%98%8E)
+1. [云南中考历史题被曝多处史实错误](https://www.zhihu.com/search?q=%E4%BA%91%E5%8D%97%E4%B8%AD%E8%80%83%E5%8E%86%E5%8F%B2%E9%A2%98%E8%A2%AB%E6%9B%9D%E5%A4%9A%E5%A4%84%E5%8F%B2%E5%AE%9E%E9%94%99%E8%AF%AF)
+1. [星巴克被曝要求员工垫钱卖粽子](https://www.zhihu.com/search?q=%E6%98%9F%E5%B7%B4%E5%85%8B%E8%A2%AB%E6%9B%9D%E8%A6%81%E6%B1%82%E5%91%98%E5%B7%A5%E5%9E%AB%E9%92%B1%E5%8D%96%E7%B2%BD%E5%AD%90)
+1. [马宁1分钟2黄](https://www.zhihu.com/search?q=%E9%A9%AC%E5%AE%811%E5%88%86%E9%92%9F2%E9%BB%84)
+1. [突尼斯vs日本](https://www.zhihu.com/search?q=%E7%AA%81%E5%B0%BC%E6%96%AFvs%E6%97%A5%E6%9C%AC)
+1. [腾讯大幅下调员工 AI Token 额度](https://www.zhihu.com/search?q=%E8%85%BE%E8%AE%AF%E5%A4%A7%E5%B9%85%E4%B8%8B%E8%B0%83%E5%91%98%E5%B7%A5%20AI%20Token%20%E9%A2%9D%E5%BA%A6)
+1. [凡人修仙传团队发声明](https://www.zhihu.com/search?q=%E5%87%A1%E4%BA%BA%E4%BF%AE%E4%BB%99%E4%BC%A0%E5%9B%A2%E9%98%9F%E5%8F%91%E5%A3%B0%E6%98%8E)
 1. [婴儿体内测出甲酰胺内容已搜不到](https://www.zhihu.com/search?q=%E5%A9%B4%E5%84%BF%E4%BD%93%E5%86%85%E6%B5%8B%E5%87%BA%E7%94%B2%E9%85%B0%E8%83%BA%E5%86%85%E5%AE%B9%E5%B7%B2%E6%90%9C%E4%B8%8D%E5%88%B0)
 1. [荷兰vs瑞典](https://www.zhihu.com/search?q=%E8%8D%B7%E5%85%B0vs%E7%91%9E%E5%85%B8)
 1. [德国vs科特迪瓦](https://www.zhihu.com/search?q=%E5%BE%B7%E5%9B%BDvs%E7%A7%91%E7%89%B9%E8%BF%AA%E7%93%A6)
 1. [巴西3-0海地](https://www.zhihu.com/search?q=%E5%B7%B4%E8%A5%BF3-0%E6%B5%B7%E5%9C%B0)
-1. [纸尿裤报道专家称被迫签声明](https://www.zhihu.com/search?q=%E7%BA%B8%E5%B0%BF%E8%A3%A4%E6%8A%A5%E9%81%93%E4%B8%93%E5%AE%B6%E7%A7%B0%E8%A2%AB%E8%BF%AB%E7%AD%BE%E5%A3%B0%E6%98%8E)
 1. [母亲继承儿子游戏账号遭平台拒绝](https://www.zhihu.com/search?q=%E6%AF%8D%E4%BA%B2%E7%BB%A7%E6%89%BF%E5%84%BF%E5%AD%90%E6%B8%B8%E6%88%8F%E8%B4%A6%E5%8F%B7%E9%81%AD%E5%B9%B3%E5%8F%B0%E6%8B%92%E7%BB%9D)
 1. [外卖吃出血迹店员拒做传染筛查](https://www.zhihu.com/search?q=%E5%A4%96%E5%8D%96%E5%90%83%E5%87%BA%E8%A1%80%E8%BF%B9%E5%BA%97%E5%91%98%E6%8B%92%E5%81%9A%E4%BC%A0%E6%9F%93%E7%AD%9B%E6%9F%A5)
 
