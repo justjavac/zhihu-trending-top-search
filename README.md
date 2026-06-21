@@ -14,18 +14,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jun 21 2026 21:08:19 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jun 21 2026 23:54:07 GMT+0800 (China Standard Time) -->
 
 1. [吴倩被爸爸打掉牙齿不敢吐出来](https://www.zhihu.com/search?q=%E5%90%B4%E5%80%A9%E8%A2%AB%E7%88%B8%E7%88%B8%E6%89%93%E6%8E%89%E7%89%99%E9%BD%BF%E4%B8%8D%E6%95%A2%E5%90%90%E5%87%BA%E6%9D%A5)
 1. [多品牌婴幼儿纸尿裤检出甲酰胺](https://www.zhihu.com/search?q=%E5%A4%9A%E5%93%81%E7%89%8C%E5%A9%B4%E5%B9%BC%E5%84%BF%E7%BA%B8%E5%B0%BF%E8%A3%A4%E6%A3%80%E5%87%BA%E7%94%B2%E9%85%B0%E8%83%BA)
 1. [乌克兰袭击莫斯科炼油厂](https://www.zhihu.com/search?q=%E4%B9%8C%E5%85%8B%E5%85%B0%E8%A2%AD%E5%87%BB%E8%8E%AB%E6%96%AF%E7%A7%91%E7%82%BC%E6%B2%B9%E5%8E%82)
-1. [香港机场发生黄金大劫案](https://www.zhihu.com/search?q=%E9%A6%99%E6%B8%AF%E6%9C%BA%E5%9C%BA%E5%8F%91%E7%94%9F%E9%BB%84%E9%87%91%E5%A4%A7%E5%8A%AB%E6%A1%88)
-1. [突尼斯 0-4 日本](https://www.zhihu.com/search?q=%E7%AA%81%E5%B0%BC%E6%96%AF%200-4%20%E6%97%A5%E6%9C%AC)
 1. [云南中考历史题被曝多处史实错误](https://www.zhihu.com/search?q=%E4%BA%91%E5%8D%97%E4%B8%AD%E8%80%83%E5%8E%86%E5%8F%B2%E9%A2%98%E8%A2%AB%E6%9B%9D%E5%A4%9A%E5%A4%84%E5%8F%B2%E5%AE%9E%E9%94%99%E8%AF%AF)
+1. [突尼斯 0-4 日本](https://www.zhihu.com/search?q=%E7%AA%81%E5%B0%BC%E6%96%AF%200-4%20%E6%97%A5%E6%9C%AC)
+1. [美伊谈判代表均已抵达瑞士](https://www.zhihu.com/search?q=%E7%BE%8E%E4%BC%8A%E8%B0%88%E5%88%A4%E4%BB%A3%E8%A1%A8%E5%9D%87%E5%B7%B2%E6%8A%B5%E8%BE%BE%E7%91%9E%E5%A3%AB)
 1. [C罗首秀状态不佳全场0射正](https://www.zhihu.com/search?q=C%E7%BD%97%E9%A6%96%E7%A7%80%E7%8A%B6%E6%80%81%E4%B8%8D%E4%BD%B3%E5%85%A8%E5%9C%BA0%E5%B0%84%E6%AD%A3)
 1. [纸尿裤报道专家称被迫签声明](https://www.zhihu.com/search?q=%E7%BA%B8%E5%B0%BF%E8%A3%A4%E6%8A%A5%E9%81%93%E4%B8%93%E5%AE%B6%E7%A7%B0%E8%A2%AB%E8%BF%AB%E7%AD%BE%E5%A3%B0%E6%98%8E)
-1. [美伊谈判代表均已抵达瑞士](https://www.zhihu.com/search?q=%E7%BE%8E%E4%BC%8A%E8%B0%88%E5%88%A4%E4%BB%A3%E8%A1%A8%E5%9D%87%E5%B7%B2%E6%8A%B5%E8%BE%BE%E7%91%9E%E5%A3%AB)
 1. [星巴克被曝要求员工垫钱卖粽子](https://www.zhihu.com/search?q=%E6%98%9F%E5%B7%B4%E5%85%8B%E8%A2%AB%E6%9B%9D%E8%A6%81%E6%B1%82%E5%91%98%E5%B7%A5%E5%9E%AB%E9%92%B1%E5%8D%96%E7%B2%BD%E5%AD%90)
+1. [陈建斌蒋勤勤儿子录取伯克利](https://www.zhihu.com/search?q=%E9%99%88%E5%BB%BA%E6%96%8C%E8%92%8B%E5%8B%A4%E5%8B%A4%E5%84%BF%E5%AD%90%E5%BD%95%E5%8F%96%E4%BC%AF%E5%85%8B%E5%88%A9)
+1. [杨紫把腿合上](https://www.zhihu.com/search?q=%E6%9D%A8%E7%B4%AB%E6%8A%8A%E8%85%BF%E5%90%88%E4%B8%8A)
+1. [美国怀疑顶级光刻机流入中国ASML否认](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E6%80%80%E7%96%91%E9%A1%B6%E7%BA%A7%E5%85%89%E5%88%BB%E6%9C%BA%E6%B5%81%E5%85%A5%E4%B8%AD%E5%9B%BDASML%E5%90%A6%E8%AE%A4)
+1. [香港机场发生黄金大劫案](https://www.zhihu.com/search?q=%E9%A6%99%E6%B8%AF%E6%9C%BA%E5%9C%BA%E5%8F%91%E7%94%9F%E9%BB%84%E9%87%91%E5%A4%A7%E5%8A%AB%E6%A1%88)
 1. [豆包每日消耗数千万元](https://www.zhihu.com/search?q=%E8%B1%86%E5%8C%85%E6%AF%8F%E6%97%A5%E6%B6%88%E8%80%97%E6%95%B0%E5%8D%83%E4%B8%87%E5%85%83)
 1. [霍尔木兹海峡重启](https://www.zhihu.com/search?q=%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E9%87%8D%E5%90%AF)
 1. [武汉大学领导班子调整](https://www.zhihu.com/search?q=%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6%E9%A2%86%E5%AF%BC%E7%8F%AD%E5%AD%90%E8%B0%83%E6%95%B4)
