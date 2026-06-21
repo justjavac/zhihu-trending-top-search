@@ -14,21 +14,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jun 22 2026 03:45:53 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jun 22 2026 05:16:31 GMT+0800 (China Standard Time) -->
 
 1. [吴倩被爸爸打掉牙齿不敢吐出来](https://www.zhihu.com/search?q=%E5%90%B4%E5%80%A9%E8%A2%AB%E7%88%B8%E7%88%B8%E6%89%93%E6%8E%89%E7%89%99%E9%BD%BF%E4%B8%8D%E6%95%A2%E5%90%90%E5%87%BA%E6%9D%A5)
 1. [多品牌婴幼儿纸尿裤检出甲酰胺](https://www.zhihu.com/search?q=%E5%A4%9A%E5%93%81%E7%89%8C%E5%A9%B4%E5%B9%BC%E5%84%BF%E7%BA%B8%E5%B0%BF%E8%A3%A4%E6%A3%80%E5%87%BA%E7%94%B2%E9%85%B0%E8%83%BA)
-1. [比利时 vs 伊朗](https://www.zhihu.com/search?q=%E6%AF%94%E5%88%A9%E6%97%B6%20vs%20%E4%BC%8A%E6%9C%97)
 1. [西班牙 vs 沙特阿拉伯](https://www.zhihu.com/search?q=%E8%A5%BF%E7%8F%AD%E7%89%99%20vs%20%E6%B2%99%E7%89%B9%E9%98%BF%E6%8B%89%E4%BC%AF)
+1. [比利时 vs 伊朗](https://www.zhihu.com/search?q=%E6%AF%94%E5%88%A9%E6%97%B6%20vs%20%E4%BC%8A%E6%9C%97)
 1. [云南中考历史题被曝多处史实错误](https://www.zhihu.com/search?q=%E4%BA%91%E5%8D%97%E4%B8%AD%E8%80%83%E5%8E%86%E5%8F%B2%E9%A2%98%E8%A2%AB%E6%9B%9D%E5%A4%9A%E5%A4%84%E5%8F%B2%E5%AE%9E%E9%94%99%E8%AF%AF)
 1. [毕业季线下作品展预约](https://www.zhihu.com/search?q=%E6%AF%95%E4%B8%9A%E5%AD%A3%E7%BA%BF%E4%B8%8B%E4%BD%9C%E5%93%81%E5%B1%95%E9%A2%84%E7%BA%A6)
 1. [突尼斯 0-4 日本](https://www.zhihu.com/search?q=%E7%AA%81%E5%B0%BC%E6%96%AF%200-4%20%E6%97%A5%E6%9C%AC)
 1. [乌克兰袭击莫斯科炼油厂](https://www.zhihu.com/search?q=%E4%B9%8C%E5%85%8B%E5%85%B0%E8%A2%AD%E5%87%BB%E8%8E%AB%E6%96%AF%E7%A7%91%E7%82%BC%E6%B2%B9%E5%8E%82)
 1. [美伊谈判代表均已抵达瑞士](https://www.zhihu.com/search?q=%E7%BE%8E%E4%BC%8A%E8%B0%88%E5%88%A4%E4%BB%A3%E8%A1%A8%E5%9D%87%E5%B7%B2%E6%8A%B5%E8%BE%BE%E7%91%9E%E5%A3%AB)
 1. [C罗首秀状态不佳全场0射正](https://www.zhihu.com/search?q=C%E7%BD%97%E9%A6%96%E7%A7%80%E7%8A%B6%E6%80%81%E4%B8%8D%E4%BD%B3%E5%85%A8%E5%9C%BA0%E5%B0%84%E6%AD%A3)
+1. [周冬雨段奕宏被曝演话剧不背台词](https://www.zhihu.com/search?q=%E5%91%A8%E5%86%AC%E9%9B%A8%E6%AE%B5%E5%A5%95%E5%AE%8F%E8%A2%AB%E6%9B%9D%E6%BC%94%E8%AF%9D%E5%89%A7%E4%B8%8D%E8%83%8C%E5%8F%B0%E8%AF%8D)
 1. [纸尿裤报道专家称被迫签声明](https://www.zhihu.com/search?q=%E7%BA%B8%E5%B0%BF%E8%A3%A4%E6%8A%A5%E9%81%93%E4%B8%93%E5%AE%B6%E7%A7%B0%E8%A2%AB%E8%BF%AB%E7%AD%BE%E5%A3%B0%E6%98%8E)
 1. [星巴克被曝要求员工垫钱卖粽子](https://www.zhihu.com/search?q=%E6%98%9F%E5%B7%B4%E5%85%8B%E8%A2%AB%E6%9B%9D%E8%A6%81%E6%B1%82%E5%91%98%E5%B7%A5%E5%9E%AB%E9%92%B1%E5%8D%96%E7%B2%BD%E5%AD%90)
-1. [周冬雨段奕宏被曝演话剧不背台词](https://www.zhihu.com/search?q=%E5%91%A8%E5%86%AC%E9%9B%A8%E6%AE%B5%E5%A5%95%E5%AE%8F%E8%A2%AB%E6%9B%9D%E6%BC%94%E8%AF%9D%E5%89%A7%E4%B8%8D%E8%83%8C%E5%8F%B0%E8%AF%8D)
 
 <!-- END -->
 
