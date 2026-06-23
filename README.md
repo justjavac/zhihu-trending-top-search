@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jun 24 2026 01:58:49 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jun 24 2026 04:17:37 GMT+0800 (China Standard Time) -->
 
 1. [英国首相斯塔默辞职](https://www.zhihu.com/search?q=%E8%8B%B1%E5%9B%BD%E9%A6%96%E7%9B%B8%E6%96%AF%E5%A1%94%E9%BB%98%E8%BE%9E%E8%81%8C)
 1. [葡萄牙 vs 乌兹别克斯坦](https://www.zhihu.com/search?q=%E8%91%A1%E8%90%84%E7%89%99%20vs%20%E4%B9%8C%E5%85%B9%E5%88%AB%E5%85%8B%E6%96%AF%E5%9D%A6)
