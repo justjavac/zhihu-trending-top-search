@@ -14,20 +14,24 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jun 23 2026 13:03:11 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jun 23 2026 17:45:12 GMT+0800 (China Standard Time) -->
 
-1. [法国3-0伊拉克](https://www.zhihu.com/search?q=%E6%B3%95%E5%9B%BD3-0%E4%BC%8A%E6%8B%89%E5%85%8B)
-1. [阿根廷2-0奥地利](https://www.zhihu.com/search?q=%E9%98%BF%E6%A0%B9%E5%BB%B72-0%E5%A5%A5%E5%9C%B0%E5%88%A9)
 1. [佛得角门将收不续约通知](https://www.zhihu.com/search?q=%E4%BD%9B%E5%BE%97%E8%A7%92%E9%97%A8%E5%B0%86%E6%94%B6%E4%B8%8D%E7%BB%AD%E7%BA%A6%E9%80%9A%E7%9F%A5)
-1. [懂车帝京沪续航测试](https://www.zhihu.com/search?q=%E6%87%82%E8%BD%A6%E5%B8%9D%E4%BA%AC%E6%B2%AA%E7%BB%AD%E8%88%AA%E6%B5%8B%E8%AF%95)
-1. [姆巴佩梅开二度](https://www.zhihu.com/search?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6)
 1. [英国首相斯塔默辞职](https://www.zhihu.com/search?q=%E8%8B%B1%E5%9B%BD%E9%A6%96%E7%9B%B8%E6%96%AF%E5%A1%94%E9%BB%98%E8%BE%9E%E8%81%8C)
 1. [云南通报中考试卷史实错误](https://www.zhihu.com/search?q=%E4%BA%91%E5%8D%97%E9%80%9A%E6%8A%A5%E4%B8%AD%E8%80%83%E8%AF%95%E5%8D%B7%E5%8F%B2%E5%AE%9E%E9%94%99%E8%AF%AF)
 1. [多品牌婴幼儿纸尿裤检出甲酰胺](https://www.zhihu.com/search?q=%E5%A4%9A%E5%93%81%E7%89%8C%E5%A9%B4%E5%B9%BC%E5%84%BF%E7%BA%B8%E5%B0%BF%E8%A3%A4%E6%A3%80%E5%87%BA%E7%94%B2%E9%85%B0%E8%83%BA)
 1. [刘强东说将来根本不需要快递员](https://www.zhihu.com/search?q=%E5%88%98%E5%BC%BA%E4%B8%9C%E8%AF%B4%E5%B0%86%E6%9D%A5%E6%A0%B9%E6%9C%AC%E4%B8%8D%E9%9C%80%E8%A6%81%E5%BF%AB%E9%80%92%E5%91%98)
+1. [人民日报批烂梗泛滥](https://www.zhihu.com/search?q=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E6%89%B9%E7%83%82%E6%A2%97%E6%B3%9B%E6%BB%A5)
+1. [马斯克暴赚 7800 亿](https://www.zhihu.com/search?q=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%9A%B4%E8%B5%9A%207800%20%E4%BA%BF)
+1. [懂车帝京沪续航测试](https://www.zhihu.com/search?q=%E6%87%82%E8%BD%A6%E5%B8%9D%E4%BA%AC%E6%B2%AA%E7%BB%AD%E8%88%AA%E6%B5%8B%E8%AF%95)
+1. [法国3-0伊拉克](https://www.zhihu.com/search?q=%E6%B3%95%E5%9B%BD3-0%E4%BC%8A%E6%8B%89%E5%85%8B)
+1. [14岁国少球员遭成年队围殴骨折](https://www.zhihu.com/search?q=14%E5%B2%81%E5%9B%BD%E5%B0%91%E7%90%83%E5%91%98%E9%81%AD%E6%88%90%E5%B9%B4%E9%98%9F%E5%9B%B4%E6%AE%B4%E9%AA%A8%E6%8A%98)
+1. [甲酰胺纸尿裤记者发布公开信](https://www.zhihu.com/search?q=%E7%94%B2%E9%85%B0%E8%83%BA%E7%BA%B8%E5%B0%BF%E8%A3%A4%E8%AE%B0%E8%80%85%E5%8F%91%E5%B8%83%E5%85%AC%E5%BC%80%E4%BF%A1)
+1. [13岁女孩称遭强奸未被立案](https://www.zhihu.com/search?q=13%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%A7%B0%E9%81%AD%E5%BC%BA%E5%A5%B8%E6%9C%AA%E8%A2%AB%E7%AB%8B%E6%A1%88)
+1. [阿根廷2-0奥地利](https://www.zhihu.com/search?q=%E9%98%BF%E6%A0%B9%E5%BB%B72-0%E5%A5%A5%E5%9C%B0%E5%88%A9)
+1. [姆巴佩梅开二度](https://www.zhihu.com/search?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6)
 1. [月经弄脏火车床单女子起诉铁运方](https://www.zhihu.com/search?q=%E6%9C%88%E7%BB%8F%E5%BC%84%E8%84%8F%E7%81%AB%E8%BD%A6%E5%BA%8A%E5%8D%95%E5%A5%B3%E5%AD%90%E8%B5%B7%E8%AF%89%E9%93%81%E8%BF%90%E6%96%B9)
 1. [乌拉圭 2-2 佛得角](https://www.zhihu.com/search?q=%E4%B9%8C%E6%8B%89%E5%9C%AD%202-2%20%E4%BD%9B%E5%BE%97%E8%A7%92)
-1. [马斯克暴赚 7800 亿](https://www.zhihu.com/search?q=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%9A%B4%E8%B5%9A%207800%20%E4%BA%BF)
 1. [法国 vs 伊拉克](https://www.zhihu.com/search?q=%E6%B3%95%E5%9B%BD%20vs%20%E4%BC%8A%E6%8B%89%E5%85%8B)
 1. [武汉大学领导班子调整](https://www.zhihu.com/search?q=%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6%E9%A2%86%E5%AF%BC%E7%8F%AD%E5%AD%90%E8%B0%83%E6%95%B4)
 1. [阿根廷 vs 奥地利](https://www.zhihu.com/search?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%20vs%20%E5%A5%A5%E5%9C%B0%E5%88%A9)
