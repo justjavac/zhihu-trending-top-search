@@ -1,7 +1,7 @@
 [
   { "query_display": "英国首相斯塔默辞职", "real_query": "英国首相斯塔默辞职" },
-  { "query_display": "刘强东说将来根本不需要快递员", "real_query": "刘强东说将来根本不需要快递员" },
   { "query_display": "中国银行逃税近 24 亿被通报", "real_query": "中国银行逃税近 24 亿被通报" },
+  { "query_display": "刘强东说将来根本不需要快递员", "real_query": "刘强东说将来根本不需要快递员" },
   { "query_display": "葡萄牙5-0乌兹别克斯坦", "real_query": "葡萄牙5-0乌兹别克斯坦" },
   { "query_display": "恋与深空新男主致大规模退游", "real_query": "恋与深空新男主致大规模退游" },
   { "query_display": "C 罗葡萄牙世界杯射手王", "real_query": "C 罗葡萄牙世界杯射手王" },
@@ -10,5 +10,6 @@
   { "query_display": "懂车帝京沪续航测试", "real_query": "懂车帝京沪续航测试" },
   { "query_display": "小米电视误报地震预警", "real_query": "小米电视误报地震预警" },
   { "query_display": "英格兰 0-0 加纳", "real_query": "英格兰 0-0 加纳" },
+  { "query_display": "疑似小米员工发文置身米内", "real_query": "疑似小米员工发文置身米内" },
   { "query_display": "恒生科技指数跌入技术性熊市", "real_query": "恒生科技指数跌入技术性熊市" }
 ]
