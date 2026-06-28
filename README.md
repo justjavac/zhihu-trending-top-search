@@ -14,9 +14,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jun 29 2026 03:24:05 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jun 29 2026 05:04:15 GMT+0800 (China Standard Time) -->
 
+1. [四川宜宾地震](https://www.zhihu.com/search?q=%E5%9B%9B%E5%B7%9D%E5%AE%9C%E5%AE%BE%E5%9C%B0%E9%9C%87)
 1. [中国银行逃税近 24 亿被通报](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E9%93%B6%E8%A1%8C%E9%80%83%E7%A8%8E%E8%BF%91%2024%20%E4%BA%BF%E8%A2%AB%E9%80%9A%E6%8A%A5)
+1. [南非 vs 加拿大](https://www.zhihu.com/search?q=%E5%8D%97%E9%9D%9E%20vs%20%E5%8A%A0%E6%8B%BF%E5%A4%A7)
 1. [微信迎来史上最大更新](https://www.zhihu.com/search?q=%E5%BE%AE%E4%BF%A1%E8%BF%8E%E6%9D%A5%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7%E6%9B%B4%E6%96%B0)
 1. [世界杯32强对阵出炉](https://www.zhihu.com/search?q=%E4%B8%96%E7%95%8C%E6%9D%AF32%E5%BC%BA%E5%AF%B9%E9%98%B5%E5%87%BA%E7%82%89)
 1. [韩国网友怒骂德国故意输球](https://www.zhihu.com/search?q=%E9%9F%A9%E5%9B%BD%E7%BD%91%E5%8F%8B%E6%80%92%E9%AA%82%E5%BE%B7%E5%9B%BD%E6%95%85%E6%84%8F%E8%BE%93%E7%90%83)
