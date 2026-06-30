@@ -14,19 +14,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jun 30 2026 20:10:41 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jun 30 2026 23:30:07 GMT+0800 (China Standard Time) -->
 
-1. [德国点球4-5巴拉圭遭淘汰](https://www.zhihu.com/search?q=%E5%BE%B7%E5%9B%BD%E7%82%B9%E7%90%834-5%E5%B7%B4%E6%8B%89%E5%9C%AD%E9%81%AD%E6%B7%98%E6%B1%B0)
-1. [疑小米资深员工发表置身米内2.0](https://www.zhihu.com/search?q=%E7%96%91%E5%B0%8F%E7%B1%B3%E8%B5%84%E6%B7%B1%E5%91%98%E5%B7%A5%E5%8F%91%E8%A1%A8%E7%BD%AE%E8%BA%AB%E7%B1%B3%E5%86%852.0)
-1. [豆包被曝有后台审核人员](https://www.zhihu.com/search?q=%E8%B1%86%E5%8C%85%E8%A2%AB%E6%9B%9D%E6%9C%89%E5%90%8E%E5%8F%B0%E5%AE%A1%E6%A0%B8%E4%BA%BA%E5%91%98)
+1. [恋与深空取消上线敖尹](https://www.zhihu.com/search?q=%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%E5%8F%96%E6%B6%88%E4%B8%8A%E7%BA%BF%E6%95%96%E5%B0%B9)
+1. [曝娱乐圈大部分明星失业](https://www.zhihu.com/search?q=%E6%9B%9D%E5%A8%B1%E4%B9%90%E5%9C%88%E5%A4%A7%E9%83%A8%E5%88%86%E6%98%8E%E6%98%9F%E5%A4%B1%E4%B8%9A)
 1. [韩红就「走个面」言论道歉](https://www.zhihu.com/search?q=%E9%9F%A9%E7%BA%A2%E5%B0%B1%E3%80%8C%E8%B5%B0%E4%B8%AA%E9%9D%A2%E3%80%8D%E8%A8%80%E8%AE%BA%E9%81%93%E6%AD%89)
-1. [外网热议 OR 匿名模型来自中国](https://www.zhihu.com/search?q=%E5%A4%96%E7%BD%91%E7%83%AD%E8%AE%AE%20OR%20%E5%8C%BF%E5%90%8D%E6%A8%A1%E5%9E%8B%E6%9D%A5%E8%87%AA%E4%B8%AD%E5%9B%BD)
+1. [疑小米资深员工发表置身米内2.0](https://www.zhihu.com/search?q=%E7%96%91%E5%B0%8F%E7%B1%B3%E8%B5%84%E6%B7%B1%E5%91%98%E5%B7%A5%E5%8F%91%E8%A1%A8%E7%BD%AE%E8%BA%AB%E7%B1%B3%E5%86%852.0)
 1. [笔趣阁APP再次爆火](https://www.zhihu.com/search?q=%E7%AC%94%E8%B6%A3%E9%98%81APP%E5%86%8D%E6%AC%A1%E7%88%86%E7%81%AB)
 1. [韩红为「走个面儿」道歉并退出公益行业](https://www.zhihu.com/search?q=%E9%9F%A9%E7%BA%A2%E4%B8%BA%E3%80%8C%E8%B5%B0%E4%B8%AA%E9%9D%A2%E5%84%BF%E3%80%8D%E9%81%93%E6%AD%89%E5%B9%B6%E9%80%80%E5%87%BA%E5%85%AC%E7%9B%8A%E8%A1%8C%E4%B8%9A)
 1. [恋与深空回应三大争议](https://www.zhihu.com/search?q=%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%E5%9B%9E%E5%BA%94%E4%B8%89%E5%A4%A7%E4%BA%89%E8%AE%AE)
+1. [德国点球4-5巴拉圭遭淘汰](https://www.zhihu.com/search?q=%E5%BE%B7%E5%9B%BD%E7%82%B9%E7%90%834-5%E5%B7%B4%E6%8B%89%E5%9C%AD%E9%81%AD%E6%B7%98%E6%B1%B0)
+1. [deepseek 2026年6月29日调整收费](https://www.zhihu.com/search?q=deepseek%202026%E5%B9%B46%E6%9C%8829%E6%97%A5%E8%B0%83%E6%95%B4%E6%94%B6%E8%B4%B9)
+1. [豆包被曝有后台审核人员](https://www.zhihu.com/search?q=%E8%B1%86%E5%8C%85%E8%A2%AB%E6%9B%9D%E6%9C%89%E5%90%8E%E5%8F%B0%E5%AE%A1%E6%A0%B8%E4%BA%BA%E5%91%98)
 1. [央视揭露手机测评「特调机」作弊](https://www.zhihu.com/search?q=%E5%A4%AE%E8%A7%86%E6%8F%AD%E9%9C%B2%E6%89%8B%E6%9C%BA%E6%B5%8B%E8%AF%84%E3%80%8C%E7%89%B9%E8%B0%83%E6%9C%BA%E3%80%8D%E4%BD%9C%E5%BC%8A)
-1. [李在明怒批韩国队世界杯出局](https://www.zhihu.com/search?q=%E6%9D%8E%E5%9C%A8%E6%98%8E%E6%80%92%E6%89%B9%E9%9F%A9%E5%9B%BD%E9%98%9F%E4%B8%96%E7%95%8C%E6%9D%AF%E5%87%BA%E5%B1%80)
 1. [摩洛哥4-3淘汰荷兰](https://www.zhihu.com/search?q=%E6%91%A9%E6%B4%9B%E5%93%A54-3%E6%B7%98%E6%B1%B0%E8%8D%B7%E5%85%B0)
+1. [外网热议 OR 匿名模型来自中国](https://www.zhihu.com/search?q=%E5%A4%96%E7%BD%91%E7%83%AD%E8%AE%AE%20OR%20%E5%8C%BF%E5%90%8D%E6%A8%A1%E5%9E%8B%E6%9D%A5%E8%87%AA%E4%B8%AD%E5%9B%BD)
+1. [李在明怒批韩国队世界杯出局](https://www.zhihu.com/search?q=%E6%9D%8E%E5%9C%A8%E6%98%8E%E6%80%92%E6%89%B9%E9%9F%A9%E5%9B%BD%E9%98%9F%E4%B8%96%E7%95%8C%E6%9D%AF%E5%87%BA%E5%B1%80)
 1. [20 家日本实体被列入出口管制名单](https://www.zhihu.com/search?q=20%20%E5%AE%B6%E6%97%A5%E6%9C%AC%E5%AE%9E%E4%BD%93%E8%A2%AB%E5%88%97%E5%85%A5%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6%E5%90%8D%E5%8D%95)
 1. [派出所集体去 KTV 招陪侍被抓现行](https://www.zhihu.com/search?q=%E6%B4%BE%E5%87%BA%E6%89%80%E9%9B%86%E4%BD%93%E5%8E%BB%20KTV%20%E6%8B%9B%E9%99%AA%E4%BE%8D%E8%A2%AB%E6%8A%93%E7%8E%B0%E8%A1%8C)
 1. [德国点球 4-5 巴拉圭遭淘汰](https://www.zhihu.com/search?q=%E5%BE%B7%E5%9B%BD%E7%82%B9%E7%90%83%204-5%20%E5%B7%B4%E6%8B%89%E5%9C%AD%E9%81%AD%E6%B7%98%E6%B1%B0)
