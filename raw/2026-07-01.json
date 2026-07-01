@@ -1,8 +1,9 @@
 [
+  { "query_display": "法国 3-0 淘汰瑞典", "real_query": "法国 3-0 淘汰瑞典" },
   { "query_display": "曝娱乐圈大部分明星失业", "real_query": "曝娱乐圈大部分明星失业" },
+  { "query_display": "挪威 2-1 科特迪瓦", "real_query": "挪威 2-1 科特迪瓦" },
   { "query_display": "恋与深空取消上线敖尹", "real_query": "恋与深空取消上线敖尹" },
   { "query_display": "笔趣阁APP再次爆火", "real_query": "笔趣阁APP再次爆火" },
-  { "query_display": "法国 vs 瑞典", "real_query": "法国 vs 瑞典" },
   { "query_display": "韩红为「走个面儿」道歉并退出公益行业", "real_query": "韩红为「走个面儿」道歉并退出公益行业" },
   { "query_display": "deepseek 2026年6月29日调整收费", "real_query": "deepseek 2026年6月29日调整收费" },
   { "query_display": "豆包被曝有后台审核人员", "real_query": "豆包被曝有后台审核人员" },
@@ -10,6 +11,7 @@
   { "query_display": "恋与深空致歉玩家仍退游删号", "real_query": "恋与深空致歉玩家仍退游删号" },
   { "query_display": "恋与深空回应三大争议", "real_query": "恋与深空回应三大争议" },
   { "query_display": "韩红就「走个面」言论道歉", "real_query": "韩红就「走个面」言论道歉" },
+  { "query_display": "法国 vs 瑞典", "real_query": "法国 vs 瑞典" },
   { "query_display": "摩洛哥4-3淘汰荷兰", "real_query": "摩洛哥4-3淘汰荷兰" },
   { "query_display": "科特迪瓦 vs 挪威", "real_query": "科特迪瓦 vs 挪威" }
 ]
