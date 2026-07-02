@@ -14,16 +14,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jul 02 2026 08:10:30 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jul 02 2026 12:58:46 GMT+0800 (China Standard Time) -->
 
+1. [官方通报西安赛格商场人员坠楼](https://www.zhihu.com/search?q=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E8%A5%BF%E5%AE%89%E8%B5%9B%E6%A0%BC%E5%95%86%E5%9C%BA%E4%BA%BA%E5%91%98%E5%9D%A0%E6%A5%BC)
 1. [曝娱乐圈大部分明星失业](https://www.zhihu.com/search?q=%E6%9B%9D%E5%A8%B1%E4%B9%90%E5%9C%88%E5%A4%A7%E9%83%A8%E5%88%86%E6%98%8E%E6%98%9F%E5%A4%B1%E4%B8%9A)
+1. [iPhone18 Pro Max 银灰色意外泄露](https://www.zhihu.com/search?q=iPhone18%20Pro%20Max%20%E9%93%B6%E7%81%B0%E8%89%B2%E6%84%8F%E5%A4%96%E6%B3%84%E9%9C%B2)
+1. [清华大学毕业生合照出现小孩](https://www.zhihu.com/search?q=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E6%AF%95%E4%B8%9A%E7%94%9F%E5%90%88%E7%85%A7%E5%87%BA%E7%8E%B0%E5%B0%8F%E5%AD%A9)
+1. [张雪峰公司股份由11岁女儿接手](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%85%AC%E5%8F%B8%E8%82%A1%E4%BB%BD%E7%94%B111%E5%B2%81%E5%A5%B3%E5%84%BF%E6%8E%A5%E6%89%8B)
 1. [恋与深空取消上线敖尹](https://www.zhihu.com/search?q=%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%E5%8F%96%E6%B6%88%E4%B8%8A%E7%BA%BF%E6%95%96%E5%B0%B9)
-1. [比利时 3-2 塞内加尔](https://www.zhihu.com/search?q=%E6%AF%94%E5%88%A9%E6%97%B6%203-2%20%E5%A1%9E%E5%86%85%E5%8A%A0%E5%B0%94)
 1. [韩红为「走个面儿」道歉并退出公益行业](https://www.zhihu.com/search?q=%E9%9F%A9%E7%BA%A2%E4%B8%BA%E3%80%8C%E8%B5%B0%E4%B8%AA%E9%9D%A2%E5%84%BF%E3%80%8D%E9%81%93%E6%AD%89%E5%B9%B6%E9%80%80%E5%87%BA%E5%85%AC%E7%9B%8A%E8%A1%8C%E4%B8%9A)
-1. [英格兰 2-1 刚果金](https://www.zhihu.com/search?q=%E8%8B%B1%E6%A0%BC%E5%85%B0%202-1%20%E5%88%9A%E6%9E%9C%E9%87%91)
+1. [机器人伴侣定价 11.98 万至 99 万](https://www.zhihu.com/search?q=%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%B4%E4%BE%A3%E5%AE%9A%E4%BB%B7%2011.98%20%E4%B8%87%E8%87%B3%2099%20%E4%B8%87)
 1. [Claude被曝封杀中国大陆用户](https://www.zhihu.com/search?q=Claude%E8%A2%AB%E6%9B%9D%E5%B0%81%E6%9D%80%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E7%94%A8%E6%88%B7)
+1. [西安赛格](https://www.zhihu.com/search?q=%E8%A5%BF%E5%AE%89%E8%B5%9B%E6%A0%BC)
 1. [笔趣阁APP再次爆火](https://www.zhihu.com/search?q=%E7%AC%94%E8%B6%A3%E9%98%81APP%E5%86%8D%E6%AC%A1%E7%88%86%E7%81%AB)
 1. [恋与深空致歉玩家仍退游删号](https://www.zhihu.com/search?q=%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%E8%87%B4%E6%AD%89%E7%8E%A9%E5%AE%B6%E4%BB%8D%E9%80%80%E6%B8%B8%E5%88%A0%E5%8F%B7)
+1. [比利时 3-2 塞内加尔](https://www.zhihu.com/search?q=%E6%AF%94%E5%88%A9%E6%97%B6%203-2%20%E5%A1%9E%E5%86%85%E5%8A%A0%E5%B0%94)
+1. [英格兰 2-1 刚果金](https://www.zhihu.com/search?q=%E8%8B%B1%E6%A0%BC%E5%85%B0%202-1%20%E5%88%9A%E6%9E%9C%E9%87%91)
 1. [deepseek 2026年6月29日调整收费](https://www.zhihu.com/search?q=deepseek%202026%E5%B9%B46%E6%9C%8829%E6%97%A5%E8%B0%83%E6%95%B4%E6%94%B6%E8%B4%B9)
 1. [德国点球4-5巴拉圭遭淘汰](https://www.zhihu.com/search?q=%E5%BE%B7%E5%9B%BD%E7%82%B9%E7%90%834-5%E5%B7%B4%E6%8B%89%E5%9C%AD%E9%81%AD%E6%B7%98%E6%B1%B0)
 1. [上海高校追责「导师娶博士」作者](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E9%AB%98%E6%A0%A1%E8%BF%BD%E8%B4%A3%E3%80%8C%E5%AF%BC%E5%B8%88%E5%A8%B6%E5%8D%9A%E5%A3%AB%E3%80%8D%E4%BD%9C%E8%80%85)
