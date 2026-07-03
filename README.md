@@ -14,19 +14,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jul 03 2026 12:42:46 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jul 03 2026 16:10:58 GMT+0800 (China Standard Time) -->
 
 1. [葡萄牙 2-1 克罗地亚](https://www.zhihu.com/search?q=%E8%91%A1%E8%90%84%E7%89%99%202-1%20%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A)
 1. [官方通报西安赛格商场人员坠楼](https://www.zhihu.com/search?q=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E8%A5%BF%E5%AE%89%E8%B5%9B%E6%A0%BC%E5%95%86%E5%9C%BA%E4%BA%BA%E5%91%98%E5%9D%A0%E6%A5%BC)
-1. [西班牙 3-0 奥地利](https://www.zhihu.com/search?q=%E8%A5%BF%E7%8F%AD%E7%89%99%203-0%20%E5%A5%A5%E5%9C%B0%E5%88%A9)
 1. [恋与深空取消上线敖尹](https://www.zhihu.com/search?q=%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%E5%8F%96%E6%B6%88%E4%B8%8A%E7%BA%BF%E6%95%96%E5%B0%B9)
-1. [奈雪的茶股价暴跌 96%](https://www.zhihu.com/search?q=%E5%A5%88%E9%9B%AA%E7%9A%84%E8%8C%B6%E8%82%A1%E4%BB%B7%E6%9A%B4%E8%B7%8C%2096%25)
 1. [张雪峰公司股份由11岁女儿接手](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%85%AC%E5%8F%B8%E8%82%A1%E4%BB%BD%E7%94%B111%E5%B2%81%E5%A5%B3%E5%84%BF%E6%8E%A5%E6%89%8B)
+1. [奈雪的茶股价暴跌 96%](https://www.zhihu.com/search?q=%E5%A5%88%E9%9B%AA%E7%9A%84%E8%8C%B6%E8%82%A1%E4%BB%B7%E6%9A%B4%E8%B7%8C%2096%25)
 1. [iPhone18 Pro Max 银灰色意外泄露](https://www.zhihu.com/search?q=iPhone18%20Pro%20Max%20%E9%93%B6%E7%81%B0%E8%89%B2%E6%84%8F%E5%A4%96%E6%B3%84%E9%9C%B2)
-1. [比亚迪6月销量40.3万辆](https://www.zhihu.com/search?q=%E6%AF%94%E4%BA%9A%E8%BF%AA6%E6%9C%88%E9%94%80%E9%87%8F40.3%E4%B8%87%E8%BE%86)
 1. [老人被博主买光菜后返程遇难](https://www.zhihu.com/search?q=%E8%80%81%E4%BA%BA%E8%A2%AB%E5%8D%9A%E4%B8%BB%E4%B9%B0%E5%85%89%E8%8F%9C%E5%90%8E%E8%BF%94%E7%A8%8B%E9%81%87%E9%9A%BE)
-1. [机器人伴侣定价 11.98 万至 99 万](https://www.zhihu.com/search?q=%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%B4%E4%BE%A3%E5%AE%9A%E4%BB%B7%2011.98%20%E4%B8%87%E8%87%B3%2099%20%E4%B8%87)
+1. [比亚迪6月销量40.3万辆](https://www.zhihu.com/search?q=%E6%AF%94%E4%BA%9A%E8%BF%AA6%E6%9C%88%E9%94%80%E9%87%8F40.3%E4%B8%87%E8%BE%86)
 1. [西安赛格回应商户坠亡](https://www.zhihu.com/search?q=%E8%A5%BF%E5%AE%89%E8%B5%9B%E6%A0%BC%E5%9B%9E%E5%BA%94%E5%95%86%E6%88%B7%E5%9D%A0%E4%BA%A1)
+1. [机器人伴侣定价 11.98 万至 99 万](https://www.zhihu.com/search?q=%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%B4%E4%BE%A3%E5%AE%9A%E4%BB%B7%2011.98%20%E4%B8%87%E8%87%B3%2099%20%E4%B8%87)
+1. [恋与深空回应三大争议](https://www.zhihu.com/search?q=%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%E5%9B%9E%E5%BA%94%E4%B8%89%E5%A4%A7%E4%BA%89%E8%AE%AE)
+1. [夫妻月入两万被登记困难职工](https://www.zhihu.com/search?q=%E5%A4%AB%E5%A6%BB%E6%9C%88%E5%85%A5%E4%B8%A4%E4%B8%87%E8%A2%AB%E7%99%BB%E8%AE%B0%E5%9B%B0%E9%9A%BE%E8%81%8C%E5%B7%A5)
+1. [西班牙 3-0 奥地利](https://www.zhihu.com/search?q=%E8%A5%BF%E7%8F%AD%E7%89%99%203-0%20%E5%A5%A5%E5%9C%B0%E5%88%A9)
 1. [泰山建刀片刺绳隔离网](https://www.zhihu.com/search?q=%E6%B3%B0%E5%B1%B1%E5%BB%BA%E5%88%80%E7%89%87%E5%88%BA%E7%BB%B3%E9%9A%94%E7%A6%BB%E7%BD%91)
 1. [韩红为「走个面儿」道歉并退出公益行业](https://www.zhihu.com/search?q=%E9%9F%A9%E7%BA%A2%E4%B8%BA%E3%80%8C%E8%B5%B0%E4%B8%AA%E9%9D%A2%E5%84%BF%E3%80%8D%E9%81%93%E6%AD%89%E5%B9%B6%E9%80%80%E5%87%BA%E5%85%AC%E7%9B%8A%E8%A1%8C%E4%B8%9A)
 1. [清华大学毕业生合照出现小孩](https://www.zhihu.com/search?q=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E6%AF%95%E4%B8%9A%E7%94%9F%E5%90%88%E7%85%A7%E5%87%BA%E7%8E%B0%E5%B0%8F%E5%AD%A9)
