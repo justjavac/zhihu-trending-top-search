@@ -14,20 +14,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jul 05 2026 00:04:39 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jul 05 2026 02:03:26 GMT+0800 (China Standard Time) -->
 
+1. [加拿大 vs 摩洛哥](https://www.zhihu.com/search?q=%E5%8A%A0%E6%8B%BF%E5%A4%A7%20vs%20%E6%91%A9%E6%B4%9B%E5%93%A5)
 1. [阿根廷3-2险胜佛得角](https://www.zhihu.com/search?q=%E9%98%BF%E6%A0%B9%E5%BB%B73-2%E9%99%A9%E8%83%9C%E4%BD%9B%E5%BE%97%E8%A7%92)
 1. [官方通报西安赛格商场人员坠楼](https://www.zhihu.com/search?q=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E8%A5%BF%E5%AE%89%E8%B5%9B%E6%A0%BC%E5%95%86%E5%9C%BA%E4%BA%BA%E5%91%98%E5%9D%A0%E6%A5%BC)
 1. [夫妻月入两万被登记困难职工](https://www.zhihu.com/search?q=%E5%A4%AB%E5%A6%BB%E6%9C%88%E5%85%A5%E4%B8%A4%E4%B8%87%E8%A2%AB%E7%99%BB%E8%AE%B0%E5%9B%B0%E9%9A%BE%E8%81%8C%E5%B7%A5)
-1. [新能源汽车车船税优惠政策调整](https://www.zhihu.com/search?q=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E8%BD%A6%E8%88%B9%E7%A8%8E%E4%BC%98%E6%83%A0%E6%94%BF%E7%AD%96%E8%B0%83%E6%95%B4)
 1. [王力宏演唱会摔倒 面部出血](https://www.zhihu.com/search?q=%E7%8E%8B%E5%8A%9B%E5%AE%8F%E6%BC%94%E5%94%B1%E4%BC%9A%E6%91%94%E5%80%92%20%E9%9D%A2%E9%83%A8%E5%87%BA%E8%A1%80)
-1. [云南大理宾川4.4级地震](https://www.zhihu.com/search?q=%E4%BA%91%E5%8D%97%E5%A4%A7%E7%90%86%E5%AE%BE%E5%B7%9D4.4%E7%BA%A7%E5%9C%B0%E9%9C%87)
 1. [iPhone18 Pro Max 银灰色意外泄露](https://www.zhihu.com/search?q=iPhone18%20Pro%20Max%20%E9%93%B6%E7%81%B0%E8%89%B2%E6%84%8F%E5%A4%96%E6%B3%84%E9%9C%B2)
-1. [葡萄牙 2-1 克罗地亚](https://www.zhihu.com/search?q=%E8%91%A1%E8%90%84%E7%89%99%202-1%20%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A)
+1. [新能源汽车车船税优惠政策调整](https://www.zhihu.com/search?q=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E8%BD%A6%E8%88%B9%E7%A8%8E%E4%BC%98%E6%83%A0%E6%94%BF%E7%AD%96%E8%B0%83%E6%95%B4)
 1. [蒋方舟回应遭清华教授举报论文造假](https://www.zhihu.com/search?q=%E8%92%8B%E6%96%B9%E8%88%9F%E5%9B%9E%E5%BA%94%E9%81%AD%E6%B8%85%E5%8D%8E%E6%95%99%E6%8E%88%E4%B8%BE%E6%8A%A5%E8%AE%BA%E6%96%87%E9%80%A0%E5%81%87)
+1. [葡萄牙 2-1 克罗地亚](https://www.zhihu.com/search?q=%E8%91%A1%E8%90%84%E7%89%99%202-1%20%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A)
 1. [西安赛格回应商户坠亡](https://www.zhihu.com/search?q=%E8%A5%BF%E5%AE%89%E8%B5%9B%E6%A0%BC%E5%9B%9E%E5%BA%94%E5%95%86%E6%88%B7%E5%9D%A0%E4%BA%A1)
 1. [河南高考 699 分女生要去清华学医](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8D%97%E9%AB%98%E8%80%83%20699%20%E5%88%86%E5%A5%B3%E7%94%9F%E8%A6%81%E5%8E%BB%E6%B8%85%E5%8D%8E%E5%AD%A6%E5%8C%BB)
 1. [北京韩红爱心慈善基金会发说明](https://www.zhihu.com/search?q=%E5%8C%97%E4%BA%AC%E9%9F%A9%E7%BA%A2%E7%88%B1%E5%BF%83%E6%85%88%E5%96%84%E5%9F%BA%E9%87%91%E4%BC%9A%E5%8F%91%E8%AF%B4%E6%98%8E)
+1. [云南大理宾川4.4级地震](https://www.zhihu.com/search?q=%E4%BA%91%E5%8D%97%E5%A4%A7%E7%90%86%E5%AE%BE%E5%B7%9D4.4%E7%BA%A7%E5%9C%B0%E9%9C%87)
 
 <!-- END -->
 
