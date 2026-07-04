@@ -14,20 +14,23 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jul 04 2026 08:06:32 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jul 04 2026 12:36:35 GMT+0800 (China Standard Time) -->
 
-1. [阿根廷 vs 佛得角](https://www.zhihu.com/search?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%20vs%20%E4%BD%9B%E5%BE%97%E8%A7%92)
-1. [官方通报西安赛格商场人员坠楼](https://www.zhihu.com/search?q=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E8%A5%BF%E5%AE%89%E8%B5%9B%E6%A0%BC%E5%95%86%E5%9C%BA%E4%BA%BA%E5%91%98%E5%9D%A0%E6%A5%BC)
+1. [阿根廷3-2险胜佛得角](https://www.zhihu.com/search?q=%E9%98%BF%E6%A0%B9%E5%BB%B73-2%E9%99%A9%E8%83%9C%E4%BD%9B%E5%BE%97%E8%A7%92)
+1. [佛得角门将](https://www.zhihu.com/search?q=%E4%BD%9B%E5%BE%97%E8%A7%92%E9%97%A8%E5%B0%86)
 1. [埃及5-3淘汰澳大利亚](https://www.zhihu.com/search?q=%E5%9F%83%E5%8F%8A5-3%E6%B7%98%E6%B1%B0%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A)
 1. [新能源汽车车船税优惠政策调整](https://www.zhihu.com/search?q=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E8%BD%A6%E8%88%B9%E7%A8%8E%E4%BC%98%E6%83%A0%E6%94%BF%E7%AD%96%E8%B0%83%E6%95%B4)
-1. [澳大利亚 vs 埃及](https://www.zhihu.com/search?q=%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%20vs%20%E5%9F%83%E5%8F%8A)
+1. [哥伦比亚 1 比 0 加纳](https://www.zhihu.com/search?q=%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%201%20%E6%AF%94%200%20%E5%8A%A0%E7%BA%B3)
+1. [官方通报西安赛格商场人员坠楼](https://www.zhihu.com/search?q=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E8%A5%BF%E5%AE%89%E8%B5%9B%E6%A0%BC%E5%95%86%E5%9C%BA%E4%BA%BA%E5%91%98%E5%9D%A0%E6%A5%BC)
 1. [老人被博主买光菜后返程遇难](https://www.zhihu.com/search?q=%E8%80%81%E4%BA%BA%E8%A2%AB%E5%8D%9A%E4%B8%BB%E4%B9%B0%E5%85%89%E8%8F%9C%E5%90%8E%E8%BF%94%E7%A8%8B%E9%81%87%E9%9A%BE)
 1. [恋与深空取消上线敖尹](https://www.zhihu.com/search?q=%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%E5%8F%96%E6%B6%88%E4%B8%8A%E7%BA%BF%E6%95%96%E5%B0%B9)
 1. [葡萄牙 2-1 克罗地亚](https://www.zhihu.com/search?q=%E8%91%A1%E8%90%84%E7%89%99%202-1%20%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A)
 1. [夫妻月入两万被登记困难职工](https://www.zhihu.com/search?q=%E5%A4%AB%E5%A6%BB%E6%9C%88%E5%85%A5%E4%B8%A4%E4%B8%87%E8%A2%AB%E7%99%BB%E8%AE%B0%E5%9B%B0%E9%9A%BE%E8%81%8C%E5%B7%A5)
 1. [西安赛格回应商户坠亡](https://www.zhihu.com/search?q=%E8%A5%BF%E5%AE%89%E8%B5%9B%E6%A0%BC%E5%9B%9E%E5%BA%94%E5%95%86%E6%88%B7%E5%9D%A0%E4%BA%A1)
-1. [机器人伴侣定价 11.98 万至 99 万](https://www.zhihu.com/search?q=%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%B4%E4%BE%A3%E5%AE%9A%E4%BB%B7%2011.98%20%E4%B8%87%E8%87%B3%2099%20%E4%B8%87)
 1. [王楚钦1-3林德无缘美国大满贯八强](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A61-3%E6%9E%97%E5%BE%B7%E6%97%A0%E7%BC%98%E7%BE%8E%E5%9B%BD%E5%A4%A7%E6%BB%A1%E8%B4%AF%E5%85%AB%E5%BC%BA)
+1. [阿根廷 vs 佛得角](https://www.zhihu.com/search?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%20vs%20%E4%BD%9B%E5%BE%97%E8%A7%92)
+1. [澳大利亚 vs 埃及](https://www.zhihu.com/search?q=%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%20vs%20%E5%9F%83%E5%8F%8A)
+1. [机器人伴侣定价 11.98 万至 99 万](https://www.zhihu.com/search?q=%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%B4%E4%BE%A3%E5%AE%9A%E4%BB%B7%2011.98%20%E4%B8%87%E8%87%B3%2099%20%E4%B8%87)
 1. [DeepSeek崩了](https://www.zhihu.com/search?q=DeepSeek%E5%B4%A9%E4%BA%86)
 1. [河南高考 699 分女生要去清华学医](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8D%97%E9%AB%98%E8%80%83%20699%20%E5%88%86%E5%A5%B3%E7%94%9F%E8%A6%81%E5%8E%BB%E6%B8%85%E5%8D%8E%E5%AD%A6%E5%8C%BB)
 1. [iPhone18 Pro Max 银灰色意外泄露](https://www.zhihu.com/search?q=iPhone18%20Pro%20Max%20%E9%93%B6%E7%81%B0%E8%89%B2%E6%84%8F%E5%A4%96%E6%B3%84%E9%9C%B2)
