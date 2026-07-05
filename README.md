@@ -14,13 +14,14 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jul 06 2026 03:20:42 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jul 06 2026 05:03:26 GMT+0800 (China Standard Time) -->
 
-1. [人大通报未发现蒋方舟学术不端](https://www.zhihu.com/search?q=%E4%BA%BA%E5%A4%A7%E9%80%9A%E6%8A%A5%E6%9C%AA%E5%8F%91%E7%8E%B0%E8%92%8B%E6%96%B9%E8%88%9F%E5%AD%A6%E6%9C%AF%E4%B8%8D%E7%AB%AF)
 1. [王力宏演唱会摔倒 面部出血](https://www.zhihu.com/search?q=%E7%8E%8B%E5%8A%9B%E5%AE%8F%E6%BC%94%E5%94%B1%E4%BC%9A%E6%91%94%E5%80%92%20%E9%9D%A2%E9%83%A8%E5%87%BA%E8%A1%80)
 1. [湖南一家5口惨遭灭门案告破](https://www.zhihu.com/search?q=%E6%B9%96%E5%8D%97%E4%B8%80%E5%AE%B65%E5%8F%A3%E6%83%A8%E9%81%AD%E7%81%AD%E9%97%A8%E6%A1%88%E5%91%8A%E7%A0%B4)
+1. [巴西 vs 挪威](https://www.zhihu.com/search?q=%E5%B7%B4%E8%A5%BF%20vs%20%E6%8C%AA%E5%A8%81)
 1. [iPhone18 Pro Max 银灰色意外泄露](https://www.zhihu.com/search?q=iPhone18%20Pro%20Max%20%E9%93%B6%E7%81%B0%E8%89%B2%E6%84%8F%E5%A4%96%E6%B3%84%E9%9C%B2)
 1. [阿根廷3-2险胜佛得角](https://www.zhihu.com/search?q=%E9%98%BF%E6%A0%B9%E5%BB%B73-2%E9%99%A9%E8%83%9C%E4%BD%9B%E5%BE%97%E8%A7%92)
+1. [人大通报未发现蒋方舟学术不端](https://www.zhihu.com/search?q=%E4%BA%BA%E5%A4%A7%E9%80%9A%E6%8A%A5%E6%9C%AA%E5%8F%91%E7%8E%B0%E8%92%8B%E6%96%B9%E8%88%9F%E5%AD%A6%E6%9C%AF%E4%B8%8D%E7%AB%AF)
 1. [蒋方舟回应遭清华教授举报论文造假](https://www.zhihu.com/search?q=%E8%92%8B%E6%96%B9%E8%88%9F%E5%9B%9E%E5%BA%94%E9%81%AD%E6%B8%85%E5%8D%8E%E6%95%99%E6%8E%88%E4%B8%BE%E6%8A%A5%E8%AE%BA%E6%96%87%E9%80%A0%E5%81%87)
 1. [TSW3:1淘汰TES](https://www.zhihu.com/search?q=TSW3%3A1%E6%B7%98%E6%B1%B0TES)
 1. [北京韩红爱心慈善基金会发说明](https://www.zhihu.com/search?q=%E5%8C%97%E4%BA%AC%E9%9F%A9%E7%BA%A2%E7%88%B1%E5%BF%83%E6%85%88%E5%96%84%E5%9F%BA%E9%87%91%E4%BC%9A%E5%8F%91%E8%AF%B4%E6%98%8E)
