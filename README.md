@@ -14,13 +14,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jul 08 2026 03:58:17 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jul 08 2026 05:36:20 GMT+0800 (China Standard Time) -->
 
-1. [广西强降雨已致 6 人死亡](https://www.zhihu.com/search?q=%E5%B9%BF%E8%A5%BF%E5%BC%BA%E9%99%8D%E9%9B%A8%E5%B7%B2%E8%87%B4%206%20%E4%BA%BA%E6%AD%BB%E4%BA%A1)
-1. [阿根廷 vs 埃及](https://www.zhihu.com/search?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%20vs%20%E5%9F%83%E5%8F%8A)
 1. [广西南宁一水库坝体出现缺口](https://www.zhihu.com/search?q=%E5%B9%BF%E8%A5%BF%E5%8D%97%E5%AE%81%E4%B8%80%E6%B0%B4%E5%BA%93%E5%9D%9D%E4%BD%93%E5%87%BA%E7%8E%B0%E7%BC%BA%E5%8F%A3)
+1. [阿根廷 vs 埃及](https://www.zhihu.com/search?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%20vs%20%E5%9F%83%E5%8F%8A)
 1. [中国海军潜射战略导弹试射成功](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E6%B5%B7%E5%86%9B%E6%BD%9C%E5%B0%84%E6%88%98%E7%95%A5%E5%AF%BC%E5%BC%B9%E8%AF%95%E5%B0%84%E6%88%90%E5%8A%9F)
-1. [知名经济学家高善文去世](https://www.zhihu.com/search?q=%E7%9F%A5%E5%90%8D%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%AE%B6%E9%AB%98%E5%96%84%E6%96%87%E5%8E%BB%E4%B8%96)
 1. [司晓迪疑曝与鹿晗暧昧照](https://www.zhihu.com/search?q=%E5%8F%B8%E6%99%93%E8%BF%AA%E7%96%91%E6%9B%9D%E4%B8%8E%E9%B9%BF%E6%99%97%E6%9A%A7%E6%98%A7%E7%85%A7)
 1. [多益网络徐波称女儿被诱拐走](https://www.zhihu.com/search?q=%E5%A4%9A%E7%9B%8A%E7%BD%91%E7%BB%9C%E5%BE%90%E6%B3%A2%E7%A7%B0%E5%A5%B3%E5%84%BF%E8%A2%AB%E8%AF%B1%E6%8B%90%E8%B5%B0)
 1. [湖北黄冈鄂州出现龙卷风](https://www.zhihu.com/search?q=%E6%B9%96%E5%8C%97%E9%BB%84%E5%86%88%E9%84%82%E5%B7%9E%E5%87%BA%E7%8E%B0%E9%BE%99%E5%8D%B7%E9%A3%8E)
@@ -28,6 +26,10 @@
 1. [葡萄牙 0-1 西班牙](https://www.zhihu.com/search?q=%E8%91%A1%E8%90%84%E7%89%99%200-1%20%E8%A5%BF%E7%8F%AD%E7%89%99)
 1. [中公教育因股民荒诞赌约涨停](https://www.zhihu.com/search?q=%E4%B8%AD%E5%85%AC%E6%95%99%E8%82%B2%E5%9B%A0%E8%82%A1%E6%B0%91%E8%8D%92%E8%AF%9E%E8%B5%8C%E7%BA%A6%E6%B6%A8%E5%81%9C)
 1. [广西洪水致养蛇场眼镜蛇逃逸](https://www.zhihu.com/search?q=%E5%B9%BF%E8%A5%BF%E6%B4%AA%E6%B0%B4%E8%87%B4%E5%85%BB%E8%9B%87%E5%9C%BA%E7%9C%BC%E9%95%9C%E8%9B%87%E9%80%83%E9%80%B8)
+1. [美国 1-4 比利时](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%201-4%20%E6%AF%94%E5%88%A9%E6%97%B6)
+1. [前华为天才少年李博杰吐槽 DeepSeek 面试](https://www.zhihu.com/search?q=%E5%89%8D%E5%8D%8E%E4%B8%BA%E5%A4%A9%E6%89%8D%E5%B0%91%E5%B9%B4%E6%9D%8E%E5%8D%9A%E6%9D%B0%E5%90%90%E6%A7%BD%20DeepSeek%20%E9%9D%A2%E8%AF%95)
+1. [广西强降雨已致 6 人死亡](https://www.zhihu.com/search?q=%E5%B9%BF%E8%A5%BF%E5%BC%BA%E9%99%8D%E9%9B%A8%E5%B7%B2%E8%87%B4%206%20%E4%BA%BA%E6%AD%BB%E4%BA%A1)
+1. [知名经济学家高善文去世](https://www.zhihu.com/search?q=%E7%9F%A5%E5%90%8D%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%AE%B6%E9%AB%98%E5%96%84%E6%96%87%E5%8E%BB%E4%B8%96)
 1. [LV 被玩梗「厕所通风窗同款」](https://www.zhihu.com/search?q=LV%20%E8%A2%AB%E7%8E%A9%E6%A2%97%E3%80%8C%E5%8E%95%E6%89%80%E9%80%9A%E9%A3%8E%E7%AA%97%E5%90%8C%E6%AC%BE%E3%80%8D)
 
 <!-- END -->
