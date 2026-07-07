@@ -14,18 +14,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jul 07 2026 12:53:33 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jul 07 2026 16:24:03 GMT+0800 (China Standard Time) -->
 
-1. [广西南宁一水库坝体出现缺口](https://www.zhihu.com/search?q=%E5%B9%BF%E8%A5%BF%E5%8D%97%E5%AE%81%E4%B8%80%E6%B0%B4%E5%BA%93%E5%9D%9D%E4%BD%93%E5%87%BA%E7%8E%B0%E7%BC%BA%E5%8F%A3)
-1. [葡萄牙 0-1 西班牙](https://www.zhihu.com/search?q=%E8%91%A1%E8%90%84%E7%89%99%200-1%20%E8%A5%BF%E7%8F%AD%E7%89%99)
-1. [湖北黄冈鄂州出现龙卷风](https://www.zhihu.com/search?q=%E6%B9%96%E5%8C%97%E9%BB%84%E5%86%88%E9%84%82%E5%B7%9E%E5%87%BA%E7%8E%B0%E9%BE%99%E5%8D%B7%E9%A3%8E)
-1. [美国 1-4 比利时](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%201-4%20%E6%AF%94%E5%88%A9%E6%97%B6)
 1. [中国海军潜射战略导弹试射成功](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E6%B5%B7%E5%86%9B%E6%BD%9C%E5%B0%84%E6%88%98%E7%95%A5%E5%AF%BC%E5%BC%B9%E8%AF%95%E5%B0%84%E6%88%90%E5%8A%9F)
-1. [人大通报未发现蒋方舟学术不端](https://www.zhihu.com/search?q=%E4%BA%BA%E5%A4%A7%E9%80%9A%E6%8A%A5%E6%9C%AA%E5%8F%91%E7%8E%B0%E8%92%8B%E6%96%B9%E8%88%9F%E5%AD%A6%E6%9C%AF%E4%B8%8D%E7%AB%AF)
+1. [葡萄牙 0-1 西班牙](https://www.zhihu.com/search?q=%E8%91%A1%E8%90%84%E7%89%99%200-1%20%E8%A5%BF%E7%8F%AD%E7%89%99)
+1. [广西洪水冲毁养蛇场致眼镜蛇逃逸](https://www.zhihu.com/search?q=%E5%B9%BF%E8%A5%BF%E6%B4%AA%E6%B0%B4%E5%86%B2%E6%AF%81%E5%85%BB%E8%9B%87%E5%9C%BA%E8%87%B4%E7%9C%BC%E9%95%9C%E8%9B%87%E9%80%83%E9%80%B8)
+1. [美国 1-4 比利时](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%201-4%20%E6%AF%94%E5%88%A9%E6%97%B6)
+1. [湖北黄冈鄂州出现龙卷风](https://www.zhihu.com/search?q=%E6%B9%96%E5%8C%97%E9%BB%84%E5%86%88%E9%84%82%E5%B7%9E%E5%87%BA%E7%8E%B0%E9%BE%99%E5%8D%B7%E9%A3%8E)
+1. [广西南宁一水库坝体出现缺口](https://www.zhihu.com/search?q=%E5%B9%BF%E8%A5%BF%E5%8D%97%E5%AE%81%E4%B8%80%E6%B0%B4%E5%BA%93%E5%9D%9D%E4%BD%93%E5%87%BA%E7%8E%B0%E7%BC%BA%E5%8F%A3)
 1. [国家一级文物现「TCL 电视」字样](https://www.zhihu.com/search?q=%E5%9B%BD%E5%AE%B6%E4%B8%80%E7%BA%A7%E6%96%87%E7%89%A9%E7%8E%B0%E3%80%8CTCL%20%E7%94%B5%E8%A7%86%E3%80%8D%E5%AD%97%E6%A0%B7)
-1. [巴西1-2挪威](https://www.zhihu.com/search?q=%E5%B7%B4%E8%A5%BF1-2%E6%8C%AA%E5%A8%81)
 1. [iPhone18 Pro Max 银灰色意外泄露](https://www.zhihu.com/search?q=iPhone18%20Pro%20Max%20%E9%93%B6%E7%81%B0%E8%89%B2%E6%84%8F%E5%A4%96%E6%B3%84%E9%9C%B2)
+1. [巴西1-2挪威](https://www.zhihu.com/search?q=%E5%B7%B4%E8%A5%BF1-2%E6%8C%AA%E5%A8%81)
+1. [司晓迪疑曝与鹿晗暧昧照](https://www.zhihu.com/search?q=%E5%8F%B8%E6%99%93%E8%BF%AA%E7%96%91%E6%9B%9D%E4%B8%8E%E9%B9%BF%E6%99%97%E6%9A%A7%E6%98%A7%E7%85%A7)
+1. [多益网络徐波称女儿被诱拐走](https://www.zhihu.com/search?q=%E5%A4%9A%E7%9B%8A%E7%BD%91%E7%BB%9C%E5%BE%90%E6%B3%A2%E7%A7%B0%E5%A5%B3%E5%84%BF%E8%A2%AB%E8%AF%B1%E6%8B%90%E8%B5%B0)
 1. [十人英格兰3-2淘汰墨西哥](https://www.zhihu.com/search?q=%E5%8D%81%E4%BA%BA%E8%8B%B1%E6%A0%BC%E5%85%B03-2%E6%B7%98%E6%B1%B0%E5%A2%A8%E8%A5%BF%E5%93%A5)
+1. [人大通报未发现蒋方舟学术不端](https://www.zhihu.com/search?q=%E4%BA%BA%E5%A4%A7%E9%80%9A%E6%8A%A5%E6%9C%AA%E5%8F%91%E7%8E%B0%E8%92%8B%E6%96%B9%E8%88%9F%E5%AD%A6%E6%9C%AF%E4%B8%8D%E7%AB%AF)
 1. [印度调查苹果重大泄密事件](https://www.zhihu.com/search?q=%E5%8D%B0%E5%BA%A6%E8%B0%83%E6%9F%A5%E8%8B%B9%E6%9E%9C%E9%87%8D%E5%A4%A7%E6%B3%84%E5%AF%86%E4%BA%8B%E4%BB%B6)
 1. [美国前锋巴洛贡红牌禁赛被「缓刑」](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E5%89%8D%E9%94%8B%E5%B7%B4%E6%B4%9B%E8%B4%A1%E7%BA%A2%E7%89%8C%E7%A6%81%E8%B5%9B%E8%A2%AB%E3%80%8C%E7%BC%93%E5%88%91%E3%80%8D)
 1. [葡萄牙0-1 西班牙](https://www.zhihu.com/search?q=%E8%91%A1%E8%90%84%E7%89%990-1%20%E8%A5%BF%E7%8F%AD%E7%89%99)
