@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jul 09 2026 00:40:47 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jul 09 2026 02:19:22 GMT+0800 (China Standard Time) -->
 
 1. [广西南宁一水库坝体出现缺口](https://www.zhihu.com/search?q=%E5%B9%BF%E8%A5%BF%E5%8D%97%E5%AE%81%E4%B8%80%E6%B0%B4%E5%BA%93%E5%9D%9D%E4%BD%93%E5%87%BA%E7%8E%B0%E7%BC%BA%E5%8F%A3)
 1. [司晓迪疑曝与鹿晗暧昧照](https://www.zhihu.com/search?q=%E5%8F%B8%E6%99%93%E8%BF%AA%E7%96%91%E6%9B%9D%E4%B8%8E%E9%B9%BF%E6%99%97%E6%9A%A7%E6%98%A7%E7%85%A7)
@@ -23,11 +23,12 @@
 1. [阿根廷 3-2 埃及](https://www.zhihu.com/search?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%203-2%20%E5%9F%83%E5%8F%8A)
 1. [广西横州一名被蛇咬伤女子离世](https://www.zhihu.com/search?q=%E5%B9%BF%E8%A5%BF%E6%A8%AA%E5%B7%9E%E4%B8%80%E5%90%8D%E8%A2%AB%E8%9B%87%E5%92%AC%E4%BC%A4%E5%A5%B3%E5%AD%90%E7%A6%BB%E4%B8%96)
 1. [湖北黄冈鄂州出现龙卷风](https://www.zhihu.com/search?q=%E6%B9%96%E5%8C%97%E9%BB%84%E5%86%88%E9%84%82%E5%B7%9E%E5%87%BA%E7%8E%B0%E9%BE%99%E5%8D%B7%E9%A3%8E)
-1. [前华为天才少年李博杰吐槽 DeepSeek 面试](https://www.zhihu.com/search?q=%E5%89%8D%E5%8D%8E%E4%B8%BA%E5%A4%A9%E6%89%8D%E5%B0%91%E5%B9%B4%E6%9D%8E%E5%8D%9A%E6%9D%B0%E5%90%90%E6%A7%BD%20DeepSeek%20%E9%9D%A2%E8%AF%95)
 1. [雪糕遭大范围滞销](https://www.zhihu.com/search?q=%E9%9B%AA%E7%B3%95%E9%81%AD%E5%A4%A7%E8%8C%83%E5%9B%B4%E6%BB%9E%E9%94%80)
-1. [恋与深空取消上线敖尹](https://www.zhihu.com/search?q=%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%E5%8F%96%E6%B6%88%E4%B8%8A%E7%BA%BF%E6%95%96%E5%B0%B9)
 1. [埃及足协正式申诉 要求调查主裁判](https://www.zhihu.com/search?q=%E5%9F%83%E5%8F%8A%E8%B6%B3%E5%8D%8F%E6%AD%A3%E5%BC%8F%E7%94%B3%E8%AF%89%20%E8%A6%81%E6%B1%82%E8%B0%83%E6%9F%A5%E4%B8%BB%E8%A3%81%E5%88%A4)
+1. [恋与深空取消上线敖尹](https://www.zhihu.com/search?q=%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%E5%8F%96%E6%B6%88%E4%B8%8A%E7%BA%BF%E6%95%96%E5%B0%B9)
 1. [四川宜宾高县 5.0 级地震](https://www.zhihu.com/search?q=%E5%9B%9B%E5%B7%9D%E5%AE%9C%E5%AE%BE%E9%AB%98%E5%8E%BF%205.0%20%E7%BA%A7%E5%9C%B0%E9%9C%87)
+1. [超强级别台风巴威持续逼近](https://www.zhihu.com/search?q=%E8%B6%85%E5%BC%BA%E7%BA%A7%E5%88%AB%E5%8F%B0%E9%A3%8E%E5%B7%B4%E5%A8%81%E6%8C%81%E7%BB%AD%E9%80%BC%E8%BF%91)
+1. [前华为天才少年李博杰吐槽 DeepSeek 面试](https://www.zhihu.com/search?q=%E5%89%8D%E5%8D%8E%E4%B8%BA%E5%A4%A9%E6%89%8D%E5%B0%91%E5%B9%B4%E6%9D%8E%E5%8D%9A%E6%9D%B0%E5%90%90%E6%A7%BD%20DeepSeek%20%E9%9D%A2%E8%AF%95)
 
 <!-- END -->
 
