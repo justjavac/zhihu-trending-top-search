@@ -14,18 +14,19 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jul 08 2026 16:32:30 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jul 08 2026 19:06:53 GMT+0800 (China Standard Time) -->
 
-1. [司晓迪疑曝与鹿晗暧昧照](https://www.zhihu.com/search?q=%E5%8F%B8%E6%99%93%E8%BF%AA%E7%96%91%E6%9B%9D%E4%B8%8E%E9%B9%BF%E6%99%97%E6%9A%A7%E6%98%A7%E7%85%A7)
-1. [广西横州一名被蛇咬伤女子离世](https://www.zhihu.com/search?q=%E5%B9%BF%E8%A5%BF%E6%A8%AA%E5%B7%9E%E4%B8%80%E5%90%8D%E8%A2%AB%E8%9B%87%E5%92%AC%E4%BC%A4%E5%A5%B3%E5%AD%90%E7%A6%BB%E4%B8%96)
-1. [多益网络徐波称女儿被诱拐走](https://www.zhihu.com/search?q=%E5%A4%9A%E7%9B%8A%E7%BD%91%E7%BB%9C%E5%BE%90%E6%B3%A2%E7%A7%B0%E5%A5%B3%E5%84%BF%E8%A2%AB%E8%AF%B1%E6%8B%90%E8%B5%B0)
 1. [广西洪水致养蛇场眼镜蛇逃逸](https://www.zhihu.com/search?q=%E5%B9%BF%E8%A5%BF%E6%B4%AA%E6%B0%B4%E8%87%B4%E5%85%BB%E8%9B%87%E5%9C%BA%E7%9C%BC%E9%95%9C%E8%9B%87%E9%80%83%E9%80%B8)
+1. [广西横州一名被蛇咬伤女子离世](https://www.zhihu.com/search?q=%E5%B9%BF%E8%A5%BF%E6%A8%AA%E5%B7%9E%E4%B8%80%E5%90%8D%E8%A2%AB%E8%9B%87%E5%92%AC%E4%BC%A4%E5%A5%B3%E5%AD%90%E7%A6%BB%E4%B8%96)
+1. [阿根廷逆转绝杀埃及](https://www.zhihu.com/search?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E9%80%86%E8%BD%AC%E7%BB%9D%E6%9D%80%E5%9F%83%E5%8F%8A)
+1. [中公教育因股民荒诞赌约涨停](https://www.zhihu.com/search?q=%E4%B8%AD%E5%85%AC%E6%95%99%E8%82%B2%E5%9B%A0%E8%82%A1%E6%B0%91%E8%8D%92%E8%AF%9E%E8%B5%8C%E7%BA%A6%E6%B6%A8%E5%81%9C)
 1. [台风巴威登陆地基本锁定闽浙](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E%E5%B7%B4%E5%A8%81%E7%99%BB%E9%99%86%E5%9C%B0%E5%9F%BA%E6%9C%AC%E9%94%81%E5%AE%9A%E9%97%BD%E6%B5%99)
 1. [湖北黄冈鄂州出现龙卷风](https://www.zhihu.com/search?q=%E6%B9%96%E5%8C%97%E9%BB%84%E5%86%88%E9%84%82%E5%B7%9E%E5%87%BA%E7%8E%B0%E9%BE%99%E5%8D%B7%E9%A3%8E)
-1. [中公教育因股民荒诞赌约涨停](https://www.zhihu.com/search?q=%E4%B8%AD%E5%85%AC%E6%95%99%E8%82%B2%E5%9B%A0%E8%82%A1%E6%B0%91%E8%8D%92%E8%AF%9E%E8%B5%8C%E7%BA%A6%E6%B6%A8%E5%81%9C)
+1. [司晓迪疑曝与鹿晗暧昧照](https://www.zhihu.com/search?q=%E5%8F%B8%E6%99%93%E8%BF%AA%E7%96%91%E6%9B%9D%E4%B8%8E%E9%B9%BF%E6%99%97%E6%9A%A7%E6%98%A7%E7%85%A7)
 1. [广西南宁一水库坝体出现缺口](https://www.zhihu.com/search?q=%E5%B9%BF%E8%A5%BF%E5%8D%97%E5%AE%81%E4%B8%80%E6%B0%B4%E5%BA%93%E5%9D%9D%E4%BD%93%E5%87%BA%E7%8E%B0%E7%BC%BA%E5%8F%A3)
-1. [iPhone18 Pro Max 银灰色意外泄露](https://www.zhihu.com/search?q=iPhone18%20Pro%20Max%20%E9%93%B6%E7%81%B0%E8%89%B2%E6%84%8F%E5%A4%96%E6%B3%84%E9%9C%B2)
+1. [多益网络徐波称女儿被诱拐走](https://www.zhihu.com/search?q=%E5%A4%9A%E7%9B%8A%E7%BD%91%E7%BB%9C%E5%BE%90%E6%B3%A2%E7%A7%B0%E5%A5%B3%E5%84%BF%E8%A2%AB%E8%AF%B1%E6%8B%90%E8%B5%B0)
 1. [埃及球员怒喷裁判不公](https://www.zhihu.com/search?q=%E5%9F%83%E5%8F%8A%E7%90%83%E5%91%98%E6%80%92%E5%96%B7%E8%A3%81%E5%88%A4%E4%B8%8D%E5%85%AC)
+1. [iPhone18 Pro Max 银灰色意外泄露](https://www.zhihu.com/search?q=iPhone18%20Pro%20Max%20%E9%93%B6%E7%81%B0%E8%89%B2%E6%84%8F%E5%A4%96%E6%B3%84%E9%9C%B2)
 1. [前华为天才少年李博杰吐槽 DeepSeek 面试](https://www.zhihu.com/search?q=%E5%89%8D%E5%8D%8E%E4%B8%BA%E5%A4%A9%E6%89%8D%E5%B0%91%E5%B9%B4%E6%9D%8E%E5%8D%9A%E6%9D%B0%E5%90%90%E6%A7%BD%20DeepSeek%20%E9%9D%A2%E8%AF%95)
 1. [雪糕遭大范围滞销](https://www.zhihu.com/search?q=%E9%9B%AA%E7%B3%95%E9%81%AD%E5%A4%A7%E8%8C%83%E5%9B%B4%E6%BB%9E%E9%94%80)
 1. [四川宜宾高县 5.0 级地震](https://www.zhihu.com/search?q=%E5%9B%9B%E5%B7%9D%E5%AE%9C%E5%AE%BE%E9%AB%98%E5%8E%BF%205.0%20%E7%BA%A7%E5%9C%B0%E9%9C%87)
