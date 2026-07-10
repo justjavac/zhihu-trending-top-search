@@ -14,19 +14,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jul 10 2026 16:23:58 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jul 10 2026 19:53:39 GMT+0800 (China Standard Time) -->
 
 1. [台风巴威又改路线了](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E%E5%B7%B4%E5%A8%81%E5%8F%88%E6%94%B9%E8%B7%AF%E7%BA%BF%E4%BA%86)
-1. [长征十号乙火箭回收成功](https://www.zhihu.com/search?q=%E9%95%BF%E5%BE%81%E5%8D%81%E5%8F%B7%E4%B9%99%E7%81%AB%E7%AE%AD%E5%9B%9E%E6%94%B6%E6%88%90%E5%8A%9F)
-1. [广西南宁一水库坝体出现缺口](https://www.zhihu.com/search?q=%E5%B9%BF%E8%A5%BF%E5%8D%97%E5%AE%81%E4%B8%80%E6%B0%B4%E5%BA%93%E5%9D%9D%E4%BD%93%E5%87%BA%E7%8E%B0%E7%BC%BA%E5%8F%A3)
 1. [晋江鞋厂火灾已致 28 死](https://www.zhihu.com/search?q=%E6%99%8B%E6%B1%9F%E9%9E%8B%E5%8E%82%E7%81%AB%E7%81%BE%E5%B7%B2%E8%87%B4%2028%20%E6%AD%BB)
 1. [动物园灾前将猛兽锁死致多只溺亡](https://www.zhihu.com/search?q=%E5%8A%A8%E7%89%A9%E5%9B%AD%E7%81%BE%E5%89%8D%E5%B0%86%E7%8C%9B%E5%85%BD%E9%94%81%E6%AD%BB%E8%87%B4%E5%A4%9A%E5%8F%AA%E6%BA%BA%E4%BA%A1)
+1. [长征十号乙火箭回收成功](https://www.zhihu.com/search?q=%E9%95%BF%E5%BE%81%E5%8D%81%E5%8F%B7%E4%B9%99%E7%81%AB%E7%AE%AD%E5%9B%9E%E6%94%B6%E6%88%90%E5%8A%9F)
 1. [脱口秀演员唐香玉拒不道歉被强执](https://www.zhihu.com/search?q=%E8%84%B1%E5%8F%A3%E7%A7%80%E6%BC%94%E5%91%98%E5%94%90%E9%A6%99%E7%8E%89%E6%8B%92%E4%B8%8D%E9%81%93%E6%AD%89%E8%A2%AB%E5%BC%BA%E6%89%A7)
-1. [埃及足协正式申诉 要求调查主裁判](https://www.zhihu.com/search?q=%E5%9F%83%E5%8F%8A%E8%B6%B3%E5%8D%8F%E6%AD%A3%E5%BC%8F%E7%94%B3%E8%AF%89%20%E8%A6%81%E6%B1%82%E8%B0%83%E6%9F%A5%E4%B8%BB%E8%A3%81%E5%88%A4)
+1. [北京暴雨](https://www.zhihu.com/search?q=%E5%8C%97%E4%BA%AC%E6%9A%B4%E9%9B%A8)
 1. [法国 2-0 摩洛哥](https://www.zhihu.com/search?q=%E6%B3%95%E5%9B%BD%202-0%20%E6%91%A9%E6%B4%9B%E5%93%A5)
-1. [香港知名生殖中心发生错配事故](https://www.zhihu.com/search?q=%E9%A6%99%E6%B8%AF%E7%9F%A5%E5%90%8D%E7%94%9F%E6%AE%96%E4%B8%AD%E5%BF%83%E5%8F%91%E7%94%9F%E9%94%99%E9%85%8D%E4%BA%8B%E6%95%85)
+1. [埃及足协正式申诉 要求调查主裁判](https://www.zhihu.com/search?q=%E5%9F%83%E5%8F%8A%E8%B6%B3%E5%8D%8F%E6%AD%A3%E5%BC%8F%E7%94%B3%E8%AF%89%20%E8%A6%81%E6%B1%82%E8%B0%83%E6%9F%A5%E4%B8%BB%E8%A3%81%E5%88%A4)
 1. [东航航班乘客腹泻失禁事件](https://www.zhihu.com/search?q=%E4%B8%9C%E8%88%AA%E8%88%AA%E7%8F%AD%E4%B9%98%E5%AE%A2%E8%85%B9%E6%B3%BB%E5%A4%B1%E7%A6%81%E4%BA%8B%E4%BB%B6)
 1. [阿根廷 3-2 埃及](https://www.zhihu.com/search?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%203-2%20%E5%9F%83%E5%8F%8A)
+1. [广西洪水致养蛇场眼镜蛇逃逸](https://www.zhihu.com/search?q=%E5%B9%BF%E8%A5%BF%E6%B4%AA%E6%B0%B4%E8%87%B4%E5%85%BB%E8%9B%87%E5%9C%BA%E7%9C%BC%E9%95%9C%E8%9B%87%E9%80%83%E9%80%B8)
+1. [广东IP劝江浙沪囤货](https://www.zhihu.com/search?q=%E5%B9%BF%E4%B8%9CIP%E5%8A%9D%E6%B1%9F%E6%B5%99%E6%B2%AA%E5%9B%A4%E8%B4%A7)
+1. [广西南宁一水库坝体出现缺口](https://www.zhihu.com/search?q=%E5%B9%BF%E8%A5%BF%E5%8D%97%E5%AE%81%E4%B8%80%E6%B0%B4%E5%BA%93%E5%9D%9D%E4%BD%93%E5%87%BA%E7%8E%B0%E7%BC%BA%E5%8F%A3)
+1. [香港知名生殖中心发生错配事故](https://www.zhihu.com/search?q=%E9%A6%99%E6%B8%AF%E7%9F%A5%E5%90%8D%E7%94%9F%E6%AE%96%E4%B8%AD%E5%BF%83%E5%8F%91%E7%94%9F%E9%94%99%E9%85%8D%E4%BA%8B%E6%95%85)
 1. [湖北黄冈鄂州出现龙卷风](https://www.zhihu.com/search?q=%E6%B9%96%E5%8C%97%E9%BB%84%E5%86%88%E9%84%82%E5%B7%9E%E5%87%BA%E7%8E%B0%E9%BE%99%E5%8D%B7%E9%A3%8E)
 1. [超强级别台风巴威持续逼近](https://www.zhihu.com/search?q=%E8%B6%85%E5%BC%BA%E7%BA%A7%E5%88%AB%E5%8F%B0%E9%A3%8E%E5%B7%B4%E5%A8%81%E6%8C%81%E7%BB%AD%E9%80%BC%E8%BF%91)
 1. [司晓迪疑曝与鹿晗暧昧照](https://www.zhihu.com/search?q=%E5%8F%B8%E6%99%93%E8%BF%AA%E7%96%91%E6%9B%9D%E4%B8%8E%E9%B9%BF%E6%99%97%E6%9A%A7%E6%98%A7%E7%85%A7)
