@@ -14,10 +14,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jul 10 2026 06:23:57 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jul 10 2026 08:06:36 GMT+0800 (China Standard Time) -->
 
-1. [广西南宁一水库坝体出现缺口](https://www.zhihu.com/search?q=%E5%B9%BF%E8%A5%BF%E5%8D%97%E5%AE%81%E4%B8%80%E6%B0%B4%E5%BA%93%E5%9D%9D%E4%BD%93%E5%87%BA%E7%8E%B0%E7%BC%BA%E5%8F%A3)
 1. [司晓迪疑曝与鹿晗暧昧照](https://www.zhihu.com/search?q=%E5%8F%B8%E6%99%93%E8%BF%AA%E7%96%91%E6%9B%9D%E4%B8%8E%E9%B9%BF%E6%99%97%E6%9A%A7%E6%98%A7%E7%85%A7)
+1. [法国 2-0 摩洛哥](https://www.zhihu.com/search?q=%E6%B3%95%E5%9B%BD%202-0%20%E6%91%A9%E6%B4%9B%E5%93%A5)
+1. [广西南宁一水库坝体出现缺口](https://www.zhihu.com/search?q=%E5%B9%BF%E8%A5%BF%E5%8D%97%E5%AE%81%E4%B8%80%E6%B0%B4%E5%BA%93%E5%9D%9D%E4%BD%93%E5%87%BA%E7%8E%B0%E7%BC%BA%E5%8F%A3)
 1. [超强级别台风巴威持续逼近](https://www.zhihu.com/search?q=%E8%B6%85%E5%BC%BA%E7%BA%A7%E5%88%AB%E5%8F%B0%E9%A3%8E%E5%B7%B4%E5%A8%81%E6%8C%81%E7%BB%AD%E9%80%BC%E8%BF%91)
 1. [动物园灾前将猛兽锁死致多只溺亡](https://www.zhihu.com/search?q=%E5%8A%A8%E7%89%A9%E5%9B%AD%E7%81%BE%E5%89%8D%E5%B0%86%E7%8C%9B%E5%85%BD%E9%94%81%E6%AD%BB%E8%87%B4%E5%A4%9A%E5%8F%AA%E6%BA%BA%E4%BA%A1)
 1. [脱口秀演员唐香玉拒不道歉被强执](https://www.zhihu.com/search?q=%E8%84%B1%E5%8F%A3%E7%A7%80%E6%BC%94%E5%91%98%E5%94%90%E9%A6%99%E7%8E%89%E6%8B%92%E4%B8%8D%E9%81%93%E6%AD%89%E8%A2%AB%E5%BC%BA%E6%89%A7)
@@ -26,6 +27,7 @@
 1. [网友吐槽等退休是场骗局](https://www.zhihu.com/search?q=%E7%BD%91%E5%8F%8B%E5%90%90%E6%A7%BD%E7%AD%89%E9%80%80%E4%BC%91%E6%98%AF%E5%9C%BA%E9%AA%97%E5%B1%80)
 1. [阿根廷 3-2 埃及](https://www.zhihu.com/search?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%203-2%20%E5%9F%83%E5%8F%8A)
 1. [湖北黄冈鄂州出现龙卷风](https://www.zhihu.com/search?q=%E6%B9%96%E5%8C%97%E9%BB%84%E5%86%88%E9%84%82%E5%B7%9E%E5%87%BA%E7%8E%B0%E9%BE%99%E5%8D%B7%E9%A3%8E)
+1. [鹿晗工作室被踢出超话](https://www.zhihu.com/search?q=%E9%B9%BF%E6%99%97%E5%B7%A5%E4%BD%9C%E5%AE%A4%E8%A2%AB%E8%B8%A2%E5%87%BA%E8%B6%85%E8%AF%9D)
 1. [东航航班乘客腹泻失禁事件](https://www.zhihu.com/search?q=%E4%B8%9C%E8%88%AA%E8%88%AA%E7%8F%AD%E4%B9%98%E5%AE%A2%E8%85%B9%E6%B3%BB%E5%A4%B1%E7%A6%81%E4%BA%8B%E4%BB%B6)
 1. [法国vs摩洛哥](https://www.zhihu.com/search?q=%E6%B3%95%E5%9B%BDvs%E6%91%A9%E6%B4%9B%E5%93%A5)
 1. [国家一级文物现「TCL 电视」字样](https://www.zhihu.com/search?q=%E5%9B%BD%E5%AE%B6%E4%B8%80%E7%BA%A7%E6%96%87%E7%89%A9%E7%8E%B0%E3%80%8CTCL%20%E7%94%B5%E8%A7%86%E3%80%8D%E5%AD%97%E6%A0%B7)
