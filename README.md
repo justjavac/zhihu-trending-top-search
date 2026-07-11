@@ -14,19 +14,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jul 12 2026 04:51:47 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jul 12 2026 05:51:57 GMT+0800 (China Standard Time) -->
 
 1. [台风巴威登陆](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E%E5%B7%B4%E5%A8%81%E7%99%BB%E9%99%86)
 1. [长征十号乙火箭回收成功](https://www.zhihu.com/search?q=%E9%95%BF%E5%BE%81%E5%8D%81%E5%8F%B7%E4%B9%99%E7%81%AB%E7%AE%AD%E5%9B%9E%E6%94%B6%E6%88%90%E5%8A%9F)
+1. [挪威 vs 英格兰](https://www.zhihu.com/search?q=%E6%8C%AA%E5%A8%81%20vs%20%E8%8B%B1%E6%A0%BC%E5%85%B0)
 1. [长沙通报体育局员工恶意霸占车位](https://www.zhihu.com/search?q=%E9%95%BF%E6%B2%99%E9%80%9A%E6%8A%A5%E4%BD%93%E8%82%B2%E5%B1%80%E5%91%98%E5%B7%A5%E6%81%B6%E6%84%8F%E9%9C%B8%E5%8D%A0%E8%BD%A6%E4%BD%8D)
-1. [抖音崩了](https://www.zhihu.com/search?q=%E6%8A%96%E9%9F%B3%E5%B4%A9%E4%BA%86)
 1. [晋江鞋厂火灾已致 28 死](https://www.zhihu.com/search?q=%E6%99%8B%E6%B1%9F%E9%9E%8B%E5%8E%82%E7%81%AB%E7%81%BE%E5%B7%B2%E8%87%B4%2028%20%E6%AD%BB)
 1. [巴威再度增强为强台风级](https://www.zhihu.com/search?q=%E5%B7%B4%E5%A8%81%E5%86%8D%E5%BA%A6%E5%A2%9E%E5%BC%BA%E4%B8%BA%E5%BC%BA%E5%8F%B0%E9%A3%8E%E7%BA%A7)
 1. [台风巴威登陆后将直奔山东](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E%E5%B7%B4%E5%A8%81%E7%99%BB%E9%99%86%E5%90%8E%E5%B0%86%E7%9B%B4%E5%A5%94%E5%B1%B1%E4%B8%9C)
 1. [西班牙2-1比利时](https://www.zhihu.com/search?q=%E8%A5%BF%E7%8F%AD%E7%89%992-1%E6%AF%94%E5%88%A9%E6%97%B6)
 1. [丘成桐回应「清退」事件](https://www.zhihu.com/search?q=%E4%B8%98%E6%88%90%E6%A1%90%E5%9B%9E%E5%BA%94%E3%80%8C%E6%B8%85%E9%80%80%E3%80%8D%E4%BA%8B%E4%BB%B6)
-1. [功夫女足票房突破1亿](https://www.zhihu.com/search?q=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E7%A5%A8%E6%88%BF%E7%AA%81%E7%A0%B41%E4%BA%BF)
+1. [挪威vs英格兰](https://www.zhihu.com/search?q=%E6%8C%AA%E5%A8%81vs%E8%8B%B1%E6%A0%BC%E5%85%B0)
 1. [鹿晗 司晓迪](https://www.zhihu.com/search?q=%E9%B9%BF%E6%99%97%20%E5%8F%B8%E6%99%93%E8%BF%AA)
+1. [功夫女足票房突破1亿](https://www.zhihu.com/search?q=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E7%A5%A8%E6%88%BF%E7%AA%81%E7%A0%B41%E4%BA%BF)
+1. [抖音崩了](https://www.zhihu.com/search?q=%E6%8A%96%E9%9F%B3%E5%B4%A9%E4%BA%86)
 1. [南非世界杯球员杰登亚当斯离世](https://www.zhihu.com/search?q=%E5%8D%97%E9%9D%9E%E4%B8%96%E7%95%8C%E6%9D%AF%E7%90%83%E5%91%98%E6%9D%B0%E7%99%BB%E4%BA%9A%E5%BD%93%E6%96%AF%E7%A6%BB%E4%B8%96)
 1. [浙江 3 地海水倒灌风险较高](https://www.zhihu.com/search?q=%E6%B5%99%E6%B1%9F%203%20%E5%9C%B0%E6%B5%B7%E6%B0%B4%E5%80%92%E7%81%8C%E9%A3%8E%E9%99%A9%E8%BE%83%E9%AB%98)
 
