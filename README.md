@@ -14,20 +14,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jul 12 2026 17:03:16 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jul 12 2026 19:11:47 GMT+0800 (China Standard Time) -->
 
-1. [阿根廷3-1瑞士进4强](https://www.zhihu.com/search?q=%E9%98%BF%E6%A0%B9%E5%BB%B73-1%E7%91%9E%E5%A3%AB%E8%BF%9B4%E5%BC%BA)
+1. [长征十号乙火箭回收成功](https://www.zhihu.com/search?q=%E9%95%BF%E5%BE%81%E5%8D%81%E5%8F%B7%E4%B9%99%E7%81%AB%E7%AE%AD%E5%9B%9E%E6%94%B6%E6%88%90%E5%8A%9F)
 1. [6月新增新冠确诊7.9万例](https://www.zhihu.com/search?q=6%E6%9C%88%E6%96%B0%E5%A2%9E%E6%96%B0%E5%86%A0%E7%A1%AE%E8%AF%8A7.9%E4%B8%87%E4%BE%8B)
 1. [台风巴威深入内陆](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E%E5%B7%B4%E5%A8%81%E6%B7%B1%E5%85%A5%E5%86%85%E9%99%86)
-1. [长征十号乙火箭回收成功](https://www.zhihu.com/search?q=%E9%95%BF%E5%BE%81%E5%8D%81%E5%8F%B7%E4%B9%99%E7%81%AB%E7%AE%AD%E5%9B%9E%E6%94%B6%E6%88%90%E5%8A%9F)
 1. [台风巴威登陆](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E%E5%B7%B4%E5%A8%81%E7%99%BB%E9%99%86)
-1. [哈兰德告别世界杯](https://www.zhihu.com/search?q=%E5%93%88%E5%85%B0%E5%BE%B7%E5%91%8A%E5%88%AB%E4%B8%96%E7%95%8C%E6%9D%AF)
 1. [长沙通报体育局员工恶意霸占车位](https://www.zhihu.com/search?q=%E9%95%BF%E6%B2%99%E9%80%9A%E6%8A%A5%E4%BD%93%E8%82%B2%E5%B1%80%E5%91%98%E5%B7%A5%E6%81%B6%E6%84%8F%E9%9C%B8%E5%8D%A0%E8%BD%A6%E4%BD%8D)
+1. [哈兰德告别世界杯](https://www.zhihu.com/search?q=%E5%93%88%E5%85%B0%E5%BE%B7%E5%91%8A%E5%88%AB%E4%B8%96%E7%95%8C%E6%9D%AF)
+1. [隋坡差评餐厅老板逆天回怼](https://www.zhihu.com/search?q=%E9%9A%8B%E5%9D%A1%E5%B7%AE%E8%AF%84%E9%A4%90%E5%8E%85%E8%80%81%E6%9D%BF%E9%80%86%E5%A4%A9%E5%9B%9E%E6%80%BC)
 1. [晋江鞋厂火灾已致 28 死](https://www.zhihu.com/search?q=%E6%99%8B%E6%B1%9F%E9%9E%8B%E5%8E%82%E7%81%AB%E7%81%BE%E5%B7%B2%E8%87%B4%2028%20%E6%AD%BB)
 1. [英格兰2-1淘汰挪威](https://www.zhihu.com/search?q=%E8%8B%B1%E6%A0%BC%E5%85%B02-1%E6%B7%98%E6%B1%B0%E6%8C%AA%E5%A8%81)
 1. [鹿晗 司晓迪](https://www.zhihu.com/search?q=%E9%B9%BF%E6%99%97%20%E5%8F%B8%E6%99%93%E8%BF%AA)
-1. [隋坡差评餐厅老板逆天回怼](https://www.zhihu.com/search?q=%E9%9A%8B%E5%9D%A1%E5%B7%AE%E8%AF%84%E9%A4%90%E5%8E%85%E8%80%81%E6%9D%BF%E9%80%86%E5%A4%A9%E5%9B%9E%E6%80%BC)
 1. [丘成桐回应「清退」事件](https://www.zhihu.com/search?q=%E4%B8%98%E6%88%90%E6%A1%90%E5%9B%9E%E5%BA%94%E3%80%8C%E6%B8%85%E9%80%80%E3%80%8D%E4%BA%8B%E4%BB%B6)
+1. [恋与深空取消上线敖尹](https://www.zhihu.com/search?q=%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%E5%8F%96%E6%B6%88%E4%B8%8A%E7%BA%BF%E6%95%96%E5%B0%B9)
+1. [阿根廷3-1瑞士进4强](https://www.zhihu.com/search?q=%E9%98%BF%E6%A0%B9%E5%BB%B73-1%E7%91%9E%E5%A3%AB%E8%BF%9B4%E5%BC%BA)
 1. [papi 酱邀梁靖崑上节目](https://www.zhihu.com/search?q=papi%20%E9%85%B1%E9%82%80%E6%A2%81%E9%9D%96%E5%B4%91%E4%B8%8A%E8%8A%82%E7%9B%AE)
 1. [阿根廷vs瑞士](https://www.zhihu.com/search?q=%E9%98%BF%E6%A0%B9%E5%BB%B7vs%E7%91%9E%E5%A3%AB)
 1. [西班牙2-1比利时](https://www.zhihu.com/search?q=%E8%A5%BF%E7%8F%AD%E7%89%992-1%E6%AF%94%E5%88%A9%E6%97%B6)
