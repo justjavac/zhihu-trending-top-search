@@ -14,20 +14,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jul 13 2026 01:59:41 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jul 13 2026 03:18:12 GMT+0800 (China Standard Time) -->
 
-1. [中华人民共和国外交部郑重声明](https://www.zhihu.com/search?q=%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%A4%96%E4%BA%A4%E9%83%A8%E9%83%91%E9%87%8D%E5%A3%B0%E6%98%8E)
 1. [6月新增新冠确诊7.9万例](https://www.zhihu.com/search?q=6%E6%9C%88%E6%96%B0%E5%A2%9E%E6%96%B0%E5%86%A0%E7%A1%AE%E8%AF%8A7.9%E4%B8%87%E4%BE%8B)
 1. [鹿晗 司晓迪](https://www.zhihu.com/search?q=%E9%B9%BF%E6%99%97%20%E5%8F%B8%E6%99%93%E8%BF%AA)
 1. [台风巴威登陆](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E%E5%B7%B4%E5%A8%81%E7%99%BB%E9%99%86)
-1. [长征十号乙火箭回收成功](https://www.zhihu.com/search?q=%E9%95%BF%E5%BE%81%E5%8D%81%E5%8F%B7%E4%B9%99%E7%81%AB%E7%AE%AD%E5%9B%9E%E6%94%B6%E6%88%90%E5%8A%9F)
 1. [阿根廷3-1瑞士进4强](https://www.zhihu.com/search?q=%E9%98%BF%E6%A0%B9%E5%BB%B73-1%E7%91%9E%E5%A3%AB%E8%BF%9B4%E5%BC%BA)
 1. [隋坡差评餐厅老板逆天回怼](https://www.zhihu.com/search?q=%E9%9A%8B%E5%9D%A1%E5%B7%AE%E8%AF%84%E9%A4%90%E5%8E%85%E8%80%81%E6%9D%BF%E9%80%86%E5%A4%A9%E5%9B%9E%E6%80%BC)
+1. [长征十号乙火箭回收成功](https://www.zhihu.com/search?q=%E9%95%BF%E5%BE%81%E5%8D%81%E5%8F%B7%E4%B9%99%E7%81%AB%E7%AE%AD%E5%9B%9E%E6%94%B6%E6%88%90%E5%8A%9F)
 1. [长沙通报体育局员工恶意霸占车位](https://www.zhihu.com/search?q=%E9%95%BF%E6%B2%99%E9%80%9A%E6%8A%A5%E4%BD%93%E8%82%B2%E5%B1%80%E5%91%98%E5%B7%A5%E6%81%B6%E6%84%8F%E9%9C%B8%E5%8D%A0%E8%BD%A6%E4%BD%8D)
 1. [英格兰2-1淘汰挪威](https://www.zhihu.com/search?q=%E8%8B%B1%E6%A0%BC%E5%85%B02-1%E6%B7%98%E6%B1%B0%E6%8C%AA%E5%A8%81)
 1. [晋江鞋厂火灾已致 28 死](https://www.zhihu.com/search?q=%E6%99%8B%E6%B1%9F%E9%9E%8B%E5%8E%82%E7%81%AB%E7%81%BE%E5%B7%B2%E8%87%B4%2028%20%E6%AD%BB)
 1. [长沙占车位体育局干部被停职](https://www.zhihu.com/search?q=%E9%95%BF%E6%B2%99%E5%8D%A0%E8%BD%A6%E4%BD%8D%E4%BD%93%E8%82%B2%E5%B1%80%E5%B9%B2%E9%83%A8%E8%A2%AB%E5%81%9C%E8%81%8C)
 1. [哈兰德告别世界杯](https://www.zhihu.com/search?q=%E5%93%88%E5%85%B0%E5%BE%B7%E5%91%8A%E5%88%AB%E4%B8%96%E7%95%8C%E6%9D%AF)
+1. [瑞士前锋假摔被罚下](https://www.zhihu.com/search?q=%E7%91%9E%E5%A3%AB%E5%89%8D%E9%94%8B%E5%81%87%E6%91%94%E8%A2%AB%E7%BD%9A%E4%B8%8B)
+1. [中华人民共和国外交部郑重声明](https://www.zhihu.com/search?q=%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%A4%96%E4%BA%A4%E9%83%A8%E9%83%91%E9%87%8D%E5%A3%B0%E6%98%8E)
 1. [丘成桐回应「清退」事件](https://www.zhihu.com/search?q=%E4%B8%98%E6%88%90%E6%A1%90%E5%9B%9E%E5%BA%94%E3%80%8C%E6%B8%85%E9%80%80%E3%80%8D%E4%BA%8B%E4%BB%B6)
 
 <!-- END -->
