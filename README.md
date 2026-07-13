@@ -14,13 +14,13 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jul 14 2026 05:58:37 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jul 14 2026 07:03:47 GMT+0800 (China Standard Time) -->
 
 1. [人大撤销蒋方舟硕士学位](https://www.zhihu.com/search?q=%E4%BA%BA%E5%A4%A7%E6%92%A4%E9%94%80%E8%92%8B%E6%96%B9%E8%88%9F%E7%A1%95%E5%A3%AB%E5%AD%A6%E4%BD%8D)
 1. [6月新增新冠确诊7.9万例](https://www.zhihu.com/search?q=6%E6%9C%88%E6%96%B0%E5%A2%9E%E6%96%B0%E5%86%A0%E7%A1%AE%E8%AF%8A7.9%E4%B8%87%E4%BE%8B)
 1. [隋坡差评餐厅老板逆天回怼](https://www.zhihu.com/search?q=%E9%9A%8B%E5%9D%A1%E5%B7%AE%E8%AF%84%E9%A4%90%E5%8E%85%E8%80%81%E6%9D%BF%E9%80%86%E5%A4%A9%E5%9B%9E%E6%80%BC)
-1. [沈阳暴雨](https://www.zhihu.com/search?q=%E6%B2%88%E9%98%B3%E6%9A%B4%E9%9B%A8)
 1. [大连理工领导卧底招生群挑拨关系](https://www.zhihu.com/search?q=%E5%A4%A7%E8%BF%9E%E7%90%86%E5%B7%A5%E9%A2%86%E5%AF%BC%E5%8D%A7%E5%BA%95%E6%8B%9B%E7%94%9F%E7%BE%A4%E6%8C%91%E6%8B%A8%E5%85%B3%E7%B3%BB)
+1. [沈阳暴雨](https://www.zhihu.com/search?q=%E6%B2%88%E9%98%B3%E6%9A%B4%E9%9B%A8)
 1. [阿根廷3-1瑞士进4强](https://www.zhihu.com/search?q=%E9%98%BF%E6%A0%B9%E5%BB%B73-1%E7%91%9E%E5%A3%AB%E8%BF%9B4%E5%BC%BA)
 1. [HLE 夺得季中赛冠军](https://www.zhihu.com/search?q=HLE%20%E5%A4%BA%E5%BE%97%E5%AD%A3%E4%B8%AD%E8%B5%9B%E5%86%A0%E5%86%9B)
 1. [内蒙古 16 岁高中生因拍门玩闹被捅杀](https://www.zhihu.com/search?q=%E5%86%85%E8%92%99%E5%8F%A4%2016%20%E5%B2%81%E9%AB%98%E4%B8%AD%E7%94%9F%E5%9B%A0%E6%8B%8D%E9%97%A8%E7%8E%A9%E9%97%B9%E8%A2%AB%E6%8D%85%E6%9D%80)
