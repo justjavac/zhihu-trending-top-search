@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jul 15 2026 04:13:35 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jul 15 2026 05:59:26 GMT+0800 (China Standard Time) -->
 
 1. [曝王虹邓煜疑似获 2026 菲尔兹奖](https://www.zhihu.com/search?q=%E6%9B%9D%E7%8E%8B%E8%99%B9%E9%82%93%E7%85%9C%E7%96%91%E4%BC%BC%E8%8E%B7%202026%20%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96)
 1. [人大撤销蒋方舟硕士学位](https://www.zhihu.com/search?q=%E4%BA%BA%E5%A4%A7%E6%92%A4%E9%94%80%E8%92%8B%E6%96%B9%E8%88%9F%E7%A1%95%E5%A3%AB%E5%AD%A6%E4%BD%8D)
