@@ -14,15 +14,15 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jul 15 2026 18:52:00 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jul 15 2026 20:16:32 GMT+0800 (China Standard Time) -->
 
 1. [贾浅浅硕士学位被撤销](https://www.zhihu.com/search?q=%E8%B4%BE%E6%B5%85%E6%B5%85%E7%A1%95%E5%A3%AB%E5%AD%A6%E4%BD%8D%E8%A2%AB%E6%92%A4%E9%94%80)
 1. [LV起诉国家知产局](https://www.zhihu.com/search?q=LV%E8%B5%B7%E8%AF%89%E5%9B%BD%E5%AE%B6%E7%9F%A5%E4%BA%A7%E5%B1%80)
 1. [内蒙古 16 岁高中生因拍门玩闹被捅杀](https://www.zhihu.com/search?q=%E5%86%85%E8%92%99%E5%8F%A4%2016%20%E5%B2%81%E9%AB%98%E4%B8%AD%E7%94%9F%E5%9B%A0%E6%8B%8D%E9%97%A8%E7%8E%A9%E9%97%B9%E8%A2%AB%E6%8D%85%E6%9D%80)
 1. [曝 DeepSeek 实习日薪突破 5000 元](https://www.zhihu.com/search?q=%E6%9B%9D%20DeepSeek%20%E5%AE%9E%E4%B9%A0%E6%97%A5%E8%96%AA%E7%AA%81%E7%A0%B4%205000%20%E5%85%83)
-1. [人大撤销蒋方舟硕士学位](https://www.zhihu.com/search?q=%E4%BA%BA%E5%A4%A7%E6%92%A4%E9%94%80%E8%92%8B%E6%96%B9%E8%88%9F%E7%A1%95%E5%A3%AB%E5%AD%A6%E4%BD%8D)
-1. [87版《红楼梦》刘姥姥扮演者去世](https://www.zhihu.com/search?q=87%E7%89%88%E3%80%8A%E7%BA%A2%E6%A5%BC%E6%A2%A6%E3%80%8B%E5%88%98%E5%A7%A5%E5%A7%A5%E6%89%AE%E6%BC%94%E8%80%85%E5%8E%BB%E4%B8%96)
 1. [韩国散户杠杆爆仓](https://www.zhihu.com/search?q=%E9%9F%A9%E5%9B%BD%E6%95%A3%E6%88%B7%E6%9D%A0%E6%9D%86%E7%88%86%E4%BB%93)
+1. [87版《红楼梦》刘姥姥扮演者去世](https://www.zhihu.com/search?q=87%E7%89%88%E3%80%8A%E7%BA%A2%E6%A5%BC%E6%A2%A6%E3%80%8B%E5%88%98%E5%A7%A5%E5%A7%A5%E6%89%AE%E6%BC%94%E8%80%85%E5%8E%BB%E4%B8%96)
+1. [人大撤销蒋方舟硕士学位](https://www.zhihu.com/search?q=%E4%BA%BA%E5%A4%A7%E6%92%A4%E9%94%80%E8%92%8B%E6%96%B9%E8%88%9F%E7%A1%95%E5%A3%AB%E5%AD%A6%E4%BD%8D)
 1. [副局长自购10亿token手搓防汛小程序](https://www.zhihu.com/search?q=%E5%89%AF%E5%B1%80%E9%95%BF%E8%87%AA%E8%B4%AD10%E4%BA%BFtoken%E6%89%8B%E6%90%93%E9%98%B2%E6%B1%9B%E5%B0%8F%E7%A8%8B%E5%BA%8F)
 1. [英格兰vs阿根廷](https://www.zhihu.com/search?q=%E8%8B%B1%E6%A0%BC%E5%85%B0vs%E9%98%BF%E6%A0%B9%E5%BB%B7)
 1. [晋江鞋厂火灾已致 28 死](https://www.zhihu.com/search?q=%E6%99%8B%E6%B1%9F%E9%9E%8B%E5%8E%82%E7%81%AB%E7%81%BE%E5%B7%B2%E8%87%B4%2028%20%E6%AD%BB)
