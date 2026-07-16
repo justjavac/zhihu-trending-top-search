@@ -14,25 +14,25 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jul 16 2026 17:16:40 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jul 16 2026 19:41:33 GMT+0800 (China Standard Time) -->
 
-1. [贾浅浅硕士学位被撤销](https://www.zhihu.com/search?q=%E8%B4%BE%E6%B5%85%E6%B5%85%E7%A1%95%E5%A3%AB%E5%AD%A6%E4%BD%8D%E8%A2%AB%E6%92%A4%E9%94%80)
-1. [曝《功夫女足》被偷票房](https://www.zhihu.com/search?q=%E6%9B%9D%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E3%80%8B%E8%A2%AB%E5%81%B7%E7%A5%A8%E6%88%BF)
 1. [韩国散户杠杆爆仓](https://www.zhihu.com/search?q=%E9%9F%A9%E5%9B%BD%E6%95%A3%E6%88%B7%E6%9D%A0%E6%9D%86%E7%88%86%E4%BB%93)
+1. [曝《功夫女足》被偷票房](https://www.zhihu.com/search?q=%E6%9B%9D%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E3%80%8B%E8%A2%AB%E5%81%B7%E7%A5%A8%E6%88%BF)
+1. [贾浅浅硕士学位被撤销](https://www.zhihu.com/search?q=%E8%B4%BE%E6%B5%85%E6%B5%85%E7%A1%95%E5%A3%AB%E5%AD%A6%E4%BD%8D%E8%A2%AB%E6%92%A4%E9%94%80)
 1. [阿根廷 2-1 英格兰](https://www.zhihu.com/search?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%202-1%20%E8%8B%B1%E6%A0%BC%E5%85%B0)
 1. [人大撤销蒋方舟硕士学位](https://www.zhihu.com/search?q=%E4%BA%BA%E5%A4%A7%E6%92%A4%E9%94%80%E8%92%8B%E6%96%B9%E8%88%9F%E7%A1%95%E5%A3%AB%E5%AD%A6%E4%BD%8D)
-1. [内蒙古 16 岁高中生因拍门玩闹被捅杀](https://www.zhihu.com/search?q=%E5%86%85%E8%92%99%E5%8F%A4%2016%20%E5%B2%81%E9%AB%98%E4%B8%AD%E7%94%9F%E5%9B%A0%E6%8B%8D%E9%97%A8%E7%8E%A9%E9%97%B9%E8%A2%AB%E6%8D%85%E6%9D%80)
 1. [曝 DeepSeek 实习日薪突破 5000 元](https://www.zhihu.com/search?q=%E6%9B%9D%20DeepSeek%20%E5%AE%9E%E4%B9%A0%E6%97%A5%E8%96%AA%E7%AA%81%E7%A0%B4%205000%20%E5%85%83)
 1. [具俊晔被曝准备与大S儿女争遗产](https://www.zhihu.com/search?q=%E5%85%B7%E4%BF%8A%E6%99%94%E8%A2%AB%E6%9B%9D%E5%87%86%E5%A4%87%E4%B8%8E%E5%A4%A7S%E5%84%BF%E5%A5%B3%E4%BA%89%E9%81%97%E4%BA%A7)
 1. [长鑫近2万员工每人或可分超百万](https://www.zhihu.com/search?q=%E9%95%BF%E9%91%AB%E8%BF%912%E4%B8%87%E5%91%98%E5%B7%A5%E6%AF%8F%E4%BA%BA%E6%88%96%E5%8F%AF%E5%88%86%E8%B6%85%E7%99%BE%E4%B8%87)
-1. [西班牙2-0法国](https://www.zhihu.com/search?q=%E8%A5%BF%E7%8F%AD%E7%89%992-0%E6%B3%95%E5%9B%BD)
-1. [LV起诉国家知产局](https://www.zhihu.com/search?q=LV%E8%B5%B7%E8%AF%89%E5%9B%BD%E5%AE%B6%E7%9F%A5%E4%BA%A7%E5%B1%80)
 1. [吴绮莉公开成龙拒认女儿原因](https://www.zhihu.com/search?q=%E5%90%B4%E7%BB%AE%E8%8E%89%E5%85%AC%E5%BC%80%E6%88%90%E9%BE%99%E6%8B%92%E8%AE%A4%E5%A5%B3%E5%84%BF%E5%8E%9F%E5%9B%A0)
+1. [西班牙2-0法国](https://www.zhihu.com/search?q=%E8%A5%BF%E7%8F%AD%E7%89%992-0%E6%B3%95%E5%9B%BD)
+1. [邹市明夫妇投资理财亏损2亿](https://www.zhihu.com/search?q=%E9%82%B9%E5%B8%82%E6%98%8E%E5%A4%AB%E5%A6%87%E6%8A%95%E8%B5%84%E7%90%86%E8%B4%A2%E4%BA%8F%E6%8D%9F2%E4%BA%BF)
+1. [LV起诉国家知产局](https://www.zhihu.com/search?q=LV%E8%B5%B7%E8%AF%89%E5%9B%BD%E5%AE%B6%E7%9F%A5%E4%BA%A7%E5%B1%80)
+1. [内蒙古 16 岁高中生因拍门玩闹被捅杀](https://www.zhihu.com/search?q=%E5%86%85%E8%92%99%E5%8F%A4%2016%20%E5%B2%81%E9%AB%98%E4%B8%AD%E7%94%9F%E5%9B%A0%E6%8B%8D%E9%97%A8%E7%8E%A9%E9%97%B9%E8%A2%AB%E6%8D%85%E6%9D%80)
 1. [副局长自购10亿token手搓防汛小程序](https://www.zhihu.com/search?q=%E5%89%AF%E5%B1%80%E9%95%BF%E8%87%AA%E8%B4%AD10%E4%BA%BFtoken%E6%89%8B%E6%90%93%E9%98%B2%E6%B1%9B%E5%B0%8F%E7%A8%8B%E5%BA%8F)
 1. [蒋方舟天才少女人设](https://www.zhihu.com/search?q=%E8%92%8B%E6%96%B9%E8%88%9F%E5%A4%A9%E6%89%8D%E5%B0%91%E5%A5%B3%E4%BA%BA%E8%AE%BE)
 1. [87版《红楼梦》刘姥姥扮演者去世](https://www.zhihu.com/search?q=87%E7%89%88%E3%80%8A%E7%BA%A2%E6%A5%BC%E6%A2%A6%E3%80%8B%E5%88%98%E5%A7%A5%E5%A7%A5%E6%89%AE%E6%BC%94%E8%80%85%E5%8E%BB%E4%B8%96)
 1. [晋江鞋厂火灾已致 28 死](https://www.zhihu.com/search?q=%E6%99%8B%E6%B1%9F%E9%9E%8B%E5%8E%82%E7%81%AB%E7%81%BE%E5%B7%B2%E8%87%B4%2028%20%E6%AD%BB)
-1. [邹市明夫妇投资理财亏损2亿](https://www.zhihu.com/search?q=%E9%82%B9%E5%B8%82%E6%98%8E%E5%A4%AB%E5%A6%87%E6%8A%95%E8%B5%84%E7%90%86%E8%B4%A2%E4%BA%8F%E6%8D%9F2%E4%BA%BF)
 1. [厨师离职被要求交出烹饪配方](https://www.zhihu.com/search?q=%E5%8E%A8%E5%B8%88%E7%A6%BB%E8%81%8C%E8%A2%AB%E8%A6%81%E6%B1%82%E4%BA%A4%E5%87%BA%E7%83%B9%E9%A5%AA%E9%85%8D%E6%96%B9)
 1. [《功夫女足》预测票房大幅飙升](https://www.zhihu.com/search?q=%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E3%80%8B%E9%A2%84%E6%B5%8B%E7%A5%A8%E6%88%BF%E5%A4%A7%E5%B9%85%E9%A3%99%E5%8D%87)
 
