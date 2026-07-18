@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jul 19 2026 04:52:02 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jul 19 2026 05:52:57 GMT+0800 (China Standard Time) -->
 
 1. [曾硬刚王健林的80后干部徐刘蔚被查](https://www.zhihu.com/search?q=%E6%9B%BE%E7%A1%AC%E5%88%9A%E7%8E%8B%E5%81%A5%E6%9E%97%E7%9A%8480%E5%90%8E%E5%B9%B2%E9%83%A8%E5%BE%90%E5%88%98%E8%94%9A%E8%A2%AB%E6%9F%A5)
 1. [日本护士将排泄物混入患者输液](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E6%8A%A4%E5%A3%AB%E5%B0%86%E6%8E%92%E6%B3%84%E7%89%A9%E6%B7%B7%E5%85%A5%E6%82%A3%E8%80%85%E8%BE%93%E6%B6%B2)
