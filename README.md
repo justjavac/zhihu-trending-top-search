@@ -14,17 +14,20 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jul 19 2026 07:55:42 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jul 19 2026 11:17:44 GMT+0800 (China Standard Time) -->
 
 1. [法国 4-6 英格兰](https://www.zhihu.com/search?q=%E6%B3%95%E5%9B%BD%204-6%20%E8%8B%B1%E6%A0%BC%E5%85%B0)
 1. [曾硬刚王健林的80后干部徐刘蔚被查](https://www.zhihu.com/search?q=%E6%9B%BE%E7%A1%AC%E5%88%9A%E7%8E%8B%E5%81%A5%E6%9E%97%E7%9A%8480%E5%90%8E%E5%B9%B2%E9%83%A8%E5%BE%90%E5%88%98%E8%94%9A%E8%A2%AB%E6%9F%A5)
+1. [姆巴佩世界杯历史射手王](https://www.zhihu.com/search?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8E%86%E5%8F%B2%E5%B0%84%E6%89%8B%E7%8E%8B)
 1. [日本护士将排泄物混入患者输液](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E6%8A%A4%E5%A3%AB%E5%B0%86%E6%8E%92%E6%B3%84%E7%89%A9%E6%B7%B7%E5%85%A5%E6%82%A3%E8%80%85%E8%BE%93%E6%B6%B2)
-1. [重庆彭水发生山体崩塌](https://www.zhihu.com/search?q=%E9%87%8D%E5%BA%86%E5%BD%AD%E6%B0%B4%E5%8F%91%E7%94%9F%E5%B1%B1%E4%BD%93%E5%B4%A9%E5%A1%8C)
 1. [人生选择模拟器](https://www.zhihu.com/search?q=%E4%BA%BA%E7%94%9F%E9%80%89%E6%8B%A9%E6%A8%A1%E6%8B%9F%E5%99%A8)
+1. [黄总请你去包厢事件系误会](https://www.zhihu.com/search?q=%E9%BB%84%E6%80%BB%E8%AF%B7%E4%BD%A0%E5%8E%BB%E5%8C%85%E5%8E%A2%E4%BA%8B%E4%BB%B6%E7%B3%BB%E8%AF%AF%E4%BC%9A)
 1. [邹市明夫妇2亿理财亏损始末](https://www.zhihu.com/search?q=%E9%82%B9%E5%B8%82%E6%98%8E%E5%A4%AB%E5%A6%872%E4%BA%BF%E7%90%86%E8%B4%A2%E4%BA%8F%E6%8D%9F%E5%A7%8B%E6%9C%AB)
+1. [重庆彭水发生山体崩塌](https://www.zhihu.com/search?q=%E9%87%8D%E5%BA%86%E5%BD%AD%E6%B0%B4%E5%8F%91%E7%94%9F%E5%B1%B1%E4%BD%93%E5%B4%A9%E5%A1%8C)
 1. [阿根廷 2-1 英格兰](https://www.zhihu.com/search?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%202-1%20%E8%8B%B1%E6%A0%BC%E5%85%B0)
-1. [西班牙阿根廷谁能夺冠](https://www.zhihu.com/search?q=%E8%A5%BF%E7%8F%AD%E7%89%99%E9%98%BF%E6%A0%B9%E5%BB%B7%E8%B0%81%E8%83%BD%E5%A4%BA%E5%86%A0)
 1. [莫言之女管笑笑被爆论文抄袭](https://www.zhihu.com/search?q=%E8%8E%AB%E8%A8%80%E4%B9%8B%E5%A5%B3%E7%AE%A1%E7%AC%91%E7%AC%91%E8%A2%AB%E7%88%86%E8%AE%BA%E6%96%87%E6%8A%84%E8%A2%AD)
+1. [西班牙阿根廷谁能夺冠](https://www.zhihu.com/search?q=%E8%A5%BF%E7%8F%AD%E7%89%99%E9%98%BF%E6%A0%B9%E5%BB%B7%E8%B0%81%E8%83%BD%E5%A4%BA%E5%86%A0)
+1. [服务员传话多次叫女顾客去包厢](https://www.zhihu.com/search?q=%E6%9C%8D%E5%8A%A1%E5%91%98%E4%BC%A0%E8%AF%9D%E5%A4%9A%E6%AC%A1%E5%8F%AB%E5%A5%B3%E9%A1%BE%E5%AE%A2%E5%8E%BB%E5%8C%85%E5%8E%A2)
 1. [英国将敬业集团旗下英钢国有化](https://www.zhihu.com/search?q=%E8%8B%B1%E5%9B%BD%E5%B0%86%E6%95%AC%E4%B8%9A%E9%9B%86%E5%9B%A2%E6%97%97%E4%B8%8B%E8%8B%B1%E9%92%A2%E5%9B%BD%E6%9C%89%E5%8C%96)
 1. [KIMI K3模型正式上线](https://www.zhihu.com/search?q=KIMI%20K3%E6%A8%A1%E5%9E%8B%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF)
 1. [西班牙vs阿根廷](https://www.zhihu.com/search?q=%E8%A5%BF%E7%8F%AD%E7%89%99vs%E9%98%BF%E6%A0%B9%E5%BB%B7)
