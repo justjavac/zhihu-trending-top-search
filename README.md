@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jul 23 2026 01:22:03 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jul 23 2026 03:23:48 GMT+0800 (China Standard Time) -->
 
 1. [西班牙领奖时阿根廷全队背过身](https://www.zhihu.com/search?q=%E8%A5%BF%E7%8F%AD%E7%89%99%E9%A2%86%E5%A5%96%E6%97%B6%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%85%A8%E9%98%9F%E8%83%8C%E8%BF%87%E8%BA%AB)
 1. [影视飓风回应被骂装松弛感白人](https://www.zhihu.com/search?q=%E5%BD%B1%E8%A7%86%E9%A3%93%E9%A3%8E%E5%9B%9E%E5%BA%94%E8%A2%AB%E9%AA%82%E8%A3%85%E6%9D%BE%E5%BC%9B%E6%84%9F%E7%99%BD%E4%BA%BA)
