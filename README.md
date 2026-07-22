@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jul 23 2026 05:10:31 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jul 23 2026 07:06:08 GMT+0800 (China Standard Time) -->
 
 1. [西班牙领奖时阿根廷全队背过身](https://www.zhihu.com/search?q=%E8%A5%BF%E7%8F%AD%E7%89%99%E9%A2%86%E5%A5%96%E6%97%B6%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%85%A8%E9%98%9F%E8%83%8C%E8%BF%87%E8%BA%AB)
 1. [影视飓风回应被骂装松弛感白人](https://www.zhihu.com/search?q=%E5%BD%B1%E8%A7%86%E9%A3%93%E9%A3%8E%E5%9B%9E%E5%BA%94%E8%A2%AB%E9%AA%82%E8%A3%85%E6%9D%BE%E5%BC%9B%E6%84%9F%E7%99%BD%E4%BA%BA)
@@ -24,6 +24,7 @@
 1. [雅可比猜想被AI证伪](https://www.zhihu.com/search?q=%E9%9B%85%E5%8F%AF%E6%AF%94%E7%8C%9C%E6%83%B3%E8%A2%ABAI%E8%AF%81%E4%BC%AA)
 1. [DeepSeek V4 正式版即将发布](https://www.zhihu.com/search?q=DeepSeek%20V4%20%E6%AD%A3%E5%BC%8F%E7%89%88%E5%8D%B3%E5%B0%86%E5%8F%91%E5%B8%83)
 1. [怡颗莓被指检出 8 种永久性化学物](https://www.zhihu.com/search?q=%E6%80%A1%E9%A2%97%E8%8E%93%E8%A2%AB%E6%8C%87%E6%A3%80%E5%87%BA%208%20%E7%A7%8D%E6%B0%B8%E4%B9%85%E6%80%A7%E5%8C%96%E5%AD%A6%E7%89%A9)
+1. [甜馨疑似当姐姐了](https://www.zhihu.com/search?q=%E7%94%9C%E9%A6%A8%E7%96%91%E4%BC%BC%E5%BD%93%E5%A7%90%E5%A7%90%E4%BA%86)
 1. [港媒曝演员谢贤去世](https://www.zhihu.com/search?q=%E6%B8%AF%E5%AA%92%E6%9B%9D%E6%BC%94%E5%91%98%E8%B0%A2%E8%B4%A4%E5%8E%BB%E4%B8%96)
 1. [肯德基炸鸡配西瓜引美网友热议](https://www.zhihu.com/search?q=%E8%82%AF%E5%BE%B7%E5%9F%BA%E7%82%B8%E9%B8%A1%E9%85%8D%E8%A5%BF%E7%93%9C%E5%BC%95%E7%BE%8E%E7%BD%91%E5%8F%8B%E7%83%AD%E8%AE%AE)
 1. [2026年菲尔兹奖](https://www.zhihu.com/search?q=2026%E5%B9%B4%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96)
