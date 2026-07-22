@@ -14,20 +14,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jul 22 2026 06:59:05 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jul 22 2026 08:00:32 GMT+0800 (China Standard Time) -->
 
 1. [西班牙领奖时阿根廷全队背过身](https://www.zhihu.com/search?q=%E8%A5%BF%E7%8F%AD%E7%89%99%E9%A2%86%E5%A5%96%E6%97%B6%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%85%A8%E9%98%9F%E8%83%8C%E8%BF%87%E8%BA%AB)
-1. [女生高考 684 分花三千元咨询进双非](https://www.zhihu.com/search?q=%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83%20684%20%E5%88%86%E8%8A%B1%E4%B8%89%E5%8D%83%E5%85%83%E5%92%A8%E8%AF%A2%E8%BF%9B%E5%8F%8C%E9%9D%9E)
+1. [656 分考生弃 985 选福耀科大](https://www.zhihu.com/search?q=656%20%E5%88%86%E8%80%83%E7%94%9F%E5%BC%83%20985%20%E9%80%89%E7%A6%8F%E8%80%80%E7%A7%91%E5%A4%A7)
 1. [旭旭宝宝不看周星驰新片被网暴](https://www.zhihu.com/search?q=%E6%97%AD%E6%97%AD%E5%AE%9D%E5%AE%9D%E4%B8%8D%E7%9C%8B%E5%91%A8%E6%98%9F%E9%A9%B0%E6%96%B0%E7%89%87%E8%A2%AB%E7%BD%91%E6%9A%B4)
 1. [雅可比猜想被AI证伪](https://www.zhihu.com/search?q=%E9%9B%85%E5%8F%AF%E6%AF%94%E7%8C%9C%E6%83%B3%E8%A2%ABAI%E8%AF%81%E4%BC%AA)
 1. [人生选择模拟器](https://www.zhihu.com/search?q=%E4%BA%BA%E7%94%9F%E9%80%89%E6%8B%A9%E6%A8%A1%E6%8B%9F%E5%99%A8)
 1. [港媒曝演员谢贤去世](https://www.zhihu.com/search?q=%E6%B8%AF%E5%AA%92%E6%9B%9D%E6%BC%94%E5%91%98%E8%B0%A2%E8%B4%A4%E5%8E%BB%E4%B8%96)
 1. [西班牙1-0阿根廷夺世界杯冠军](https://www.zhihu.com/search?q=%E8%A5%BF%E7%8F%AD%E7%89%991-0%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%A4%BA%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E5%86%9B)
 1. [怡颗莓被指检出 8 种永久性化学物](https://www.zhihu.com/search?q=%E6%80%A1%E9%A2%97%E8%8E%93%E8%A2%AB%E6%8C%87%E6%A3%80%E5%87%BA%208%20%E7%A7%8D%E6%B0%B8%E4%B9%85%E6%80%A7%E5%8C%96%E5%AD%A6%E7%89%A9)
-1. [DeepSeek V4 正式版即将发布](https://www.zhihu.com/search?q=DeepSeek%20V4%20%E6%AD%A3%E5%BC%8F%E7%89%88%E5%8D%B3%E5%B0%86%E5%8F%91%E5%B8%83)
 1. [影视飓风回应被骂装松弛感白人](https://www.zhihu.com/search?q=%E5%BD%B1%E8%A7%86%E9%A3%93%E9%A3%8E%E5%9B%9E%E5%BA%94%E8%A2%AB%E9%AA%82%E8%A3%85%E6%9D%BE%E5%BC%9B%E6%84%9F%E7%99%BD%E4%BA%BA)
+1. [DeepSeek V4 正式版即将发布](https://www.zhihu.com/search?q=DeepSeek%20V4%20%E6%AD%A3%E5%BC%8F%E7%89%88%E5%8D%B3%E5%B0%86%E5%8F%91%E5%B8%83)
 1. [阿根廷首都球迷暴乱](https://www.zhihu.com/search?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E9%A6%96%E9%83%BD%E7%90%83%E8%BF%B7%E6%9A%B4%E4%B9%B1)
 1. [Bin 暂别赛场](https://www.zhihu.com/search?q=Bin%20%E6%9A%82%E5%88%AB%E8%B5%9B%E5%9C%BA)
+1. [女生高考 684 分花三千元咨询进双非](https://www.zhihu.com/search?q=%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83%20684%20%E5%88%86%E8%8A%B1%E4%B8%89%E5%8D%83%E5%85%83%E5%92%A8%E8%AF%A2%E8%BF%9B%E5%8F%8C%E9%9D%9E)
 1. [韩红基金会辟谣救护车越野](https://www.zhihu.com/search?q=%E9%9F%A9%E7%BA%A2%E5%9F%BA%E9%87%91%E4%BC%9A%E8%BE%9F%E8%B0%A3%E6%95%91%E6%8A%A4%E8%BD%A6%E8%B6%8A%E9%87%8E)
 1. [云南墨江 5.0 级地震](https://www.zhihu.com/search?q=%E4%BA%91%E5%8D%97%E5%A2%A8%E6%B1%9F%205.0%20%E7%BA%A7%E5%9C%B0%E9%9C%87)
 1. [台风「红霞」来了](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E%E3%80%8C%E7%BA%A2%E9%9C%9E%E3%80%8D%E6%9D%A5%E4%BA%86)
