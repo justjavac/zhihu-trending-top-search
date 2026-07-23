@@ -14,20 +14,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jul 24 2026 02:13:45 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jul 24 2026 04:14:05 GMT+0800 (China Standard Time) -->
 
 1. [知友邓煜获得菲尔兹奖](https://www.zhihu.com/search?q=%E7%9F%A5%E5%8F%8B%E9%82%93%E7%85%9C%E8%8E%B7%E5%BE%97%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96)
 1. [菲方围顶冲撞中方巡逻艇](https://www.zhihu.com/search?q=%E8%8F%B2%E6%96%B9%E5%9B%B4%E9%A1%B6%E5%86%B2%E6%92%9E%E4%B8%AD%E6%96%B9%E5%B7%A1%E9%80%BB%E8%89%87)
-1. [邓煜王虹获得菲尔兹奖](https://www.zhihu.com/search?q=%E9%82%93%E7%85%9C%E7%8E%8B%E8%99%B9%E8%8E%B7%E5%BE%97%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96)
-1. [644分考生误报厦大分校将复读](https://www.zhihu.com/search?q=644%E5%88%86%E8%80%83%E7%94%9F%E8%AF%AF%E6%8A%A5%E5%8E%A6%E5%A4%A7%E5%88%86%E6%A0%A1%E5%B0%86%E5%A4%8D%E8%AF%BB)
+1. [冉莹颖向邹市明提出婚内收入AA制](https://www.zhihu.com/search?q=%E5%86%89%E8%8E%B9%E9%A2%96%E5%90%91%E9%82%B9%E5%B8%82%E6%98%8E%E6%8F%90%E5%87%BA%E5%A9%9A%E5%86%85%E6%94%B6%E5%85%A5AA%E5%88%B6)
 1. [梁文锋四小时会议内容](https://www.zhihu.com/search?q=%E6%A2%81%E6%96%87%E9%94%8B%E5%9B%9B%E5%B0%8F%E6%97%B6%E4%BC%9A%E8%AE%AE%E5%86%85%E5%AE%B9)
 1. [人生选择模拟器](https://www.zhihu.com/search?q=%E4%BA%BA%E7%94%9F%E9%80%89%E6%8B%A9%E6%A8%A1%E6%8B%9F%E5%99%A8)
-1. [冉莹颖向邹市明提出婚内收入AA制](https://www.zhihu.com/search?q=%E5%86%89%E8%8E%B9%E9%A2%96%E5%90%91%E9%82%B9%E5%B8%82%E6%98%8E%E6%8F%90%E5%87%BA%E5%A9%9A%E5%86%85%E6%94%B6%E5%85%A5AA%E5%88%B6)
 1. [Kimi 员工震惊 OpenAI 算力](https://www.zhihu.com/search?q=Kimi%20%E5%91%98%E5%B7%A5%E9%9C%87%E6%83%8A%20OpenAI%20%E7%AE%97%E5%8A%9B)
 1. [小红书否认前员工举报致IPO受阻](https://www.zhihu.com/search?q=%E5%B0%8F%E7%BA%A2%E4%B9%A6%E5%90%A6%E8%AE%A4%E5%89%8D%E5%91%98%E5%B7%A5%E4%B8%BE%E6%8A%A5%E8%87%B4IPO%E5%8F%97%E9%98%BB)
 1. [谢贤遗产公布](https://www.zhihu.com/search?q=%E8%B0%A2%E8%B4%A4%E9%81%97%E4%BA%A7%E5%85%AC%E5%B8%83)
+1. [644分考生误报厦大分校将复读](https://www.zhihu.com/search?q=644%E5%88%86%E8%80%83%E7%94%9F%E8%AF%AF%E6%8A%A5%E5%8E%A6%E5%A4%A7%E5%88%86%E6%A0%A1%E5%B0%86%E5%A4%8D%E8%AF%BB)
 1. [男子被蚊子咬失血400ml](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%90%E8%A2%AB%E8%9A%8A%E5%AD%90%E5%92%AC%E5%A4%B1%E8%A1%80400ml)
 1. [OpenAI模型「失控」入侵AI开源社区](https://www.zhihu.com/search?q=OpenAI%E6%A8%A1%E5%9E%8B%E3%80%8C%E5%A4%B1%E6%8E%A7%E3%80%8D%E5%85%A5%E4%BE%B5AI%E5%BC%80%E6%BA%90%E7%A4%BE%E5%8C%BA)
+1. [网友热议睡帽是天才发明](https://www.zhihu.com/search?q=%E7%BD%91%E5%8F%8B%E7%83%AD%E8%AE%AE%E7%9D%A1%E5%B8%BD%E6%98%AF%E5%A4%A9%E6%89%8D%E5%8F%91%E6%98%8E)
+1. [邓煜王虹获得菲尔兹奖](https://www.zhihu.com/search?q=%E9%82%93%E7%85%9C%E7%8E%8B%E8%99%B9%E8%8E%B7%E5%BE%97%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96)
 
 <!-- END -->
 
