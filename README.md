@@ -14,20 +14,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jul 24 2026 18:20:20 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jul 24 2026 20:20:18 GMT+0800 (China Standard Time) -->
 
 1. [知友邓煜获得菲尔兹奖](https://www.zhihu.com/search?q=%E7%9F%A5%E5%8F%8B%E9%82%93%E7%85%9C%E8%8E%B7%E5%BE%97%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96)
 1. [644分考生误报厦大分校将复读](https://www.zhihu.com/search?q=644%E5%88%86%E8%80%83%E7%94%9F%E8%AF%AF%E6%8A%A5%E5%8E%A6%E5%A4%A7%E5%88%86%E6%A0%A1%E5%B0%86%E5%A4%8D%E8%AF%BB)
-1. [全国首条穿越长江高铁隧道贯通](https://www.zhihu.com/search?q=%E5%85%A8%E5%9B%BD%E9%A6%96%E6%9D%A1%E7%A9%BF%E8%B6%8A%E9%95%BF%E6%B1%9F%E9%AB%98%E9%93%81%E9%9A%A7%E9%81%93%E8%B4%AF%E9%80%9A)
 1. [邓煜知乎主页](https://www.zhihu.com/search?q=%E9%82%93%E7%85%9C%E7%9F%A5%E4%B9%8E%E4%B8%BB%E9%A1%B5)
-1. [人生选择模拟器](https://www.zhihu.com/search?q=%E4%BA%BA%E7%94%9F%E9%80%89%E6%8B%A9%E6%A8%A1%E6%8B%9F%E5%99%A8)
 1. [OpenAI模型「失控」入侵AI开源社区](https://www.zhihu.com/search?q=OpenAI%E6%A8%A1%E5%9E%8B%E3%80%8C%E5%A4%B1%E6%8E%A7%E3%80%8D%E5%85%A5%E4%BE%B5AI%E5%BC%80%E6%BA%90%E7%A4%BE%E5%8C%BA)
-1. [演员寇占文被法院悬赏694 万](https://www.zhihu.com/search?q=%E6%BC%94%E5%91%98%E5%AF%87%E5%8D%A0%E6%96%87%E8%A2%AB%E6%B3%95%E9%99%A2%E6%82%AC%E8%B5%8F694%20%E4%B8%87)
+1. [人生选择模拟器](https://www.zhihu.com/search?q=%E4%BA%BA%E7%94%9F%E9%80%89%E6%8B%A9%E6%A8%A1%E6%8B%9F%E5%99%A8)
+1. [319 亿腾讯「企鹅岛」疑大翻车](https://www.zhihu.com/search?q=319%20%E4%BA%BF%E8%85%BE%E8%AE%AF%E3%80%8C%E4%BC%81%E9%B9%85%E5%B2%9B%E3%80%8D%E7%96%91%E5%A4%A7%E7%BF%BB%E8%BD%A6)
 1. [伊朗称袭击亚马逊巴林数据中心](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E7%A7%B0%E8%A2%AD%E5%87%BB%E4%BA%9A%E9%A9%AC%E9%80%8A%E5%B7%B4%E6%9E%97%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83)
 1. [游客阻止高山兀鹫吃马尸](https://www.zhihu.com/search?q=%E6%B8%B8%E5%AE%A2%E9%98%BB%E6%AD%A2%E9%AB%98%E5%B1%B1%E5%85%80%E9%B9%AB%E5%90%83%E9%A9%AC%E5%B0%B8)
-1. [319 亿腾讯「企鹅岛」疑大翻车](https://www.zhihu.com/search?q=319%20%E4%BA%BF%E8%85%BE%E8%AE%AF%E3%80%8C%E4%BC%81%E9%B9%85%E5%B2%9B%E3%80%8D%E7%96%91%E5%A4%A7%E7%BF%BB%E8%BD%A6)
-1. [女生高考 684 分花三千元咨询进双非](https://www.zhihu.com/search?q=%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83%20684%20%E5%88%86%E8%8A%B1%E4%B8%89%E5%8D%83%E5%85%83%E5%92%A8%E8%AF%A2%E8%BF%9B%E5%8F%8C%E9%9D%9E)
+1. [男子台球厅拍助教屁股被行拘](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%90%E5%8F%B0%E7%90%83%E5%8E%85%E6%8B%8D%E5%8A%A9%E6%95%99%E5%B1%81%E8%82%A1%E8%A2%AB%E8%A1%8C%E6%8B%98)
 1. [新能源车跨境自驾遭远程锁车30小时](https://www.zhihu.com/search?q=%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E8%B7%A8%E5%A2%83%E8%87%AA%E9%A9%BE%E9%81%AD%E8%BF%9C%E7%A8%8B%E9%94%81%E8%BD%A630%E5%B0%8F%E6%97%B6)
+1. [全国首条穿越长江高铁隧道贯通](https://www.zhihu.com/search?q=%E5%85%A8%E5%9B%BD%E9%A6%96%E6%9D%A1%E7%A9%BF%E8%B6%8A%E9%95%BF%E6%B1%9F%E9%AB%98%E9%93%81%E9%9A%A7%E9%81%93%E8%B4%AF%E9%80%9A)
+1. [赛里木湖景区回应工作人员打人](https://www.zhihu.com/search?q=%E8%B5%9B%E9%87%8C%E6%9C%A8%E6%B9%96%E6%99%AF%E5%8C%BA%E5%9B%9E%E5%BA%94%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E6%89%93%E4%BA%BA)
+1. [演员寇占文被法院悬赏694 万](https://www.zhihu.com/search?q=%E6%BC%94%E5%91%98%E5%AF%87%E5%8D%A0%E6%96%87%E8%A2%AB%E6%B3%95%E9%99%A2%E6%82%AC%E8%B5%8F694%20%E4%B8%87)
+1. [女生高考 684 分花三千元咨询进双非](https://www.zhihu.com/search?q=%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83%20684%20%E5%88%86%E8%8A%B1%E4%B8%89%E5%8D%83%E5%85%83%E5%92%A8%E8%AF%A2%E8%BF%9B%E5%8F%8C%E9%9D%9E)
 1. [梁文锋四小时会议内容](https://www.zhihu.com/search?q=%E6%A2%81%E6%96%87%E9%94%8B%E5%9B%9B%E5%B0%8F%E6%97%B6%E4%BC%9A%E8%AE%AE%E5%86%85%E5%AE%B9)
 1. [邓煜王虹获得菲尔兹奖](https://www.zhihu.com/search?q=%E9%82%93%E7%85%9C%E7%8E%8B%E8%99%B9%E8%8E%B7%E5%BE%97%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96)
 1. [小红书否认前员工举报致IPO受阻](https://www.zhihu.com/search?q=%E5%B0%8F%E7%BA%A2%E4%B9%A6%E5%90%A6%E8%AE%A4%E5%89%8D%E5%91%98%E5%B7%A5%E4%B8%BE%E6%8A%A5%E8%87%B4IPO%E5%8F%97%E9%98%BB)
