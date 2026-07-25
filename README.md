@@ -14,11 +14,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jul 26 2026 05:58:02 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jul 26 2026 07:02:00 GMT+0800 (China Standard Time) -->
 
 1. [知友邓煜获得菲尔兹奖](https://www.zhihu.com/search?q=%E7%9F%A5%E5%8F%8B%E9%82%93%E7%85%9C%E8%8E%B7%E5%BE%97%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96)
-1. [携程被罚没51.79亿元](https://www.zhihu.com/search?q=%E6%90%BA%E7%A8%8B%E8%A2%AB%E7%BD%9A%E6%B2%A151.79%E4%BA%BF%E5%85%83)
 1. [上海 6 岁女孩基因编辑试验后死亡](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%206%20%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%9F%BA%E5%9B%A0%E7%BC%96%E8%BE%91%E8%AF%95%E9%AA%8C%E5%90%8E%E6%AD%BB%E4%BA%A1)
+1. [携程被罚没51.79亿元](https://www.zhihu.com/search?q=%E6%90%BA%E7%A8%8B%E8%A2%AB%E7%BD%9A%E6%B2%A151.79%E4%BA%BF%E5%85%83)
 1. [菲方围顶冲撞中方巡逻艇](https://www.zhihu.com/search?q=%E8%8F%B2%E6%96%B9%E5%9B%B4%E9%A1%B6%E5%86%B2%E6%92%9E%E4%B8%AD%E6%96%B9%E5%B7%A1%E9%80%BB%E8%89%87)
 1. [人生选择模拟器](https://www.zhihu.com/search?q=%E4%BA%BA%E7%94%9F%E9%80%89%E6%8B%A9%E6%A8%A1%E6%8B%9F%E5%99%A8)
 1. [王楚钦 1-2 张煜东](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%201-2%20%E5%BC%A0%E7%85%9C%E4%B8%9C)
