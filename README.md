@@ -14,19 +14,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jul 26 2026 11:14:04 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jul 26 2026 14:37:52 GMT+0800 (China Standard Time) -->
 
-1. [台风红霞在广东惠州登陆](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E%E7%BA%A2%E9%9C%9E%E5%9C%A8%E5%B9%BF%E4%B8%9C%E6%83%A0%E5%B7%9E%E7%99%BB%E9%99%86)
 1. [知友邓煜获得菲尔兹奖](https://www.zhihu.com/search?q=%E7%9F%A5%E5%8F%8B%E9%82%93%E7%85%9C%E8%8E%B7%E5%BE%97%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96)
-1. [上海 6 岁女孩基因编辑试验后死亡](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%206%20%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%9F%BA%E5%9B%A0%E7%BC%96%E8%BE%91%E8%AF%95%E9%AA%8C%E5%90%8E%E6%AD%BB%E4%BA%A1)
 1. [携程被罚没51.79亿元](https://www.zhihu.com/search?q=%E6%90%BA%E7%A8%8B%E8%A2%AB%E7%BD%9A%E6%B2%A151.79%E4%BA%BF%E5%85%83)
+1. [上海交通大学医学院发布情况说明](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6%E5%8C%BB%E5%AD%A6%E9%99%A2%E5%8F%91%E5%B8%83%E6%83%85%E5%86%B5%E8%AF%B4%E6%98%8E)
+1. [上海 6 岁女孩基因编辑试验后死亡](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%206%20%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%9F%BA%E5%9B%A0%E7%BC%96%E8%BE%91%E8%AF%95%E9%AA%8C%E5%90%8E%E6%AD%BB%E4%BA%A1)
 1. [人生选择模拟器](https://www.zhihu.com/search?q=%E4%BA%BA%E7%94%9F%E9%80%89%E6%8B%A9%E6%A8%A1%E6%8B%9F%E5%99%A8)
-1. [王楚钦 1-2 张煜东](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%201-2%20%E5%BC%A0%E7%85%9C%E4%B8%9C)
 1. [菲方围顶冲撞中方巡逻艇](https://www.zhihu.com/search?q=%E8%8F%B2%E6%96%B9%E5%9B%B4%E9%A1%B6%E5%86%B2%E6%92%9E%E4%B8%AD%E6%96%B9%E5%B7%A1%E9%80%BB%E8%89%87)
+1. [王楚钦 1-2 张煜东](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%201-2%20%E5%BC%A0%E7%85%9C%E4%B8%9C)
 1. [赛里木湖景区回应工作人员打人](https://www.zhihu.com/search?q=%E8%B5%9B%E9%87%8C%E6%9C%A8%E6%B9%96%E6%99%AF%E5%8C%BA%E5%9B%9E%E5%BA%94%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E6%89%93%E4%BA%BA)
 1. [张雪峰 002 号员工武亮住院](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%AA%E5%B3%B0%20002%20%E5%8F%B7%E5%91%98%E5%B7%A5%E6%AD%A6%E4%BA%AE%E4%BD%8F%E9%99%A2)
 1. [邹市明带消磁身份证去离婚](https://www.zhihu.com/search?q=%E9%82%B9%E5%B8%82%E6%98%8E%E5%B8%A6%E6%B6%88%E7%A3%81%E8%BA%AB%E4%BB%BD%E8%AF%81%E5%8E%BB%E7%A6%BB%E5%A9%9A)
 1. [贫困生喝咖啡引争议](https://www.zhihu.com/search?q=%E8%B4%AB%E5%9B%B0%E7%94%9F%E5%96%9D%E5%92%96%E5%95%A1%E5%BC%95%E4%BA%89%E8%AE%AE)
+1. [张雪峰前女友称武亮计划成功](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%89%8D%E5%A5%B3%E5%8F%8B%E7%A7%B0%E6%AD%A6%E4%BA%AE%E8%AE%A1%E5%88%92%E6%88%90%E5%8A%9F)
+1. [台风红霞在广东惠州登陆](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E%E7%BA%A2%E9%9C%9E%E5%9C%A8%E5%B9%BF%E4%B8%9C%E6%83%A0%E5%B7%9E%E7%99%BB%E9%99%86)
 1. [詹姆斯加盟 76 人](https://www.zhihu.com/search?q=%E8%A9%B9%E5%A7%86%E6%96%AF%E5%8A%A0%E7%9B%9F%2076%20%E4%BA%BA)
 1. [台风红霞登陆地点确定](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E%E7%BA%A2%E9%9C%9E%E7%99%BB%E9%99%86%E5%9C%B0%E7%82%B9%E7%A1%AE%E5%AE%9A)
 1. [伊朗称袭击亚马逊巴林数据中心](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E7%A7%B0%E8%A2%AD%E5%87%BB%E4%BA%9A%E9%A9%AC%E9%80%8A%E5%B7%B4%E6%9E%97%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83)
