@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jul 28 2026 03:36:42 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jul 28 2026 05:12:51 GMT+0800 (China Standard Time) -->
 
 1. [东野圭吾去世](https://www.zhihu.com/search?q=%E4%B8%9C%E9%87%8E%E5%9C%AD%E5%90%BE%E5%8E%BB%E4%B8%96)
 1. [携程被罚没51.79亿元](https://www.zhihu.com/search?q=%E6%90%BA%E7%A8%8B%E8%A2%AB%E7%BD%9A%E6%B2%A151.79%E4%BA%BF%E5%85%83)
@@ -27,6 +27,7 @@
 1. [退役军人被顶岗获赔又遭追讨](https://www.zhihu.com/search?q=%E9%80%80%E5%BD%B9%E5%86%9B%E4%BA%BA%E8%A2%AB%E9%A1%B6%E5%B2%97%E8%8E%B7%E8%B5%94%E5%8F%88%E9%81%AD%E8%BF%BD%E8%AE%A8)
 1. [《群星闪耀时》官宣撤档](https://www.zhihu.com/search?q=%E3%80%8A%E7%BE%A4%E6%98%9F%E9%97%AA%E8%80%80%E6%97%B6%E3%80%8B%E5%AE%98%E5%AE%A3%E6%92%A4%E6%A1%A3)
 1. [阿根廷人疯狂庆祝亚军](https://www.zhihu.com/search?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E4%BA%BA%E7%96%AF%E7%8B%82%E5%BA%86%E7%A5%9D%E4%BA%9A%E5%86%9B)
+1. [台湾爆发大规模抗议](https://www.zhihu.com/search?q=%E5%8F%B0%E6%B9%BE%E7%88%86%E5%8F%91%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%8A%97%E8%AE%AE)
 1. [「被裁掉的女孩」播放破2亿](https://www.zhihu.com/search?q=%E3%80%8C%E8%A2%AB%E8%A3%81%E6%8E%89%E7%9A%84%E5%A5%B3%E5%AD%A9%E3%80%8D%E6%92%AD%E6%94%BE%E7%A0%B42%E4%BA%BF)
 
 <!-- END -->
