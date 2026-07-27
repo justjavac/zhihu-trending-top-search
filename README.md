@@ -14,12 +14,12 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jul 28 2026 01:43:45 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jul 28 2026 03:36:42 GMT+0800 (China Standard Time) -->
 
+1. [东野圭吾去世](https://www.zhihu.com/search?q=%E4%B8%9C%E9%87%8E%E5%9C%AD%E5%90%BE%E5%8E%BB%E4%B8%96)
 1. [携程被罚没51.79亿元](https://www.zhihu.com/search?q=%E6%90%BA%E7%A8%8B%E8%A2%AB%E7%BD%9A%E6%B2%A151.79%E4%BA%BF%E5%85%83)
 1. [长鑫科技上市](https://www.zhihu.com/search?q=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E4%B8%8A%E5%B8%82)
 1. [张雪峰前女友称武亮计划成功](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%89%8D%E5%A5%B3%E5%8F%8B%E7%A7%B0%E6%AD%A6%E4%BA%AE%E8%AE%A1%E5%88%92%E6%88%90%E5%8A%9F)
-1. [东野圭吾去世](https://www.zhihu.com/search?q=%E4%B8%9C%E9%87%8E%E5%9C%AD%E5%90%BE%E5%8E%BB%E4%B8%96)
 1. [人生选择模拟器](https://www.zhihu.com/search?q=%E4%BA%BA%E7%94%9F%E9%80%89%E6%8B%A9%E6%A8%A1%E6%8B%9F%E5%99%A8)
 1. [上海 6 岁女孩基因编辑试验后死亡](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%206%20%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%9F%BA%E5%9B%A0%E7%BC%96%E8%BE%91%E8%AF%95%E9%AA%8C%E5%90%8E%E6%AD%BB%E4%BA%A1)
 1. [上海交通大学医学院发布情况说明](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6%E5%8C%BB%E5%AD%A6%E9%99%A2%E5%8F%91%E5%B8%83%E6%83%85%E5%86%B5%E8%AF%B4%E6%98%8E)
