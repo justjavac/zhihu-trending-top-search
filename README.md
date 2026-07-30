@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jul 30 2026 06:06:22 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jul 30 2026 08:01:14 GMT+0800 (China Standard Time) -->
 
 1. [台湾爆发大规模抗议](https://www.zhihu.com/search?q=%E5%8F%B0%E6%B9%BE%E7%88%86%E5%8F%91%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%8A%97%E8%AE%AE)
 1. [美通缉重犯在华东师范大学任职](https://www.zhihu.com/search?q=%E7%BE%8E%E9%80%9A%E7%BC%89%E9%87%8D%E7%8A%AF%E5%9C%A8%E5%8D%8E%E4%B8%9C%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%E4%BB%BB%E8%81%8C)
@@ -22,9 +22,9 @@
 1. [上海 6 岁女孩基因编辑试验后死亡](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%206%20%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%9F%BA%E5%9B%A0%E7%BC%96%E8%BE%91%E8%AF%95%E9%AA%8C%E5%90%8E%E6%AD%BB%E4%BA%A1)
 1. [人生选择模拟器](https://www.zhihu.com/search?q=%E4%BA%BA%E7%94%9F%E9%80%89%E6%8B%A9%E6%A8%A1%E6%8B%9F%E5%99%A8)
 1. [343 斤博主良子峨眉山徒步晕倒](https://www.zhihu.com/search?q=343%20%E6%96%A4%E5%8D%9A%E4%B8%BB%E8%89%AF%E5%AD%90%E5%B3%A8%E7%9C%89%E5%B1%B1%E5%BE%92%E6%AD%A5%E6%99%95%E5%80%92)
-1. [日本熊本县 7.1 级地震](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%8A%E6%9C%AC%E5%8E%BF%207.1%20%E7%BA%A7%E5%9C%B0%E9%9C%87)
 1. [韩国股市今年第九次熔断](https://www.zhihu.com/search?q=%E9%9F%A9%E5%9B%BD%E8%82%A1%E5%B8%82%E4%BB%8A%E5%B9%B4%E7%AC%AC%E4%B9%9D%E6%AC%A1%E7%86%94%E6%96%AD)
 1. [韩国股市熔断](https://www.zhihu.com/search?q=%E9%9F%A9%E5%9B%BD%E8%82%A1%E5%B8%82%E7%86%94%E6%96%AD)
+1. [日本熊本县 7.1 级地震](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E7%86%8A%E6%9C%AC%E5%8E%BF%207.1%20%E7%BA%A7%E5%9C%B0%E9%9C%87)
 1. [泸溪河桃酥被曝吃出牙冠等异物](https://www.zhihu.com/search?q=%E6%B3%B8%E6%BA%AA%E6%B2%B3%E6%A1%83%E9%85%A5%E8%A2%AB%E6%9B%9D%E5%90%83%E5%87%BA%E7%89%99%E5%86%A0%E7%AD%89%E5%BC%82%E7%89%A9)
 1. [KIMI K3 正式开源](https://www.zhihu.com/search?q=KIMI%20K3%20%E6%AD%A3%E5%BC%8F%E5%BC%80%E6%BA%90)
 1. [交易员挪用5000买海力士巨亏](https://www.zhihu.com/search?q=%E4%BA%A4%E6%98%93%E5%91%98%E6%8C%AA%E7%94%A85000%E4%B9%B0%E6%B5%B7%E5%8A%9B%E5%A3%AB%E5%B7%A8%E4%BA%8F)
