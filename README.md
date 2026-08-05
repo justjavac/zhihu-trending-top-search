@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Aug 06 2026 05:11:46 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Aug 06 2026 07:01:30 GMT+0800 (China Standard Time) -->
 
 1. [笔试第一称被第二名花钱劝弃考](https://www.zhihu.com/search?q=%E7%AC%94%E8%AF%95%E7%AC%AC%E4%B8%80%E7%A7%B0%E8%A2%AB%E7%AC%AC%E4%BA%8C%E5%90%8D%E8%8A%B1%E9%92%B1%E5%8A%9D%E5%BC%83%E8%80%83)
 1. [周杰伦 刘若雪](https://www.zhihu.com/search?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%20%E5%88%98%E8%8B%A5%E9%9B%AA)
@@ -23,8 +23,8 @@
 1. [同济大学取消教师长期聘任](https://www.zhihu.com/search?q=%E5%90%8C%E6%B5%8E%E5%A4%A7%E5%AD%A6%E5%8F%96%E6%B6%88%E6%95%99%E5%B8%88%E9%95%BF%E6%9C%9F%E8%81%98%E4%BB%BB)
 1. [美国拟禁止进口中国光模块](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E6%8B%9F%E7%A6%81%E6%AD%A2%E8%BF%9B%E5%8F%A3%E4%B8%AD%E5%9B%BD%E5%85%89%E6%A8%A1%E5%9D%97)
 1. [妈妈罚男孩一次性吃30袋魔芋爽](https://www.zhihu.com/search?q=%E5%A6%88%E5%A6%88%E7%BD%9A%E7%94%B7%E5%AD%A9%E4%B8%80%E6%AC%A1%E6%80%A7%E5%90%8330%E8%A2%8B%E9%AD%94%E8%8A%8B%E7%88%BD)
-1. [竹知了视频被投诉下架](https://www.zhihu.com/search?q=%E7%AB%B9%E7%9F%A5%E4%BA%86%E8%A7%86%E9%A2%91%E8%A2%AB%E6%8A%95%E8%AF%89%E4%B8%8B%E6%9E%B6)
 1. [韩国宣布国家灾难状态](https://www.zhihu.com/search?q=%E9%9F%A9%E5%9B%BD%E5%AE%A3%E5%B8%83%E5%9B%BD%E5%AE%B6%E7%81%BE%E9%9A%BE%E7%8A%B6%E6%80%81)
+1. [竹知了视频被投诉下架](https://www.zhihu.com/search?q=%E7%AB%B9%E7%9F%A5%E4%BA%86%E8%A7%86%E9%A2%91%E8%A2%AB%E6%8A%95%E8%AF%89%E4%B8%8B%E6%9E%B6)
 1. [婚外胚胎案丈夫称已销毁胚胎](https://www.zhihu.com/search?q=%E5%A9%9A%E5%A4%96%E8%83%9A%E8%83%8E%E6%A1%88%E4%B8%88%E5%A4%AB%E7%A7%B0%E5%B7%B2%E9%94%80%E6%AF%81%E8%83%9A%E8%83%8E)
 1. [全国新冠阳性率突破 20.3%](https://www.zhihu.com/search?q=%E5%85%A8%E5%9B%BD%E6%96%B0%E5%86%A0%E9%98%B3%E6%80%A7%E7%8E%87%E7%AA%81%E7%A0%B4%2020.3%25)
 1. [长鑫拒绝苹果降价要求](https://www.zhihu.com/search?q=%E9%95%BF%E9%91%AB%E6%8B%92%E7%BB%9D%E8%8B%B9%E6%9E%9C%E9%99%8D%E4%BB%B7%E8%A6%81%E6%B1%82)
