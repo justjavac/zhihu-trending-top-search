@@ -14,18 +14,19 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Aug 06 2026 19:24:06 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Aug 06 2026 22:16:23 GMT+0800 (China Standard Time) -->
 
 1. [笔试第一称被第二名花钱劝弃考](https://www.zhihu.com/search?q=%E7%AC%94%E8%AF%95%E7%AC%AC%E4%B8%80%E7%A7%B0%E8%A2%AB%E7%AC%AC%E4%BA%8C%E5%90%8D%E8%8A%B1%E9%92%B1%E5%8A%9D%E5%BC%83%E8%80%83)
 1. [周杰伦 刘若雪](https://www.zhihu.com/search?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%20%E5%88%98%E8%8B%A5%E9%9B%AA)
-1. [鸿蒙智行回应「竹知了」事件](https://www.zhihu.com/search?q=%E9%B8%BF%E8%92%99%E6%99%BA%E8%A1%8C%E5%9B%9E%E5%BA%94%E3%80%8C%E7%AB%B9%E7%9F%A5%E4%BA%86%E3%80%8D%E4%BA%8B%E4%BB%B6)
 1. [长鑫拒绝苹果降价要求](https://www.zhihu.com/search?q=%E9%95%BF%E9%91%AB%E6%8B%92%E7%BB%9D%E8%8B%B9%E6%9E%9C%E9%99%8D%E4%BB%B7%E8%A6%81%E6%B1%82)
+1. [鸿蒙智行回应「竹知了」事件](https://www.zhihu.com/search?q=%E9%B8%BF%E8%92%99%E6%99%BA%E8%A1%8C%E5%9B%9E%E5%BA%94%E3%80%8C%E7%AB%B9%E7%9F%A5%E4%BA%86%E3%80%8D%E4%BA%8B%E4%BB%B6)
 1. [妈妈罚男孩一次性吃30袋魔芋爽](https://www.zhihu.com/search?q=%E5%A6%88%E5%A6%88%E7%BD%9A%E7%94%B7%E5%AD%A9%E4%B8%80%E6%AC%A1%E6%80%A7%E5%90%8330%E8%A2%8B%E9%AD%94%E8%8A%8B%E7%88%BD)
 1. [人大教授6年花35万考证莫言家世](https://www.zhihu.com/search?q=%E4%BA%BA%E5%A4%A7%E6%95%99%E6%8E%886%E5%B9%B4%E8%8A%B135%E4%B8%87%E8%80%83%E8%AF%81%E8%8E%AB%E8%A8%80%E5%AE%B6%E4%B8%96)
-1. [婚外胚胎案丈夫称已销毁胚胎](https://www.zhihu.com/search?q=%E5%A9%9A%E5%A4%96%E8%83%9A%E8%83%8E%E6%A1%88%E4%B8%88%E5%A4%AB%E7%A7%B0%E5%B7%B2%E9%94%80%E6%AF%81%E8%83%9A%E8%83%8E)
 1. [DeepSeek 将上调 API 服务定价](https://www.zhihu.com/search?q=DeepSeek%20%E5%B0%86%E4%B8%8A%E8%B0%83%20API%20%E6%9C%8D%E5%8A%A1%E5%AE%9A%E4%BB%B7)
+1. [婚外胚胎案丈夫称已销毁胚胎](https://www.zhihu.com/search?q=%E5%A9%9A%E5%A4%96%E8%83%9A%E8%83%8E%E6%A1%88%E4%B8%88%E5%A4%AB%E7%A7%B0%E5%B7%B2%E9%94%80%E6%AF%81%E8%83%9A%E8%83%8E)
 1. [梅姨真实姓名为「谢某梅」](https://www.zhihu.com/search?q=%E6%A2%85%E5%A7%A8%E7%9C%9F%E5%AE%9E%E5%A7%93%E5%90%8D%E4%B8%BA%E3%80%8C%E8%B0%A2%E6%9F%90%E6%A2%85%E3%80%8D)
 1. [44岁爸爸因叛逆期女儿考研上985](https://www.zhihu.com/search?q=44%E5%B2%81%E7%88%B8%E7%88%B8%E5%9B%A0%E5%8F%9B%E9%80%86%E6%9C%9F%E5%A5%B3%E5%84%BF%E8%80%83%E7%A0%94%E4%B8%8A985)
+1. [周杰伦 私生子](https://www.zhihu.com/search?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%20%E7%A7%81%E7%94%9F%E5%AD%90)
 1. [河南带薪错峰休假新政](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8D%97%E5%B8%A6%E8%96%AA%E9%94%99%E5%B3%B0%E4%BC%91%E5%81%87%E6%96%B0%E6%94%BF)
 1. [知友邓煜获得菲尔兹奖](https://www.zhihu.com/search?q=%E7%9F%A5%E5%8F%8B%E9%82%93%E7%85%9C%E8%8E%B7%E5%BE%97%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96)
 1. [韩国宣布国家灾难状态](https://www.zhihu.com/search?q=%E9%9F%A9%E5%9B%BD%E5%AE%A3%E5%B8%83%E5%9B%BD%E5%AE%B6%E7%81%BE%E9%9A%BE%E7%8A%B6%E6%80%81)
