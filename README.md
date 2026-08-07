@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Aug 08 2026 06:37:42 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Aug 08 2026 07:35:08 GMT+0800 (China Standard Time) -->
 
 1. [44岁爸爸因叛逆期女儿考研上985](https://www.zhihu.com/search?q=44%E5%B2%81%E7%88%B8%E7%88%B8%E5%9B%A0%E5%8F%9B%E9%80%86%E6%9C%9F%E5%A5%B3%E5%84%BF%E8%80%83%E7%A0%94%E4%B8%8A985)
 1. [长鑫拒绝苹果降价要求](https://www.zhihu.com/search?q=%E9%95%BF%E9%91%AB%E6%8B%92%E7%BB%9D%E8%8B%B9%E6%9E%9C%E9%99%8D%E4%BB%B7%E8%A6%81%E6%B1%82)
@@ -22,12 +22,13 @@
 1. [Zhihu CLI上线](https://www.zhihu.com/search?q=Zhihu%20CLI%E4%B8%8A%E7%BA%BF)
 1. [宇树科技发行价 150.80 元/股](https://www.zhihu.com/search?q=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E5%8F%91%E8%A1%8C%E4%BB%B7%20150.80%20%E5%85%83%2F%E8%82%A1)
 1. [泸溪河回应桃酥吃出牙冠](https://www.zhihu.com/search?q=%E6%B3%B8%E6%BA%AA%E6%B2%B3%E5%9B%9E%E5%BA%94%E6%A1%83%E9%85%A5%E5%90%83%E5%87%BA%E7%89%99%E5%86%A0)
-1. [人大教授6年花35万考证莫言家世](https://www.zhihu.com/search?q=%E4%BA%BA%E5%A4%A7%E6%95%99%E6%8E%886%E5%B9%B4%E8%8A%B135%E4%B8%87%E8%80%83%E8%AF%81%E8%8E%AB%E8%A8%80%E5%AE%B6%E4%B8%96)
 1. [河南三支一扶考试存组织作弊犯罪](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8D%97%E4%B8%89%E6%94%AF%E4%B8%80%E6%89%B6%E8%80%83%E8%AF%95%E5%AD%98%E7%BB%84%E7%BB%87%E4%BD%9C%E5%BC%8A%E7%8A%AF%E7%BD%AA)
+1. [曝美国中情局开妓院给平民下药](https://www.zhihu.com/search?q=%E6%9B%9D%E7%BE%8E%E5%9B%BD%E4%B8%AD%E6%83%85%E5%B1%80%E5%BC%80%E5%A6%93%E9%99%A2%E7%BB%99%E5%B9%B3%E6%B0%91%E4%B8%8B%E8%8D%AF)
 1. [DeepSeek 将上调 API 服务定价](https://www.zhihu.com/search?q=DeepSeek%20%E5%B0%86%E4%B8%8A%E8%B0%83%20API%20%E6%9C%8D%E5%8A%A1%E5%AE%9A%E4%BB%B7)
 1. [婚外胚胎案丈夫称已销毁胚胎](https://www.zhihu.com/search?q=%E5%A9%9A%E5%A4%96%E8%83%9A%E8%83%8E%E6%A1%88%E4%B8%88%E5%A4%AB%E7%A7%B0%E5%B7%B2%E9%94%80%E6%AF%81%E8%83%9A%E8%83%8E)
-1. [曝美国中情局开妓院给平民下药](https://www.zhihu.com/search?q=%E6%9B%9D%E7%BE%8E%E5%9B%BD%E4%B8%AD%E6%83%85%E5%B1%80%E5%BC%80%E5%A6%93%E9%99%A2%E7%BB%99%E5%B9%B3%E6%B0%91%E4%B8%8B%E8%8D%AF)
 1. [日本网红 mina 在韩国直播时自杀](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E7%BD%91%E7%BA%A2%20mina%20%E5%9C%A8%E9%9F%A9%E5%9B%BD%E7%9B%B4%E6%92%AD%E6%97%B6%E8%87%AA%E6%9D%80)
+1. [河南撤回带薪错峰休假通知](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8D%97%E6%92%A4%E5%9B%9E%E5%B8%A6%E8%96%AA%E9%94%99%E5%B3%B0%E4%BC%91%E5%81%87%E9%80%9A%E7%9F%A5)
+1. [人大教授6年花35万考证莫言家世](https://www.zhihu.com/search?q=%E4%BA%BA%E5%A4%A7%E6%95%99%E6%8E%886%E5%B9%B4%E8%8A%B135%E4%B8%87%E8%80%83%E8%AF%81%E8%8E%AB%E8%A8%80%E5%AE%B6%E4%B8%96)
 1. [胡彦斌歌王](https://www.zhihu.com/search?q=%E8%83%A1%E5%BD%A6%E6%96%8C%E6%AD%8C%E7%8E%8B)
 1. [歌手总决赛](https://www.zhihu.com/search?q=%E6%AD%8C%E6%89%8B%E6%80%BB%E5%86%B3%E8%B5%9B)
 1. [河南三支一扶笔试将重考](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8D%97%E4%B8%89%E6%94%AF%E4%B8%80%E6%89%B6%E7%AC%94%E8%AF%95%E5%B0%86%E9%87%8D%E8%80%83)
