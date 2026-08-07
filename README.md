@@ -14,16 +14,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Aug 07 2026 11:50:19 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Aug 07 2026 13:41:22 GMT+0800 (China Standard Time) -->
 
 1. [宇树科技发行价 150.80 元/股](https://www.zhihu.com/search?q=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E5%8F%91%E8%A1%8C%E4%BB%B7%20150.80%20%E5%85%83%2F%E8%82%A1)
 1. [泸溪河回应桃酥吃出牙冠](https://www.zhihu.com/search?q=%E6%B3%B8%E6%BA%AA%E6%B2%B3%E5%9B%9E%E5%BA%94%E6%A1%83%E9%85%A5%E5%90%83%E5%87%BA%E7%89%99%E5%86%A0)
 1. [立秋](https://www.zhihu.com/search?q=%E7%AB%8B%E7%A7%8B)
+1. [Zhihu CLI上线](https://www.zhihu.com/search?q=Zhihu%20CLI%E4%B8%8A%E7%BA%BF)
 1. [粉笔公关话术](https://www.zhihu.com/search?q=%E7%B2%89%E7%AC%94%E5%85%AC%E5%85%B3%E8%AF%9D%E6%9C%AF)
-1. [笔试第一称被第二名花钱劝弃考](https://www.zhihu.com/search?q=%E7%AC%94%E8%AF%95%E7%AC%AC%E4%B8%80%E7%A7%B0%E8%A2%AB%E7%AC%AC%E4%BA%8C%E5%90%8D%E8%8A%B1%E9%92%B1%E5%8A%9D%E5%BC%83%E8%80%83)
 1. [梁文锋幻方量化多只产品收益转负](https://www.zhihu.com/search?q=%E6%A2%81%E6%96%87%E9%94%8B%E5%B9%BB%E6%96%B9%E9%87%8F%E5%8C%96%E5%A4%9A%E5%8F%AA%E4%BA%A7%E5%93%81%E6%94%B6%E7%9B%8A%E8%BD%AC%E8%B4%9F)
-1. [周杰伦 刘若雪](https://www.zhihu.com/search?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%20%E5%88%98%E8%8B%A5%E9%9B%AA)
+1. [四川宜宾高县 4.9 级地震](https://www.zhihu.com/search?q=%E5%9B%9B%E5%B7%9D%E5%AE%9C%E5%AE%BE%E9%AB%98%E5%8E%BF%204.9%20%E7%BA%A7%E5%9C%B0%E9%9C%87)
 1. [1 岁宝宝碰坏纸巾盒酒店索赔 924 元](https://www.zhihu.com/search?q=1%20%E5%B2%81%E5%AE%9D%E5%AE%9D%E7%A2%B0%E5%9D%8F%E7%BA%B8%E5%B7%BE%E7%9B%92%E9%85%92%E5%BA%97%E7%B4%A2%E8%B5%94%20924%20%E5%85%83)
+1. [笔试第一称被第二名花钱劝弃考](https://www.zhihu.com/search?q=%E7%AC%94%E8%AF%95%E7%AC%AC%E4%B8%80%E7%A7%B0%E8%A2%AB%E7%AC%AC%E4%BA%8C%E5%90%8D%E8%8A%B1%E9%92%B1%E5%8A%9D%E5%BC%83%E8%80%83)
+1. [周杰伦 刘若雪](https://www.zhihu.com/search?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%20%E5%88%98%E8%8B%A5%E9%9B%AA)
 1. [周杰伦 私生子](https://www.zhihu.com/search?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%20%E7%A7%81%E7%94%9F%E5%AD%90)
 1. [长鑫拒绝苹果降价要求](https://www.zhihu.com/search?q=%E9%95%BF%E9%91%AB%E6%8B%92%E7%BB%9D%E8%8B%B9%E6%9E%9C%E9%99%8D%E4%BB%B7%E8%A6%81%E6%B1%82)
 1. [妈妈罚男孩一次性吃30袋魔芋爽](https://www.zhihu.com/search?q=%E5%A6%88%E5%A6%88%E7%BD%9A%E7%94%B7%E5%AD%A9%E4%B8%80%E6%AC%A1%E6%80%A7%E5%90%8330%E8%A2%8B%E9%AD%94%E8%8A%8B%E7%88%BD)
