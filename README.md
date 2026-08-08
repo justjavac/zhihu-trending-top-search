@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Aug 08 2026 12:58:25 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Aug 08 2026 13:49:18 GMT+0800 (China Standard Time) -->
 
 1. [44岁爸爸因叛逆期女儿考研上985](https://www.zhihu.com/search?q=44%E5%B2%81%E7%88%B8%E7%88%B8%E5%9B%A0%E5%8F%9B%E9%80%86%E6%9C%9F%E5%A5%B3%E5%84%BF%E8%80%83%E7%A0%94%E4%B8%8A985)
 1. [鸿蒙智行回应「竹知了」事件](https://www.zhihu.com/search?q=%E9%B8%BF%E8%92%99%E6%99%BA%E8%A1%8C%E5%9B%9E%E5%BA%94%E3%80%8C%E7%AB%B9%E7%9F%A5%E4%BA%86%E3%80%8D%E4%BA%8B%E4%BB%B6)
