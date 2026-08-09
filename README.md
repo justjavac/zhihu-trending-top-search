@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Aug 09 2026 19:30:27 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Aug 09 2026 20:54:26 GMT+0800 (China Standard Time) -->
 
 1. [第一批抱冬瓜睡觉受害者出现](https://www.zhihu.com/search?q=%E7%AC%AC%E4%B8%80%E6%89%B9%E6%8A%B1%E5%86%AC%E7%93%9C%E7%9D%A1%E8%A7%89%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0)
 1. [台风白海豚](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A)
@@ -26,6 +26,7 @@
 1. [雪佛兰退出中国市场](https://www.zhihu.com/search?q=%E9%9B%AA%E4%BD%9B%E5%85%B0%E9%80%80%E5%87%BA%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA)
 1. [网红雅典娜证实被害](https://www.zhihu.com/search?q=%E7%BD%91%E7%BA%A2%E9%9B%85%E5%85%B8%E5%A8%9C%E8%AF%81%E5%AE%9E%E8%A2%AB%E5%AE%B3)
 1. [上半年国内手机销量TOP30出炉](https://www.zhihu.com/search?q=%E4%B8%8A%E5%8D%8A%E5%B9%B4%E5%9B%BD%E5%86%85%E6%89%8B%E6%9C%BA%E9%94%80%E9%87%8FTOP30%E5%87%BA%E7%82%89)
+1. [直播自杀日本女网红已身亡](https://www.zhihu.com/search?q=%E7%9B%B4%E6%92%AD%E8%87%AA%E6%9D%80%E6%97%A5%E6%9C%AC%E5%A5%B3%E7%BD%91%E7%BA%A2%E5%B7%B2%E8%BA%AB%E4%BA%A1)
 1. [梅西父亲去世](https://www.zhihu.com/search?q=%E6%A2%85%E8%A5%BF%E7%88%B6%E4%BA%B2%E5%8E%BB%E4%B8%96)
 1. [欢迎来龙餐馆热映](https://www.zhihu.com/search?q=%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%E7%83%AD%E6%98%A0)
 1. [河南三支一扶考试存组织作弊犯罪](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8D%97%E4%B8%89%E6%94%AF%E4%B8%80%E6%89%B6%E8%80%83%E8%AF%95%E5%AD%98%E7%BB%84%E7%BB%87%E4%BD%9C%E5%BC%8A%E7%8A%AF%E7%BD%AA)
