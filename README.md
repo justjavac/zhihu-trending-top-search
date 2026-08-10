@@ -14,18 +14,19 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Aug 11 2026 06:39:09 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Aug 11 2026 07:36:47 GMT+0800 (China Standard Time) -->
 
 1. [网红雅典娜证实被害](https://www.zhihu.com/search?q=%E7%BD%91%E7%BA%A2%E9%9B%85%E5%85%B8%E5%A8%9C%E8%AF%81%E5%AE%9E%E8%A2%AB%E5%AE%B3)
 1. [定位纠纷致外卖员被砍成植物人](https://www.zhihu.com/search?q=%E5%AE%9A%E4%BD%8D%E7%BA%A0%E7%BA%B7%E8%87%B4%E5%A4%96%E5%8D%96%E5%91%98%E8%A2%AB%E7%A0%8D%E6%88%90%E6%A4%8D%E7%89%A9%E4%BA%BA)
-1. [第一批抱冬瓜睡觉受害者出现](https://www.zhihu.com/search?q=%E7%AC%AC%E4%B8%80%E6%89%B9%E6%8A%B1%E5%86%AC%E7%93%9C%E7%9D%A1%E8%A7%89%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0)
-1. [Zhihu CLI上线](https://www.zhihu.com/search?q=Zhihu%20CLI%E4%B8%8A%E7%BA%BF)
 1. [古二曝繁花剧组涉偷税吸毒](https://www.zhihu.com/search?q=%E5%8F%A4%E4%BA%8C%E6%9B%9D%E7%B9%81%E8%8A%B1%E5%89%A7%E7%BB%84%E6%B6%89%E5%81%B7%E7%A8%8E%E5%90%B8%E6%AF%92)
-1. [雪佛兰退出中国市场](https://www.zhihu.com/search?q=%E9%9B%AA%E4%BD%9B%E5%85%B0%E9%80%80%E5%87%BA%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA)
-1. [武汉司门口城管摊贩冲突](https://www.zhihu.com/search?q=%E6%AD%A6%E6%B1%89%E5%8F%B8%E9%97%A8%E5%8F%A3%E5%9F%8E%E7%AE%A1%E6%91%8A%E8%B4%A9%E5%86%B2%E7%AA%81)
+1. [Zhihu CLI上线](https://www.zhihu.com/search?q=Zhihu%20CLI%E4%B8%8A%E7%BA%BF)
+1. [台风「白海豚」深入内陆](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E%E3%80%8C%E7%99%BD%E6%B5%B7%E8%B1%9A%E3%80%8D%E6%B7%B1%E5%85%A5%E5%86%85%E9%99%86)
 1. [王宝强0票](https://www.zhihu.com/search?q=%E7%8E%8B%E5%AE%9D%E5%BC%BA0%E7%A5%A8)
-1. [第一批抱冬瓜睡觉受害者已出现](https://www.zhihu.com/search?q=%E7%AC%AC%E4%B8%80%E6%89%B9%E6%8A%B1%E5%86%AC%E7%93%9C%E7%9D%A1%E8%A7%89%E5%8F%97%E5%AE%B3%E8%80%85%E5%B7%B2%E5%87%BA%E7%8E%B0)
+1. [雪佛兰退出中国市场](https://www.zhihu.com/search?q=%E9%9B%AA%E4%BD%9B%E5%85%B0%E9%80%80%E5%87%BA%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA)
+1. [第一批抱冬瓜睡觉受害者出现](https://www.zhihu.com/search?q=%E7%AC%AC%E4%B8%80%E6%89%B9%E6%8A%B1%E5%86%AC%E7%93%9C%E7%9D%A1%E8%A7%89%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0)
+1. [武汉司门口城管摊贩冲突](https://www.zhihu.com/search?q=%E6%AD%A6%E6%B1%89%E5%8F%B8%E9%97%A8%E5%8F%A3%E5%9F%8E%E7%AE%A1%E6%91%8A%E8%B4%A9%E5%86%B2%E7%AA%81)
 1. [台风白海豚](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A)
+1. [第一批抱冬瓜睡觉受害者已出现](https://www.zhihu.com/search?q=%E7%AC%AC%E4%B8%80%E6%89%B9%E6%8A%B1%E5%86%AC%E7%93%9C%E7%9D%A1%E8%A7%89%E5%8F%97%E5%AE%B3%E8%80%85%E5%B7%B2%E5%87%BA%E7%8E%B0)
 1. [同济大学取消教师长期聘任](https://www.zhihu.com/search?q=%E5%90%8C%E6%B5%8E%E5%A4%A7%E5%AD%A6%E5%8F%96%E6%B6%88%E6%95%99%E5%B8%88%E9%95%BF%E6%9C%9F%E8%81%98%E4%BB%BB)
 1. [《欢迎来龙餐馆》热映](https://www.zhihu.com/search?q=%E3%80%8A%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%E3%80%8B%E7%83%AD%E6%98%A0)
 1. [易烊千玺百花奖最佳男主角](https://www.zhihu.com/search?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E7%99%BE%E8%8A%B1%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B7%E4%B8%BB%E8%A7%92)
