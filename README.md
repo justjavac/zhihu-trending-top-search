@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Aug 11 2026 01:52:16 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Aug 11 2026 02:59:34 GMT+0800 (China Standard Time) -->
 
 1. [网红雅典娜证实被害](https://www.zhihu.com/search?q=%E7%BD%91%E7%BA%A2%E9%9B%85%E5%85%B8%E5%A8%9C%E8%AF%81%E5%AE%9E%E8%A2%AB%E5%AE%B3)
 1. [易烊千玺百花奖最佳男主角](https://www.zhihu.com/search?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E7%99%BE%E8%8A%B1%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B7%E4%B8%BB%E8%A7%92)
@@ -26,6 +26,7 @@
 1. [雪佛兰退出中国市场](https://www.zhihu.com/search?q=%E9%9B%AA%E4%BD%9B%E5%85%B0%E9%80%80%E5%87%BA%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA)
 1. [古二曝繁花剧组涉偷税吸毒](https://www.zhihu.com/search?q=%E5%8F%A4%E4%BA%8C%E6%9B%9D%E7%B9%81%E8%8A%B1%E5%89%A7%E7%BB%84%E6%B6%89%E5%81%B7%E7%A8%8E%E5%90%B8%E6%AF%92)
 1. [武汉司门口城管摊贩冲突](https://www.zhihu.com/search?q=%E6%AD%A6%E6%B1%89%E5%8F%B8%E9%97%A8%E5%8F%A3%E5%9F%8E%E7%AE%A1%E6%91%8A%E8%B4%A9%E5%86%B2%E7%AA%81)
+1. [存款市场罕见两极分化](https://www.zhihu.com/search?q=%E5%AD%98%E6%AC%BE%E5%B8%82%E5%9C%BA%E7%BD%95%E8%A7%81%E4%B8%A4%E6%9E%81%E5%88%86%E5%8C%96)
 1. [第一批抱冬瓜睡觉受害者已出现](https://www.zhihu.com/search?q=%E7%AC%AC%E4%B8%80%E6%89%B9%E6%8A%B1%E5%86%AC%E7%93%9C%E7%9D%A1%E8%A7%89%E5%8F%97%E5%AE%B3%E8%80%85%E5%B7%B2%E5%87%BA%E7%8E%B0)
 1. [上半年国内手机销量TOP30出炉](https://www.zhihu.com/search?q=%E4%B8%8A%E5%8D%8A%E5%B9%B4%E5%9B%BD%E5%86%85%E6%89%8B%E6%9C%BA%E9%94%80%E9%87%8FTOP30%E5%87%BA%E7%82%89)
 1. [《欢迎来龙餐馆》](https://www.zhihu.com/search?q=%E3%80%8A%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%E3%80%8B)
