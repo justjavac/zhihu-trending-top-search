@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Aug 13 2026 05:48:41 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Aug 13 2026 06:42:14 GMT+0800 (China Standard Time) -->
 
 1. [朱镕基同志逝世](https://www.zhihu.com/search?q=%E6%9C%B1%E9%95%95%E5%9F%BA%E5%90%8C%E5%BF%97%E9%80%9D%E4%B8%96)
 1. [郭德纲篡改红歌武汉文旅立案](https://www.zhihu.com/search?q=%E9%83%AD%E5%BE%B7%E7%BA%B2%E7%AF%A1%E6%94%B9%E7%BA%A2%E6%AD%8C%E6%AD%A6%E6%B1%89%E6%96%87%E6%97%85%E7%AB%8B%E6%A1%88)
@@ -27,6 +27,7 @@
 1. [Claude黎曼猜想获重大突破](https://www.zhihu.com/search?q=Claude%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E8%8E%B7%E9%87%8D%E5%A4%A7%E7%AA%81%E7%A0%B4)
 1. [河南浙江等地暴雨](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8D%97%E6%B5%99%E6%B1%9F%E7%AD%89%E5%9C%B0%E6%9A%B4%E9%9B%A8)
 1. [华人加密投资者叶俊德被曝全裸坠亡](https://www.zhihu.com/search?q=%E5%8D%8E%E4%BA%BA%E5%8A%A0%E5%AF%86%E6%8A%95%E8%B5%84%E8%80%85%E5%8F%B6%E4%BF%8A%E5%BE%B7%E8%A2%AB%E6%9B%9D%E5%85%A8%E8%A3%B8%E5%9D%A0%E4%BA%A1)
+1. [龙餐馆差评被批文化殖民心态](https://www.zhihu.com/search?q=%E9%BE%99%E9%A4%90%E9%A6%86%E5%B7%AE%E8%AF%84%E8%A2%AB%E6%89%B9%E6%96%87%E5%8C%96%E6%AE%96%E6%B0%91%E5%BF%83%E6%80%81)
 1. [《影之刃零》正式开启预售](https://www.zhihu.com/search?q=%E3%80%8A%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B6%E3%80%8B%E6%AD%A3%E5%BC%8F%E5%BC%80%E5%90%AF%E9%A2%84%E5%94%AE)
 1. [英仙座流星雨](https://www.zhihu.com/search?q=%E8%8B%B1%E4%BB%99%E5%BA%A7%E6%B5%81%E6%98%9F%E9%9B%A8)
 1. [腾讯发布二季度财报](https://www.zhihu.com/search?q=%E8%85%BE%E8%AE%AF%E5%8F%91%E5%B8%83%E4%BA%8C%E5%AD%A3%E5%BA%A6%E8%B4%A2%E6%8A%A5)
