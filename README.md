@@ -14,19 +14,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Aug 12 2026 21:13:38 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Aug 12 2026 22:58:35 GMT+0800 (China Standard Time) -->
 
 1. [朱镕基同志逝世](https://www.zhihu.com/search?q=%E6%9C%B1%E9%95%95%E5%9F%BA%E5%90%8C%E5%BF%97%E9%80%9D%E4%B8%96)
-1. [同济大学取消教师长期聘任](https://www.zhihu.com/search?q=%E5%90%8C%E6%B5%8E%E5%A4%A7%E5%AD%A6%E5%8F%96%E6%B6%88%E6%95%99%E5%B8%88%E9%95%BF%E6%9C%9F%E8%81%98%E4%BB%BB)
+1. [郭德纲篡改红歌武汉文旅立案](https://www.zhihu.com/search?q=%E9%83%AD%E5%BE%B7%E7%BA%B2%E7%AF%A1%E6%94%B9%E7%BA%A2%E6%AD%8C%E6%AD%A6%E6%B1%89%E6%96%87%E6%97%85%E7%AB%8B%E6%A1%88)
 1. [腾讯发布二季度财报](https://www.zhihu.com/search?q=%E8%85%BE%E8%AE%AF%E5%8F%91%E5%B8%83%E4%BA%8C%E5%AD%A3%E5%BA%A6%E8%B4%A2%E6%8A%A5)
 1. [Zhihu CLI上线](https://www.zhihu.com/search?q=Zhihu%20CLI%E4%B8%8A%E7%BA%BF)
-1. [河南浙江等地暴雨](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8D%97%E6%B5%99%E6%B1%9F%E7%AD%89%E5%9C%B0%E6%9A%B4%E9%9B%A8)
+1. [英仙座流星雨](https://www.zhihu.com/search?q=%E8%8B%B1%E4%BB%99%E5%BA%A7%E6%B5%81%E6%98%9F%E9%9B%A8)
 1. [Claude黎曼猜想获重大突破](https://www.zhihu.com/search?q=Claude%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E8%8E%B7%E9%87%8D%E5%A4%A7%E7%AA%81%E7%A0%B4)
 1. [荣耀发布会](https://www.zhihu.com/search?q=%E8%8D%A3%E8%80%80%E5%8F%91%E5%B8%83%E4%BC%9A)
-1. [BLG 首发上单 Flandre](https://www.zhihu.com/search?q=BLG%20%E9%A6%96%E5%8F%91%E4%B8%8A%E5%8D%95%20Flandre)
-1. [郭德纲篡改红歌武汉文旅立案](https://www.zhihu.com/search?q=%E9%83%AD%E5%BE%B7%E7%BA%B2%E7%AF%A1%E6%94%B9%E7%BA%A2%E6%AD%8C%E6%AD%A6%E6%B1%89%E6%96%87%E6%97%85%E7%AB%8B%E6%A1%88)
-1. [贾冰私下饭局爆粗口被偷拍](https://www.zhihu.com/search?q=%E8%B4%BE%E5%86%B0%E7%A7%81%E4%B8%8B%E9%A5%AD%E5%B1%80%E7%88%86%E7%B2%97%E5%8F%A3%E8%A2%AB%E5%81%B7%E6%8B%8D)
+1. [同济大学取消教师长期聘任](https://www.zhihu.com/search?q=%E5%90%8C%E6%B5%8E%E5%A4%A7%E5%AD%A6%E5%8F%96%E6%B6%88%E6%95%99%E5%B8%88%E9%95%BF%E6%9C%9F%E8%81%98%E4%BB%BB)
 1. [山西一实习护士晒患者隐私照](https://www.zhihu.com/search?q=%E5%B1%B1%E8%A5%BF%E4%B8%80%E5%AE%9E%E4%B9%A0%E6%8A%A4%E5%A3%AB%E6%99%92%E6%82%A3%E8%80%85%E9%9A%90%E7%A7%81%E7%85%A7)
+1. [河南浙江等地暴雨](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8D%97%E6%B5%99%E6%B1%9F%E7%AD%89%E5%9C%B0%E6%9A%B4%E9%9B%A8)
+1. [易烊千玺百花奖最佳男主角](https://www.zhihu.com/search?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E7%99%BE%E8%8A%B1%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B7%E4%B8%BB%E8%A7%92)
+1. [台风「白海豚」致上海无锡内涝](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E%E3%80%8C%E7%99%BD%E6%B5%B7%E8%B1%9A%E3%80%8D%E8%87%B4%E4%B8%8A%E6%B5%B7%E6%97%A0%E9%94%A1%E5%86%85%E6%B6%9D)
+1. [BLG 首发上单 Flandre](https://www.zhihu.com/search?q=BLG%20%E9%A6%96%E5%8F%91%E4%B8%8A%E5%8D%95%20Flandre)
+1. [贾冰私下饭局爆粗口被偷拍](https://www.zhihu.com/search?q=%E8%B4%BE%E5%86%B0%E7%A7%81%E4%B8%8B%E9%A5%AD%E5%B1%80%E7%88%86%E7%B2%97%E5%8F%A3%E8%A2%AB%E5%81%B7%E6%8B%8D)
 1. [华人加密投资者叶俊德被曝全裸坠亡](https://www.zhihu.com/search?q=%E5%8D%8E%E4%BA%BA%E5%8A%A0%E5%AF%86%E6%8A%95%E8%B5%84%E8%80%85%E5%8F%B6%E4%BF%8A%E5%BE%B7%E8%A2%AB%E6%9B%9D%E5%85%A8%E8%A3%B8%E5%9D%A0%E4%BA%A1)
 1. [武大靖任中国短道速滑主教练](https://www.zhihu.com/search?q=%E6%AD%A6%E5%A4%A7%E9%9D%96%E4%BB%BB%E4%B8%AD%E5%9B%BD%E7%9F%AD%E9%81%93%E9%80%9F%E6%BB%91%E4%B8%BB%E6%95%99%E7%BB%83)
 1. [《影之刃零》正式开启预售](https://www.zhihu.com/search?q=%E3%80%8A%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B6%E3%80%8B%E6%AD%A3%E5%BC%8F%E5%BC%80%E5%90%AF%E9%A2%84%E5%94%AE)
@@ -34,10 +37,8 @@
 1. [百万粉网红姜小柔因车祸去世](https://www.zhihu.com/search?q=%E7%99%BE%E4%B8%87%E7%B2%89%E7%BD%91%E7%BA%A2%E5%A7%9C%E5%B0%8F%E6%9F%94%E5%9B%A0%E8%BD%A6%E7%A5%B8%E5%8E%BB%E4%B8%96)
 1. [网红巴旦木公主晒与卢本伟结婚照](https://www.zhihu.com/search?q=%E7%BD%91%E7%BA%A2%E5%B7%B4%E6%97%A6%E6%9C%A8%E5%85%AC%E4%B8%BB%E6%99%92%E4%B8%8E%E5%8D%A2%E6%9C%AC%E4%BC%9F%E7%BB%93%E5%A9%9A%E7%85%A7)
 1. [方文山方回应出轨传闻](https://www.zhihu.com/search?q=%E6%96%B9%E6%96%87%E5%B1%B1%E6%96%B9%E5%9B%9E%E5%BA%94%E5%87%BA%E8%BD%A8%E4%BC%A0%E9%97%BB)
-1. [易烊千玺百花奖最佳男主角](https://www.zhihu.com/search?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E7%99%BE%E8%8A%B1%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B7%E4%B8%BB%E8%A7%92)
 1. [北京暴雨](https://www.zhihu.com/search?q=%E5%8C%97%E4%BA%AC%E6%9A%B4%E9%9B%A8)
 1. [湖北宜昌进入战时状态](https://www.zhihu.com/search?q=%E6%B9%96%E5%8C%97%E5%AE%9C%E6%98%8C%E8%BF%9B%E5%85%A5%E6%88%98%E6%97%B6%E7%8A%B6%E6%80%81)
-1. [台风「白海豚」致上海无锡内涝](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E%E3%80%8C%E7%99%BD%E6%B5%B7%E8%B1%9A%E3%80%8D%E8%87%B4%E4%B8%8A%E6%B5%B7%E6%97%A0%E9%94%A1%E5%86%85%E6%B6%9D)
 1. [人民艺术家郭兰英逝世](https://www.zhihu.com/search?q=%E4%BA%BA%E6%B0%91%E8%89%BA%E6%9C%AF%E5%AE%B6%E9%83%AD%E5%85%B0%E8%8B%B1%E9%80%9D%E4%B8%96)
 1. [055 遵义舰演习遭潜艇「击沉」](https://www.zhihu.com/search?q=055%20%E9%81%B5%E4%B9%89%E8%88%B0%E6%BC%94%E4%B9%A0%E9%81%AD%E6%BD%9C%E8%89%87%E3%80%8C%E5%87%BB%E6%B2%89%E3%80%8D)
 1. [第一批抱冬瓜睡觉受害者已出现](https://www.zhihu.com/search?q=%E7%AC%AC%E4%B8%80%E6%89%B9%E6%8A%B1%E5%86%AC%E7%93%9C%E7%9D%A1%E8%A7%89%E5%8F%97%E5%AE%B3%E8%80%85%E5%B7%B2%E5%87%BA%E7%8E%B0)
