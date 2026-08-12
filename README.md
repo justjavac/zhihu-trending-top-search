@@ -14,16 +14,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Aug 12 2026 07:41:40 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Aug 12 2026 10:06:13 GMT+0800 (China Standard Time) -->
 
 1. [王宝强0票](https://www.zhihu.com/search?q=%E7%8E%8B%E5%AE%9D%E5%BC%BA0%E7%A5%A8)
+1. [北京暴雨](https://www.zhihu.com/search?q=%E5%8C%97%E4%BA%AC%E6%9A%B4%E9%9B%A8)
 1. [055 遵义舰演习遭潜艇「击沉」](https://www.zhihu.com/search?q=055%20%E9%81%B5%E4%B9%89%E8%88%B0%E6%BC%94%E4%B9%A0%E9%81%AD%E6%BD%9C%E8%89%87%E3%80%8C%E5%87%BB%E6%B2%89%E3%80%8D)
-1. [湖北宜昌进入战时状态](https://www.zhihu.com/search?q=%E6%B9%96%E5%8C%97%E5%AE%9C%E6%98%8C%E8%BF%9B%E5%85%A5%E6%88%98%E6%97%B6%E7%8A%B6%E6%80%81)
 1. [Zhihu CLI上线](https://www.zhihu.com/search?q=Zhihu%20CLI%E4%B8%8A%E7%BA%BF)
+1. [人民艺术家郭兰英逝世](https://www.zhihu.com/search?q=%E4%BA%BA%E6%B0%91%E8%89%BA%E6%9C%AF%E5%AE%B6%E9%83%AD%E5%85%B0%E8%8B%B1%E9%80%9D%E4%B8%96)
+1. [湖北宜昌进入战时状态](https://www.zhihu.com/search?q=%E6%B9%96%E5%8C%97%E5%AE%9C%E6%98%8C%E8%BF%9B%E5%85%A5%E6%88%98%E6%97%B6%E7%8A%B6%E6%80%81)
 1. [百万粉网红姜小柔因车祸去世](https://www.zhihu.com/search?q=%E7%99%BE%E4%B8%87%E7%B2%89%E7%BD%91%E7%BA%A2%E5%A7%9C%E5%B0%8F%E6%9F%94%E5%9B%A0%E8%BD%A6%E7%A5%B8%E5%8E%BB%E4%B8%96)
 1. [同济大学取消教师长期聘任](https://www.zhihu.com/search?q=%E5%90%8C%E6%B5%8E%E5%A4%A7%E5%AD%A6%E5%8F%96%E6%B6%88%E6%95%99%E5%B8%88%E9%95%BF%E6%9C%9F%E8%81%98%E4%BB%BB)
-1. [贾冰私下饭局爆粗口被偷拍](https://www.zhihu.com/search?q=%E8%B4%BE%E5%86%B0%E7%A7%81%E4%B8%8B%E9%A5%AD%E5%B1%80%E7%88%86%E7%B2%97%E5%8F%A3%E8%A2%AB%E5%81%B7%E6%8B%8D)
 1. [网红巴旦木公主晒与卢本伟结婚照](https://www.zhihu.com/search?q=%E7%BD%91%E7%BA%A2%E5%B7%B4%E6%97%A6%E6%9C%A8%E5%85%AC%E4%B8%BB%E6%99%92%E4%B8%8E%E5%8D%A2%E6%9C%AC%E4%BC%9F%E7%BB%93%E5%A9%9A%E7%85%A7)
+1. [贾冰私下饭局爆粗口被偷拍](https://www.zhihu.com/search?q=%E8%B4%BE%E5%86%B0%E7%A7%81%E4%B8%8B%E9%A5%AD%E5%B1%80%E7%88%86%E7%B2%97%E5%8F%A3%E8%A2%AB%E5%81%B7%E6%8B%8D)
 1. [方文山方回应出轨传闻](https://www.zhihu.com/search?q=%E6%96%B9%E6%96%87%E5%B1%B1%E6%96%B9%E5%9B%9E%E5%BA%94%E5%87%BA%E8%BD%A8%E4%BC%A0%E9%97%BB)
 1. [易烊千玺百花奖最佳男主角](https://www.zhihu.com/search?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E7%99%BE%E8%8A%B1%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B7%E4%B8%BB%E8%A7%92)
 1. [台风「白海豚」致上海无锡内涝](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E%E3%80%8C%E7%99%BD%E6%B5%B7%E8%B1%9A%E3%80%8D%E8%87%B4%E4%B8%8A%E6%B5%B7%E6%97%A0%E9%94%A1%E5%86%85%E6%B6%9D)
