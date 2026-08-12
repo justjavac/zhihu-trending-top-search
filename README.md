@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Aug 13 2026 04:48:35 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Aug 13 2026 05:48:41 GMT+0800 (China Standard Time) -->
 
 1. [朱镕基同志逝世](https://www.zhihu.com/search?q=%E6%9C%B1%E9%95%95%E5%9F%BA%E5%90%8C%E5%BF%97%E9%80%9D%E4%B8%96)
 1. [郭德纲篡改红歌武汉文旅立案](https://www.zhihu.com/search?q=%E9%83%AD%E5%BE%B7%E7%BA%B2%E7%AF%A1%E6%94%B9%E7%BA%A2%E6%AD%8C%E6%AD%A6%E6%B1%89%E6%96%87%E6%97%85%E7%AB%8B%E6%A1%88)
