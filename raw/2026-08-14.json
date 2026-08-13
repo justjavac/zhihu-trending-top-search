@@ -4,7 +4,6 @@
   { "query_display": "DeepSeek 峰谷定价", "real_query": "DeepSeek 峰谷定价" },
   { "query_display": "Zhihu CLI上线", "real_query": "Zhihu CLI上线" },
   { "query_display": "DeepSeek V4 Pro 正式版发布", "real_query": "DeepSeek V4 Pro 正式版发布" },
-  { "query_display": "福建福安一船厂爆炸", "real_query": "福建福安一船厂爆炸" },
   { "query_display": "婚外胚胎案男方已撤销离婚", "real_query": "婚外胚胎案男方已撤销离婚" },
   { "query_display": "百万粉网红姜小柔因车祸去世", "real_query": "百万粉网红姜小柔因车祸去世" },
   { "query_display": "网红巴旦木公主晒与卢本伟结婚照", "real_query": "网红巴旦木公主晒与卢本伟结婚照" },
@@ -13,5 +12,7 @@
   {
     "query_display": "儿子说「以后大不了送外卖」爸爸真带他去了",
     "real_query": "儿子说「以后大不了送外卖」爸爸真带他去了"
-  }
+  },
+  { "query_display": "DeepSeek 涨价", "real_query": "DeepSeek 涨价" },
+  { "query_display": "福建福安一船厂爆炸", "real_query": "福建福安一船厂爆炸" }
 ]
