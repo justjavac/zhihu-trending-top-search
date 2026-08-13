@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Aug 14 2026 04:45:39 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Aug 14 2026 05:48:25 GMT+0800 (China Standard Time) -->
 
 1. [河南14万考生成绩作废](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8D%9714%E4%B8%87%E8%80%83%E7%94%9F%E6%88%90%E7%BB%A9%E4%BD%9C%E5%BA%9F)
 1. [百万粉网红姜小柔因车祸去世](https://www.zhihu.com/search?q=%E7%99%BE%E4%B8%87%E7%B2%89%E7%BD%91%E7%BA%A2%E5%A7%9C%E5%B0%8F%E6%9F%94%E5%9B%A0%E8%BD%A6%E7%A5%B8%E5%8E%BB%E4%B8%96)
@@ -23,8 +23,8 @@
 1. [网红巴旦木公主晒与卢本伟结婚照](https://www.zhihu.com/search?q=%E7%BD%91%E7%BA%A2%E5%B7%B4%E6%97%A6%E6%9C%A8%E5%85%AC%E4%B8%BB%E6%99%92%E4%B8%8E%E5%8D%A2%E6%9C%AC%E4%BC%9F%E7%BB%93%E5%A9%9A%E7%85%A7)
 1. [山西一实习护士晒患者隐私照](https://www.zhihu.com/search?q=%E5%B1%B1%E8%A5%BF%E4%B8%80%E5%AE%9E%E4%B9%A0%E6%8A%A4%E5%A3%AB%E6%99%92%E6%82%A3%E8%80%85%E9%9A%90%E7%A7%81%E7%85%A7)
 1. [华人加密投资者叶俊德被曝全裸坠亡](https://www.zhihu.com/search?q=%E5%8D%8E%E4%BA%BA%E5%8A%A0%E5%AF%86%E6%8A%95%E8%B5%84%E8%80%85%E5%8F%B6%E4%BF%8A%E5%BE%B7%E8%A2%AB%E6%9B%9D%E5%85%A8%E8%A3%B8%E5%9D%A0%E4%BA%A1)
-1. [儿子说「以后大不了送外卖」爸爸真带他去了](https://www.zhihu.com/search?q=%E5%84%BF%E5%AD%90%E8%AF%B4%E3%80%8C%E4%BB%A5%E5%90%8E%E5%A4%A7%E4%B8%8D%E4%BA%86%E9%80%81%E5%A4%96%E5%8D%96%E3%80%8D%E7%88%B8%E7%88%B8%E7%9C%9F%E5%B8%A6%E4%BB%96%E5%8E%BB%E4%BA%86)
 1. [DeepSeek 涨价](https://www.zhihu.com/search?q=DeepSeek%20%E6%B6%A8%E4%BB%B7)
+1. [儿子说「以后大不了送外卖」爸爸真带他去了](https://www.zhihu.com/search?q=%E5%84%BF%E5%AD%90%E8%AF%B4%E3%80%8C%E4%BB%A5%E5%90%8E%E5%A4%A7%E4%B8%8D%E4%BA%86%E9%80%81%E5%A4%96%E5%8D%96%E3%80%8D%E7%88%B8%E7%88%B8%E7%9C%9F%E5%B8%A6%E4%BB%96%E5%8E%BB%E4%BA%86)
 1. [上半年全国结婚登记 327.5 万对](https://www.zhihu.com/search?q=%E4%B8%8A%E5%8D%8A%E5%B9%B4%E5%85%A8%E5%9B%BD%E7%BB%93%E5%A9%9A%E7%99%BB%E8%AE%B0%20327.5%20%E4%B8%87%E5%AF%B9)
 1. [DeepSeek Harness](https://www.zhihu.com/search?q=DeepSeek%20Harness)
 1. [阿里系中高层被曝遭大厂拒收](https://www.zhihu.com/search?q=%E9%98%BF%E9%87%8C%E7%B3%BB%E4%B8%AD%E9%AB%98%E5%B1%82%E8%A2%AB%E6%9B%9D%E9%81%AD%E5%A4%A7%E5%8E%82%E6%8B%92%E6%94%B6)
