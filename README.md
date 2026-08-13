@@ -14,20 +14,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Aug 13 2026 19:48:51 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Aug 13 2026 21:15:16 GMT+0800 (China Standard Time) -->
 
-1. [朱镕基同志逝世](https://www.zhihu.com/search?q=%E6%9C%B1%E9%95%95%E5%9F%BA%E5%90%8C%E5%BF%97%E9%80%9D%E4%B8%96)
-1. [河南14万考生成绩作废](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8D%9714%E4%B8%87%E8%80%83%E7%94%9F%E6%88%90%E7%BB%A9%E4%BD%9C%E5%BA%9F)
 1. [王宝强0票](https://www.zhihu.com/search?q=%E7%8E%8B%E5%AE%9D%E5%BC%BA0%E7%A5%A8)
+1. [河南14万考生成绩作废](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8D%9714%E4%B8%87%E8%80%83%E7%94%9F%E6%88%90%E7%BB%A9%E4%BD%9C%E5%BA%9F)
+1. [DeepSeek 峰谷定价](https://www.zhihu.com/search?q=DeepSeek%20%E5%B3%B0%E8%B0%B7%E5%AE%9A%E4%BB%B7)
 1. [Zhihu CLI上线](https://www.zhihu.com/search?q=Zhihu%20CLI%E4%B8%8A%E7%BA%BF)
 1. [河南郏县北汝河段民堤溃口](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8D%97%E9%83%8F%E5%8E%BF%E5%8C%97%E6%B1%9D%E6%B2%B3%E6%AE%B5%E6%B0%91%E5%A0%A4%E6%BA%83%E5%8F%A3)
 1. [福建福安一船厂爆炸](https://www.zhihu.com/search?q=%E7%A6%8F%E5%BB%BA%E7%A6%8F%E5%AE%89%E4%B8%80%E8%88%B9%E5%8E%82%E7%88%86%E7%82%B8)
-1. [花 48 万买事业编没办成中间人拒退款](https://www.zhihu.com/search?q=%E8%8A%B1%2048%20%E4%B8%87%E4%B9%B0%E4%BA%8B%E4%B8%9A%E7%BC%96%E6%B2%A1%E5%8A%9E%E6%88%90%E4%B8%AD%E9%97%B4%E4%BA%BA%E6%8B%92%E9%80%80%E6%AC%BE)
-1. [百万粉网红姜小柔因车祸去世](https://www.zhihu.com/search?q=%E7%99%BE%E4%B8%87%E7%B2%89%E7%BD%91%E7%BA%A2%E5%A7%9C%E5%B0%8F%E6%9F%94%E5%9B%A0%E8%BD%A6%E7%A5%B8%E5%8E%BB%E4%B8%96)
+1. [婚外胚胎案男方已撤销离婚](https://www.zhihu.com/search?q=%E5%A9%9A%E5%A4%96%E8%83%9A%E8%83%8E%E6%A1%88%E7%94%B7%E6%96%B9%E5%B7%B2%E6%92%A4%E9%94%80%E7%A6%BB%E5%A9%9A)
 1. [DeepSeek V4 Pro 正式版发布](https://www.zhihu.com/search?q=DeepSeek%20V4%20Pro%20%E6%AD%A3%E5%BC%8F%E7%89%88%E5%8F%91%E5%B8%83)
+1. [百万粉网红姜小柔因车祸去世](https://www.zhihu.com/search?q=%E7%99%BE%E4%B8%87%E7%B2%89%E7%BD%91%E7%BA%A2%E5%A7%9C%E5%B0%8F%E6%9F%94%E5%9B%A0%E8%BD%A6%E7%A5%B8%E5%8E%BB%E4%B8%96)
 1. [网红巴旦木公主晒与卢本伟结婚照](https://www.zhihu.com/search?q=%E7%BD%91%E7%BA%A2%E5%B7%B4%E6%97%A6%E6%9C%A8%E5%85%AC%E4%B8%BB%E6%99%92%E4%B8%8E%E5%8D%A2%E6%9C%AC%E4%BC%9F%E7%BB%93%E5%A9%9A%E7%85%A7)
 1. [山西一实习护士晒患者隐私照](https://www.zhihu.com/search?q=%E5%B1%B1%E8%A5%BF%E4%B8%80%E5%AE%9E%E4%B9%A0%E6%8A%A4%E5%A3%AB%E6%99%92%E6%82%A3%E8%80%85%E9%9A%90%E7%A7%81%E7%85%A7)
 1. [华人加密投资者叶俊德被曝全裸坠亡](https://www.zhihu.com/search?q=%E5%8D%8E%E4%BA%BA%E5%8A%A0%E5%AF%86%E6%8A%95%E8%B5%84%E8%80%85%E5%8F%B6%E4%BF%8A%E5%BE%B7%E8%A2%AB%E6%9B%9D%E5%85%A8%E8%A3%B8%E5%9D%A0%E4%BA%A1)
+1. [朱镕基同志逝世](https://www.zhihu.com/search?q=%E6%9C%B1%E9%95%95%E5%9F%BA%E5%90%8C%E5%BF%97%E9%80%9D%E4%B8%96)
+1. [花 48 万买事业编没办成中间人拒退款](https://www.zhihu.com/search?q=%E8%8A%B1%2048%20%E4%B8%87%E4%B9%B0%E4%BA%8B%E4%B8%9A%E7%BC%96%E6%B2%A1%E5%8A%9E%E6%88%90%E4%B8%AD%E9%97%B4%E4%BA%BA%E6%8B%92%E9%80%80%E6%AC%BE)
 1. [两弹一星功勋王希季逝世](https://www.zhihu.com/search?q=%E4%B8%A4%E5%BC%B9%E4%B8%80%E6%98%9F%E5%8A%9F%E5%8B%8B%E7%8E%8B%E5%B8%8C%E5%AD%A3%E9%80%9D%E4%B8%96)
 1. [威少宣布退役](https://www.zhihu.com/search?q=%E5%A8%81%E5%B0%91%E5%AE%A3%E5%B8%83%E9%80%80%E5%BD%B9)
 1. [Claude黎曼猜想获重大突破](https://www.zhihu.com/search?q=Claude%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E8%8E%B7%E9%87%8D%E5%A4%A7%E7%AA%81%E7%A0%B4)
