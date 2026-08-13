@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Aug 13 2026 21:15:16 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Aug 13 2026 22:59:00 GMT+0800 (China Standard Time) -->
 
 1. [王宝强0票](https://www.zhihu.com/search?q=%E7%8E%8B%E5%AE%9D%E5%BC%BA0%E7%A5%A8)
 1. [河南14万考生成绩作废](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8D%9714%E4%B8%87%E8%80%83%E7%94%9F%E6%88%90%E7%BB%A9%E4%BD%9C%E5%BA%9F)
