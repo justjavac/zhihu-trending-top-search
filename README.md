@@ -14,16 +14,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Aug 14 2026 12:49:04 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Aug 14 2026 14:15:01 GMT+0800 (China Standard Time) -->
 
-1. [DeepSeek Harness](https://www.zhihu.com/search?q=DeepSeek%20Harness)
+1. [河南14万考生成绩作废](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8D%9714%E4%B8%87%E8%80%83%E7%94%9F%E6%88%90%E7%BB%A9%E4%BD%9C%E5%BA%9F)
 1. [清明出生444分考生录殡葬专业](https://www.zhihu.com/search?q=%E6%B8%85%E6%98%8E%E5%87%BA%E7%94%9F444%E5%88%86%E8%80%83%E7%94%9F%E5%BD%95%E6%AE%A1%E8%91%AC%E4%B8%93%E4%B8%9A)
 1. [湖南发生煤矿事故 7 人失联](https://www.zhihu.com/search?q=%E6%B9%96%E5%8D%97%E5%8F%91%E7%94%9F%E7%85%A4%E7%9F%BF%E4%BA%8B%E6%95%85%207%20%E4%BA%BA%E5%A4%B1%E8%81%94)
 1. [Zhihu CLI上线](https://www.zhihu.com/search?q=Zhihu%20CLI%E4%B8%8A%E7%BA%BF)
 1. [河南三地发生堤坝溃口](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8D%97%E4%B8%89%E5%9C%B0%E5%8F%91%E7%94%9F%E5%A0%A4%E5%9D%9D%E6%BA%83%E5%8F%A3)
 1. [DeepSeek 涨价](https://www.zhihu.com/search?q=DeepSeek%20%E6%B6%A8%E4%BB%B7)
-1. [河南14万考生成绩作废](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8D%9714%E4%B8%87%E8%80%83%E7%94%9F%E6%88%90%E7%BB%A9%E4%BD%9C%E5%BA%9F)
 1. [DeepSeek V4 Pro 正式版发布](https://www.zhihu.com/search?q=DeepSeek%20V4%20Pro%20%E6%AD%A3%E5%BC%8F%E7%89%88%E5%8F%91%E5%B8%83)
+1. [DeepSeek Harness](https://www.zhihu.com/search?q=DeepSeek%20Harness)
+1. [牛来 票房](https://www.zhihu.com/search?q=%E7%89%9B%E6%9D%A5%20%E7%A5%A8%E6%88%BF)
+1. [呼兰三个月挽救开花俱乐部](https://www.zhihu.com/search?q=%E5%91%BC%E5%85%B0%E4%B8%89%E4%B8%AA%E6%9C%88%E6%8C%BD%E6%95%91%E5%BC%80%E8%8A%B1%E4%BF%B1%E4%B9%90%E9%83%A8)
 1. [网红巴旦木公主晒与卢本伟结婚照](https://www.zhihu.com/search?q=%E7%BD%91%E7%BA%A2%E5%B7%B4%E6%97%A6%E6%9C%A8%E5%85%AC%E4%B8%BB%E6%99%92%E4%B8%8E%E5%8D%A2%E6%9C%AC%E4%BC%9F%E7%BB%93%E5%A9%9A%E7%85%A7)
 1. [邹市明宣布将重返拳击赛场](https://www.zhihu.com/search?q=%E9%82%B9%E5%B8%82%E6%98%8E%E5%AE%A3%E5%B8%83%E5%B0%86%E9%87%8D%E8%BF%94%E6%8B%B3%E5%87%BB%E8%B5%9B%E5%9C%BA)
 1. [华人加密投资者叶俊德被曝全裸坠亡](https://www.zhihu.com/search?q=%E5%8D%8E%E4%BA%BA%E5%8A%A0%E5%AF%86%E6%8A%95%E8%B5%84%E8%80%85%E5%8F%B6%E4%BF%8A%E5%BE%B7%E8%A2%AB%E6%9B%9D%E5%85%A8%E8%A3%B8%E5%9D%A0%E4%BA%A1)
