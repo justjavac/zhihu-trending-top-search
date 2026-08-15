@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Aug 16 2026 03:21:53 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Aug 16 2026 04:24:09 GMT+0800 (China Standard Time) -->
 
 1. [河南14万考生成绩作废](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8D%9714%E4%B8%87%E8%80%83%E7%94%9F%E6%88%90%E7%BB%A9%E4%BD%9C%E5%BA%9F)
 1. [葵花药业创始人杀妻案](https://www.zhihu.com/search?q=%E8%91%B5%E8%8A%B1%E8%8D%AF%E4%B8%9A%E5%88%9B%E5%A7%8B%E4%BA%BA%E6%9D%80%E5%A6%BB%E6%A1%88)
