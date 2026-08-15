@@ -14,13 +14,13 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Aug 16 2026 06:23:52 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Aug 16 2026 07:21:36 GMT+0800 (China Standard Time) -->
 
 1. [河南14万考生成绩作废](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8D%9714%E4%B8%87%E8%80%83%E7%94%9F%E6%88%90%E7%BB%A9%E4%BD%9C%E5%BA%9F)
 1. [葵花药业创始人杀妻案](https://www.zhihu.com/search?q=%E8%91%B5%E8%8A%B1%E8%8D%AF%E4%B8%9A%E5%88%9B%E5%A7%8B%E4%BA%BA%E6%9D%80%E5%A6%BB%E6%A1%88)
-1. [旺旺董事长称要淘汰没贡献的员工](https://www.zhihu.com/search?q=%E6%97%BA%E6%97%BA%E8%91%A3%E4%BA%8B%E9%95%BF%E7%A7%B0%E8%A6%81%E6%B7%98%E6%B1%B0%E6%B2%A1%E8%B4%A1%E7%8C%AE%E7%9A%84%E5%91%98%E5%B7%A5)
-1. [Zhihu CLI上线](https://www.zhihu.com/search?q=Zhihu%20CLI%E4%B8%8A%E7%BA%BF)
 1. [儿科医生韩杰因医疗事故罪被判刑](https://www.zhihu.com/search?q=%E5%84%BF%E7%A7%91%E5%8C%BB%E7%94%9F%E9%9F%A9%E6%9D%B0%E5%9B%A0%E5%8C%BB%E7%96%97%E4%BA%8B%E6%95%85%E7%BD%AA%E8%A2%AB%E5%88%A4%E5%88%91)
+1. [Zhihu CLI上线](https://www.zhihu.com/search?q=Zhihu%20CLI%E4%B8%8A%E7%BA%BF)
+1. [旺旺董事长称要淘汰没贡献的员工](https://www.zhihu.com/search?q=%E6%97%BA%E6%97%BA%E8%91%A3%E4%BA%8B%E9%95%BF%E7%A7%B0%E8%A6%81%E6%B7%98%E6%B1%B0%E6%B2%A1%E8%B4%A1%E7%8C%AE%E7%9A%84%E5%91%98%E5%B7%A5)
 1. [DeepSeek Harness](https://www.zhihu.com/search?q=DeepSeek%20Harness)
 1. [河南三地发生堤坝溃口](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8D%97%E4%B8%89%E5%9C%B0%E5%8F%91%E7%94%9F%E5%A0%A4%E5%9D%9D%E6%BA%83%E5%8F%A3)
 1. [胖东来招军人和刑释人员](https://www.zhihu.com/search?q=%E8%83%96%E4%B8%9C%E6%9D%A5%E6%8B%9B%E5%86%9B%E4%BA%BA%E5%92%8C%E5%88%91%E9%87%8A%E4%BA%BA%E5%91%98)
