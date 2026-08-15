@@ -14,13 +14,12 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Aug 16 2026 04:24:09 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Aug 16 2026 05:22:35 GMT+0800 (China Standard Time) -->
 
 1. [河南14万考生成绩作废](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8D%9714%E4%B8%87%E8%80%83%E7%94%9F%E6%88%90%E7%BB%A9%E4%BD%9C%E5%BA%9F)
 1. [葵花药业创始人杀妻案](https://www.zhihu.com/search?q=%E8%91%B5%E8%8A%B1%E8%8D%AF%E4%B8%9A%E5%88%9B%E5%A7%8B%E4%BA%BA%E6%9D%80%E5%A6%BB%E6%A1%88)
 1. [旺旺董事长称要淘汰没贡献的员工](https://www.zhihu.com/search?q=%E6%97%BA%E6%97%BA%E8%91%A3%E4%BA%8B%E9%95%BF%E7%A7%B0%E8%A6%81%E6%B7%98%E6%B1%B0%E6%B2%A1%E8%B4%A1%E7%8C%AE%E7%9A%84%E5%91%98%E5%B7%A5)
 1. [Zhihu CLI上线](https://www.zhihu.com/search?q=Zhihu%20CLI%E4%B8%8A%E7%BA%BF)
-1. [《披荆斩棘 2026》第一期](https://www.zhihu.com/search?q=%E3%80%8A%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%202026%E3%80%8B%E7%AC%AC%E4%B8%80%E6%9C%9F)
 1. [儿科医生韩杰因医疗事故罪被判刑](https://www.zhihu.com/search?q=%E5%84%BF%E7%A7%91%E5%8C%BB%E7%94%9F%E9%9F%A9%E6%9D%B0%E5%9B%A0%E5%8C%BB%E7%96%97%E4%BA%8B%E6%95%85%E7%BD%AA%E8%A2%AB%E5%88%A4%E5%88%91)
 1. [DeepSeek Harness](https://www.zhihu.com/search?q=DeepSeek%20Harness)
 1. [河南三地发生堤坝溃口](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8D%97%E4%B8%89%E5%9C%B0%E5%8F%91%E7%94%9F%E5%A0%A4%E5%9D%9D%E6%BA%83%E5%8F%A3)
@@ -28,6 +27,8 @@
 1. [DeepSeek Pro正式版发布](https://www.zhihu.com/search?q=DeepSeek%20Pro%E6%AD%A3%E5%BC%8F%E7%89%88%E5%8F%91%E5%B8%83)
 1. [欢迎来到龙餐馆](https://www.zhihu.com/search?q=%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E9%BE%99%E9%A4%90%E9%A6%86)
 1. [「林肯」号航母上多名水兵试图跳海自杀](https://www.zhihu.com/search?q=%E3%80%8C%E6%9E%97%E8%82%AF%E3%80%8D%E5%8F%B7%E8%88%AA%E6%AF%8D%E4%B8%8A%E5%A4%9A%E5%90%8D%E6%B0%B4%E5%85%B5%E8%AF%95%E5%9B%BE%E8%B7%B3%E6%B5%B7%E8%87%AA%E6%9D%80)
+1. [郭德纲涉违规改编被立案](https://www.zhihu.com/search?q=%E9%83%AD%E5%BE%B7%E7%BA%B2%E6%B6%89%E8%BF%9D%E8%A7%84%E6%94%B9%E7%BC%96%E8%A2%AB%E7%AB%8B%E6%A1%88)
+1. [《披荆斩棘 2026》第一期](https://www.zhihu.com/search?q=%E3%80%8A%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%202026%E3%80%8B%E7%AC%AC%E4%B8%80%E6%9C%9F)
 
 <!-- END -->
 
