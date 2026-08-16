@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Aug 16 2026 17:28:36 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Aug 16 2026 18:24:35 GMT+0800 (China Standard Time) -->
 
 1. [朱镕基同志遗体 18 日火化](https://www.zhihu.com/search?q=%E6%9C%B1%E9%95%95%E5%9F%BA%E5%90%8C%E5%BF%97%E9%81%97%E4%BD%93%2018%20%E6%97%A5%E7%81%AB%E5%8C%96)
 1. [儿科医生韩杰因医疗事故罪被判刑](https://www.zhihu.com/search?q=%E5%84%BF%E7%A7%91%E5%8C%BB%E7%94%9F%E9%9F%A9%E6%9D%B0%E5%9B%A0%E5%8C%BB%E7%96%97%E4%BA%8B%E6%95%85%E7%BD%AA%E8%A2%AB%E5%88%A4%E5%88%91)
