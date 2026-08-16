@@ -1,9 +1,8 @@
 [
-  { "query_display": "朱镕基同志遗体 18 日火化", "real_query": "朱镕基同志遗体 18 日火化" },
   { "query_display": "儿科医生韩杰因医疗事故罪被判刑", "real_query": "儿科医生韩杰因医疗事故罪被判刑" },
   { "query_display": "旺旺董事长称要淘汰没贡献的员工", "real_query": "旺旺董事长称要淘汰没贡献的员工" },
-  { "query_display": "Zhihu CLI上线", "real_query": "Zhihu CLI上线" },
   { "query_display": "胖东来招军人和刑释人员", "real_query": "胖东来招军人和刑释人员" },
+  { "query_display": "Zhihu CLI上线", "real_query": "Zhihu CLI上线" },
   { "query_display": "胖东来关闭门店引大排长龙", "real_query": "胖东来关闭门店引大排长龙" },
   { "query_display": "3到5年内社保走向全额实缴", "real_query": "3到5年内社保走向全额实缴" },
   { "query_display": "程序员正在集体自费上班", "real_query": "程序员正在集体自费上班" },
@@ -11,6 +10,8 @@
   { "query_display": "卫龙辣条卖不动了", "real_query": "卫龙辣条卖不动了" },
   { "query_display": "梁文锋财富一年暴涨3850%", "real_query": "梁文锋财富一年暴涨3850%" },
   { "query_display": "王艺迪4-2张本美和", "real_query": "王艺迪4-2张本美和" },
+  { "query_display": "曝追觅大家电解散", "real_query": "曝追觅大家电解散" },
+  { "query_display": "朱镕基同志遗体 18 日火化", "real_query": "朱镕基同志遗体 18 日火化" },
   { "query_display": "披荆斩棘2026初舞台", "real_query": "披荆斩棘2026初舞台" },
   { "query_display": "欢迎来龙餐馆", "real_query": "欢迎来龙餐馆" }
 ]
