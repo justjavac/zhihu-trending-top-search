@@ -14,13 +14,13 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Aug 18 2026 04:28:46 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Aug 18 2026 05:26:58 GMT+0800 (China Standard Time) -->
 
 1. [儿科医生韩杰因医疗事故罪被判刑](https://www.zhihu.com/search?q=%E5%84%BF%E7%A7%91%E5%8C%BB%E7%94%9F%E9%9F%A9%E6%9D%B0%E5%9B%A0%E5%8C%BB%E7%96%97%E4%BA%8B%E6%95%85%E7%BD%AA%E8%A2%AB%E5%88%A4%E5%88%91)
 1. [程序员正在集体自费上班](https://www.zhihu.com/search?q=%E7%A8%8B%E5%BA%8F%E5%91%98%E6%AD%A3%E5%9C%A8%E9%9B%86%E4%BD%93%E8%87%AA%E8%B4%B9%E4%B8%8A%E7%8F%AD)
-1. [3到5年内社保走向全额实缴](https://www.zhihu.com/search?q=3%E5%88%B05%E5%B9%B4%E5%86%85%E7%A4%BE%E4%BF%9D%E8%B5%B0%E5%90%91%E5%85%A8%E9%A2%9D%E5%AE%9E%E7%BC%B4)
-1. [Zhihu CLI上线](https://www.zhihu.com/search?q=Zhihu%20CLI%E4%B8%8A%E7%BA%BF)
 1. [日本人战斗分队在乌成立](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E4%BA%BA%E6%88%98%E6%96%97%E5%88%86%E9%98%9F%E5%9C%A8%E4%B9%8C%E6%88%90%E7%AB%8B)
+1. [Zhihu CLI上线](https://www.zhihu.com/search?q=Zhihu%20CLI%E4%B8%8A%E7%BA%BF)
+1. [3到5年内社保走向全额实缴](https://www.zhihu.com/search?q=3%E5%88%B05%E5%B9%B4%E5%86%85%E7%A4%BE%E4%BF%9D%E8%B5%B0%E5%90%91%E5%85%A8%E9%A2%9D%E5%AE%9E%E7%BC%B4)
 1. [17亿全额付款土地被无偿收回](https://www.zhihu.com/search?q=17%E4%BA%BF%E5%85%A8%E9%A2%9D%E4%BB%98%E6%AC%BE%E5%9C%9F%E5%9C%B0%E8%A2%AB%E6%97%A0%E5%81%BF%E6%94%B6%E5%9B%9E)
 1. [DeepSeek 新定价已生效](https://www.zhihu.com/search?q=DeepSeek%20%E6%96%B0%E5%AE%9A%E4%BB%B7%E5%B7%B2%E7%94%9F%E6%95%88)
 1. [卫龙辣条卖不动了](https://www.zhihu.com/search?q=%E5%8D%AB%E9%BE%99%E8%BE%A3%E6%9D%A1%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86)
