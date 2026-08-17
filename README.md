@@ -14,15 +14,16 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Aug 17 2026 19:27:31 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Aug 17 2026 20:47:26 GMT+0800 (China Standard Time) -->
 
 1. [儿科医生韩杰因医疗事故罪被判刑](https://www.zhihu.com/search?q=%E5%84%BF%E7%A7%91%E5%8C%BB%E7%94%9F%E9%9F%A9%E6%9D%B0%E5%9B%A0%E5%8C%BB%E7%96%97%E4%BA%8B%E6%95%85%E7%BD%AA%E8%A2%AB%E5%88%A4%E5%88%91)
 1. [程序员正在集体自费上班](https://www.zhihu.com/search?q=%E7%A8%8B%E5%BA%8F%E5%91%98%E6%AD%A3%E5%9C%A8%E9%9B%86%E4%BD%93%E8%87%AA%E8%B4%B9%E4%B8%8A%E7%8F%AD)
-1. [宇树发布超人机器人](https://www.zhihu.com/search?q=%E5%AE%87%E6%A0%91%E5%8F%91%E5%B8%83%E8%B6%85%E4%BA%BA%E6%9C%BA%E5%99%A8%E4%BA%BA)
+1. [宇树科技8月19日科创板上市](https://www.zhihu.com/search?q=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%808%E6%9C%8819%E6%97%A5%E7%A7%91%E5%88%9B%E6%9D%BF%E4%B8%8A%E5%B8%82)
 1. [Zhihu CLI上线](https://www.zhihu.com/search?q=Zhihu%20CLI%E4%B8%8A%E7%BA%BF)
 1. [问界儿童车即将上市](https://www.zhihu.com/search?q=%E9%97%AE%E7%95%8C%E5%84%BF%E7%AB%A5%E8%BD%A6%E5%8D%B3%E5%B0%86%E4%B8%8A%E5%B8%82)
-1. [A 股的牛要来了吗](https://www.zhihu.com/search?q=A%20%E8%82%A1%E7%9A%84%E7%89%9B%E8%A6%81%E6%9D%A5%E4%BA%86%E5%90%97)
+1. [宇树发布超人机器人](https://www.zhihu.com/search?q=%E5%AE%87%E6%A0%91%E5%8F%91%E5%B8%83%E8%B6%85%E4%BA%BA%E6%9C%BA%E5%99%A8%E4%BA%BA)
 1. [协和医生用AI解决22年数学难题](https://www.zhihu.com/search?q=%E5%8D%8F%E5%92%8C%E5%8C%BB%E7%94%9F%E7%94%A8AI%E8%A7%A3%E5%86%B322%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98)
+1. [A 股的牛要来了吗](https://www.zhihu.com/search?q=A%20%E8%82%A1%E7%9A%84%E7%89%9B%E8%A6%81%E6%9D%A5%E4%BA%86%E5%90%97)
 1. [3到5年内社保走向全额实缴](https://www.zhihu.com/search?q=3%E5%88%B05%E5%B9%B4%E5%86%85%E7%A4%BE%E4%BF%9D%E8%B5%B0%E5%90%91%E5%85%A8%E9%A2%9D%E5%AE%9E%E7%BC%B4)
 1. [日本人战斗分队在乌成立](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E4%BA%BA%E6%88%98%E6%96%97%E5%88%86%E9%98%9F%E5%9C%A8%E4%B9%8C%E6%88%90%E7%AB%8B)
 1. [胖东来关闭门店引大排长龙](https://www.zhihu.com/search?q=%E8%83%96%E4%B8%9C%E6%9D%A5%E5%85%B3%E9%97%AD%E9%97%A8%E5%BA%97%E5%BC%95%E5%A4%A7%E6%8E%92%E9%95%BF%E9%BE%99)
