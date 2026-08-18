@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Aug 19 2026 03:28:28 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Aug 19 2026 04:25:48 GMT+0800 (China Standard Time) -->
 
 1. [招商蛇口高管涉酒局伤害女性被刑拘](https://www.zhihu.com/search?q=%E6%8B%9B%E5%95%86%E8%9B%87%E5%8F%A3%E9%AB%98%E7%AE%A1%E6%B6%89%E9%85%92%E5%B1%80%E4%BC%A4%E5%AE%B3%E5%A5%B3%E6%80%A7%E8%A2%AB%E5%88%91%E6%8B%98)
 1. [时代峰峻五代被喊嘉豪](https://www.zhihu.com/search?q=%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%E4%BA%94%E4%BB%A3%E8%A2%AB%E5%96%8A%E5%98%89%E8%B1%AA)
@@ -22,11 +22,12 @@
 1. [Zhihu CLI上线](https://www.zhihu.com/search?q=Zhihu%20CLI%E4%B8%8A%E7%BA%BF)
 1. [日本人战斗分队在乌成立](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E4%BA%BA%E6%88%98%E6%96%97%E5%88%86%E9%98%9F%E5%9C%A8%E4%B9%8C%E6%88%90%E7%AB%8B)
 1. [三孩非亲生案女方当庭承认出轨](https://www.zhihu.com/search?q=%E4%B8%89%E5%AD%A9%E9%9D%9E%E4%BA%B2%E7%94%9F%E6%A1%88%E5%A5%B3%E6%96%B9%E5%BD%93%E5%BA%AD%E6%89%BF%E8%AE%A4%E5%87%BA%E8%BD%A8)
-1. [网红小家电集体吃灰](https://www.zhihu.com/search?q=%E7%BD%91%E7%BA%A2%E5%B0%8F%E5%AE%B6%E7%94%B5%E9%9B%86%E4%BD%93%E5%90%83%E7%81%B0)
 1. [DeepSeek 新定价已生效](https://www.zhihu.com/search?q=DeepSeek%20%E6%96%B0%E5%AE%9A%E4%BB%B7%E5%B7%B2%E7%94%9F%E6%95%88)
+1. [网红小家电集体吃灰](https://www.zhihu.com/search?q=%E7%BD%91%E7%BA%A2%E5%B0%8F%E5%AE%B6%E7%94%B5%E9%9B%86%E4%BD%93%E5%90%83%E7%81%B0)
 1. [协和医生用AI解决22年数学难题](https://www.zhihu.com/search?q=%E5%8D%8F%E5%92%8C%E5%8C%BB%E7%94%9F%E7%94%A8AI%E8%A7%A3%E5%86%B322%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98)
 1. [宇树科技8月19日科创板上市](https://www.zhihu.com/search?q=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%808%E6%9C%8819%E6%97%A5%E7%A7%91%E5%88%9B%E6%9D%BF%E4%B8%8A%E5%B8%82)
 1. [国乒盼樊振东回归](https://www.zhihu.com/search?q=%E5%9B%BD%E4%B9%92%E7%9B%BC%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%9B%9E%E5%BD%92)
+1. [日本正式实施高端机床出口管制](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E6%AD%A3%E5%BC%8F%E5%AE%9E%E6%96%BD%E9%AB%98%E7%AB%AF%E6%9C%BA%E5%BA%8A%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6)
 1. [蓝盈莹承认新恋情](https://www.zhihu.com/search?q=%E8%93%9D%E7%9B%88%E8%8E%B9%E6%89%BF%E8%AE%A4%E6%96%B0%E6%81%8B%E6%83%85)
 1. [比亚迪销量骤降吉利争销冠](https://www.zhihu.com/search?q=%E6%AF%94%E4%BA%9A%E8%BF%AA%E9%94%80%E9%87%8F%E9%AA%A4%E9%99%8D%E5%90%89%E5%88%A9%E4%BA%89%E9%94%80%E5%86%A0)
 
