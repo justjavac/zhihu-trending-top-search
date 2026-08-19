@@ -14,13 +14,13 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Aug 19 2026 11:52:26 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Aug 19 2026 12:38:22 GMT+0800 (China Standard Time) -->
 
 1. [朱雀三号成功回收](https://www.zhihu.com/search?q=%E6%9C%B1%E9%9B%80%E4%B8%89%E5%8F%B7%E6%88%90%E5%8A%9F%E5%9B%9E%E6%94%B6)
 1. [王兴兴成为90后新首富](https://www.zhihu.com/search?q=%E7%8E%8B%E5%85%B4%E5%85%B4%E6%88%90%E4%B8%BA90%E5%90%8E%E6%96%B0%E9%A6%96%E5%AF%8C)
 1. [七夕](https://www.zhihu.com/search?q=%E4%B8%83%E5%A4%95)
-1. [中国医师节](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E5%8C%BB%E5%B8%88%E8%8A%82)
 1. [Zhihu CLI上线](https://www.zhihu.com/search?q=Zhihu%20CLI%E4%B8%8A%E7%BA%BF)
+1. [中国医师节](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E5%8C%BB%E5%B8%88%E8%8A%82)
 1. [时代峰峻五代被喊嘉豪](https://www.zhihu.com/search?q=%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%E4%BA%94%E4%BB%A3%E8%A2%AB%E5%96%8A%E5%98%89%E8%B1%AA)
 1. [胖东来招聘不包含性侵犯罪人员](https://www.zhihu.com/search?q=%E8%83%96%E4%B8%9C%E6%9D%A5%E6%8B%9B%E8%81%98%E4%B8%8D%E5%8C%85%E5%90%AB%E6%80%A7%E4%BE%B5%E7%8A%AF%E7%BD%AA%E4%BA%BA%E5%91%98)
 1. [网红小家电集体吃灰](https://www.zhihu.com/search?q=%E7%BD%91%E7%BA%A2%E5%B0%8F%E5%AE%B6%E7%94%B5%E9%9B%86%E4%BD%93%E5%90%83%E7%81%B0)
