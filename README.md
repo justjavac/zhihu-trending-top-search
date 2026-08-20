@@ -14,21 +14,23 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Aug 20 2026 11:51:57 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Aug 20 2026 13:32:41 GMT+0800 (China Standard Time) -->
 
+1. [许家印被判处无期徒刑](https://www.zhihu.com/search?q=%E8%AE%B8%E5%AE%B6%E5%8D%B0%E8%A2%AB%E5%88%A4%E5%A4%84%E6%97%A0%E6%9C%9F%E5%BE%92%E5%88%91)
 1. [高铁 2 人 3 票占座放零食引争议](https://www.zhihu.com/search?q=%E9%AB%98%E9%93%81%202%20%E4%BA%BA%203%20%E7%A5%A8%E5%8D%A0%E5%BA%A7%E6%94%BE%E9%9B%B6%E9%A3%9F%E5%BC%95%E4%BA%89%E8%AE%AE)
-1. [秦皇岛一底商发生火灾已致 8 死](https://www.zhihu.com/search?q=%E7%A7%A6%E7%9A%87%E5%B2%9B%E4%B8%80%E5%BA%95%E5%95%86%E5%8F%91%E7%94%9F%E7%81%AB%E7%81%BE%E5%B7%B2%E8%87%B4%208%20%E6%AD%BB)
 1. [《黑神话：钟馗》发布实机演示视频](https://www.zhihu.com/search?q=%E3%80%8A%E9%BB%91%E7%A5%9E%E8%AF%9D%EF%BC%9A%E9%92%9F%E9%A6%97%E3%80%8B%E5%8F%91%E5%B8%83%E5%AE%9E%E6%9C%BA%E6%BC%94%E7%A4%BA%E8%A7%86%E9%A2%91)
 1. [Zhihu CLI上线](https://www.zhihu.com/search?q=Zhihu%20CLI%E4%B8%8A%E7%BA%BF)
 1. [金价](https://www.zhihu.com/search?q=%E9%87%91%E4%BB%B7)
+1. [恒大集团被罚 88.2 亿元](https://www.zhihu.com/search?q=%E6%81%92%E5%A4%A7%E9%9B%86%E5%9B%A2%E8%A2%AB%E7%BD%9A%2088.2%20%E4%BA%BF%E5%85%83)
 1. [网红小家电集体吃灰](https://www.zhihu.com/search?q=%E7%BD%91%E7%BA%A2%E5%B0%8F%E5%AE%B6%E7%94%B5%E9%9B%86%E4%BD%93%E5%90%83%E7%81%B0)
-1. [招商蛇口高管涉酒局伤害女性被刑拘](https://www.zhihu.com/search?q=%E6%8B%9B%E5%95%86%E8%9B%87%E5%8F%A3%E9%AB%98%E7%AE%A1%E6%B6%89%E9%85%92%E5%B1%80%E4%BC%A4%E5%AE%B3%E5%A5%B3%E6%80%A7%E8%A2%AB%E5%88%91%E6%8B%98)
 1. [海之恋公园](https://www.zhihu.com/search?q=%E6%B5%B7%E4%B9%8B%E6%81%8B%E5%85%AC%E5%9B%AD)
+1. [招商蛇口高管涉酒局伤害女性被刑拘](https://www.zhihu.com/search?q=%E6%8B%9B%E5%95%86%E8%9B%87%E5%8F%A3%E9%AB%98%E7%AE%A1%E6%B6%89%E9%85%92%E5%B1%80%E4%BC%A4%E5%AE%B3%E5%A5%B3%E6%80%A7%E8%A2%AB%E5%88%91%E6%8B%98)
 1. [朱雀三号成功回收](https://www.zhihu.com/search?q=%E6%9C%B1%E9%9B%80%E4%B8%89%E5%8F%B7%E6%88%90%E5%8A%9F%E5%9B%9E%E6%94%B6)
-1. [宇树股价跳水带崩机器人板块](https://www.zhihu.com/search?q=%E5%AE%87%E6%A0%91%E8%82%A1%E4%BB%B7%E8%B7%B3%E6%B0%B4%E5%B8%A6%E5%B4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%9D%BF%E5%9D%97)
-1. [胖东来招聘不包含性侵犯罪人员](https://www.zhihu.com/search?q=%E8%83%96%E4%B8%9C%E6%9D%A5%E6%8B%9B%E8%81%98%E4%B8%8D%E5%8C%85%E5%90%AB%E6%80%A7%E4%BE%B5%E7%8A%AF%E7%BD%AA%E4%BA%BA%E5%91%98)
-1. [官方修改《住房公积金管理条例》](https://www.zhihu.com/search?q=%E5%AE%98%E6%96%B9%E4%BF%AE%E6%94%B9%E3%80%8A%E4%BD%8F%E6%88%BF%E5%85%AC%E7%A7%AF%E9%87%91%E7%AE%A1%E7%90%86%E6%9D%A1%E4%BE%8B%E3%80%8B)
 1. [王兴兴成为90后新首富](https://www.zhihu.com/search?q=%E7%8E%8B%E5%85%B4%E5%85%B4%E6%88%90%E4%B8%BA90%E5%90%8E%E6%96%B0%E9%A6%96%E5%AF%8C)
+1. [胖东来招聘不包含性侵犯罪人员](https://www.zhihu.com/search?q=%E8%83%96%E4%B8%9C%E6%9D%A5%E6%8B%9B%E8%81%98%E4%B8%8D%E5%8C%85%E5%90%AB%E6%80%A7%E4%BE%B5%E7%8A%AF%E7%BD%AA%E4%BA%BA%E5%91%98)
+1. [秦皇岛一底商发生火灾已致 8 死](https://www.zhihu.com/search?q=%E7%A7%A6%E7%9A%87%E5%B2%9B%E4%B8%80%E5%BA%95%E5%95%86%E5%8F%91%E7%94%9F%E7%81%AB%E7%81%BE%E5%B7%B2%E8%87%B4%208%20%E6%AD%BB)
+1. [宇树股价跳水带崩机器人板块](https://www.zhihu.com/search?q=%E5%AE%87%E6%A0%91%E8%82%A1%E4%BB%B7%E8%B7%B3%E6%B0%B4%E5%B8%A6%E5%B4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%9D%BF%E5%9D%97)
+1. [官方修改《住房公积金管理条例》](https://www.zhihu.com/search?q=%E5%AE%98%E6%96%B9%E4%BF%AE%E6%94%B9%E3%80%8A%E4%BD%8F%E6%88%BF%E5%85%AC%E7%A7%AF%E9%87%91%E7%AE%A1%E7%90%86%E6%9D%A1%E4%BE%8B%E3%80%8B)
 1. [外交部改称靖国神社为战犯神社](https://www.zhihu.com/search?q=%E5%A4%96%E4%BA%A4%E9%83%A8%E6%94%B9%E7%A7%B0%E9%9D%96%E5%9B%BD%E7%A5%9E%E7%A4%BE%E4%B8%BA%E6%88%98%E7%8A%AF%E7%A5%9E%E7%A4%BE)
 1. [佛山通报「教师招聘笔试后5名进体检」](https://www.zhihu.com/search?q=%E4%BD%9B%E5%B1%B1%E9%80%9A%E6%8A%A5%E3%80%8C%E6%95%99%E5%B8%88%E6%8B%9B%E8%81%98%E7%AC%94%E8%AF%95%E5%90%8E5%E5%90%8D%E8%BF%9B%E4%BD%93%E6%A3%80%E3%80%8D)
 1. [王星案跨境人口贩卖集团被公诉](https://www.zhihu.com/search?q=%E7%8E%8B%E6%98%9F%E6%A1%88%E8%B7%A8%E5%A2%83%E4%BA%BA%E5%8F%A3%E8%B4%A9%E5%8D%96%E9%9B%86%E5%9B%A2%E8%A2%AB%E5%85%AC%E8%AF%89)
