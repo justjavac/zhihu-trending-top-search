@@ -14,15 +14,16 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Aug 21 2026 13:34:05 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Aug 21 2026 14:50:24 GMT+0800 (China Standard Time) -->
 
 1. [许家印被判处无期徒刑](https://www.zhihu.com/search?q=%E8%AE%B8%E5%AE%B6%E5%8D%B0%E8%A2%AB%E5%88%A4%E5%A4%84%E6%97%A0%E6%9C%9F%E5%BE%92%E5%88%91)
 1. [泡泡玛特上半年业绩低于预期](https://www.zhihu.com/search?q=%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E4%B8%8A%E5%8D%8A%E5%B9%B4%E4%B8%9A%E7%BB%A9%E4%BD%8E%E4%BA%8E%E9%A2%84%E6%9C%9F)
 1. [恒大地产集团破产清算](https://www.zhihu.com/search?q=%E6%81%92%E5%A4%A7%E5%9C%B0%E4%BA%A7%E9%9B%86%E5%9B%A2%E7%A0%B4%E4%BA%A7%E6%B8%85%E7%AE%97)
 1. [Zhihu CLI上线](https://www.zhihu.com/search?q=Zhihu%20CLI%E4%B8%8A%E7%BA%BF)
-1. [高铁 2 人 3 票占座放零食引争议](https://www.zhihu.com/search?q=%E9%AB%98%E9%93%81%202%20%E4%BA%BA%203%20%E7%A5%A8%E5%8D%A0%E5%BA%A7%E6%94%BE%E9%9B%B6%E9%A3%9F%E5%BC%95%E4%BA%89%E8%AE%AE)
-1. [台风「美莎克」致广西 159 人遇难](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E%E3%80%8C%E7%BE%8E%E8%8E%8E%E5%85%8B%E3%80%8D%E8%87%B4%E5%B9%BF%E8%A5%BF%20159%20%E4%BA%BA%E9%81%87%E9%9A%BE)
 1. [宇树科技大跌](https://www.zhihu.com/search?q=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E5%A4%A7%E8%B7%8C)
+1. [台风「美莎克」致广西 159 人遇难](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E%E3%80%8C%E7%BE%8E%E8%8E%8E%E5%85%8B%E3%80%8D%E8%87%B4%E5%B9%BF%E8%A5%BF%20159%20%E4%BA%BA%E9%81%87%E9%9A%BE)
+1. [高铁 2 人 3 票占座放零食引争议](https://www.zhihu.com/search?q=%E9%AB%98%E9%93%81%202%20%E4%BA%BA%203%20%E7%A5%A8%E5%8D%A0%E5%BA%A7%E6%94%BE%E9%9B%B6%E9%A3%9F%E5%BC%95%E4%BA%89%E8%AE%AE)
+1. [法院驳回 LV 全部诉求](https://www.zhihu.com/search?q=%E6%B3%95%E9%99%A2%E9%A9%B3%E5%9B%9E%20LV%20%E5%85%A8%E9%83%A8%E8%AF%89%E6%B1%82)
 1. [宇树股价跳水带崩机器人板块](https://www.zhihu.com/search?q=%E5%AE%87%E6%A0%91%E8%82%A1%E4%BB%B7%E8%B7%B3%E6%B0%B4%E5%B8%A6%E5%B4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%9D%BF%E5%9D%97)
 1. [《黑神话：钟馗》发布实机演示视频](https://www.zhihu.com/search?q=%E3%80%8A%E9%BB%91%E7%A5%9E%E8%AF%9D%EF%BC%9A%E9%92%9F%E9%A6%97%E3%80%8B%E5%8F%91%E5%B8%83%E5%AE%9E%E6%9C%BA%E6%BC%94%E7%A4%BA%E8%A7%86%E9%A2%91)
 1. [招商蛇口高管涉酒局伤害女性被刑拘](https://www.zhihu.com/search?q=%E6%8B%9B%E5%95%86%E8%9B%87%E5%8F%A3%E9%AB%98%E7%AE%A1%E6%B6%89%E9%85%92%E5%B1%80%E4%BC%A4%E5%AE%B3%E5%A5%B3%E6%80%A7%E8%A2%AB%E5%88%91%E6%8B%98)
