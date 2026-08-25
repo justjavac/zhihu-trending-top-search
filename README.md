@@ -14,14 +14,14 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Aug 25 2026 14:51:31 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Aug 25 2026 15:44:58 GMT+0800 (China Standard Time) -->
 
 1. [北大教授称灵活就业是一种福利](https://www.zhihu.com/search?q=%E5%8C%97%E5%A4%A7%E6%95%99%E6%8E%88%E7%A7%B0%E7%81%B5%E6%B4%BB%E5%B0%B1%E4%B8%9A%E6%98%AF%E4%B8%80%E7%A7%8D%E7%A6%8F%E5%88%A9)
 1. [字节TRAE扣子并入豆包工作](https://www.zhihu.com/search?q=%E5%AD%97%E8%8A%82TRAE%E6%89%A3%E5%AD%90%E5%B9%B6%E5%85%A5%E8%B1%86%E5%8C%85%E5%B7%A5%E4%BD%9C)
 1. [老人进店休息离世店家帮扶遭索赔](https://www.zhihu.com/search?q=%E8%80%81%E4%BA%BA%E8%BF%9B%E5%BA%97%E4%BC%91%E6%81%AF%E7%A6%BB%E4%B8%96%E5%BA%97%E5%AE%B6%E5%B8%AE%E6%89%B6%E9%81%AD%E7%B4%A2%E8%B5%94)
-1. [台风沙德尔进入 48 小时警戒线](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E%E6%B2%99%E5%BE%B7%E5%B0%94%E8%BF%9B%E5%85%A5%2048%20%E5%B0%8F%E6%97%B6%E8%AD%A6%E6%88%92%E7%BA%BF)
-1. [出发吧！看山](https://www.zhihu.com/search?q=%E5%87%BA%E5%8F%91%E5%90%A7%EF%BC%81%E7%9C%8B%E5%B1%B1)
 1. [Zhihu CLI上线](https://www.zhihu.com/search?q=Zhihu%20CLI%E4%B8%8A%E7%BA%BF)
+1. [出发吧！看山](https://www.zhihu.com/search?q=%E5%87%BA%E5%8F%91%E5%90%A7%EF%BC%81%E7%9C%8B%E5%B1%B1)
+1. [台风沙德尔进入 48 小时警戒线](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E%E6%B2%99%E5%BE%B7%E5%B0%94%E8%BF%9B%E5%85%A5%2048%20%E5%B0%8F%E6%97%B6%E8%AD%A6%E6%88%92%E7%BA%BF)
 1. [小米玄戒芯片发布会](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%E7%8E%84%E6%88%92%E8%8A%AF%E7%89%87%E5%8F%91%E5%B8%83%E4%BC%9A)
 1. [陕西版「孙小果」二审维持死刑](https://www.zhihu.com/search?q=%E9%99%95%E8%A5%BF%E7%89%88%E3%80%8C%E5%AD%99%E5%B0%8F%E6%9E%9C%E3%80%8D%E4%BA%8C%E5%AE%A1%E7%BB%B4%E6%8C%81%E6%AD%BB%E5%88%91)
 1. [《黑神话：钟馗》发布实机演示视频](https://www.zhihu.com/search?q=%E3%80%8A%E9%BB%91%E7%A5%9E%E8%AF%9D%EF%BC%9A%E9%92%9F%E9%A6%97%E3%80%8B%E5%8F%91%E5%B8%83%E5%AE%9E%E6%9C%BA%E6%BC%94%E7%A4%BA%E8%A7%86%E9%A2%91)
