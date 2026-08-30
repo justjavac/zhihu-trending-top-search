@@ -14,19 +14,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Aug 30 2026 07:03:38 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Aug 30 2026 12:21:49 GMT+0800 (China Standard Time) -->
 
 1. [西藏日喀则吉隆口岸发生泥石流](https://www.zhihu.com/search?q=%E8%A5%BF%E8%97%8F%E6%97%A5%E5%96%80%E5%88%99%E5%90%89%E9%9A%86%E5%8F%A3%E5%B2%B8%E5%8F%91%E7%94%9F%E6%B3%A5%E7%9F%B3%E6%B5%81)
-1. [个人房贷最长不超过 40 年](https://www.zhihu.com/search?q=%E4%B8%AA%E4%BA%BA%E6%88%BF%E8%B4%B7%E6%9C%80%E9%95%BF%E4%B8%8D%E8%B6%85%E8%BF%87%2040%20%E5%B9%B4)
-1. [景甜回应被起诉](https://www.zhihu.com/search?q=%E6%99%AF%E7%94%9C%E5%9B%9E%E5%BA%94%E8%A2%AB%E8%B5%B7%E8%AF%89)
+1. [吉隆泥石流已致16人遇难546人失联](https://www.zhihu.com/search?q=%E5%90%89%E9%9A%86%E6%B3%A5%E7%9F%B3%E6%B5%81%E5%B7%B2%E8%87%B416%E4%BA%BA%E9%81%87%E9%9A%BE546%E4%BA%BA%E5%A4%B1%E8%81%94)
+1. [樊振东无缘德国杯8强](https://www.zhihu.com/search?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E6%97%A0%E7%BC%98%E5%BE%B7%E5%9B%BD%E6%9D%AF8%E5%BC%BA)
 1. [Zhihu CLI 功能上新](https://www.zhihu.com/search?q=Zhihu%20CLI%20%E5%8A%9F%E8%83%BD%E4%B8%8A%E6%96%B0)
 1. [出发吧！看山](https://www.zhihu.com/search?q=%E5%87%BA%E5%8F%91%E5%90%A7%EF%BC%81%E7%9C%8B%E5%B1%B1)
-1. [比尔盖茨万字长文示警AI时代](https://www.zhihu.com/search?q=%E6%AF%94%E5%B0%94%E7%9B%96%E8%8C%A8%E4%B8%87%E5%AD%97%E9%95%BF%E6%96%87%E7%A4%BA%E8%AD%A6AI%E6%97%B6%E4%BB%A3)
+1. [西藏泥石流原因系尼泊尔境内冰岩崩](https://www.zhihu.com/search?q=%E8%A5%BF%E8%97%8F%E6%B3%A5%E7%9F%B3%E6%B5%81%E5%8E%9F%E5%9B%A0%E7%B3%BB%E5%B0%BC%E6%B3%8A%E5%B0%94%E5%A2%83%E5%86%85%E5%86%B0%E5%B2%A9%E5%B4%A9)
+1. [个人房贷最长不超过 40 年](https://www.zhihu.com/search?q=%E4%B8%AA%E4%BA%BA%E6%88%BF%E8%B4%B7%E6%9C%80%E9%95%BF%E4%B8%8D%E8%B6%85%E8%BF%87%2040%20%E5%B9%B4)
+1. [景甜回应被起诉](https://www.zhihu.com/search?q=%E6%99%AF%E7%94%9C%E5%9B%9E%E5%BA%94%E8%A2%AB%E8%B5%B7%E8%AF%89)
 1. [王楚钦孙颖莎等5人放弃亚锦赛](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8E%E7%AD%895%E4%BA%BA%E6%94%BE%E5%BC%83%E4%BA%9A%E9%94%A6%E8%B5%9B)
 1. [刘翔向网友求助职场选择](https://www.zhihu.com/search?q=%E5%88%98%E7%BF%94%E5%90%91%E7%BD%91%E5%8F%8B%E6%B1%82%E5%8A%A9%E8%81%8C%E5%9C%BA%E9%80%89%E6%8B%A9)
-1. [樊振东无缘德国杯8强](https://www.zhihu.com/search?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E6%97%A0%E7%BC%98%E5%BE%B7%E5%9B%BD%E6%9D%AF8%E5%BC%BA)
-1. [四川一县将低分教师合影称耻辱](https://www.zhihu.com/search?q=%E5%9B%9B%E5%B7%9D%E4%B8%80%E5%8E%BF%E5%B0%86%E4%BD%8E%E5%88%86%E6%95%99%E5%B8%88%E5%90%88%E5%BD%B1%E7%A7%B0%E8%80%BB%E8%BE%B1)
 1. [尼泊尔北部暴发山洪](https://www.zhihu.com/search?q=%E5%B0%BC%E6%B3%8A%E5%B0%94%E5%8C%97%E9%83%A8%E6%9A%B4%E5%8F%91%E5%B1%B1%E6%B4%AA)
+1. [星宇股份裁应届生疑被告到欧盟](https://www.zhihu.com/search?q=%E6%98%9F%E5%AE%87%E8%82%A1%E4%BB%BD%E8%A3%81%E5%BA%94%E5%B1%8A%E7%94%9F%E7%96%91%E8%A2%AB%E5%91%8A%E5%88%B0%E6%AC%A7%E7%9B%9F)
+1. [比尔盖茨万字长文示警AI时代](https://www.zhihu.com/search?q=%E6%AF%94%E5%B0%94%E7%9B%96%E8%8C%A8%E4%B8%87%E5%AD%97%E9%95%BF%E6%96%87%E7%A4%BA%E8%AD%A6AI%E6%97%B6%E4%BB%A3)
+1. [四川一县将低分教师合影称耻辱](https://www.zhihu.com/search?q=%E5%9B%9B%E5%B7%9D%E4%B8%80%E5%8E%BF%E5%B0%86%E4%BD%8E%E5%88%86%E6%95%99%E5%B8%88%E5%90%88%E5%BD%B1%E7%A7%B0%E8%80%BB%E8%BE%B1)
 1. [星宇股份劝退应届生补偿方案](https://www.zhihu.com/search?q=%E6%98%9F%E5%AE%87%E8%82%A1%E4%BB%BD%E5%8A%9D%E9%80%80%E5%BA%94%E5%B1%8A%E7%94%9F%E8%A1%A5%E5%81%BF%E6%96%B9%E6%A1%88)
 1. [甲醛白菜事件 3 名嫌疑人被刑拘](https://www.zhihu.com/search?q=%E7%94%B2%E9%86%9B%E7%99%BD%E8%8F%9C%E4%BA%8B%E4%BB%B6%203%20%E5%90%8D%E5%AB%8C%E7%96%91%E4%BA%BA%E8%A2%AB%E5%88%91%E6%8B%98)
 
