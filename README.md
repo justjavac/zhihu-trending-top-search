@@ -14,16 +14,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Sep 02 2026 16:32:38 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Sep 02 2026 21:22:13 GMT+0800 (China Standard Time) -->
 
 1. [西藏日喀则吉隆口岸发生泥石流](https://www.zhihu.com/search?q=%E8%A5%BF%E8%97%8F%E6%97%A5%E5%96%80%E5%88%99%E5%90%89%E9%9A%86%E5%8F%A3%E5%B2%B8%E5%8F%91%E7%94%9F%E6%B3%A5%E7%9F%B3%E6%B5%81)
-1. [王鸥官宣独自养育孩子](https://www.zhihu.com/search?q=%E7%8E%8B%E9%B8%A5%E5%AE%98%E5%AE%A3%E7%8B%AC%E8%87%AA%E5%85%BB%E8%82%B2%E5%AD%A9%E5%AD%90)
-1. [通往吉隆口岸 216 国道实现畅通](https://www.zhihu.com/search?q=%E9%80%9A%E5%BE%80%E5%90%89%E9%9A%86%E5%8F%A3%E5%B2%B8%20216%20%E5%9B%BD%E9%81%93%E5%AE%9E%E7%8E%B0%E7%95%85%E9%80%9A)
-1. [Zhihu CLI 功能上新](https://www.zhihu.com/search?q=Zhihu%20CLI%20%E5%8A%9F%E8%83%BD%E4%B8%8A%E6%96%B0)
-1. [反中乱港分子黄之锋当庭认罪](https://www.zhihu.com/search?q=%E5%8F%8D%E4%B8%AD%E4%B9%B1%E6%B8%AF%E5%88%86%E5%AD%90%E9%BB%84%E4%B9%8B%E9%94%8B%E5%BD%93%E5%BA%AD%E8%AE%A4%E7%BD%AA)
-1. [出发吧！看山](https://www.zhihu.com/search?q=%E5%87%BA%E5%8F%91%E5%90%A7%EF%BC%81%E7%9C%8B%E5%B1%B1)
 1. [胡锡进怒批孙宇晨](https://www.zhihu.com/search?q=%E8%83%A1%E9%94%A1%E8%BF%9B%E6%80%92%E6%89%B9%E5%AD%99%E5%AE%87%E6%99%A8)
+1. [王鸥官宣独自养育孩子](https://www.zhihu.com/search?q=%E7%8E%8B%E9%B8%A5%E5%AE%98%E5%AE%A3%E7%8B%AC%E8%87%AA%E5%85%BB%E8%82%B2%E5%AD%A9%E5%AD%90)
+1. [Zhihu CLI 功能上新](https://www.zhihu.com/search?q=Zhihu%20CLI%20%E5%8A%9F%E8%83%BD%E4%B8%8A%E6%96%B0)
+1. [出发吧！看山](https://www.zhihu.com/search?q=%E5%87%BA%E5%8F%91%E5%90%A7%EF%BC%81%E7%9C%8B%E5%B1%B1)
+1. [反中乱港分子黄之锋当庭认罪](https://www.zhihu.com/search?q=%E5%8F%8D%E4%B8%AD%E4%B9%B1%E6%B8%AF%E5%88%86%E5%AD%90%E9%BB%84%E4%B9%8B%E9%94%8B%E5%BD%93%E5%BA%AD%E8%AE%A4%E7%BD%AA)
+1. [花儿与少年 2026 官宣阵容](https://www.zhihu.com/search?q=%E8%8A%B1%E5%84%BF%E4%B8%8E%E5%B0%91%E5%B9%B4%202026%20%E5%AE%98%E5%AE%A3%E9%98%B5%E5%AE%B9)
+1. [梅姨被公诉](https://www.zhihu.com/search?q=%E6%A2%85%E5%A7%A8%E8%A2%AB%E5%85%AC%E8%AF%89)
+1. [西藏泥石流已致 21 死 541 失联](https://www.zhihu.com/search?q=%E8%A5%BF%E8%97%8F%E6%B3%A5%E7%9F%B3%E6%B5%81%E5%B7%B2%E8%87%B4%2021%20%E6%AD%BB%20541%20%E5%A4%B1%E8%81%94)
+1. [安徽财大通报「论文注释疑编造」](https://www.zhihu.com/search?q=%E5%AE%89%E5%BE%BD%E8%B4%A2%E5%A4%A7%E9%80%9A%E6%8A%A5%E3%80%8C%E8%AE%BA%E6%96%87%E6%B3%A8%E9%87%8A%E7%96%91%E7%BC%96%E9%80%A0%E3%80%8D)
+1. [温州多地因暴雨停课](https://www.zhihu.com/search?q=%E6%B8%A9%E5%B7%9E%E5%A4%9A%E5%9C%B0%E5%9B%A0%E6%9A%B4%E9%9B%A8%E5%81%9C%E8%AF%BE)
 1. [中国男人正在抛弃皮鞋](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E7%94%B7%E4%BA%BA%E6%AD%A3%E5%9C%A8%E6%8A%9B%E5%BC%83%E7%9A%AE%E9%9E%8B)
+1. [通往吉隆口岸 216 国道实现畅通](https://www.zhihu.com/search?q=%E9%80%9A%E5%BE%80%E5%90%89%E9%9A%86%E5%8F%A3%E5%B2%B8%20216%20%E5%9B%BD%E9%81%93%E5%AE%9E%E7%8E%B0%E7%95%85%E9%80%9A)
 1. [官方通报女子被踢出群被迫离职](https://www.zhihu.com/search?q=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%AD%90%E8%A2%AB%E8%B8%A2%E5%87%BA%E7%BE%A4%E8%A2%AB%E8%BF%AB%E7%A6%BB%E8%81%8C)
 1. [新版《国防动员法》10 月 1 日实施](https://www.zhihu.com/search?q=%E6%96%B0%E7%89%88%E3%80%8A%E5%9B%BD%E9%98%B2%E5%8A%A8%E5%91%98%E6%B3%95%E3%80%8B10%20%E6%9C%88%201%20%E6%97%A5%E5%AE%9E%E6%96%BD)
 1. [星宇股份裁应届生疑被告到欧盟](https://www.zhihu.com/search?q=%E6%98%9F%E5%AE%87%E8%82%A1%E4%BB%BD%E8%A3%81%E5%BA%94%E5%B1%8A%E7%94%9F%E7%96%91%E8%A2%AB%E5%91%8A%E5%88%B0%E6%AC%A7%E7%9B%9F)
