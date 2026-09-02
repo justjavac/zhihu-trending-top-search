@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Sep 03 2026 04:42:33 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Sep 03 2026 07:04:50 GMT+0800 (China Standard Time) -->
 
 1. [中国男人正在抛弃皮鞋](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E7%94%B7%E4%BA%BA%E6%AD%A3%E5%9C%A8%E6%8A%9B%E5%BC%83%E7%9A%AE%E9%9E%8B)
 1. [胡锡进怒批孙宇晨](https://www.zhihu.com/search?q=%E8%83%A1%E9%94%A1%E8%BF%9B%E6%80%92%E6%89%B9%E5%AD%99%E5%AE%87%E6%99%A8)
@@ -27,6 +27,7 @@
 1. [星宇股份裁应届生疑被告到欧盟](https://www.zhihu.com/search?q=%E6%98%9F%E5%AE%87%E8%82%A1%E4%BB%BD%E8%A3%81%E5%BA%94%E5%B1%8A%E7%94%9F%E7%96%91%E8%A2%AB%E5%91%8A%E5%88%B0%E6%AC%A7%E7%9B%9F)
 1. [反中乱港分子黄之锋当庭认罪](https://www.zhihu.com/search?q=%E5%8F%8D%E4%B8%AD%E4%B9%B1%E6%B8%AF%E5%88%86%E5%AD%90%E9%BB%84%E4%B9%8B%E9%94%8B%E5%BD%93%E5%BA%AD%E8%AE%A4%E7%BD%AA)
 1. [《花少 2》爆料](https://www.zhihu.com/search?q=%E3%80%8A%E8%8A%B1%E5%B0%91%202%E3%80%8B%E7%88%86%E6%96%99)
+1. [星宇股份董事长就劝退应届生再道歉](https://www.zhihu.com/search?q=%E6%98%9F%E5%AE%87%E8%82%A1%E4%BB%BD%E8%91%A3%E4%BA%8B%E9%95%BF%E5%B0%B1%E5%8A%9D%E9%80%80%E5%BA%94%E5%B1%8A%E7%94%9F%E5%86%8D%E9%81%93%E6%AD%89)
 1. [Claude 5.1全面开放](https://www.zhihu.com/search?q=Claude%205.1%E5%85%A8%E9%9D%A2%E5%BC%80%E6%94%BE)
 1. [西藏泥石流已致 21 死 541 失联](https://www.zhihu.com/search?q=%E8%A5%BF%E8%97%8F%E6%B3%A5%E7%9F%B3%E6%B5%81%E5%B7%B2%E8%87%B4%2021%20%E6%AD%BB%20541%20%E5%A4%B1%E8%81%94)
 1. [梅姨被公诉](https://www.zhihu.com/search?q=%E6%A2%85%E5%A7%A8%E8%A2%AB%E5%85%AC%E8%AF%89)
