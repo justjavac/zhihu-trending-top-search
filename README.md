@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Sep 04 2026 04:40:51 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Sep 04 2026 07:02:42 GMT+0800 (China Standard Time) -->
 
 1. [充值1000误到账26419933亿元](https://www.zhihu.com/search?q=%E5%85%85%E5%80%BC1000%E8%AF%AF%E5%88%B0%E8%B4%A626419933%E4%BA%BF%E5%85%83)
 1. [全球股市大反转](https://www.zhihu.com/search?q=%E5%85%A8%E7%90%83%E8%82%A1%E5%B8%82%E5%A4%A7%E5%8F%8D%E8%BD%AC)
@@ -27,6 +27,7 @@
 1. [星宇股份董事长就劝退应届生再道歉](https://www.zhihu.com/search?q=%E6%98%9F%E5%AE%87%E8%82%A1%E4%BB%BD%E8%91%A3%E4%BA%8B%E9%95%BF%E5%B0%B1%E5%8A%9D%E9%80%80%E5%BA%94%E5%B1%8A%E7%94%9F%E5%86%8D%E9%81%93%E6%AD%89)
 1. [四川绵阳发生 4.8 级地震](https://www.zhihu.com/search?q=%E5%9B%9B%E5%B7%9D%E7%BB%B5%E9%98%B3%E5%8F%91%E7%94%9F%204.8%20%E7%BA%A7%E5%9C%B0%E9%9C%87)
 1. [梅姨真实年龄曝光](https://www.zhihu.com/search?q=%E6%A2%85%E5%A7%A8%E7%9C%9F%E5%AE%9E%E5%B9%B4%E9%BE%84%E6%9B%9D%E5%85%89)
+1. [张继科带教乒乓球一个半小时25元](https://www.zhihu.com/search?q=%E5%BC%A0%E7%BB%A7%E7%A7%91%E5%B8%A6%E6%95%99%E4%B9%92%E4%B9%93%E7%90%83%E4%B8%80%E4%B8%AA%E5%8D%8A%E5%B0%8F%E6%97%B625%E5%85%83)
 1. [新版《国防动员法》10 月 1 日实施](https://www.zhihu.com/search?q=%E6%96%B0%E7%89%88%E3%80%8A%E5%9B%BD%E9%98%B2%E5%8A%A8%E5%91%98%E6%B3%95%E3%80%8B10%20%E6%9C%88%201%20%E6%97%A5%E5%AE%9E%E6%96%BD)
 1. [武大通报教授被举报事件](https://www.zhihu.com/search?q=%E6%AD%A6%E5%A4%A7%E9%80%9A%E6%8A%A5%E6%95%99%E6%8E%88%E8%A2%AB%E4%B8%BE%E6%8A%A5%E4%BA%8B%E4%BB%B6)
 1. [Gemini 3.8 Flash 发布](https://www.zhihu.com/search?q=Gemini%203.8%20Flash%20%E5%8F%91%E5%B8%83)
