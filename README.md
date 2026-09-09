@@ -14,19 +14,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Sep 09 2026 11:43:45 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Sep 09 2026 16:47:14 GMT+0800 (China Standard Time) -->
 
 1. [江西孩子看演唱会后全家低保取消](https://www.zhihu.com/search?q=%E6%B1%9F%E8%A5%BF%E5%AD%A9%E5%AD%90%E7%9C%8B%E6%BC%94%E5%94%B1%E4%BC%9A%E5%90%8E%E5%85%A8%E5%AE%B6%E4%BD%8E%E4%BF%9D%E5%8F%96%E6%B6%88)
+1. [多地严查赵一鸣、好想来等品牌](https://www.zhihu.com/search?q=%E5%A4%9A%E5%9C%B0%E4%B8%A5%E6%9F%A5%E8%B5%B5%E4%B8%80%E9%B8%A3%E3%80%81%E5%A5%BD%E6%83%B3%E6%9D%A5%E7%AD%89%E5%93%81%E7%89%8C)
+1. [吃播网红干饭莹莹去世年仅24岁](https://www.zhihu.com/search?q=%E5%90%83%E6%92%AD%E7%BD%91%E7%BA%A2%E5%B9%B2%E9%A5%AD%E8%8E%B9%E8%8E%B9%E5%8E%BB%E4%B8%96%E5%B9%B4%E4%BB%8524%E5%B2%81)
+1. [曝苹果首款折叠屏近 1.5 万元](https://www.zhihu.com/search?q=%E6%9B%9D%E8%8B%B9%E6%9E%9C%E9%A6%96%E6%AC%BE%E6%8A%98%E5%8F%A0%E5%B1%8F%E8%BF%91%201.5%20%E4%B8%87%E5%85%83)
+1. [高考132分学生开学数学考12分](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83132%E5%88%86%E5%AD%A6%E7%94%9F%E5%BC%80%E5%AD%A6%E6%95%B0%E5%AD%A6%E8%80%8312%E5%88%86)
+1. [武大通报教授被举报事件](https://www.zhihu.com/search?q=%E6%AD%A6%E5%A4%A7%E9%80%9A%E6%8A%A5%E6%95%99%E6%8E%88%E8%A2%AB%E4%B8%BE%E6%8A%A5%E4%BA%8B%E4%BB%B6)
+1. [汤家凤呼吁取消英语主科地位](https://www.zhihu.com/search?q=%E6%B1%A4%E5%AE%B6%E5%87%A4%E5%91%BC%E5%90%81%E5%8F%96%E6%B6%88%E8%8B%B1%E8%AF%AD%E4%B8%BB%E7%A7%91%E5%9C%B0%E4%BD%8D)
+1. [上海10月1日起生娃个人「不花钱」](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B710%E6%9C%881%E6%97%A5%E8%B5%B7%E7%94%9F%E5%A8%83%E4%B8%AA%E4%BA%BA%E3%80%8C%E4%B8%8D%E8%8A%B1%E9%92%B1%E3%80%8D)
+1. [China GT 上海站赛车起火](https://www.zhihu.com/search?q=China%20GT%20%E4%B8%8A%E6%B5%B7%E7%AB%99%E8%B5%9B%E8%BD%A6%E8%B5%B7%E7%81%AB)
 1. [OpenAI 被指学术掠夺](https://www.zhihu.com/search?q=OpenAI%20%E8%A2%AB%E6%8C%87%E5%AD%A6%E6%9C%AF%E6%8E%A0%E5%A4%BA)
+1. [耿同学落户杭州任特聘讲师](https://www.zhihu.com/search?q=%E8%80%BF%E5%90%8C%E5%AD%A6%E8%90%BD%E6%88%B7%E6%9D%AD%E5%B7%9E%E4%BB%BB%E7%89%B9%E8%81%98%E8%AE%B2%E5%B8%88)
+1. [广州图书馆挤满假装上班的失业者](https://www.zhihu.com/search?q=%E5%B9%BF%E5%B7%9E%E5%9B%BE%E4%B9%A6%E9%A6%86%E6%8C%A4%E6%BB%A1%E5%81%87%E8%A3%85%E4%B8%8A%E7%8F%AD%E7%9A%84%E5%A4%B1%E4%B8%9A%E8%80%85)
 1. [香港首任特首董建华逝世](https://www.zhihu.com/search?q=%E9%A6%99%E6%B8%AF%E9%A6%96%E4%BB%BB%E7%89%B9%E9%A6%96%E8%91%A3%E5%BB%BA%E5%8D%8E%E9%80%9D%E4%B8%96)
 1. [DeepSeek Flash 定价调整](https://www.zhihu.com/search?q=DeepSeek%20Flash%20%E5%AE%9A%E4%BB%B7%E8%B0%83%E6%95%B4)
-1. [高考132分学生开学数学考12分](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83132%E5%88%86%E5%AD%A6%E7%94%9F%E5%BC%80%E5%AD%A6%E6%95%B0%E5%AD%A6%E8%80%8312%E5%88%86)
-1. [吃播网红干饭莹莹去世年仅24岁](https://www.zhihu.com/search?q=%E5%90%83%E6%92%AD%E7%BD%91%E7%BA%A2%E5%B9%B2%E9%A5%AD%E8%8E%B9%E8%8E%B9%E5%8E%BB%E4%B8%96%E5%B9%B4%E4%BB%8524%E5%B2%81)
-1. [多地严查赵一鸣、好想来等品牌](https://www.zhihu.com/search?q=%E5%A4%9A%E5%9C%B0%E4%B8%A5%E6%9F%A5%E8%B5%B5%E4%B8%80%E9%B8%A3%E3%80%81%E5%A5%BD%E6%83%B3%E6%9D%A5%E7%AD%89%E5%93%81%E7%89%8C)
-1. [武大通报教授被举报事件](https://www.zhihu.com/search?q=%E6%AD%A6%E5%A4%A7%E9%80%9A%E6%8A%A5%E6%95%99%E6%8E%88%E8%A2%AB%E4%B8%BE%E6%8A%A5%E4%BA%8B%E4%BB%B6)
-1. [上海10月1日起生娃个人「不花钱」](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B710%E6%9C%881%E6%97%A5%E8%B5%B7%E7%94%9F%E5%A8%83%E4%B8%AA%E4%BA%BA%E3%80%8C%E4%B8%8D%E8%8A%B1%E9%92%B1%E3%80%8D)
-1. [汤家凤呼吁取消英语主科地位](https://www.zhihu.com/search?q=%E6%B1%A4%E5%AE%B6%E5%87%A4%E5%91%BC%E5%90%81%E5%8F%96%E6%B6%88%E8%8B%B1%E8%AF%AD%E4%B8%BB%E7%A7%91%E5%9C%B0%E4%BD%8D)
-1. [China GT 上海站赛车起火](https://www.zhihu.com/search?q=China%20GT%20%E4%B8%8A%E6%B5%B7%E7%AB%99%E8%B5%9B%E8%BD%A6%E8%B5%B7%E7%81%AB)
 1. [太子奶创始人李途纯去世](https://www.zhihu.com/search?q=%E5%A4%AA%E5%AD%90%E5%A5%B6%E5%88%9B%E5%A7%8B%E4%BA%BA%E6%9D%8E%E9%80%94%E7%BA%AF%E5%8E%BB%E4%B8%96)
 1. [郭德纲歪曲篡改抗战歌曲被罚](https://www.zhihu.com/search?q=%E9%83%AD%E5%BE%B7%E7%BA%B2%E6%AD%AA%E6%9B%B2%E7%AF%A1%E6%94%B9%E6%8A%97%E6%88%98%E6%AD%8C%E6%9B%B2%E8%A2%AB%E7%BD%9A)
 1. [网传字节跳动员工开始战略怀孕](https://www.zhihu.com/search?q=%E7%BD%91%E4%BC%A0%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E5%91%98%E5%B7%A5%E5%BC%80%E5%A7%8B%E6%88%98%E7%95%A5%E6%80%80%E5%AD%95)
@@ -35,7 +38,6 @@
 1. [女子停捐不到一个月被催捐](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E5%81%9C%E6%8D%90%E4%B8%8D%E5%88%B0%E4%B8%80%E4%B8%AA%E6%9C%88%E8%A2%AB%E5%82%AC%E6%8D%90)
 1. [iG 3:0 LGD](https://www.zhihu.com/search?q=iG%203%3A0%20LGD)
 1. [江西遂川泥石流致11死1失联](https://www.zhihu.com/search?q=%E6%B1%9F%E8%A5%BF%E9%81%82%E5%B7%9D%E6%B3%A5%E7%9F%B3%E6%B5%81%E8%87%B411%E6%AD%BB1%E5%A4%B1%E8%81%94)
-1. [耿同学落户杭州任特聘讲师](https://www.zhihu.com/search?q=%E8%80%BF%E5%90%8C%E5%AD%A6%E8%90%BD%E6%88%B7%E6%9D%AD%E5%B7%9E%E4%BB%BB%E7%89%B9%E8%81%98%E8%AE%B2%E5%B8%88)
 
 <!-- END -->
 
