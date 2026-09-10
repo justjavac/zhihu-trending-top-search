@@ -14,14 +14,14 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Sep 11 2026 04:33:46 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Sep 11 2026 06:58:22 GMT+0800 (China Standard Time) -->
 
 1. [刘翔被体育局买断获49.4万](https://www.zhihu.com/search?q=%E5%88%98%E7%BF%94%E8%A2%AB%E4%BD%93%E8%82%B2%E5%B1%80%E4%B9%B0%E6%96%AD%E8%8E%B749.4%E4%B8%87)
 1. [日本暴发梅毒疫情](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E6%9A%B4%E5%8F%91%E6%A2%85%E6%AF%92%E7%96%AB%E6%83%85)
 1. [2026 苹果秋季发布会](https://www.zhihu.com/search?q=2026%20%E8%8B%B9%E6%9E%9C%E7%A7%8B%E5%AD%A3%E5%8F%91%E5%B8%83%E4%BC%9A)
-1. [江西孩子看演唱会后全家低保取消](https://www.zhihu.com/search?q=%E6%B1%9F%E8%A5%BF%E5%AD%A9%E5%AD%90%E7%9C%8B%E6%BC%94%E5%94%B1%E4%BC%9A%E5%90%8E%E5%85%A8%E5%AE%B6%E4%BD%8E%E4%BF%9D%E5%8F%96%E6%B6%88)
-1. [知乎 CLI 创作者能力上新](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%20CLI%20%E5%88%9B%E4%BD%9C%E8%80%85%E8%83%BD%E5%8A%9B%E4%B8%8A%E6%96%B0)
 1. [霍奇猜想疑被OpenAI解决](https://www.zhihu.com/search?q=%E9%9C%8D%E5%A5%87%E7%8C%9C%E6%83%B3%E7%96%91%E8%A2%ABOpenAI%E8%A7%A3%E5%86%B3)
+1. [知乎 CLI 创作者能力上新](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%20CLI%20%E5%88%9B%E4%BD%9C%E8%80%85%E8%83%BD%E5%8A%9B%E4%B8%8A%E6%96%B0)
+1. [江西孩子看演唱会后全家低保取消](https://www.zhihu.com/search?q=%E6%B1%9F%E8%A5%BF%E5%AD%A9%E5%AD%90%E7%9C%8B%E6%BC%94%E5%94%B1%E4%BC%9A%E5%90%8E%E5%85%A8%E5%AE%B6%E4%BD%8E%E4%BF%9D%E5%8F%96%E6%B6%88)
 1. [某厂车间裸奔扔粪便传闻](https://www.zhihu.com/search?q=%E6%9F%90%E5%8E%82%E8%BD%A6%E9%97%B4%E8%A3%B8%E5%A5%94%E6%89%94%E7%B2%AA%E4%BE%BF%E4%BC%A0%E9%97%BB)
 1. [高考132分学生开学数学考12分](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83132%E5%88%86%E5%AD%A6%E7%94%9F%E5%BC%80%E5%AD%A6%E6%95%B0%E5%AD%A6%E8%80%8312%E5%88%86)
 1. [青岛一货轮火灾已造成 25 人遇难](https://www.zhihu.com/search?q=%E9%9D%92%E5%B2%9B%E4%B8%80%E8%B4%A7%E8%BD%AE%E7%81%AB%E7%81%BE%E5%B7%B2%E9%80%A0%E6%88%90%2025%20%E4%BA%BA%E9%81%87%E9%9A%BE)
