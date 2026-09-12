@@ -14,19 +14,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Sep 12 2026 07:56:48 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Sep 12 2026 12:14:08 GMT+0800 (China Standard Time) -->
 
+1. [邓煜等菲奖得主称 AI 公司正摧毁数学](https://www.zhihu.com/search?q=%E9%82%93%E7%85%9C%E7%AD%89%E8%8F%B2%E5%A5%96%E5%BE%97%E4%B8%BB%E7%A7%B0%20AI%20%E5%85%AC%E5%8F%B8%E6%AD%A3%E6%91%A7%E6%AF%81%E6%95%B0%E5%AD%A6)
 1. [日本暴发梅毒疫情](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E6%9A%B4%E5%8F%91%E6%A2%85%E6%AF%92%E7%96%AB%E6%83%85)
 1. [微信被曝出史诗级漏洞](https://www.zhihu.com/search?q=%E5%BE%AE%E4%BF%A1%E8%A2%AB%E6%9B%9D%E5%87%BA%E5%8F%B2%E8%AF%97%E7%BA%A7%E6%BC%8F%E6%B4%9E)
 1. [刘翔被体育局买断获49.4万](https://www.zhihu.com/search?q=%E5%88%98%E7%BF%94%E8%A2%AB%E4%BD%93%E8%82%B2%E5%B1%80%E4%B9%B0%E6%96%AD%E8%8E%B749.4%E4%B8%87)
-1. [霍奇猜想疑被OpenAI解决](https://www.zhihu.com/search?q=%E9%9C%8D%E5%A5%87%E7%8C%9C%E6%83%B3%E7%96%91%E8%A2%ABOpenAI%E8%A7%A3%E5%86%B3)
 1. [知乎 CLI 创作者能力上新](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%20CLI%20%E5%88%9B%E4%BD%9C%E8%80%85%E8%83%BD%E5%8A%9B%E4%B8%8A%E6%96%B0)
-1. [「裸奔拉屎」系事发储能巨头瑞浦兰钧](https://www.zhihu.com/search?q=%E3%80%8C%E8%A3%B8%E5%A5%94%E6%8B%89%E5%B1%8E%E3%80%8D%E7%B3%BB%E4%BA%8B%E5%8F%91%E5%82%A8%E8%83%BD%E5%B7%A8%E5%A4%B4%E7%91%9E%E6%B5%A6%E5%85%B0%E9%92%A7)
 1. [兰州大学中雨天气拉练新生](https://www.zhihu.com/search?q=%E5%85%B0%E5%B7%9E%E5%A4%A7%E5%AD%A6%E4%B8%AD%E9%9B%A8%E5%A4%A9%E6%B0%94%E6%8B%89%E7%BB%83%E6%96%B0%E7%94%9F)
 1. [江西孩子看演唱会后全家低保取消](https://www.zhihu.com/search?q=%E6%B1%9F%E8%A5%BF%E5%AD%A9%E5%AD%90%E7%9C%8B%E6%BC%94%E5%94%B1%E4%BC%9A%E5%90%8E%E5%85%A8%E5%AE%B6%E4%BD%8E%E4%BF%9D%E5%8F%96%E6%B6%88)
 1. [武汉大学教授曾梦琪被举报](https://www.zhihu.com/search?q=%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6%E6%95%99%E6%8E%88%E6%9B%BE%E6%A2%A6%E7%90%AA%E8%A2%AB%E4%B8%BE%E6%8A%A5)
 1. [星宇股份外包报酬错列2.44万亿](https://www.zhihu.com/search?q=%E6%98%9F%E5%AE%87%E8%82%A1%E4%BB%BD%E5%A4%96%E5%8C%85%E6%8A%A5%E9%85%AC%E9%94%99%E5%88%972.44%E4%B8%87%E4%BA%BF)
 1. [BSD猜想疑被OpenAI或Anthropic解决](https://www.zhihu.com/search?q=BSD%E7%8C%9C%E6%83%B3%E7%96%91%E8%A2%ABOpenAI%E6%88%96Anthropic%E8%A7%A3%E5%86%B3)
+1. [Anthropic发文指控DeepSeek](https://www.zhihu.com/search?q=Anthropic%E5%8F%91%E6%96%87%E6%8C%87%E6%8E%A7DeepSeek)
+1. [「鬼王」演员雷宇扬患肠癌去世](https://www.zhihu.com/search?q=%E3%80%8C%E9%AC%BC%E7%8E%8B%E3%80%8D%E6%BC%94%E5%91%98%E9%9B%B7%E5%AE%87%E6%89%AC%E6%82%A3%E8%82%A0%E7%99%8C%E5%8E%BB%E4%B8%96)
+1. [霍奇猜想疑被OpenAI解决](https://www.zhihu.com/search?q=%E9%9C%8D%E5%A5%87%E7%8C%9C%E6%83%B3%E7%96%91%E8%A2%ABOpenAI%E8%A7%A3%E5%86%B3)
+1. [「裸奔拉屎」系事发储能巨头瑞浦兰钧](https://www.zhihu.com/search?q=%E3%80%8C%E8%A3%B8%E5%A5%94%E6%8B%89%E5%B1%8E%E3%80%8D%E7%B3%BB%E4%BA%8B%E5%8F%91%E5%82%A8%E8%83%BD%E5%B7%A8%E5%A4%B4%E7%91%9E%E6%B5%A6%E5%85%B0%E9%92%A7)
 1. [某厂车间裸奔扔粪便传闻](https://www.zhihu.com/search?q=%E6%9F%90%E5%8E%82%E8%BD%A6%E9%97%B4%E8%A3%B8%E5%A5%94%E6%89%94%E7%B2%AA%E4%BE%BF%E4%BC%A0%E9%97%BB)
 1. [「魔法画报」当事人称事件与荣耀手机无关](https://www.zhihu.com/search?q=%E3%80%8C%E9%AD%94%E6%B3%95%E7%94%BB%E6%8A%A5%E3%80%8D%E5%BD%93%E4%BA%8B%E4%BA%BA%E7%A7%B0%E4%BA%8B%E4%BB%B6%E4%B8%8E%E8%8D%A3%E8%80%80%E6%89%8B%E6%9C%BA%E6%97%A0%E5%85%B3)
 1. [官方通报男子编造女生催资助](https://www.zhihu.com/search?q=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E5%AD%90%E7%BC%96%E9%80%A0%E5%A5%B3%E7%94%9F%E5%82%AC%E8%B5%84%E5%8A%A9)
