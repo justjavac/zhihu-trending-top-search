@@ -14,20 +14,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Sep 13 2026 00:49:00 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Sep 13 2026 03:00:41 GMT+0800 (China Standard Time) -->
 
 1. [设计师称中国客厅已失去意义](https://www.zhihu.com/search?q=%E8%AE%BE%E8%AE%A1%E5%B8%88%E7%A7%B0%E4%B8%AD%E5%9B%BD%E5%AE%A2%E5%8E%85%E5%B7%B2%E5%A4%B1%E5%8E%BB%E6%84%8F%E4%B9%89)
-1. [多车队宣布永久退出中国 GT](https://www.zhihu.com/search?q=%E5%A4%9A%E8%BD%A6%E9%98%9F%E5%AE%A3%E5%B8%83%E6%B0%B8%E4%B9%85%E9%80%80%E5%87%BA%E4%B8%AD%E5%9B%BD%20GT)
 1. [邓煜等菲奖得主称 AI 公司正摧毁数学](https://www.zhihu.com/search?q=%E9%82%93%E7%85%9C%E7%AD%89%E8%8F%B2%E5%A5%96%E5%BE%97%E4%B8%BB%E7%A7%B0%20AI%20%E5%85%AC%E5%8F%B8%E6%AD%A3%E6%91%A7%E6%AF%81%E6%95%B0%E5%AD%A6)
 1. [江西孩子看演唱会后全家低保取消](https://www.zhihu.com/search?q=%E6%B1%9F%E8%A5%BF%E5%AD%A9%E5%AD%90%E7%9C%8B%E6%BC%94%E5%94%B1%E4%BC%9A%E5%90%8E%E5%85%A8%E5%AE%B6%E4%BD%8E%E4%BF%9D%E5%8F%96%E6%B6%88)
+1. [多车队宣布永久退出中国 GT](https://www.zhihu.com/search?q=%E5%A4%9A%E8%BD%A6%E9%98%9F%E5%AE%A3%E5%B8%83%E6%B0%B8%E4%B9%85%E9%80%80%E5%87%BA%E4%B8%AD%E5%9B%BD%20GT)
 1. [知乎 CLI 创作者能力上新](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%20CLI%20%E5%88%9B%E4%BD%9C%E8%80%85%E8%83%BD%E5%8A%9B%E4%B8%8A%E6%96%B0)
 1. [刘翔被体育局买断获49.4万](https://www.zhihu.com/search?q=%E5%88%98%E7%BF%94%E8%A2%AB%E4%BD%93%E8%82%B2%E5%B1%80%E4%B9%B0%E6%96%AD%E8%8E%B749.4%E4%B8%87)
-1. [小孩 7 楼坠下砸坏宝马车](https://www.zhihu.com/search?q=%E5%B0%8F%E5%AD%A9%207%20%E6%A5%BC%E5%9D%A0%E4%B8%8B%E7%A0%B8%E5%9D%8F%E5%AE%9D%E9%A9%AC%E8%BD%A6)
 1. [三星嘲讽苹果iPhoneDuo](https://www.zhihu.com/search?q=%E4%B8%89%E6%98%9F%E5%98%B2%E8%AE%BD%E8%8B%B9%E6%9E%9CiPhoneDuo)
-1. [红果日活超爱优腾芒四家总和](https://www.zhihu.com/search?q=%E7%BA%A2%E6%9E%9C%E6%97%A5%E6%B4%BB%E8%B6%85%E7%88%B1%E4%BC%98%E8%85%BE%E8%8A%92%E5%9B%9B%E5%AE%B6%E6%80%BB%E5%92%8C)
 1. [医生建议内裤袜子放洗衣机洗](https://www.zhihu.com/search?q=%E5%8C%BB%E7%94%9F%E5%BB%BA%E8%AE%AE%E5%86%85%E8%A3%A4%E8%A2%9C%E5%AD%90%E6%94%BE%E6%B4%97%E8%A1%A3%E6%9C%BA%E6%B4%97)
 1. [比亚迪利润奖事件](https://www.zhihu.com/search?q=%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%88%A9%E6%B6%A6%E5%A5%96%E4%BA%8B%E4%BB%B6)
+1. [女子称被公职人员推入厕所强奸](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E7%A7%B0%E8%A2%AB%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E6%8E%A8%E5%85%A5%E5%8E%95%E6%89%80%E5%BC%BA%E5%A5%B8)
 1. [「魔法画报」当事人称事件与荣耀手机无关](https://www.zhihu.com/search?q=%E3%80%8C%E9%AD%94%E6%B3%95%E7%94%BB%E6%8A%A5%E3%80%8D%E5%BD%93%E4%BA%8B%E4%BA%BA%E7%A7%B0%E4%BA%8B%E4%BB%B6%E4%B8%8E%E8%8D%A3%E8%80%80%E6%89%8B%E6%9C%BA%E6%97%A0%E5%85%B3)
+1. [住建局副局长群内辱骂业主被停职](https://www.zhihu.com/search?q=%E4%BD%8F%E5%BB%BA%E5%B1%80%E5%89%AF%E5%B1%80%E9%95%BF%E7%BE%A4%E5%86%85%E8%BE%B1%E9%AA%82%E4%B8%9A%E4%B8%BB%E8%A2%AB%E5%81%9C%E8%81%8C)
+1. [小孩 7 楼坠下砸坏宝马车](https://www.zhihu.com/search?q=%E5%B0%8F%E5%AD%A9%207%20%E6%A5%BC%E5%9D%A0%E4%B8%8B%E7%A0%B8%E5%9D%8F%E5%AE%9D%E9%A9%AC%E8%BD%A6)
+1. [红果日活超爱优腾芒四家总和](https://www.zhihu.com/search?q=%E7%BA%A2%E6%9E%9C%E6%97%A5%E6%B4%BB%E8%B6%85%E7%88%B1%E4%BC%98%E8%85%BE%E8%8A%92%E5%9B%9B%E5%AE%B6%E6%80%BB%E5%92%8C)
 
 <!-- END -->
 
