@@ -14,15 +14,23 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Sep 12 2026 12:14:08 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Sep 12 2026 17:04:03 GMT+0800 (China Standard Time) -->
 
 1. [邓煜等菲奖得主称 AI 公司正摧毁数学](https://www.zhihu.com/search?q=%E9%82%93%E7%85%9C%E7%AD%89%E8%8F%B2%E5%A5%96%E5%BE%97%E4%B8%BB%E7%A7%B0%20AI%20%E5%85%AC%E5%8F%B8%E6%AD%A3%E6%91%A7%E6%AF%81%E6%95%B0%E5%AD%A6)
+1. [刘翔被体育局买断获49.4万](https://www.zhihu.com/search?q=%E5%88%98%E7%BF%94%E8%A2%AB%E4%BD%93%E8%82%B2%E5%B1%80%E4%B9%B0%E6%96%AD%E8%8E%B749.4%E4%B8%87)
+1. [江西孩子看演唱会后全家低保取消](https://www.zhihu.com/search?q=%E6%B1%9F%E8%A5%BF%E5%AD%A9%E5%AD%90%E7%9C%8B%E6%BC%94%E5%94%B1%E4%BC%9A%E5%90%8E%E5%85%A8%E5%AE%B6%E4%BD%8E%E4%BF%9D%E5%8F%96%E6%B6%88)
+1. [设计师称中国客厅已失去意义](https://www.zhihu.com/search?q=%E8%AE%BE%E8%AE%A1%E5%B8%88%E7%A7%B0%E4%B8%AD%E5%9B%BD%E5%AE%A2%E5%8E%85%E5%B7%B2%E5%A4%B1%E5%8E%BB%E6%84%8F%E4%B9%89)
+1. [知乎 CLI 创作者能力上新](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%20CLI%20%E5%88%9B%E4%BD%9C%E8%80%85%E8%83%BD%E5%8A%9B%E4%B8%8A%E6%96%B0)
+1. [中国男篮vs巴林](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AEvs%E5%B7%B4%E6%9E%97)
+1. [三星嘲讽苹果iPhoneDuo](https://www.zhihu.com/search?q=%E4%B8%89%E6%98%9F%E5%98%B2%E8%AE%BD%E8%8B%B9%E6%9E%9CiPhoneDuo)
+1. [红果短剧日活 1.68 亿](https://www.zhihu.com/search?q=%E7%BA%A2%E6%9E%9C%E7%9F%AD%E5%89%A7%E6%97%A5%E6%B4%BB%201.68%20%E4%BA%BF)
+1. [比亚迪利润奖事件](https://www.zhihu.com/search?q=%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%88%A9%E6%B6%A6%E5%A5%96%E4%BA%8B%E4%BB%B6)
+1. [打假网红铁头一审获刑 8 年](https://www.zhihu.com/search?q=%E6%89%93%E5%81%87%E7%BD%91%E7%BA%A2%E9%93%81%E5%A4%B4%E4%B8%80%E5%AE%A1%E8%8E%B7%E5%88%91%208%20%E5%B9%B4)
+1. [也门胡塞武装疑已控制穆哈](https://www.zhihu.com/search?q=%E4%B9%9F%E9%97%A8%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%85%E7%96%91%E5%B7%B2%E6%8E%A7%E5%88%B6%E7%A9%86%E5%93%88)
+1. [疑似小学生不订奶就后排罚站](https://www.zhihu.com/search?q=%E7%96%91%E4%BC%BC%E5%B0%8F%E5%AD%A6%E7%94%9F%E4%B8%8D%E8%AE%A2%E5%A5%B6%E5%B0%B1%E5%90%8E%E6%8E%92%E7%BD%9A%E7%AB%99)
 1. [日本暴发梅毒疫情](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E6%9A%B4%E5%8F%91%E6%A2%85%E6%AF%92%E7%96%AB%E6%83%85)
 1. [微信被曝出史诗级漏洞](https://www.zhihu.com/search?q=%E5%BE%AE%E4%BF%A1%E8%A2%AB%E6%9B%9D%E5%87%BA%E5%8F%B2%E8%AF%97%E7%BA%A7%E6%BC%8F%E6%B4%9E)
-1. [刘翔被体育局买断获49.4万](https://www.zhihu.com/search?q=%E5%88%98%E7%BF%94%E8%A2%AB%E4%BD%93%E8%82%B2%E5%B1%80%E4%B9%B0%E6%96%AD%E8%8E%B749.4%E4%B8%87)
-1. [知乎 CLI 创作者能力上新](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%20CLI%20%E5%88%9B%E4%BD%9C%E8%80%85%E8%83%BD%E5%8A%9B%E4%B8%8A%E6%96%B0)
 1. [兰州大学中雨天气拉练新生](https://www.zhihu.com/search?q=%E5%85%B0%E5%B7%9E%E5%A4%A7%E5%AD%A6%E4%B8%AD%E9%9B%A8%E5%A4%A9%E6%B0%94%E6%8B%89%E7%BB%83%E6%96%B0%E7%94%9F)
-1. [江西孩子看演唱会后全家低保取消](https://www.zhihu.com/search?q=%E6%B1%9F%E8%A5%BF%E5%AD%A9%E5%AD%90%E7%9C%8B%E6%BC%94%E5%94%B1%E4%BC%9A%E5%90%8E%E5%85%A8%E5%AE%B6%E4%BD%8E%E4%BF%9D%E5%8F%96%E6%B6%88)
 1. [武汉大学教授曾梦琪被举报](https://www.zhihu.com/search?q=%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6%E6%95%99%E6%8E%88%E6%9B%BE%E6%A2%A6%E7%90%AA%E8%A2%AB%E4%B8%BE%E6%8A%A5)
 1. [星宇股份外包报酬错列2.44万亿](https://www.zhihu.com/search?q=%E6%98%9F%E5%AE%87%E8%82%A1%E4%BB%BD%E5%A4%96%E5%8C%85%E6%8A%A5%E9%85%AC%E9%94%99%E5%88%972.44%E4%B8%87%E4%BA%BF)
 1. [BSD猜想疑被OpenAI或Anthropic解决](https://www.zhihu.com/search?q=BSD%E7%8C%9C%E6%83%B3%E7%96%91%E8%A2%ABOpenAI%E6%88%96Anthropic%E8%A7%A3%E5%86%B3)
