@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Sep 14 2026 04:40:50 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Sep 14 2026 06:58:38 GMT+0800 (China Standard Time) -->
 
 1. [多车队宣布永久退出中国 GT](https://www.zhihu.com/search?q=%E5%A4%9A%E8%BD%A6%E9%98%9F%E5%AE%A3%E5%B8%83%E6%B0%B8%E4%B9%85%E9%80%80%E5%87%BA%E4%B8%AD%E5%9B%BD%20GT)
 1. [女子称被公职人员推入厕所强奸](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E7%A7%B0%E8%A2%AB%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E6%8E%A8%E5%85%A5%E5%8E%95%E6%89%80%E5%BC%BA%E5%A5%B8)
@@ -24,8 +24,8 @@
 1. [三星嘲讽苹果iPhoneDuo](https://www.zhihu.com/search?q=%E4%B8%89%E6%98%9F%E5%98%B2%E8%AE%BD%E8%8B%B9%E6%9E%9CiPhoneDuo)
 1. [星宇股份产业园被曝九成是临时工](https://www.zhihu.com/search?q=%E6%98%9F%E5%AE%87%E8%82%A1%E4%BB%BD%E4%BA%A7%E4%B8%9A%E5%9B%AD%E8%A2%AB%E6%9B%9D%E4%B9%9D%E6%88%90%E6%98%AF%E4%B8%B4%E6%97%B6%E5%B7%A5)
 1. [勇哥维护让员工干17个小时的老板](https://www.zhihu.com/search?q=%E5%8B%87%E5%93%A5%E7%BB%B4%E6%8A%A4%E8%AE%A9%E5%91%98%E5%B7%A5%E5%B9%B217%E4%B8%AA%E5%B0%8F%E6%97%B6%E7%9A%84%E8%80%81%E6%9D%BF)
-1. [HYROX选手失禁仍完赛](https://www.zhihu.com/search?q=HYROX%E9%80%89%E6%89%8B%E5%A4%B1%E7%A6%81%E4%BB%8D%E5%AE%8C%E8%B5%9B)
 1. [胖东来员工四年学员制](https://www.zhihu.com/search?q=%E8%83%96%E4%B8%9C%E6%9D%A5%E5%91%98%E5%B7%A5%E5%9B%9B%E5%B9%B4%E5%AD%A6%E5%91%98%E5%88%B6)
+1. [HYROX选手失禁仍完赛](https://www.zhihu.com/search?q=HYROX%E9%80%89%E6%89%8B%E5%A4%B1%E7%A6%81%E4%BB%8D%E5%AE%8C%E8%B5%9B)
 1. [住建局副局长群内辱骂业主被停职](https://www.zhihu.com/search?q=%E4%BD%8F%E5%BB%BA%E5%B1%80%E5%89%AF%E5%B1%80%E9%95%BF%E7%BE%A4%E5%86%85%E8%BE%B1%E9%AA%82%E4%B8%9A%E4%B8%BB%E8%A2%AB%E5%81%9C%E8%81%8C)
 1. [男生去年考上北大放弃今年又考进北大](https://www.zhihu.com/search?q=%E7%94%B7%E7%94%9F%E5%8E%BB%E5%B9%B4%E8%80%83%E4%B8%8A%E5%8C%97%E5%A4%A7%E6%94%BE%E5%BC%83%E4%BB%8A%E5%B9%B4%E5%8F%88%E8%80%83%E8%BF%9B%E5%8C%97%E5%A4%A7)
 
