@@ -14,19 +14,24 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Sep 15 2026 15:24:02 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Sep 15 2026 21:15:54 GMT+0800 (China Standard Time) -->
 
+1. [DeepSeek 刘胜与回应长文爆火](https://www.zhihu.com/search?q=DeepSeek%20%E5%88%98%E8%83%9C%E4%B8%8E%E5%9B%9E%E5%BA%94%E9%95%BF%E6%96%87%E7%88%86%E7%81%AB)
 1. [多车队宣布永久退出中国 GT](https://www.zhihu.com/search?q=%E5%A4%9A%E8%BD%A6%E9%98%9F%E5%AE%A3%E5%B8%83%E6%B0%B8%E4%B9%85%E9%80%80%E5%87%BA%E4%B8%AD%E5%9B%BD%20GT)
-1. [广州GOGO新天地有人持刀伤人](https://www.zhihu.com/search?q=%E5%B9%BF%E5%B7%9EGOGO%E6%96%B0%E5%A4%A9%E5%9C%B0%E6%9C%89%E4%BA%BA%E6%8C%81%E5%88%80%E4%BC%A4%E4%BA%BA)
-1. [HYROX选手失禁仍完赛](https://www.zhihu.com/search?q=HYROX%E9%80%89%E6%89%8B%E5%A4%B1%E7%A6%81%E4%BB%8D%E5%AE%8C%E8%B5%9B)
-1. [邓煜等菲奖得主称 AI 公司正摧毁数学](https://www.zhihu.com/search?q=%E9%82%93%E7%85%9C%E7%AD%89%E8%8F%B2%E5%A5%96%E5%BE%97%E4%B8%BB%E7%A7%B0%20AI%20%E5%85%AC%E5%8F%B8%E6%AD%A3%E6%91%A7%E6%AF%81%E6%95%B0%E5%AD%A6)
-1. [知乎 CLI 创作者能力上新](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%20CLI%20%E5%88%9B%E4%BD%9C%E8%80%85%E8%83%BD%E5%8A%9B%E4%B8%8A%E6%96%B0)
 1. [华为赛力斯合作模式调整](https://www.zhihu.com/search?q=%E5%8D%8E%E4%B8%BA%E8%B5%9B%E5%8A%9B%E6%96%AF%E5%90%88%E4%BD%9C%E6%A8%A1%E5%BC%8F%E8%B0%83%E6%95%B4)
+1. [野人先生创始人曾回应冰淇淋太贵](https://www.zhihu.com/search?q=%E9%87%8E%E4%BA%BA%E5%85%88%E7%94%9F%E5%88%9B%E5%A7%8B%E4%BA%BA%E6%9B%BE%E5%9B%9E%E5%BA%94%E5%86%B0%E6%B7%87%E6%B7%8B%E5%A4%AA%E8%B4%B5)
+1. [知乎 CLI 创作者能力上新](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%20CLI%20%E5%88%9B%E4%BD%9C%E8%80%85%E8%83%BD%E5%8A%9B%E4%B8%8A%E6%96%B0)
+1. [湘雅医学院教师PPT称23年未见父母](https://www.zhihu.com/search?q=%E6%B9%98%E9%9B%85%E5%8C%BB%E5%AD%A6%E9%99%A2%E6%95%99%E5%B8%88PPT%E7%A7%B023%E5%B9%B4%E6%9C%AA%E8%A7%81%E7%88%B6%E6%AF%8D)
+1. [情侣在演唱会求婚被喊坐下](https://www.zhihu.com/search?q=%E6%83%85%E4%BE%A3%E5%9C%A8%E6%BC%94%E5%94%B1%E4%BC%9A%E6%B1%82%E5%A9%9A%E8%A2%AB%E5%96%8A%E5%9D%90%E4%B8%8B)
+1. [HYROX选手失禁仍完赛](https://www.zhihu.com/search?q=HYROX%E9%80%89%E6%89%8B%E5%A4%B1%E7%A6%81%E4%BB%8D%E5%AE%8C%E8%B5%9B)
+1. [女子拍下骇人巨型蜗牛引热议](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E6%8B%8D%E4%B8%8B%E9%AA%87%E4%BA%BA%E5%B7%A8%E5%9E%8B%E8%9C%97%E7%89%9B%E5%BC%95%E7%83%AD%E8%AE%AE)
+1. [南太行200多斤驴友被挤下悬崖](https://www.zhihu.com/search?q=%E5%8D%97%E5%A4%AA%E8%A1%8C200%E5%A4%9A%E6%96%A4%E9%A9%B4%E5%8F%8B%E8%A2%AB%E6%8C%A4%E4%B8%8B%E6%82%AC%E5%B4%96)
+1. [卫龙进口魔芋粉检出二氧化硫超标](https://www.zhihu.com/search?q=%E5%8D%AB%E9%BE%99%E8%BF%9B%E5%8F%A3%E9%AD%94%E8%8A%8B%E7%B2%89%E6%A3%80%E5%87%BA%E4%BA%8C%E6%B0%A7%E5%8C%96%E7%A1%AB%E8%B6%85%E6%A0%87)
+1. [时代峰峻被曝无限期整改](https://www.zhihu.com/search?q=%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%E8%A2%AB%E6%9B%9D%E6%97%A0%E9%99%90%E6%9C%9F%E6%95%B4%E6%94%B9)
+1. [广州GOGO新天地有人持刀伤人](https://www.zhihu.com/search?q=%E5%B9%BF%E5%B7%9EGOGO%E6%96%B0%E5%A4%A9%E5%9C%B0%E6%9C%89%E4%BA%BA%E6%8C%81%E5%88%80%E4%BC%A4%E4%BA%BA)
+1. [邓煜等菲奖得主称 AI 公司正摧毁数学](https://www.zhihu.com/search?q=%E9%82%93%E7%85%9C%E7%AD%89%E8%8F%B2%E5%A5%96%E5%BE%97%E4%B8%BB%E7%A7%B0%20AI%20%E5%85%AC%E5%8F%B8%E6%AD%A3%E6%91%A7%E6%AF%81%E6%95%B0%E5%AD%A6)
 1. [曝姆巴佩与登贝莱彻底决裂](https://www.zhihu.com/search?q=%E6%9B%9D%E5%A7%86%E5%B7%B4%E4%BD%A9%E4%B8%8E%E7%99%BB%E8%B4%9D%E8%8E%B1%E5%BD%BB%E5%BA%95%E5%86%B3%E8%A3%82)
 1. [三星嘲讽苹果iPhoneDuo](https://www.zhihu.com/search?q=%E4%B8%89%E6%98%9F%E5%98%B2%E8%AE%BD%E8%8B%B9%E6%9E%9CiPhoneDuo)
-1. [卫龙进口魔芋粉检出二氧化硫超标](https://www.zhihu.com/search?q=%E5%8D%AB%E9%BE%99%E8%BF%9B%E5%8F%A3%E9%AD%94%E8%8A%8B%E7%B2%89%E6%A3%80%E5%87%BA%E4%BA%8C%E6%B0%A7%E5%8C%96%E7%A1%AB%E8%B6%85%E6%A0%87)
-1. [情侣在演唱会求婚被喊坐下](https://www.zhihu.com/search?q=%E6%83%85%E4%BE%A3%E5%9C%A8%E6%BC%94%E5%94%B1%E4%BC%9A%E6%B1%82%E5%A9%9A%E8%A2%AB%E5%96%8A%E5%9D%90%E4%B8%8B)
-1. [南太行200多斤驴友被挤下悬崖](https://www.zhihu.com/search?q=%E5%8D%97%E5%A4%AA%E8%A1%8C200%E5%A4%9A%E6%96%A4%E9%A9%B4%E5%8F%8B%E8%A2%AB%E6%8C%A4%E4%B8%8B%E6%82%AC%E5%B4%96)
 1. [英三地领导人将共商民族自决权利](https://www.zhihu.com/search?q=%E8%8B%B1%E4%B8%89%E5%9C%B0%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%B0%86%E5%85%B1%E5%95%86%E6%B0%91%E6%97%8F%E8%87%AA%E5%86%B3%E6%9D%83%E5%88%A9)
 1. [曝空管开始试点劳务派遣模式](https://www.zhihu.com/search?q=%E6%9B%9D%E7%A9%BA%E7%AE%A1%E5%BC%80%E5%A7%8B%E8%AF%95%E7%82%B9%E5%8A%B3%E5%8A%A1%E6%B4%BE%E9%81%A3%E6%A8%A1%E5%BC%8F)
 1. [广汽集团 资产重组](https://www.zhihu.com/search?q=%E5%B9%BF%E6%B1%BD%E9%9B%86%E5%9B%A2%20%E8%B5%84%E4%BA%A7%E9%87%8D%E7%BB%84)
