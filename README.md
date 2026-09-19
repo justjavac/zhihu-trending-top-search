@@ -14,18 +14,23 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Sep 19 2026 17:14:29 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Sep 19 2026 21:44:49 GMT+0800 (China Standard Time) -->
 
 1. [华为突破冯诺依曼单机架构](https://www.zhihu.com/search?q=%E5%8D%8E%E4%B8%BA%E7%AA%81%E7%A0%B4%E5%86%AF%E8%AF%BA%E4%BE%9D%E6%9B%BC%E5%8D%95%E6%9C%BA%E6%9E%B6%E6%9E%84)
+1. [2026 名古屋亚运会开幕式](https://www.zhihu.com/search?q=2026%20%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F)
+1. [歌手许嵩官宣结婚](https://www.zhihu.com/search?q=%E6%AD%8C%E6%89%8B%E8%AE%B8%E5%B5%A9%E5%AE%98%E5%AE%A3%E7%BB%93%E5%A9%9A)
+1. [亚运会开幕式诡异](https://www.zhihu.com/search?q=%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%E8%AF%A1%E5%BC%82)
+1. [12306已拒绝出票133.1万张](https://www.zhihu.com/search?q=12306%E5%B7%B2%E6%8B%92%E7%BB%9D%E5%87%BA%E7%A5%A8133.1%E4%B8%87%E5%BC%A0)
 1. [华为高层内部万字长文曝光](https://www.zhihu.com/search?q=%E5%8D%8E%E4%B8%BA%E9%AB%98%E5%B1%82%E5%86%85%E9%83%A8%E4%B8%87%E5%AD%97%E9%95%BF%E6%96%87%E6%9B%9D%E5%85%89)
 1. [广西孙子非亲生案鉴定机构被罚](https://www.zhihu.com/search?q=%E5%B9%BF%E8%A5%BF%E5%AD%99%E5%AD%90%E9%9D%9E%E4%BA%B2%E7%94%9F%E6%A1%88%E9%89%B4%E5%AE%9A%E6%9C%BA%E6%9E%84%E8%A2%AB%E7%BD%9A)
+1. [西贝被曝将彻底倒闭](https://www.zhihu.com/search?q=%E8%A5%BF%E8%B4%9D%E8%A2%AB%E6%9B%9D%E5%B0%86%E5%BD%BB%E5%BA%95%E5%80%92%E9%97%AD)
 1. [中国男篮 77-97 日本男篮](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%2077-97%20%E6%97%A5%E6%9C%AC%E7%94%B7%E7%AF%AE)
+1. [智谱ZCode被曝偷传用户数据](https://www.zhihu.com/search?q=%E6%99%BA%E8%B0%B1ZCode%E8%A2%AB%E6%9B%9D%E5%81%B7%E4%BC%A0%E7%94%A8%E6%88%B7%E6%95%B0%E6%8D%AE)
+1. [李小璐赵涛疑似恋情](https://www.zhihu.com/search?q=%E6%9D%8E%E5%B0%8F%E7%92%90%E8%B5%B5%E6%B6%9B%E7%96%91%E4%BC%BC%E6%81%8B%E6%83%85)
+1. [iGvsJDG](https://www.zhihu.com/search?q=iGvsJDG)
 1. [攀枝花泥石流已致 5 人失联](https://www.zhihu.com/search?q=%E6%94%80%E6%9E%9D%E8%8A%B1%E6%B3%A5%E7%9F%B3%E6%B5%81%E5%B7%B2%E8%87%B4%205%20%E4%BA%BA%E5%A4%B1%E8%81%94)
 1. [知乎 CLI 创作者能力上新](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%20CLI%20%E5%88%9B%E4%BD%9C%E8%80%85%E8%83%BD%E5%8A%9B%E4%B8%8A%E6%96%B0)
-1. [12306已拒绝出票133.1万张](https://www.zhihu.com/search?q=12306%E5%B7%B2%E6%8B%92%E7%BB%9D%E5%87%BA%E7%A5%A8133.1%E4%B8%87%E5%BC%A0)
-1. [智谱ZCode被曝偷传用户数据](https://www.zhihu.com/search?q=%E6%99%BA%E8%B0%B1ZCode%E8%A2%AB%E6%9B%9D%E5%81%B7%E4%BC%A0%E7%94%A8%E6%88%B7%E6%95%B0%E6%8D%AE)
 1. [DeepSeek 工程师刘胜与长文](https://www.zhihu.com/search?q=DeepSeek%20%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%88%98%E8%83%9C%E4%B8%8E%E9%95%BF%E6%96%87)
-1. [李小璐赵涛疑似恋情](https://www.zhihu.com/search?q=%E6%9D%8E%E5%B0%8F%E7%92%90%E8%B5%B5%E6%B6%9B%E7%96%91%E4%BC%BC%E6%81%8B%E6%83%85)
 1. [特朗普称将获格陵兰岛安全永久控制权](https://www.zhihu.com/search?q=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E8%8E%B7%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E5%AE%89%E5%85%A8%E6%B0%B8%E4%B9%85%E6%8E%A7%E5%88%B6%E6%9D%83)
 1. [退休副省长家丢了 243 万元茅台等名酒](https://www.zhihu.com/search?q=%E9%80%80%E4%BC%91%E5%89%AF%E7%9C%81%E9%95%BF%E5%AE%B6%E4%B8%A2%E4%BA%86%20243%20%E4%B8%87%E5%85%83%E8%8C%85%E5%8F%B0%E7%AD%89%E5%90%8D%E9%85%92)
 1. [永和豆浆现黑丝洗澡内容被指擦边](https://www.zhihu.com/search?q=%E6%B0%B8%E5%92%8C%E8%B1%86%E6%B5%86%E7%8E%B0%E9%BB%91%E4%B8%9D%E6%B4%97%E6%BE%A1%E5%86%85%E5%AE%B9%E8%A2%AB%E6%8C%87%E6%93%A6%E8%BE%B9)
