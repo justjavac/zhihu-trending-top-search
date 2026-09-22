@@ -14,19 +14,23 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Sep 22 2026 17:10:05 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Sep 22 2026 22:26:57 GMT+0800 (China Standard Time) -->
 
-1. [闲鱼暗藏涉黄产业链](https://www.zhihu.com/search?q=%E9%97%B2%E9%B1%BC%E6%9A%97%E8%97%8F%E6%B6%89%E9%BB%84%E4%BA%A7%E4%B8%9A%E9%93%BE)
 1. [秦始皇陵水银来源被找到](https://www.zhihu.com/search?q=%E7%A7%A6%E5%A7%8B%E7%9A%87%E9%99%B5%E6%B0%B4%E9%93%B6%E6%9D%A5%E6%BA%90%E8%A2%AB%E6%89%BE%E5%88%B0)
+1. [闲鱼暗藏涉黄产业链](https://www.zhihu.com/search?q=%E9%97%B2%E9%B1%BC%E6%9A%97%E8%97%8F%E6%B6%89%E9%BB%84%E4%BA%A7%E4%B8%9A%E9%93%BE)
 1. [大一新生军训离队旅游教官疑似被罚](https://www.zhihu.com/search?q=%E5%A4%A7%E4%B8%80%E6%96%B0%E7%94%9F%E5%86%9B%E8%AE%AD%E7%A6%BB%E9%98%9F%E6%97%85%E6%B8%B8%E6%95%99%E5%AE%98%E7%96%91%E4%BC%BC%E8%A2%AB%E7%BD%9A)
 1. [许嵩官宣结婚](https://www.zhihu.com/search?q=%E8%AE%B8%E5%B5%A9%E5%AE%98%E5%AE%A3%E7%BB%93%E5%A9%9A)
 1. [看山今日一签](https://www.zhihu.com/search?q=%E7%9C%8B%E5%B1%B1%E4%BB%8A%E6%97%A5%E4%B8%80%E7%AD%BE)
-1. [大量食品用果葡糖浆替代白砂糖](https://www.zhihu.com/search?q=%E5%A4%A7%E9%87%8F%E9%A3%9F%E5%93%81%E7%94%A8%E6%9E%9C%E8%91%A1%E7%B3%96%E6%B5%86%E6%9B%BF%E4%BB%A3%E7%99%BD%E7%A0%82%E7%B3%96)
+1. [中国女排 vs 日本女排](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%20vs%20%E6%97%A5%E6%9C%AC%E5%A5%B3%E6%8E%92)
+1. [到梦空间](https://www.zhihu.com/search?q=%E5%88%B0%E6%A2%A6%E7%A9%BA%E9%97%B4)
+1. [女孩从 5 楼往下扔快递时坠亡](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%A9%E4%BB%8E%205%20%E6%A5%BC%E5%BE%80%E4%B8%8B%E6%89%94%E5%BF%AB%E9%80%92%E6%97%B6%E5%9D%A0%E4%BA%A1)
+1. [人民日报评第一学历歧视](https://www.zhihu.com/search?q=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E7%AC%AC%E4%B8%80%E5%AD%A6%E5%8E%86%E6%AD%A7%E8%A7%86)
 1. [网购燃气防风罩致妻儿中毒身亡](https://www.zhihu.com/search?q=%E7%BD%91%E8%B4%AD%E7%87%83%E6%B0%94%E9%98%B2%E9%A3%8E%E7%BD%A9%E8%87%B4%E5%A6%BB%E5%84%BF%E4%B8%AD%E6%AF%92%E8%BA%AB%E4%BA%A1)
+1. [闲鱼 涉黄](https://www.zhihu.com/search?q=%E9%97%B2%E9%B1%BC%20%E6%B6%89%E9%BB%84)
+1. [大量食品用果葡糖浆替代白砂糖](https://www.zhihu.com/search?q=%E5%A4%A7%E9%87%8F%E9%A3%9F%E5%93%81%E7%94%A8%E6%9E%9C%E8%91%A1%E7%B3%96%E6%B5%86%E6%9B%BF%E4%BB%A3%E7%99%BD%E7%A0%82%E7%B3%96)
 1. [杭州拟废止低空经济补贴措施](https://www.zhihu.com/search?q=%E6%9D%AD%E5%B7%9E%E6%8B%9F%E5%BA%9F%E6%AD%A2%E4%BD%8E%E7%A9%BA%E7%BB%8F%E6%B5%8E%E8%A1%A5%E8%B4%B4%E6%8E%AA%E6%96%BD)
 1. [月饼告别「礼赠时代」了吗](https://www.zhihu.com/search?q=%E6%9C%88%E9%A5%BC%E5%91%8A%E5%88%AB%E3%80%8C%E7%A4%BC%E8%B5%A0%E6%97%B6%E4%BB%A3%E3%80%8D%E4%BA%86%E5%90%97)
 1. [曝张家齐 15 年收入被妈妈拿走](https://www.zhihu.com/search?q=%E6%9B%9D%E5%BC%A0%E5%AE%B6%E9%BD%90%2015%20%E5%B9%B4%E6%94%B6%E5%85%A5%E8%A2%AB%E5%A6%88%E5%A6%88%E6%8B%BF%E8%B5%B0)
-1. [人民日报评第一学历歧视](https://www.zhihu.com/search?q=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E7%AC%AC%E4%B8%80%E5%AD%A6%E5%8E%86%E6%AD%A7%E8%A7%86)
 1. [多所高校取消吸烟学生学费减免资格](https://www.zhihu.com/search?q=%E5%A4%9A%E6%89%80%E9%AB%98%E6%A0%A1%E5%8F%96%E6%B6%88%E5%90%B8%E7%83%9F%E5%AD%A6%E7%94%9F%E5%AD%A6%E8%B4%B9%E5%87%8F%E5%85%8D%E8%B5%84%E6%A0%BC)
 1. [张展硕亚运会接力逆转夺冠](https://www.zhihu.com/search?q=%E5%BC%A0%E5%B1%95%E7%A1%95%E4%BA%9A%E8%BF%90%E4%BC%9A%E6%8E%A5%E5%8A%9B%E9%80%86%E8%BD%AC%E5%A4%BA%E5%86%A0)
 1. [盛李豪王子菲刷新世界纪录](https://www.zhihu.com/search?q=%E7%9B%9B%E6%9D%8E%E8%B1%AA%E7%8E%8B%E5%AD%90%E8%8F%B2%E5%88%B7%E6%96%B0%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95)
