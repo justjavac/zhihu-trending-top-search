@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Sep 24 2026 03:59:16 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Sep 24 2026 06:53:18 GMT+0800 (China Standard Time) -->
 
 1. [到梦空间](https://www.zhihu.com/search?q=%E5%88%B0%E6%A2%A6%E7%A9%BA%E9%97%B4)
 1. [人民日报评第一学历歧视](https://www.zhihu.com/search?q=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E7%AC%AC%E4%B8%80%E5%AD%A6%E5%8E%86%E6%AD%A7%E8%A7%86)
@@ -27,6 +27,7 @@
 1. [女孩从 5 楼往下扔快递时坠亡](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%A9%E4%BB%8E%205%20%E6%A5%BC%E5%BE%80%E4%B8%8B%E6%89%94%E5%BF%AB%E9%80%92%E6%97%B6%E5%9D%A0%E4%BA%A1)
 1. [大量食品用果葡糖浆替代白砂糖](https://www.zhihu.com/search?q=%E5%A4%A7%E9%87%8F%E9%A3%9F%E5%93%81%E7%94%A8%E6%9E%9C%E8%91%A1%E7%B3%96%E6%B5%86%E6%9B%BF%E4%BB%A3%E7%99%BD%E7%A0%82%E7%B3%96)
 1. [GPT-6 Sol 和 Luna 发布](https://www.zhihu.com/search?q=GPT-6%20Sol%20%E5%92%8C%20Luna%20%E5%8F%91%E5%B8%83)
+1. [张家齐看到妈妈出丑后冷笑](https://www.zhihu.com/search?q=%E5%BC%A0%E5%AE%B6%E9%BD%90%E7%9C%8B%E5%88%B0%E5%A6%88%E5%A6%88%E5%87%BA%E4%B8%91%E5%90%8E%E5%86%B7%E7%AC%91)
 1. [小米MIMO登上AA开源榜第一](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3MIMO%E7%99%BB%E4%B8%8AAA%E5%BC%80%E6%BA%90%E6%A6%9C%E7%AC%AC%E4%B8%80)
 
 <!-- END -->
