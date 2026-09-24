@@ -14,21 +14,24 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Sep 24 2026 15:23:06 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Sep 24 2026 21:21:56 GMT+0800 (China Standard Time) -->
 
+1. [冯小刚回应垃圾观众言论](https://www.zhihu.com/search?q=%E5%86%AF%E5%B0%8F%E5%88%9A%E5%9B%9E%E5%BA%94%E5%9E%83%E5%9C%BE%E8%A7%82%E4%BC%97%E8%A8%80%E8%AE%BA)
+1. [国乒男团 2-3 日本队](https://www.zhihu.com/search?q=%E5%9B%BD%E4%B9%92%E7%94%B7%E5%9B%A2%202-3%20%E6%97%A5%E6%9C%AC%E9%98%9F)
+1. [王楚钦 0-3 张本智和](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%200-3%20%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C)
+1. [​​余承东称赛力斯主动提出自己主导](https://www.zhihu.com/search?q=%E2%80%8B%E2%80%8B%E4%BD%99%E6%89%BF%E4%B8%9C%E7%A7%B0%E8%B5%9B%E5%8A%9B%E6%96%AF%E4%B8%BB%E5%8A%A8%E6%8F%90%E5%87%BA%E8%87%AA%E5%B7%B1%E4%B8%BB%E5%AF%BC)
+1. [看山今日一签](https://www.zhihu.com/search?q=%E7%9C%8B%E5%B1%B1%E4%BB%8A%E6%97%A5%E4%B8%80%E7%AD%BE)
+1. [任正非重申华为不造车](https://www.zhihu.com/search?q=%E4%BB%BB%E6%AD%A3%E9%9D%9E%E9%87%8D%E7%94%B3%E5%8D%8E%E4%B8%BA%E4%B8%8D%E9%80%A0%E8%BD%A6)
+1. [到梦空间](https://www.zhihu.com/search?q=%E5%88%B0%E6%A2%A6%E7%A9%BA%E9%97%B4)
 1. [人民日报评第一学历歧视](https://www.zhihu.com/search?q=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E7%AC%AC%E4%B8%80%E5%AD%A6%E5%8E%86%E6%AD%A7%E8%A7%86)
 1. [表演艺术家游本昌去世](https://www.zhihu.com/search?q=%E8%A1%A8%E6%BC%94%E8%89%BA%E6%9C%AF%E5%AE%B6%E6%B8%B8%E6%9C%AC%E6%98%8C%E5%8E%BB%E4%B8%96)
-1. [任正非重申华为不造车](https://www.zhihu.com/search?q=%E4%BB%BB%E6%AD%A3%E9%9D%9E%E9%87%8D%E7%94%B3%E5%8D%8E%E4%B8%BA%E4%B8%8D%E9%80%A0%E8%BD%A6)
 1. [多所高校取消吸烟学生学费减免资格](https://www.zhihu.com/search?q=%E5%A4%9A%E6%89%80%E9%AB%98%E6%A0%A1%E5%8F%96%E6%B6%88%E5%90%B8%E7%83%9F%E5%AD%A6%E7%94%9F%E5%AD%A6%E8%B4%B9%E5%87%8F%E5%85%8D%E8%B5%84%E6%A0%BC)
-1. [看山今日一签](https://www.zhihu.com/search?q=%E7%9C%8B%E5%B1%B1%E4%BB%8A%E6%97%A5%E4%B8%80%E7%AD%BE)
+1. [车企集体和宁德提分手](https://www.zhihu.com/search?q=%E8%BD%A6%E4%BC%81%E9%9B%86%E4%BD%93%E5%92%8C%E5%AE%81%E5%BE%B7%E6%8F%90%E5%88%86%E6%89%8B)
+1. [男子熬夜刷手机脑萎缩如80岁](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%90%E7%86%AC%E5%A4%9C%E5%88%B7%E6%89%8B%E6%9C%BA%E8%84%91%E8%90%8E%E7%BC%A9%E5%A6%8280%E5%B2%81)
 1. [腾讯「龙虾」将正式停止运营](https://www.zhihu.com/search?q=%E8%85%BE%E8%AE%AF%E3%80%8C%E9%BE%99%E8%99%BE%E3%80%8D%E5%B0%86%E6%AD%A3%E5%BC%8F%E5%81%9C%E6%AD%A2%E8%BF%90%E8%90%A5)
 1. [张家齐看到妈妈出丑后冷笑](https://www.zhihu.com/search?q=%E5%BC%A0%E5%AE%B6%E9%BD%90%E7%9C%8B%E5%88%B0%E5%A6%88%E5%A6%88%E5%87%BA%E4%B8%91%E5%90%8E%E5%86%B7%E7%AC%91)
 1. [字节正式员工请愿留下外包员工](https://www.zhihu.com/search?q=%E5%AD%97%E8%8A%82%E6%AD%A3%E5%BC%8F%E5%91%98%E5%B7%A5%E8%AF%B7%E6%84%BF%E7%95%99%E4%B8%8B%E5%A4%96%E5%8C%85%E5%91%98%E5%B7%A5)
-1. [男子熬夜刷手机脑萎缩如80岁](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%90%E7%86%AC%E5%A4%9C%E5%88%B7%E6%89%8B%E6%9C%BA%E8%84%91%E8%90%8E%E7%BC%A9%E5%A6%8280%E5%B2%81)
-1. [冯小刚回应垃圾观众言论](https://www.zhihu.com/search?q=%E5%86%AF%E5%B0%8F%E5%88%9A%E5%9B%9E%E5%BA%94%E5%9E%83%E5%9C%BE%E8%A7%82%E4%BC%97%E8%A8%80%E8%AE%BA)
-1. [车企集体和宁德提分手](https://www.zhihu.com/search?q=%E8%BD%A6%E4%BC%81%E9%9B%86%E4%BD%93%E5%92%8C%E5%AE%81%E5%BE%B7%E6%8F%90%E5%88%86%E6%89%8B)
 1. [油价将大幅调整](https://www.zhihu.com/search?q=%E6%B2%B9%E4%BB%B7%E5%B0%86%E5%A4%A7%E5%B9%85%E8%B0%83%E6%95%B4)
-1. [到梦空间](https://www.zhihu.com/search?q=%E5%88%B0%E6%A2%A6%E7%A9%BA%E9%97%B4)
 1. [亚运男足 想格斗可以别的项目报名](https://www.zhihu.com/search?q=%E4%BA%9A%E8%BF%90%E7%94%B7%E8%B6%B3%20%E6%83%B3%E6%A0%BC%E6%96%97%E5%8F%AF%E4%BB%A5%E5%88%AB%E7%9A%84%E9%A1%B9%E7%9B%AE%E6%8A%A5%E5%90%8D)
 1. [冯小刚直言对不起投资方](https://www.zhihu.com/search?q=%E5%86%AF%E5%B0%8F%E5%88%9A%E7%9B%B4%E8%A8%80%E5%AF%B9%E4%B8%8D%E8%B5%B7%E6%8A%95%E8%B5%84%E6%96%B9)
 1. [曝豆包开始收缩对话团队](https://www.zhihu.com/search?q=%E6%9B%9D%E8%B1%86%E5%8C%85%E5%BC%80%E5%A7%8B%E6%94%B6%E7%BC%A9%E5%AF%B9%E8%AF%9D%E5%9B%A2%E9%98%9F)
