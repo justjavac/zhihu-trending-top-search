@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Sep 28 2026 02:06:05 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Sep 28 2026 05:53:25 GMT+0800 (China Standard Time) -->
 
 1. [网红潘宏虐狗纠纷终审判决](https://www.zhihu.com/search?q=%E7%BD%91%E7%BA%A2%E6%BD%98%E5%AE%8F%E8%99%90%E7%8B%97%E7%BA%A0%E7%BA%B7%E7%BB%88%E5%AE%A1%E5%88%A4%E5%86%B3)
 1. [中美达成八点成果共识](https://www.zhihu.com/search?q=%E4%B8%AD%E7%BE%8E%E8%BE%BE%E6%88%90%E5%85%AB%E7%82%B9%E6%88%90%E6%9E%9C%E5%85%B1%E8%AF%86)
@@ -23,10 +23,11 @@
 1. [看山今日一签](https://www.zhihu.com/search?q=%E7%9C%8B%E5%B1%B1%E4%BB%8A%E6%97%A5%E4%B8%80%E7%AD%BE)
 1. [刘欢病逝](https://www.zhihu.com/search?q=%E5%88%98%E6%AC%A2%E7%97%85%E9%80%9D)
 1. [日乒男单全军覆没](https://www.zhihu.com/search?q=%E6%97%A5%E4%B9%92%E7%94%B7%E5%8D%95%E5%85%A8%E5%86%9B%E8%A6%86%E6%B2%A1)
-1. [三大运营商全面叫停0元购机](https://www.zhihu.com/search?q=%E4%B8%89%E5%A4%A7%E8%BF%90%E8%90%A5%E5%95%86%E5%85%A8%E9%9D%A2%E5%8F%AB%E5%81%9C0%E5%85%83%E8%B4%AD%E6%9C%BA)
-1. [林诗栋蒯曼亚运混双冠军](https://www.zhihu.com/search?q=%E6%9E%97%E8%AF%97%E6%A0%8B%E8%92%AF%E6%9B%BC%E4%BA%9A%E8%BF%90%E6%B7%B7%E5%8F%8C%E5%86%A0%E5%86%9B)
-1. [比尔盖茨警告AI或致十亿人死亡](https://www.zhihu.com/search?q=%E6%AF%94%E5%B0%94%E7%9B%96%E8%8C%A8%E8%AD%A6%E5%91%8AAI%E6%88%96%E8%87%B4%E5%8D%81%E4%BA%BF%E4%BA%BA%E6%AD%BB%E4%BA%A1)
 1. [南开教授因简历过于实诚走红](https://www.zhihu.com/search?q=%E5%8D%97%E5%BC%80%E6%95%99%E6%8E%88%E5%9B%A0%E7%AE%80%E5%8E%86%E8%BF%87%E4%BA%8E%E5%AE%9E%E8%AF%9A%E8%B5%B0%E7%BA%A2)
+1. [三大运营商全面叫停0元购机](https://www.zhihu.com/search?q=%E4%B8%89%E5%A4%A7%E8%BF%90%E8%90%A5%E5%95%86%E5%85%A8%E9%9D%A2%E5%8F%AB%E5%81%9C0%E5%85%83%E8%B4%AD%E6%9C%BA)
+1. [比尔盖茨警告AI或致十亿人死亡](https://www.zhihu.com/search?q=%E6%AF%94%E5%B0%94%E7%9B%96%E8%8C%A8%E8%AD%A6%E5%91%8AAI%E6%88%96%E8%87%B4%E5%8D%81%E4%BA%BF%E4%BA%BA%E6%AD%BB%E4%BA%A1)
+1. [林诗栋蒯曼亚运混双冠军](https://www.zhihu.com/search?q=%E6%9E%97%E8%AF%97%E6%A0%8B%E8%92%AF%E6%9B%BC%E4%BA%9A%E8%BF%90%E6%B7%B7%E5%8F%8C%E5%86%A0%E5%86%9B)
+1. [麻辣王子广告视觉污染到米兰](https://www.zhihu.com/search?q=%E9%BA%BB%E8%BE%A3%E7%8E%8B%E5%AD%90%E5%B9%BF%E5%91%8A%E8%A7%86%E8%A7%89%E6%B1%A1%E6%9F%93%E5%88%B0%E7%B1%B3%E5%85%B0)
 1. [中美构建建设性战略稳定关系](https://www.zhihu.com/search?q=%E4%B8%AD%E7%BE%8E%E6%9E%84%E5%BB%BA%E5%BB%BA%E8%AE%BE%E6%80%A7%E6%88%98%E7%95%A5%E7%A8%B3%E5%AE%9A%E5%85%B3%E7%B3%BB)
 
 <!-- END -->
