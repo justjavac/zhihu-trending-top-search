@@ -14,17 +14,19 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Sep 27 2026 06:29:03 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Sep 27 2026 09:09:07 GMT+0800 (China Standard Time) -->
 
 1. [中美达成八点成果共识](https://www.zhihu.com/search?q=%E4%B8%AD%E7%BE%8E%E8%BE%BE%E6%88%90%E5%85%AB%E7%82%B9%E6%88%90%E6%9E%9C%E5%85%B1%E8%AF%86)
 1. [刘欢病逝](https://www.zhihu.com/search?q=%E5%88%98%E6%AC%A2%E7%97%85%E9%80%9D)
 1. [日乒男单全军覆没](https://www.zhihu.com/search?q=%E6%97%A5%E4%B9%92%E7%94%B7%E5%8D%95%E5%85%A8%E5%86%9B%E8%A6%86%E6%B2%A1)
-1. [中美构建建设性战略稳定关系](https://www.zhihu.com/search?q=%E4%B8%AD%E7%BE%8E%E6%9E%84%E5%BB%BA%E5%BB%BA%E8%AE%BE%E6%80%A7%E6%88%98%E7%95%A5%E7%A8%B3%E5%AE%9A%E5%85%B3%E7%B3%BB)
+1. [科技巨头正调查数万起AI安全事件](https://www.zhihu.com/search?q=%E7%A7%91%E6%8A%80%E5%B7%A8%E5%A4%B4%E6%AD%A3%E8%B0%83%E6%9F%A5%E6%95%B0%E4%B8%87%E8%B5%B7AI%E5%AE%89%E5%85%A8%E4%BA%8B%E4%BB%B6)
 1. [看山今日一签](https://www.zhihu.com/search?q=%E7%9C%8B%E5%B1%B1%E4%BB%8A%E6%97%A5%E4%B8%80%E7%AD%BE)
+1. [中美构建建设性战略稳定关系](https://www.zhihu.com/search?q=%E4%B8%AD%E7%BE%8E%E6%9E%84%E5%BB%BA%E5%BB%BA%E8%AE%BE%E6%80%A7%E6%88%98%E7%95%A5%E7%A8%B3%E5%AE%9A%E5%85%B3%E7%B3%BB)
+1. [林诗栋蒯曼亚运混双冠军](https://www.zhihu.com/search?q=%E6%9E%97%E8%AF%97%E6%A0%8B%E8%92%AF%E6%9B%BC%E4%BA%9A%E8%BF%90%E6%B7%B7%E5%8F%8C%E5%86%A0%E5%86%9B)
+1. [网红潘宏虐狗纠纷终审判决](https://www.zhihu.com/search?q=%E7%BD%91%E7%BA%A2%E6%BD%98%E5%AE%8F%E8%99%90%E7%8B%97%E7%BA%A0%E7%BA%B7%E7%BB%88%E5%AE%A1%E5%88%A4%E5%86%B3)
 1. [美称中美贸易休战延至明年1月](https://www.zhihu.com/search?q=%E7%BE%8E%E7%A7%B0%E4%B8%AD%E7%BE%8E%E8%B4%B8%E6%98%93%E4%BC%91%E6%88%98%E5%BB%B6%E8%87%B3%E6%98%8E%E5%B9%B41%E6%9C%88)
 1. [王楚钦 0-3 张本智和](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%200-3%20%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C)
 1. [比尔盖茨警告AI或致十亿人死亡](https://www.zhihu.com/search?q=%E6%AF%94%E5%B0%94%E7%9B%96%E8%8C%A8%E8%AD%A6%E5%91%8AAI%E6%88%96%E8%87%B4%E5%8D%81%E4%BA%BF%E4%BA%BA%E6%AD%BB%E4%BA%A1)
-1. [林诗栋蒯曼亚运混双冠军](https://www.zhihu.com/search?q=%E6%9E%97%E8%AF%97%E6%A0%8B%E8%92%AF%E6%9B%BC%E4%BA%9A%E8%BF%90%E6%B7%B7%E5%8F%8C%E5%86%A0%E5%86%9B)
 1. [老人离世6亿全给再婚妻子](https://www.zhihu.com/search?q=%E8%80%81%E4%BA%BA%E7%A6%BB%E4%B8%966%E4%BA%BF%E5%85%A8%E7%BB%99%E5%86%8D%E5%A9%9A%E5%A6%BB%E5%AD%90)
 1. [张本智和爆冷被淘汰](https://www.zhihu.com/search?q=%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E7%88%86%E5%86%B7%E8%A2%AB%E6%B7%98%E6%B1%B0)
 1. [国家拟限制16岁以下群体使用社交网络](https://www.zhihu.com/search?q=%E5%9B%BD%E5%AE%B6%E6%8B%9F%E9%99%90%E5%88%B616%E5%B2%81%E4%BB%A5%E4%B8%8B%E7%BE%A4%E4%BD%93%E4%BD%BF%E7%94%A8%E7%A4%BE%E4%BA%A4%E7%BD%91%E7%BB%9C)
