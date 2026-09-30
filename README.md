@@ -14,20 +14,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Oct 01 2026 02:52:58 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Oct 01 2026 06:50:31 GMT+0800 (China Standard Time) -->
 
 1. [杜淳妻子王灿被骗灌肠](https://www.zhihu.com/search?q=%E6%9D%9C%E6%B7%B3%E5%A6%BB%E5%AD%90%E7%8E%8B%E7%81%BF%E8%A2%AB%E9%AA%97%E7%81%8C%E8%82%A0)
 1. [武契奇宣布辞职](https://www.zhihu.com/search?q=%E6%AD%A6%E5%A5%91%E5%A5%87%E5%AE%A3%E5%B8%83%E8%BE%9E%E8%81%8C)
-1. [东航通报空姐下跪事件](https://www.zhihu.com/search?q=%E4%B8%9C%E8%88%AA%E9%80%9A%E6%8A%A5%E7%A9%BA%E5%A7%90%E4%B8%8B%E8%B7%AA%E4%BA%8B%E4%BB%B6)
-1. [王楚钦林诗栋退出 WTT 中国大满贯](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%9E%97%E8%AF%97%E6%A0%8B%E9%80%80%E5%87%BA%20WTT%20%E4%B8%AD%E5%9B%BD%E5%A4%A7%E6%BB%A1%E8%B4%AF)
 1. [康奈尔大学7名男生被控轮奸](https://www.zhihu.com/search?q=%E5%BA%B7%E5%A5%88%E5%B0%94%E5%A4%A7%E5%AD%A67%E5%90%8D%E7%94%B7%E7%94%9F%E8%A2%AB%E6%8E%A7%E8%BD%AE%E5%A5%B8)
-1. [张家齐妈妈公开念家书批评女儿](https://www.zhihu.com/search?q=%E5%BC%A0%E5%AE%B6%E9%BD%90%E5%A6%88%E5%A6%88%E5%85%AC%E5%BC%80%E5%BF%B5%E5%AE%B6%E4%B9%A6%E6%89%B9%E8%AF%84%E5%A5%B3%E5%84%BF)
+1. [东航回应网传空姐跪地道歉](https://www.zhihu.com/search?q=%E4%B8%9C%E8%88%AA%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E7%A9%BA%E5%A7%90%E8%B7%AA%E5%9C%B0%E9%81%93%E6%AD%89)
 1. [曝国乒大批资深陪练辞职](https://www.zhihu.com/search?q=%E6%9B%9D%E5%9B%BD%E4%B9%92%E5%A4%A7%E6%89%B9%E8%B5%84%E6%B7%B1%E9%99%AA%E7%BB%83%E8%BE%9E%E8%81%8C)
+1. [张家齐妈妈公开念家书批评女儿](https://www.zhihu.com/search?q=%E5%BC%A0%E5%AE%B6%E9%BD%90%E5%A6%88%E5%A6%88%E5%85%AC%E5%BC%80%E5%BF%B5%E5%AE%B6%E4%B9%A6%E6%89%B9%E8%AF%84%E5%A5%B3%E5%84%BF)
 1. [林诗栋 4-0 王楚钦夺金](https://www.zhihu.com/search?q=%E6%9E%97%E8%AF%97%E6%A0%8B%204-0%20%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%A4%BA%E9%87%91)
 1. [江苏高考作文《衬衫的价格为 9 磅 15 便士》爆火](https://www.zhihu.com/search?q=%E6%B1%9F%E8%8B%8F%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%E3%80%8A%E8%A1%AC%E8%A1%AB%E7%9A%84%E4%BB%B7%E6%A0%BC%E4%B8%BA%209%20%E7%A3%85%2015%20%E4%BE%BF%E5%A3%AB%E3%80%8B%E7%88%86%E7%81%AB)
-1. [居民房贷贴息政策 10 月 1 日起实施](https://www.zhihu.com/search?q=%E5%B1%85%E6%B0%91%E6%88%BF%E8%B4%B7%E8%B4%B4%E6%81%AF%E6%94%BF%E7%AD%96%2010%20%E6%9C%88%201%20%E6%97%A5%E8%B5%B7%E5%AE%9E%E6%96%BD)
 1. [中国U23男足1-2韩国](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BDU23%E7%94%B7%E8%B6%B31-2%E9%9F%A9%E5%9B%BD)
+1. [居民房贷贴息政策 10 月 1 日起实施](https://www.zhihu.com/search?q=%E5%B1%85%E6%B0%91%E6%88%BF%E8%B4%B7%E8%B4%B4%E6%81%AF%E6%94%BF%E7%AD%96%2010%20%E6%9C%88%201%20%E6%97%A5%E8%B5%B7%E5%AE%9E%E6%96%BD)
 1. [王楚钦：不知道为什么就是感觉累](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%EF%BC%9A%E4%B8%8D%E7%9F%A5%E9%81%93%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B0%B1%E6%98%AF%E6%84%9F%E8%A7%89%E7%B4%AF)
+1. [王楚钦林诗栋退出 WTT 中国大满贯](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%9E%97%E8%AF%97%E6%A0%8B%E9%80%80%E5%87%BA%20WTT%20%E4%B8%AD%E5%9B%BD%E5%A4%A7%E6%BB%A1%E8%B4%AF)
+1. [东航通报空姐下跪事件](https://www.zhihu.com/search?q=%E4%B8%9C%E8%88%AA%E9%80%9A%E6%8A%A5%E7%A9%BA%E5%A7%90%E4%B8%8B%E8%B7%AA%E4%BA%8B%E4%BB%B6)
 
 <!-- END -->
 
