@@ -14,9 +14,20 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Oct 07 2026 14:57:19 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Oct 07 2026 22:23:26 GMT+0800 (China Standard Time) -->
 
 1. [李飞飞称十年后只剩两类劳动](https://www.zhihu.com/search?q=%E6%9D%8E%E9%A3%9E%E9%A3%9E%E7%A7%B0%E5%8D%81%E5%B9%B4%E5%90%8E%E5%8F%AA%E5%89%A9%E4%B8%A4%E7%B1%BB%E5%8A%B3%E5%8A%A8)
+1. [2026年诺贝尔化学奖](https://www.zhihu.com/search?q=2026%E5%B9%B4%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%8C%96%E5%AD%A6%E5%A5%96)
+1. [孙颖莎止步中国大满贯32强](https://www.zhihu.com/search?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E6%AD%A2%E6%AD%A5%E4%B8%AD%E5%9B%BD%E5%A4%A7%E6%BB%A1%E8%B4%AF32%E5%BC%BA)
+1. [超10万份孕妇血样被偷运出境](https://www.zhihu.com/search?q=%E8%B6%8510%E4%B8%87%E4%BB%BD%E5%AD%95%E5%A6%87%E8%A1%80%E6%A0%B7%E8%A2%AB%E5%81%B7%E8%BF%90%E5%87%BA%E5%A2%83)
+1. [中方放弃谈判直接抓佤邦副总司令](https://www.zhihu.com/search?q=%E4%B8%AD%E6%96%B9%E6%94%BE%E5%BC%83%E8%B0%88%E5%88%A4%E7%9B%B4%E6%8E%A5%E6%8A%93%E4%BD%A4%E9%82%A6%E5%89%AF%E6%80%BB%E5%8F%B8%E4%BB%A4)
+1. [俄罗斯否认实施肺鼠疫防疫措施](https://www.zhihu.com/search?q=%E4%BF%84%E7%BD%97%E6%96%AF%E5%90%A6%E8%AE%A4%E5%AE%9E%E6%96%BD%E8%82%BA%E9%BC%A0%E7%96%AB%E9%98%B2%E7%96%AB%E6%8E%AA%E6%96%BD)
+1. [2026诺贝尔物理学奖](https://www.zhihu.com/search?q=2026%E8%AF%BA%E8%B4%9D%E5%B0%94%E7%89%A9%E7%90%86%E5%AD%A6%E5%A5%96)
+1. [中国乒协将建立赛场禁入名单制度](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E4%B9%92%E5%8D%8F%E5%B0%86%E5%BB%BA%E7%AB%8B%E8%B5%9B%E5%9C%BA%E7%A6%81%E5%85%A5%E5%90%8D%E5%8D%95%E5%88%B6%E5%BA%A6)
+1. [OpenAI 推出 DecisionsAPI](https://www.zhihu.com/search?q=OpenAI%20%E6%8E%A8%E5%87%BA%20DecisionsAPI)
+1. [演员王星被骗案细节披露](https://www.zhihu.com/search?q=%E6%BC%94%E5%91%98%E7%8E%8B%E6%98%9F%E8%A2%AB%E9%AA%97%E6%A1%88%E7%BB%86%E8%8A%82%E6%8A%AB%E9%9C%B2)
+1. [Mistral发布Mistral Large 4](https://www.zhihu.com/search?q=Mistral%E5%8F%91%E5%B8%83Mistral%20Large%204)
+1. [张家齐妈妈看见张家齐就哭](https://www.zhihu.com/search?q=%E5%BC%A0%E5%AE%B6%E9%BD%90%E5%A6%88%E5%A6%88%E7%9C%8B%E8%A7%81%E5%BC%A0%E5%AE%B6%E9%BD%90%E5%B0%B1%E5%93%AD)
 1. [阿根廷队长迎来国家队告别战](https://www.zhihu.com/search?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E9%98%9F%E9%95%BF%E8%BF%8E%E6%9D%A5%E5%9B%BD%E5%AE%B6%E9%98%9F%E5%91%8A%E5%88%AB%E6%88%98)
 1. [2026年诺贝尔化学奖预测](https://www.zhihu.com/search?q=2026%E5%B9%B4%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%8C%96%E5%AD%A6%E5%A5%96%E9%A2%84%E6%B5%8B)
 1. [OpenAI公开722篇数学手稿](https://www.zhihu.com/search?q=OpenAI%E5%85%AC%E5%BC%80722%E7%AF%87%E6%95%B0%E5%AD%A6%E6%89%8B%E7%A8%BF)
@@ -24,13 +35,9 @@
 1. [OpenAI宣布解决准黎曼猜想](https://www.zhihu.com/search?q=OpenAI%E5%AE%A3%E5%B8%83%E8%A7%A3%E5%86%B3%E5%87%86%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3)
 1. [《欢迎来龙餐馆》冲击奥斯卡](https://www.zhihu.com/search?q=%E3%80%8A%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%E3%80%8B%E5%86%B2%E5%87%BB%E5%A5%A5%E6%96%AF%E5%8D%A1)
 1. [梁靖崑不敌郭冠宏止步32强](https://www.zhihu.com/search?q=%E6%A2%81%E9%9D%96%E5%B4%91%E4%B8%8D%E6%95%8C%E9%83%AD%E5%86%A0%E5%AE%8F%E6%AD%A2%E6%AD%A532%E5%BC%BA)
-1. [超10万份孕妇血样被偷运出境](https://www.zhihu.com/search?q=%E8%B6%8510%E4%B8%87%E4%BB%BD%E5%AD%95%E5%A6%87%E8%A1%80%E6%A0%B7%E8%A2%AB%E5%81%B7%E8%BF%90%E5%87%BA%E5%A2%83)
-1. [2026诺贝尔物理学奖](https://www.zhihu.com/search?q=2026%E8%AF%BA%E8%B4%9D%E5%B0%94%E7%89%A9%E7%90%86%E5%AD%A6%E5%A5%96)
 1. [纪录片《缅北电诈覆灭纪实》首播](https://www.zhihu.com/search?q=%E7%BA%AA%E5%BD%95%E7%89%87%E3%80%8A%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E8%A6%86%E7%81%AD%E7%BA%AA%E5%AE%9E%E3%80%8B%E9%A6%96%E6%92%AD)
-1. [中方放弃谈判直接抓佤邦副总司令](https://www.zhihu.com/search?q=%E4%B8%AD%E6%96%B9%E6%94%BE%E5%BC%83%E8%B0%88%E5%88%A4%E7%9B%B4%E6%8E%A5%E6%8A%93%E4%BD%A4%E9%82%A6%E5%89%AF%E6%80%BB%E5%8F%B8%E4%BB%A4)
 1. [代入代露娃的妈妈天塌了](https://www.zhihu.com/search?q=%E4%BB%A3%E5%85%A5%E4%BB%A3%E9%9C%B2%E5%A8%83%E7%9A%84%E5%A6%88%E5%A6%88%E5%A4%A9%E5%A1%8C%E4%BA%86)
 1. [C罗致歉自请重罚再归队](https://www.zhihu.com/search?q=C%E7%BD%97%E8%87%B4%E6%AD%89%E8%87%AA%E8%AF%B7%E9%87%8D%E7%BD%9A%E5%86%8D%E5%BD%92%E9%98%9F)
-1. [张家齐妈妈看见张家齐就哭](https://www.zhihu.com/search?q=%E5%BC%A0%E5%AE%B6%E9%BD%90%E5%A6%88%E5%A6%88%E7%9C%8B%E8%A7%81%E5%BC%A0%E5%AE%B6%E9%BD%90%E5%B0%B1%E5%93%AD)
 1. [韩国网友不满亚运夺金免兵役](https://www.zhihu.com/search?q=%E9%9F%A9%E5%9B%BD%E7%BD%91%E5%8F%8B%E4%B8%8D%E6%BB%A1%E4%BA%9A%E8%BF%90%E5%A4%BA%E9%87%91%E5%85%8D%E5%85%B5%E5%BD%B9)
 1. [网传俄实验室发生鼠疫泄漏](https://www.zhihu.com/search?q=%E7%BD%91%E4%BC%A0%E4%BF%84%E5%AE%9E%E9%AA%8C%E5%AE%A4%E5%8F%91%E7%94%9F%E9%BC%A0%E7%96%AB%E6%B3%84%E6%BC%8F)
 1. [中国电信回应前员工实名举报](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E7%94%B5%E4%BF%A1%E5%9B%9E%E5%BA%94%E5%89%8D%E5%91%98%E5%B7%A5%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5)
