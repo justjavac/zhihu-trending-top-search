@@ -14,20 +14,23 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Oct 11 2026 09:37:43 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Oct 11 2026 16:26:29 GMT+0800 (China Standard Time) -->
 
-1. [双汇被罚1.29亿](https://www.zhihu.com/search?q=%E5%8F%8C%E6%B1%87%E8%A2%AB%E7%BD%9A1.29%E4%BA%BF)
+1. [人民日报评尊界刹车踏板风波](https://www.zhihu.com/search?q=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E5%B0%8A%E7%95%8C%E5%88%B9%E8%BD%A6%E8%B8%8F%E6%9D%BF%E9%A3%8E%E6%B3%A2)
 1. [警方通报王皓被聚集辱骂](https://www.zhihu.com/search?q=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%8E%8B%E7%9A%93%E8%A2%AB%E8%81%9A%E9%9B%86%E8%BE%B1%E9%AA%82)
-1. [俄罗斯不明病因肺炎事件四种说法](https://www.zhihu.com/search?q=%E4%BF%84%E7%BD%97%E6%96%AF%E4%B8%8D%E6%98%8E%E7%97%85%E5%9B%A0%E8%82%BA%E7%82%8E%E4%BA%8B%E4%BB%B6%E5%9B%9B%E7%A7%8D%E8%AF%B4%E6%B3%95)
-1. [曝梅艳芳骨灰盒疑似被盗](https://www.zhihu.com/search?q=%E6%9B%9D%E6%A2%85%E8%89%B3%E8%8A%B3%E9%AA%A8%E7%81%B0%E7%9B%92%E7%96%91%E4%BC%BC%E8%A2%AB%E7%9B%97)
-1. [沙特利雅得机场遭袭致12死309伤](https://www.zhihu.com/search?q=%E6%B2%99%E7%89%B9%E5%88%A9%E9%9B%85%E5%BE%97%E6%9C%BA%E5%9C%BA%E9%81%AD%E8%A2%AD%E8%87%B412%E6%AD%BB309%E4%BC%A4)
 1. [林诗栋被撤销亚锦赛男单混双报名](https://www.zhihu.com/search?q=%E6%9E%97%E8%AF%97%E6%A0%8B%E8%A2%AB%E6%92%A4%E9%94%80%E4%BA%9A%E9%94%A6%E8%B5%9B%E7%94%B7%E5%8D%95%E6%B7%B7%E5%8F%8C%E6%8A%A5%E5%90%8D)
-1. [邵艾伦对话孙宇晨](https://www.zhihu.com/search?q=%E9%82%B5%E8%89%BE%E4%BC%A6%E5%AF%B9%E8%AF%9D%E5%AD%99%E5%AE%87%E6%99%A8)
-1. [王仁君首获飞天奖视帝](https://www.zhihu.com/search?q=%E7%8E%8B%E4%BB%81%E5%90%9B%E9%A6%96%E8%8E%B7%E9%A3%9E%E5%A4%A9%E5%A5%96%E8%A7%86%E5%B8%9D)
+1. [俄罗斯不明病因肺炎事件四种说法](https://www.zhihu.com/search?q=%E4%BF%84%E7%BD%97%E6%96%AF%E4%B8%8D%E6%98%8E%E7%97%85%E5%9B%A0%E8%82%BA%E7%82%8E%E4%BA%8B%E4%BB%B6%E5%9B%9B%E7%A7%8D%E8%AF%B4%E6%B3%95)
 1. [俄解除不明原因肺炎防疫措施](https://www.zhihu.com/search?q=%E4%BF%84%E8%A7%A3%E9%99%A4%E4%B8%8D%E6%98%8E%E5%8E%9F%E5%9B%A0%E8%82%BA%E7%82%8E%E9%98%B2%E7%96%AB%E6%8E%AA%E6%96%BD)
-1. [宋佳获飞天奖视后](https://www.zhihu.com/search?q=%E5%AE%8B%E4%BD%B3%E8%8E%B7%E9%A3%9E%E5%A4%A9%E5%A5%96%E8%A7%86%E5%90%8E)
+1. [四部门终结速成车乱象](https://www.zhihu.com/search?q=%E5%9B%9B%E9%83%A8%E9%97%A8%E7%BB%88%E7%BB%93%E9%80%9F%E6%88%90%E8%BD%A6%E4%B9%B1%E8%B1%A1)
+1. [沙特利雅得机场遭袭致12死309伤](https://www.zhihu.com/search?q=%E6%B2%99%E7%89%B9%E5%88%A9%E9%9B%85%E5%BE%97%E6%9C%BA%E5%9C%BA%E9%81%AD%E8%A2%AD%E8%87%B412%E6%AD%BB309%E4%BC%A4)
+1. [邵艾伦对话孙宇晨](https://www.zhihu.com/search?q=%E9%82%B5%E8%89%BE%E4%BC%A6%E5%AF%B9%E8%AF%9D%E5%AD%99%E5%AE%87%E6%99%A8)
 1. [女子换支付方式付款被误会逃单](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E6%8D%A2%E6%94%AF%E4%BB%98%E6%96%B9%E5%BC%8F%E4%BB%98%E6%AC%BE%E8%A2%AB%E8%AF%AF%E4%BC%9A%E9%80%83%E5%8D%95)
+1. [自闭症儿童乘电梯遭陌生男子踹飞](https://www.zhihu.com/search?q=%E8%87%AA%E9%97%AD%E7%97%87%E5%84%BF%E7%AB%A5%E4%B9%98%E7%94%B5%E6%A2%AF%E9%81%AD%E9%99%8C%E7%94%9F%E7%94%B7%E5%AD%90%E8%B8%B9%E9%A3%9E)
+1. [王仁君首获飞天奖视帝](https://www.zhihu.com/search?q=%E7%8E%8B%E4%BB%81%E5%90%9B%E9%A6%96%E8%8E%B7%E9%A3%9E%E5%A4%A9%E5%A5%96%E8%A7%86%E5%B8%9D)
 1. [樊振东回归救不了国乒人才断档](https://www.zhihu.com/search?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%9B%9E%E5%BD%92%E6%95%91%E4%B8%8D%E4%BA%86%E5%9B%BD%E4%B9%92%E4%BA%BA%E6%89%8D%E6%96%AD%E6%A1%A3)
+1. [双汇被罚1.29亿](https://www.zhihu.com/search?q=%E5%8F%8C%E6%B1%87%E8%A2%AB%E7%BD%9A1.29%E4%BA%BF)
+1. [曝梅艳芳骨灰盒疑似被盗](https://www.zhihu.com/search?q=%E6%9B%9D%E6%A2%85%E8%89%B3%E8%8A%B3%E9%AA%A8%E7%81%B0%E7%9B%92%E7%96%91%E4%BC%BC%E8%A2%AB%E7%9B%97)
+1. [宋佳获飞天奖视后](https://www.zhihu.com/search?q=%E5%AE%8B%E4%BD%B3%E8%8E%B7%E9%A3%9E%E5%A4%A9%E5%A5%96%E8%A7%86%E5%90%8E)
 1. [711关闭印度全部门店](https://www.zhihu.com/search?q=711%E5%85%B3%E9%97%AD%E5%8D%B0%E5%BA%A6%E5%85%A8%E9%83%A8%E9%97%A8%E5%BA%97)
 1. [多家烘焙店下架超长蛋挞](https://www.zhihu.com/search?q=%E5%A4%9A%E5%AE%B6%E7%83%98%E7%84%99%E5%BA%97%E4%B8%8B%E6%9E%B6%E8%B6%85%E9%95%BF%E8%9B%8B%E6%8C%9E)
 1. [郑钦文 2-0 梅尔滕斯](https://www.zhihu.com/search?q=%E9%83%91%E9%92%A6%E6%96%87%202-0%20%E6%A2%85%E5%B0%94%E6%BB%95%E6%96%AF)
