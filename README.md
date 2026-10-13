@@ -14,19 +14,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Oct 13 2026 05:59:39 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Oct 13 2026 10:58:16 GMT+0800 (China Standard Time) -->
 
+1. [尊界V800公布制动踏板第三方检测结果](https://www.zhihu.com/search?q=%E5%B0%8A%E7%95%8CV800%E5%85%AC%E5%B8%83%E5%88%B6%E5%8A%A8%E8%B8%8F%E6%9D%BF%E7%AC%AC%E4%B8%89%E6%96%B9%E6%A3%80%E6%B5%8B%E7%BB%93%E6%9E%9C)
 1. [人民日报评尊界刹车踏板风波](https://www.zhihu.com/search?q=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E5%B0%8A%E7%95%8C%E5%88%B9%E8%BD%A6%E8%B8%8F%E6%9D%BF%E9%A3%8E%E6%B3%A2)
-1. [大二专科生称靠切片三年赚七百万](https://www.zhihu.com/search?q=%E5%A4%A7%E4%BA%8C%E4%B8%93%E7%A7%91%E7%94%9F%E7%A7%B0%E9%9D%A0%E5%88%87%E7%89%87%E4%B8%89%E5%B9%B4%E8%B5%9A%E4%B8%83%E7%99%BE%E4%B8%87)
 1. [胡歌称拍仙剑三很无聊](https://www.zhihu.com/search?q=%E8%83%A1%E6%AD%8C%E7%A7%B0%E6%8B%8D%E4%BB%99%E5%89%91%E4%B8%89%E5%BE%88%E6%97%A0%E8%81%8A)
-1. [周鸿祎攀岩摔骨折](https://www.zhihu.com/search?q=%E5%91%A8%E9%B8%BF%E7%A5%8E%E6%94%80%E5%B2%A9%E6%91%94%E9%AA%A8%E6%8A%98)
-1. [江淮汽车回应尊界刹车踏板支架断裂](https://www.zhihu.com/search?q=%E6%B1%9F%E6%B7%AE%E6%B1%BD%E8%BD%A6%E5%9B%9E%E5%BA%94%E5%B0%8A%E7%95%8C%E5%88%B9%E8%BD%A6%E8%B8%8F%E6%9D%BF%E6%94%AF%E6%9E%B6%E6%96%AD%E8%A3%82)
 1. [霸王茶姬店员劝退消费者](https://www.zhihu.com/search?q=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E5%BA%97%E5%91%98%E5%8A%9D%E9%80%80%E6%B6%88%E8%B4%B9%E8%80%85)
-1. [男子国庆被排7天班未去遭开除](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%90%E5%9B%BD%E5%BA%86%E8%A2%AB%E6%8E%927%E5%A4%A9%E7%8F%AD%E6%9C%AA%E5%8E%BB%E9%81%AD%E5%BC%80%E9%99%A4)
+1. [周鸿祎攀岩摔骨折](https://www.zhihu.com/search?q=%E5%91%A8%E9%B8%BF%E7%A5%8E%E6%94%80%E5%B2%A9%E6%91%94%E9%AA%A8%E6%8A%98)
+1. [中科院回应付费可进天眼核心区](https://www.zhihu.com/search?q=%E4%B8%AD%E7%A7%91%E9%99%A2%E5%9B%9E%E5%BA%94%E4%BB%98%E8%B4%B9%E5%8F%AF%E8%BF%9B%E5%A4%A9%E7%9C%BC%E6%A0%B8%E5%BF%83%E5%8C%BA)
+1. [江淮汽车回应尊界刹车踏板支架断裂](https://www.zhihu.com/search?q=%E6%B1%9F%E6%B7%AE%E6%B1%BD%E8%BD%A6%E5%9B%9E%E5%BA%94%E5%B0%8A%E7%95%8C%E5%88%B9%E8%BD%A6%E8%B8%8F%E6%9D%BF%E6%94%AF%E6%9E%B6%E6%96%AD%E8%A3%82)
 1. [日本爆发倒闭潮](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E7%88%86%E5%8F%91%E5%80%92%E9%97%AD%E6%BD%AE)
+1. [男子国庆被排7天班未去遭开除](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%90%E5%9B%BD%E5%BA%86%E8%A2%AB%E6%8E%927%E5%A4%A9%E7%8F%AD%E6%9C%AA%E5%8E%BB%E9%81%AD%E5%BC%80%E9%99%A4)
 1. [永州一局长被举报婚内出轨多人](https://www.zhihu.com/search?q=%E6%B0%B8%E5%B7%9E%E4%B8%80%E5%B1%80%E9%95%BF%E8%A2%AB%E4%B8%BE%E6%8A%A5%E5%A9%9A%E5%86%85%E5%87%BA%E8%BD%A8%E5%A4%9A%E4%BA%BA)
-1. [郑钦文夺得中网女单冠军](https://www.zhihu.com/search?q=%E9%83%91%E9%92%A6%E6%96%87%E5%A4%BA%E5%BE%97%E4%B8%AD%E7%BD%91%E5%A5%B3%E5%8D%95%E5%86%A0%E5%86%9B)
+1. [网友反馈某平台鸿蒙版屏蔽涉尊界报道](https://www.zhihu.com/search?q=%E7%BD%91%E5%8F%8B%E5%8F%8D%E9%A6%88%E6%9F%90%E5%B9%B3%E5%8F%B0%E9%B8%BF%E8%92%99%E7%89%88%E5%B1%8F%E8%94%BD%E6%B6%89%E5%B0%8A%E7%95%8C%E6%8A%A5%E9%81%93)
 1. [2026年诺贝尔经济学奖](https://www.zhihu.com/search?q=2026%E5%B9%B4%E8%AF%BA%E8%B4%9D%E5%B0%94%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%A5%96)
+1. [大二专科生称靠切片三年赚七百万](https://www.zhihu.com/search?q=%E5%A4%A7%E4%BA%8C%E4%B8%93%E7%A7%91%E7%94%9F%E7%A7%B0%E9%9D%A0%E5%88%87%E7%89%87%E4%B8%89%E5%B9%B4%E8%B5%9A%E4%B8%83%E7%99%BE%E4%B8%87)
+1. [郑钦文夺得中网女单冠军](https://www.zhihu.com/search?q=%E9%83%91%E9%92%A6%E6%96%87%E5%A4%BA%E5%BE%97%E4%B8%AD%E7%BD%91%E5%A5%B3%E5%8D%95%E5%86%A0%E5%86%9B)
 1. [网传社保纳入税务处罚](https://www.zhihu.com/search?q=%E7%BD%91%E4%BC%A0%E7%A4%BE%E4%BF%9D%E7%BA%B3%E5%85%A5%E7%A8%8E%E5%8A%A1%E5%A4%84%E7%BD%9A)
 
 <!-- END -->
