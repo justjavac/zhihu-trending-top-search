@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Oct 17 2026 04:38:29 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Oct 17 2026 07:17:53 GMT+0800 (China Standard Time) -->
 
 1. [天水幼儿园铅中毒案一审宣判](https://www.zhihu.com/search?q=%E5%A4%A9%E6%B0%B4%E5%B9%BC%E5%84%BF%E5%9B%AD%E9%93%85%E4%B8%AD%E6%AF%92%E6%A1%88%E4%B8%80%E5%AE%A1%E5%AE%A3%E5%88%A4)
 1. [美国肯德基将改用可口可乐](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E8%82%AF%E5%BE%B7%E5%9F%BA%E5%B0%86%E6%94%B9%E7%94%A8%E5%8F%AF%E5%8F%A3%E5%8F%AF%E4%B9%90)
