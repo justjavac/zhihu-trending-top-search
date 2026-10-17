@@ -14,19 +14,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Oct 18 2026 00:09:51 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Oct 18 2026 03:04:31 GMT+0800 (China Standard Time) -->
 
-1. [美国肯德基将改用可口可乐](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E8%82%AF%E5%BE%B7%E5%9F%BA%E5%B0%86%E6%94%B9%E7%94%A8%E5%8F%AF%E5%8F%A3%E5%8F%AF%E4%B9%90)
-1. [DeepSeek V4.1 Flash 发布新版本](https://www.zhihu.com/search?q=DeepSeek%20V4.1%20Flash%20%E5%8F%91%E5%B8%83%E6%96%B0%E7%89%88%E6%9C%AC)
 1. [四部门组织30余家车企座谈](https://www.zhihu.com/search?q=%E5%9B%9B%E9%83%A8%E9%97%A8%E7%BB%84%E7%BB%8730%E4%BD%99%E5%AE%B6%E8%BD%A6%E4%BC%81%E5%BA%A7%E8%B0%88)
+1. [DeepSeek V4.1 Flash 发布新版本](https://www.zhihu.com/search?q=DeepSeek%20V4.1%20Flash%20%E5%8F%91%E5%B8%83%E6%96%B0%E7%89%88%E6%9C%AC)
 1. [特斯拉SpaceX大跌](https://www.zhihu.com/search?q=%E7%89%B9%E6%96%AF%E6%8B%89SpaceX%E5%A4%A7%E8%B7%8C)
-1. [智界将获独立造车资质](https://www.zhihu.com/search?q=%E6%99%BA%E7%95%8C%E5%B0%86%E8%8E%B7%E7%8B%AC%E7%AB%8B%E9%80%A0%E8%BD%A6%E8%B5%84%E8%B4%A8)
 1. [黄子韬徐艺洋宣布当爸妈](https://www.zhihu.com/search?q=%E9%BB%84%E5%AD%90%E9%9F%AC%E5%BE%90%E8%89%BA%E6%B4%8B%E5%AE%A3%E5%B8%83%E5%BD%93%E7%88%B8%E5%A6%88)
+1. [智界将获独立造车资质](https://www.zhihu.com/search?q=%E6%99%BA%E7%95%8C%E5%B0%86%E8%8E%B7%E7%8B%AC%E7%AB%8B%E9%80%A0%E8%BD%A6%E8%B5%84%E8%B4%A8)
 1. [自愿放弃社保无效](https://www.zhihu.com/search?q=%E8%87%AA%E6%84%BF%E6%94%BE%E5%BC%83%E7%A4%BE%E4%BF%9D%E6%97%A0%E6%95%88)
-1. [防癌神药出厂价不到1块钱](https://www.zhihu.com/search?q=%E9%98%B2%E7%99%8C%E7%A5%9E%E8%8D%AF%E5%87%BA%E5%8E%82%E4%BB%B7%E4%B8%8D%E5%88%B01%E5%9D%97%E9%92%B1)
 1. [2人涉嫌操纵机器人猥亵并直播](https://www.zhihu.com/search?q=2%E4%BA%BA%E6%B6%89%E5%AB%8C%E6%93%8D%E7%BA%B5%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%8C%A5%E4%BA%B5%E5%B9%B6%E7%9B%B4%E6%92%AD)
+1. [防癌神药出厂价不到1块钱](https://www.zhihu.com/search?q=%E9%98%B2%E7%99%8C%E7%A5%9E%E8%8D%AF%E5%87%BA%E5%8E%82%E4%BB%B7%E4%B8%8D%E5%88%B01%E5%9D%97%E9%92%B1)
+1. [蔡天凤失踪前曾致电多人](https://www.zhihu.com/search?q=%E8%94%A1%E5%A4%A9%E5%87%A4%E5%A4%B1%E8%B8%AA%E5%89%8D%E6%9B%BE%E8%87%B4%E7%94%B5%E5%A4%9A%E4%BA%BA)
 1. [三部门调查尊界刹车踏板支架断裂问题](https://www.zhihu.com/search?q=%E4%B8%89%E9%83%A8%E9%97%A8%E8%B0%83%E6%9F%A5%E5%B0%8A%E7%95%8C%E5%88%B9%E8%BD%A6%E8%B8%8F%E6%9D%BF%E6%94%AF%E6%9E%B6%E6%96%AD%E8%A3%82%E9%97%AE%E9%A2%98)
 1. [男子出狱后发现50余万仅剩6.43元](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%90%E5%87%BA%E7%8B%B1%E5%90%8E%E5%8F%91%E7%8E%B050%E4%BD%99%E4%B8%87%E4%BB%85%E5%89%A96.43%E5%85%83)
+1. [女子持龙凤胎基因起诉已婚董事长](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E6%8C%81%E9%BE%99%E5%87%A4%E8%83%8E%E5%9F%BA%E5%9B%A0%E8%B5%B7%E8%AF%89%E5%B7%B2%E5%A9%9A%E8%91%A3%E4%BA%8B%E9%95%BF)
+1. [美国肯德基将改用可口可乐](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E8%82%AF%E5%BE%B7%E5%9F%BA%E5%B0%86%E6%94%B9%E7%94%A8%E5%8F%AF%E5%8F%A3%E5%8F%AF%E4%B9%90)
 1. [特斯拉 Roadster 亮相](https://www.zhihu.com/search?q=%E7%89%B9%E6%96%AF%E6%8B%89%20Roadster%20%E4%BA%AE%E7%9B%B8)
 
 <!-- END -->
