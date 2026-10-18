@@ -1,7 +1,7 @@
 [
   { "query_display": "自愿放弃社保无效", "real_query": "自愿放弃社保无效" },
-  { "query_display": "蔡天凤失踪前曾致电多人", "real_query": "蔡天凤失踪前曾致电多人" },
   { "query_display": "英伟达市值9天蒸发4万亿", "real_query": "英伟达市值9天蒸发4万亿" },
+  { "query_display": "蔡天凤失踪前曾致电多人", "real_query": "蔡天凤失踪前曾致电多人" },
   { "query_display": "特斯拉SpaceX大跌", "real_query": "特斯拉SpaceX大跌" },
   { "query_display": "防癌神药出厂价不到1块钱", "real_query": "防癌神药出厂价不到1块钱" },
   { "query_display": "法国发生近年来最严重暴力骚乱", "real_query": "法国发生近年来最严重暴力骚乱" },
@@ -10,6 +10,7 @@
   { "query_display": "班主任休产假遭家长质问一定要生孩子吗", "real_query": "班主任休产假遭家长质问一定要生孩子吗" },
   { "query_display": "冯远征苦恼招不到一米六几女演员", "real_query": "冯远征苦恼招不到一米六几女演员" },
   { "query_display": "DeepSeek宣布故障补偿方案", "real_query": "DeepSeek宣布故障补偿方案" },
+  { "query_display": "日美将举行近6万人联合军演", "real_query": "日美将举行近6万人联合军演" },
   { "query_display": "DeepSeek V4.1 Flash 发布新版本", "real_query": "DeepSeek V4.1 Flash 发布新版本" },
   { "query_display": "父亲遛狗幼童坠亡案母亲报案获受理", "real_query": "父亲遛狗幼童坠亡案母亲报案获受理" }
 ]
