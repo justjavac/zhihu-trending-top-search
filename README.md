@@ -14,31 +14,20 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Oct 30 2026 23:40:20 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Oct 31 2026 04:30:13 GMT+0800 (China Standard Time) -->
 
 1. [反诈博主徽剑被曝遇害](https://www.zhihu.com/search?q=%E5%8F%8D%E8%AF%88%E5%8D%9A%E4%B8%BB%E5%BE%BD%E5%89%91%E8%A2%AB%E6%9B%9D%E9%81%87%E5%AE%B3)
 1. [张雪称已将母亲拉黑](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%AA%E7%A7%B0%E5%B7%B2%E5%B0%86%E6%AF%8D%E4%BA%B2%E6%8B%89%E9%BB%91)
 1. [姆巴佩涉华不当言论](https://www.zhihu.com/search?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E6%B6%89%E5%8D%8E%E4%B8%8D%E5%BD%93%E8%A8%80%E8%AE%BA)
 1. [好奇岛装扮游戏](https://www.zhihu.com/search?q=%E5%A5%BD%E5%A5%87%E5%B2%9B%E8%A3%85%E6%89%AE%E6%B8%B8%E6%88%8F)
-1. [摆拍大体老师头骨的学生被处分](https://www.zhihu.com/search?q=%E6%91%86%E6%8B%8D%E5%A4%A7%E4%BD%93%E8%80%81%E5%B8%88%E5%A4%B4%E9%AA%A8%E7%9A%84%E5%AD%A6%E7%94%9F%E8%A2%AB%E5%A4%84%E5%88%86)
-1. [我军首型舰载察打一体隐身无人机](https://www.zhihu.com/search?q=%E6%88%91%E5%86%9B%E9%A6%96%E5%9E%8B%E8%88%B0%E8%BD%BD%E5%AF%9F%E6%89%93%E4%B8%80%E4%BD%93%E9%9A%90%E8%BA%AB%E6%97%A0%E4%BA%BA%E6%9C%BA)
-1. [「X教授」扮演者去世](https://www.zhihu.com/search?q=%E3%80%8CX%E6%95%99%E6%8E%88%E3%80%8D%E6%89%AE%E6%BC%94%E8%80%85%E5%8E%BB%E4%B8%96)
 1. [姆巴佩恐面临天文数字赔偿](https://www.zhihu.com/search?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E6%81%90%E9%9D%A2%E4%B8%B4%E5%A4%A9%E6%96%87%E6%95%B0%E5%AD%97%E8%B5%94%E5%81%BF)
-1. [高秀敏张少华肖像被印祭祀用品](https://www.zhihu.com/search?q=%E9%AB%98%E7%A7%80%E6%95%8F%E5%BC%A0%E5%B0%91%E5%8D%8E%E8%82%96%E5%83%8F%E8%A2%AB%E5%8D%B0%E7%A5%AD%E7%A5%80%E7%94%A8%E5%93%81)
-1. [中资网贷印度亏损70亿退场](https://www.zhihu.com/search?q=%E4%B8%AD%E8%B5%84%E7%BD%91%E8%B4%B7%E5%8D%B0%E5%BA%A6%E4%BA%8F%E6%8D%9F70%E4%BA%BF%E9%80%80%E5%9C%BA)
+1. [摆拍大体老师头骨的学生被处分](https://www.zhihu.com/search?q=%E6%91%86%E6%8B%8D%E5%A4%A7%E4%BD%93%E8%80%81%E5%B8%88%E5%A4%B4%E9%AA%A8%E7%9A%84%E5%AD%A6%E7%94%9F%E8%A2%AB%E5%A4%84%E5%88%86)
 1. [红果短剧跃升国内第四大App](https://www.zhihu.com/search?q=%E7%BA%A2%E6%9E%9C%E7%9F%AD%E5%89%A7%E8%B7%83%E5%8D%87%E5%9B%BD%E5%86%85%E7%AC%AC%E5%9B%9B%E5%A4%A7App)
-1. [辽宁一中学筛查肺结核多人共用针头](https://www.zhihu.com/search?q=%E8%BE%BD%E5%AE%81%E4%B8%80%E4%B8%AD%E5%AD%A6%E7%AD%9B%E6%9F%A5%E8%82%BA%E7%BB%93%E6%A0%B8%E5%A4%9A%E4%BA%BA%E5%85%B1%E7%94%A8%E9%92%88%E5%A4%B4)
+1. [中资网贷印度亏损70亿退场](https://www.zhihu.com/search?q=%E4%B8%AD%E8%B5%84%E7%BD%91%E8%B4%B7%E5%8D%B0%E5%BA%A6%E4%BA%8F%E6%8D%9F70%E4%BA%BF%E9%80%80%E5%9C%BA)
 1. [媒体称公共养老金无破产先例](https://www.zhihu.com/search?q=%E5%AA%92%E4%BD%93%E7%A7%B0%E5%85%AC%E5%85%B1%E5%85%BB%E8%80%81%E9%87%91%E6%97%A0%E7%A0%B4%E4%BA%A7%E5%85%88%E4%BE%8B)
-1. [谷歌美股开盘大跌超13%](https://www.zhihu.com/search?q=%E8%B0%B7%E6%AD%8C%E7%BE%8E%E8%82%A1%E5%BC%80%E7%9B%98%E5%A4%A7%E8%B7%8C%E8%B6%8513%25)
+1. [10月30日A股集体收跌](https://www.zhihu.com/search?q=10%E6%9C%8830%E6%97%A5A%E8%82%A1%E9%9B%86%E4%BD%93%E6%94%B6%E8%B7%8C)
+1. [辽宁一中学筛查肺结核多人共用针头](https://www.zhihu.com/search?q=%E8%BE%BD%E5%AE%81%E4%B8%80%E4%B8%AD%E5%AD%A6%E7%AD%9B%E6%9F%A5%E8%82%BA%E7%BB%93%E6%A0%B8%E5%A4%9A%E4%BA%BA%E5%85%B1%E7%94%A8%E9%92%88%E5%A4%B4)
 1. [上海一小区多名幼童裸体跑动](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E4%B8%80%E5%B0%8F%E5%8C%BA%E5%A4%9A%E5%90%8D%E5%B9%BC%E7%AB%A5%E8%A3%B8%E4%BD%93%E8%B7%91%E5%8A%A8)
-1. [西班牙高铁事故首份报告公布](https://www.zhihu.com/search?q=%E8%A5%BF%E7%8F%AD%E7%89%99%E9%AB%98%E9%93%81%E4%BA%8B%E6%95%85%E9%A6%96%E4%BB%BD%E6%8A%A5%E5%91%8A%E5%85%AC%E5%B8%83)
-1. [BLG 1-2 TES](https://www.zhihu.com/search?q=BLG%201-2%20TES)
-1. [曝有皇马高管甚至在看笑话](https://www.zhihu.com/search?q=%E6%9B%9D%E6%9C%89%E7%9A%87%E9%A9%AC%E9%AB%98%E7%AE%A1%E7%94%9A%E8%87%B3%E5%9C%A8%E7%9C%8B%E7%AC%91%E8%AF%9D)
-1. [毛不易婚礼致辞争议](https://www.zhihu.com/search?q=%E6%AF%9B%E4%B8%8D%E6%98%93%E5%A9%9A%E7%A4%BC%E8%87%B4%E8%BE%9E%E4%BA%89%E8%AE%AE)
-1. [蒋欣遭男设计师突然亲脖子](https://www.zhihu.com/search?q=%E8%92%8B%E6%AC%A3%E9%81%AD%E7%94%B7%E8%AE%BE%E8%AE%A1%E5%B8%88%E7%AA%81%E7%84%B6%E4%BA%B2%E8%84%96%E5%AD%90)
-1. [刘涛陈都灵疑遭咸猪手](https://www.zhihu.com/search?q=%E5%88%98%E6%B6%9B%E9%99%88%E9%83%BD%E7%81%B5%E7%96%91%E9%81%AD%E5%92%B8%E7%8C%AA%E6%89%8B)
-1. [女子欠1700元被限高公开照片](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E6%AC%A01700%E5%85%83%E8%A2%AB%E9%99%90%E9%AB%98%E5%85%AC%E5%BC%80%E7%85%A7%E7%89%87)
-1. [OpenAI宣布斩获三项重大科学突破](https://www.zhihu.com/search?q=OpenAI%E5%AE%A3%E5%B8%83%E6%96%A9%E8%8E%B7%E4%B8%89%E9%A1%B9%E9%87%8D%E5%A4%A7%E7%A7%91%E5%AD%A6%E7%AA%81%E7%A0%B4)
 
 <!-- END -->
 
