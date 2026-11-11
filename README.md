@@ -14,16 +14,24 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Nov 11 2026 10:34:55 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Nov 11 2026 18:28:25 GMT+0800 (China Standard Time) -->
 
-1. [黄渤自曝今年几乎没戏拍](https://www.zhihu.com/search?q=%E9%BB%84%E6%B8%A4%E8%87%AA%E6%9B%9D%E4%BB%8A%E5%B9%B4%E5%87%A0%E4%B9%8E%E6%B2%A1%E6%88%8F%E6%8B%8D)
+1. [比亚迪就大唐轮辋装配问题致歉](https://www.zhihu.com/search?q=%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%B0%B1%E5%A4%A7%E5%94%90%E8%BD%AE%E8%BE%8B%E8%A3%85%E9%85%8D%E9%97%AE%E9%A2%98%E8%87%B4%E6%AD%89)
 1. [疑似秦始皇儿子头骨面容被复原](https://www.zhihu.com/search?q=%E7%96%91%E4%BC%BC%E7%A7%A6%E5%A7%8B%E7%9A%87%E5%84%BF%E5%AD%90%E5%A4%B4%E9%AA%A8%E9%9D%A2%E5%AE%B9%E8%A2%AB%E5%A4%8D%E5%8E%9F)
-1. [BLG 3-1 T1](https://www.zhihu.com/search?q=BLG%203-1%20T1)
+1. [施工队为绕过钉子户直接抬高高速](https://www.zhihu.com/search?q=%E6%96%BD%E5%B7%A5%E9%98%9F%E4%B8%BA%E7%BB%95%E8%BF%87%E9%92%89%E5%AD%90%E6%88%B7%E7%9B%B4%E6%8E%A5%E6%8A%AC%E9%AB%98%E9%AB%98%E9%80%9F)
+1. [司美格鲁肽等减肥神药或致永久失明](https://www.zhihu.com/search?q=%E5%8F%B8%E7%BE%8E%E6%A0%BC%E9%B2%81%E8%82%BD%E7%AD%89%E5%87%8F%E8%82%A5%E7%A5%9E%E8%8D%AF%E6%88%96%E8%87%B4%E6%B0%B8%E4%B9%85%E5%A4%B1%E6%98%8E)
 1. [比亚迪大唐被曝前后轮毂装反](https://www.zhihu.com/search?q=%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%A4%A7%E5%94%90%E8%A2%AB%E6%9B%9D%E5%89%8D%E5%90%8E%E8%BD%AE%E6%AF%82%E8%A3%85%E5%8F%8D)
 1. [胖东来回应洗发水被指产地造假](https://www.zhihu.com/search?q=%E8%83%96%E4%B8%9C%E6%9D%A5%E5%9B%9E%E5%BA%94%E6%B4%97%E5%8F%91%E6%B0%B4%E8%A2%AB%E6%8C%87%E4%BA%A7%E5%9C%B0%E9%80%A0%E5%81%87)
+1. [RTX5080暴跌4000元](https://www.zhihu.com/search?q=RTX5080%E6%9A%B4%E8%B7%8C4000%E5%85%83)
+1. [曝携程产品前端后端运营合并](https://www.zhihu.com/search?q=%E6%9B%9D%E6%90%BA%E7%A8%8B%E4%BA%A7%E5%93%81%E5%89%8D%E7%AB%AF%E5%90%8E%E7%AB%AF%E8%BF%90%E8%90%A5%E5%90%88%E5%B9%B6)
+1. [余承东官宣华为子品牌星芒](https://www.zhihu.com/search?q=%E4%BD%99%E6%89%BF%E4%B8%9C%E5%AE%98%E5%AE%A3%E5%8D%8E%E4%B8%BA%E5%AD%90%E5%93%81%E7%89%8C%E6%98%9F%E8%8A%92)
+1. [丈夫与第三者做试管立案被驳回](https://www.zhihu.com/search?q=%E4%B8%88%E5%A4%AB%E4%B8%8E%E7%AC%AC%E4%B8%89%E8%80%85%E5%81%9A%E8%AF%95%E7%AE%A1%E7%AB%8B%E6%A1%88%E8%A2%AB%E9%A9%B3%E5%9B%9E)
+1. [拜登遇袭](https://www.zhihu.com/search?q=%E6%8B%9C%E7%99%BB%E9%81%87%E8%A2%AD)
+1. [知乎好奇岛装扮游戏](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E5%A5%BD%E5%A5%87%E5%B2%9B%E8%A3%85%E6%89%AE%E6%B8%B8%E6%88%8F)
+1. [黄渤自曝今年几乎没戏拍](https://www.zhihu.com/search?q=%E9%BB%84%E6%B8%A4%E8%87%AA%E6%9B%9D%E4%BB%8A%E5%B9%B4%E5%87%A0%E4%B9%8E%E6%B2%A1%E6%88%8F%E6%8B%8D)
+1. [BLG 3-1 T1](https://www.zhihu.com/search?q=BLG%203-1%20T1)
 1. [英伟达黄仁勋遭股东集体诉讼](https://www.zhihu.com/search?q=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E9%BB%84%E4%BB%81%E5%8B%8B%E9%81%AD%E8%82%A1%E4%B8%9C%E9%9B%86%E4%BD%93%E8%AF%89%E8%AE%BC)
 1. [扬州地震](https://www.zhihu.com/search?q=%E6%89%AC%E5%B7%9E%E5%9C%B0%E9%9C%87)
-1. [知乎好奇岛装扮游戏](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E5%A5%BD%E5%A5%87%E5%B2%9B%E8%A3%85%E6%89%AE%E6%B8%B8%E6%88%8F)
 1. [「花坛藏尸案」一审宣判](https://www.zhihu.com/search?q=%E3%80%8C%E8%8A%B1%E5%9D%9B%E8%97%8F%E5%B0%B8%E6%A1%88%E3%80%8D%E4%B8%80%E5%AE%A1%E5%AE%A3%E5%88%A4)
 1. [英伟达突发史上最大GPU盗窃案](https://www.zhihu.com/search?q=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%AA%81%E5%8F%91%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7GPU%E7%9B%97%E7%AA%83%E6%A1%88)
 1. [国家政策首提失业缓冲期应对AI](https://www.zhihu.com/search?q=%E5%9B%BD%E5%AE%B6%E6%94%BF%E7%AD%96%E9%A6%96%E6%8F%90%E5%A4%B1%E4%B8%9A%E7%BC%93%E5%86%B2%E6%9C%9F%E5%BA%94%E5%AF%B9AI)
