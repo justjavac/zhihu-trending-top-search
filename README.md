@@ -14,19 +14,24 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Nov 14 2026 10:00:29 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Nov 14 2026 17:53:51 GMT+0800 (China Standard Time) -->
 
 1. [RTX5080暴跌4000元](https://www.zhihu.com/search?q=RTX5080%E6%9A%B4%E8%B7%8C4000%E5%85%83)
 1. [美国所有航班暂停起飞](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E6%89%80%E6%9C%89%E8%88%AA%E7%8F%AD%E6%9A%82%E5%81%9C%E8%B5%B7%E9%A3%9E)
-1. [拜登遇袭](https://www.zhihu.com/search?q=%E6%8B%9C%E7%99%BB%E9%81%87%E8%A2%AD)
+1. [曝英伟达临时CEO是制衡黄仁勋重要力量](https://www.zhihu.com/search?q=%E6%9B%9D%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%B8%B4%E6%97%B6CEO%E6%98%AF%E5%88%B6%E8%A1%A1%E9%BB%84%E4%BB%81%E5%8B%8B%E9%87%8D%E8%A6%81%E5%8A%9B%E9%87%8F)
+1. [百万CAR-T药物降至30万进医保](https://www.zhihu.com/search?q=%E7%99%BE%E4%B8%87CAR-T%E8%8D%AF%E7%89%A9%E9%99%8D%E8%87%B330%E4%B8%87%E8%BF%9B%E5%8C%BB%E4%BF%9D)
+1. [江苏多地整改高中生超长待机](https://www.zhihu.com/search?q=%E6%B1%9F%E8%8B%8F%E5%A4%9A%E5%9C%B0%E6%95%B4%E6%94%B9%E9%AB%98%E4%B8%AD%E7%94%9F%E8%B6%85%E9%95%BF%E5%BE%85%E6%9C%BA)
 1. [黄仁勋再被曝出轨前高管](https://www.zhihu.com/search?q=%E9%BB%84%E4%BB%81%E5%8B%8B%E5%86%8D%E8%A2%AB%E6%9B%9D%E5%87%BA%E8%BD%A8%E5%89%8D%E9%AB%98%E7%AE%A1)
 1. [黄仁勋为什么突然辞职](https://www.zhihu.com/search?q=%E9%BB%84%E4%BB%81%E5%8B%8B%E4%B8%BA%E4%BB%80%E4%B9%88%E7%AA%81%E7%84%B6%E8%BE%9E%E8%81%8C)
-1. [SpaceX星舰第15次试飞](https://www.zhihu.com/search?q=SpaceX%E6%98%9F%E8%88%B0%E7%AC%AC15%E6%AC%A1%E8%AF%95%E9%A3%9E)
-1. [网传腾讯裁员20%](https://www.zhihu.com/search?q=%E7%BD%91%E4%BC%A0%E8%85%BE%E8%AE%AF%E8%A3%81%E5%91%9820%25)
+1. [黄仁勋被建议回中国发展](https://www.zhihu.com/search?q=%E9%BB%84%E4%BB%81%E5%8B%8B%E8%A2%AB%E5%BB%BA%E8%AE%AE%E5%9B%9E%E4%B8%AD%E5%9B%BD%E5%8F%91%E5%B1%95)
 1. [交大医学院基因编辑事件官方通报](https://www.zhihu.com/search?q=%E4%BA%A4%E5%A4%A7%E5%8C%BB%E5%AD%A6%E9%99%A2%E5%9F%BA%E5%9B%A0%E7%BC%96%E8%BE%91%E4%BA%8B%E4%BB%B6%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5)
+1. [SpaceX星舰第15次试飞](https://www.zhihu.com/search?q=SpaceX%E6%98%9F%E8%88%B0%E7%AC%AC15%E6%AC%A1%E8%AF%95%E9%A3%9E)
+1. [黄仁勋在英伟达的最后数小时](https://www.zhihu.com/search?q=%E9%BB%84%E4%BB%81%E5%8B%8B%E5%9C%A8%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%9A%84%E6%9C%80%E5%90%8E%E6%95%B0%E5%B0%8F%E6%97%B6)
+1. [DeepSeek发布全家桶应用API](https://www.zhihu.com/search?q=DeepSeek%E5%8F%91%E5%B8%83%E5%85%A8%E5%AE%B6%E6%A1%B6%E5%BA%94%E7%94%A8API)
+1. [拜登遇袭](https://www.zhihu.com/search?q=%E6%8B%9C%E7%99%BB%E9%81%87%E8%A2%AD)
+1. [网传腾讯裁员20%](https://www.zhihu.com/search?q=%E7%BD%91%E4%BC%A0%E8%85%BE%E8%AE%AF%E8%A3%81%E5%91%9820%25)
 1. [微软就全球服务中断致歉](https://www.zhihu.com/search?q=%E5%BE%AE%E8%BD%AF%E5%B0%B1%E5%85%A8%E7%90%83%E6%9C%8D%E5%8A%A1%E4%B8%AD%E6%96%AD%E8%87%B4%E6%AD%89)
 1. [2027年考研报名人数347万](https://www.zhihu.com/search?q=2027%E5%B9%B4%E8%80%83%E7%A0%94%E6%8A%A5%E5%90%8D%E4%BA%BA%E6%95%B0347%E4%B8%87)
-1. [黄仁勋在英伟达的最后数小时](https://www.zhihu.com/search?q=%E9%BB%84%E4%BB%81%E5%8B%8B%E5%9C%A8%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%9A%84%E6%9C%80%E5%90%8E%E6%95%B0%E5%B0%8F%E6%97%B6)
 1. [大学保研举报现象频发](https://www.zhihu.com/search?q=%E5%A4%A7%E5%AD%A6%E4%BF%9D%E7%A0%94%E4%B8%BE%E6%8A%A5%E7%8E%B0%E8%B1%A1%E9%A2%91%E5%8F%91)
 1. [知乎智能搜索全新上线](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E6%99%BA%E8%83%BD%E6%90%9C%E7%B4%A2%E5%85%A8%E6%96%B0%E4%B8%8A%E7%BA%BF)
 1. [库克被提名为黄仁勋潜在继任者](https://www.zhihu.com/search?q=%E5%BA%93%E5%85%8B%E8%A2%AB%E6%8F%90%E5%90%8D%E4%B8%BA%E9%BB%84%E4%BB%81%E5%8B%8B%E6%BD%9C%E5%9C%A8%E7%BB%A7%E4%BB%BB%E8%80%85)
