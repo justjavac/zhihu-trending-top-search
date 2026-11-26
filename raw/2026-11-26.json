@@ -1,14 +1,17 @@
 [
+  { "query_display": "美军受控引爆5吨劣化叠氮化铅", "real_query": "美军受控引爆5吨劣化叠氮化铅" },
   { "query_display": "余文乐自曝躯体化严重到不能开车", "real_query": "余文乐自曝躯体化严重到不能开车" },
-  { "query_display": "黄仁勋恢复英伟达总裁CEO职务", "real_query": "黄仁勋恢复英伟达总裁CEO职务" },
   { "query_display": "DeepSeek调整API定价", "real_query": "DeepSeek调整API定价" },
   { "query_display": "年轻人开始劝父母卖县城空房", "real_query": "年轻人开始劝父母卖县城空房" },
+  { "query_display": "蔡磊已进渐冻症终末期", "real_query": "蔡磊已进渐冻症终末期" },
+  { "query_display": "黄仁勋恢复英伟达总裁CEO职务", "real_query": "黄仁勋恢复英伟达总裁CEO职务" },
   { "query_display": "上海大学生宿舍坠亡两日后被发现", "real_query": "上海大学生宿舍坠亡两日后被发现" },
-  { "query_display": "美媒称黄仁勋常态化羞辱员工", "real_query": "美媒称黄仁勋常态化羞辱员工" },
   { "query_display": "神舟二十四号发射任务", "real_query": "神舟二十四号发射任务" },
-  { "query_display": "AI证明黎曼猜想", "real_query": "AI证明黎曼猜想" },
-  { "query_display": "黎曼猜想证明被Lean社区确认", "real_query": "黎曼猜想证明被Lean社区确认" },
   { "query_display": "网传Anthropic称质因数分解属P", "real_query": "网传Anthropic称质因数分解属P" },
+  { "query_display": "AI证明黎曼猜想", "real_query": "AI证明黎曼猜想" },
   { "query_display": "两届炒股大赛冠军破产", "real_query": "两届炒股大赛冠军破产" },
+  { "query_display": "斗鱼及创始人被执行1.9亿余元", "real_query": "斗鱼及创始人被执行1.9亿余元" },
+  { "query_display": "美媒称黄仁勋常态化羞辱员工", "real_query": "美媒称黄仁勋常态化羞辱员工" },
+  { "query_display": "黎曼猜想证明被Lean社区确认", "real_query": "黎曼猜想证明被Lean社区确认" },
   { "query_display": "绿灯太快残疾男子跑不迭被撞身亡", "real_query": "绿灯太快残疾男子跑不迭被撞身亡" }
 ]
